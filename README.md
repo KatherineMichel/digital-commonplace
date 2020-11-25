@@ -3,188 +3,27 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://twitter.com/dharden/status/1271540183402295296 | Dan Harden 🌿 on Twitter: "taking a few minutes to stretch in the morning has, legitimately, changed my life in past year" / Twitter
+http://www.drvondawright.com/fitness-after-40/
 
-1 minute breathing exercise
-https://www.google.com/search?source=hp&ei=GjdUX8HDNoKt0PEPoseoiAY&q=breathing+exercise&oq=brea&gs_lcp=ChFtb2JpbGUtZ3dzLXdpei1ocBABGAAyAggpMggIABCxAxCDATIFCAAQkgMyBQgAEJIDMgUIABCxAzIFCAAQsQMyBQguELEDMgUIABCxAzICCC46CAguELEDEIMBOgIIAEoFCBISATFQ8wpYshBgwiFoAHAAeACAAb0BiAHnBJIBAzAuNJgBAKABAbABCA&sclient=mobile-gws-wiz-hp
+https://www.penguinrandomhouse.com/books/606199/the-xx-brain-by-lisa-mosconi-phd-foreword-by-maria-shriver/ | The XX Brain by Lisa Mosconi PhD: 9780593083116 | PenguinRandomHouse.com: Books
 
-Fitness
-https://www.reddit.com/user/GovSchwarzenegger/comments/flz3es/stay_at_home_stay_fit
-https://twitter.com/schwarzenegger/status/1241057328520036353?s=21
-
-Eyes
-http://www.glassesoff.com/
-http://www.aaronsw.com/weblog/001083 | Eye Exercises (Aaron Swartz: The Weblog)
-https://dev.to/sarthology/the-definitive-guide-to-protecting-your-eyes-for-developers-22jm | The Definitive Guide To Protecting Your Eyes For Developers👀 - DEV Community 👩‍💻👨‍💻
-
-Foam Roller
-https://twitter.com/webology/status/1314404582789918722
-
-Why We Sleep
-https://www.amazon.com/dp/B0752XRB5F/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life | https://supermemo.guru/wiki/Good_sleep,_good_learning,_good_life
-
-Hands free
-https://twitter.com/JoshWComeau/status/1316809020301246466 | 🎃 Josh-o-lantern on Twitter: "As some of y'all know, I've been coding hands-free for a while now. I'll be releasing a blog post about it soon, but here's a quick sneak peak! (Sound on plz! 🔊) https://t.co/EHfXhZF9pz" / Twitter
-https://twitter.com/marktnoonan/status/1317286009575452678 | Mark Noonan on Twitter: "I don’t know how I thought programming with your voice would sound, but I didn’t think it would sound like this, very cool." / Twitter
-https://joshwcomeau.com/accessibility/hands-free-coding/ | Coding with voice dictation using Talon Voice · Josh W Comeau
-
-https://www.amazon.com/dp/1501197274/ref=cm_sw_r_cp_apa_i_HP7xFbKXD4AWC | Amazon.com: The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness (9781501197277): Kishimi, Ichiro, Koga, Fumitake: Books
-
-Casey
-https://booksummaryclub.com/dare-to-lead-summary/ | Brene Brown: Dare To Lead Summary - Book Summary Club
-
-https://www.amazon.com/Good-They-Cant-Ignore-You/dp/1455509124/ref=as_li_ss_tl
-
-https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
-
-Great Quote
-https://twitter.com/RyanHoliday/status/1072966880380551171 | Ryan Holiday on Twitter: ""It is impossible to produce superior performance unless you do something different." John Templeton"
-https://twitter.com/JackieKazil/status/1277250345236860929 | Jackie wears a on Twitter: "A major motivator doing or completing the for the hardest things in life is spite." / Twitter
-
-https://twitter.com/pwang/status/1274340328091377664 | Peter Wang on Twitter: "“Do the real thing.” Great advice. Esp since social media rewards people for bleating on about the stuff they’re in the midst of planning to try, etc. Just do the real thing. https://t.co/sRre9jZ00h" / Twitter
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
-https://www.fs.blog/2012/10/the-red-queen-effect/ | The Red Queen Principle: Avoid Running Faster and Faster Only to Stay in the Same Place
-
-Don’t Mistake Activity for Progress
-https://www.youtube.com/watch?v=0MM-psvqiG8&feature=youtu.be | The difference between winning and succeeding | John Wooden - YouTube
 https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
-https://steveblank.com/2009/11/09/relentless-%E2%80%93-the-difference-between-motion-and-action/ | Relentless – The Difference Between Motion And Action | Steve Blank
-https://steveblank.com/2018/04/03/the-difference-between-innovators-and-entrepreneurs/ | Steve Blank The Difference Between Innovators and Entrepreneurs
-http://togelius.blogspot.com/2016/04/the-differences-between-tinkering-and.html | Togelius: The differences between tinkering and research
 
+https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
 
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-Learning how to learn
-https://twitter.com/Fox0x01/status/1238636236962779136
-
-https://twitter.com/JamesClear/status/1292574538912456707 | James Clear on Twitter: "I have a suspicion that most adults (75%+) could pick any skill—excluding sports—and work their way into the top 10% in the world simply by working exclusively on it every day for two years. But almost nobody displays that degree of focus, so we will never know." / Twitter
-https://twitter.com/MissGallo/status/1302625930037395456
-https://twitter.com/nibrasibn/status/1302254751011213314
-https://twitter.com/mkobach/status/1305329747006754817
-https://twitter.com/jowyang/status/1297923146050199552
-
-Sarah
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-Take on the most challenging problem first
-https://twitter.com/rabois/status/1309127818966638592 | Keith Rabois on Twitter: "This is probably the most important advice that many find counter-intuitive." / Twitter
-
-Progress
-https://twitter.com/polotek/status/1294150617389121536
-https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
-
-https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
-
-Deep Work
-
-Prioritization
-https://twitter.com/hunterwalk/status/1294699190585454592
-
-Checklist Manifesto
-
-http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
-
-https://discordapp.com
-https://substack.com/ | Substack
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-https://hackerone.com/
-https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
-https://calendly.com/ | Free Online Appointment Scheduling Software - Calendly
-https://carrd.co/ | Carrd - Simple, free, fully responsive one-page sites for pretty much anything
-https://builtwith.carrd.co/ | Built with Carrd
-
+* Atomic Habits
+* Deep Work
+* Checklist Manifesto
+* Maker's Schedule/Manager's Schedule
 
 ## Conferences
 
-September 11-13
-https://www.german-russians.info/
-
-DevICT
-https://www.grooverlabs.org/events | Events | Groover Labs
-https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-https://www.meetup.com/pythonsd/
-https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
-
-https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
-
-SF Python
-https://www.youtube.com/c/SFPython/videos
-https://www.meetup.com/sfpython/
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/
-https://www.meetup.com/sfpython/events/xkwxvqybcmbmb/attendees/ | Attendees | Learn more about Web Services | Meetup
-https://twitter.com/pyladiessf
-
-https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/events/271678803/ | Virtual Django Meetup | Meetup
-https://twitter.com/sfdjangomeetup
-https://twitter.com/sfdjangomeetup/status/1288711058639601664
-https://twitter.com/sfdjangomeetup/following
-
-https://www.meetup.com/PyLadiesSF/events/258901277/ | Massages, Smoothies, and Projects Night | Meetup
-https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
-
-SF, Seattle, Vancouver
-https://twitter.com/wwcsf | https://twitter.com/wwcsf
-https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
-
-October 29
-https://www.meetup.com/Miami-PyLadies/events/273725738/
-
-https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
-
-
-https://pyvideo.org/ | PyVideo.org
-
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-
-Wagtail
-https://www.caktusgroup.com/blog/2019/08/05/making-space-wagtail/
+https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
 
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
-
-Bazel
-https://app.slack.com/client/TA4K1KQ87/CA31HN1T3
-
-Patterns conference
-https://twitter.com/Grady_Booch/status/1310774814215294977 | Grady Booch on Twitter: "Signal boost!" / Twitter
-
-https://slidesgo.com/editors-choice
-
-October 6
-https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
-https://www.meetup.com/Code-for-Philly/events/273595264/
-https://drive.google.com/file/d/1KADdmnjeC14d3fIaP7sWDAMj9ZzDksf1/view
-https://slidesgo.com/
-https://www.flaticon.com/
-https://www.freepik.com/
-https://stories.forpeople.studio/
-
-
-https://global.pydata.org/pages/schedule
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
-https://forum.numfocus.org/pydata-global/channels/town-square
-
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
-
-Every Friday
-https://twitter.com/Speakeasy_JS/
 
 December 8-10
 https://githubuniverse.com/
@@ -192,7 +31,64 @@ https://githubuniverse.com/
 https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
 https://www.youtube.com/pytexas
 
+DevICT
+https://www.grooverlabs.org/events | Events | Groover Labs
+https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
+
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+
+https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
+
+SF Python
+https://www.youtube.com/c/SFPython/videos
+https://www.meetup.com/sfpython/
+https://www.meetup.com/PyLadiesSF/
+https://twitter.com/pyladiessf
+https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
+
+SF Python Meetup Slack
+https://app.slack.com/client/T0CTW6ES0/C0CTW76R1
+https://sfpythonmeetup.slack.com/
+
+SF Django
+https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/
+https://twitter.com/sfdjangomeetup
+
+Django London
+https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
+
+PyLadies Florida
+https://www.meetup.com/PyLadies-SWFL/ | PyLadies SWFL (Naples, FL) | Meetup
+https://www.meetup.com/Miami-PyLadies/
+
+San Diego Python
+https://www.meetup.com/pythonsd/
+https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
+
+Seattle PyLadies
+https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
+
+Women Who Code SF
+https://twitter.com/wwcsf | https://twitter.com/wwcsf
+
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+
+https://pyvideo.org/ | PyVideo.org
+
+https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://www.python.org/events/python-events/past/?page=2
+
+PyCon
+https://us.pycon.org/2020/remote/
+https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
+https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
+
+https://global.pydata.org/pages/schedule
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+https://forum.numfocus.org/pydata-global/channels/town-square
+
+
 
 
 ## DevRel
@@ -222,6 +118,7 @@ https://about.gitlab.com/handbook/marketing/developer-relations/developer-advoca
 
 https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
 
+
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
@@ -230,7 +127,45 @@ https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
 
 
+
 ## Personal Brand
+
+Brian Douglas
+https://twitter.com/bdougieYO
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+
+Speaking
+https://automationpanda.com/speaking/
+
+2020 Goals
+https://twitter.com/AutomationPanda/status/1226591212632596480
+
+Wow
+https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
+
+MSc
+https://twitter.com/NimaRoohiS/status/1312916303225729026
+
+Brag documents
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
+https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
+
+Accomplishments versus responsibilities
+https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
+
+DSF Fellow Stats
+https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
+
+LinkedIn
+https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
+
+
+
 
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
@@ -240,36 +175,21 @@ https://thestartingidea.com/personal-branding-guide/
 
 https://docs.google.com/presentation/d/1df5MALZKZU6lOeIXUiO-h6ReFM3KuIpnapSE97IZnX4/present?slide=id.p | Hi. I’m Roy. - Google Slides
 
-Brian
-https://twitter.com/bdougieYO/status/1310952814328377345 | Brian Douglas on Twitter: "I made a video about my first open-source contribution. Hope it is helpful for #Hacktoberfest friends. https://t.co/Ddfo1d0YWR" / Twitter
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
-https://www.meetup.com/Open-Sauced-Meetup/events/273235053/
-https://twitter.com/saucedopen/status/1316738744934752256 | Open Sauced on Twitter: "In 30mins we will be live at https://t.co/UBUBCQgUwE talking about contributing to open source. https://t.co/C0HOXUmqma" / Twitter
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
-https://twitter.com/bdougieYO/status/1308446624092311553 | Brian Douglas on Twitter: "Join me this Friday to learn how to contribute to open source." / Twitter
-
-Speaking
-https://automationpanda.com/2018/05/21/the-pandas-dozen-top-pycon-2018-talks/
-https://speakerdeck.com/pycon2018?page=2
-https://automationpanda.com/speaking/
-https://automationpanda.com/2018/10/29/pygotham-2018-reflections/ | PyGotham 2018 Reflections | Automation Panda
-
-2020 Goals
-https://twitter.com/AutomationPanda/status/1226591212632596480
-
 https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
 
 https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
 
-https://awesomeblog.club/ | Awesomeblog.club - explore
-https://github.com/emmabostian/developer-portfolios | emmabostian/developer-portfolios: A list of developer portfolios for your inspiration
-https://twitter.com/AriannaSimpson/status/1181752534798610432 | Arianna Simpson on Twitter: "What are some examples of truly excellent personal websites?" / Twitter
-http://www.hawraf.com/
-
 https://leerob.io/blog/how-stripe-designs-beautiful-websites
 
 
+
+https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
+
+
+
 ## People and Places
+
+https://twitter.com/i/lists/1216283681167265792 | @Scobleizer/Top Shelf in Tech (1) on Twitter / Twitter
 
 https://twitter.com/natfriedman/following
 https://twitter.com/i/lists/1294427753782140928
@@ -300,6 +220,29 @@ https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomeninte
 
 ## Opportunities
 
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+
+https://slidesgo.com/editors-choice
+
+October 6
+https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
+https://www.meetup.com/Code-for-Philly/events/273595264/
+https://drive.google.com/file/d/1KADdmnjeC14d3fIaP7sWDAMj9ZzDksf1/view
+https://slidesgo.com/
+https://www.flaticon.com/
+https://www.freepik.com/
+https://stories.forpeople.studio/
+
+Speaking at Vancouver PyLadies
+https://www.meetup.com/PyLadies-Vancouver/events/273584092/
+https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
+
+Speaking at SF Python
+https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
+
+
+
+
 https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
 
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
@@ -321,18 +264,8 @@ https://bugs.python.org/issue33649
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
 
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 
-Important
-https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
 
-Speaking at Vancouver PyLadies
-https://www.meetup.com/PyLadies-Vancouver/events/273584092/
-https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
-
-https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
-
-https://twitter.com/pganssle/status/1315423703631638529 | Paul Ganssle on Twitter: "WTF? Unsplash switched (apparently silently) from being a repository of CC-0 stock photos to using some semi-proprietary license that is not compatible with CC licenses! Anyone have a good replacement and/or an archive of the photos released in the CC-0 days?" / Twitter
 
 
 ## To Do
@@ -419,54 +352,6 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-
-## Career
-
-Career
-* Move Twitter and other contacts into Airtable
-* Brag document
-* Weekly/monthly updates
-* Stuff I did/annual review
-* DevRel Protip
-* 10X Engineers
-
-* Happy Moment
-* Speaker bio (Notist?)
-
-* Ask Me Anything (AMA)
-* Manager README
-
-Adrienne... "Read what some of my direct reports had to say."
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-https://stevecheney.com/on-how-to-be-discovered/ | On How to be Discovered | steve cheney – technology, business & strategy
-
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
-
-https://blog.burntsushi.net/foss/
-https://www.paulox.net/2019/03/03/my-involvement-in-the-python-community/ | PauLoX – My involvement in the Python community
-
-https://news.ycombinator.com/item?id=19413348 | Ask HN: What do recruiters look for in a GitHub profile? | Hacker News
-
-Mine
-https://twitter.com/i/moments/edit/1142878981437308928 | Edit Moment: Happy Moments
-https://twitter.com/aows/status/980974760304750594 | adrian on Twitter: "Moment with some of my images so I can pin it https://t.co/r8c8KITtll"
-
-Wow
-https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
-https://twitter.com/adriennefriend/status/957944123876573184 | adriennefriend on Twitter: "Thank you so much! Anything in particular you're curious about, or just of any/all of it?!… "
-
-https://twitter.com/NimaRoohiS/status/1312916303225729026
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
-
-LinkedIn
-https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
 ## Demos and Other Content
@@ -1207,6 +1092,32 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
+<!--
+Learning mental models
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+
+Learning how to learn
+https://twitter.com/Fox0x01/status/1238636236962779136
+
+Sarah
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+Progress
+https://twitter.com/polotek/status/1294150617389121536
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
+
+Prioritization
+https://twitter.com/hunterwalk/status/1294699190585454592
+
+http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
+-->
 
 ## Eldarion
 
@@ -1214,8 +1125,6 @@ https://github.com/carljm/dotfiles
 
 <!--
 https://twitter.com/tucker_dev/status/1287427626899038210 | James Tucker on Twitter: "4 things you can do to make your Github shine during your job search 1. Add a profile readme 2. Pin your favorite or most impressive projects 3. Add readmes to them 4. Create gifs of your projects and add them to your readmes" / Twitter
-
-https://twitter.com/hmason/status/1210595499683831808 | Hilary Mason on Twitter: "This! Years ago someone told me that if you do four hours of excellent work, you should stop for the day. It's turned out to be some of the best advice I've received. (And it's a rare day that I manage even four hours of excellent work.) https://t.co/eSH55OaHmb" / Twitter
 
 https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
 -->
@@ -1268,6 +1177,7 @@ https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.c
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 -->
 
+<!--
 ## Website and Blog Resources
 ## Shortcuts
 ## Visual Studio Code
@@ -1280,6 +1190,7 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 ## Python- What's New
 ## To Read- Python Packaging
 ## To Read- Python Release
+-->
 
 <!--
 https://docs.djangoproject.com/en/dev/internals/contributing/
