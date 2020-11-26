@@ -245,6 +245,7 @@ https://bugs.python.org/issue33649
 
 Season of Docs- Django
 https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
 
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
@@ -578,6 +579,17 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 <!--
 ## Of Interest
 
+https://github.com/mmmonteiro/designethics/blob/master/en_US.m
+https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
+
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+
 https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
 https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
 https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
@@ -587,8 +599,12 @@ https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba435
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
 
-http://githubengineering.com/the-github-graphql-api/
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
 
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
 
 
 ## Community
@@ -620,59 +636,7 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 
-
-## Important
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
-
-
-
-Deployment
-https://twitter.com/rashiq/status/1319462542163496960 | rashiq on Twitter: "it's incredible to me that a $5 digital ocean box can serve traffic for 200k unique visitors and yet there's startups out there who deploy their landing pages with kubectl" / Twitter
-
-
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-
-Mac Scrips
-https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
-
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-https://github.com/mmmonteiro/designethics/blob/master/en_US.m
-https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
-
-
-Martin
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
-
-Interesting
-https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
-
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
-
-
-
 ## Makers and Projects
-
-Julia
-https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
-https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
 
 https://github.com/mikeal | mikeal (Mikeal Rogers)
 
@@ -687,6 +651,15 @@ https://github.com/producthunt/producthunt-chrome-extension | producthunt/produc
 
 
 ## Open Source
+
+Kenneth
+https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
+
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
+
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
 
@@ -747,11 +720,21 @@ https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Boo
 Extract till you drop
 https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
 
+
 ## Look Through
 
 Julia Evans
+https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
+https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
 
 Unix and bash
+
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
 
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
@@ -792,15 +775,6 @@ https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | R
 
 
 vscode html css support - Google Search
-
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
 
 Mac
@@ -858,6 +832,18 @@ https://prestodb.io/
 
 https://en.wikipedia.org/wiki/POSIX
 https://pop.system76.com/
+
+
+Mac Scrips
+https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
+
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+Martin
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
+
+Interesting
+https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
 
 
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
@@ -1115,15 +1101,6 @@ http://sijinjoseph.com/programmer-competency-matrix/
 
 software development competency framework
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-
-https://github.com/VGraupera/1on1-questions
-
-Enineering manager
-https://medium.com/inside-plato/plato-event-2-part-2-6-what-you-should-not-do-as-an-engineering-manager-f30f9dece6f5
-
-https://github.com/dmleong/manager-resources
-https://github.com/ksindi/managers-playbook | ksindi/managers-playbook: Heuristics for effective management
 -->
 
 <!--
@@ -1227,6 +1204,8 @@ https://twitter.com/melsmo/status/1313180759889305601
 -->
 
 <!--
+Testing
+
 https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
 
 JS Scene
@@ -1366,8 +1345,6 @@ https://en.wikipedia.org/wiki/User_experience_design
 https://opensourcesurvey.org/2017/
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 
@@ -1408,6 +1385,9 @@ https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitt
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
 
 https://github.com/github/docs
+
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
 
 React
 https://reactjs.org/blog/
@@ -2458,8 +2438,7 @@ https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstr
 Recommendation
 https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
 
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
+
 https://css-tricks.com/learning-to-learn/
 
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
@@ -2538,28 +2517,10 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 -->
 
 
-<!--
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
-
-
-Heroku and Node
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-
-Heroku and Python/Django
-https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
-https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
-
-Important
-https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
-https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
-
-https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
--->
-
-## Django Tutorials and Templates
 
 <!--
+Non-Python
+
 Clones
 https://github.com/techreagan?tab=repositories
 https://github.com/techreagan/youtube-clone-nodejs-api
@@ -2582,15 +2543,88 @@ https://github.com/nice-boys/product-boilerplate
 Hackathon Starters
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/DrkSephy/django-hackathon-starter
+-->
+
+<!--
+Django Tutorials
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+-->
+
+<!--
+Python Projects and Packages
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+-->
 
 
+<!--
+Deployment
+
+https://sphinx-themes.org/
+https://sphinx-themes.org/html/default/alabaster/index.html
+
+Heroku and Node
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Important
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
+
+https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
+
+
+Heroku and Python/Django
+https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
+-->
+
+## Django Tutorials and Templates
+
+<!--
+Django + React/Node
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
+https://github.com/divio/react-boilerplate
+https://github.com/divio/node-boilerplate
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+-->
+
+<!--
 Django Templates
 
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
 Divio
+https://docs.divio.com/en/latest/introduction/#introduction
+https://docs.divio.com/en/latest/how-to/django-create-deploy/
 https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
+https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
+
+
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
 https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
 
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
 https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
@@ -2605,26 +2639,6 @@ https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-djan
 https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 
-
-Tutorials
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
-https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-
 Django/React Project Tutorials
 https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
 https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
@@ -2633,17 +2647,6 @@ https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An
 https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
 
 
-Django + React/Node
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://github.com/divio/react-boilerplate
-https://github.com/divio/node-boilerplate
-
-https://github.com/fcurella/django-channels-react-redux
-https://github.com/channels-frontend/django_redux
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
 
 
 Django Templates
@@ -2662,18 +2665,23 @@ https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boile
 https://github.com/cfpb/
 
 
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
 
 https://github.com/jpadilla/django-project-template
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://jpadilla.github.io/django-project-template/
+
+Deprecated
 https://github.com/jpadilla/django-rest-framework-jwt
+https://github.com/jpadilla/django-rest-framework-jwt/issues/484
 
 
 https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
+https://wemake-django-template.readthedocs.io/en/latest/
 
 https://github.com/wemake-services/wemake-python-styleguide
+https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
 
+Cookiiecutter
 https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
 wemake-services/dotenv-linter - Google Search
 https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
@@ -2681,13 +2689,19 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 -->
 
+
+<!--
+Channels stuff
+https://github.com/fcurella/django-channels-react-redux
+https://github.com/channels-frontend/django_redux
+-->
+
+
 ## Django Organization Tools
 
 <!--
 Lincoln Loop Stack
 High Performance Django Stack
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
 https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
 
@@ -2716,7 +2730,6 @@ https://github.com/jazzband/dj-rest-auth
 https://github.com/jazzband/django-model-utils
 
 https://twitter.com/jpadilla_/status/1189752115566133248
-https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
 https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
 https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
 
@@ -2727,7 +2740,9 @@ https://github.com/jambonsw/django-improved-user
 https://github.com/lincolnloop/django-alive
 
 https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
+-->
 
+<!--
 Feature Flags
 https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
 https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
@@ -3344,6 +3359,8 @@ https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-t
 * [PyGitHub](https://pygithub.readthedocs.io/)
 
 <!--
+http://githubengineering.com/the-github-graphql-api/
+
 Open API
 https://docs.github.com/en/rest | GitHub REST API - GitHub Docs
 https://github.com/github/rest-api-description
