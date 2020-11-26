@@ -2681,7 +2681,7 @@ https://wemake-django-template.readthedocs.io/en/latest/
 https://github.com/wemake-services/wemake-python-styleguide
 https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
 
-Cookiiecutter
+Cookiecutter
 https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
 wemake-services/dotenv-linter - Google Search
 https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
