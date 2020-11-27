@@ -588,6 +588,14 @@ https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 
 
+https://developer.mozilla.org/en-US/docs/Web/SVG
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
+https://flexboxfroggy.com/
+
+
 https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
 
 https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
