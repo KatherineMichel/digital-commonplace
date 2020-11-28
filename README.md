@@ -115,7 +115,9 @@ https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Event
 
 SF Python
 https://www.youtube.com/c/SFPython/videos
+https://www.sfpythonmeetup.com/ | SF Python
 https://www.meetup.com/sfpython/
+https://twitter.com/sfpythonmeetup | sfpythonmeetup (@sfpythonmeetup) / Twitter
 https://www.meetup.com/PyLadiesSF/
 https://twitter.com/pyladiessf
 https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
@@ -300,6 +302,123 @@ https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
+<!--
+https://repl.it/@KatherineMichel/
+
+Hanselman
+https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+
+https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
+
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+https://www.python.org/events/python-user-group/ | Our Events | Python.org
+https://pyjamas.live/ | Pyjamas 2020
+https://www.meetup.com/__PyMX__/?_locale=es | PyMX (México City, Mexico) | Meetup
+https://twitter.com/__PyMX__ | PyMX (@__PyMX__) / Twitter
+
+https://twitter.com/JennyMEvents/status/1331090793000407041 | JennyMEvents on Twitter: "Event gold right here! Attn #Data #DataScience #DataAnalytics beginners, pros, &amp; the forever curious. See you all on Dec 7th!" / Twitter
+
+https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Docker and Containers in the Complete Intro to Containers course! Create deploy and dev environments, and coordinate large scale applications.
+
+https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://pypi.org/project/python-decouple/
+https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
+https://web.dev/progressive-web-apps/
+https://web.dev/what-are-pwas/ | What are Progressive Web Apps?
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
+
+https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
+https://reactnative.dev/ | React Native · A framework for building native apps using React
+
+Next.js and Expo (React Native alternative)
+https://github.com/vercel/next.js | vercel/next.js: The React Framework
+https://docs.expo.io/guides/using-nextjs/ | Using Next.js with Expo for Web - Expo Documentation
+
+https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
+https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
+https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
+
+https://getbootstrap.com/
+
+https://caniuse.com/ | Can I use... Support tables for HTML5, CSS3, etc
+
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.miriamsuzanne.com/
+
+Box Model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+
+Flow Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
+
+Grid
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
+https://gridbyexample.com/ | Grid by Example
+https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
+
+Flexbox versus Grid
+https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
+https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
+
+https://tailwindcss.com/ | Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
+https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
+https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
+https://tailwindui.com/documentation | Documentation | Tailwind UI
+https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
+https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
+https://play.tailwindcss.com/ | Tailwind Play
+https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
+https://heroicons.com/ | Heroicons
+
+Django tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+
+https://wagtail.io/ | Django Content Management System | Wagtail CMS
+https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+
+https://sphinx-themes.org/ | Sphinx Themes
+https://sphinx-themes.org/html/default/alabaster/index.html | Welcome to Sphinx-Themes template’s documentation! — Sphinx-Themes template 1 documentation
+https://vsalvino.github.io/sphinx-library/ | Library Sphinx Theme — sphinx-library documentation
+https://github.com/vsalvino/sphinx-library | vsalvino/sphinx-library: Typography-centric Sphinx theme that reads like a good book.
+https://www.psycopg.org/psycopg3/docs/ | Home - psycopg3 UNRELEASED documentation
+urllib
+-->
 
 ## Learning
 
@@ -1387,6 +1506,7 @@ https://www.mkdocs.org/user-guide/deploying-your-docs/#deploying-your-docs | Dep
 https://twitter.com/treyhunner/status/913591799830110208 | ✨ Trey Hunner 🐍 on Twitter: "I just learned about Sphinx's "make linkcheck" from @WillingCarol at @sandiegopython! 🎓💖 It checks for broken links in your documentation 🤔"
 
 https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
+https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
 -->
 
 ## Case Studies
