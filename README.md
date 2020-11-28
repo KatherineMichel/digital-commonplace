@@ -389,10 +389,6 @@ https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson �
 https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
 
 
-Sphinx
-https://www.sphinx-doc.org/en/master/ | Overview — Sphinx 4.0.0+ documentation
-https://sourceforge.net/docs/ref/rst/restructuredtext.html | Page not found - SourceForge.net
-
 Python 3.9
 https://twitter.com/PrasoonPratham/status/1313392420038483968
 
@@ -611,14 +607,6 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
-
-
-https://developer.mozilla.org/en-US/docs/Web/SVG
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
-https://flexboxfroggy.com/
 
 
 https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
@@ -2566,6 +2554,10 @@ https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-
 <!--
 Deployment
 
+Sphinx
+https://www.sphinx-doc.org/en/master/ | Overview — Sphinx 4.0.0+ documentation
+https://sourceforge.net/docs/ref/rst/restructuredtext.html | Page not found - SourceForge.net
+
 https://sphinx-themes.org/ | Sphinx Themes
 https://sphinx-themes.org/html/default/alabaster/index.html | Welcome to Sphinx-Themes template’s documentation! — Sphinx-Themes template 1 documentation
 https://vsalvino.github.io/sphinx-library/ | Library Sphinx Theme — sphinx-library documentation
@@ -3634,6 +3626,7 @@ https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev
 
 
 <!--
+https://explorers.netlify.com/
 https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
 
 https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
@@ -3646,7 +3639,9 @@ https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics
 
 https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
 https://www.miriamsuzanne.com/
+-->
 
+<!--
 Box Model
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
@@ -3669,13 +3664,7 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox 
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
 https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
 https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+https://flexboxfroggy.com/
 -->
 
 
@@ -3809,9 +3798,10 @@ https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class 
 
 ## JavaScript- Using
 
-Blogs
+News
 * [React Blog](https://reactjs.org/blog/)
 * [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
 
 Node, Express (based on Sinatra), and Passport
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
@@ -3844,6 +3834,13 @@ Facebook- React Native
 Next (React) and Nuxt (Vue)
 
 https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
 
 Django tailwind
 https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
