@@ -3624,85 +3624,6 @@ https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev
 -->
 
 
-
-<!--
-https://explorers.netlify.com/
-https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
-
-https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-
-https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
-https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
-https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
-
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.miriamsuzanne.com/
--->
-
-<!--
-Box Model
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
-
-Flow Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
-
-Grid
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
-https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
-https://gridbyexample.com/ | Grid by Example
-https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
-
-Flexbox versus Grid
-https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
-https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-https://flexboxfroggy.com/
--->
-
-
-## Case Studies
-
-<!--
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Next
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-https://nextjs.org/docs/migrating/from-gatsby
-
-https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
-https://en.wikipedia.org/wiki/Use_case
-
-Gatsby Case Study
-https://twitter.com/gatsbyjs
-https://www.gatsbyjs.com/use-cases/
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-Redwood
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-https://redwoodjs.com/docs/introduction
-https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
-
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
--->
-
-
 ## GitHub and VS Code Integration
 
 * [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
@@ -4067,36 +3988,82 @@ Polymer (See also Facebook React)
 
 
 
-## Python Syntax and Python Versus JavaScript
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
 <!--
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+https://explorers.netlify.com/
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
+https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
+https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
+
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.miriamsuzanne.com/
 -->
 
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
 <!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+Box Model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+
+Flow Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
+
+Grid
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
+https://gridbyexample.com/ | Grid by Example
+https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
+
+Flexbox versus Grid
+https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
+https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+https://flexboxfroggy.com/
 -->
 
+
+## Case Studies
+
+<!--
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Next
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+https://en.wikipedia.org/wiki/Use_case
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+Redwood
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
+-->
 
 
 <!--
@@ -4352,6 +4319,36 @@ https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery meth
 -->
 
 
+## Python Syntax and Python Versus JavaScript
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+<!--
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+-->
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
+
+<!--
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+-->
+
 ## Jargon, Algorithms, and Patterns
 
 JavaScript Patterns
@@ -4395,6 +4392,64 @@ https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises i
 
 https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+-->
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://roadmap.sh/
+
+https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
+https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
+
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/rShetty/awesome-distributed-systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
 -->
 
 ## Programming Language Comparisons
@@ -4498,66 +4553,6 @@ https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of T
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
-
-
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-https://roadmap.sh/
-
-https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
-https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-https://github.com/rShetty/awesome-distributed-systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
--->
-
 
 
 ## High Performance
