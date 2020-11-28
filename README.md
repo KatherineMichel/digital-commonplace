@@ -310,8 +310,6 @@ https://thisdeveloperslife.com/ | This Developer's Life - Stories About Develope
 
 https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
 
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
-
 https://www.python.org/events/python-user-group/ | Our Events | Python.org
 https://pyjamas.live/ | Pyjamas 2020
 https://www.meetup.com/__PyMX__/?_locale=es | PyMX (México City, Mexico) | Meetup
@@ -326,98 +324,6 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 https://pypi.org/project/python-decouple/
 https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
-
-https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
-
-https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
-https://web.dev/progressive-web-apps/
-https://web.dev/what-are-pwas/ | What are Progressive Web Apps?
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
-
-https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
-https://reactnative.dev/ | React Native · A framework for building native apps using React
-
-Next.js and Expo (React Native alternative)
-https://github.com/vercel/next.js | vercel/next.js: The React Framework
-https://docs.expo.io/guides/using-nextjs/ | Using Next.js with Expo for Web - Expo Documentation
-
-https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-
-https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
-https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
-https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
-
-https://getbootstrap.com/
-
-https://caniuse.com/ | Can I use... Support tables for HTML5, CSS3, etc
-
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.miriamsuzanne.com/
-
-Box Model
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
-
-Flow Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
-
-Grid
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
-https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
-https://gridbyexample.com/ | Grid by Example
-https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
-
-Flexbox versus Grid
-https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
-https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
-https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
-
-https://tailwindcss.com/ | Tailwind CSS - Rapidly build modern websites without ever leaving your HTML.
-https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
-https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
-https://tailwindui.com/documentation | Documentation | Tailwind UI
-https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
-https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
-https://play.tailwindcss.com/ | Tailwind Play
-https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
-https://heroicons.com/ | Heroicons
-
-Django tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-
-https://wagtail.io/ | Django Content Management System | Wagtail CMS
-https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
-https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
-https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
-
-https://sphinx-themes.org/ | Sphinx Themes
-https://sphinx-themes.org/html/default/alabaster/index.html | Welcome to Sphinx-Themes template’s documentation! — Sphinx-Themes template 1 documentation
-https://vsalvino.github.io/sphinx-library/ | Library Sphinx Theme — sphinx-library documentation
-https://github.com/vsalvino/sphinx-library | vsalvino/sphinx-library: Typography-centric Sphinx theme that reads like a good book.
-https://www.psycopg.org/psycopg3/docs/ | Home - psycopg3 UNRELEASED documentation
-urllib
 -->
 
 ## Learning
@@ -1507,58 +1413,18 @@ https://twitter.com/treyhunner/status/913591799830110208 | ✨ Trey Hunner 🐍 
 
 https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
 https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
--->
 
-## Case Studies
-
-<!--
 Docs
 https://dev.to/nickytonline/projects-with-great-documentation-352h
 https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
 https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-
-https://github.com/github/docs
-
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-
-React
-https://reactjs.org/blog/
-
-Next
-https://nextjs.org/blog/
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-https://nextjs.org/docs/migrating/from-gatsby
-
-https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
-https://en.wikipedia.org/wiki/Use_case
-
-Gatsby Case Study
-https://twitter.com/gatsbyjs
-https://www.gatsbyjs.com/use-cases/
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-Redwood
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-https://redwoodjs.com/docs/introduction
-https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
-
-Vue
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
 -->
 
 ## Launch
 
 <!--
+https://github.com/github/docs
+
 Launch Story
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
@@ -2700,8 +2566,12 @@ https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-
 <!--
 Deployment
 
-https://sphinx-themes.org/
-https://sphinx-themes.org/html/default/alabaster/index.html
+https://sphinx-themes.org/ | Sphinx Themes
+https://sphinx-themes.org/html/default/alabaster/index.html | Welcome to Sphinx-Themes template’s documentation! — Sphinx-Themes template 1 documentation
+https://vsalvino.github.io/sphinx-library/ | Library Sphinx Theme — sphinx-library documentation
+https://github.com/vsalvino/sphinx-library | vsalvino/sphinx-library: Typography-centric Sphinx theme that reads like a good book.
+https://www.psycopg.org/psycopg3/docs/ | Home - psycopg3 UNRELEASED documentation
+urllib
 
 Heroku and Node
 https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
@@ -3675,6 +3545,7 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 
 
 
+
 ## Heroku
 
 <!--
@@ -3760,6 +3631,89 @@ Release Phase
 https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
 -->
 
+
+
+<!--
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
+https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
+https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
+
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.miriamsuzanne.com/
+
+Box Model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+
+Flow Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
+
+Grid
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
+https://gridbyexample.com/ | Grid by Example
+https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
+
+Flexbox versus Grid
+https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
+https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+-->
+
+
+## Case Studies
+
+<!--
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Next
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+https://en.wikipedia.org/wiki/Use_case
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+Redwood
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
+-->
+
+
 ## GitHub and VS Code Integration
 
 * [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
@@ -3843,6 +3797,10 @@ Wagtail
 * [Wagtail](https://wagtail.io/)
 
 <!--
+https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+
 https://github.com/mozilla/flask-elasticsearch-skeleton
 https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 
@@ -3850,6 +3808,10 @@ https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class 
 -->
 
 ## JavaScript- Using
+
+Blogs
+* [React Blog](https://reactjs.org/blog/)
+* [Next Blog](https://nextjs.org/blog/)
 
 Node, Express (based on Sinatra), and Passport
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
@@ -3860,9 +3822,13 @@ Express Tutorials
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
 
-Using
-* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/zeit/next.js)
+CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Bootstrap](https://getbootstrap.com/)
+
+Next.js and Expo (React Native alternative) 
+* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
+* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
 
 React
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
@@ -3871,13 +3837,33 @@ Create React App
 * [Create React App GitHub](https://github.com/facebook/create-react-app)
 
 Facebook- React Native
-* [Facebook React-Native](http://facebook.github.io/react-native) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
 <!--
 Next (React) and Nuxt (Vue)
 
-https://play.tailwindcss.com/
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+Django tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
+
+https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
+https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
+https://tailwindui.com/documentation | Documentation | Tailwind UI
+https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
+https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
+https://play.tailwindcss.com/ | Tailwind Play
+https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
+https://heroicons.com/ | Heroicons
+
 https://blog.tailwindcss.com/introducing-tailwind-play
 https://twitter.com/adamwathan/status/1313826345374416896
 https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
@@ -3888,7 +3874,12 @@ https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | N
 
 https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
 
+Progressive Web Apps
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
 https://web.dev/progressive-web-apps/
+https://web.dev/what-are-pwas/ | What are Progressive Web Apps?
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
 
 https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
 
@@ -3976,33 +3967,6 @@ https://github.com/microsoft/playwright
 https://github.com/jsdom/jsdom
 
 https://github.com/ruyadorno/ipt
--->
-
-
-
-<!--
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-
-Node Tutorials
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
 
@@ -4137,6 +4101,31 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 -->
 
 
+
+<!--
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+
+Node Tutorials
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
 
 ## Mozilla and Google- General Docs
 
