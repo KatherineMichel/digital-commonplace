@@ -96,12 +96,18 @@ https://twitter.com/bryanl/status/1295389406866677760
 ## Conferences
 
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
+https://www.python.org/events/python-user-group/ | Our Events | Python.org
+
 
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+
+Dec 7
+https://twitter.com/JennyMEvents/status/1331090793000407041 | JennyMEvents on Twitter: "Event gold right here! Attn #Data #DataScience #DataAnalytics beginners, pros, &amp; the forever curious. See you all on Dec 7th!" / Twitter
 
 December 8-10
 https://githubuniverse.com/
 
+https://pyjamas.live/ | Pyjamas 2020
 https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
 https://www.youtube.com/pytexas
 
@@ -150,6 +156,9 @@ https://twitter.com/wwcsf | https://twitter.com/wwcsf
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
+
+https://www.meetup.com/__PyMX__/?_locale=es | PyMX (México City, Mexico) | Meetup
+https://twitter.com/__PyMX__ | PyMX (@__PyMX__) / Twitter
 
 
 https://pyvideo.org/ | PyVideo.org
@@ -302,29 +311,12 @@ https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
-<!--
-https://repl.it/@KatherineMichel/
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
 
-Hanselman
-https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
 
-https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
-https://www.python.org/events/python-user-group/ | Our Events | Python.org
-https://pyjamas.live/ | Pyjamas 2020
-https://www.meetup.com/__PyMX__/?_locale=es | PyMX (México City, Mexico) | Meetup
-https://twitter.com/__PyMX__ | PyMX (@__PyMX__) / Twitter
-
-https://twitter.com/JennyMEvents/status/1331090793000407041 | JennyMEvents on Twitter: "Event gold right here! Attn #Data #DataScience #DataAnalytics beginners, pros, &amp; the forever curious. See you all on Dec 7th!" / Twitter
-
-https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Docker and Containers in the Complete Intro to Containers course! Create deploy and dev environments, and coordinate large scale applications.
-
-https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-https://pypi.org/project/python-decouple/
-https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
--->
 
 ## Learning
 
@@ -354,6 +346,12 @@ https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testi
 
 
 ## Python and Django
+
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
 
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
@@ -601,19 +599,27 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 -->
 
 
-
 <!--
 ## Of Interest
 
+https://repl.it/@KatherineMichel/
+
+Hanselman
+https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+
+https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
+
+https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Docker and Containers in the Complete Intro to Containers course! Create deploy and dev environments, and coordinate large scale applications.
+
+https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://pypi.org/project/python-decouple/
+https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
+
+
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
-
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
 
 https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
@@ -621,6 +627,7 @@ https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitt
 https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
 
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
@@ -2651,10 +2658,6 @@ https://github.com/20tab/django-continuous-delivery
 https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
 https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
 
-https://github.com/cfpb/
-
-
-
 https://github.com/jpadilla/django-project-template
 https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
 https://jpadilla.github.io/django-project-template/
@@ -2758,11 +2761,1046 @@ Python- Django- Project Stucture
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
 
 
+
+
+<!--
+https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
+https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
+https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
+-->
+
+## Box Model, Flow Layout, Grid, Flexbox
+
+<!--
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.miriamsuzanne.com/
+
+Box Model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+
+Flow Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
+
+Grid
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
+https://gridbyexample.com/ | Grid by Example
+https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
+
+Flexbox versus Grid
+https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
+https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+https://flexboxfroggy.com/
+-->
+
+<!--
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+
+Node Tutorials
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+<!--
+Web API Reference
+https://developer.mozilla.org/en-US/docs/Web/Reference/API
+
+Guide to Web APIs
+https://developer.mozilla.org/en-US/docs/Web/Guide/API
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
+-->
+
+
+## You Might Not Need
+
+You Might Not Need
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
+* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
+
+jQuery
+* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+
+<!--
+https://github.com/phuoc-ng/html-dom
+
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+-->
+
+## JavaScript Standards
+
+Browser (ECMAScript and ES6, ES7 Forthcoming)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+CommonJS (Node)
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://github.com/luruke/browser-2020
+http://caniuse.com
+https://caniuse.com/#feat=es6
+
+ES6
+http://es6-features.org/
+http://kangax.github.io/compat-table/es6/
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+https://github.com/mjavascript/practical-es6
+
+Differences
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+-->
+
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+<!--
+Flavors and Modules
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+https://nodejs.org/en/docs/es6
+https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
+
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+-->
+
+<!-- 
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+<!--
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
+
+https://github.com/microsoft/playwright
+https://github.com/jsdom/jsdom
+
+https://github.com/ruyadorno/ipt
+-->
+
+## Mozilla and Google- General Docs
+
+Mozilla- Documentation
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Developer Web Tools](https://developers.google.com/web/tools)
+
+Glossaries
+* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+
+<!--
+https://web.dev/ | web.dev  |  web.dev
+
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+-->
+
+
+## Mozilla- HTMl5 and CSS Reference
+
+<!--
+HTML5 and CSS
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS
+-->
+
+## Notable
+
+<!--
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+let and const Declarations
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+-->
+
+<!--
+JavaScript Objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
+
+JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+
+JavaScript Object versus JSON
+https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+-->
+
+## Mozilla- JavaScript and APIs Reference
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
+
+Web APIs
+* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
+* [Mozilla Client-Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+* [Mozilla Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
+
+## Mozilla JavaScript- Document Object Model and Window
+
+Browser Object Model (BOM) and Document Object Model (DOM)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
+
+Mozilla- Document Object Model
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window
+https://developer.mozilla.org/en-US/docs/Web/API/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
+-->
+
+## Mozilla Javascript- Popular Events
+
+Events and Web APIs
+* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
+* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+
+Events
+* [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
+* [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
+* [DOM/JavaScript Events Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
+* [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
+
+Desktop Events
+* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
+* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+    
+## Mozilla Javascript- Popular APIs
+
+<!--
+Web API Popular
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data | Fetching data from the server - Learn web development | MDN
+
+CSSOM
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
+DOM
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+Fetch API 
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
+Geolocation API
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+Payment Request API
+https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
+Permissions API
+https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API
+Push API 
+https://developer.mozilla.org/en-US/docs/Web/API/Push_API
+Server Sent Events
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
+Service Workers API
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+Web Authentication API
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
+Web Notifications
+https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API
+Web Workers API
+https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
+WebRTC
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+Websockets API
+https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API
+-->
+
+## Mozilla- HTTP, Request and Response Cycle
+
+Mozilla- HTTP- General
+* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+Mozilla- HTTP- Specifics
+* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
+
+Other Stuff
+* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+     
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Request | Request - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Response | Response - Web APIs | MDN
+
+https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
+
+https://www.udacity.com/course/http-web-servers--ud303
+https://github.com/udacity/course-ud303
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+-->
+
+
+## Heroku
+
+<!--
+GitHub Actions/Heroku
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+-->
+
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
+
+Container Registries and Tools
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
+## Workflows
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+<!--
+https://www.npmjs.com/package/git-flow-deploy
+
+https://devcenter.heroku.com/articles/development-configuration
+https://devcenter.heroku.com/articles/github-integration-review-apps
+https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
+Release Phase
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+-->
+
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
+## Deploy
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
+* [Vercel Zero Config](https://vercel.com/blog/zero-config)
+
+<!--
+https://vercel.com/blog/zeit-is-now-vercel
+
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Vercel now](https://zeit.co/now)
+* [Vercel micro](https://github.com/vercel/micro)
+
+https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+-->
+
+## CMS
+
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+
+<!--
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+-->
+
+## Database
+
+<!--
+Firebase
+https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+Actions
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://blog.repl.it/database | Repl.it - A database for every repl
+-->
+
+
+## Python and Django- Using
+
+Python
+* [Python](https://www.python.org/)
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+Wagtail
+* [Wagtail](https://wagtail.io/)
+
+<!--
+https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+-->
+
+## JavaScript- Using
+
+News
+* [React Blog](https://reactjs.org/blog/)
+* [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
+
+Node, Express (based on Sinatra), and Passport
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Passport](http://www.passportjs.org/)
+
+Express Tutorials
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Bootstrap](https://getbootstrap.com/)
+
+Next.js and Expo (React Native alternative) 
+* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
+* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
+
+React
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+Create React App
+* [Create React App GitHub](https://github.com/facebook/create-react-app)
+
+Facebook- React Native
+* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+## Case Studies
+
+<!--
+https://explorers.netlify.com/
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Next
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+https://en.wikipedia.org/wiki/Use_case
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+Redwood
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+-->
+
+
+<!--
+Next (React) and Nuxt (Vue)
+
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+Django tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
+
+https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
+https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
+https://tailwindui.com/documentation | Documentation | Tailwind UI
+https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
+https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
+https://play.tailwindcss.com/ | Tailwind Play
+https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
+https://heroicons.com/ | Heroicons
+
+https://blog.tailwindcss.com/introducing-tailwind-play
+https://twitter.com/adamwathan/status/1313826345374416896
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+
+Progressive Web Apps
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
+https://web.dev/progressive-web-apps/
+https://web.dev/what-are-pwas/ | What are Progressive Web Apps?
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
+
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+-->
+
+## More Languages and Frameworks
+
+Scala
+* [Scala](https://www.scala-lang.org/)
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+## JAMStack
+
+Mojombo
+* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Prisma](https://www.prisma.io/)
+* [Fauna](https://fauna.com/)
+
+CSS
+* [PostCSS](https://postcss.org/)
+* [Emmet](https://emmet.io/)
+
+React and Vue Alternatives
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
+
+Static Site Generators
+* [11ty](https://www.11ty.dev/)
+
+<!--
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+11ty
+https://github.com/11ty/eleventy#major-roadmapped-features | 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
+-->
+
+
+## Google Progressive Web Apps (PWA)
+
+Progressive Web Apps
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
+* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
+* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
+* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
+
+<!--
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+
+https://pwa.rocks/ | A selection of Progressive Web Apps
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+## Google Design
+
+Google 
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+Google \ Design (See also Facebook React)
+* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io/design/ | Design - Material Design
+
+https://material.io/guidelines/resources/roboto-noto-fonts.html
+https://material.io/guidelines/style/typography.html#typography-line-height
+
+https://materialdesignkit.com
+https://material.io/guidelines
+https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
+https://getmdl.io/components/index.html#card-selection
+https://getmdl.io
+-->
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
+
+
+## Python Syntax and Python Versus JavaScript
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+<!--
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+-->
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
+
+<!--
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+-->
+
+## Jargon, Algorithms, and Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+<!--
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
+
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
+https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
+
+https://github.com/ryanmcdermott/clean-code-javascript
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+<!--
+https://github.com/zedr/clean-code-python
+
+* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
+
+https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
+https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
+https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+-->
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+https://roadmap.sh/
+
+https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
+https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
+
+https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/rShetty/awesome-distributed-systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+-->
+
+## Programming Language Comparisons
+
+## Patterns
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+<!--
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+Grady
+https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
+
+https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
+
+https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
+
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
+
+https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+-->
+
+
+<!--
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
+https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+Use
+http://aosabook.org/en/index.html
+https://github.com/aosabook/500lines
+
+https://martinfowler.com/articles/products-over-projects.html
+
+
+CI/CD
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
+
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
+High-level structure
+https://martinfowler.com/testing/
+https://en.wikipedia.org/wiki/High-level_design
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/bliki/UnitTest.html
+https://martinfowler.com/articles/nonDeterminism.html
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+
+## High Performance
+
+<!--
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+https://www.redhat.com/en/resources/digital-transformation-ebook
+https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
+
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
+-->
+
+
 ## Projects
 
 <!--
-Todo 
-
 https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
 
 Cool!
@@ -3534,1050 +4572,6 @@ https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
-
-
-
-
-## Heroku
-
-<!--
-GitHub Actions/Heroku
-https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
--->
-
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-Heroku- Elements Marketplace
-* [Heroku Elements Marketplace](https://elements.heroku.com)
-* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
-
-Heroku Git Integration
-* [Deploying with Git](https://devcenter.heroku.com/articles/git)
-* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
-* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
-Container Registries and Tools
-* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
-* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
-
-<!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
--->
-
-## Workflows
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-<!--
-https://www.npmjs.com/package/git-flow-deploy
-
-https://devcenter.heroku.com/articles/development-configuration
-https://devcenter.heroku.com/articles/github-integration-review-apps
-https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
-
-heroku continuous integration and delivery, using gitflow with heroku
-https://www.heroku.com/flow
-https://blog.heroku.com/heroku-ci-now-available
-https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
-https://www.heroku.com/continuous-integration
-https://www.heroku.com/continuous-delivery
-https://www.heroku.com/continuous-delivery/on-heroku
-https://www.heroku.com/continuous-delivery/how-it-works
-https://www.heroku.com/continuous-delivery/foundations
-https://devcenter.heroku.com/articles/heroku-ci
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/pipelines
-https://devcenter.heroku.com/articles/pipelines#github-sync
-https://devcenter.heroku.com/articles/git
-
-https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
-https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
-https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
-
-Release Phase
-https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
--->
-
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
-
-## Deploy
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
-* [Vercel Zero Config](https://vercel.com/blog/zero-config)
-
-<!--
-https://vercel.com/blog/zeit-is-now-vercel
-
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-
-* [Vercel now](https://zeit.co/now)
-* [Vercel micro](https://github.com/vercel/micro)
-
-https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
-
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
--->
-
-## CMS
-
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
-
-<!--
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
--->
-
-## Database
-
-<!--
-Firebase
-https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
-Actions
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://blog.repl.it/database | Repl.it - A database for every repl
--->
-
-
-## Python and Django- Using
-
-Python
-* [Python](https://www.python.org/)
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-Wagtail
-* [Wagtail](https://wagtail.io/)
-
-<!--
-https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
-https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
-https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
-
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
--->
-
-## JavaScript- Using
-
-News
-* [React Blog](https://reactjs.org/blog/)
-* [Next Blog](https://nextjs.org/blog/)
-* [Redwood News](https://redwoodjs.com/news)
-
-Node, Express (based on Sinatra), and Passport
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Passport](http://www.passportjs.org/)
-
-Express Tutorials
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-* [Bootstrap](https://getbootstrap.com/)
-
-Next.js and Expo (React Native alternative) 
-* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
-* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
-
-React
-* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
-
-Create React App
-* [Create React App GitHub](https://github.com/facebook/create-react-app)
-
-Facebook- React Native
-* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-
-<!--
-Next (React) and Nuxt (Vue)
-
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
-
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-Django tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
-https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
-
-https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
-https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
-https://tailwindui.com/documentation | Documentation | Tailwind UI
-https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
-https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
-https://play.tailwindcss.com/ | Tailwind Play
-https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
-https://heroicons.com/ | Heroicons
-
-https://blog.tailwindcss.com/introducing-tailwind-play
-https://twitter.com/adamwathan/status/1313826345374416896
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
-
-Progressive Web Apps
-https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
-https://web.dev/progressive-web-apps/
-https://web.dev/what-are-pwas/ | What are Progressive Web Apps?
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
-
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
--->
-
-## JavaScript Standards
-
-Browser (ECMAScript and ES6, ES7 Forthcoming)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-CommonJS (Node)
-* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://github.com/luruke/browser-2020
-http://caniuse.com
-https://caniuse.com/#feat=es6
-
-ES6
-http://es6-features.org/
-http://kangax.github.io/compat-table/es6/
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-https://github.com/mjavascript/practical-es6
-
-Differences
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
--->
-
-
-<!--
-https://flaviocopes.com/node-difference-browser/
-node.js uses CommonJS modules
-https://flaviocopes.com/commonjs/
-browsers use ES modules
-https://flaviocopes.com/es-modules/
-Mozilla docs are ECMAScript Standard
--->
-
-<!--
-Flavors and Modules
-
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
-CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
-
-webpack CommonJS Explanation
-https://github.com/webpack/docs/wiki/commonjs
-https://webpack.js.org/api/module-methods/#commonjs
-
-https://nodejs.org/en/docs/es6
-https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
-
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
--->
-
-<!-- 
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
-
-<!--
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
-
-https://github.com/microsoft/playwright
-https://github.com/jsdom/jsdom
-
-https://github.com/ruyadorno/ipt
--->
-
-
-## More Languages and Frameworks
-
-Scala
-* [Scala](https://www.scala-lang.org/)
-
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-## JAMStack
-
-Mojombo
-* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
-* [Prisma](https://www.prisma.io/)
-* [Fauna](https://fauna.com/)
-
-CSS
-* [PostCSS](https://postcss.org/)
-* [Emmet](https://emmet.io/)
-
-React and Vue Alternatives
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
-
-Static Site Generators
-* [11ty](https://www.11ty.dev/)
-
-<!--
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-11ty
-https://github.com/11ty/eleventy#major-roadmapped-features | 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
--->
-
-
-## Google Progressive Web Apps (PWA)
-
-Progressive Web Apps
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
-* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
-* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
-* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
-
-<!--
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-
-https://pwa.rocks/ | A selection of Progressive Web Apps
-https://www.pwabuilder.com/ | PWABuilder
-
-Progressive Web app Testing
-[pwmetrics](https://github.com/paulirish/pwmetrics)
-    
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app
--->
-
-## Google Design
-
-Google 
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-Google \ Design (See also Facebook React)
-* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-<!--
-https://material.io/design/ | Design - Material Design
-
-https://material.io/guidelines/resources/roboto-noto-fonts.html
-https://material.io/guidelines/style/typography.html#typography-line-height
-
-https://materialdesignkit.com
-https://material.io/guidelines
-https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
-https://getmdl.io/components/index.html#card-selection
-https://getmdl.io
--->
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
-
-
-
-<!--
-https://explorers.netlify.com/
-https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
-
-https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-
-https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
-https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
-https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
-
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.miriamsuzanne.com/
--->
-
-<!--
-Box Model
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
-
-Flow Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
-
-Grid
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
-https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
-https://gridbyexample.com/ | Grid by Example
-https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
-
-Flexbox versus Grid
-https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
-https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-https://flexboxfroggy.com/
--->
-
-
-## Case Studies
-
-<!--
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Next
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-https://nextjs.org/docs/migrating/from-gatsby
-
-https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
-https://en.wikipedia.org/wiki/Use_case
-
-Gatsby Case Study
-https://twitter.com/gatsbyjs
-https://www.gatsbyjs.com/use-cases/
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-Redwood
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-https://redwoodjs.com/docs/introduction
-https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
-
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
--->
-
-
-<!--
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-
-Node Tutorials
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-## Mozilla and Google- General Docs
-
-Mozilla- Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
-* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Developer Web Tools](https://developers.google.com/web/tools)
-
-Glossaries
-* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-
-<!--
-https://web.dev/ | web.dev  |  web.dev
-
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
--->
-
-
-## Mozilla- HTMl5 and CSS Reference
-
-<!--
-HTML5 and CSS
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS
--->
-
-## Notable
-
-<!--
-https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
-
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
--->
-
-<!--
-JavaScript Objects
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
-
-JSON
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
-
-JavaScript Object versus JSON
-https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
-
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
--->
-
-## Mozilla- JavaScript and APIs Reference
-
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
-
-Web APIs
-* [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
-* [Mozilla Client-Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
-* [Mozilla Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
-
-## Mozilla JavaScript- Document Object Model and Window
-
-Browser Object Model (BOM) and Document Object Model (DOM)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
-
-Mozilla- Document Object Model
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
-
-https://developer.mozilla.org/en-US/docs/Web/API/Window
-https://developer.mozilla.org/en-US/docs/Web/API/Document
-https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
-https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
--->
-
-## Mozilla Javascript- Popular Events
-
-Events and Web APIs
-* [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
-* [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
-
-Events
-* [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
-* [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
-* [DOM/JavaScript Events Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
-* [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
-
-Desktop Events
-* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
-* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-    
-## Mozilla Javascript- Popular APIs
-
-<!--
-Web API Popular
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data | Fetching data from the server - Learn web development | MDN
-
-CSSOM
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-Fetch API 
-https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
-Geolocation API
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
-Payment Request API
-https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
-Permissions API
-https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API
-Push API 
-https://developer.mozilla.org/en-US/docs/Web/API/Push_API
-Server Sent Events
-https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
-Service Workers API
-https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
-Web Authentication API
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
-Web Notifications
-https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API
-Web Workers API
-https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
-WebRTC
-https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
-Websockets API
-https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API
--->
-
-## Mozilla- HTTP, Request and Response Cycle
-
-Mozilla- HTTP- General
-* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-
-Mozilla- HTTP- Specifics
-* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-
-Other Stuff
-* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-     
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/Request | Request - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Response | Response - Web APIs | MDN
-
-https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
-
-https://www.udacity.com/course/http-web-servers--ud303
-https://github.com/udacity/course-ud303
-
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
--->
-
-
-<!--
-Web API Reference
-https://developer.mozilla.org/en-US/docs/Web/Reference/API
-
-Guide to Web APIs
-https://developer.mozilla.org/en-US/docs/Web/Guide/API
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#Common_browser_APIs
--->
-
-You Might Not Need
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
-* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
-
-jQuery
-* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
-
-<!--
-https://github.com/phuoc-ng/html-dom
-
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
--->
-
-
-## Python Syntax and Python Versus JavaScript
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-<!--
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
--->
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
--->
-
-## Jargon, Algorithms, and Patterns
-
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
-https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
-
-https://github.com/ryanmcdermott/clean-code-javascript
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
--->
-
-<!--
-https://github.com/zedr/clean-code-python
-
-* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
-
-https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
-https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
-https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
-
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
--->
-
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-https://roadmap.sh/
-
-https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
-https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-https://github.com/rShetty/awesome-distributed-systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
--->
-
-## Programming Language Comparisons
-
-## Patterns
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
-<!--
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
-Grady
-https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
-
-https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
-
-https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
-
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
-https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
-
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-
-<!--
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
-
-https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-Use
-http://aosabook.org/en/index.html
-https://github.com/aosabook/500lines
-
-https://martinfowler.com/articles/products-over-projects.html
-
-
-CI/CD
-https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
-https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
-https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
-https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
-https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
-
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
-
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-High-level structure
-https://martinfowler.com/testing/
-https://en.wikipedia.org/wiki/High-level_design
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/bliki/UnitTest.html
-https://martinfowler.com/articles/nonDeterminism.html
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
--->
-
-
-## High Performance
-
-<!--
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-
-
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
-
-http://engineering.khanacademy.org/posts/engineering-principles.htm
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
--->
-
 
 
 ## Orgs
