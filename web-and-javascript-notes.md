@@ -1,6 +1,23 @@
 # Web and JavaScript Notes
 
 <!--
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
+
+https://github.com/puppeteer/puppeteer
+
+https://github.com/microsoft/playwright-python
+https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
+https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
+
+https://github.com/jsdom/jsdom
+
+https://github.com/ruyadorno/ipt
+
+
 Node API
 https://feathersjs.com/ | Feathers | A framework for real-time applications and REST APIs
 
@@ -9,11 +26,6 @@ https://storybook.js.org/ | Storybook: UI component explorer for frontend develo
 https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
 https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.
 
-https://github.com/puppeteer/puppeteer
-Playwright
-https://github.com/microsoft/playwright-python
-https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congratulations to @Microsoft's Playwright team for shipping v1.0.0! https://t.co/NigmauZLMM In case you don't know: Playwright is a Node library to automate Chromium, Firefox and WebKit with a single API" / Twitter
-https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
