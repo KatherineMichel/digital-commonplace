@@ -2932,18 +2932,6 @@ https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 -->
 
-<!--
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
-
-https://github.com/microsoft/playwright
-https://github.com/jsdom/jsdom
-
-https://github.com/ruyadorno/ipt
--->
 
 ## Mozilla and Google- General Docs
 
@@ -3495,7 +3483,6 @@ https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your
 
 * [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
 
-https://pwa.rocks/ | A selection of Progressive Web Apps
 https://www.pwabuilder.com/ | PWABuilder
 
 Progressive Web app Testing
