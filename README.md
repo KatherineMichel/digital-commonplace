@@ -2766,52 +2766,12 @@ Python- Django- Project Stucture
 <!--
 https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
 https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-
-https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
-https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
-https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Web/SVG | SVG: Scalable Vector Graphics | MDN
--->
-
-## Box Model, Flow Layout, Grid, Flexbox
-
-<!--
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.miriamsuzanne.com/
-
-Box Model
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
-
-Flow Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
-
-Grid
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
-https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
-https://gridbyexample.com/ | Grid by Example
-https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
-
-Flexbox versus Grid
-https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
-https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-https://flexboxfroggy.com/
 -->
 
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+
 Python
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
@@ -2969,11 +2929,78 @@ https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0
 
 ## Mozilla- HTMl5 and CSS Reference
 
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+
 <!--
 HTML5 and CSS
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS
+
+https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
+https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
+https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
+
+CSS
+https://developer.mozilla.org/en-US/docs/Web/CSS | CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3 | CSS3 - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference | CSS reference - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS | CSS - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS | Introduction to CSS - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Fundamental_CSS_comprehension | Fundamental CSS comprehension - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics | CSS basics - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML element reference - HTML | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet | StyleSheet - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model | Introduction to the CSS box model - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout | CSS Grid Layout - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout | CSS Flexible Box Layout - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes | Styling boxes - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text | Styling text - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#directly-targeted-elements | Specificity - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance | inheritance - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Selectors | CSS reference - CSS | MDN
+-->
+
+## Box Model, Flow Layout, Grid, Flexbox
+
+<!--
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://www.miriamsuzanne.com/
+
+Box Model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
+
+Flow Layout
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
+
+Grid
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
+https://gridbyexample.com/ | Grid by Example
+https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
+
+Flexbox versus Grid
+https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
+https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
+
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+https://flexboxfroggy.com/
 -->
 
 ## Mozilla- JavaScript
