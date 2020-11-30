@@ -289,6 +289,10 @@ https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-y
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
+https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
+https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
+https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
+
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
 
@@ -345,7 +349,17 @@ obeying the testing goat - Google Search
 https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
 
 
+## Fast AI
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+
 ## Python and Django
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
 
 PyBeeWare
 https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
@@ -371,6 +385,8 @@ https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fc
 Recommended by Jeff
 https://github.com/direnv
 https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+https://pypi.org/project/python-decouple/
 
 pip-tools
 https://twitter.com/webology/status/1324134889172701190 | Jeff "voted 🗳 and wears a mask 😷 " Triplett on Twitter: "@epicserve Pip-tools is solid and you should use it with pip. You may want to try out poetry to see if it works with your workflow." / Twitter
@@ -614,7 +630,6 @@ https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Dock
 https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
-https://pypi.org/project/python-decouple/
 https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 
@@ -622,9 +637,6 @@ https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 
 
-https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
-https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
-https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
@@ -632,12 +644,6 @@ https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba435
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 
 
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
 
 
 ## Community
@@ -667,20 +673,6 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-
-## Makers and Projects
-
-https://github.com/mikeal | mikeal (Mikeal Rogers)
-
-https://github.com/sdras/
-https://github.com/cassidoo/
-
-https://github.com/cassidoo/book-rating-demo | cassidoo/book-rating-demo: A demo built with React and HarperDB to show book ratings
-
-Product Hunt
-https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
-https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
 
 
 ## Open Source
@@ -1882,7 +1874,7 @@ Django, GitHub, SQL
 
 Women Who Inspire Me
 * [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Cassidy Williams](https://cassidoo.co/)
+* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
 * [Jessica Garson GitHub](https://github.com/JessicaGarson)
 * [Nina Zakharenko Twitter](https://twitter.com/nnja)
 
@@ -1896,6 +1888,8 @@ Product
 * [Pieter Levels Twitter](https://twitter.com/levelsio)
 
 <!--
+## Makers and Projects
+
 Lorena
 https://github.com/lorenanicole
 Mariatta
@@ -3841,6 +3835,12 @@ Release, Weeknotes
 -->
 
 <!--
+https://github.com/cassidoo/book-rating-demo | cassidoo/book-rating-demo: A demo built with React and HarperDB to show book ratings
+
+Product Hunt
+https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
+https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
+
 Kofi
 https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
 https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
