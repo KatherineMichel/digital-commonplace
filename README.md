@@ -3358,19 +3358,14 @@ CSS
 * [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
 * [Bootstrap](https://getbootstrap.com/)
 
-Next.js and Expo (React Native alternative) 
+Next.js
 * [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
-* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
 
 React
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
 
 Create React App
 * [Create React App GitHub](https://github.com/facebook/create-react-app)
-
-Facebook- React Native
-* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
 ## Case Studies
 
@@ -3396,7 +3391,7 @@ https://www.gatsbyjs.com/use-cases/
 https://www.gatsbyjs.org/contributing/
 https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
 
-Redwood
+Redwood/React
 https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
 https://redwoodjs.com/docs/introduction
 https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
@@ -3414,6 +3409,11 @@ https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
 https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
 https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
 https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+
+Installation Guides
+https://tailwindcss.com/docs/installation
+https://tailwindcss.com/docs/guides/nextjs
+https://tailwindcss.com/docs/guides/create-react-app
 
 http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
 https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
@@ -3438,13 +3438,6 @@ https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | N
 
 https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
 
-Progressive Web Apps
-https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
-https://web.dev/progressive-web-apps/
-https://web.dev/what-are-pwas/ | What are Progressive Web Apps?
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
-
 https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
 
 https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
@@ -3460,7 +3453,7 @@ Webpack (Bundler)
 
 ## JAMStack
 
-Mojombo
+Mojombo (React)
 * [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
 * [Prisma](https://www.prisma.io/)
 * [Fauna](https://fauna.com/)
@@ -3485,18 +3478,34 @@ https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-
 -->
 
 
-## Google Progressive Web Apps (PWA)
+## Mobile Optimized
 
-Progressive Web Apps
+Create React App
+* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
+
+Facebook- React Native
+* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+Expo (React Native alternative) 
+* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
+
+Progressive Web Apps (PWA)
 * [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web App](https://developers.google.com/web/progressive-web-apps)
-* [Google Codelabs- Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp) and [Google Codelabs- Your First Progressive Web App](https://codelabs.developers.google.com/codelabs/your-first-pwapp)
-* [Google Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
+* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
+* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
+* [Storage for the Web](https://web.dev/storage-for-the-web/)
+* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
+
+Training
 * [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-* [Offline Storage for Progressive Web Apps](https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa)
-* [The PRPL pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern)
 
 <!--
+Progressive Web Apps
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
+
 https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
 
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
@@ -3518,8 +3527,21 @@ http://blog.ionic.io/what-is-a-progressive-web-app
 
 ## Google Design
 
-Google 
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit), [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html), and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
+
+
+Deprecated
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit)
+* [PWA Starter Kit](https://pwa-starter-kit.polymer-project.org/)
+
+Styleguide
+* [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html) and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
 
 Google \ Design (See also Facebook React)
 * [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
@@ -3530,22 +3552,20 @@ https://material.io/design/ | Design - Material Design
 https://material.io/guidelines/resources/roboto-noto-fonts.html
 https://material.io/guidelines/style/typography.html#typography-line-height
 
-https://materialdesignkit.com
+Flutter
 https://material.io/guidelines
 https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
 https://getmdl.io/components/index.html#card-selection
 https://getmdl.io
+
+Android
+https://materialdesignkit.com
 -->
 
 Bootstrap Material Design
 * [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
 * [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
 
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
 
 
 ## Python Syntax and Python Versus JavaScript
