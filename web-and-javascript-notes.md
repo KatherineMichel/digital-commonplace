@@ -534,65 +534,6 @@ https://medium.com/the-node-js-collection
 https://blog.risingstack.com
 -->
 
-## Google Chrome Dev Tools
-
-<!--
-https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
-
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
-https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
--->
-
-## JavaScript Performance
-
-Lighthouse
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
-* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-
-Rendering
-* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
-* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
-* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
-Offline
-* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
-
-Measure
-* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
-
-Semantics/SEO/Accessibility
-* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
--->
-
 ## Web Architecture, How Browsers work
 
 Preethi Kasireddy: How The Web Works
@@ -688,9 +629,6 @@ Google Web Updates
 https://twitter.com/webology/status/1275798481953796096 | Jeff says, "wear a mask" 😷 on Twitter: "🤔 Never underestimate the power of a 1G Droplet." / Twitter
 
 https://twitter.com/di_codes/status/1065115520570195968 | Dustin Ingram on Twitter: "This is ridiculously cool: Terrarium (https://t.co/oUTC9UL8PJ) lets you write a C, TypeScript or Rust app via an in-browser editor, compile it to WebAssembly, and deploy it to the edge in seconds. Includes static assets, a key-value store, ability to make HTTP/DNS requests, etc."
-
-https://firebase.google.com/
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
 
 Go
 https://golang.org/pkg/go/format/ | format - The Go Programming Language
@@ -801,9 +739,6 @@ Mojombo
 
 Vite (Evan You)
 * [Vite GitHub](https://github.com/vitejs/vite)
-
-Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 
 <!--
 https://github.com/sdras/contentful-nuxt-netlify
@@ -1141,9 +1076,6 @@ styled-components
 React Performance Optimizations
 -->
 
-Expo
-* [Expo](https://expo.io)
-
 Compiling/Transpiling
 * [TypeScript](https://www.typescriptlang.org), [TypeScript Playground](http://www.typescriptlang.org/play), [TypeScript (Microsoft) GitHub](https://github.com/Microsoft/TypeScript), and [TypeScript Wikipedia](https://en.wikipedia.org/wiki/TypeScript)
 * [Babel](https://babeljs.io) and [Babel GitHub](https://github.com/babel/babel) 
@@ -1240,6 +1172,47 @@ https://angular.io/docs
 https://johnpapa.net/why-does-there-have-to-be-something-wrong-with-angularjs/
 https://github.com/johnpapa/angular-styleguide
 -->
+
+## Google Design
+
+Polymer (See also Facebook React)
+* [Polymer Project](https://www.polymer-project.org)
+
+* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
+* [Polymer Designer GitHub](https://github.com/Polymer/designer)
+* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
+
+
+Deprecated
+* [Google Web Starter Kit](https://developers.google.com/web/starter-kit)
+* [PWA Starter Kit](https://pwa-starter-kit.polymer-project.org/)
+
+Styleguide
+* [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html) and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
+
+
+Google \ Design (See also Facebook React)
+* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
+
+<!--
+https://material.io/design/ | Design - Material Design
+
+https://material.io/guidelines/resources/roboto-noto-fonts.html
+https://material.io/guidelines/style/typography.html#typography-line-height
+
+Flutter
+https://material.io/guidelines
+https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
+https://getmdl.io/components/index.html#card-selection
+https://getmdl.io
+
+Android
+https://materialdesignkit.com
+-->
+
+Bootstrap Material Design
+* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
+* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
 
 ## Top JavaScript Frameworks & Topics to Learn in 2018
 
