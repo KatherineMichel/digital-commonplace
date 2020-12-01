@@ -210,6 +210,9 @@ https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-in
 https://github.com/matteofigus/awesome-speaking
 
 https://slidesgo.com/editors-choice
+https://www.canva.com/presentations/templates/
+
+https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
 
 Vicky
 https://www.meetup.com/Code-for-Philly/events/273595264/ | Technical Blogging with Vicki Boykis | Meetup
@@ -602,9 +605,11 @@ https://repl.it/@KatherineMichel/
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 
-https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Docker and Containers in the Complete Intro to Containers course! Create deploy and dev environments, and coordinate large scale applications.
+
+https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
 
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
@@ -785,16 +790,6 @@ https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
 https://postgis.net/docs/manual-3.0/
 https://postgis.net/docs/manual-3.0/ch06.html
 https://www.gaia-gis.it/fossil/libspatialite/index
-
-https://en.wikipedia.org/wiki/List_of_file_formats
-https://en.wikipedia.org/wiki/File_format
-https://en.wikipedia.org/wiki/List_of_filename_extensions
-https://en.wikipedia.org/wiki/Filename_extension
-https://en.wikipedia.org/wiki/Binary_file
-https://en.wikipedia.org/wiki/Text_file
-https://en.wikipedia.org/wiki/System_file
-https://en.wikipedia.org/wiki/File_system
-https://en.wikipedia.org/wiki/Directory_structure
 
 Docs driven dev
 Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
@@ -1329,6 +1324,7 @@ https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "
 
 <!--
 Docusaurus
+https://v2.docusaurus.io/docs/installation
 https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
 https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
 
@@ -1473,6 +1469,16 @@ Shebang File
 
 <!--
 ZSH, Bash and command line, aliases/bash script aliases
+
+https://en.wikipedia.org/wiki/List_of_file_formats
+https://en.wikipedia.org/wiki/File_format
+https://en.wikipedia.org/wiki/List_of_filename_extensions
+https://en.wikipedia.org/wiki/Filename_extension
+https://en.wikipedia.org/wiki/Binary_file
+https://en.wikipedia.org/wiki/Text_file
+https://en.wikipedia.org/wiki/System_file
+https://en.wikipedia.org/wiki/File_system
+https://en.wikipedia.org/wiki/Directory_structure
 
 Julia Evans
 
@@ -1641,6 +1647,8 @@ Site Reliability Engineering
 * [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
 
 <!--
+https://hpbn.co/primer-on-web-performance/#anatomy-of-a-modern-web-application
+
 https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
 
 https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
@@ -1821,6 +1829,125 @@ https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFi
 -->
 
 
+## Learning Resources- Challenges
+
+Practice
+* [LeetCode](https://leetcode.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+
+<!--
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+-->
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+
+Gam Jam
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+Games
+https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
+https://js13kgames.com/
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+GitHub Actions
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+-->
+
+## News and Terminology
+
+Articles
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+
+Stack Overflow
+* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
+
+<!--
+https://hn.algolia.com/?q=ask+hn
+
+https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
+
+https://womenmake.com/ | Women Make
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+-->
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Product Hunt and BetaList
+
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
+* [Top 500 Products](http://500products.com)
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+<!--
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+
 ## Makers
 
 Django, GitHub, SQL
@@ -1882,50 +2009,6 @@ https://github.com/tj
 https://github.com/mikeal?tab=stars | mikeal (Mikeal Rogers) / Starred
 -->
 
-## News and Terminology
-
-Articles
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-
-Stack Overflow
-* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
-
-<!--
-https://hn.algolia.com/?q=ask+hn
-
-https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
-
-https://womenmake.com/ | Women Make
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
--->
-
-
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
 ## Showcases
 
 Python- Django- Sites
@@ -1950,28 +2033,6 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
-
-## Product Hunt and BetaList
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club )
-* [Top 500 Products](http://500products.com)
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/nomination7) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-<!--
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
--->
 
 
 ## Project Ideas and Learning Resources
@@ -2070,67 +2131,6 @@ https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on T
 -->
 
 <!--
-Data Science
-
-https://www.kaggle.com/learn/python
-
-https://scikit-learn.org/stable/tutorial/index.html
-https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
-https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
-
-https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c
-https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0 | The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
-https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
-https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
-https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02 | You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
-https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd | Do You Know Python Has A Built-In Database? | by Christopher Tao | Jul, 2020 | Towards Data Science
-https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc | GitHub Action That Automates Portfolio Generation | by Kaustubh | Oct, 2020 | Towards Data Science
-
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
--->
-
-<!--
-Python 3.9
-https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
-https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
-
-https://testdriven.io/blog/python-dependency-injection/ | Python Dependency Injection | TestDriven.io
-https://testdriven.io/blog/fastapi-graphql/ | Developing an API with FastAPI and GraphQL | TestDriven.io
-https://testdriven.io/blog/flask-pytest/ | Testing Flask Applications with Pytest | TestDriven.io
-
-https://www.pythonmorsels.com/topics/looping-over-multiple-iterables/ | Python Morsels
-
-https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
-https://github.com/realpython/django-slow-tests | realpython/django-slow-tests: Locate your slowest tests.
-https://github.com/realpython/python-scripts/issues | Issues · realpython/python-scripts
-https://dev.to/adityagamedev/screen-recording-in-python-2g89 | Screen Recording using python - DEV Community 👩‍💻👨‍💻
-
-https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial | Django, Docker, and PostgreSQL Tutorial | LearnDjango.com
-https://learndjango.com/tutorials/django-allauth-tutorial | Django-allauth Tutorial | LearnDjango.com
-
-https://pythonspeed.com/articles/official-python-docker-image/ | A deep dive into the official Docker image for Python
-
-https://www.learnandmakeit.com/browser-automation-with-python-and-selenium/ | Browser Automation with Python and Selenium
-https://www.learnandmakeit.com/best-python-books-for-beginner-and-advanced-programmers/ | Best Python Books for Beginner and Advanced Programmers
-
-https://learnbyexample.github.io/customizing-pandoc/ | learnbyexample - Customizing pandoc to generate beautiful pdf and epub from markdown
-
-http://www.justjon.net/reviews/review-natural-language-processing-with-python-and-spacy/ | Review: Natural Language Processing With Python and spaCy | JustJon Online
-
-https://www.blog.pythonlibrary.org/ | The Mouse Vs. The Python - Python Programming from the Frontlines
-https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
-
-wxpython
-https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
-
-https://pbpython.com/pandas-excel-range.html | Reading Poorly Structured Excel Files with Pandas - Practical Business Python
-
-
-
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 
 https://glitch.dev/ | Using Glitch for Developer Relations
@@ -2139,33 +2139,7 @@ https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
-
-* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
-
-https://github.com/search?q=top+python | Search · top python
-https://github.com/search?q=python+package | Search · python package
-https://github.com/search?q=django
-https://github.com/search?p=3&q=node&type=Repositories | Search · node
-
-https://github.com/actions?q=heroku&type=&language= | GitHub Actions
-https://github.com/search?q=github+action+heroku | Search · github action heroku
-https://github.com/heroku?q=python&type=&language= | Heroku
-
-https://github.com/search?q=project
-https://github.com/search?q=example
-https://github.com/search?q=sample
-https://github.com/search?q=demo
-https://github.com/search?q=boilerplate
-https://github.com/search?q=starter
-
-https://github.com/search?q=clone
-https://github.com/search?q=instagram
-https://github.com/search?q=twitter
-https://github.com/search?q=slack
-https://github.com/search?q=hacker+news
 -->
-
 
 <!--
 https://thenewstack.io
@@ -2204,59 +2178,67 @@ https://repl.it/leaders | Repl.it - Leaderboard
 https://repl.it/talk/
 -->
 
-## Learning Resources- Challenges
-
-Practice
-* [LeetCode](https://leetcode.com)
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-
 <!--
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
+Tutorials
 
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+Python 3.9
+https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
+https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
+https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
+
+https://testdriven.io/blog/python-dependency-injection/ | Python Dependency Injection | TestDriven.io
+https://testdriven.io/blog/fastapi-graphql/ | Developing an API with FastAPI and GraphQL | TestDriven.io
+https://testdriven.io/blog/flask-pytest/ | Testing Flask Applications with Pytest | TestDriven.io
+
+https://www.pythonmorsels.com/topics/looping-over-multiple-iterables/ | Python Morsels
+
+https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
+https://github.com/realpython/django-slow-tests | realpython/django-slow-tests: Locate your slowest tests.
+https://github.com/realpython/python-scripts/issues | Issues · realpython/python-scripts
+https://dev.to/adityagamedev/screen-recording-in-python-2g89 | Screen Recording using python - DEV Community 👩‍💻👨‍💻
+
+https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial | Django, Docker, and PostgreSQL Tutorial | LearnDjango.com
+https://learndjango.com/tutorials/django-allauth-tutorial | Django-allauth Tutorial | LearnDjango.com
+
+https://pythonspeed.com/articles/official-python-docker-image/ | A deep dive into the official Docker image for Python
+
+https://www.learnandmakeit.com/browser-automation-with-python-and-selenium/ | Browser Automation with Python and Selenium
+https://www.learnandmakeit.com/best-python-books-for-beginner-and-advanced-programmers/ | Best Python Books for Beginner and Advanced Programmers
+
+https://learnbyexample.github.io/customizing-pandoc/ | learnbyexample - Customizing pandoc to generate beautiful pdf and epub from markdown
+
+http://www.justjon.net/reviews/review-natural-language-processing-with-python-and-spacy/ | Review: Natural Language Processing With Python and spaCy | JustJon Online
+
+https://www.blog.pythonlibrary.org/ | The Mouse Vs. The Python - Python Programming from the Frontlines
+https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
+
+wxpython
+https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
+
+https://pbpython.com/pandas-excel-range.html | Reading Poorly Structured Excel Files with Pandas - Practical Business Python
 -->
 
-
-
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
 <!--
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+Data Science
 
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+https://www.kaggle.com/learn/python
 
-https://js1024.fun/results/2020 | JS1024 Results - 2020
+https://scikit-learn.org/stable/tutorial/index.html
+https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
 
-Gam Jam
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c
+https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0 | The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science
+https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
+https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
+https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
+https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02 | You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
+https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd | Do You Know Python Has A Built-In Database? | by Christopher Tao | Jul, 2020 | Towards Data Science
+https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc | GitHub Action That Automates Portfolio Generation | by Kaustubh | Oct, 2020 | Towards Data Science
 
-Games
-https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
-https://js13kgames.com/
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-
-GitHub Actions
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 -->
 
 
@@ -2318,49 +2300,6 @@ Wes Bos Courses
 * [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
-
-<!--
-https://github.com/wesbos/JavaScript30
-
-https://github.com/bradtraversy/
-https://www.udemy.com/user/brad-traversy/
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-Traversy
-https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/modern_portfolio
-https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
-
-https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
-
-JS
-https://github.com/btholt
-https://github.com/kentcdodds/
-https://github.com/wesbos/
-
-https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
-https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
-https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
--->
-
-
 <!--
 Web Design
 https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
@@ -2378,10 +2317,7 @@ https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Gu
 https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
 
 
-Recommendation
-https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
-
-
+Sarah
 https://css-tricks.com/learning-to-learn/
 
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
@@ -2396,6 +2332,29 @@ https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
 
 Egghead
 https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+
+https://github.com/bradtraversy/
+https://www.udemy.com/user/brad-traversy/
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+
+Traversy
+https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/modern_portfolio
+https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
+
+https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+
+https://github.com/wesbos/JavaScript30
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 
 
 https://frontendmasters.com
@@ -2414,7 +2373,18 @@ Front End Masters Handbook
 https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+
+
+Recommendation
+https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
+
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 -->
+
 
 ## Wes Bos
 
@@ -2428,9 +2398,6 @@ https://commandlinepoweruser.com/ | Command Line Power User — A free video ser
 hyper terminal - Google Search
 update node and npm - Google Search
 -->
-
-
-## JavaScript 30
 
 <!--
 https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
@@ -2462,6 +2429,31 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 -->
 
 
+<!--
+* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+
+https://github.com/search?q=top+python | Search · top python
+https://github.com/search?q=python+package | Search · python package
+https://github.com/search?q=django
+https://github.com/search?p=3&q=node&type=Repositories | Search · node
+
+https://github.com/actions?q=heroku&type=&language= | GitHub Actions
+https://github.com/search?q=github+action+heroku | Search · github action heroku
+https://github.com/heroku?q=python&type=&language= | Heroku
+
+https://github.com/search?q=project
+https://github.com/search?q=example
+https://github.com/search?q=sample
+https://github.com/search?q=demo
+https://github.com/search?q=boilerplate
+https://github.com/search?q=starter
+
+https://github.com/search?q=clone
+https://github.com/search?q=instagram
+https://github.com/search?q=twitter
+https://github.com/search?q=slack
+https://github.com/search?q=hacker+news
+-->
 
 <!--
 Non-Python
@@ -2489,6 +2481,7 @@ Hackathon Starters
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/DrkSephy/django-hackathon-starter
 -->
+
 
 <!--
 Django Tutorials
