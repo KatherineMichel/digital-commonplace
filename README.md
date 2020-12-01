@@ -605,12 +605,6 @@ https://repl.it/@KatherineMichel/
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Docker and Containers in the Complete Intro to Containers course! Create deploy and dev environments, and coordinate large scale applications.
-
-https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
-
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
@@ -619,7 +613,6 @@ https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba435
 
 
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
 
 
 ## Community
@@ -766,8 +759,9 @@ https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home direc
 
 ## Miscellaneous Tech
 
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
 Important!
-https://andreasbm.github.io/web-skills/?compact | Web Skills
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 
@@ -2357,17 +2351,23 @@ https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn wi
 https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 
 
-https://frontendmasters.com
+https://github.com/andreasbm/web-skills
+https://andreasbm.github.io/web-skills/?compact | Web Skills
 
+https://github.com/btholt/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://btholt.github.io/intro-to-web-dev-v2/
+https://github.com/btholt/intro-to-web-dev-v2
+https://btholt.github.io/complete-intro-to-containers/
+https://github.com/btholt/complete-intro-to-containers
+https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
+
+https://frontendmasters.com
 
 https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
 
 https://codepen.io/btholt/ | Brian Holt on CodePen
 http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
-
-https://btholt.github.io/complete-intro-to-containers/
 
 Front End Masters Handbook
 https://github.com/FrontendMasters/front-end-handbook-2019
