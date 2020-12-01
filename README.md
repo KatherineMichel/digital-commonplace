@@ -30,48 +30,25 @@ https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 
 ## Personal Brand
 
-https://twitter.com/dparzych/status/1211813997202161665 | Dawn is done with travel for the year. on Twitter: "2019 by the numbers: 2 jobs 5 new talks created &amp; delivered 9 speaking engagements 15 articles/blogs published 58 books read Doubled daily step count. I am now doing between 10 &amp; 12K a day compared to 4-6K in March. 22K miles flown (a 50% reduction from last year)." / Twitter
-
 Brand
 http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
 
-https://twitter.com/tucker_dev/status/1287427626899038210 | James Tucker on Twitter: "4 things you can do to make your Github shine during your job search 1. Add a profile readme 2. Pin your favorite or most impressive projects 3. Add readmes to them 4. Create gifs of your projects and add them to your readmes" / Twitter
-
-https://twitter.com/mraible/status/1074679374417399808 | Matt Raible on Twitter: "#DevRel protip: 1. Code a sample app 2. Publish a blog post to show how you built it 3. Build a demo script from the blog post 4. Record a screencast of your demo 5. Assemble a presentation from content 6. Present at meetups and conferences Bonus: use @asciidoctor #ProTip… https://t.co/Q2DaECkSJE"
-
 Brian Douglas
-https://twitter.com/bdougieYO
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
-https://twitter.com/saucedopen/
-https://www.meetup.com/Open-Sauced-Meetup/
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
-
-Speaking
-https://automationpanda.com/speaking/
 
 2020 Goals
 https://twitter.com/AutomationPanda/status/1226591212632596480
+https://automationpanda.com/2020/02/09/my-2020-goals/
 
 Wow
 https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
 
-MSc
-https://twitter.com/NimaRoohiS/status/1312916303225729026
-
 Brag documents
 https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-https://twitter.com/bitfield/status/1142434820196306946 | John Arundel on Twitter: "The "stuff you did" list is also super useful when annual review comes around, because for some reason in that situation I can never think of one damned thing.… https://t.co/daVNT6UJpi"
 
 Accomplishments versus responsibilities
 https://twitter.com/jacobian/status/1258783603959500807 | jacobian on Twitter: "I've reviewed thousands of engineers' resumes, and most make the same mistake: they focus on responsibilities, not accomplishments. If you want your resume to stand out, you need accomplishments. Here are some examples of what those look like: https://t.co/dAgJXhRAcU" / Twitter
 
 https://jacobian.org/2020/mar/13/layoffs-are-coming/ | Layoffs are Coming | Jacob Kaplan-Moss
-
-DSF Fellow Stats
-https://mobile.twitter.com/MariuszFelisiak/status/1247263543667425282 | Mariusz Felisiak on Twitter: "For the past 12 months I've served as a @djangoproject Fellow 🦄. Here are some stats 📊: Triaged: 7️⃣7️⃣5️⃣🎫 Reviewed/committed: 6️⃣0️⃣3️⃣PR Authored: 9️⃣1️⃣PR Releases issued: 1️⃣8️⃣" / Twitter
-
-LinkedIn
-https://twitter.com/DThompsonDev/status/1316585189498380288 | Danny Thompson on Twitter: "If your goal is to get a job in tech and you don't have a good Linkedin profile, I don't know what you are doing. 675 million monthly users, 90 Million users are hiring managers or decision makers for Businesses. Stand out where they Hang out!" / Twitter
 
 
 ## Demos and Other Content
@@ -630,19 +607,13 @@ https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Dock
 https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
-https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
-
-
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
-
-
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
 
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
 
 
 
@@ -749,17 +720,8 @@ https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter
 ## Look Through
 
 Julia Evans
-https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
-https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
 
 Unix and bash
-
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
 
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
@@ -1525,6 +1487,10 @@ ZSH, Bash and command line, aliases/bash script aliases
 
 Julia Evans
 
+https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
+https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
+
+
 https://wizardzines.com/comics/ | https://wizardzines.com/comics/
 https://twitter.com/b0rk
 https://github.com/jvns/
@@ -1890,6 +1856,15 @@ Product
 <!--
 ## Makers and Projects
 
+Brian Douglas
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://twitter.com/bdougieYO
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+
 Lorena
 https://github.com/lorenanicole
 Mariatta
@@ -1910,9 +1885,6 @@ https://github.com/JasonEtco?tab=stars | JasonEtco (Jason Etcovitch) / Starred
 
 https://mikecoutermarsh.com/ | Mike Coutermarsh
 https://jasonet.co/ | Jason Etcovitch · jasonet.co
-
-https://www.bdougie.live/ | bdougie.live
-https://github.com/bdougie/blog | bdougie/blog: My blog
 
 https://github.com/simonw?tab=stars | simonw (Simon Willison) / Starred
 https://github.com/simonw?tab=following | simonw (Simon Willison) / Following
@@ -2995,6 +2967,15 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_C
 https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
 https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
 https://flexboxfroggy.com/
+-->
+
+<!--
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
 -->
 
 ## Mozilla- JavaScript
@@ -4125,6 +4106,8 @@ Terminal String Styling
 * [Pygments](https://pygments.org/) and [Pygments GitHub](https://github.com/pygments/pygments/)
 
 <!--
+https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
+
 https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
 
 https://github.com/realpython/pygments-httpie/
