@@ -698,6 +698,13 @@ https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
 https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
 
 
+Martin
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
+
+Interesting
+https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
+
+
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
 
@@ -825,24 +832,6 @@ https://pop.system76.com/
 Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
-
-Martin
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
-
-Interesting
-https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
-
-
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
-
-
-https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
-https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
-
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 
 Accessibility
 https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
@@ -2818,6 +2807,50 @@ Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
+<!--
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
+
+https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
+https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
+
+https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
+-->
+
+
+## Notable
+
+<!--
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+
+
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+let and const Declarations
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+-->
+
+<!--
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+-->
+
 
 ## You Might Not Need
 
@@ -2894,6 +2927,8 @@ https://expressjs.com/en/api.html
 
 https://nodejs.org/api/http.html
 https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+
 https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
 https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
 https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
@@ -2903,22 +2938,6 @@ DNS
 https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 -->
-
-## Notable
-
-<!--
-https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
-
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
--->
-
 
 ## Mozilla and Google- General Docs
 
@@ -2939,13 +2958,6 @@ Glossaries
 
 <!--
 https://web.dev/ | web.dev  |  web.dev
-
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
 
@@ -3023,15 +3035,6 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_C
 https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
 https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
 https://flexboxfroggy.com/
--->
-
-<!--
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
 -->
 
 ## Mozilla- JavaScript
@@ -3646,6 +3649,7 @@ https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises i
 https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 -->
+
 
 ## Systems
 
