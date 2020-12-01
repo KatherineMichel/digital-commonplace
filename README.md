@@ -198,7 +198,11 @@ https://twitter.com/Nate_somewhere/status/1218962488189808640
 https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
 
 
-## Opportunities
+## Opportunities and Ideas
+
+https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
+https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
+https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 
 https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
 
@@ -254,10 +258,7 @@ https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
 
 
-## Portfolio Idea
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+## Portfolio Ideas
 
 As CTO
 https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
@@ -266,9 +267,11 @@ https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-y
 
 https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
-https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
-https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
-https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
 
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
@@ -280,14 +283,13 @@ https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
 OS Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
 
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
 https://github.com/HangarOrg/
 https://github.com/HangarOrg/sphinx-netlify-cicd
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
 Collapsible markdown
 https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
@@ -604,8 +606,6 @@ https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Crea
 
 https://frontendmasters.com/courses/complete-intro-containers/ | 🐋 Learn Docker and Containers in the Complete Intro to Containers course! Create deploy and dev environments, and coordinate large scale applications.
 
-https://github.com/tuvtran/project-based-learning | tuvtran/project-based-learning: Curated list of project-based tutorials
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
@@ -656,6 +656,7 @@ https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguid
 
 https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
 http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
 
 https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
 
@@ -824,7 +825,6 @@ https://pop.system76.com/
 Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 Martin
 https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
@@ -2440,9 +2440,11 @@ hyper terminal - Google Search
 update node and npm - Google Search
 -->
 
+
 ## JavaScript 30
 
 <!--
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
 https://github.com/wesbos/JavaScript30
 
 https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
@@ -2728,11 +2730,39 @@ Python- Django- Project Stucture
 
 
 
+## Google Chrome Dev Tools
 
 <!--
-https://github.com/wesbos/JavaScript30 | wesbos/JavaScript30: 30 Day Vanilla JS Challenge
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
+
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
 -->
+
 
 <!--
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
@@ -3271,26 +3301,6 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
-## CMS
-
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
-
-<!--
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
--->
-
-## Database
-
-<!--
-Firebase
-https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
-Actions
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://blog.repl.it/database | Repl.it - A database for every repl
--->
-
 
 ## Python and Django- Using
 
@@ -3459,7 +3469,31 @@ https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-
 -->
 
 
+## CMS
+
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+
+<!--
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+-->
+
+## Database
+
+<!--
+Firebase
+https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+Actions
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://blog.repl.it/database | Repl.it - A database for every repl
+-->
+
 ## Mobile Optimized
+
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
 
 Create React App
 * ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
@@ -3469,6 +3503,7 @@ Facebook- React Native
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
 Expo (React Native alternative) 
+* [Expo](https://expo.io)
 * [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
 
 Progressive Web Apps (PWA)
@@ -3505,48 +3540,6 @@ https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app
 -->
-
-## Google Design
-
-Polymer (See also Facebook React)
-* [Polymer Project](https://www.polymer-project.org)
-
-* [Polymer GitHub](https://github.com/polymer/polymer), [Polymer Docs GitHub](https://github.com/Polymer/docs)
-* [Polymer Designer GitHub](https://github.com/Polymer/designer)
-* [Polymer Starter Kit (Compatible with Material Design)](https://developers.google.com/web/tools/polymer-starter-kit) and [Polymer Starter Kit GitHub (Compatible with Material Design)](https://github.com/PolymerElements/polymer-starter-kit) 
-
-
-Deprecated
-* [Google Web Starter Kit](https://developers.google.com/web/starter-kit)
-* [PWA Starter Kit](https://pwa-starter-kit.polymer-project.org/)
-
-Styleguide
-* [Google Web Starter Kit Styleguide](http://google.github.io/web-starter-kit/hello-world/styleguide.html) and [Google Web Starter Kit GitHub](https://github.com/google/web-starter-kit)  
-
-
-Google \ Design (See also Facebook React)
-* [Google Material Design](https://material.io), [Google Material Design Introduction](https://material.io/guidelines/material-design/introduction.html), [Google Material Design Video](https://design.google.com/videos/making-material-design/),[Google Material Design Lite GitHub](https://github.com/google/material-design-lite), [Google Material Design Lite Components](http://www.getmdl.io/components/index.html), [Google Material Design Lite Theme Buildr](http://www.getmdl.io/customize/index.html), [Google Material Design Icons](https://www.google.com/design/icons), and [Google Material Design Icons GitHub](https://github.com/google/material-design-icons)
-
-<!--
-https://material.io/design/ | Design - Material Design
-
-https://material.io/guidelines/resources/roboto-noto-fonts.html
-https://material.io/guidelines/style/typography.html#typography-line-height
-
-Flutter
-https://material.io/guidelines
-https://material.io/guidelines/resources/layout-templates.html#layout-templates-desktop
-https://getmdl.io/components/index.html#card-selection
-https://getmdl.io
-
-Android
-https://materialdesignkit.com
--->
-
-Bootstrap Material Design
-* [Material Design Bootstrap Templates](http://mdbootstrap.com/templates)
-* [Bootstrap Material Design GitHub](https://github.com/FezVrasta/bootstrap-material-design)
-
 
 
 ## Python Syntax and Python Versus JavaScript
@@ -3601,8 +3594,6 @@ https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScri
 https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
 https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
 
-https://github.com/ryanmcdermott/clean-code-javascript
-
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
 https://en.wikipedia.org/wiki/State_pattern
@@ -3612,8 +3603,14 @@ https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#cha
 -->
 
 <!--
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+Clean Code
+https://github.com/ryanmcdermott/clean-code-javascript
 https://github.com/zedr/clean-code-python
 
+
+Style
 * [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
 
 https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
@@ -3630,6 +3627,9 @@ https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-o
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+
 https://roadmap.sh/
 
 https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
