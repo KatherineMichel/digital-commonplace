@@ -2763,6 +2763,32 @@ https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcut
 https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
 -->
 
+## JavaScript Performance
+
+Lighthouse
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+Rendering
+* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+Offline
+* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+
+Measure
+* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+
+Semantics/SEO/Accessibility
+* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+-->
+
 
 <!--
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
