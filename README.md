@@ -579,21 +579,6 @@ https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experien
 
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
-
-## Design-y Stuff
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
-
-https://principles.design/
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
 -->
 
 
@@ -602,17 +587,153 @@ https://designsystemchecklist.com/category/design-language/ | Design System Chec
 
 https://repl.it/@KatherineMichel/
 
+https://www.merriam-webster.com/dictionary/step%20change
+
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
+
+https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
+
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+
+https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
+
+https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
+https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
+
+Tessa
+https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
+https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
+https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
+
+
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
 
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
+https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
+https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
+
+
+https://stripe.com/docs/api | Stripe API Reference
+https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
+
+Jason
+https://jasonet.co/posts/thoughts-on-docs/ | Assorted thoughts on documentation - Jason Etcovitch · jasonet.co
+https://twitter.com/Jwnathan_W/status/1321219851185090560 | Jonathan Wong on Twitter: "Documentation (at smaller early stage companies especially) is difficult. After seeing @JasonEtco's talk today at #nextjsconf it got me thinking a lot more about the direction and approach to documentation - especially when starting with almost none (or random bits everywhere)" / Twitter
+
+
+## Design-y Stuff
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+
+https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+
+Design
+https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
+https://principles.design/examples/ | Examples
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+https://lawsofux.com/ | Home | Laws of UX
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+https://refactoringui.com/previews/building-your-color-palette/ | Building Your Color Palette
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
+
+https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
+https://github.com/LambdaSchool | Lambda School, Inc.
 
 
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+http://www.csszengarden.com/
+
+https://stateofcss.com/ | The State of CSS Survey
+https://stateofjs.com/
+
+https://1mb.club/ | 1MB Club
+https://250kb.club/ | The 250kb Club
+https://nojs.club/ | The NoJS Club!
+
+https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
+
+https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
+
+https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
+https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
+https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
+
+https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+https://twitter.com/rauchg/status/1328040020460990464 | Guillermo Rauch on Twitter: "@sarah_edo @threepointone Absolutely. The Chrome team just publishes RFCs like anybody else can" / Twitter
+
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+
+Use
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+
+https://django.doctor/challenge | Django Doctor - Django code improvement bot
+
+Luke
+https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
+
+https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
+
+Simon
+https://twitter.com/simonw/status/1332309496824172544 | Simon Willison on Twitter: "These are really nice - and this notebook lets you interactively adjust things like colors and line-widths for the different counties and zip codes" / Twitter
+https://twitter.com/simonw/status/1331380727754067969 | Simon Willison on Twitter: "Today I was reminded of how insanely performant ripgrep is - I wanted to search across all of my checked out Git repos (~500 folders) so I ran rg '\.config\(' -g '*.py' in the parent directory and it gave me results across all 500 projects in ~2.5 seconds" / Twitter
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
+https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
+https://simonwillison.net/2020/Oct/9/git-scraping/ | Git scraping: track changes over time by scraping to a Git repository
+https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
+https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
+
+
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+
+https://oo.t9t.io/organizations | Open companies
+
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
+https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+
+Governance
+https://www.zotero.org/groups/2310183/foss_governance/library | FOSS Governance | Zotero
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+
+http://www.githubstars.com/ | GithubStars | Find Top Developers
+
+https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
+https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
+
+https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
+https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
+
+Bazel
+https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
 
 
 ## Community
