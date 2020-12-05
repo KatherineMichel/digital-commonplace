@@ -765,6 +765,9 @@ https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Beca
 https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
 https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
 
+Mariatta
+https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitter: "Just published my talk Demystifying Public Speaking from last night's @pyladiesvan to @YouTube https://t.co/tQ7ZyvfqPc (13 minutes long)" / Twitter
+
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
