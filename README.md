@@ -2216,6 +2216,10 @@ David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 <!--
+Data Science
+
+https://www.kaggle.com/learn/python
+
 Digital Ocean
 https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
@@ -2307,60 +2311,6 @@ Python 3.9
 https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
 https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
 https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
-
-https://testdriven.io/blog/python-dependency-injection/ | Python Dependency Injection | TestDriven.io
-https://testdriven.io/blog/fastapi-graphql/ | Developing an API with FastAPI and GraphQL | TestDriven.io
-https://testdriven.io/blog/flask-pytest/ | Testing Flask Applications with Pytest | TestDriven.io
-
-https://www.pythonmorsels.com/topics/looping-over-multiple-iterables/ | Python Morsels
-
-https://realpython.com/lessons/pypi-overview-sample-project-setup/ | PyPI Overview & Sample Project Setup – Real Python
-https://github.com/realpython/django-slow-tests | realpython/django-slow-tests: Locate your slowest tests.
-https://github.com/realpython/python-scripts/issues | Issues · realpython/python-scripts
-https://dev.to/adityagamedev/screen-recording-in-python-2g89 | Screen Recording using python - DEV Community 👩‍💻👨‍💻
-
-https://learndjango.com/tutorials/django-docker-and-postgresql-tutorial | Django, Docker, and PostgreSQL Tutorial | LearnDjango.com
-https://learndjango.com/tutorials/django-allauth-tutorial | Django-allauth Tutorial | LearnDjango.com
-
-https://pythonspeed.com/articles/official-python-docker-image/ | A deep dive into the official Docker image for Python
-
-https://www.learnandmakeit.com/browser-automation-with-python-and-selenium/ | Browser Automation with Python and Selenium
-https://www.learnandmakeit.com/best-python-books-for-beginner-and-advanced-programmers/ | Best Python Books for Beginner and Advanced Programmers
-
-https://learnbyexample.github.io/customizing-pandoc/ | learnbyexample - Customizing pandoc to generate beautiful pdf and epub from markdown
-
-http://www.justjon.net/reviews/review-natural-language-processing-with-python-and-spacy/ | Review: Natural Language Processing With Python and spaCy | JustJon Online
-
-https://www.blog.pythonlibrary.org/ | The Mouse Vs. The Python - Python Programming from the Frontlines
-https://www.blog.pythonlibrary.org/2020/09/15/python-101-an-intro-to-working-with-json/ | Python 101: An Intro to Working with JSON - The Mouse Vs. The Python
-
-wxpython
-https://www.blog.pythonlibrary.org/2020/09/22/wxpython-by-example-adding-a-background-image-video/ | wxPython by Example - Adding a Background Image (Video) - The Mouse Vs. The Python
-
-https://pbpython.com/pandas-excel-range.html | Reading Poorly Structured Excel Files with Pandas - Practical Business Python
--->
-
-<!--
-Data Science
-
-https://www.kaggle.com/learn/python
-
-https://scikit-learn.org/stable/tutorial/index.html
-https://docs.opencv.org/master/d6/d00/tutorial_py_root.html
-https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
-https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
-https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
-
-https://towardsdatascience.com/everything-you-need-to-learn-python-from-zero-to-hero-3dc950cb1b4c
-https://towardsdatascience.com/the-magic-of-python-context-managers-adb92ace1dd0 | The Magic of Python Context Managers | by Martin Heinz | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/writing-more-idiomatic-and-pythonic-code-c22e900eaf83 | Writing More Idiomatic and Pythonic Code | by Martin Heinz | Sep, 2020 | Towards Data Science
-https://towardsdatascience.com/top-7-repositories-on-github-to-learn-python-44a3a7accb44 | The Top 7 Best Github Repositories to Learn Python | by Byron Dolon | Aug, 2020 | Towards Data Science
-https://towardsdatascience.com/advanced-sqlalchemy-features-you-need-to-start-using-e6fc1ddafbdb | Advanced SQLAlchemy Features You Need To Start Using | by Martin Heinz | Jul, 2020 | Towards Data Science
-https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02 | You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science
-https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd | Do You Know Python Has A Built-In Database? | by Christopher Tao | Jul, 2020 | Towards Data Science
-https://towardsdatascience.com/github-action-that-automates-portfolio-generation-bc15835862dc | GitHub Action That Automates Portfolio Generation | by Kaustubh | Oct, 2020 | Towards Data Science
-
-https://www.datacamp.com/community/tutorials/18-most-common-python-list-questions-learn-python | 18 Most Common Python List Questions | Learn Python (article) - DataCamp
 -->
 
 
