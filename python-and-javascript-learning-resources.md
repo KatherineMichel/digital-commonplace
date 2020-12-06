@@ -679,24 +679,6 @@ https://www.gun.io/ | Gun.io - Hire Elite Freelance Technical Talent
 https://www.youtube.com/watch?v=fPjB-Jyn40Q | TestDriven.io Course UI Improvements - YouTube
 https://testdriven.io/blog/css-grid/ | CSS Grid: No Nonsense Layouts | TestDriven.io
 
-https://www.youtube.com/watch?v=P7xpp4JGr50 | Readability Counts - Trey Hunner - YouTube
-
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-
-https://treyhunner.com/2019/05/python-builtins-worth-learning/
-https://twitter.com/__mharrison__/status/1217626019038760960
-
-https://treyhunner.com/2018/04/keyword-arguments-in-python/
-https://treyhunner.com/2019/04/is-it-a-class-or-a-function-its-a-callable | Is it a class or a function? It's a callable! - Trey Hunner
-https://docs.python.org/3.7/library/functions.html#callable | Built-in Functions — Python 3.7.4 documentation
-https://treyhunner.com/lazy-looping/resources.html | Lazy Looping: The Next Iteration
-
-https://treyhunner.com/2018/10/asterisks-in-python-what-they-are-and-how-to-use-them/ | Asterisks in Python: what they are and how to use them - Trey Hunner
-https://treyhunner.com/2016/04/how-to-loop-with-indexes-in-python/#while | How to loop with indexes in Python - Trey Hunner
-https://treyhunner.com/2019/01/no-really-pathlib-is-great/ | No really, pathlib is great - Trey Hunner
-https://en.wikipedia.org/wiki/Sentinel_value | Sentinel value - Wikipedia
-https://treyhunner.com/2019/03/unique-and-sentinel-values-in-python/ | Unique sentinel values, identity checks, and when to use object() instead of None - Trey Hunner
-
 Raymond Course
 https://twitter.com/raymondh/status/1143839042934661120 | Raymond Hettinger on Twitter: "@DoomHammerNG @nnja @llanga @rasbt @MichkaPopoff @pyladies @realpython @sophywong @mateusz__be My safarionline video course is inexpensive and aims at the intermediate/advanced level. IIRC, there is about 12 hours of video which translates to a four day course if you do all the exercises on your own machine. https://t.co/V5VCtHslXF" / Twitter
 
@@ -735,11 +717,6 @@ A Talk Near the Future of Python (a.k.a., Dave live-codes a WebAssembly Interpre
 https://www.youtube.com/watch?v=r-A78RgMhZU
 
 https://twitter.com/jtauber/status/1207871161658294272 | James Tauber on Twitter: "6/ Python 3 assumes .py files are 
-
-https://github.com/rhettinger/rhettinger.github.io | rhettinger/rhettinger.github.io: Public web pages from talks
-https://www.youtube.com/results?search_query=raymond+hettinger&sp=CAM%253D | raymond hettinger - YouTube
-https://www.youtube.com/playlist?list=PLRVdut2KPAguz3xcd22i_o_onnmDKj3MA | Raymond Hettinger Talks - YouTube
-https://twitter.com/search?q=raymondh%20slides&src=typd&lang=en | raymondh slides - Twitter Search
 
 https://github.com/fluentpython/example-code/blob/master/14-it-generator/aritprog_v2.py#L24 | example-code/aritprog_v2.py at master · fluentpython/example-code
 https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008 | Fluent Python: Clear, Concise, and Effective Programming: Luciano Ramalho: 4708364244547: Amazon.com: Books
