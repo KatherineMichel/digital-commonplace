@@ -72,10 +72,6 @@ https://twitter.com/bryanl/status/1295389406866677760
 
 ## Conferences
 
-https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
-https://www.python.org/events/python-user-group/ | Our Events | Python.org
-
-
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
 
 Dec 7
@@ -84,7 +80,15 @@ https://twitter.com/JennyMEvents/status/1331090793000407041 | JennyMEvents on Tw
 December 8-10
 https://githubuniverse.com/
 
+Octoverse
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
+
+GitHub and GitLab
+https://www.meetup.com/GitHub-Virtual-Meetup/ | GitHub Virtual Meetup (San Francisco, CA) | Meetup
+https://about.gitlab.com/blog/2020/11/19/gitlab-community-day/ | Join the first GitLab Community Day and get started with CI | GitLab
+
 https://pyjamas.live/ | Pyjamas 2020
+https://2021.pycascades.com/news/1-tickets-available/ | Tickets are now available 📣 🎟
 https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
 https://www.youtube.com/pytexas
 
@@ -139,21 +143,28 @@ https://twitter.com/__PyMX__ | PyMX (@__PyMX__) / Twitter
 
 
 https://pyvideo.org/ | PyVideo.org
-
 https://github.com/python-organizers/conferences/blob/master/2020.csv
 https://www.python.org/events/python-events/past/?page=2
+https://www.python.org/events/python-user-group/ | Our Events | Python.org
+https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
 
 PyCon
 https://us.pycon.org/2020/remote/
 https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
 https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
+https://pycon.blogspot.com/2020/12/announcing-pycon-us-2021.html | Announcing PyCon US 2021
 
 https://global.pydata.org/pages/schedule
 https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
 https://forum.numfocus.org/pydata-global/channels/town-square
 
+https://reinvent.awsevents.com/ | AWS re:Invent | Amazon Web Services
+
 
 ## DevRel
+
+Great Talk
+https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
 
 https://www.devrelcon.net/
 https://2018.devrelawards.com/
