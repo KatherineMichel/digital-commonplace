@@ -268,9 +268,13 @@ Traversy Media
 https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
 
 
+https://next.egghead.io/write-for-egghead | Writing for egghead
+
 https://github.com/freeCodeCamp/contribute
 https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
 https://github.com/FreeCodeCamp/design-style-guide
+
+https://substack.com/content | Content Guidelines
 
 
 ## Portfolio Ideas
