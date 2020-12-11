@@ -359,12 +359,6 @@ Fast API
 https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
 
 
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
-
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
 https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
@@ -525,15 +519,6 @@ https://github.com/digitalocean/hacktoberfest
 https://github.com/jamstack/jamstack.org
 https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 
-
-
-## Models and Stuff
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-http://www.collaborativefund.com/blog
-
 ## Product
 
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
@@ -595,58 +580,6 @@ https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experien
 
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
--->
-
-
-<!--
-## Of Interest
-
-https://repl.it/@KatherineMichel/
-
-https://www.merriam-webster.com/dictionary/step%20change
-
-https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
-
-https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
-https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
-
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-
-https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
-
-https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
-https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
-
-Tessa
-https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
-https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
-https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
-
-Sarah Drasner
-https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
-
-
-Hanselman
-https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
-https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-
-https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
-https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
-https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
-
-
-https://stripe.com/docs/api | Stripe API Reference
-https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
-
-Jason
-https://jasonet.co/posts/thoughts-on-docs/ | Assorted thoughts on documentation - Jason Etcovitch · jasonet.co
-https://twitter.com/Jwnathan_W/status/1321219851185090560 | Jonathan Wong on Twitter: "Documentation (at smaller early stage companies especially) is difficult. After seeing @JasonEtco's talk today at #nextjsconf it got me thinking a lot more about the direction and approach to documentation - especially when starting with almost none (or random bits everywhere)" / Twitter
-
 
 ## Design-y Stuff
 
@@ -671,12 +604,159 @@ https://refactoringui.com/previews/building-your-color-palette/ | Building Your 
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
+-->
 
 
+<!--
+## Of Interest
+
+https://repl.it/@KatherineMichel/
+
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
+
+Important tool
+https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
+
+https://www.merriam-webster.com/dictionary/step%20change
+
+https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
+
+http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+http://www.collaborativefund.com/blog
+
+https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
+
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
+
+Arxiv
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+
+https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
+
+https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
+
+https://leaddev.com/
+
+https://www.mail-archive.com/
+
+https://oo.t9t.io/organizations | Open companies
+
+https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
+https://twitter.com/redhatopen/
+
+https://about.gitlab.com/blog/
+
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
+http://www.githubstars.com/ | GithubStars | Find Top Developers
+https://github.com/popular-github-repos/
+https://search.firstround.com/lists
+
+Search
+https://hndex.ml/
+https://hndex.org/
+
+Top Videos
+https://redditvids.com/ | Discover shared videos and live broadcasts from Reddit | RedditVids.com
+Staff pick
+https://vimeo.com/161487817
+
+Learning
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI
+
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+
+https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
+https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
+
+Tessa
+https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
+https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
+https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
+
+Sarah Drasner
+https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
+
+Amir Shevat
+https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
+https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
+https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
+https://medium.com/@ashevat | Amir Shevat – Medium
+https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/1491974826 | Designing Bots: Creating Conversational Experiences: Shevat, Amir: 9781491974827: Amazon.com: Books
+https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
+https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
+hero theme - Google Search
+
+Hanselman
+https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
+
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+
+https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
+https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
+https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
+
+
+https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
 https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
 
 https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
 https://github.com/LambdaSchool | Lambda School, Inc.
+
+https://jwt.io/ | JSON Web Tokens - jwt.io
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+## HTMl and CSS
+
+CSS
+https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
+
+https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+https://sjmulder.nl/en/textonly.html | Text-only websites
+
+https://ugliest.app/ | https://ugliest.app
+https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
+
+CSS
+http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
+https://a.singlediv.com/ | A Single Div
+https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
+
+https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
 
 
 http://www.csszengarden.com/
@@ -696,17 +776,21 @@ https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io
 https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
 https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
 
+Tailwind
 https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
 https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
 https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
 
 https://twitter.com/rauchg/status/1328040020460990464 | Guillermo Rauch on Twitter: "@sarah_edo @threepointone Absolutely. The Chrome team just publishes RFCs like anybody else can" / Twitter
 
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
 
-Use
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+
+Talk Python
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+
+Important
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
 
 
 https://django.doctor/challenge | Django Doctor - Django code improvement bot
@@ -731,8 +815,6 @@ https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scrap
 
 https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
 
-https://oo.t9t.io/organizations | Open companies
-
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
 https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
@@ -741,8 +823,6 @@ https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we ope
 Governance
 https://www.zotero.org/groups/2310183/foss_governance/library | FOSS Governance | Zotero
 https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
-http://www.githubstars.com/ | GithubStars | Find Top Developers
 
 https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
 https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
@@ -870,6 +950,8 @@ https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter
 
 Julia Evans
 
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+
 Unix and bash
 
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
@@ -932,6 +1014,9 @@ Docs driven dev
 Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
 Pre-mortem and Postmortem
 
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
 Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
 
@@ -965,11 +1050,6 @@ Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
 
-Accessibility
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
-
-
 ## Dev Tools and Standards
 
 https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
@@ -987,6 +1067,7 @@ https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 -->
+
 
 <!--
 Simon- Doc Unit Tests
@@ -1400,6 +1481,14 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Technical Writing Tools
 
 <!--
+https://stripe.com/docs/api | Stripe API Reference
+https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
+
+Jason
+https://jasonet.co/posts/thoughts-on-docs/ | Assorted thoughts on documentation - Jason Etcovitch · jasonet.co
+https://twitter.com/Jwnathan_W/status/1321219851185090560 | Jonathan Wong on Twitter: "Documentation (at smaller early stage companies especially) is difficult. After seeing @JasonEtco's talk today at #nextjsconf it got me thinking a lot more about the direction and approach to documentation - especially when starting with almost none (or random bits everywhere)" / Twitter
+
+
 https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
 https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
 
@@ -1452,6 +1541,12 @@ https://en.wikipedia.org/wiki/User_experience_design
 2017 Open Source Survey
 https://opensourcesurvey.org/2017/
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
 
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
