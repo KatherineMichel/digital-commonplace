@@ -409,6 +409,38 @@ Sid
 https://twitter.com/changelog/status/1276514876228284417
 
 
+https://leaddev.com/
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
+
+AWS
+https://www.awsgeek.com
+
+https://www.lukew.com/
+
+Learn Django
+https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
+
+Projects
+https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
+
+
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+
+
+
 
 Learning
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
@@ -724,39 +756,6 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 <!--
 ## Of Interest
 
-https://leaddev.com/
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
-
-https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
-
-AWS
-https://www.awsgeek.com
-
-https://www.lukew.com/
-
-Learn Django
-https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
-
-Projects
-https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
-
-
-Algos
-https://www.algorist.com/ | The Algorithm Design Manual
-
-https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-
-
-
-
 https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
 https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
 
@@ -814,8 +813,6 @@ https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLa
 https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
 
 https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-
 
 
 ## Dev Tools and Standards
@@ -1976,110 +1973,6 @@ https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introd
 -->
 
 
-
-## Open Source in Orgs- Tools
-
-## Orgs
-
-General Open Source Sites
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
-
-Foundations
-* [Choose A Foundation](http://chooseafoundation.com/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
-* [Linux Foundation](https://www.linuxfoundation.org/)
-* [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
-* [JavaScript Foundation](https://js.foundation/)
-* [Open JavaScript Foundation](https://openjsf.org/)
-* [Node Foundation](https://foundation.nodejs.org/)
-
-Important Orgs
-* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
-* [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
-
-<!--
-https://www.mail-archive.com/
-https://opensource.google/community/affiliations/
-https://twitter.com/redhatopen/
-
-FOSS Governance
-https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
-https://www.zotero.org/groups/2310183/foss_governance/library
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
-
-https://twitter.com/SustainOSS/
-
-https://www.openapis.org/
-
-https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
-
-Continuous Delivery Foundation
-https://cd.foundation/
-
-https://opensource.googleblog.com/
-
-
-https://numfocus.org/
-
-https://www.redhat.com
-https://www.redhat.com/en/blog
-https://access.redhat.com/documentation/en-us/
-https://developers.redhat.com/blog
-https://www.atlassian.com/blog/
-
-Kubernetes
-https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
-https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
-
-https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
-
-GNOME Foundation
-https://blogs.gnome.org
-
-https://www.fsf.org/blogs/
-http://ftp.gnu.org
-http://gcc.gnu.org
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
-
-ACM Library
-https://www.acm.org/
-https://dl.acm.org/
-
-https://www.linux.com/
-https://www.linuxjournal.com
-https://www.linux.com/blog/
-https://lwn.net/
-
-https://www.eff.org
-
-Recurse Center
-https://www.recurse.com/
-
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-CNCF
-https://github.com/cncf/
-https://www.cncf.io/blog/
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://joss.theoj.org/ | Journal of Open Source Software
-http://jmlr.org/ | Journal of Machine Learning Research Homepage
--->
-
-
 ## Companies with Great Content
 
 <!--
@@ -2097,6 +1990,7 @@ https://dev.to/salesforcedevs/
 https://dev.to/heroku/
 
 https://about.gitlab.com/blog/
+https://www.atlassian.com/blog/
 -->
 
 ## Twilio
@@ -4527,7 +4421,7 @@ https://code.visualstudio.com/api/extension-capabilities/theming
 -->
 
 
-## Open Source and Release Examples
+## API Stuff
 
 <!--
 ## API
@@ -4808,6 +4702,105 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
 
+
+## Orgs
+
+General Open Source Sites
+* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Dot Com](https://opensource.com)
+
+Foundations
+* [Choose A Foundation](http://chooseafoundation.com/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Apache Foundation](https://www.apache.org/foundation/)
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [JavaScript Foundation](https://js.foundation/)
+* [Open JavaScript Foundation](https://openjsf.org/)
+* [Node Foundation](https://foundation.nodejs.org/)
+
+Important Orgs
+* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [TODO Group](https://todogroup.org/)
+
+<!--
+https://www.mail-archive.com/
+https://opensource.google/community/affiliations/
+
+FOSS Governance
+https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
+https://www.zotero.org/groups/2310183/foss_governance/library
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+
+
+https://twitter.com/SustainOSS/
+
+https://www.openapis.org/
+
+https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
+
+Continuous Delivery Foundation
+https://cd.foundation/
+
+https://opensource.googleblog.com/
+
+
+https://numfocus.org/
+
+https://www.redhat.com
+https://www.redhat.com/en/blog
+https://access.redhat.com/documentation/en-us/
+https://developers.redhat.com/blog
+https://twitter.com/redhatopen/
+
+Kubernetes
+https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
+https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
+
+https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+
+GNOME Foundation
+https://blogs.gnome.org
+
+https://www.fsf.org/blogs/
+http://ftp.gnu.org
+http://gcc.gnu.org
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+
+ACM Library
+https://www.acm.org/
+https://dl.acm.org/
+
+https://www.linux.com/
+https://www.linuxjournal.com
+https://www.linux.com/blog/
+https://lwn.net/
+
+https://www.eff.org
+
+Recurse Center
+https://www.recurse.com/
+
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+CNCF
+https://github.com/cncf/
+https://www.cncf.io/blog/
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
+-->
 
 ## Open Source
 
