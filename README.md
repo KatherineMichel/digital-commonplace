@@ -74,6 +74,9 @@ https://twitter.com/bryanl/status/1295389406866677760
 
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
 
+DevICT
+https://www.meetup.com/devict/
+
 Dec 7
 https://twitter.com/JennyMEvents/status/1331090793000407041 | JennyMEvents on Twitter: "Event gold right here! Attn #Data #DataScience #DataAnalytics beginners, pros, &amp; the forever curious. See you all on Dec 7th!" / Twitter
 
@@ -187,6 +190,7 @@ https://about.gitlab.com/handbook/marketing/community-relations/evangelist-progr
 https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
 https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
 
+https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
 
 ## People and Places
 
@@ -610,6 +614,50 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 <!--
 ## Of Interest
 
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+https://articles.tilt365.com/identify-destructive-leadership-patterns/ | How to Identify Destructive Leadership Patterns
+
+https://datasette.io/
+
+ToDo- Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+
+Awesome
+https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
+
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+
+https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
+
+Doc
+https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://amitness.com/2019/08/math-for-programmers/
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+Security
+https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
+Dark PDF and light PDF
+
+
 https://repl.it/@KatherineMichel/
 
 https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
@@ -621,9 +669,9 @@ https://hashnode.com/ | Hashnode: Everything you need to start blogging as a dev
 
 https://www.merriam-webster.com/dictionary/step%20change
 
-https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
-
 http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
+
+https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
 
 https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
 
@@ -648,14 +696,23 @@ https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitte
 
 https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
 
+
 https://leaddev.com/
 
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
 https://www.mail-archive.com/
+
+Orgs
+https://opensource.google/community/affiliations/
 
 https://oo.t9t.io/organizations | Open companies
 
 https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
 https://twitter.com/redhatopen/
+
+Twilio
+https://www.twilio.com/docs/tutorials
 
 https://about.gitlab.com/blog/
 
@@ -664,11 +721,10 @@ https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@The
 https://dev.to/salesforcedevs/
 https://dev.to/heroku/
 
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
-
 http://www.githubstars.com/ | GithubStars | Find Top Developers
 https://github.com/popular-github-repos/
 https://search.firstround.com/lists
+
 
 Search
 https://hndex.ml/
@@ -689,19 +745,24 @@ https://www.youtube.com/watch?v=XTcqlOFhpPI
 
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
 
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+
 https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
 https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
+
+Sarah Drasner
+https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
+
+https://twitter.com/chriscoyier/status/1337569425776635904
+https://wordpress.org/themes/twentytwentyone/
+https://css-tricks.com/unconventional-stock-image-sources/
 
 Tessa
 https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
 https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
 https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
-
-Sarah Drasner
-https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
 
 Amir Shevat
 https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
@@ -717,7 +778,9 @@ Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
 
+http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
 
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
