@@ -44,6 +44,34 @@ https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-becom
 https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
 
 
+## Learning
+
+Learning mental models
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+
+Learning how to learn
+https://twitter.com/Fox0x01/status/1238636236962779136
+
+Sarah
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+Progress
+https://twitter.com/polotek/status/1294150617389121536
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
+
+Prioritization
+https://twitter.com/hunterwalk/status/1294699190585454592
+
+http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
+
+
 ## Personal Brand
 
 Brand
@@ -722,6 +750,11 @@ https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code c
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+
+
 
 
 https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
@@ -785,60 +818,22 @@ https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Leve
 
 
 
-## HTMl and CSS
+## Dev Tools and Standards
 
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
 
-Awesome
-https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
 
-
-CSS
-https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
-
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-https://sjmulder.nl/en/textonly.html | Text-only websites
-
-https://ugliest.app/ | https://ugliest.app
-https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
-
-CSS
-http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
-https://a.singlediv.com/ | A Single Div
-https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
-
-https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
+https://www.w3.org/WAI
 
 
-http://www.csszengarden.com/
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
-https://stateofcss.com/ | The State of CSS Survey
-https://stateofjs.com/
-
-https://1mb.club/ | 1MB Club
-https://250kb.club/ | The 250kb Club
-https://nojs.club/ | The NoJS Club!
-
-https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
-
-https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
-
-https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
-https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
-https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
-
-Tailwind
-https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
-https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
-https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
-
-https://twitter.com/rauchg/status/1328040020460990464 | Guillermo Rauch on Twitter: "@sarah_edo @threepointone Absolutely. The Chrome team just publishes RFCs like anybody else can" / Twitter
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 
 ## Community
@@ -873,30 +868,17 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 
-
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-
-## Open Source
-
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
-
-
 ## Look Through
 
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
 Julia Evans
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
 
 Unix and bash
 
@@ -927,13 +909,9 @@ https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Securit
 
 ## Miscellaneous Tech
 
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
 
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
 
 
 vscode html css support - Google Search
@@ -1020,22 +998,72 @@ Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
 
-## Dev Tools and Standards
+## HTMl and CSS
 
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
 
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
+Awesome
+https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
 
 
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
+CSS
+https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
 
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+https://sjmulder.nl/en/textonly.html | Text-only websites
+
+https://ugliest.app/ | https://ugliest.app
+https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
+
+CSS
+http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
+https://a.singlediv.com/ | A Single Div
+https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
+
+https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+
+
+http://www.csszengarden.com/
+
+https://stateofcss.com/ | The State of CSS Survey
+https://stateofjs.com/
+
+https://1mb.club/ | 1MB Club
+https://250kb.club/ | The 250kb Club
+https://nojs.club/ | The NoJS Club!
+
+https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
+
+https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
+
+https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
+https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
+https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
+
+Tailwind
+https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+https://twitter.com/rauchg/status/1328040020460990464 | Guillermo Rauch on Twitter: "@sarah_edo @threepointone Absolutely. The Chrome team just publishes RFCs like anybody else can" / Twitter
+
+
+## Fun Open Source Stuff
+
+Kenneth
+https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
+
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
+
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 -->
 
 
@@ -1202,33 +1230,6 @@ https://www.oddbird.net/talks/set-your-code-free/
 
 https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
--->
-
-<!--
-Learning mental models
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-Learning how to learn
-https://twitter.com/Fox0x01/status/1238636236962779136
-
-Sarah
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-Progress
-https://twitter.com/polotek/status/1294150617389121536
-https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
-
-https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
-
-Prioritization
-https://twitter.com/hunterwalk/status/1294699190585454592
-
-http://www.timcasasola.com/blog/writing | Why does writing matter in remote work? — Tim Casasola
 -->
 
 ## Eldarion
