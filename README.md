@@ -27,6 +27,14 @@ https://sive.rs/srs | Memorizing a programming language using spaced repetition 
 
 https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
 
+https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
+
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://todoist.com/ | 503 Service Temporarily Unavailable
+https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
+
+https://www.merriam-webster.com/dictionary/step%20change
+
 
 ## Personal Brand
 
@@ -215,10 +223,30 @@ https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxm
 
 ## Opportunities and Ideas
 
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
+
 https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
 https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
-https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 
+https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
+https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
+https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
+https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
+
+Amir Shevat
+https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
+https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
+https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
+https://medium.com/@ashevat | Amir Shevat – Medium
+https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/1491974826 | Designing Bots: Creating Conversational Experiences: Shevat, Amir: 9781491974827: Amazon.com: Books
+https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
+https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
+hero theme - Google Search
 
 https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
 
@@ -322,6 +350,53 @@ https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to G
 https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
 
 https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+
+
+ToDo
+
+https://repl.it/@KatherineMichel/
+
+
+http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
+
+https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://articles.tilt365.com/identify-destructive-leadership-patterns/ | How to Identify Destructive Leadership Patterns
+
+https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
+
+Sid
+https://twitter.com/changelog/status/1276514876228284417
+
+http://www.collaborativefund.com/blog
+
+https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
+
+
+Learning
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI
+
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+
+https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
+https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ | Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare
+
 
 
 ## Learning
@@ -618,144 +693,28 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 
 
 <!--
-ToDo
-
-https://repl.it/@KatherineMichel/
-
-Important tool
-https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
-
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-https://todoist.com/ | 503 Service Temporarily Unavailable
-https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
-
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
-
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
-
-https://www.merriam-webster.com/dictionary/step%20change
-
-http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
-
-https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
-
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://articles.tilt365.com/identify-destructive-leadership-patterns/ | How to Identify Destructive Leadership Patterns
-
-https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-http://www.collaborativefund.com/blog
-
-https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
-https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
-
-Learning
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
-Feross
-https://www.youtube.com/watch?v=XTcqlOFhpPI
-
-https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-
-Tessa
-https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
-https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
-https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
-
-Amir Shevat
-https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
-https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
-https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
-https://medium.com/@ashevat | Amir Shevat – Medium
-https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/1491974826 | Designing Bots: Creating Conversational Experiences: Shevat, Amir: 9781491974827: Amazon.com: Books
-https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
-https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
-hero theme - Google Search
-
-https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ | Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare
-
-https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
-
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
-
-https://abookapart.com/products/everyday-information-architecture | A Book Apart, Everyday Information Architecture
-
-Talk Python
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
-
-https://leaddev.com/
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
-
-Release
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-
-Dev Cos
-https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
-https://dev.to/salesforcedevs/
-https://dev.to/heroku/
-
-https://www.mail-archive.com/
-
-Orgs
-https://opensource.google/community/affiliations/
-
-https://oo.t9t.io/organizations | Open companies
-
-https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
-https://twitter.com/redhatopen/
-https://about.gitlab.com/blog/
-
-Twilio
-https://www.twilio.com/docs/tutorials
-
-http://www.githubstars.com/ | GithubStars | Find Top Developers
-https://github.com/popular-github-repos/
-https://search.firstround.com/lists
-
-Search
-https://hndex.ml/
-https://hndex.org/
-
-Top Videos
-https://redditvids.com/ | Discover shared videos and live broadcasts from Reddit | RedditVids.com
-Staff pick
-https://vimeo.com/161487817
-
-
-
 ## Of Interest
 
 Learn assembly
 https://www.xorpd.net/ | xorpd
 
-https://datasette.io/
-
-
 https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
 
 Doc
 https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
+
+AWS
+https://www.awsgeek.com
+
+https://www.lukew.com/
+
+Learn Django
+https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
+
+Projects
+https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
+
+
 
 
 Algos
@@ -780,11 +739,9 @@ https://twitter.com/joelnet/status/1256229458295619585
 Security
 https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
 Dark PDF and light PDF
-
-Security
+https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
 https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
 
-Important
 https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
 
 
@@ -808,18 +765,17 @@ https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-p
 https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
 https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
 
-
 https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
-
 
 https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
 https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
 
 https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
 https://github.com/LambdaSchool | Lambda School, Inc.
+
 
 https://jwt.io/ | JSON Web Tokens - jwt.io
 https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
@@ -938,6 +894,9 @@ https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A publ
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
 
 https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
+
+Important
+https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
 
 FOSS Governance
 https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
@@ -1137,6 +1096,8 @@ https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chr
 
 
 <!--
+https://datasette.io/
+
 https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
 
 https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
@@ -1563,6 +1524,8 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Technical Writing Tools
 
 <!--
+https://abookapart.com/products/everyday-information-architecture | A Book Apart, Everyday Information Architecture
+
 https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
 https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
 
@@ -2209,7 +2172,8 @@ Top Links of All Times
 * [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
 * [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
 * [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
 The Practical Dev and Hackernoon
@@ -2219,7 +2183,16 @@ The Practical Dev and Hackernoon
 Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
 <!--
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
+
+Staff pick
+https://vimeo.com/channels/bestofthemonth
+https://vimeo.com/channels/staffpicks
+
 https://hn.algolia.com/?q=ask+hn
 
 https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
@@ -2351,6 +2324,33 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
+<!--
+https://leaddev.com/
+
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+
+https://www.mail-archive.com/
+
+Orgs
+https://opensource.google/community/affiliations/
+
+https://oo.t9t.io/organizations | Open companies
+
+https://twitter.com/redhatopen/
+https://about.gitlab.com/blog/
+
+Great Dev Blogs
+https://www.twitch.tv/twitterdev | (6) TwitterDev - Twitch
+
+https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
+https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
+https://www.twilio.com/docs/tutorials
+
+https://search.firstround.com/lists
+-->
 
 ## Project Ideas and Learning Resources
 
@@ -2397,7 +2397,7 @@ Simple is Better Than Complex
 
 TestDriven.io and Michael
 * [Test Driven Blog](https://testdriven.io/blog/)
-* [Michael Herman](https://mherman.org/talks )
+* [Michael Herman](https://mherman.org/talks)
 
 Full Stack Python
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
@@ -2411,49 +2411,14 @@ David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 <!--
-Data Science
+https://codepen.io/tag/python
+http://codepen.io/projects/
 
-https://www.kaggle.com/learn/python
-
-Digital Ocean
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
-https://www.digitalocean.com/community/tags/python
-
-https://github.com/mpirnat/django-tutorial | mpirnat/django-tutorial: Tutorial presented by Mike Pirnat and David Stanek at CodeMash 2014 about web development with Python and Django
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://aws.amazon.com/developer/language/python/
-
-https://www.edx.org/learn/python
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-
-Tutorial and project ideas
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
-
-https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+https://repl.it/leaders | Repl.it - Leaderboard
+https://repl.it/talk/
 -->
 
 <!--
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
-
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
@@ -2465,6 +2430,44 @@ https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 <!--
 https://thenewstack.io
 
+Tutorial and project ideas
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
+
+https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+
+GitHub Python
+http://git-awards.com/users?language=python | Python worldwide | Git Awards
+
+http://www.githubstars.com/ | GithubStars | Find Top Developers
+
+github users with the most followers - Google Search
+https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
+
+https://popular-github-repos.github.io/
+https://github.com/popular-github-repos/popular-github-repos.github.io
+
+
+Release
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+-->
+
+
+<!--
 People
 https://www.twitch.tv/directory/following
 
@@ -2475,28 +2478,6 @@ https://github.com/orgs/maintainers/people
 https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
 
 https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
-
-
-GitHub Python
-http://git-awards.com/users?language=python | Python worldwide | Git Awards
-
-http://www.githubstars.com/
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://popular-github-repos.github.io/
-https://github.com/popular-github-repos/popular-github-repos.github.io
-
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
-
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-https://repl.it/leaders | Repl.it - Leaderboard
-https://repl.it/talk/
 -->
 
 <!--
@@ -2506,6 +2487,43 @@ Python 3.9
 https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
 https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
 https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
+-->
+
+<!--
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+
+https://github.com/mpirnat/django-tutorial | mpirnat/django-tutorial: Tutorial presented by Mike Pirnat and David Stanek at CodeMash 2014 about web development with Python and Django
+
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+Digital Ocean
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+https://www.digitalocean.com/community/tags/python
+
+https://aws.amazon.com/developer/language/python/
+
+https://www.edx.org/learn/python
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+
+Data Science
+https://www.kaggle.com/learn/python
+
+Arxiv
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+
+https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
 -->
 
 
