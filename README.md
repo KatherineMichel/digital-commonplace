@@ -1234,6 +1234,119 @@ https://github.com/carljm/dotfiles
 
 ## Eldarion
 
+## Technical Writing Tools
+
+<!--
+https://abookapart.com/products/everyday-information-architecture | A Book Apart, Everyday Information Architecture
+
+https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
+https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
+
+https://stripe.com/docs/api | Stripe API Reference
+https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
+
+Jason
+https://jasonet.co/posts/thoughts-on-docs/ | Assorted thoughts on documentation - Jason Etcovitch · jasonet.co
+https://twitter.com/Jwnathan_W/status/1321219851185090560 | Jonathan Wong on Twitter: "Documentation (at smaller early stage companies especially) is difficult. After seeing @JasonEtco's talk today at #nextjsconf it got me thinking a lot more about the direction and approach to documentation - especially when starting with almost none (or random bits everywhere)" / Twitter
+
+
+https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
+https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
+
+https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
+https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
+
+https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+
+https://www.writethedocs.org/surveys/salary-survey/2019/
+http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
+
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+
+Docs- Important!
+minimum viable documentation
+https://twitter.com/webology/status/1257759193743929347
+https://docs.fast.ai/gen_doc_main.html
+
+https://developers.google.com/style/
+https://developers.google.com/tech-writing
+https://developers.google.com/tech-writing/one
+
+https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on Twitter: "What's the difference between a tutorial and a guide on https://t.co/BsLdHu4PY2? Tutorial = end-to-end example Guide = book chapter The line has blurred a bit with Jupyter Notebooks (many guides have complete code, too)." / Twitter
+
+http://www.paulgraham.com/talk.html | Write Like You Talk
+https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
+-->
+
+## Technical Writing- More Stuff
+
+<!--
+https://en.wikipedia.org/wiki/Five_Ws
+
+https://github.com/jnordberg/wintersmith/wiki/Showcase
+
+http://www.writethedocs.org/
+https://github.com/writethedocs/www
+http://blog.thoward37.me/articles/developer-to-documentarian/
+http://blog.thoward37.me/articles/documentation-considered-harmful/
+
+https://twitter.com/thoward37/status/1227286141537144832
+https://abookapart.com/products/everyday-information-architecture
+https://en.wikipedia.org/wiki/Information_architecture
+https://en.wikipedia.org/wiki/Content_strategy
+https://en.wikipedia.org/wiki/User_experience_design
+
+2017 Open Source Survey
+https://opensourcesurvey.org/2017/
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
+
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
+
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
+
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
+-->
+
+<!--
+Docusaurus
+https://v2.docusaurus.io/docs/installation
+https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
+https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
+
+Markdown
+https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
+
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
+Docs
+http://stylepedia.net/ | Writing Style Guide
+https://arturdryomov.dev/posts/on-technical-writing/ | On Technical Writing
+
+Docs as code
+https://www.youtube.com/watch?time_continue=427&v=QqgaX8JFyB8&feature=emb_logo | "A Practical Introduction to Docs-As-Code" - Alec Clews (LCA 2020) - YouTube
+https://twitter.com/asendecka/status/973582794596155392 | Ola Sendecka on Twitter: "Anyone could recommend interesting @writethedocs talks about making documentation a standard part of engineering work? Looking for ideas and lessons learned for #betterdocs at work :)"
+
+https://github.com/thlorenz/doctoc | thlorenz/doctoc: 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
+https://www.mkdocs.org/user-guide/deploying-your-docs/#deploying-your-docs | Deploying Your Docs - MkDocs
+https://twitter.com/treyhunner/status/913591799830110208 | ✨ Trey Hunner 🐍 on Twitter: "I just learned about Sphinx's "make linkcheck" from @WillingCarol at @sandiegopython! 🎓💖 It checks for broken links in your documentation 🤔"
+
+https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
+https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
+
+Docs
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+-->
+
 ## Engineering Performance Resources
 
 JavaScript Scene
@@ -1330,6 +1443,110 @@ https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 -->
+
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+<!--
+List of top product management article links
+
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://www.sideprojectchecklist.com/ | Side Project Checklist
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+-->
+
+## High Performance and Patterns
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+Martin Fowler, Refactoring, Patterns, ThoughtWorks
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [ThoughtWorks](https://www.thoughtworks.com)
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+<!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
+
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+
+https://martinfowler.com/articles/collection-pipeline/
+
+http://highscalability.com/all-time-favorites/
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+-->
+
+## General Software Design Patterns
+
+## Architectures
+
+## Site Reliability
+
+Google Site Reliability Engineering Books
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+<!--
+https://hpbn.co/primer-on-web-performance/#anatomy-of-a-modern-web-application
+
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+-->
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+<!--
+https://github.com/KatherineMichel/organizations
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+http://stackshare.io/posts/
+
+https://us.pycon.org/2020/schedule/talks/
+
+https://techyaks.com/python-year-tytop.html
+-->
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
 
 ## Stuff
 
@@ -1466,154 +1683,6 @@ https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-co
 https://about.gitlab.com/2016/11/22/introducing-review-apps/
 -->
 
-## Technical Writing Tools
-
-<!--
-https://abookapart.com/products/everyday-information-architecture | A Book Apart, Everyday Information Architecture
-
-https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
-https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
-
-https://stripe.com/docs/api | Stripe API Reference
-https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
-
-Jason
-https://jasonet.co/posts/thoughts-on-docs/ | Assorted thoughts on documentation - Jason Etcovitch · jasonet.co
-https://twitter.com/Jwnathan_W/status/1321219851185090560 | Jonathan Wong on Twitter: "Documentation (at smaller early stage companies especially) is difficult. After seeing @JasonEtco's talk today at #nextjsconf it got me thinking a lot more about the direction and approach to documentation - especially when starting with almost none (or random bits everywhere)" / Twitter
-
-
-https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
-https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
-
-https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
-https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
-
-https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-
-https://www.writethedocs.org/surveys/salary-survey/2019/
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
-
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
-
-Docs- Important!
-minimum viable documentation
-https://twitter.com/webology/status/1257759193743929347
-https://docs.fast.ai/gen_doc_main.html
-
-https://developers.google.com/style/
-https://developers.google.com/tech-writing
-https://developers.google.com/tech-writing/one
-
-https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on Twitter: "What's the difference between a tutorial and a guide on https://t.co/BsLdHu4PY2? Tutorial = end-to-end example Guide = book chapter The line has blurred a bit with Jupyter Notebooks (many guides have complete code, too)." / Twitter
-
-http://www.paulgraham.com/talk.html | Write Like You Talk
-https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
--->
-
-## Technical Writing- More Stuff
-
-<!--
-https://en.wikipedia.org/wiki/Five_Ws
-
-https://github.com/jnordberg/wintersmith/wiki/Showcase
-
-http://www.writethedocs.org/
-https://github.com/writethedocs/www
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-https://twitter.com/thoward37/status/1227286141537144832
-https://abookapart.com/products/everyday-information-architecture
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
--->
-
-<!--
-Docusaurus
-https://v2.docusaurus.io/docs/installation
-https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
-https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
-
-Markdown
-https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
-
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-
-Docs
-http://stylepedia.net/ | Writing Style Guide
-https://arturdryomov.dev/posts/on-technical-writing/ | On Technical Writing
-
-Docs as code
-https://www.youtube.com/watch?time_continue=427&v=QqgaX8JFyB8&feature=emb_logo | "A Practical Introduction to Docs-As-Code" - Alec Clews (LCA 2020) - YouTube
-https://twitter.com/asendecka/status/973582794596155392 | Ola Sendecka on Twitter: "Anyone could recommend interesting @writethedocs talks about making documentation a standard part of engineering work? Looking for ideas and lessons learned for #betterdocs at work :)"
-
-https://github.com/thlorenz/doctoc | thlorenz/doctoc: 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
-https://www.mkdocs.org/user-guide/deploying-your-docs/#deploying-your-docs | Deploying Your Docs - MkDocs
-https://twitter.com/treyhunner/status/913591799830110208 | ✨ Trey Hunner 🐍 on Twitter: "I just learned about Sphinx's "make linkcheck" from @WillingCarol at @sandiegopython! 🎓💖 It checks for broken links in your documentation 🤔"
-
-https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
-https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
-
-Docs
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
--->
-
-## Launch
-
-<!--
-https://github.com/github/docs
-
-Launch Story
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-Rapid dev
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
--->
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-<!--
-List of top product management article links
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://www.sideprojectchecklist.com/ | Side Project Checklist
-
-https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
-https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
--->
-
 ## Roadmaps
 
 * [GitHub Roadmap](https://github.com/github/roadmap)
@@ -1642,6 +1711,32 @@ Gumroad Roadmap
 https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 -->
 
+## Launch
+
+<!--
+https://github.com/github/docs
+
+Launch Story
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+-->
+
+## Open Source Guides
+
+GitHub Open Source Guides
+* [GitHub Help](https://help.github.com) 
+* [GitHub Open Source Guide](https://opensource.guide)
+* [GitHub Guides](https://guides.github.com/)
+
+Google Open Source Guides
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
 ## GitHub and Hosting Blogs
 
 GitHub
@@ -1663,157 +1758,7 @@ Heroku Hosting Docs
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
-## Open Source Guides
 
-GitHub Open Source Guides
-* [GitHub Help](https://help.github.com) 
-* [GitHub Open Source Guide](https://opensource.guide)
-* [GitHub Guides](https://guides.github.com/)
-
-Google Open Source Guides
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
-
-## High Performance and Patterns
-
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-* [Ilya Grigorik](https://www.igvita.com/)
-
-Martin Fowler, Refactoring, Patterns, ThoughtWorks
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-* [ThoughtWorks](https://www.thoughtworks.com)
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
-
-https://martinfowler.com/articles/collection-pipeline/
-
-http://highscalability.com/all-time-favorites/
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
--->
-
-## General Software Design Patterns
-
-## Architectures
-
-## Site Reliability
-
-Google Site Reliability Engineering Books
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-<!--
-https://hpbn.co/primer-on-web-performance/#anatomy-of-a-modern-web-application
-
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
-
-https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
--->
-
-
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-<!--
-https://github.com/KatherineMichel/organizations
-
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-http://stackshare.io/posts/
-
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-
-
-## Learning Resources- Challenges
-
-Practice
-* [LeetCode](https://leetcode.com)
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-
-<!--
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
--->
-
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
-<!--
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
-https://js1024.fun/results/2020 | JS1024 Results - 2020
-
-Gam Jam
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
-
-Games
-https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
-https://js13kgames.com/
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-
-GitHub Actions
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
--->
 
 ## News and Terminology
 
@@ -1889,7 +1834,6 @@ Product Hunt Maker Leader Boards
 <!--
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
-
 
 ## Makers
 
@@ -1977,6 +1921,62 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
+
+## Learning Resources- Challenges
+
+Practice
+* [LeetCode](https://leetcode.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+
+<!--
+https://www.pythonmorsels.com/resources/
+https://www.pythonmorsels.com/exercises/list/ | Exercise List
+
+https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+-->
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+Games
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+
+Gam Jam
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+Games
+https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
+https://js13kgames.com/
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+GitHub Actions
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+-->
+
+
+
 ## Open Source in Orgs- Tools
 
 ## Orgs
@@ -2001,6 +2001,16 @@ Important Orgs
 * [TODO Group](https://todogroup.org/)
 
 <!--
+https://www.mail-archive.com/
+https://opensource.google/community/affiliations/
+https://twitter.com/redhatopen/
+
+FOSS Governance
+https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
+https://www.zotero.org/groups/2310183/foss_governance/library
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+
+
 https://twitter.com/SustainOSS/
 
 https://www.openapis.org/
@@ -2073,15 +2083,6 @@ http://jmlr.org/ | Journal of Machine Learning Research Homepage
 ## Companies with Great Content
 
 <!--
-https://www.mail-archive.com/
-https://opensource.google/community/affiliations/
-https://twitter.com/redhatopen/
-
-FOSS Governance
-https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
-https://www.zotero.org/groups/2310183/foss_governance/library
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
 https://oo.t9t.io/organizations | Open companies
 
 Great Dev Blogs
@@ -2647,8 +2648,6 @@ https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes
 https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
 https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
 https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
-
-
 
 
 Django Templates
@@ -3905,6 +3904,7 @@ https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A 
 Maintainability
 https://github.com/Droogans/unmaintainable-code
 -->
+
 
 ## Programming Language Comparisons
 
