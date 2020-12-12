@@ -35,6 +35,14 @@ https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Pas
 
 https://www.merriam-webster.com/dictionary/step%20change
 
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
+
+http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
+
+https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
+
+https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
+
 
 ## Personal Brand
 
@@ -200,6 +208,9 @@ https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Develope
 
 https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
 
+https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
+
+
 ## People and Places
 
 https://nuzzel.com/friendsfeeds
@@ -358,10 +369,6 @@ ToDo
 https://repl.it/@KatherineMichel/
 
 
-http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
-
-https://medium.com/@melissachu/7-reasons-why-smart-hardworking-people-dont-become-successful-d4d3b6119cbc | 7 Reasons Why Smart, Hardworking People Don’t Become Successful
-
 https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
@@ -373,10 +380,6 @@ https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on 
 Sid
 https://twitter.com/changelog/status/1276514876228284417
 
-http://www.collaborativefund.com/blog
-
-https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
-https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
 
 
 Learning
@@ -392,10 +395,8 @@ https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️
 https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
-https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ | Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare
+http://www.collaborativefund.com/blog
+https://search.firstround.com/lists
 
 
 
@@ -695,13 +696,12 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 <!--
 ## Of Interest
 
+https://leaddev.com/
+
 Learn assembly
 https://www.xorpd.net/ | xorpd
 
 https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
-
-Doc
-https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
 
 AWS
 https://www.awsgeek.com
@@ -715,8 +715,6 @@ Projects
 https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
 
 
-
-
 Algos
 https://www.algorist.com/ | The Algorithm Design Manual
 
@@ -724,25 +722,6 @@ https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code c
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://amitness.com/2019/08/math-for-programmers/
-
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
-
-
-Security
-https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
-Dark PDF and light PDF
-https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
-https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
 
 
 https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
@@ -781,6 +760,28 @@ https://jwt.io/ | JSON Web Tokens - jwt.io
 https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
 https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://amitness.com/2019/08/math-for-programmers/
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+
+Security
+https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
+Dark PDF and light PDF
+https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
+https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
+
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
 
 
 
@@ -889,60 +890,11 @@ https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
 http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
 
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
-
-Important
-https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
-
-CHAOSS
-https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
-https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
-
-Gov
-https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
-https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
-
-
-https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
-
-https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
-https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getting credit: Taking your place in a meritocracy | Opensource.com
-https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
-https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
-
-https://www.harihareswara.net/sumana/2016/10/12/0 | Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History
-https://twitter.com/brainwane/status/1310171548590931974 | https://twitter.com/brainwane/status/1310171548590931974
-
-Vicky
-https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
-https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
-
-https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
-
-https://missionprotocol.org/ | About | Mission Protocol
-
-COSS
-https://www.bvp.com/atlas/roadmap-open-source
-https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
-
-https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
-
-
-Bazel
-https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
-https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
-https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
-
-https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
-
-
 ## Look Through
 
 Julia Evans
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
 
 http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
 
@@ -971,9 +923,6 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 Snyk
 https://snyk.io/ | Open Source Security Platform | Snyk
 https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
-
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
 
 
 ## Miscellaneous Tech
@@ -1727,151 +1676,6 @@ Google Open Source Guides
 * [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
 
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-<!--
-ZSH, Bash and command line, aliases/bash script aliases
-
-https://en.wikipedia.org/wiki/List_of_file_formats
-https://en.wikipedia.org/wiki/File_format
-https://en.wikipedia.org/wiki/List_of_filename_extensions
-https://en.wikipedia.org/wiki/Filename_extension
-https://en.wikipedia.org/wiki/Binary_file
-https://en.wikipedia.org/wiki/Text_file
-https://en.wikipedia.org/wiki/System_file
-https://en.wikipedia.org/wiki/File_system
-https://en.wikipedia.org/wiki/Directory_structure
-
-Julia Evans
-
-https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
-https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
-
-
-https://wizardzines.com/comics/ | https://wizardzines.com/comics/
-https://twitter.com/b0rk
-https://github.com/jvns/
-
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/ | Taking a year to explain computer things - Julia Evans
-
-Collections
-https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/ | Your Linux Toolbox: a box set of my free zines - Julia Evans
-http://jvns.ca/blog/2016/11/27/more-linux-drawings/
-
-Non-code
-https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twitter: "how to be a wizard programmer… "
-https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
-https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
-https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
-Refactoring
-https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
-
-Containers
-https://wizardzines.com/zines/containers/ | How Containers Work!
-
-JavaScript
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
-
-Browser
-https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
-
-https://github.com/jvns/shell-examples | jvns/shell-examples
-
-Bash
-https://twitter.com/b0rk/status/1000208860060307456 | 🔎Julia Evans🔍 on Twitter: "a few bash tricks… "
-https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
-https://wizardzines.com/comics/bash-if-statements/
-https://wizardzines.com/comics/bash-errors/
-https://twitter.com/simonw/status/1314384418170003456
-
-/proc
-https://twitter.com/b0rk/status/981159808832286720
-
-Perf
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
-
-
-https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-unix performance tools - Google Search
-
-
-http://www.linfo.org/usr_sbin.html
-https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
-
-https://opensource.com/article/19/4/bash-vs-python
-
-
-Bash versus Python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-
-https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
-
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-
-
-https://www.tutorialspoint.com/unix/
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-
-https://www.tutorialspoint.com/unix/unix-quick-guide.htm
-https://www.tutorialspoint.com/unix_commands/index.htm
-https://www.tutorialspoint.com/unix_system_calls/index.htm
-
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
-https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
-
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
--->
-
 ## High Performance and Patterns
 
 Useful Websites
@@ -1955,153 +1759,6 @@ https://techyaks.com/python-year-tytop.html
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
-
-## Open Source in Orgs- Tools
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-    
-<!--
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-
-https://github.com/todogroup/awesome-oss-mgmt
-
-http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
-https://github.com/todogroup/guides | todogroup/guides: TODO Group Guides
-
-https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
-
-Survey
-https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
-
-https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
-
-https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
-
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://github.com/customer-stories/facebook | Facebook
-
-https://github.com/microsoft/opensource.microsoft.com
-https://opensource.microsoft.com/program/#program-contributing
-
-
-https://github.com/adobe/open-development-template
-
-https://github.com/salesforce/oss-template/
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
-https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
-
-## Company Open Source
-
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-MS OS
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-https://eng.uber.com/open-source-principles/#:~:text=Open%20source%20at%20Uber%20supports,expand%20upon%20existing%20community%20solutions. | Introducing Uber’s Open Source Principles | Uber Engineering Blog
-https://uber.github.io/#/principles | Uber Open Source
-
-https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://github.com/indeedeng/FOSS-Contributor-Fund
-https://github.com/indeedeng/FOSS-Contributor-Fund#the-project-must-use-an-osi-approved-license | indeedeng/FOSS-Contributor-Fund: This document outlines the processes we use to manage our FOSS Contributor Fund initiative at Indeed.
-https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
-https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
-
-https://github.com/homedepot/opensource-corebeliefs
-https://homedepot.github.io/
-
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
-
-https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
-
-Mozilla open leaders programme - Google Search
-https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
-https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
-
-https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
-https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
-
-
-https://primer.style/doctocat/usage/deployment
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-https://discourse.sustainoss.org/
-
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-ADR
-https://github.blog/2020-08-13-why-write-adrs/
-https://adr.github.io/ | Architectural Decision Records | adr.github.io
-https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
-https://github.com/joelparkerhenderson/architecture_decision_record
-
-https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
-https://bestpractices.coreinfrastructure.org/en | BadgeApp
-https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
-
-https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
--->
 
 
 ## Learning Resources- Challenges
@@ -2319,26 +1976,106 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
+## Open Source in Orgs- Tools
+
+## Orgs
+
+General Open Source Sites
+* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Dot Com](https://opensource.com)
+
+Foundations
+* [Choose A Foundation](http://chooseafoundation.com/)
+* [Software Freedom Conservancy](https://sfconservancy.org/)
+* [Linux Foundation](https://www.linuxfoundation.org/)
+* [Apache Foundation](https://www.apache.org/foundation/)
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [JavaScript Foundation](https://js.foundation/)
+* [Open JavaScript Foundation](https://openjsf.org/)
+* [Node Foundation](https://foundation.nodejs.org/)
+
+Important Orgs
+* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [TODO Group](https://todogroup.org/)
+
 <!--
-https://search.firstround.com/lists
+https://twitter.com/SustainOSS/
 
-https://leaddev.com/
+https://www.openapis.org/
 
-Dev Cos
-https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
-https://dev.to/salesforcedevs/
-https://dev.to/heroku/
+https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
 
-https://www.mail-archive.com/
-https://opensource.google/community/affiliations/
-https://twitter.com/redhatopen/
+Continuous Delivery Foundation
+https://cd.foundation/
 
-https://about.gitlab.com/blog/
+https://opensource.googleblog.com/
+
+
+https://numfocus.org/
+
+https://www.redhat.com
+https://www.redhat.com/en/blog
+https://access.redhat.com/documentation/en-us/
+https://developers.redhat.com/blog
+https://www.atlassian.com/blog/
+
+Kubernetes
+https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
+https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
+
+https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+
+GNOME Foundation
+https://blogs.gnome.org
+
+https://www.fsf.org/blogs/
+http://ftp.gnu.org
+http://gcc.gnu.org
+https://en.wikipedia.org/wiki/GNU_Project
+https://en.wikipedia.org/wiki/Free_Software_Foundation
+
+ACM Library
+https://www.acm.org/
+https://dl.acm.org/
+
+https://www.linux.com/
+https://www.linuxjournal.com
+https://www.linux.com/blog/
+https://lwn.net/
+
+https://www.eff.org
+
+Recurse Center
+https://www.recurse.com/
+
+Foundations
+https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+
+CNCF
+https://github.com/cncf/
+https://www.cncf.io/blog/
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+
+OS Security
+https://github.com/ossf | Open Source Security Foundation (OpenSSF)
+
+https://openusage.org/ | Open Usage Commons
+http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
+
+https://joss.theoj.org/ | Journal of Open Source Software
+http://jmlr.org/ | Journal of Machine Learning Research Homepage
 -->
+
 
 ## Companies with Great Content
 
 <!--
+https://www.mail-archive.com/
+https://opensource.google/community/affiliations/
+https://twitter.com/redhatopen/
+
 FOSS Governance
 https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
 https://www.zotero.org/groups/2310183/foss_governance/library
@@ -2351,7 +2088,23 @@ https://www.twitch.tv/twitterdev | (6) TwitterDev - Twitch
 
 https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
 https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
+
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+
+https://about.gitlab.com/blog/
+-->
+
+## Twilio
+
+<!--
+Twilio
 https://www.twilio.com/docs/tutorials
+https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
 -->
 
 ## Project Ideas and Learning Resources
@@ -2384,6 +2137,12 @@ Python Articles and Tutorials
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
+https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
+
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
+https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ | Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare
+
+
 People
 https://www.twitch.tv/directory/following
 
@@ -2421,6 +2180,14 @@ https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | Th
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
 
 
+Release
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
 
 GitHub Python
@@ -2433,14 +2200,6 @@ https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
 
 https://popular-github-repos.github.io/
 https://github.com/popular-github-repos/popular-github-repos.github.io
-
-
-Release
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
-
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 -->
 
 
@@ -3005,6 +2764,151 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+<!--
+ZSH, Bash and command line, aliases/bash script aliases
+
+https://en.wikipedia.org/wiki/List_of_file_formats
+https://en.wikipedia.org/wiki/File_format
+https://en.wikipedia.org/wiki/List_of_filename_extensions
+https://en.wikipedia.org/wiki/Filename_extension
+https://en.wikipedia.org/wiki/Binary_file
+https://en.wikipedia.org/wiki/Text_file
+https://en.wikipedia.org/wiki/System_file
+https://en.wikipedia.org/wiki/File_system
+https://en.wikipedia.org/wiki/Directory_structure
+
+Julia Evans
+
+https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
+https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
+
+
+https://wizardzines.com/comics/ | https://wizardzines.com/comics/
+https://twitter.com/b0rk
+https://github.com/jvns/
+
+https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
+https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/ | Taking a year to explain computer things - Julia Evans
+
+Collections
+https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/ | Your Linux Toolbox: a box set of my free zines - Julia Evans
+http://jvns.ca/blog/2016/11/27/more-linux-drawings/
+
+Non-code
+https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twitter: "how to be a wizard programmer… "
+https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
+https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
+https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
+https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
+https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
+https://jvns.ca/blog/2013/12/27/guys-guys-guys/
+
+Refactoring
+https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
+
+Containers
+https://wizardzines.com/zines/containers/ | How Containers Work!
+
+JavaScript
+https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
+
+Browser
+https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
+
+https://github.com/jvns/shell-examples | jvns/shell-examples
+
+Bash
+https://twitter.com/b0rk/status/1000208860060307456 | 🔎Julia Evans🔍 on Twitter: "a few bash tricks… "
+https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
+https://wizardzines.com/comics/bash-if-statements/
+https://wizardzines.com/comics/bash-errors/
+https://twitter.com/simonw/status/1314384418170003456
+
+/proc
+https://twitter.com/b0rk/status/981159808832286720
+
+Perf
+https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
+
+Debugging
+https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
+https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
+https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
+https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
+https://twitter.com/andrewgodwin/status/1147272951118483457
+
+
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+unix performance tools - Google Search
+
+
+http://www.linfo.org/usr_sbin.html
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
+
+https://opensource.com/article/19/4/bash-vs-python
+
+
+Bash versus Python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
+
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+
+
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
+
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+-->
 
 
 
@@ -4621,16 +4525,8 @@ https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
 -->
 
-## Twilio
 
-<!--
-Twilio
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
-https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
-https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
--->
-
-
+## Open Source and Release Examples
 
 <!--
 ## API
@@ -4912,96 +4808,7 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 -->
 
 
-## Orgs
-
-General Open Source Sites
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
-
-Foundations
-* [Choose A Foundation](http://chooseafoundation.com/)
-* [Software Freedom Conservancy](https://sfconservancy.org/)
-* [Linux Foundation](https://www.linuxfoundation.org/)
-* [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
-* [JavaScript Foundation](https://js.foundation/)
-* [Open JavaScript Foundation](https://openjsf.org/)
-* [Node Foundation](https://foundation.nodejs.org/)
-
-Important Orgs
-* [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
-* [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
-
-<!--
-https://twitter.com/SustainOSS/
-
-https://www.openapis.org/
-
-https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
-
-Continuous Delivery Foundation
-https://cd.foundation/
-
-https://opensource.googleblog.com/
-
-
-https://numfocus.org/
-
-https://www.redhat.com
-https://www.redhat.com/en/blog
-https://access.redhat.com/documentation/en-us/
-https://developers.redhat.com/blog
-https://www.atlassian.com/blog/
-
-Kubernetes
-https://github.com/kubernetes/community | kubernetes/community: Kubernetes community content
-https://github.com/kubernetes/website | kubernetes/website: Kubernetes website and documentation repo:
-
-https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
-
-GNOME Foundation
-https://blogs.gnome.org
-
-https://www.fsf.org/blogs/
-http://ftp.gnu.org
-http://gcc.gnu.org
-https://en.wikipedia.org/wiki/GNU_Project
-https://en.wikipedia.org/wiki/Free_Software_Foundation
-
-ACM Library
-https://www.acm.org/
-https://dl.acm.org/
-
-https://www.linux.com/
-https://www.linuxjournal.com
-https://www.linux.com/blog/
-https://lwn.net/
-
-https://www.eff.org
-
-Recurse Center
-https://www.recurse.com/
-
-Foundations
-https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
-
-CNCF
-https://github.com/cncf/
-https://www.cncf.io/blog/
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-
-OS Security
-https://github.com/ossf | Open Source Security Foundation (OpenSSF)
-
-https://openusage.org/ | Open Usage Commons
-http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines
-
-https://joss.theoj.org/ | Journal of Open Source Software
-http://jmlr.org/ | Journal of Machine Learning Research Homepage
--->
-
+## Open Source
 
 <!--
 ## Git and OS
@@ -5095,6 +4902,204 @@ https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
 -->
 
+## Open Source in Orgs- Tools
+
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+    
+<!--
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+
+https://github.com/todogroup/awesome-oss-mgmt
+
+http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
+https://github.com/todogroup/guides | todogroup/guides: TODO Group Guides
+
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+Survey
+https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
+
+https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
+
+https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
+
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://github.com/customer-stories/facebook | Facebook
+
+https://github.com/microsoft/opensource.microsoft.com
+https://opensource.microsoft.com/program/#program-contributing
+
+
+https://github.com/adobe/open-development-template
+
+https://github.com/salesforce/oss-template/
+
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
+
+
+## Company Open Source
+
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+MS OS
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+https://eng.uber.com/open-source-principles/#:~:text=Open%20source%20at%20Uber%20supports,expand%20upon%20existing%20community%20solutions. | Introducing Uber’s Open Source Principles | Uber Engineering Blog
+https://uber.github.io/#/principles | Uber Open Source
+
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://github.com/indeedeng/FOSS-Contributor-Fund#the-project-must-use-an-osi-approved-license | indeedeng/FOSS-Contributor-Fund: This document outlines the processes we use to manage our FOSS Contributor Fund initiative at Indeed.
+https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
+https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
+
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
+
+https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
+
+Mozilla open leaders programme - Google Search
+https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
+https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
+
+https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
+https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
+
+
+https://primer.style/doctocat/usage/deployment
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+Sustain OSS
+https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
+
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+ADR
+https://github.blog/2020-08-13-why-write-adrs/
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record
+
+https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
+https://bestpractices.coreinfrastructure.org/en | BadgeApp
+https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+-->
+
+<!--
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+
+https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
+
+Important
+https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
+
+CHAOSS
+https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
+https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
+
+Gov
+https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
+https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
+
+
+https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
+
+https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
+https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getting credit: Taking your place in a meritocracy | Opensource.com
+https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
+https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
+
+https://www.harihareswara.net/sumana/2016/10/12/0 | Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History
+https://twitter.com/brainwane/status/1310171548590931974 | https://twitter.com/brainwane/status/1310171548590931974
+
+Vicky
+https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
+https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
+
+https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
+
+https://missionprotocol.org/ | About | Mission Protocol
+
+COSS
+https://www.bvp.com/atlas/roadmap-open-source
+https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
+
+https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
+
+
+Bazel
+https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
+https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
+
+https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
+-->
 
 ## Open Source and Release Examples
 
