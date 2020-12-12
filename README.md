@@ -898,11 +898,6 @@ https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
 Important
 https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
 
-FOSS Governance
-https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
-https://www.zotero.org/groups/2310183/foss_governance/library
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
 CHAOSS
 https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
 https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
@@ -2325,6 +2320,8 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 
 
 <!--
+https://search.firstround.com/lists
+
 https://leaddev.com/
 
 Dev Cos
@@ -2333,14 +2330,21 @@ https://dev.to/salesforcedevs/
 https://dev.to/heroku/
 
 https://www.mail-archive.com/
-
-Orgs
 https://opensource.google/community/affiliations/
+https://twitter.com/redhatopen/
+
+https://about.gitlab.com/blog/
+-->
+
+## Companies with Great Content
+
+<!--
+FOSS Governance
+https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
+https://www.zotero.org/groups/2310183/foss_governance/library
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
 
 https://oo.t9t.io/organizations | Open companies
-
-https://twitter.com/redhatopen/
-https://about.gitlab.com/blog/
 
 Great Dev Blogs
 https://www.twitch.tv/twitterdev | (6) TwitterDev - Twitch
@@ -2348,8 +2352,6 @@ https://www.twitch.tv/twitterdev | (6) TwitterDev - Twitch
 https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
 https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
 https://www.twilio.com/docs/tutorials
-
-https://search.firstround.com/lists
 -->
 
 ## Project Ideas and Learning Resources
@@ -2372,13 +2374,6 @@ Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
 
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
-* [Real Python Materials](https://github.com/realpython/materials)
-* [Real Python Courses](https://realpython.com/courses)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
 Python Articles and Tutorials
 * [The Practical Dev Python](https://dev.to/search?q=python)
 * [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
@@ -2388,27 +2383,18 @@ Python Articles and Tutorials
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+<!--
+People
+https://www.twitch.tv/directory/following
 
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
 
-TestDriven.io and Michael
-* [Test Driven Blog](https://testdriven.io/blog/)
-* [Michael Herman](https://mherman.org/talks)
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
 
-Full Stack Python
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Trey Hunner
-* [Trey Hunner](https://treyhunner.com/)
-
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+-->
 
 <!--
 https://codepen.io/tag/python
@@ -2455,8 +2441,41 @@ https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · Novemb
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+-->
 
 
+## Python Learning Resources
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Real Python Courses](https://realpython.com/courses)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+TestDriven.io and Michael
+* [Test Driven Blog](https://testdriven.io/blog/)
+* [Michael Herman](https://mherman.org/talks)
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+<!--
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -2464,20 +2483,6 @@ https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
--->
-
-
-<!--
-People
-https://www.twitch.tv/directory/following
-
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
-https://github.com/orgs/maintainers/people
-
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
 -->
 
 <!--
