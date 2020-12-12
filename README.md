@@ -622,12 +622,19 @@ ToDo
 
 https://repl.it/@KatherineMichel/
 
+Important tool
+https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
+
 https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 https://todoist.com/ | 503 Service Temporarily Unavailable
 https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
 
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
 
 https://www.merriam-webster.com/dictionary/step%20change
 
@@ -681,6 +688,9 @@ hero theme - Google Search
 
 https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
 
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
+https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ | Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare
+
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
 
 Arxiv
@@ -688,9 +698,17 @@ https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
 https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
 
+https://abookapart.com/products/everyday-information-architecture | A Book Apart, Everyday Information Architecture
+
+Talk Python
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+
 https://leaddev.com/
 
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
+Release
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 
 Dev Cos
 https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
@@ -733,11 +751,6 @@ https://www.xorpd.net/ | xorpd
 
 https://datasette.io/
 
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-
-Awesome
-https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
 
 https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
 
@@ -768,16 +781,11 @@ Security
 https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
 Dark PDF and light PDF
 
+Security
+https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
+
 Important
 https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-
-Talk Python
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
-
-
-Important tool
-https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
 
 
 https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
@@ -794,10 +802,14 @@ Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
 
+
 http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
 https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
 https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
+https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
 
+
+https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
@@ -817,6 +829,13 @@ https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 
 ## HTMl and CSS
+
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+
+Awesome
+https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
+
 
 CSS
 https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
@@ -897,29 +916,10 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 
-## New Open Source
 
 https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
 
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
-https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
 https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-
-Governance
-https://www.zotero.org/groups/2310183/foss_governance/library | FOSS Governance | Zotero
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
-https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
-https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
-
-https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
-https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
-
-Bazel
-https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
-https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
-
 
 ## Open Source
 
@@ -937,6 +937,22 @@ https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A publ
 
 https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
 
+https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
+
+FOSS Governance
+https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
+https://www.zotero.org/groups/2310183/foss_governance/library
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+
+CHAOSS
+https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
+https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
+
+Gov
+https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
+https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
+
+
 https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
 
 https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
@@ -944,21 +960,12 @@ https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getti
 https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
 https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
 
-https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
-
 https://www.harihareswara.net/sumana/2016/10/12/0 | Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History
 https://twitter.com/brainwane/status/1310171548590931974 | https://twitter.com/brainwane/status/1310171548590931974
 
-Gov
-https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
-https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
-
-FOSS Governance
-https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
-https://www.zotero.org/groups/2310183/foss_governance/library
-
 Vicky
 https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
+https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
 
 https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
 
@@ -969,6 +976,12 @@ https://www.bvp.com/atlas/roadmap-open-source
 https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
 
 https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
+
+
+Bazel
+https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
+https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
 
 https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
 
@@ -1550,6 +1563,9 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Technical Writing Tools
 
 <!--
+https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
+https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
+
 https://stripe.com/docs/api | Stripe API Reference
 https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
 
