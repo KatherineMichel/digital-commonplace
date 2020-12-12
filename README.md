@@ -394,8 +394,6 @@ https://twitter.com/FlipperPA/status/1296430919704809472 | Tim A. on Twitter: "@
 https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
 
 
-https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
-
 https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
 
 
@@ -408,10 +406,17 @@ https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects
 
 https://djangobuilder.io/#/ | Django Builder
 
+https://django.doctor/challenge | Django Doctor - Django code improvement bot
+
 https://github.com/wsvincent/awesome-django
 
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+Luke
+https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
 
 https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
@@ -611,52 +616,9 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 -->
 
 
+
 <!--
-## Of Interest
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
-
-https://articles.tilt365.com/identify-destructive-leadership-patterns/ | How to Identify Destructive Leadership Patterns
-
-https://datasette.io/
-
-ToDo- Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
-
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-
-Awesome
-https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
-
-Algos
-https://www.algorist.com/ | The Algorithm Design Manual
-
-https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
-
-https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
-
-Doc
-https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://amitness.com/2019/08/math-for-programmers/
-
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
-
-Security
-https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
-Dark PDF and light PDF
-
+ToDo
 
 https://repl.it/@KatherineMichel/
 
@@ -664,8 +626,8 @@ https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tas
 https://todoist.com/ | 503 Service Temporarily Unavailable
 https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
 
-Important tool
-https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
 
 https://www.merriam-webster.com/dictionary/step%20change
 
@@ -677,6 +639,8 @@ https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf 
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
+https://articles.tilt365.com/identify-destructive-leadership-patterns/ | How to Identify Destructive Leadership Patterns
+
 https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
 
 Sid
@@ -686,54 +650,6 @@ http://www.collaborativefund.com/blog
 
 https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang Ⓥ on Twitter: "Imagine a higher-functioning, more-driven version of "you" who inherited your life, your IQ, your body, your bank balance. What would this higher/stronger version do with your existing insecurities and routines? Pretend he's in charge. Then do as he would." / Twitter
 https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
-
-https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
-
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
-
-https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
-
-
-https://leaddev.com/
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
-
-https://www.mail-archive.com/
-
-Orgs
-https://opensource.google/community/affiliations/
-
-https://oo.t9t.io/organizations | Open companies
-
-https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
-https://twitter.com/redhatopen/
-
-Twilio
-https://www.twilio.com/docs/tutorials
-
-https://about.gitlab.com/blog/
-
-Dev Cos
-https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
-https://dev.to/salesforcedevs/
-https://dev.to/heroku/
-
-http://www.githubstars.com/ | GithubStars | Find Top Developers
-https://github.com/popular-github-repos/
-https://search.firstround.com/lists
-
-
-Search
-https://hndex.ml/
-https://hndex.org/
-
-Top Videos
-https://redditvids.com/ | Discover shared videos and live broadcasts from Reddit | RedditVids.com
-Staff pick
-https://vimeo.com/161487817
 
 Learning
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
@@ -745,19 +661,8 @@ https://www.youtube.com/watch?v=XTcqlOFhpPI
 
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
 
-
 https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-
-https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
-https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
-
-Sarah Drasner
-https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
-
-https://twitter.com/chriscoyier/status/1337569425776635904
-https://wordpress.org/themes/twentytwentyone/
-https://css-tricks.com/unconventional-stock-image-sources/
 
 Tessa
 https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
@@ -773,6 +678,117 @@ https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/149
 https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
 https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
 hero theme - Google Search
+
+https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
+
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
+
+Arxiv
+https://paperswithcode.com/ | The latest in machine learning | Papers With Code
+
+https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
+
+https://leaddev.com/
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+
+https://www.mail-archive.com/
+
+Orgs
+https://opensource.google/community/affiliations/
+
+https://oo.t9t.io/organizations | Open companies
+
+https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
+https://twitter.com/redhatopen/
+https://about.gitlab.com/blog/
+
+Twilio
+https://www.twilio.com/docs/tutorials
+
+http://www.githubstars.com/ | GithubStars | Find Top Developers
+https://github.com/popular-github-repos/
+https://search.firstround.com/lists
+
+Search
+https://hndex.ml/
+https://hndex.org/
+
+Top Videos
+https://redditvids.com/ | Discover shared videos and live broadcasts from Reddit | RedditVids.com
+Staff pick
+https://vimeo.com/161487817
+
+
+
+## Of Interest
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+https://datasette.io/
+
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+
+Awesome
+https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
+
+https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
+
+Doc
+https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
+
+
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://amitness.com/2019/08/math-for-programmers/
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+
+Security
+https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
+Dark PDF and light PDF
+
+Important
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+
+Talk Python
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+
+
+Important tool
+https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
+
+
+https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
+https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
+
+Sarah Drasner
+https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
+
+https://twitter.com/chriscoyier/status/1337569425776635904
+https://wordpress.org/themes/twentytwentyone/
+https://css-tricks.com/unconventional-stock-image-sources/
 
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
@@ -797,6 +813,8 @@ https://jwt.io/ | JSON Web Tokens - jwt.io
 https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
 https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+
 
 ## HTMl and CSS
 
@@ -847,57 +865,6 @@ https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding A
 https://twitter.com/rauchg/status/1328040020460990464 | Guillermo Rauch on Twitter: "@sarah_edo @threepointone Absolutely. The Chrome team just publishes RFCs like anybody else can" / Twitter
 
 
-
-
-Talk Python
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
-
-Important
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-
-https://django.doctor/challenge | Django Doctor - Django code improvement bot
-
-Luke
-https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
-https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
-https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
-
-https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
-
-Simon
-https://twitter.com/simonw/status/1332309496824172544 | Simon Willison on Twitter: "These are really nice - and this notebook lets you interactively adjust things like colors and line-widths for the different counties and zip codes" / Twitter
-https://twitter.com/simonw/status/1331380727754067969 | Simon Willison on Twitter: "Today I was reminded of how insanely performant ripgrep is - I wanted to search across all of my checked out Git repos (~500 folders) so I ran rg '\.config\(' -g '*.py' in the parent directory and it gave me results across all 500 projects in ~2.5 seconds" / Twitter
-https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
-https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
-https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
-https://simonwillison.net/2020/Oct/9/git-scraping/ | Git scraping: track changes over time by scraping to a Git repository
-https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
-https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
-
-
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
-https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-
-Governance
-https://www.zotero.org/groups/2310183/foss_governance/library | FOSS Governance | Zotero
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
-https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
-https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
-
-https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
-https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
-
-Bazel
-https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
-https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
-
-
 ## Community
 
 https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
@@ -928,6 +895,30 @@ https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitt
 
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+
+## New Open Source
+
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
+https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+
+Governance
+https://www.zotero.org/groups/2310183/foss_governance/library | FOSS Governance | Zotero
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+
+https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
+https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
+
+https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
+https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
+
+Bazel
+https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
 
 
 ## Open Source
@@ -982,33 +973,6 @@ https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
 https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
 
 
-Martin
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
-
-Interesting
-https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
-
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-
-https://www.w3.org/DesignIssues/Architecture.html
-
-Data Structures and Algorithms
-
-https://www.toptal.com/python/python-design-patterns
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-Extract till you drop
-https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
-
-
 ## Look Through
 
 Julia Evans
@@ -1061,6 +1025,33 @@ vscode html css support - Google Search
 
 Mac
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
+
+
+Martin
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
+
+Interesting
+https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
+
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
+https://www.w3.org/DesignIssues/Architecture.html
+
+Data Structures and Algorithms
+
+https://www.toptal.com/python/python-design-patterns
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+Extract till you drop
+https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
 
 
 GraphQL
@@ -1133,6 +1124,21 @@ https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chr
 
 
 <!--
+https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
+
+https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
+
+Simon
+https://twitter.com/simonw/status/1332309496824172544 | Simon Willison on Twitter: "These are really nice - and this notebook lets you interactively adjust things like colors and line-widths for the different counties and zip codes" / Twitter
+https://twitter.com/simonw/status/1331380727754067969 | Simon Willison on Twitter: "Today I was reminded of how insanely performant ripgrep is - I wanted to search across all of my checked out Git repos (~500 folders) so I ran rg '\.config\(' -g '*.py' in the parent directory and it gave me results across all 500 projects in ~2.5 seconds" / Twitter
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
+https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
+https://simonwillison.net/2020/Oct/9/git-scraping/ | Git scraping: track changes over time by scraping to a Git repository
+https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
+https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
+
+
 Simon- Doc Unit Tests
 https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
 http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
