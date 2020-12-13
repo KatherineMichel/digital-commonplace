@@ -725,6 +725,8 @@ https://github.com/faif/python-patterns | faif/python-patterns: A collection of 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+https://github.com/ryanmcdermott/clean-code-javascript | ryanmcdermott/clean-code-javascript: Clean Code concepts adapted for JavaScript
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
 
@@ -744,6 +746,9 @@ https://github.com/donnemartin/system-design-primer | donnemartin/system-design-
 
 https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
 https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+
+https://github.com/kamranahmedse/developer-roadmap | kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020
+https://github.com/donnemartin/system-design-primer | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
 
