@@ -720,7 +720,13 @@ https://docs.microsoft.com/en-us/learn/
 Algos
 https://www.algorist.com/ | The Algorithm Design Manual
 
+Algos
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
 https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
 
 https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
 
