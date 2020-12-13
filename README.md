@@ -393,57 +393,6 @@ https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/
 https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
 
-
-ToDo
-
-https://repl.it/@KatherineMichel/
-
-
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://articles.tilt365.com/identify-destructive-leadership-patterns/ | How to Identify Destructive Leadership Patterns
-
-https://twitter.com/ShaneAParrish/status/1323257397188698112 | Shane Parrish on Twitter: "There is an important thinking tool known as Level Two Thinking Here’s what it is, why it matters, and how to use it in everyday life. 👇👇👇" / Twitter
-
-Sid
-https://twitter.com/changelog/status/1276514876228284417
-
-
-https://leaddev.com/
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
-
-https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
-
-AWS
-https://www.awsgeek.com
-
-https://www.lukew.com/
-
-Learn Django
-https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
-
-Projects
-https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
-
-
-Algos
-https://www.algorist.com/ | The Algorithm Design Manual
-
-https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-
-
-
-
 Learning
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
@@ -758,8 +707,39 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 <!--
 ## Of Interest
 
+https://repl.it/@KatherineMichel/
+
+
+https://leaddev.com/
+
+https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
+
+AWS
+https://www.awsgeek.com
+
+https://docs.microsoft.com/en-us/learn/
+
+Learn Django
+https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
+
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+
+https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
+
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
 https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
 
+
+https://www.lukew.com/
 
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
@@ -808,6 +788,9 @@ https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLa
 https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
 
 https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
 
 
 ## Dev Tools and Standards
@@ -1576,6 +1559,7 @@ Atlassian Agile
 https://developer.atlassian.com
 
 https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
 https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
 
 https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
@@ -1663,6 +1647,7 @@ https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion 
 https://github.com/github/docs
 
 Launch Story
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
 https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
 https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
 
@@ -2067,6 +2052,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
+
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
