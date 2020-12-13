@@ -761,10 +761,6 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
 
 
-https://twitter.com/chriscoyier/status/1337569425776635904
-https://wordpress.org/themes/twentytwentyone/
-https://css-tricks.com/unconventional-stock-image-sources/
-
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
@@ -992,60 +988,6 @@ https://pop.system76.com/
 
 Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
-
-
-## HTMl and CSS
-
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-
-Awesome
-https://github.com/andreasbm/web-skills | andreasbm/web-skills: A visual overview of useful skills to learn as a web developer
-
-
-CSS
-https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
-
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
-
-
-https://stateofcss.com/ | The State of CSS Survey
-https://stateofjs.com/
-
-https://1mb.club/ | 1MB Club
-https://250kb.club/ | The 250kb Club
-https://nojs.club/ | The NoJS Club!
-
-http://www.csszengarden.com/
-
-https://sjmulder.nl/en/textonly.html | Text-only websites
-
-https://ugliest.app/ | https://ugliest.app
-https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
-
-CSS
-http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
-https://a.singlediv.com/ | A Single Div
-https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
-https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
-
-https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
-
-https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
-https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
-https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
-
-https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
-
-Tailwind
-https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
-https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
-https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
 
 
 ## Fun Open Source Stuff
@@ -2304,6 +2246,16 @@ https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Gu
 https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
 
 
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+https://www.smashingmagazine.com/
+
+
+https://twitter.com/chriscoyier/status/1337569425776635904
+https://wordpress.org/themes/twentytwentyone/
+https://css-tricks.com/unconventional-stock-image-sources/
+
+
 Sarah
 https://css-tricks.com/learning-to-learn/
 
@@ -2793,11 +2745,23 @@ https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
 -->
 
+<!--
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+-->
+
 
 
 ## Google Chrome Dev Tools
 
 <!--
+https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
+
+
 https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
 
 https://developer.chrome.com/devtools/docs/javascript-debugging
@@ -2885,13 +2849,6 @@ https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Tod
 
 <!--
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
-
-https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition | I created the exact same app in React and Vue. Here are the differences.
-https://twitter.com/dan_abramov/status/1303090254161866755 | Dan Abramov on Twitter: "Is there a good article comparing the different layout systems? E.g. CSS (Box/Flex/Grid), Adobe Flex, WPF, Cocoa, SwiftUI, Jetpack Compose, Flutter, etc. Curious about big ideas (tm) and constraints in each, and how they are playing out in practice." / Twitter
-
-https://infrequently.org/2017/10/can-you-afford-it-real-world-web-performance-budgets/ | Can You Afford It?: Real-world Web Performance Budgets – Infrequently Noted
 -->
 
 
@@ -2918,13 +2875,46 @@ https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
 
+
+
 <!--
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+## HTMl and CSS
+
+Tailwind
+https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+
+
+https://stateofcss.com/ | The State of CSS Survey
+https://stateofjs.com/
+
+
+CSS
+https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
+
+https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+-->
+
+<!--
+https://1mb.club/ | 1MB Club
+https://250kb.club/ | The 250kb Club
+https://nojs.club/ | The NoJS Club!
+
+http://www.csszengarden.com/
+
+https://sjmulder.nl/en/textonly.html | Text-only websites
+
+https://ugliest.app/ | https://ugliest.app
+https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
+
+CSS
+http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
+https://a.singlediv.com/ | A Single Div
+https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
+https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
 -->
 
 
@@ -2941,6 +2931,9 @@ jQuery
 https://github.com/phuoc-ng/html-dom
 
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
 
 ## JavaScript Standards
@@ -2952,6 +2945,12 @@ CommonJS (Node)
 * [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
 
 <!--
+https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
+
+https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
+https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
+https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
+
 https://github.com/luruke/browser-2020
 http://caniuse.com
 https://caniuse.com/#feat=es6
