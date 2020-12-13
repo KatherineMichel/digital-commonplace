@@ -707,6 +707,11 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 <!--
 ## Of Interest
 
+People
+https://github.com/guyroyse/
+https://github.com/froi/
+https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
+
 AWS
 https://www.awsgeek.com
 
@@ -716,6 +721,34 @@ Algos
 https://www.algorist.com/ | The Algorithm Design Manual
 
 https://github.com/zedr/clean-code-python | zedr/clean-code-python: Clean Code concepts adapted for Python
+
+https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
+
+https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
+https://github.com/pivotal/read-me-first | pivotal/read-me-first: Best practices, and how to work in this Org.
+https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Example: Repository for example styleguide project
+https://github.com/magoo/minimalist-risk-management
+
+Playbook
+https://github.com/FormidableLabs/formidable-playbook | FormidableLabs/formidable-playbook: The Formidable development playbook.
+
+https://github.com/joelparkerhenderson/architecture_decision_record | joelparkerhenderson/architecture_decision_record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+https://github.com/xingshaocheng/architect-awesome | xingshaocheng/architect-awesome: 后端架构师技术图谱
+https://github.com/donnemartin/system-design-primer | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
+
+https://github.com/microsoft/Web-Dev-For-Beginners
+https://github.com/thwidge/brutalcss/blob/main/brutalcss.html | brutalcss/brutalcss.html at main · thwidge/brutalcss
+
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
 https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
 
