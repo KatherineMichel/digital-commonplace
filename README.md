@@ -707,20 +707,10 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 <!--
 ## Of Interest
 
-https://repl.it/@KatherineMichel/
-
-
-https://leaddev.com/
-
-https://github.com/google/gsocguides | google/gsocguides: Google Summer of Code Mentor and Student Guides
-
 AWS
 https://www.awsgeek.com
 
 https://docs.microsoft.com/en-us/learn/
-
-Learn Django
-https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
 
 Algos
 https://www.algorist.com/ | The Algorithm Design Manual
@@ -2217,6 +2207,20 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
+https://repl.it/@KatherineMichel/
+
+https://leaddev.com/
+
+https://adventofcode.com/2020/leaderboard
+
+https://javascript.info/
+https://github.com/andreasbm/web-skills
+https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+Learn Django
+https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
+
+
 Web Design
 https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
 https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
@@ -2283,9 +2287,6 @@ https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Steppe
 https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
 https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 
-
-https://github.com/andreasbm/web-skills
-https://andreasbm.github.io/web-skills/?compact | Web Skills
 
 https://github.com/btholt/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
