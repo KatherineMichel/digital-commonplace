@@ -624,6 +624,8 @@ https://github.com/digitalocean/hacktoberfest
 https://github.com/jamstack/jamstack.org
 https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
 
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
 ## Product
 
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
@@ -1733,29 +1735,6 @@ Heroku Hosting Docs
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
 
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-https://nextjs.org/showcase | Showcase | Next.js
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
 
 ## Companies with Great Content
 
@@ -1790,30 +1769,30 @@ https://dev.to/salesforcedevs/
 https://dev.to/heroku/
 -->
 
+## Showcases
 
-## Product Hunt and BetaList
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
 
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-
-
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
 
 <!--
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+https://nextjs.org/showcase | Showcase | Next.js
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
-<!--
-https://womenmake.com/ | Women Make
--->
 
 
 ## Project Ideas and Learning Resources
@@ -1821,12 +1800,13 @@ https://womenmake.com/ | Women Make
 Stars
 * [Astral App](https://astralapp.com)
 
+Nuzzel
+* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
+* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
+
 GitHub Trending
 * [GitHub Trending](https://github.com/trending)
 * [GitHub Trending Python](https://github.com/trending/python)
-
-People
-* [GitHub Trending Developers](https://github.com/trending/developers)
 
 Show Hacker News and IH
 * [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
@@ -1892,8 +1872,6 @@ Tutorial and project ideas
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
 
-
-Release
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
@@ -1901,12 +1879,14 @@ https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.h
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
 
+
 https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
+
+http://www.githubstars.com/ | GithubStars | Find Top Developers
+https://web.archive.org/web/20200614152428/http://www.githubstars.com/
 
 GitHub Python
 http://git-awards.com/users?language=python | Python worldwide | Git Awards
-
-http://www.githubstars.com/ | GithubStars | Find Top Developers
 
 github users with the most followers - Google Search
 https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
@@ -1969,6 +1949,25 @@ https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerpl
 https://github.com/DrkSephy/django-hackathon-starter
 -->
 
+
+## People
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+People
+* [GitHub Trending Developers](https://github.com/trending/developers)
+
+<!--
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+-->
+
+<!--
+https://womenmake.com/ | Women Make
+-->
 
 ## Makers
 
@@ -2345,6 +2344,10 @@ https://repl.it/@KatherineMichel/
 
 https://leaddev.com/
 
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+https://www.smashingmagazine.com/
+
 https://adventofcode.com/2020/leaderboard
 
 https://javascript.info/
@@ -2371,11 +2374,6 @@ https://startbootstrap.com/ | Free Bootstrap Themes, Templates, Snippets, and Gu
 https://startbootstrap.com/templates/ | Free Bootstrap Templates - Start Bootstrap
 
 
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-https://www.smashingmagazine.com/
-
-
 https://twitter.com/chriscoyier/status/1337569425776635904
 https://wordpress.org/themes/twentytwentyone/
 https://css-tricks.com/unconventional-stock-image-sources/
@@ -2396,9 +2394,6 @@ https://twitter.com/FagnerBrack
 https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
 https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
 https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
-
-Egghead
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
 
 
 https://github.com/bradtraversy/
@@ -5935,10 +5930,6 @@ https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books
 ## To Look At
 
 Nuzzel
-* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
-* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
-
-Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
 Articles
@@ -5948,6 +5939,12 @@ Articles
 Product Hunt
 * [Product Hunt](https://www.producthunt.com)
 * [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
 
 Hacker News
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
