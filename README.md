@@ -1864,47 +1864,6 @@ https://twitter.com/amasad/status/1204843691682091008
 -->
 
 
-## Tutorials
-
-Show Hacker News and IH
-* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
-* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-Python Articles and Tutorials
-* [The Practical Dev Python](https://dev.to/search?q=python)
-* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
-* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
-* [Hacker Noon Python](https://hackernoon.com/search?query=python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-
-<!--
-Tutorial and project ideas
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
-
-
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
-
-GitHub Python
-http://git-awards.com/users?language=python | Python worldwide | Git Awards
-
-github users with the most followers - Google Search
-https://gitstar-ranking.com/users | Users Ranking - Gitstar Ranking
-
-https://popular-github-repos.github.io/
-https://github.com/popular-github-repos/popular-github-repos.github.io
--->
-
 ## People
 
 Product Hunt Maker Leader Boards
@@ -2444,6 +2403,37 @@ https://www.pythonmorsels.com/resources/
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
+-->
+
+## Tutorials
+
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+Python Articles and Tutorials
+* [The Practical Dev Python](https://dev.to/search?q=python)
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+
+<!--
+Tutorial and project ideas
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
 
 ## Python Learning Resources
