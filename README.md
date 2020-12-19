@@ -1804,10 +1804,6 @@ Nuzzel
 * [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
 * [Friends' Feeds](https://nuzzel.com/friendsfeeds)
 
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python)
-
 Show Hacker News and IH
 * [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
 * [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
@@ -5932,19 +5928,13 @@ https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
 
-Articles
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
 
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Trending Python](https://github.com/trending/python)
 
 Hacker News
 * [Hacker News Current Best](https://news.ycombinator.com/best), 
@@ -5958,9 +5948,15 @@ Other Aggregators
 Python
 * [Pythonic News](https://news.python.sc/)
 
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+Product Hunt
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
 
 Top Videos
 * [Reddit Top Videos](https://redditvids.com/)
@@ -5972,6 +5968,10 @@ Top Links of All Times
 * [Hacker News Search Engine](https://hndex.org/) 
 * [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+Articles
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
 
 <!--
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
