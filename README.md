@@ -1659,6 +1659,8 @@ Asana
 https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
 https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
 
+https://github.com/vuejs/vue/projects/6
+
 https://redwoodjs.com/roadmap
 https://github.com/11ty/eleventy#major-roadmapped-features
 
@@ -1714,12 +1716,7 @@ https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on T
 -->
 
 
-## GitHub and Hosting Blogs
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+## Blogs
 
 Hosting Blogs
 * [Amazon Web Services New](https://aws.amazon.com/new)
@@ -1735,10 +1732,17 @@ Heroku Hosting Docs
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
-## Company Blogs
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
 
 Deploy
-* [GitLab Blog](https://about.gitlab.com/blog/)
+* [Vercel Blog](https://vercel.com/blog)
+* [Netlify Blog](https://www.netlify.com/blog/)
 
 Container
 * [Docker Blog](https://www.docker.com/blog/)
@@ -1760,16 +1764,15 @@ Web
 * [Redwood News](https://redwoodjs.com/news)
 * [Gatsby Blog](https://www.gatsbyjs.com/blog/)
 
+Playgrounds
+* [Glitch Blog](https://blog.glitch.com/)
+* [Repl.it Blog](https://blog.repl.it/)
+* [CodePen Blog](https://blog.codepen.io/)
+
 <!--
-Vercel
-https://vercel.com/blog
-Netlify
-https://www.netlify.com/blog/
+https://repl.it/talk/
 
 https://oo.t9t.io/organizations | Open companies
-
-https://blog.glitch.com/
-https://blog.repl.it/
 
 https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
 
@@ -1827,7 +1830,7 @@ Glitch Examples
 * [Glitch Websites](https://glitch.com/@websites)
 
 <!--
-https://repl.it/talk/
+https://repl.it/templates
 
 https://codepen.io/tag/python
 http://codepen.io/projects/
@@ -2153,16 +2156,17 @@ https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twi
 -->
 
 
-## Learning Resources- Challenges
+## Code Challenges
 
 Practice
 * [LeetCode](https://leetcode.com)
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
 
-<!--
-https://adventofcode.com/2020/
+Advent
+* [Advent of Code 2020](https://adventofcode.com/2020/)
 
+<!--
 https://www.pythonmorsels.com/resources/
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 
