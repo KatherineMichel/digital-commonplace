@@ -1598,7 +1598,6 @@ https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How
 ## GitLab
 
 GitLab- Notable Features
-* [GitLab Blog](https://about.gitlab.com/blog/)
 * [GitLab Features](https://about.gitlab.com/features)
 * [GitLab Packages](http://packages.gitlab.com)
 
@@ -1693,6 +1692,7 @@ https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twit
 https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
 
 Next
+https://nextjs.org/showcase | Showcase | Next.js
 https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
 Interesting
 https://nextjs.org/docs/migrating/from-gatsby
@@ -1712,6 +1712,7 @@ https://redwoodjs.com/docs/introduction
 https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
 https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
 -->
+
 
 ## GitHub and Hosting Blogs
 
@@ -1734,27 +1735,45 @@ Heroku Hosting Docs
 * [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
 * [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
+## Company Blogs
 
+Deploy
+* [GitLab Blog](https://about.gitlab.com/blog/)
 
-## Companies with Great Content
+Container
+* [Docker Blog](https://www.docker.com/blog/)
+* [Kubernetes Blog](https://kubernetes.io/blog/)
+
+Databases
+* [Elastic Blog](https://www.elastic.co/blog/)
+* [MongoDB Blog](https://www.mongodb.com/blog)
+* [CouchDB Blog](https://blog.couchbase.com/)
+* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
+
+Product
+* [Twilio Blog](https://www.twilio.com/blog)
+
+Web
+* [React Blog](https://reactjs.org/blog/)
+* [Vue News](https://news.vuejs.org/)
+* [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
+* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
 
 <!--
-https://oo.t9t.io/organizations | Open companies
-https://oo.t9t.io/organization/gitlab
-https://oo.t9t.io/organization/elastic
-https://oo.t9t.io/organization/mongodb
-https://oo.t9t.io/organization/docker
-https://oo.t9t.io/organization/cockroachdb
+Vercel
+https://vercel.com/blog
+Netlify
+https://www.netlify.com/blog/
 
-https://about.gitlab.com/blog/
-https://www.elastic.co/blog/ | Elastic Blog: Stories, Tutorials, Releases | Elastic Blog
-https://www.mongodb.com/blog
-https://blog.couchbase.com/
+https://oo.t9t.io/organizations | Open companies
+
+https://blog.glitch.com/
+https://blog.repl.it/
+
 https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
 
 Twilio
-https://www.twilio.com/ | Twilio - Communication APIs for SMS, Voice, Video and Authentication
-https://www.twilio.com/blog
 https://www.twilio.com/blog/category/code-tutorials-and-hacks
 https://www.twilio.com/docs/tutorials
 https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
@@ -1786,16 +1805,13 @@ Built With
 * [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
 * [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
 
-https://nextjs.org/showcase | Showcase | Next.js
-
 https://madewithreactnative.com/
 
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
 
-
-## Project Ideas and Learning Resources
+## My Aggregation
 
 Stars
 * [Astral App](https://astralapp.com)
@@ -1804,13 +1820,51 @@ Nuzzel
 * [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
 * [Friends' Feeds](https://nuzzel.com/friendsfeeds)
 
-Show Hacker News and IH
-* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
-* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
+## Projects and Demos
 
 Glitch Examples
 * [Glitch Python](https://glitch.com/@python)
 * [Glitch Websites](https://glitch.com/@websites)
+
+<!--
+https://repl.it/talk/
+
+https://codepen.io/tag/python
+http://codepen.io/projects/
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+-->
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
+
+## Tutorials
+
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
 
 The Practical Dev and Hackernoon
 * [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
@@ -1825,61 +1879,18 @@ Python Articles and Tutorials
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
-Stack Overflow
-* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
-https://www.google.com/search?q=mit+system+project+management&oq=mit+system+project+management&aqs=chrome..69i57j33l2.5619j0j7&sourceid=chrome&ie=UTF-8 | mit system project management - Google Search
-
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/ | Electrical Engineering and Computer Science | MIT OpenCourseWare | Free Online Course Materials
-https://ocw.mit.edu/courses/mathematics/18-650-statistics-for-applications-fall-2016/lecture-slides/ | Lecture Slides | Statistics for Applications | Mathematics | MIT OpenCourseWare
-
-
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
-https://github.com/orgs/maintainers/people
-
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
--->
-
-<!--
-https://codepen.io/tag/python
-http://codepen.io/projects/
-
-https://repl.it/leaders | Repl.it - Leaderboard
-https://repl.it/talk/
--->
-
-<!--
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
--->
-
-<!--
-https://thenewstack.io
-
 Tutorial and project ideas
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
 
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 
-
-https://news.ycombinator.com/from?site=github.com | Submissions from github.com | Hacker News
-
-http://www.githubstars.com/ | GithubStars | Find Top Developers
-https://web.archive.org/web/20200614152428/http://www.githubstars.com/
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
 GitHub Python
 http://git-awards.com/users?language=python | Python worldwide | Git Awards
@@ -1959,6 +1970,46 @@ People
 
 <!--
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://adventofcode.com/2020/leaderboard
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+-->
+
+## Streaming
+
+Streamers
+* [Brian Douglas GitHub](https://github.com/bdougie/)
+
+<!--
+https://www.twitch.tv/directory/following
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+https://twitter.com/MishManners
+
+Brian Douglas
+https://www.bdougie.live/ | bdougie.live
+https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://twitter.com/bdougieYO
+https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+
+https://github.com/bdougie/github-actions-continuous-delivery
+https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
 -->
 
 ## Makers
@@ -1966,9 +2017,6 @@ https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners
 Django, GitHub, SQL
 * [Jeff Triplett Twitter](https://twitter.com/webology)
 * [Simon Willison](https://static.simonwillison.net)
-
-Streamers
-* [Brian Douglas GitHub](https://github.com/bdougie/)
 
 Women Who Inspire Me- Python
 * [Mariatta GitHub](https://github.com/mariatta)
@@ -1995,19 +2043,6 @@ Product
 
 <!--
 ## Makers and Projects
-
-People
-https://www.twitch.tv/directory/following
-
-Brian Douglas
-https://www.bdougie.live/ | bdougie.live
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
-https://github.com/bdougie/blog | bdougie/blog: My blog
-https://twitter.com/bdougieYO
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
-
-https://twitter.com/saucedopen/
-https://www.meetup.com/Open-Sauced-Meetup/
 
 https://github.com/mscoutermarsh/profile-tweet
 https://www.amazon.com/gp/product/B00Q8QKGJ0
@@ -2046,11 +2081,8 @@ Release, Weeknotes
 -->
 
 <!--
-Brian Douglas
-https://github.com/bdougie/github-actions-continuous-delivery
-https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
+https://github.com/akamhy/waybackpy
+https://github.com/PyBites-Open-Source/karmabot
 
 Sarah
 https://github.com/sdras?tab=repositories
@@ -2080,16 +2112,6 @@ https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweig
 https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
 https://yt.kofi.sexy/ | YT—mono
 https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
-
-
-Product Hunt
-https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
-https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
-
-
-https://github.com/akamhy/waybackpy
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
-https://github.com/PyBites-Open-Source/karmabot
 
 
 https://twitter.com/aicoding_/status/1295011129836568577
@@ -2139,6 +2161,8 @@ Practice
 * [HackerRank](https://www.hackerrank.com)
 
 <!--
+https://adventofcode.com/2020/
+
 https://www.pythonmorsels.com/resources/
 https://www.pythonmorsels.com/exercises/list/ | Exercise List
 
@@ -2175,6 +2199,9 @@ Trey Hunner
 
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+Stack Overflow
+* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
@@ -2317,6 +2344,7 @@ https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - 
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
+
 ## Learning Resources- Projects
 
 100 Days of Code
@@ -2339,8 +2367,6 @@ https://leaddev.com/
 CSS Tricks
 https://css-tricks.com/ | CSS-Tricks
 https://www.smashingmagazine.com/
-
-https://adventofcode.com/2020/leaderboard
 
 https://javascript.info/
 https://github.com/andreasbm/web-skills
@@ -3472,25 +3498,6 @@ https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev
 -->
 
 
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
 ## Deploy
 
 Hawt- Web
@@ -3545,11 +3552,6 @@ https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class 
 -->
 
 ## JavaScript- Using
-
-News
-* [React Blog](https://reactjs.org/blog/)
-* [Next Blog](https://nextjs.org/blog/)
-* [Redwood News](https://redwoodjs.com/news)
 
 Node, Express (based on Sinatra), and Passport
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
@@ -4390,6 +4392,13 @@ https://code.visualstudio.com/api/extension-guides/color-theme
 https://code.visualstudio.com/api/extension-capabilities/theming
 -->
 
+## Product Hunt
+
+<!--
+Product Hunt
+https://github.com/producthunt/producthunt-api | producthunt/producthunt-api: Product Hunt API
+https://github.com/producthunt/producthunt-chrome-extension | producthunt/producthunt-chrome-extension: Chrome Extension for Product Hunt
+-->
 
 ## API Stuff
 
@@ -5970,6 +5979,8 @@ Articles
 * [InfoQ](https://www.infoq.com/)
 
 <!--
+https://thenewstack.io
+
 https://womenmake.com/ | Women Make
 
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
