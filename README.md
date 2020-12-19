@@ -1961,10 +1961,6 @@ People
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 -->
 
-<!--
-https://womenmake.com/ | Women Make
--->
-
 ## Makers
 
 Django, GitHub, SQL
@@ -5974,6 +5970,8 @@ Articles
 * [InfoQ](https://www.infoq.com/)
 
 <!--
+https://womenmake.com/ | Women Make
+
 https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
 
 https://hn.algolia.com/?q=ask+hn
