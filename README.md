@@ -213,6 +213,13 @@ https://forum.numfocus.org/pydata-global/channels/town-square
 
 https://reinvent.awsevents.com/ | AWS re:Invent | Amazon Web Services
 
+Videos
+https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
+
+
+https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
+https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
+
 
 ## DevRel
 
@@ -344,7 +351,17 @@ https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCG
 
 ## Portfolio Ideas
 
+December 26
+https://www.python-fosdem.org/call-for-proposals/
+
+https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
+
+Hackathon
+https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
+
 https://leaddev.com/
+
+https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
 
 https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
 
@@ -589,6 +606,8 @@ https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye 
 
 ## Security
 
+https://github.com/magoo/minimalist-risk-management
+
 Pen testing 
 https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
 
@@ -788,17 +807,6 @@ https://docs.microsoft.com/en-us/learn/
 
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
 
-https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
-
-https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
-https://github.com/magoo/minimalist-risk-management
-
-https://github.com/pivotal/read-me-first | pivotal/read-me-first: Best practices, and how to work in this Org.
-https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Example: Repository for example styleguide project
-
-Playbook
-https://github.com/FormidableLabs/formidable-playbook | FormidableLabs/formidable-playbook: The Formidable development playbook.
-
 
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
@@ -807,35 +815,18 @@ https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) C
 Jason
 https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 
+https://github.com/pivotal/read-me-first | pivotal/read-me-first: Best practices, and how to work in this Org.
+https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Example: Repository for example styleguide project
 
+Playbook
+https://github.com/FormidableLabs/formidable-playbook | FormidableLabs/formidable-playbook: The Formidable development playbook.
 
-
-December 26
-https://www.python-fosdem.org/call-for-proposals/
-
-https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
-
-Hackathon
-https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
-
-Events
-https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
-https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
-https://2021.pycascades.com/ | PyCascades 2021 – Virtual Edition
-https://pretix.eu/pycascades/remote-2021/ | PyCascades 2021 - Remote
-https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
 
 https://www.figma.com/ | Figma: the collaborative interface design tool.
 https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
 
-https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
 
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-https://applitools.com/
-
-https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
-
 
 https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
 
@@ -844,15 +835,17 @@ Divio Docs, GitHub Docs
 
 
 https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-
+https://carpentries.org/
 
 https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
-Use
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-https://refactoring.guru/design-patterns/ | Design Patterns
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
 
 https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
 
@@ -975,9 +968,6 @@ Interesting
 https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
 
 
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
 Simplicity
 https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
 
@@ -994,6 +984,10 @@ https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Boo
 Extract till you drop
 https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
 
+
+https://applitools.com/
+
+https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
 
 GraphQL
 https://www.sqlite.org/
@@ -2247,60 +2241,6 @@ https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - 
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
-
-<!--
-* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
-
-https://github.com/search?q=top+python | Search · top python
-https://github.com/search?q=python+package | Search · python package
-https://github.com/search?q=django
-https://github.com/search?p=3&q=node&type=Repositories | Search · node
-
-https://github.com/actions?q=heroku&type=&language= | GitHub Actions
-https://github.com/search?q=github+action+heroku | Search · github action heroku
-https://github.com/heroku?q=python&type=&language= | Heroku
-
-https://github.com/search?q=project
-https://github.com/search?q=example
-https://github.com/search?q=sample
-https://github.com/search?q=demo
-https://github.com/search?q=boilerplate
-https://github.com/search?q=starter
-
-https://github.com/search?q=clone
-https://github.com/search?q=instagram
-https://github.com/search?q=twitter
-https://github.com/search?q=slack
-https://github.com/search?q=hacker+news
--->
-
-<!--
-Non-Python
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-https://github.com/techreagan/vue-nodejs-youtube-clone
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-
-https://github.com/vuejs/vue-hackernews-2.0
-https://github.com/nuxt/hackernews
-https://github.com/python-telegram-bot/python-telegram-bot
-
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/nice-boys/product-boilerplate
-
-
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/DrkSephy/django-hackathon-starter
--->
-
 ## Learning Resources- Projects
 
 100 Days of Code
@@ -2444,6 +2384,62 @@ https://github.com/brettcannon/python-project-template | brettcannon/python-proj
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 -->
 
+
+
+<!--
+* [Github Search (sort by stars, for JS)](https://github.com/search?l=JavaScript&q=stars%3A%3E1&s=stars&type=Repositories)
+
+https://github.com/search?q=top+python | Search · top python
+https://github.com/search?q=python+package | Search · python package
+https://github.com/search?q=django
+https://github.com/search?p=3&q=node&type=Repositories | Search · node
+
+https://github.com/actions?q=heroku&type=&language= | GitHub Actions
+https://github.com/search?q=github+action+heroku | Search · github action heroku
+https://github.com/heroku?q=python&type=&language= | Heroku
+
+https://github.com/search?q=project
+https://github.com/search?q=example
+https://github.com/search?q=sample
+https://github.com/search?q=demo
+https://github.com/search?q=boilerplate
+https://github.com/search?q=starter
+
+https://github.com/search?q=clone
+https://github.com/search?q=instagram
+https://github.com/search?q=twitter
+https://github.com/search?q=slack
+https://github.com/search?q=hacker+news
+-->
+
+<!--
+Non-Python
+
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+https://github.com/techreagan/vue-nodejs-youtube-clone
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+
+https://github.com/vuejs/vue-hackernews-2.0
+https://github.com/nuxt/hackernews
+https://github.com/python-telegram-bot/python-telegram-bot
+
+Demos and Boilerplates
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/nice-boys/product-boilerplate
+
+
+https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
+
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/DrkSephy/django-hackathon-starter
+-->
 
 
 ## Code Challenges
@@ -4007,6 +4003,9 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern 
   
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+
 
 https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
 
