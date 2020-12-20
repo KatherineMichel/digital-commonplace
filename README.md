@@ -32,6 +32,10 @@ https://hashnode.com/ | Hashnode: Everything you need to start blogging as a dev
 https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 https://todoist.com/ | 503 Service Temporarily Unavailable
 https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
+https://anchor.fm/ | Anchor - The easiest way to make a podcast
+
+Step change
+https://twitter.com/Julian/status/1337979565222682624 | Julian Shapiro on Twitter: "This chart lists how hard it is to change people. Recruiters say to reference this when hiring for your startup. On the left are qualities you can likely improve with training. On the right are red flags: Do not hire people who lack these qualities in any role that needs them. https://t.co/zbNb4KEkW6" / Twitter
 
 https://www.merriam-webster.com/dictionary/step%20change
 
@@ -281,11 +285,15 @@ https://tessakriesel.com/category/presentations/ | Presentations Archives | Tess
 https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
 
 https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
+https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
+
 https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
 https://www.thedevelopermindset.com/open-source-vs-enterprise-developers/ | Open Source vs Enterprise Developers
 https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
+https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
 
 Amir Shevat
+https://www.youtube.com/watch?v=ycKPJ_27cYo&feature=emb_logo | (2) OCTO Speaker Series #5 Amir Shevat - YouTube
 https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
 https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
 https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
@@ -294,6 +302,9 @@ https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/149
 https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
 https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
 hero theme - Google Search
+
+Dantley
+https://twitter.com/dantley/status/1337550168980217856 | Dantley Davis on Twitter: "I love working with people with windy roads to design, those who are misfits, trouble makers, and challenge the status quo. We are punk rock. Hip hop. I’m inspired by those who rage against the machine. Together we’ll make a better Twitter and a better Internet." / Twitter
 
 https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
 
@@ -330,35 +341,6 @@ https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCG
 
 ### Docs
 
-https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
-https://bugs.python.org/issue33649
-
-Season of Docs- Django
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
-https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
-https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
-https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
-Open Source
-https://opensource.com/how-submit-article | Write for us | Opensource.com
-https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
-https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
-Digital Ocean
-https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
-https://www.digitalocean.com/community/pages/write-for-digitalocean
-Traversy Media
-https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
-
-
-https://next.egghead.io/write-for-egghead | Writing for egghead
-
-https://github.com/freeCodeCamp/contribute
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
-https://github.com/FreeCodeCamp/design-style-guide
-
-https://substack.com/content | Content Guidelines
-
 
 ## Portfolio Ideas
 
@@ -378,6 +360,7 @@ https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4eg
 
 This is great!
 https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+https://www.simple.org/ | Home Simple
 
 Developer Experience
 https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
@@ -458,10 +441,29 @@ https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | f
 
 https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 
+
+
 ## Python and Django
+
+Ana
+https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
+https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
+
+
+https://pyfound.blogspot.com/2020/11/pip-20-3-new-resolver.html | Python Software Foundation News: Releasing pip 20.3, featuring new dependency resolver
+
+https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
+http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
+
 
 Fast API
 https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+
+Wagtail
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
 
 
 http://wsvincent.com/how-to-contribute-to-django-docs/
@@ -478,6 +480,10 @@ https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Ma
 
 https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
 
+
+https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
+
+https://twitter.com/webology/status/1339967069186633731 | Jeff Triplett 😷 on Twitter: "🤔 I think I'm going to start installing rich by default in my projects. I write a ton of cli apps and I frequently feel limited by output colors and styles. ✨ Just saying this out loud in case you haven't heard of rich yet." / Twitter
 
 Recommended by Jeff
 https://github.com/direnv
@@ -509,6 +515,9 @@ https://djangobuilder.io/#/ | Django Builder
 
 https://django.doctor/challenge | Django Doctor - Django code improvement bot
 
+https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
+https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
+
 https://github.com/wsvincent/awesome-django
 
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
@@ -535,6 +544,8 @@ https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask �
 https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
 
 https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
 
 Adam
 https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
@@ -697,27 +708,41 @@ https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 
 ## Design-y Stuff
 
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+https://www.fastcompany.com/3018559/pixars-22-rules-of-storytelling-visualized | Pixar’s 22 Rules of Storytelling–Visualized
 
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
-
-https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-
-
-Design
 https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
+
+https://github.com/LisaDziuba/Awesome-Design-Tools | LisaDziuba/Awesome-Design-Tools: The best design tools for everything.
+
+https://medium.com/@cap/the-design-system-decision-tree-edba9abdb83b | The Design System Decision Tree – Cap Watkins – Medium
+https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b | The 9 Rules of Design Research – Mule Design Studio – Medium
+
 https://principles.design/examples/ | Examples
 https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
 https://lawsofux.com/ | Home | Laws of UX
 https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 
+https://www.designsystems.com/
+https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
+https://designsystemchecklist.com/ | Design System Checklist
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+https://dropbox.design/article/mental-models-for-designers | Mental models for designers | Dropbox Design
+https://upcase.com/design-for-developers-resources/principles
+https://msdesignstorage.blob.core.windows.net/microsoftdesign/inclusive/InclusiveDesign_DesigningForGuidance.pdf | Designing for Guidance
+
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+
 https://refactoringui.com/previews/building-your-color-palette/ | Building Your Color Palette
 
 https://github.com/mmmonteiro/designethics/blob/master/en_US.m
 https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
+
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
 -->
 
 
@@ -752,146 +777,30 @@ https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitt
 
 https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
-
-
-CHAOSS
-https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
-
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
-https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
-https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
-https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
-https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
-https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
-https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
 -->
 
 
 <!--
-Wagtail
-https://wagtail.io/packages/ | Packages | Wagtail CMS
-https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
 
-Redwood Example
-https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+CHAOSS
+https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
 
-Dan
-https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record | joelparkerhenderson/architecture_decision_record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
 
-Jason
-https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
+https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
 
+Best of
+https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
 
-December 26
-https://www.python-fosdem.org/call-for-proposals/
+https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
 
-Step change
-https://twitter.com/Julian/status/1337979565222682624 | Julian Shapiro on Twitter: "This chart lists how hard it is to change people. Recruiters say to reference this when hiring for your startup. On the left are qualities you can likely improve with training. On the right are red flags: Do not hire people who lack these qualities in any role that needs them. https://t.co/zbNb4KEkW6" / Twitter
-
-https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
-
-https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
-
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
-
-Hashnode
-https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
-https://twitter.com/hashnode | Hashnode (@hashnode) / Twitter
-
-https://anchor.fm/ | Anchor - The easiest way to make a podcast
-https://www.figma.com/ | Figma: the collaborative interface design tool.
-https://applitools.com/
-
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
-
-https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
-
-Hackathon
-https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
-
-Events
-https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
-https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
-https://2021.pycascades.com/ | PyCascades 2021 – Virtual Edition
-https://pretix.eu/pycascades/remote-2021/ | PyCascades 2021 - Remote
-https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
-
-https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
-
-GitHub- Twitch
-https://www.twitch.tv/github | (6) GitHub - Twitch
-
-
-Divio Docs, GitHub Docs
-
-https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
-https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
-
-
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
-
-https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
-
-https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-
-
-https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
-
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
-
-Simple
-https://www.simple.org/ | Home Simple
-
-Use
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-https://refactoring.guru/design-patterns/ | Design Patterns
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
-
-https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
-
-
-Ana
-https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
-https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
-
-Dantley
-https://twitter.com/dantley/status/1337550168980217856 | Dantley Davis on Twitter: "I love working with people with windy roads to design, those who are misfits, trouble makers, and challenge the status quo. We are punk rock. Hip hop. I’m inspired by those who rage against the machine. Together we’ll make a better Twitter and a better Internet." / Twitter
-
-Amir
-https://www.youtube.com/watch?v=ycKPJ_27cYo&feature=emb_logo | (2) OCTO Speaker Series #5 Amir Shevat - YouTube
-
-Tessa
-https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
-https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
-
-
-PSF
-https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
-http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
-https://pyfound.blogspot.com/2020/11/pip-20-3-new-resolver.html | Python Software Foundation News: Releasing pip 20.3, featuring new dependency resolver
-
-Django
-https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
-https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
-https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
-
-Django
-https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
-
-https://twitter.com/webology/status/1339967069186633731 | Jeff Triplett 😷 on Twitter: "🤔 I think I'm going to start installing rich by default in my projects. I write a ton of cli apps and I frequently feel limited by output colors and styles. ✨ Just saying this out loud in case you haven't heard of rich yet." / Twitter
-
-API
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
-
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+InnerSource
+https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
+https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
 -->
+
 
 <!--
 ## Of Interest
@@ -916,21 +825,82 @@ https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Exa
 Playbook
 https://github.com/FormidableLabs/formidable-playbook | FormidableLabs/formidable-playbook: The Formidable development playbook.
 
-https://github.com/joelparkerhenderson/architecture_decision_record | joelparkerhenderson/architecture_decision_record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+
+Hanselman
+https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
+
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+
+Dan
+https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
+
+Jason
+https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 
 
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
 
-https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
-https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
 
-https://github.com/microsoft/Web-Dev-For-Beginners
+December 26
+https://www.python-fosdem.org/call-for-proposals/
 
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
+
+Hackathon
+https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
+
+Events
+https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
+https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
+https://2021.pycascades.com/ | PyCascades 2021 – Virtual Edition
+https://pretix.eu/pycascades/remote-2021/ | PyCascades 2021 - Remote
+https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
+
+https://www.figma.com/ | Figma: the collaborative interface design tool.
+
+https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
+
+https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
+
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
+
+https://applitools.com/
 
 https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
+
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+
+
+https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
+
+
+Divio Docs, GitHub Docs
+
+
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+
+
+https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+
+
+https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
+
+
+Use
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+https://refactoring.guru/design-patterns/ | Design Patterns
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
+
+https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
+
+
+API
+https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
 
 
 https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
@@ -938,11 +908,6 @@ https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-
-Hanselman
-https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
-https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
 
 
 http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
@@ -968,6 +933,17 @@ https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transfor
 https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 
+https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+
+https://github.com/microsoft/Web-Dev-For-Beginners
+
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+-->
+
+<!--
 Architecture
 https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
 https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
@@ -990,7 +966,6 @@ https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Leve
 
 Learn assembly
 https://www.xorpd.net/ | xorpd
-
 
 
 ## Look Through
@@ -1306,6 +1281,53 @@ https://github.com/carljm/dotfiles
 ## Technical Writing Tools
 
 <!--
+https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
+https://bugs.python.org/issue33649
+
+Season of Docs- Django
+https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
+https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
+
+https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
+
+https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
+
+https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
+Open Source
+
+https://opensource.com/how-submit-article | Write for us | Opensource.com
+https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
+
+Digital Ocean
+https://www.digitalocean.com/community/pages/write-for-digitalocean
+https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
+
+Traversy Media
+https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
+
+https://next.egghead.io/write-for-egghead | Writing for egghead
+
+https://substack.com/content | Content Guidelines
+
+
+https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
+
+Style Guides
+https://design-style-guide.freecodecamp.org/
+https://github.com/FreeCodeCamp/design-style-guide
+
+OS
+https://github.com/freeCodeCamp/contribute
+https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+-->
+
+<!--
+https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
+https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
+
+
+https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
+
 Interesting
 https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 
@@ -1350,6 +1372,7 @@ https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "
 
 Docusaurus
 https://v2.docusaurus.io/docs/installation
+https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
 
 https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
 
@@ -1883,6 +1906,10 @@ Playgrounds
 * [CodePen Blog](https://blog.codepen.io/)
 
 <!--
+GitHub- Twitch
+https://www.twitch.tv/github | (6) GitHub - Twitch
+
+Great Dev Blogs
 https://www.twitch.tv/twitterdev
 https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
 
@@ -1913,115 +1940,12 @@ https://www.twilio.com/docs/tutorials
 https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
 https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
 
-Great Dev Blogs
-https://www.twitch.tv/twitterdev | (6) TwitterDev - Twitch
-
 Dev Cos
 https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
 https://dev.to/salesforcedevs/
 https://dev.to/heroku/
 -->
 
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
-
-## My Aggregation
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Nuzzel
-* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
-* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
-
-## Projects and Demos
-
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
-* [CodePen Projects](http://codepen.io/projects/)
-
-Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
-
-<!--
-https://repl.it/talk/
-https://repl.it/templates
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
--->
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
-
-## People
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-People
-* [GitHub Trending Developers](https://github.com/trending/developers)
-
-<!--
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
-https://adventofcode.com/2020/leaderboard
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
-https://github.com/orgs/maintainers/people
-
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
--->
 
 ## Streaming
 
@@ -2091,6 +2015,108 @@ https://jasonet.co/ | Jason Etcovitch · jasonet.co
 https://github.com/tj
 https://github.com/mikeal
 -->
+
+## People
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+People
+* [GitHub Trending Developers](https://github.com/trending/developers)
+
+<!--
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://adventofcode.com/2020/leaderboard
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+-->
+
+
+
+## My Aggregation
+
+Stars
+* [Astral App](https://astralapp.com)
+
+Nuzzel
+* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
+* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
+
+## Projects and Demos
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+* [CodePen Projects](http://codepen.io/projects/)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+<!--
+https://repl.it/talk/
+https://repl.it/templates
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+-->
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+* [Sites Using React GitHub](https://github.com/facebook/react/wiki/Sites-Using-React)
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
 
 ## Projects
 
@@ -2205,6 +2231,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
+
 https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
 
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
@@ -2347,9 +2375,9 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
-https://repl.it/@KatherineMichel/
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
 
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+https://repl.it/@KatherineMichel/
 
 https://javascript.info/
 https://github.com/andreasbm/web-skills
@@ -2451,50 +2479,6 @@ https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-cou
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 -->
 
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
-
-arrow function
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
-
-https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
--->
-
-
 <!--
 Django Tutorials
 
@@ -2518,6 +2502,7 @@ Python Projects and Packages
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
 -->
+
 
 
 ## Code Challenges
@@ -2557,9 +2542,13 @@ Python Articles and Tutorials
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+
 Tutorial and project ideas
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 
 http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
@@ -3015,6 +3004,8 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expression
 ## Google Chrome Dev Tools
 
 <!--
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
 https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
 
 
@@ -3071,7 +3062,24 @@ Semantics/SEO/Accessibility
 * [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
 <!--
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+
+https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
+
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
+
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+-->
+
+## Design
+
+<!--
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
 
@@ -3107,18 +3115,7 @@ https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Tod
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
 -->
 
-
-## Notable
-
 <!--
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
-
-
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
@@ -3131,48 +3128,18 @@ https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
 
+
 <!--
 ## HTMl and CSS
 
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-https://www.smashingmagazine.com/
-
+https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 https://stateofcss.com/ | The State of CSS Survey
 https://stateofjs.com/
 
-CSS
 https://2020.stateofcss.com/images/tshirt/stateofcss/tshirt4.png | tshirt4.png (1501×996)
 
-
-Tailwind
-https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
-https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
-https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
-
-Tailwind
-https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-Django/Tailwind
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-https://twitter.com/z_anderle/status/1334637932876099590 | Žan Anderle on Twitter: "I wrote a quick guide on how to use Tailwind with Django. Let me know if you have any questions. https://t.co/bzpl1g05u1" / Twitter
-
-
-Bootstrap
-https://getbootstrap.com/docs/4.0/utilities/text/ | Text · Bootstrap
-https://twitter.com/adamwathan/status/1336001684028485633 | Adam Wathan on Twitter: "@mdo Awesome work so far, looking forward to the release! 👊 Bootstrap team is a huge inspiration to me 😍" / Twitter
-
-
-CSS
-https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
-
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
--->
-
-<!--
 https://1mb.club/ | 1MB Club
 https://250kb.club/ | The 250kb Club
 https://nojs.club/ | The NoJS Club!
@@ -3181,11 +3148,10 @@ http://www.csszengarden.com/ | CSS Zen Garden: The Beauty of CSS Design
 http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
 http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
 
-https://sjmulder.nl/en/textonly.html | Text-only websites
-
 https://ugliest.app/ | https://ugliest.app
 https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
 https://github.com/thwidge/brutalcss/blob/main/brutalcss.html | brutalcss/brutalcss.html at main · thwidge/brutalcss
+https://sjmulder.nl/en/textonly.html | Text-only websites
 
 CSS
 http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
@@ -3193,209 +3159,80 @@ https://a.singlediv.com/ | A Single Div
 https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
 https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
 
-
 Guido
 https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
 https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
-
-JavaScript
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 -->
 
+
 <!--
-## Dev Tools and Standards
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
-
-
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
-
-
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-
 https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
 
 
-https://github.com/frontendmasters
-
-Frontend- Important
-https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
-
-http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
-https://frontendmasters.github.io/bootcamp/
-https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
-
-https://codepen.io/jen4web/
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button | <button>: The Button element - HTML: HyperText Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/display | display - CSS: Cascading Style Sheets | MDN
-https://web.dev/centering-in-css/ | Centering in CSS
-
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
-https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
-
-https://jigsaw.w3.org/css-validator/ | The W3C CSS Validation Service
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes | Pseudo-classes - CSS: Cascading Style Sheets | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements | Pseudo-classes and pseudo-elements - Learn web development | MDN
-https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
-https://www.w3schools.com/ | W3Schools Online Web Tutorials
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units | CSS values and units - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity | Specificity - CSS: Cascading Style Sheets | MDN
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_styles | Browser styles - Mozilla | MDN
-
-https://codepen.io/trending | Trending - CodePen
-
-CodePen
-https://codepen.io/chriscoyier | Chris Coyier on CodePen
-https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
-
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: HyperText Markup Language | MDN
-
-Bootcamp
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-
-Frontend
-https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp | FrontendMasters/bootcamp: Frontend Masters Bootcamp
-https://developer.mozilla.org/en-US/docs/Web/API | Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea | <textarea> - HTML: HyperText Markup Language | MDN
-https://validator.w3.org/ | The W3C Markup Validation Service
-https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: HyperText Markup Language | MDN
-
-JavaScript
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords | Lexical grammar - JavaScript | MDN
-https://plnkr.co/edit/?p=preview&preview | Plunker - Fork from https://javascript.info/hello-world
-https://javascript.info/article/devtools/bug.html | https://javascript.info/article/devtools/bug.html
-https://javascript.info/debugging-chrome | Debugging in Chrome
-https://javascript.info/ui | Browser: Document, Events, Interfaces
-https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
-https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
-
-JavaScript
-https://javascript.info/browser-environment | Browser environment, specs
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script | <script>: The Script element - HTML: HyperText Markup Language | MDN
-
 JavaScript
 https://news.ycombinator.com/item?id=25333350 | A Modern JavaScript Tutorial | Hacker News
+https://javascript.info/
 https://learn.javascript.ru/ | Современный учебник JavaScript
 https://github.com/iliakan/javascript-tutorial-ru | iliakan/javascript-tutorial-ru: [Предыдущая редакция] Современный учебник JavaScript
 
 Pluralsight
 https://www.javascript.com/ | JavaScript.com
+
+
+https://www.w3schools.com/ | W3Schools Online Web Tutorials
+
+https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
+
+https://github.com/frontendmasters
+http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
+https://frontendmasters.github.io/bootcamp/
+
+Frontend- Important
+https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
+
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
+
+https://codepen.io/jen4web/
+https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
+
+
+https://jigsaw.w3.org/css-validator/ | The W3C CSS Validation Service
+https://validator.w3.org/ | The W3C Markup Validation Service
+
+CodePen
+https://codepen.io/trending | Trending - CodePen
+https://codepen.io/chriscoyier | Chris Coyier on CodePen
+https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
+
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+https://www.smashingmagazine.com/
+
+
+https://web.dev/centering-in-css/ | Centering in CSS
+
+JavaScript
+https://plnkr.co/edit/?p=preview&preview | Plunker - Fork from https://javascript.info/hello-world
+
+https://javascript.info/ui | Browser: Document, Events, Interfaces
+https://javascript.info/browser-environment | Browser environment, specs
+https://javascript.info/article/devtools/bug.html | https://javascript.info/article/devtools/bug.html
+https://javascript.info/debugging-chrome | Debugging in Chrome
+
+https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
+https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
 -->
 
-## You Might Not Need
-
-You Might Not Need
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
-* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
-
-jQuery
-* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
-
-<!--
-https://github.com/phuoc-ng/html-dom
-
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
--->
-
-## JavaScript Standards
-
-Browser (ECMAScript and ES6, ES7 Forthcoming)
-* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
-
-CommonJS (Node)
-* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
-
-<!--
-https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
-
-https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
-https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
-https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
-
-https://github.com/luruke/browser-2020
-http://caniuse.com
-https://caniuse.com/#feat=es6
-
-ES6
-http://es6-features.org/
-http://kangax.github.io/compat-table/es6/
-https://github.com/lukehoban/es6features
-https://github.com/sgaurav/understanding-es6
-https://github.com/mjavascript/practical-es6
-
-Differences
-https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
--->
-
-
-<!--
-https://flaviocopes.com/node-difference-browser/
-node.js uses CommonJS modules
-https://flaviocopes.com/commonjs/
-browsers use ES modules
-https://flaviocopes.com/es-modules/
-Mozilla docs are ECMAScript Standard
--->
-
-<!--
-Flavors and Modules
-
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
-CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
-
-webpack CommonJS Explanation
-https://github.com/webpack/docs/wiki/commonjs
-https://webpack.js.org/api/module-methods/#commonjs
-
-https://nodejs.org/en/docs/es6
-https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
-
-https://www.npmjs.com/package/standard | standard - npm
-https://docs.npmjs.com/packages-and-modules/
-https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
--->
-
-<!-- 
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
 
 ## Mozilla and Google- General Docs
 
@@ -3426,74 +3263,135 @@ https://web.dev/ | web.dev  |  web.dev
 * [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 <!--
-HTML5 and CSS
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS
-
 https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
 https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
 https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
 
-CSS
-https://developer.mozilla.org/en-US/docs/Web/CSS | CSS | MDN
+HTML5 and CSS
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button | <button>: The Button element - HTML: HyperText Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea | <textarea> - HTML: HyperText Markup Language | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet | StyleSheet - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_styles | Browser styles - Mozilla | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3 | CSS3 - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference | CSS reference - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS | CSS - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS | Introduction to CSS - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Fundamental_CSS_comprehension | Fundamental CSS comprehension - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics | CSS basics - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML element reference - HTML | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet | StyleSheet - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units | CSS values and units - Learn web development | MDN
+
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model | Introduction to the CSS box model - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout | CSS Grid Layout - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout | CSS Flexible Box Layout - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/display | display - CSS: Cascading Style Sheets | MDN
+
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes | Styling boxes - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text | Styling text - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes | Pseudo-classes - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements | Pseudo-classes and pseudo-elements - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity | Specificity - CSS: Cascading Style Sheets | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#directly-targeted-elements | Specificity - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance | inheritance - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Selectors | CSS reference - CSS | MDN
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script | <script>: The Script element - HTML: HyperText Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords | Lexical grammar - JavaScript | MDN
+
+HTTP
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 -->
 
 ## Box Model, Flow Layout, Grid, Flexbox
 
 <!--
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://www.miriamsuzanne.com/
-
 Box Model
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
 https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
 
 Flow Layout
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
 
+Flexbox
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout | CSS Flexible Box Layout - CSS | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+
 Grid
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout | CSS Grid Layout - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+-->
+
+<!--
+https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
+https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
+https://www.miriamsuzanne.com/
+
+Grid
 https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
-https://gridbyexample.com/ | Grid by Example
 https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
+https://gridbyexample.com/ | Grid by Example
 
 Flexbox versus Grid
 https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
 https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
 https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
 https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
 https://flexboxfroggy.com/
 -->
+
+
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+<!--
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+
+arrow function
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
+
+https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+-->
+
 
 ## Mozilla- JavaScript
 
@@ -3658,6 +3556,120 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
 -->
 
 
+## You Might Not Need
+
+You Might Not Need
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
+* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
+
+jQuery
+* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+
+<!--
+https://github.com/phuoc-ng/html-dom
+
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+-->
+
+<!--
+## Dev Tools and Standards
+
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+https://www.w3.org/WAI
+
+
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
+-->
+
+## JavaScript Standards
+
+Browser (ECMAScript and ES6, ES7 Forthcoming)
+* [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
+
+CommonJS (Node)
+* [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
+
+<!--
+https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
+
+https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
+https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
+https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
+
+https://github.com/luruke/browser-2020
+http://caniuse.com
+https://caniuse.com/#feat=es6
+
+ES6
+http://es6-features.org/
+http://kangax.github.io/compat-table/es6/
+https://github.com/lukehoban/es6features
+https://github.com/sgaurav/understanding-es6
+https://github.com/mjavascript/practical-es6
+
+Differences
+https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_support_in_Mozilla#ECMAScript_2020 | ECMAScript 2016 to ES.Next support in Mozilla - Archive of obsolete content | MDN
+-->
+
+
+<!--
+https://flaviocopes.com/node-difference-browser/
+node.js uses CommonJS modules
+https://flaviocopes.com/commonjs/
+browsers use ES modules
+https://flaviocopes.com/es-modules/
+Mozilla docs are ECMAScript Standard
+-->
+
+<!--
+Flavors and Modules
+
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+
+CommonJS
+* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+
+webpack CommonJS Explanation
+https://github.com/webpack/docs/wiki/commonjs
+https://webpack.js.org/api/module-methods/#commonjs
+
+https://nodejs.org/en/docs/es6
+https://nodejs.org/api/modules.html | Modules: CommonJS modules | Node.js v14.12.0 Documentation
+
+https://www.npmjs.com/package/standard | standard - npm
+https://docs.npmjs.com/packages-and-modules/
+https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
+-->
+
+<!-- 
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+
 ## Heroku
 
 <!--
@@ -3769,8 +3781,58 @@ https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps buildi
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
+## Mobile Optimized
 
-## Python and Django- Using
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+
+Create React App
+* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
+
+Facebook- React Native
+* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+Expo (React Native alternative) 
+* [Expo](https://expo.io)
+* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
+
+Progressive Web Apps (PWA)
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
+* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
+* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
+* [Storage for the Web](https://web.dev/storage-for-the-web/)
+* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
+
+Training
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+
+<!--
+Progressive Web Apps
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
+
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+## My Stack
 
 Python
 * [Python](https://www.python.org/)
@@ -3786,7 +3848,34 @@ Python- Django- Rest Framework (Including Authentication and Generic Views)
 Wagtail
 * [Wagtail](https://wagtail.io/)
 
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Bootstrap](https://getbootstrap.com/)
+
 <!--
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+Django/Tailwind
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+https://twitter.com/z_anderle/status/1334637932876099590 | Žan Anderle on Twitter: "I wrote a quick guide on how to use Tailwind with Django. Let me know if you have any questions. https://t.co/bzpl1g05u1" / Twitter
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+Tailwind Tutorials
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+Tailwind
+https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
+https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
+
+Bootstrap
+https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
+
 https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
 https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
@@ -3807,10 +3896,6 @@ Node, Express (based on Sinatra), and Passport
 Express Tutorials
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-* [Bootstrap](https://getbootstrap.com/)
 
 Next.js
 * [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
@@ -3919,57 +4004,6 @@ https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build
 
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://blog.repl.it/database | Repl.it - A database for every repl
--->
-
-## Mobile Optimized
-
-Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
-
-Create React App
-* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
-
-Facebook- React Native
-* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-
-Expo (React Native alternative) 
-* [Expo](https://expo.io)
-* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
-
-Progressive Web Apps (PWA)
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
-* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
-* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
-* [Storage for the Web](https://web.dev/storage-for-the-web/)
-* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
-
-Training
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-
-<!--
-Progressive Web Apps
-https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
-https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
-
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-
-https://www.pwabuilder.com/ | PWABuilder
-
-Progressive Web app Testing
-[pwmetrics](https://github.com/paulirish/pwmetrics)
-    
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app
 -->
 
 
