@@ -461,10 +461,6 @@ https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramíre
 
 https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
 
-Wagtail
-https://wagtail.io/packages/ | Packages | Wagtail CMS
-https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
-
 
 http://wsvincent.com/how-to-contribute-to-django-docs/
 
@@ -779,31 +775,10 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 -->
 
-
-<!--
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
-
-CHAOSS
-https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
-
-https://github.com/joelparkerhenderson/architecture_decision_record | joelparkerhenderson/architecture_decision_record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
-
-https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
-
-Best of
-https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
-
-https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
-
-InnerSource
-https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
-https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
--->
-
-
 <!--
 ## Of Interest
+
+https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
 
 AWS
 https://www.awsgeek.com
@@ -818,7 +793,6 @@ https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Ha
 https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
 https://github.com/magoo/minimalist-risk-management
 
-
 https://github.com/pivotal/read-me-first | pivotal/read-me-first: Best practices, and how to work in this Org.
 https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Example: Repository for example styleguide project
 
@@ -829,12 +803,6 @@ https://github.com/FormidableLabs/formidable-playbook | FormidableLabs/formidabl
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
-
-Redwood Example
-https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
-
-Dan
-https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
 
 Jason
 https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
@@ -858,29 +826,21 @@ https://pretix.eu/pycascades/remote-2021/ | PyCascades 2021 - Remote
 https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
 
 https://www.figma.com/ | Figma: the collaborative interface design tool.
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
 
 https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
 
-https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
-
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
 
 https://applitools.com/
 
 https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
-
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
 
 
 https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
 
 
 Divio Docs, GitHub Docs
-
-
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
 
 
 https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
@@ -926,17 +886,6 @@ https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitte
 https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
 https://github.com/LambdaSchool | Lambda School, Inc.
 
-
-https://jwt.io/ | JSON Web Tokens - jwt.io
-https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
-https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-
-https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
-https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
-
-https://github.com/microsoft/Web-Dev-For-Beginners
 
 https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
@@ -1010,8 +959,6 @@ https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Securit
 ## Miscellaneous Tech
 
 https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
 
 
 vscode html css support - Google Search
@@ -1309,16 +1256,7 @@ https://next.egghead.io/write-for-egghead | Writing for egghead
 
 https://substack.com/content | Content Guidelines
 
-
-https://opensource.com/article/19/11/correspondent-program | Announcing the Opensource.com Correspondent program | Opensource.com
-
-Style Guides
-https://design-style-guide.freecodecamp.org/
-https://github.com/FreeCodeCamp/design-style-guide
-
-OS
-https://github.com/freeCodeCamp/contribute
-https://github.com/FreeCodeCamp/how-to-contribute-to-open-source
+Free Code Camp
 -->
 
 <!--
@@ -2005,6 +1943,9 @@ Product
 
 <!--
 ## Makers and Projects
+
+Dan
+https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
 
 https://github.com/mscoutermarsh/profile-tweet
 https://www.amazon.com/gp/product/B00Q8QKGJ0
@@ -2980,6 +2921,7 @@ https://www.tutorialspoint.com/unix_system_calls/index.htm
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
 https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
 
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
 https://grymoire.com/Unix/Awk.html
 https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
@@ -3131,6 +3073,11 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 
 <!--
 ## HTMl and CSS
+
+https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
+https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
+
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
 
 https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
 https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -3876,7 +3823,9 @@ https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twit
 Bootstrap
 https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
 
-https://wagtail.io/features/ | Wagtail Features | Wagtail CMS
+Wagtail
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
 https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
 
@@ -3977,10 +3926,14 @@ Static Site Generators
 * [11ty](https://www.11ty.dev/)
 
 <!--
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+
 https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 
 11ty
-https://github.com/11ty/eleventy#major-roadmapped-features | 11ty/eleventy: A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
 https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
 -->
 
@@ -4055,10 +4008,11 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern 
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
 
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
 https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
 
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
+
+https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
@@ -4082,6 +4036,8 @@ https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorith
 Clean Code
 https://github.com/ryanmcdermott/clean-code-javascript
 https://github.com/zedr/clean-code-python
+
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
 
 
 Style
@@ -5000,13 +4956,6 @@ Important Orgs
 https://www.mail-archive.com/
 https://opensource.google/community/affiliations/
 
-FOSS Governance
-https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
-https://www.zotero.org/groups/2310183/foss_governance/library
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
-
-https://twitter.com/SustainOSS/
 
 https://www.openapis.org/
 
@@ -5016,7 +4965,6 @@ Continuous Delivery Foundation
 https://cd.foundation/
 
 https://opensource.googleblog.com/
-
 
 https://numfocus.org/
 
@@ -5099,25 +5047,7 @@ https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory
 
 https://github.community/ | Home - GitHub Community Forum
 
-
-https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
-
-Chaoss
-https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
-
-
-Survey
-https://www.tidelift.com/subscription/2020-managed-open-source-survey
-https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
-
-https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
-
-https://blog.tidelift.com
-https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
-https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
+https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
 -->
 
 ## Open Source and Release Examples
@@ -5125,6 +5055,9 @@ https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wa
 <!--
 http://anonymoushash.vmbrasseur.com
 https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
+
+https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
+https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
 
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
@@ -5166,9 +5099,127 @@ https://opensource.guide/leadership-and-governance/
 
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
+
+https://www.harihareswara.net/sumana/2016/10/12/0 | Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History
+https://twitter.com/brainwane/status/1310171548590931974 | https://twitter.com/brainwane/status/1310171548590931974
 -->
 
-## Open Source in Orgs- Tools
+<!--
+https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
+https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
+
+ADR
+https://github.blog/2020-08-13-why-write-adrs/
+https://adr.github.io/ | Architectural Decision Records | adr.github.io
+https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
+https://github.com/joelparkerhenderson/architecture_decision_record | joelparkerhenderson/architecture_decision_record: Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation
+
+https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
+https://bestpractices.coreinfrastructure.org/en | BadgeApp
+https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
+
+https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
+-->
+
+
+<!--
+https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
+
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+
+https://primer.style/doctocat/usage/deployment
+
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
+
+https://missionprotocol.org/ | About | Mission Protocol
+
+https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
+
+
+Best of
+https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
+-->
+
+## Open Source Governance
+
+TODO
+* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
+* [TODO Guides](https://todogroup.org/guides)
+* [TODO Members](https://todogroup.org/members/)
+
+TODO Group: "Creating an Open Source Program"
+* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
+
+<!--
+https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
+
+FOSS Governance
+https://anonymoushash.vmbrasseur.com/2020/09/21/announcing-the-foss-governance-collection | Announcing the FOSS Governance Collection - {anonymous => 'hash'};
+https://www.zotero.org/groups/2310183/foss_governance/library
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
+
+Important
+https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
+
+https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
+
+InnerSource
+https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
+https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
+
+Sustain OSS
+https://sustainoss.org/
+https://github.com/sustainers | Sustain
+https://discourse.sustainoss.org/
+https://twitter.com/SustainOSS/
+
+COSS
+https://www.bvp.com/atlas/roadmap-open-source
+https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
+
+https://github.com/todogroup/awesome-oss-mgmt
+
+http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
+https://github.com/todogroup/guides | todogroup/guides: TODO Group Guides
+
+https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
+
+https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
+
+https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
+
+https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
+-->
+
+<!--
+Surveys and Publications
+
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
+
+Survey
+https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
+
+Survey
+https://www.tidelift.com/subscription/2020-managed-open-source-survey
+https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
+
+https://blog.tidelift.com/what-are-your-organizations-open-source-standards | What are your organization’s open source standards?
+
+https://blog.tidelift.com
+https://blog.tidelift.com/all-new-the-tidelift-guide-to-choosing-open-source-packages-well
+https://blog.tidelift.com/the-third-wave-of-open-source-migration | The third wave of open source migration
+
+https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
+https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getting credit: Taking your place in a meritocracy | Opensource.com
+https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
+https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
+-->
+
+## Company Open Source
 
 Google: Why Open Source
 * [Why Open Source?](https://opensource.google.com/docs/why)
@@ -5190,15 +5241,6 @@ Google Engineering Practices
 Google Open Source
 * [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
 
-
-TODO
-* [TODO](https://todogroup.org/) and [TODO GitHub](https://github.com/todogroup)
-* [TODO Guides](https://todogroup.org/guides)
-* [TODO Members](https://todogroup.org/members/)
-
-TODO Group: "Creating an Open Source Program"
-* [TODO Group: "Creating an Open Source Program"](https://github.com/todogroup/guides/blob/master/creating-an-open-source-program.md)
-
 Bazel
 * [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
 * [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
@@ -5208,23 +5250,9 @@ Google Developers- Code
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
     
 <!--
+https://github.com/customer-stories/facebook | Facebook
+
 https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-
-https://github.com/todogroup/awesome-oss-mgmt
-
-http://todogroup.org/blog/open-source-guides/ | TODO Open Source Program Guides // TODO: Talk openly, develop openly
-https://github.com/todogroup/guides | todogroup/guides: TODO Group Guides
-
-https://github.com/todogroup/governance | todogroup/governance: TODO Group Governance
-
-Survey
-https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
-
-https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
 
 https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
 https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
@@ -5232,23 +5260,15 @@ https://github.com/google/new-project/tree/master/.github | new-project/.github 
 https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
 
 https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://github.com/customer-stories/facebook | Facebook
+https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
+
+Bazel
+https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
+https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
 
 https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
-
-
-https://github.com/adobe/open-development-template
-
-https://github.com/salesforce/oss-template/
-
-https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
-
-https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
-https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
-
-
-## Company Open Source
 
 https://jeffwilcox.blog/2019/06/scaling-25k/
 https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
@@ -5283,6 +5303,17 @@ https://verizonmedia.github.io/oss-guide/
 
 https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
 
+https://github.com/adobe/open-development-template
+
+https://github.com/salesforce/oss-template/
+-->
+
+<!--
+https://github.com/RedHatOfficial/open-source-participation-guidelines | RedHatOfficial/open-source-participation-guidelines: A community version of Red Hat's Open Source Participation Guidelines
+
+https://www.redhat.com/en/blog/building-clear-path-maintainers-open-source-projects
+https://aws.amazon.com/blogs/opensource/how-to-become-a-redis-maintainer-one-contribution-at-a-time/ | How to become a Redis maintainer one contribution at a time | AWS Open Source Blog
+
 Mozilla open leaders programme - Google Search
 https://github.com/mozilla/open-leadership-training-series | mozilla/open-leadership-training-series: Best Practices Working Open
 https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Training Series
@@ -5290,82 +5321,27 @@ https://mozilla.github.io/open-leadership-training-series/ | Open Leadership Tra
 https://blog.mozilla.org/wp-content/uploads/2018/05/MZOTS_OS_Archetypes_report_ext_scr.pdf | MZOTS_OS_Archetypes_report_ext_scr.pdf
 https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategies/open-source-archetypes: A field guide to open source project archetypes
 
-
-https://primer.style/doctocat/usage/deployment
-
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
-
-Sustain OSS
-https://github.com/sustainers | Sustain
-https://discourse.sustainoss.org/
-
-https://github.blog/2020-06-17-using-github-actions-for-mlops-data-science/ | Using GitHub Actions for MLOps & Data Science - The GitHub Blog
-https://docs.google.com/document/d/1dt3FfZjXDaOHQfZIDFkLLKLlJasxluaQlw5LkXp5ZtI/edit#heading=h.2ke3xltp2u7p | Github MLOPS PRFAQ - Google Docs
-
-ADR
-https://github.blog/2020-08-13-why-write-adrs/
-https://adr.github.io/ | Architectural Decision Records | adr.github.io
-https://twitter.com/_eliperkins/status/1289244955714625536 | Eli Perkins on Twitter: "What open source projects use ADRs? Gimme links to the best ADRs (or other, perhaps less formal decision records) that you know of!" / Twitter
-https://github.com/joelparkerhenderson/architecture_decision_record
-
-https://bestpractices.coreinfrastructure.org/en/projects | BadgeApp
-https://bestpractices.coreinfrastructure.org/en | BadgeApp
-https://github.com/coreinfrastructure/best-practices-badge/blob/master/doc/criteria.md | best-practices-badge/criteria.md at master · coreinfrastructure/best-practices-badge
-
-https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
--->
-
-<!--
-https://github.com/TransistorFM/hit-by-a-bus | TransistorFM/hit-by-a-bus: A public checklist for startup founders: "What happens if you get hit by a bus?
-
-https://github.com/nickvidal/community-growth | nickvidal/community-growth: This document outlines a strategic plan to grow an open source community.
-
-https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
-
-Important
-https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
-
-CHAOSS
-https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
-https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
-
 Gov
 https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
 https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
-
-
-https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
-
-https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
-https://opensource.com/open-organization/20/9/getting-credit-meritocracy | Getting credit: Taking your place in a meritocracy | Opensource.com
-https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
-https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
-
-https://www.harihareswara.net/sumana/2016/10/12/0 | Rough Notes for New FLOSS Contributors On The Scientific Method and Usable History
-https://twitter.com/brainwane/status/1310171548590931974 | https://twitter.com/brainwane/status/1310171548590931974
-
-Vicky
-https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
-https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
-
-https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
-
-https://missionprotocol.org/ | About | Mission Protocol
-
-COSS
-https://www.bvp.com/atlas/roadmap-open-source
-https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
-
-https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
-
-
-Bazel
-https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
-https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
-https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
-
-https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
 -->
+
+<!--
+Metrics and Maturity
+
+CHAOSS
+https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
+https://handbook.chaoss.community/community-handbook/about/roles-and-responsibilities | Roles and Responsibilities - CHAOSS Community Handbook
+
+https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
+https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
+
+https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+https://github.com/joelparkerhenderson/maturity_models
+-->
+
 
 ## Open Source and Release Examples
 
