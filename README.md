@@ -623,6 +623,7 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 
 https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
 https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
 
 https://github.com/digitalocean/hacktoberfest
 https://github.com/jamstack/jamstack.org
@@ -722,6 +723,171 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 
 
 <!--
+December 26
+https://www.python-fosdem.org/call-for-proposals/
+
+Step change
+https://twitter.com/Julian/status/1337979565222682624 | Julian Shapiro on Twitter: "This chart lists how hard it is to change people. Recruiters say to reference this when hiring for your startup. On the left are qualities you can likely improve with training. On the right are red flags: Do not hire people who lack these qualities in any role that needs them. https://t.co/zbNb4KEkW6" / Twitter
+
+https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
+
+https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
+
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
+
+Hashnode
+https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
+https://twitter.com/hashnode | Hashnode (@hashnode) / Twitter
+https://anchor.fm/ | Anchor - The easiest way to make a podcast
+https://applitools.com/
+https://www.figma.com/ | Figma: the collaborative interface design tool.
+
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+
+https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
+
+Hackathon
+https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
+
+Events
+https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
+https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
+https://2021.pycascades.com/ | PyCascades 2021 – Virtual Edition
+https://pretix.eu/pycascades/remote-2021/ | PyCascades 2021 - Remote
+https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
+
+https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
+
+GitHub- Twitch
+https://www.twitch.tv/github | (6) GitHub - Twitch
+
+GitHub Docs
+https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
+https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
+
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
+
+https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
+https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
+
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+
+https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
+
+https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+
+CHAOSS
+https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
+
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
+https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
+https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
+https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
+https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
+https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
+https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
+
+https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
+
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
+
+Simple
+https://www.simple.org/ | Home Simple
+
+Use
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+https://refactoring.guru/design-patterns/ | Design Patterns
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning JavaScript Design Patterns
+
+https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
+
+Ana
+https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
+https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
+
+Dantley
+https://twitter.com/dantley/status/1337550168980217856 | Dantley Davis on Twitter: "I love working with people with windy roads to design, those who are misfits, trouble makers, and challenge the status quo. We are punk rock. Hip hop. I’m inspired by those who rage against the machine. Together we’ll make a better Twitter and a better Internet." / Twitter
+
+Amir
+https://www.youtube.com/watch?v=ycKPJ_27cYo&feature=emb_logo | (2) OCTO Speaker Series #5 Amir Shevat - YouTube
+
+Tessa
+https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
+https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
+
+https://www.twitch.tv/twitterdev
+
+Twilio
+https://www.twilio.com/video | Twilio Video | Video SDKs for iOS, Android, JavaScript and web-based video
+https://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video | Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video - Twilio
+https://www.twilio.com/blog/server-push-five-easy-steps-flask-react-twilio-sync | Server Push in 5 Easy Steps with Flask, React and Twilio Sync - Twilio
+
+Couchbase
+https://github.com/couchbase | couchbase
+https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
+
+https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
+https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
+https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
+
+Netlify
+https://explorers.netlify.com/learn/launching-with-composition-api?utm_source=twitter&utm_medium=compapi-bh&utm_campaign=devex | Launching with Composition API - Jamstack Explorers
+
+PSF
+https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
+http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
+https://pyfound.blogspot.com/2020/11/pip-20-3-new-resolver.html | Python Software Foundation News: Releasing pip 20.3, featuring new dependency resolver
+
+Django
+https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
+https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
+https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
+
+Django
+https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+
+https://twitter.com/webology/status/1339967069186633731 | Jeff Triplett 😷 on Twitter: "🤔 I think I'm going to start installing rich by default in my projects. I write a ton of cli apps and I frequently feel limited by output colors and styles. ✨ Just saying this out loud in case you haven't heard of rich yet." / Twitter
+
+API
+https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+-->
+
+
+<!--
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+
+https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
+
+## Dev Tools and Standards
+
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+https://www.w3.org/WAI
+
+
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+-->
+
+
+<!--
 ## Of Interest
 
 AWS
@@ -818,24 +984,6 @@ https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Leve
 
 Learn assembly
 https://www.xorpd.net/ | xorpd
-
-
-## Dev Tools and Standards
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
-
-
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 
 ## Community
@@ -1012,9 +1160,9 @@ https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
 http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 -->
 
-
 <!--
 https://datasette.io/
+https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
 
 https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
 
