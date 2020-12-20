@@ -721,8 +721,21 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 -->
 
 
-
 <!--
+Wagtail
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
+
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+
+Dan
+https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
+
+Jason
+https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
+
+
 December 26
 https://www.python-fosdem.org/call-for-proposals/
 
@@ -740,9 +753,10 @@ https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Co
 Hashnode
 https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
 https://twitter.com/hashnode | Hashnode (@hashnode) / Twitter
+
 https://anchor.fm/ | Anchor - The easiest way to make a podcast
-https://applitools.com/
 https://www.figma.com/ | Figma: the collaborative interface design tool.
+https://applitools.com/
 
 https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
 
@@ -763,20 +777,27 @@ https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Ver
 GitHub- Twitch
 https://www.twitch.tv/github | (6) GitHub - Twitch
 
+
 GitHub Docs
 https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
 https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
+
+Docs
+https://documentation.divio.com/tutorials/ | Tutorials — Documentation system documentation
+https://documentation.divio.com/how-to-guides/ | How-to guides — Documentation system documentation
 
 https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
 
 https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
 https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
 
+
 https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
 
 https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
 
 https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+
 
 CHAOSS
 https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
@@ -789,6 +810,7 @@ https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open 
 https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
 https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
 https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
+
 
 https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 
@@ -806,6 +828,7 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/ | Learning Java
 
 https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
 
+
 Ana
 https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
 https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
@@ -820,24 +843,6 @@ Tessa
 https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
 https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
 
-https://www.twitch.tv/twitterdev
-
-Twilio
-https://www.twilio.com/video | Twilio Video | Video SDKs for iOS, Android, JavaScript and web-based video
-https://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video | Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video - Twilio
-https://www.twilio.com/blog/server-push-five-easy-steps-flask-react-twilio-sync | Server Push in 5 Easy Steps with Flask, React and Twilio Sync - Twilio
-
-Couchbase
-https://github.com/couchbase | couchbase
-https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
-
-https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
-https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
-https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
-https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
-
-Netlify
-https://explorers.netlify.com/learn/launching-with-composition-api?utm_source=twitter&utm_medium=compapi-bh&utm_campaign=devex | Launching with Composition API - Jamstack Explorers
 
 PSF
 https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
@@ -861,31 +866,6 @@ https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What 
 
 https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
 -->
-
-
-<!--
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-
-https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
-
-## Dev Tools and Standards
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
-
-
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
-
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
--->
-
 
 <!--
 ## Of Interest
@@ -1835,7 +1815,14 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 
 <!--
 https://explorers.netlify.com/
+https://explorers.netlify.com/learn/launching-with-composition-api?utm_source=twitter&utm_medium=compapi-bh&utm_campaign=devex | Launching with Composition API - Jamstack Explorers
+
 https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+Netlify
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+https://twitter.com/wesbos/status/1335986088263946240 | https://twitter.com/wesbos/status/1335986088263946240
+https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
 
 Sarah
 https://vuejs.org/v2/guide/ | Introduction — Vue.js
@@ -1862,8 +1849,19 @@ https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twi
 https://redwoodjs.com/docs/introduction
 https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
 https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
--->
 
+Ghost
+https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
+https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
+https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
+
+Cosmic
+https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
+https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
+https://github.com/jazibsawar?tab=repositories | jazibsawar (Jazib Sawar) / Repositories
+https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
+-->
 
 ## Blogs
 
@@ -1919,6 +1917,26 @@ Playgrounds
 * [CodePen Blog](https://blog.codepen.io/)
 
 <!--
+https://www.twitch.tv/twitterdev
+https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
+
+Twilio
+https://www.twilio.com/video | Twilio Video | Video SDKs for iOS, Android, JavaScript and web-based video
+https://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video | Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video - Twilio
+https://www.twilio.com/blog/server-push-five-easy-steps-flask-react-twilio-sync | Server Push in 5 Easy Steps with Flask, React and Twilio Sync - Twilio
+
+Couchbase
+https://github.com/couchbase | couchbase
+https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
+
+https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
+https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+
+https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
+https://mongodb.libsyn.com/ | The MongoDB Podcast
+https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
+https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+
 https://oo.t9t.io/organizations | Open companies
 
 https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
@@ -3147,8 +3165,6 @@ https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
 
-
-
 <!--
 ## HTMl and CSS
 
@@ -3160,11 +3176,27 @@ https://www.smashingmagazine.com/
 https://stateofcss.com/ | The State of CSS Survey
 https://stateofjs.com/
 
+CSS
+https://2020.stateofcss.com/images/tshirt/stateofcss/tshirt4.png | tshirt4.png (1501×996)
+
 
 Tailwind
 https://twitter.com/wsv3000/status/1333158986439421954 | William Vincent on Twitter: "@adamwathan Nice! Django version in the works?" / Twitter
 https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
 https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+Tailwind
+https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+Django/Tailwind
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+https://twitter.com/z_anderle/status/1334637932876099590 | Žan Anderle on Twitter: "I wrote a quick guide on how to use Tailwind with Django. Let me know if you have any questions. https://t.co/bzpl1g05u1" / Twitter
+
+
+Bootstrap
+https://getbootstrap.com/docs/4.0/utilities/text/ | Text · Bootstrap
+https://twitter.com/adamwathan/status/1336001684028485633 | Adam Wathan on Twitter: "@mdo Awesome work so far, looking forward to the release! 👊 Bootstrap team is a huge inspiration to me 😍" / Twitter
 
 
 CSS
@@ -3179,7 +3211,9 @@ https://1mb.club/ | 1MB Club
 https://250kb.club/ | The 250kb Club
 https://nojs.club/ | The NoJS Club!
 
-http://www.csszengarden.com/
+http://www.csszengarden.com/ | CSS Zen Garden: The Beauty of CSS Design
+http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
+http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
 
 https://sjmulder.nl/en/textonly.html | Text-only websites
 
@@ -3192,8 +3226,114 @@ http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creat
 https://a.singlediv.com/ | A Single Div
 https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
 https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
+
+
+Guido
+https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
+https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 -->
 
+<!--
+## Dev Tools and Standards
+
+https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
+
+https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
+https://github.com/w3c/w3process
+https://github.com/tc39
+
+https://www.w3.org/WAI
+
+
+Chrome Updates
+https://blog.chromium.org
+https://chromeos.dev/en | Chrome OS | chromeOS.dev
+
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
+
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+
+https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
+
+
+https://github.com/frontendmasters
+
+Frontend- Important
+https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
+
+http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
+https://frontendmasters.github.io/bootcamp/
+https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
+
+https://codepen.io/jen4web/
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button | <button>: The Button element - HTML: HyperText Markup Language | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/display | display - CSS: Cascading Style Sheets | MDN
+https://web.dev/centering-in-css/ | Centering in CSS
+
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
+https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
+
+https://jigsaw.w3.org/css-validator/ | The W3C CSS Validation Service
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes | Pseudo-classes - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements | Pseudo-classes and pseudo-elements - Learn web development | MDN
+https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
+https://www.w3schools.com/ | W3Schools Online Web Tutorials
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units | CSS values and units - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity | Specificity - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_styles | Browser styles - Mozilla | MDN
+
+https://codepen.io/trending | Trending - CodePen
+
+CodePen
+https://codepen.io/chriscoyier | Chris Coyier on CodePen
+https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: HyperText Markup Language | MDN
+
+Bootcamp
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+
+Frontend
+https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp | FrontendMasters/bootcamp: Frontend Masters Bootcamp
+https://developer.mozilla.org/en-US/docs/Web/API | Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea | <textarea> - HTML: HyperText Markup Language | MDN
+https://validator.w3.org/ | The W3C Markup Validation Service
+https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: HyperText Markup Language | MDN
+
+JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords | Lexical grammar - JavaScript | MDN
+https://plnkr.co/edit/?p=preview&preview | Plunker - Fork from https://javascript.info/hello-world
+https://javascript.info/article/devtools/bug.html | https://javascript.info/article/devtools/bug.html
+https://javascript.info/debugging-chrome | Debugging in Chrome
+https://javascript.info/ui | Browser: Document, Events, Interfaces
+https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
+https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
+
+JavaScript
+https://javascript.info/browser-environment | Browser environment, specs
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script | <script>: The Script element - HTML: HyperText Markup Language | MDN
+
+JavaScript
+https://news.ycombinator.com/item?id=25333350 | A Modern JavaScript Tutorial | Hacker News
+https://learn.javascript.ru/ | Современный учебник JavaScript
+https://github.com/iliakan/javascript-tutorial-ru | iliakan/javascript-tutorial-ru: [Предыдущая редакция] Современный учебник JavaScript
+
+Pluralsight
+https://www.javascript.com/ | JavaScript.com
+-->
 
 ## You Might Not Need
 
