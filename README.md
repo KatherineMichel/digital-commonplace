@@ -722,6 +722,53 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 
 
 <!--
+## Community
+
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+Mariatta
+https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitter: "Just published my talk Demystifying Public Speaking from last night's @pyladiesvan to @YouTube https://t.co/tQ7ZyvfqPc (13 minutes long)" / Twitter
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+
+
+CHAOSS
+https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
+
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
+https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
+https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
+https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
+https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
+https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
+https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
+https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
+-->
+
+
+<!--
 Wagtail
 https://wagtail.io/packages/ | Packages | Wagtail CMS
 https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
@@ -778,15 +825,7 @@ GitHub- Twitch
 https://www.twitch.tv/github | (6) GitHub - Twitch
 
 
-GitHub Docs
-https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
-https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
-
-Docs
-https://documentation.divio.com/tutorials/ | Tutorials — Documentation system documentation
-https://documentation.divio.com/how-to-guides/ | How-to guides — Documentation system documentation
-
-https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
+Divio Docs, GitHub Docs
 
 https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
 https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
@@ -797,19 +836,6 @@ https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: th
 https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
 
 https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-
-
-CHAOSS
-https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
-
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-https://fossgovernance.org/ | Free and Open Source Governance - FOSS Governance Collection
-https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
-https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
-https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
-https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
-https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
-https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
 
 
 https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
@@ -965,37 +991,6 @@ https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Leve
 Learn assembly
 https://www.xorpd.net/ | xorpd
 
-
-## Community
-
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-Mariatta
-https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitter: "Just published my talk Demystifying Public Speaking from last night's @pyladiesvan to @YouTube https://t.co/tQ7ZyvfqPc (13 minutes long)" / Twitter
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 
 
 ## Look Through
@@ -1311,51 +1306,68 @@ https://github.com/carljm/dotfiles
 ## Technical Writing Tools
 
 <!--
-https://abookapart.com/products/everyday-information-architecture | A Book Apart, Everyday Information Architecture
-
-https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/ | How do you write simple explanations without sounding condescending?
-https://www.harihareswara.net/sumana/2020/11/12/0 | Plain Language Choices
-
-https://stripe.com/docs/api | Stripe API Reference
-https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
-
-Jason
-https://jasonet.co/posts/thoughts-on-docs/ | Assorted thoughts on documentation - Jason Etcovitch · jasonet.co
-https://twitter.com/Jwnathan_W/status/1321219851185090560 | Jonathan Wong on Twitter: "Documentation (at smaller early stage companies especially) is difficult. After seeing @JasonEtco's talk today at #nextjsconf it got me thinking a lot more about the direction and approach to documentation - especially when starting with almost none (or random bits everywhere)" / Twitter
-
-
-https://github.com/jenniferlynparsons/awesome-writing | jenniferlynparsons/awesome-writing: An awesome list of information to help developers write better, kinder, more helpful documentation and learning materials
-https://github.com/sixhobbits/technical-writing | sixhobbits/technical-writing: A collection of materials relating to technical writing
-
-https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
-https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
-
-https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
+Interesting
+https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
 
 https://www.writethedocs.org/surveys/salary-survey/2019/
 http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+2017 Open Source Survey
+https://opensourcesurvey.org/2017/
+https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 
-https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p | How to remove condescending language from documentation - DEV Community 👩‍💻👨‍💻
+https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
+https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
+
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
+
+https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://documentation.divio.com/tutorials/ | Tutorials — Documentation system documentation
+https://documentation.divio.com/how-to-guides/ | How-to guides — Documentation system documentation
+
+http://caktus.github.io/developer-documentation/dokku.html | Deploying to a Dokku server — Caktus Developer Documentation 0.0.1 documentation
+
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+https://developers.google.com/style/
+https://developers.google.com/tech-writing
+https://developers.google.com/tech-writing/one
+
+http://stylepedia.net/ | Writing Style Guide
+
+https://stripe.com/docs/api | Stripe API Reference
+https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
 
 Docs- Important!
 minimum viable documentation
 https://twitter.com/webology/status/1257759193743929347
 https://docs.fast.ai/gen_doc_main.html
 
-https://developers.google.com/style/
-https://developers.google.com/tech-writing
-https://developers.google.com/tech-writing/one
+https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
+https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
 
-https://twitter.com/random_forests/status/1319996755992248320 | Josh Gordon on Twitter: "What's the difference between a tutorial and a guide on https://t.co/BsLdHu4PY2? Tutorial = end-to-end example Guide = book chapter The line has blurred a bit with Jupyter Notebooks (many guides have complete code, too)." / Twitter
+https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 
-http://www.paulgraham.com/talk.html | Write Like You Talk
-https://twitter.com/techgirl1908/status/1291059727447687168 | Angie Jones on Twitter: "My technical writing course has been one of the most valuable parts of my CS education. I use that way more than anything I learned in Calculus or Data Structures. https://t.co/wS5J2zGjvS" / Twitter
+Docusaurus
+https://v2.docusaurus.io/docs/installation
+
+https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
+
+https://github.com/thlorenz/doctoc | thlorenz/doctoc: 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
+
+https://dev.to/nickytonline/projects-with-great-documentation-352h
+https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
+https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
+
+https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
+https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
+
+PyBeeWare
+https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
+https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
+Fairly easy Pythons setup?
+https://beeware.org/contributing/how/first-time/setup/
 -->
-
-## Technical Writing- More Stuff
 
 <!--
 https://en.wikipedia.org/wiki/Five_Ws
@@ -1372,54 +1384,8 @@ https://abookapart.com/products/everyday-information-architecture
 https://en.wikipedia.org/wiki/Information_architecture
 https://en.wikipedia.org/wiki/Content_strategy
 https://en.wikipedia.org/wiki/User_experience_design
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
 -->
 
-<!--
-Docusaurus
-https://v2.docusaurus.io/docs/installation
-https://twitter.com/wongmjane/status/1287894433334095873 | Jane Manchun Wong on Twitter: "Came across a write-up about Relay’s Data-Driven Dependencies It looks like an official doc but it’s actually someone’s personal docs site. Such a creative use of @docusaurus 🤯 https://t.co/dCBYxbfAxO https://t.co/LDUeSXgQ8c" / Twitter
-https://twitter.com/sebastienlorber/status/1321784071815680000 | Sebastien Lorber on Twitter: "🥳🎊🥳🎊🥳🎊🥳🎊 The @reactnative website just migrated to @docusaurus v2 Some obvious changes: 🌔 Dark mode ⚡️ SPA navigation / prefetching 🧐 @algolia DocSearch v3 💥 @mdx_js enable many new possibilities Check it out: https://t.co/gpN1woGirQ https://t.co/O7cIlzWSLl" / Twitter
-
-Markdown
-https://twitter.com/rocksetta/status/1305266931578986497 | Rocksetta Jeremy Ellis on Twitter: "Just found this out. Instead of using lists in @github https://t.co/3hDLZ4vrDx #markdown files, use #### 1 with different numbers, then you can directly link to that part of the list with the Github #URL and a #1 https://t.co/tGUZILDSgb #PortentaH7 @arduino" / Twitter
-
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-
-Docs
-http://stylepedia.net/ | Writing Style Guide
-https://arturdryomov.dev/posts/on-technical-writing/ | On Technical Writing
-
-Docs as code
-https://www.youtube.com/watch?time_continue=427&v=QqgaX8JFyB8&feature=emb_logo | "A Practical Introduction to Docs-As-Code" - Alec Clews (LCA 2020) - YouTube
-https://twitter.com/asendecka/status/973582794596155392 | Ola Sendecka on Twitter: "Anyone could recommend interesting @writethedocs talks about making documentation a standard part of engineering work? Looking for ideas and lessons learned for #betterdocs at work :)"
-
-https://github.com/thlorenz/doctoc | thlorenz/doctoc: 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
-https://www.mkdocs.org/user-guide/deploying-your-docs/#deploying-your-docs | Deploying Your Docs - MkDocs
-https://twitter.com/treyhunner/status/913591799830110208 | ✨ Trey Hunner 🐍 on Twitter: "I just learned about Sphinx's "make linkcheck" from @WillingCarol at @sandiegopython! 🎓💖 It checks for broken links in your documentation 🤔"
-
-https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
-https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
-
-Docs
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
--->
 
 ## Engineering Performance Resources
 
