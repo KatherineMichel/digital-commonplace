@@ -1,7 +1,11 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://jwt.io/ | JSON Web Tokens - jwt.io
+
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
+
+https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
 
 https://en.wikipedia.org/wiki/X_Window_System#Principles
 
