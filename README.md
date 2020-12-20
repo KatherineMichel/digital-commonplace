@@ -459,7 +459,6 @@ https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | f
 https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 
 
-
 ## Python and Django
 
 Ana
