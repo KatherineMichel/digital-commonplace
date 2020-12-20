@@ -363,6 +363,8 @@ https://leaddev.com/
 
 https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
 
+https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
+
 https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
 
 As CTO
@@ -471,6 +473,7 @@ https://pyfound.blogspot.com/2020/11/pip-20-3-new-resolver.html | Python Softwar
 https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
 http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
 
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
 Fast API
 https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
@@ -803,9 +806,7 @@ https://www.awsgeek.com
 
 https://docs.microsoft.com/en-us/learn/
 
-
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
-
 
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
@@ -814,40 +815,25 @@ https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) C
 Jason
 https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 
-https://github.com/pivotal/read-me-first | pivotal/read-me-first: Best practices, and how to work in this Org.
-https://github.com/HackSoftware/Styleguide-Example | HackSoftware/Styleguide-Example: Repository for example styleguide project
-
-Playbook
-https://github.com/FormidableLabs/formidable-playbook | FormidableLabs/formidable-playbook: The Formidable development playbook.
-
-
 https://www.figma.com/ | Figma: the collaborative interface design tool.
 https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
 
-
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
 https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
 
-
 Divio Docs, GitHub Docs
-
 
 https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
 https://carpentries.org/
 
 https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
 
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
 
-https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
-
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 API
 https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
@@ -3071,6 +3057,8 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 
 https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
 https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
+
+https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
 
 https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
 
