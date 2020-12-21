@@ -364,6 +364,23 @@ https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitte
 https://carpentries.github.io/instructor-training/ | Instructor Training
 
 
+http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
+https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
+
+https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
+https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
+https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
+https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
+
+https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
+https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
+
+https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
+https://github.com/LambdaSchool | Lambda School, Inc.
+
+
 ## Testing and Stuff
 
 https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
@@ -1081,6 +1098,13 @@ https://github.com/w3c?page=2 | World Wide Web Consortium
 https://github.com/whatwg/dom
 
 
+Nice site!
+https://github.com/nodejs/nodejs.dev
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+
+
 pytest
 https://docs.pytest.org/
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
@@ -1130,23 +1154,6 @@ https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-
-http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
-https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
-
-https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
-https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
-https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
-https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
-
-https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
-https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
-
-https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
-https://github.com/LambdaSchool | Lambda School, Inc.
 
 
 https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
