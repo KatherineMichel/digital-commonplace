@@ -585,18 +585,6 @@ https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community 
 https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
 https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
 
-## Websites
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-https://github.com/nodejs/nodejs.dev | nodejs/nodejs.dev: A new Node.js resource built using Gatsby.js with React.js, TypeScript, and Remark.
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
 ## Product
 
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
@@ -1088,21 +1076,6 @@ https://rcstyleguide.com/ | The Responsible Communication Style Guide
 
 Error Messages
 https://style.tidyverse.org/error-messages.html | 7 Error messages | The tidyverse style guide
-
-Standards
-https://ietf.org/standards/rfcs/ | IETF | RFCs
-https://www.w3.org/TR/?status=rec | All Standards and Drafts - W3C
-https://w3c.github.io/ | W3C on GitHub
-https://github.com/w3c?page=2 | World Wide Web Consortium
-
-https://github.com/whatwg/dom
-
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 
 
 pytest
@@ -1837,6 +1810,51 @@ https://www.ansible.com/resources/webinars-training/how-to-make-ansible-communit
 https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
 -->
 
+<!--
+## Websites
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+Nice site!
+https://github.com/nodejs/nodejs.dev
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+-->
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+https://reactjs.org/community/examples.html
+
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
 
 ## Blogs
 
@@ -2084,32 +2102,6 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-https://reactjs.org/community/examples.html
-
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-https://web.archive.org/web/20200407235333/https://pwa.rocks/
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
 <!--
 Non-Python
 
@@ -2138,7 +2130,6 @@ Hackathon Starters
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/DrkSephy/django-hackathon-starter
 -->
-
 
 
 ## Tutorials
@@ -3536,6 +3527,15 @@ https://github.com/you-dont-need/You-Dont-Need-Momentjs
 
 <!--
 ## Dev Tools and Standards
+
+Standards
+https://ietf.org/standards/rfcs/ | IETF | RFCs
+https://www.w3.org/TR/?status=rec | All Standards and Drafts - W3C
+https://w3c.github.io/ | W3C on GitHub
+https://github.com/w3c?page=2 | World Wide Web Consortium
+
+https://github.com/whatwg/dom
+
 
 https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
 
