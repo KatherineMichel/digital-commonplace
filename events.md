@@ -1,0 +1,711 @@
+# Events
+
+<!--
+PyData Global Diversity Scholar Welcome Pack
+https://docs.google.com/document/d/1o3dFtd2VpcIPmgKCBhrKNtoEjXW6d4RBReWG_dRJPwQ/edit
+
+https://www.ces.tech/
+https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
+
+Lead Dev
+https://www.youtube.com/channel/UCmM3eCpmWKLJj2PDW_jdGkg/playlists | (1) White October Events - YouTube - YouTube
+
+React
+https://conf.reactjs.org/ | React Conf 2019 - Fall 2019 in Lake Las Vegas, Nevada
+https://reactjs.org/community/conferences.html | Conferences – React
+https://reactjsgirls.com/ | ReactJS Girls Conference
+
+React
+https://www.youtube.com/playlist?list=PLPxbbTqCLbGHPxZpw4xj_Wwg8-fdNxJRh | React Conf 2019 - YouTube
+
+Docker
+https://www.docker.com/dockercon/
+https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit | Docker
+-->
+
+<!--
+PyCon
+
+https://cuttlesoft.com/blog/19-reasons-im-excited-for-pycon-in-pittsburgh/ | 19 Reasons I'm Excited for PyCon in Pittsburgh - Cuttlesoft, Custom Software Developers
+
+https://www.eventbrite.com/e/pyladies-lunch-pycon-2020-tickets-98408982917
+
+Try to get a ticket
+https://us.pycon.org/2020/events/dinners/ | PyCon US
+https://www.gatewayclipper.com/calendar/ | Calendar of Cruises | Gateway Clipper
+
+https://us.pycon.org/2020/schedule/talks/ | PyCon US
+
+Maintainers Summit
+https://twitter.com/cooperlees | Cooper Lees (@cooperlees) / Twitter
+https://us.pycon.org/2020/hatchery/maintainers/ | PyCon US
+https://speakerfight.com/events/pycon-us-2020-maintainers-summit/ | Speakerfight - PyCon US 2020 Maintainers Summit
+https://discuss.python.org/t/the-countdown-for-the-maintainers-summit-at-pycon-us-2020-is-on-are-you-coming/3292 | The countdown for the Maintainers Summit at PyCon US 2020 is on! Are you coming? - Users - Discussions on Python.org
+
+Packaging Summit
+https://twitter.com/ThePyPA/status/1230141558982311936 | PyPA on Twitter: "The 2020 Python Packaging Summit at #pycon2020 is official! It will be held on April 16th, 2020 at the conference venue. To read the announcement, register to attend, and suggest topics see https://t.co/f4lQbUQ3qW" / Twitter
+https://discuss.python.org/t/pycon-us-2020-packaging-summit-registration-and-topic-proposal/3341 | PyCon US 2020 Packaging Summit: Registration and Topic Proposal - Packaging - Discussions on Python.org
+https://us.pycon.org/2020/hatchery/packaging/ | PyCon US
+
+Regional Conference Organizers' Summit
+https://us.pycon.org/2020/hatchery/organizers/ | PyCon US
+
+https://twitter.com/KatiMichel/status/1231304586008252416 | Katherine Michel on Twitter: "@jessicagarson @mariatta If you do, I would love to follow along/take part somehow!" / Twitter
+https://twitter.com/mariatta/status/1230627253572141056 | Mariatta 🤦 on Twitter: "Woke up extra early this morning to put my garbage and recycling bins to the street. Didn't see neighbours put theirs out yet, so I thought for once I'm not the last! Turns out no collections today 😢 I feel so noob..." / Twitter
+https://nislybrothers.com/trash-pickup-schedule/pretty-prairie-kansas-trash-service/ | Pretty Prairie, Kansas Trash Service - Nisly Brothers Trash Service
+
+PyCon Blog Post
+http://blog.melchua.com/ | Site not found · GitHub Pages
+https://us.pycon.org/2020/schedule/presentation/108/ | PyCon US
+https://twitter.com/KatiMichel/status/1230196358776147968 | Katherine Michel on Twitter: "It's great to see @mchua giving a PyCon talk. Although I do not want to distract from her technical acumen, the passionate speech she gave at Strange Loop primarily via ASL and her participation at @PyGotham have opened my eyes to challenges faced by deaf community members." / Twitter
+-->
+
+<!--
+http://www.kcdc.info/ | KCDC | 2019
+
+http://www.chipy.org/ | Welcome
+https://chipymentor.org/ | ChiPy Mentorship Program
+
+SF Python
+https://www.youtube.com/channel/UC51aOZF5nnderbuar5D5ifw/videos | SF Python - YouTube
+
+PyCon
+https://pyvideo.org/events/pycon-us-2019.html
+https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
+https://speakerdeck.com/pycon2019?page=1
+https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/videos
+
+DjangoCon US
+https://2020.djangocon.us/
+https://www.youtube.com/DjangoConUS
+https://twitter.com/hashtag/djangocon
+https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
+
+DjangoCon Europe
+https://2020.djangocon.eu/
+https://cfp.2020.djangocon.eu/porto/schedule/
+https://cfp.2020.djangocon.eu/porto/talk/X38KZG/ | Search Options in Django :: DjangoCon Europe 2020 :: pretalx
+https://djc2020.loudswarm.com/sessions | DjangoCon Europe 2020
+https://www.youtube.com/user/djangoconeurope/videos | DjangoCon Europe - YouTube
+https://pretix.eu/djceu2020/tickets/order/7MARR/lhqijgxt4miyk5va/?thanks=1 | Order details :: DjangoCon Europe 2020
+
+DjangoCon AU
+https://twitter.com/DjangoConAU/status/1303261523100545024 | DjangoCon AU on Twitter: "If you didn't have enough #DjangoCon last week(end), how about one in a different timezone? The @DjangoConEurope schedule is out and tickets are available: https://t.co/XTRsftQeD5 IT'S FREE!" / Twitter
+
+PyData Global
+https://docs.google.com/forms/d/e/1FAIpQLSfcFaTqVFjMa6kWlLPeEynEcbp1WrCxyxMGyyh4BP33eAviaA/viewform | PyData Global Diversity Scholarship
+https://humbledata.org/event/pydataglobal2020.html | Data Workshop at PyData Global | Humble Data Workshop
+https://twitter.com/HumbleData/status/1310905110147592193 | HumbleData on Twitter: "Want to learn to code but don’t know where to start? We’re running a free online beginners #Python workshop at @PyData Global on 7th November. Numbers are limited so we prioritise applications from under-represented minorities in tech. Register here 👉 https://t.co/iH3ELSGEDJ 1/" / Twitter
+
+PyData
+https://www.meetup.com/pro/pydata/ | PyData | Meetup Pro - Meetup
+https://www.meetup.com/PyDataNYC/
+https://pydata.org/la2020/
+https://www.scipy2020.scipy.org/schedule
+https://www.meetup.com/pro/pydata/ | PyData | Meetup Pro - Meetup
+https://jupytercon.com/program/ | JupyterCon2020
+https://twitter.com/hashtag/JupyterCon2020?src=hashtag_click | #JupyterCon2020 - Twitter Search / Twitter
+
+https://us.pycon.org/2020/
+
+PyBay
+https://pybay.com/
+https://pybay.com/program/
+https://pybay.com/talks/ | PyBay2019
+https://pybay.com/schedule/ | PyBay2019
+https://github.com/pybay
+
+North Bay Python
+https://2019.northbaypython.org/schedule/
+https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos
+
+PyBeach
+https://2020.pybeach.org/schedule/ | PyBeach 2020: Saturday, February 29, 2020, Los Angeles, California
+
+October 2-3
+PyGotham 2019
+https://2020.pygotham.tv/talks/
+https://2019.pygotham.org/sponsors/ | Sponsors - PyGotham 2019
+https://www.youtube.com/channel/UCTFmuFVfQA8Fl2SzKERFodQ/videos
+
+PyColorado
+https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
+
+PyTexas 2020
+https://www.pytexas.org/2020/
+https://github.com/pytexas/pytexas.github.io
+https://twitter.com/pytexas/status/1234913635333484546 | PyTexas on Twitter: "By the way, limited earlybird tickets are available for the next week which save you $20 off any ticket! https://t.co/3hCWB4xPXv" / Twitter
+https://ti.to/pytexas/pytexas-2020 | PyTexas 2020
+
+PyOhio
+https://www.pyohio.org/
+https://www.pyohio.org/2020/
+https://www.pyohio.org/2020/events/schedule/
+https://www.youtube.com/playlist?list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB | PyOhio 2020 - YouTube
+https://www.pyohio.org/2019/presentations/140 | PyOhio 2019 Presentation: A Brief History of Fire Brigades
+
+PyTennessee
+http://2020.pytennessee.org/schedule
+https://www.papercall.io/pytn-2021 | PaperCall.io - PyTennessee 2021
+https://2021.pytennessee.org/ | PyTennessee returns March 5, 2021
+
+PyCarolinas
+https://automationpanda.com/2020/03/12/pycarolinas-2020-update/
+
+Hashtags
+#pycascades
+
+PyCascades
+https://2020.pycascades.com/schedule/
+https://twitter.com/brianokken/status/1226963660020633603
+https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
+
+PyCon Canada
+https://2019.pycon.ca/schedule-day-1/ | Schedule - Day 1 | PyCon Canada 2019
+https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
+https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg
+
+PyLondinium
+https://www.papercall.io/pylondinium-2020
+https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
+
+EuroPython
+https://ep2020.europython.eu/
+https://ep2020.europython.eu/events/
+https://ep2019.europython.eu/events/ | Program / Events & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
+https://www.youtube.com/c/EuroPythonConference | EuroPython Conference - YouTube
+https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q | EuroPython Conference - YouTube
+
+PyCon UK
+https://2020.pyconuk.org/ | PyCon UK 2020
+https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos | PyCon UK - YouTube
+
+PyCon AU
+https://2020.pycon.org.au/program/
+https://2020.pycon.org.au/program/fri/
+https://www.youtube.com/c/PyConAU/videos | (5) PyCon AU - YouTube
+
+PyCon Columbia
+https://github.com/PyConColombia/website-2020
+
+PyCon Bolivia 2020
+http://pycon.bo/ | Pycon Bolivia 2020
+
+Cuba
+Python Pizza Conf
+https://remote.python.pizza/
+https://twitter.com/lorinkoz/status/1308012485581172736 | Lorenzo Peña on Twitter: "In case you missed our weekend announcement, @pythonpizzaconf is crossing the Atlantic and having its first overseas edition in Holguín, Cuba. CfP is already open! Stay tuned in https://t.co/oXuLhzDIwX 🐍🍕🇨🇺" / Twitter
+https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
+
+PyCon Africa
+https://africa.pycon.org/schedule/
+https://www.youtube.com/watch?v=43wJnYZ6Zd0&feature=youtu.be
+https://twitter.com/marlene_zw/status/1303332677651763203 | Marlene Mhangami on Twitter: "Yes!! The video's from this years Pycon Africa are available now on the Pycon Africa YouTube channel🥳" / Twitter
+
+PyCon Africa
+https://twitter.com/pyconafrica/status/1219608500629921798
+
+Pycon Tanzania
+https://twitter.com/ewa_jodlowska/status/1204424407915077632
+
+PyCon Nabia
+https://na.pycon.org/programme/
+
+PyCon Limerick
+https://github.com/PyConLimerick/Limerick2020
+
+PyCon Turkey 2020
+https://tr.pycon.org/ | PyCon Turkey 2020
+
+PyCon Indonesia
+https://twitter.com/mariatta/status/1316892952229076994 | Mariatta 🤦 on Twitter: "PyCon Indonesia is happening next month, and it will be a virtual event. Go submit a talk or two! https://t.co/Ipf7VOgPDq 🇮🇩🐍" / Twitter
+
+PyCon Belarus
+https://by.pycon.org/
+
+PyCon Czech Republic
+https://cz.pycon.org/2020/cfp/
+
+PyCon Japan
+https://twitter.com/transitionswpz/status/1299189540016582657 | Kojo STAY AT HOME Idrissa on Twitter: "JUST a reminder: PyCon Japan is happening NOW. Catch it on YouTube!" / Twitter
+
+PyCon APAC 2020
+https://pyconapac2020.peatix.com/
+
+Germany
+https://python-verband.org/ | Eine Programmiersprache verändert die Welt. — Python Software Verband e.V.
+
+
+DJUGL404: A Night of F*&k Ups
+https://www.eventbrite.co.uk/e/djugl404-a-night-of-fk-ups-tickets-91303614569?aff=jessica
+
+Python Mega Meetup
+https://twitter.com/abhicantdraw/status/1307236581854470144 | https://twitter.com/abhicantdraw/status/1307236581854470144
+
+Python Web Conf 2020
+https://2020.pythonwebconf.com/
+https://www.youtube.com/playlist?list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4- | Python Web Conf 2020 Talks + Tutorials - YouTube
+
+Pyjamas 2020
+https://pyjamas.live/cfp/ | Call for Community Tracks and Talk Proposals • Pyjamas 2020
+
+https://djangoday.dk/talks/evolution-of-a-view-point/
+
+
+https://github.com/PyLadiesCZ/roboprojekt | PyLadiesCZ/roboprojekt: Projekt PyLadies Brno 2018
+https://github.com/DutchDjangoAssociation/djangovereniging.nl
+https://twitter.com/pythonpizzaconf | Python Pizza (@pythonpizzaconf) | Twitter
+
+
+https://github.com/FlaskCon/website | FlaskCon/website
+https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
+-->
+
+<!--
+GitHub and GitLab
+
+https://twitter.com/github/status/1304185401029136386 | GitHub on Twitter: "Join @gr2m and @bdougieYO in a conversation about the open-source automation of your GitHub repos. Tomorrow at 9:30 am PST. https://t.co/dJqZcGN5jZ" / Twitter
+https://twitter.com/githubOCTO/status/1301264737657708544 | GitHub OCTO on Twitter: "Speaker Series Ep. 1 recording is up! @denaefordrobin's research on how successful online communities are built is 🔥 Stay tuned for details about the upcoming Episode 2! 👀 https://t.co/QxF4tfRxoo" / Twitter
+https://www.meetup.com/GitHub-Virtual-Meetup/events/273139225/ | Automate open-source maintenance with bots [Open Source Friday] | Meetup
+
+GitHub OCTO
+https://twitter.com/jasoncwarner/status/1293598150285037568 | Jason Warner on Twitter: "Kicking off GitHub OCTO Speaker Series. Couldn't be more excited to have @denaefordrobin as our very first speaker! Sign up below 👇" / Twitter
+
+https://git-merge.com/ | Git Merge 2018 — March, Barcelona
+
+https://github.com/githubevents | GitHub Events
+https://live-stream.github.com/ | GitHub Live Events
+
+https://githubuniverse.com/ | Home | GitHub Universe
+http://githubuniverse.com/watch
+https://github.com/blog/2453-mission-report-github-universe-2017 | Mission report: GitHub Universe 2017
+
+GitHub Universe
+https://www.youtube.com/watch?v=DDaJHR0DngE | Source code consolidation at Expedia Group - GitHub Universe 2019 - YouTube
+
+https://githubsatellite.com/
+https://github.com/githubevents/satellite2020/tree/master/Satellite%202020%20Presentations | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
+https://github.blog/2020-05-06-new-from-satellite-2020-github-codespaces-github-discussions-securing-code-in-private-repositories-and-more/ | New from Satellite 2020: GitHub Codespaces, GitHub Discussions, securing code in private repositories, and more - The GitHub Blog
+
+https://securitylab.github.com/events
+
+https://about.gitlab.com/events/commit/ | GitLab Commit: You Belong Here | GitLab
+https://gitlabcommitvirtual.com/ | Home - GitLab Virtual Summit | Register Now!
+https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
+
+Latinx
+https://github.blog/2020-08-11-github-presente-na-america-latina/ | GitHub ¡Presente! na América Latina - The GitHub Blog
+https://twitter.com/loooorenanicole/status/1309578539335847939 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "MUCHISMAS GRACIAS A TODXS! @ALAColombia, our chair, @elthenerd, our producer, AJ Jimenez from dev rel, and mostly gracias a ti! I am so thankful we were able to do this and hope we can do more in the future with @octogatos! #LatinxinTech #OctogatosConf20 https://t.co/NfDXUOwKAK" / Twitter
+https://twitter.com/loooorenanicole/status/1309586440007938048 | Loooorena "La Tigresa" Mesa @ #BlackLivesMatter 🖤 on Twitter: "MIGXS THAT PLAN An #OCTOGATOSCONF20 TOGETHER BAILAN TOGETHER! MUCHIASMAS GRACIAS A TODXS! @elthenerd @wenlockCA @arielvalentin @nick_canz @ALAColombia @talktopri @lavidaoosha #LatinxInTech https://t.co/Vy6HIJntJx" / Twitter
+https://www.meetup.com/GitHub-Presente/ | GitHub ¡Presente! : Evento virtual (São Paulo, Brazil) | Meetup
+
+https://twitter.com/MishManners/status/1297758479768199168 | Michelle Mannering 💎 #StayHome on Twitter: "The International Conference on Game Jams, Hackathons, and Game Creation events is now live for the next 48 hours 🎮 It's 100% free! Plus watch the opening keynote to see your's truly talking all things hackathons 👩‍💻 https://t.co/uC7gVunysI #ICGJ2020 #hackathons #gamejam #games" / Twitter
+-->
+
+<!--
+BazelCon 2019
+https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj | BazelCon 2019 - YouTube
+
+Google OS
+https://opensourcelive.withgoogle.com/events/new-open-source | Home - The new open source
+
+https://twitter.com/Samson_Goddy/status/1180824521328214016 | Samson Goddy on Twitter: "Come February 20th - 22nd, we(@oscafrica) are hosting the first-ever Open Source Festival in Lagos, Nigeria. Calling for speakers and sponsors, come let's make this a great experience!!!! 🎉🎊 #oscafest #opensource #sustainAfrica https://t.co/mbENf3pkNr https://t.co/1lu5mqD6II" / Twitter
+
+CHAOSS
+
+http://www.redhatagileday.com/ | Red Hat Agile Day
+
+Sustain OSS
+https://sustainoss.org/
+
+OSS Summit
+https://www.oreilly.com/conferences/oscon.html
+
+September 9-10 (State of the Source)
+https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
+https://www.youtube.com/c/OpenSourceInitiative/videos | (2) Open Source Initiative - YouTube
+https://eventyay.com/e/8fa7fd14/schedule | Sessions | State of the Source | eventyay
+https://drive.google.com/file/d/1Sk0fy2vvSQ8IjJbttWXstqFHMVAzHm8s/view | State of the Source Program.pdf - Google Drive
+
+October 19-20
+https://allthingsopen.org/ | All Things Open 2019 - Raleigh NC October 13-15
+https://2020.allthingsopen.org/register/
+https://2020.allthingsopen.org/speakers/
+https://2020.allthingsopen.org/sessions/getting-started-with-ci-cd-using-github-actions/ | Getting Started with CI/CD using Github Actions : All Things Open 2020
+
+FOSDEM
+https://fosdem.org/2021/news/2020-09-01-dates-fosdem-2021/ | FOSDEM 2021 - Next FOSDEM: 6 & 7 February 2021, online
+https://fosdem.org/2020/schedule/
+https://fosdem.org/2018/schedule/track/community/ | FOSDEM 2018 - Community devroom
+https://fosdem.org/2018/schedule/event/python3/ | FOSDEM 2018 - Python 3: 10 years laterchow
+https://archive.fosdem.org/2019/ | FOSDEM 2019 - Home
+
+https://events.linuxfoundation.org/
+
+Linux Conf AU
+https://events.linuxfoundation.org/lf-legal-summit/ | The Linux Foundation Legal Summit | Linux Foundation Events
+https://events.linuxfoundation.org/open-source-summit-north-america/
+https://events.linuxfoundation.org/open-source-summit-europe/register/ | Register | Linux Foundation Events
+https://www.youtube.com/watch?v=xdpAlB-xeEY&feature=emb_logo
+
+CopyLeft Conf
+https://2020.copyleftconf.org/schedule/presentation/18/
+
+https://hopin.to/events/open-source-connect | Accel Open Source Connect | Hopin
+https://twitter.com/sarassassin/status/1309198556037865472 | Sara Cope 🇺🇸💾 on Twitter: "Getting started at Drupal GovCon: Smithsonian + Google - Open source web components for visualizing and interacting with 3D objects: https://t.co/gxWAk9SWF7 Join online! @drupalgovcon" / Twitter
+
+OSCA Africa
+https://twitter.com/emanuil_tolev/status/1224008875692740608
+https://twitter.com/Peace_Ojemeh/status/1218849200865234944
+-->
+
+## Talk Aggregation
+
+General
+* [Confreaks](https://confreaks.tv) and [Confreaks YouTube](https://www.youtube.com/user/Confreaks)
+* [Next Day Video](http://nextdayvideo.com)
+* [Tech Yaks](https://techyaks.com)
+
+<!--
+https://techyaks.com/python-year-tytop.html
+
+https://web.archive.org/web/20180129122307/https://www.python.org/events/ | Our Events | Python.org
+-->
+
+Python
+* [PyVideo](http://pyvideo.org)
+* [PyVideo Events](http://pyvideo.org/events.html)
+
+<!--
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+-->
+
+## Finding Events
+
+Official PyCons Site
+* [Official PyCons Site](https://pycon.org)
+
+Conferences- Python
+* [PSF Python Events](https://www.python.org/events)
+* [Python Conferences Repo](https://github.com/python-organizers/conferences)
+* [Python Events Calendar](https://wiki.python.org/moin/PythonEventsCalendar)
+* [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
+
+Events and Meetups
+* [Eventbrite](https://www.eventbrite.com)
+* [Meetup](https://www.meetup.com)
+
+Meetups- Python and Django
+* [Meetup Topic Django](https://www.meetup.com/topics/django) and [Meetup Topic Django All](https://www.meetup.com/topics/python/all)
+* [Meetup Topic Python](http://www.meetup.com/topics/python) and [Meetup Topic Python All](https://www.meetup.com/topics/django/all)
+
+<!--
+https://forum.djangoproject.com/t/django-meetups/376/2 | Django Meetups - Events - Django Forum
+https://wiki.python.org/moin/PythonEventsCalendar | PythonEventsCalendar - Python Wiki
+https://wiki.python.org/moin/LocalUserGroups | LocalUserGroups - Python Wiki
+-->
+
+CfPs
+* [PaperCall](https://www.papercall.io)
+
+Conferences- General
+* [The Information: Most Valuable Tech Events](https://www.theinformation.com/tech-events) 
+* [Crunchbase Global Events List](https://www.crunchbase.com/search/events)  
+* [Tech EU Events List](http://tech.eu/events)
+* [Techmeme Events List](http://techmeme.com/events) 
+* [Lanyrd](https://web.archive.org/web/20181108064322/http://lanyrd.com)
+
+<!--
+https://twitter.com/Transition/lists/python-communities/members | List members
+https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
+
+DjangoCon US 2019 Other Conferences
+https://docs.google.com/spreadsheets/d/1CTjBbEixT_BpLb3n86q9pHBEUxIpKmH53wmCTjNVIfo/edit#gid=0
+https://twitter.com/loooorenanicole/status/1125120936989085696 | Loooorena Mesa @ #PyCon2019 🐍🐍🐍 on Twitter: "Always so amazing to see all the amazing #Python logos of events happening around the world. I see two I’ve been at in the last year - @PyOhio @PyCaribbean!!! #PyCon2019… https://t.co/TQAEJlWbyO"
+https://twitter.com/chriswilcox47/status/1125030348449038336 | Chris Wilcox #PyCon2019 🐍, 🐢🚀, ☁️, 🏍️ on Twitter: "If you missed it or couldn't take notes fast enough, here is a HUGE list of regional Python Conferences to consider attending. CFPs are open for speaking opportunities.… https://t.co/dFTi9AAZMV"
+https://twitter.com/veronica_hanus/status/1148264098355957762 | Veronica Hanus @ #SciPy2019 👩‍🔬🧪❤️🐍 on Twitter: "If you're looking to browse all the PyCon conferences, head👇 https://t.co/nrFXd5N0C1"
+https://twitter.com/Transition/status/1009185372247592962 | Kojo on Twitter: "@PyCaribbean @pyconcharlas @lakatialira @skfroi @pyladiessdq @wwcodesdq @loooorenanicole @NatachaDelaRosa @samievaldez @ramalhoorg Tell ERRYBODY! English, Español y Portugués. Thanks to @mayela0x14 for the RT about this.… https://t.co/r77CPVStJf"
+
+https://github.com/tech-conferences/confs.tech | tech-conferences/confs.tech: List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
+https://confs.tech/?topics=&countries=U.S.A. | Tech conferences in 2019 and 2020 | Confs.tech
+-->
+
+## Python Events and Meetups by Region
+
+### Wichita and Kansas City
+
+<!--
+Kansas City, St. Louis
+https://github.com/pythonkc
+-->
+
+### California
+
+### PyCon- International
+
+PyCon UK
+* [PyCon UK](http://uk.python.org) and [PyCon UK GitHub](https://github.com/PyconUK)
+* [PyCon UK 2018](https://2018.pyconuk.org)
+* [PyCon UK 2017](http://2017.pyconuk.org)
+* [PyCon UK 2016 Website GitHub](https://github.com/PyconUK/2016.pyconuk.org)
+
+<!--
+PyCon UK
+https://twitter.com/PyConUK | PyCon UK (@PyConUK) | Twitter
+-->
+
+PyCon International- Australia
+* [PyCon AU](https://pycon-au.org) and [PyCon AU GitHub](https://github.com/pyconau)
+* [PyCon AU 2019 Website](http://2019.pycon-au.org) and [PyCon AU 2019 Website GitHub](https://github.com/pyconau/2019.pycon-au.org)
+* [PyCon AU 2018 Website](http://2018.pycon-au.org) and [PyCon AU 2018 Website GitHub](https://github.com/pyconau/2018.pycon-au.org)
+* [PyCon AU 2017 Website](https://2017.pycon-au.org) and [PyCon AU 2017 Website GitHub](https://github.com/pyconau2017)
+
+<!--
+https://rixx.de/blog/day-1-of-pycon-au-2019-djangocon/
+
+https://twitter.com/glasnt/status/1122334122620272640 | Katie McLaughlin ✨ on Twitter: "As are we 😇… "
+https://github.com/glasnt/pyconau-test
+-->
+
+### DjangoCon
+
+DjangoCon Australia
+* [DjangoCon Australia](http://djangocon.com.au)
+* [DjangoCon Australia 2019 Website](http://2019.djangocon.com.au) and [DjangoCon Australia 2019 Webpage (PyCon AU)](https://2018.pycon-au.org/djangoconau)
+* [DjangoCon Australia 2018 Website](http://2018.djangocon.com.au) and [DjangoCon Australia 2018 Website GitHub](https://github.com/djangocon/2018.djangocon.com.au)
+* [DjangoCon Australia 2017 Website](http://2017.djangocon.com.au) and [DjangoCon Australia 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.com.au)
+
+<!--
+Colophon Example
+https://2018.pycon-au.org/colophon/ | PyCon AU 2018 | Colophon
+
+https://github.com/glasnt/shirts | glasnt/shirts: Campaign for DjangoCon AU 5 years of shirts sale
+-->
+
+DjangoCon Europe
+* [DjangoCon Europe](https://djangocon.eu)
+* [DjangoCon Europe 2019 Website](https://2019.djangocon.eu) and [DjangoCon Europe 2019 GitHub](https://github.com/djangocon/2019.djangocon.eu)
+* [DjangoCon Europe 2018 Website](https://2018.djangocon.eu) and [DjangoCon Europe 2018 Slack](https://djangoconeurope18.slack.com)
+* [DjangoCon Europe 2017 Website](https://2017.djangocon.eu) and [DjangoCon Europe 2017 Website GitHub](https://github.com/djangocon/2017.djangocon.eu)
+* [DjangoCon Europe 2016 Website](https://2016.djangocon.eu) and [DjangoCon Europe 2016 GitHub](https://github.com/djangocon/2016.djangocon.eu)
+* [DjangoCon Europe 2015 GitHub](https://github.com/djangocon/2015.djangocon.us)
+
+DjangoCon Europe Photos
+* [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
+
+<!--
+https://github.com/pythonghana/pyconghana2018 | pythonghana/pyconghana2018: Python Ghana Conference 2018 website
+
+https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
+https://www.djangoproject.com/weblog/2017/jul/02/djangocon-europe-2018-call-volunteers/
+-->
+
+Django Under the Hood
+* [Django Under the Hood](https://www.djangounderthehood.com), [Django Under the Hood GitHub](https://github.com/djangounderthehood) and [Django Under the Hood Twitter](https://twitter.com/DjangoUnderHood)
+
+### Python- US
+
+Python US- Bay Area and California
+* [PyBay](https://pybay.com) and [PyBay GitHub](https://github.com/pybay)
+* [North Bay Python 2018 Website](https://2018.northbaypython.org)
+* [North Bay Python 2017 Website](https://2017.northbaypython.org) and [North Bay Python Website GitHub](https://github.com/northbaypython/website)
+* [Bay Bridge Python](http://baybridgepython.org), [Bay Bridge Python GitHub](https://github.com/baybridgepython), and [Bay Bridge Python Website GitHub](https://github.com/baybridgepython/baybridgepython.org)
+* [San Diego Python GitHub](http://www.pythonsd.org) and [San Diego Python GitHub](https://github.com/pythonsd)
+
+<!--
+https://2020.pybeach.org/
+https://twitter.com/PyBeachLA
+
+https://pybay.com/volunteer-and-scholarships/#worktrade
+https://docs.google.com/forms/d/e/1FAIpQLSepQy9xDYrx0GrViFQcYf_pbw7uWiMx2QitXcC6AvBzScOEaQ/viewform
+https://docs.google.com/document/d/1Lm7IMwRfIwInqRR_uO4aVSVg4Tz-7E1ThABy5102M-w/edit
+https://docs.google.com/forms/d/e/1FAIpQLSf3gfhchjl6PuZMAkgNWS3Q5WBaE_vOgpYFcnD2ZRKBKWKv6A/viewform
+
+https://medium.com/pybay/diversity-ac2728e384c2 | Diversity and Inclusion – PyBay2018 – Medium
+-->
+
+Python US Conferences and Meetups- New York
+* [The New York Python Meetup Group](https://www.meetup.com/nycpython)
+* [PyGotham 2019 Website](https://2019.pygotham.org), [PyGotham 2018 Website](https://2018.pygotham.org), and [PyGotham Website GitLab 2017](https://gitlab.com/pygotham/2017)
+* [PyGotham GitLab](https://gitlab.com/pygotham), [PyGotham GitHub](https://github.com/PyGotham), and [PyGotham Website GitHub](https://github.com/PyGotham/pygotham) 
+
+Python US- Midwest
+* [PyColorado Website](https://pycolorado.org/), [PyColorado Website GitHub](https://github.com/PyColorado/pycolorado.org), and [PyColorado Twitter](https://twitter.com/pycolorado)
+* [PyOhio](www.pyohio.org), [PyOhio GitHub](https://github.com/pyohio), [PyOhio Website GitHub](https://github.com/pyohio/pyohio-website), and [PyOhio Slack](https://slack.pyohio.org)
+* [PyNash GitHub](https://github.com/pynashorg) and [PyNash Website GitHub](https://github.com/pynashorg/pynashorg.github.com)
+* [PyTennessee](https://www.pytennessee.org) and [PyTennessee 2019 Website GitHub](https://github.com/pytennessee/pytn-2019)
+* [PyTexas](https://www.pytexas.org) and [PyTexas 2019 Website GitHub](https://github.com/pytexas/PyTexas2019)
+* [PyWeb Houston Meetup](https://www.meetup.com/python-web-houston)
+
+<!--
+https://2020.pytennessee.org/
+https://www.eventbrite.com/e/pytennessee-2020-tickets-70582617509?aff=erelexpmlt
+
+@PyCarolinas, June 2020
+https://mailchi.mp/8ad40e1455a4/pycarolinas-news | PyCarolinas News Updates
+https://www.pyohio.org/2018/
+-->
+
+Python US- More
+* [Florida PyCon](http://flpy.org) and [Florida PyCon Twitter](https://twitter.com/flpycon)
+* [Puget Sound Python Twitter](https://twitter.com/ps_python) and [Puget Sound Python Slack](http://pugetsoundpython-slack.herokuapp.com)
+
+### Python- North America
+
+Python Latin America
+* [PythonDay Mexico](http://pythonday.mx)
+* [PyCon LatAm](https://www.pylatam.org)
+* [Python Tijuana](https://pythontijuana.com/) and [Python Tijuana GitHub](https://github.com/PythonTijuana)
+
+<!--
+https://www.flickr.com/photos/pyconcolombia/sets/72157708907716751/ | Keynotes | Flickr
+
+https://twitter.com/__PyMX__ | PyMX (@__PyMX__) | Twitter
+https://twitter.com/PyConES | PyCon España (@PyConES) | Twitter
+https://www.facebook.com/groups/pythontijuana
+https://twitter.com/pyconar
+https://www.python.org/events/python-events/751/ | PyCon Argentina | Python.org
+http://cucea.udg.mx/python-day-2018-live | PYTHON DAY 2018 LIVE | University administrative center of economic sciences
+http://mxmicodigo.com/noticias/ver/57 | mxmicodigo.com/noticias/ver/57
+-->
+
+Python North America- Caribbean
+* [PyCaribbean Website GitHub](https://github.com/pycaribbean/pycaribbean.github.io)
+
+Python North America- Canada
+* [PyCanada 2018](https://2018.pycon.ca), [PyCanada 2017](https://2017.pycon.ca), and [PyCanada GitHub](https://github.com/pyconca)
+* [PyCascades](https://www.pycascades.com), [PyCascades GitHub](https://github.com/pycascades), [PyCascades Website GitHub](https://github.com/pycascades/www.pycascades.com), and [PyCascades Slack](http://pycascades-slack.herokuapp.com)
+* [PyCascades 2019 Website](https://2019.pycascades.com)
+
+<!--
+https://github.com/pyconca/2017-web
+https://github.com/pyconca/websites-archive | pyconca/websites-archive: An Git archive of the old PyConCA websites.
+
+https://2020.pycascades.com/volunteer/
+https://2020.pycascades.com/
+https://2019.pycascades.com/grants/
+https://docs.google.com/forms/d/e/1FAIpQLSdfXmBqCbtDQFuiJzNQaHoiCTLDyu2eGQlXdTN6lgXpjkf9cg/viewform
+https://docs.google.com/forms/d/e/1FAIpQLSfE1Cn_n4dfYFDi64mVKR4NggD1Lcqw4fhtlviRONlMtM4UOw/viewform | PyCascades 2019 - Diversity Scholarships
+PyCascades Volunteer Sign Up
+http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
+-->
+
+### PyCon International- Europe
+
+PyCon International- Western Europe
+* [EuroPython Society](http://www.europython-society.org)
+* [EuroPython](https://europython.eu) and [EuroPython Blog](https://blog.europython.eu)
+* [EuroPython 2018 Website](https://ep2018.europython.eu), [EuroPython 2017 Website](https://ep2017.europython.eu), and [EuroPython 2016 Website](https://ep2016.europython.eu)
+* [EuroPython GitHub](https://github.com/EuroPython) and [EuroPython Website GitHub](https://github.com/EuroPython/epcon) 
+* [PyCon France Website](https://www.pycon.fr)
+* [PyCon Italia Website](https://www.pycon.it), [Python Italia GitHub](https://github.com/pythonitalia), and [PyCon Italia Website GitHub](https://github.com/pythonitalia/pycon_site)
+* [PyLondinium](https://pylondinium.org)
+
+<!--
+EuroPython 2019
+http://michal.karzynski.pl/blog/2019/07/15/top-20-talks-from-europython-2019/
+
+https://python.ie/ | Python Ireland
+https://de.pycon.org/ | PyConDE & PyData Berlin 2019 | Berlin, 9-13 October 2019
+https://hamburg.python.pizza/ | Python Pizza Hamburg
+-->
+
+PyCon International- Eastern Europe
+* [PyCon Czech Website](https://cz.pycon.org)
+* [PyCon Czech User Group Homepage](https://python.cz/) and [PyCon Czech User Group Homepage GitHub](https://github.com/pyvec/python.cz)
+* [PyCon Slovakia 2018 Website](https://2018.pycon.sk/sk)
+* [PyCon Sweden Website](http://www.pycon.se)
+* [PyCon Ukraine 2018 Website](https://2018.uapycon.org)
+* [PyDays Vienna](https://www.pydays.at/)
+
+<!--
+https://pyconbalkan.com/
+-->
+
+### PyCon International- Africa, Middle East, Asia
+
+PyCon International- Africa
+* [Python Africa](https://africa.python.org)
+* [PyCon Africa](http://africa.pycon.org) and [PyCon Africa GitHub](https://github.com/pythonafrica/pycon-africa-website)
+* [PyCon Namibia](https://na.pycon.org)
+* [Pycon Nigeria](https://pycon.ng)
+* [PyConZA](https://za.pycon.org)
+
+<!--
+https://africa.pycon.org/report/
+https://www.youtube.com/watch?v=43wJnYZ6Zd0&feature=youtu.be
+
+https://africa.pycon.org/travel/guidance-international-visitors/
+https://www.gofundme.com/f/pycon-africa-financial-assistance
+https://2019.djangocon.eu/talks/building-a-django-community-in-africa/
+http://na.pycon.org/this-was-pycon-namibia/
+https://github.com/pythonghana/pyconghana2018 | pythonghana/pyconghana2018: Python Ghana Conference 2018 website
+https://twitter.com/amakarudze/status/1112826908960571392
+-->
+
+PyCon International- Middle East and Asia
+* [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
+* [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
+* [Python India GitHub](https://github.com/pythonindia)
+* [PyCon Israel](http://il.pycon.org)
+* [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
+* [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
+* [PyCon China](https://cn.pycon.org/)
+* [PyCon Taiwan GitHub](https://github.com/pycontw)
+* [PyCon Korea](https://www.pycon.kr/)
+
+<!--
+https://tr.pycon.org/ | PyCon Turkey - May 2020
+https://in.pycon.org/2019/ | PyCon India 2019 in Chennai | October 12th to 15th
+
+https://www.townscript.com/e/pyconf-hyderabad-2019
+https://in.pycon.org/cfp/2019/proposals/
+
+PyCon Philippines 2016
+https://github.com/pythonph/pycon-2016
+
+https://github.com/tzangms/PyConTW
+-->
+
+## Data Science
+
+PyData- Major Events
+* [PyData](http://pydata.org), [PyData Twitter](https://twitter.com/PyData), and [PyData GitHub](https://github.com/pydata)
+* [PyData Events](https://pydata.org/events.html) and [PyData Past Events](https://pydata.org/past-events.html)
+
+GeoPython- Major Events
+* [GeoPython](http://www.geopython.net) and [GeoPython GitHub](https://github.com/geopython)
+* [GeoPython 2018](http://2018.geopython.net)
+
+SciPy- Major Events
+* [SciPy Website](https://conference.scipy.org)
+* [SciPy 2019 Website](https://www.scipy2019.scipy.org)
+* [SciPy 2018 Website](https://scipy2018.scipy.org)
+* [EuroSciPy Website](https://www.euroscipy.org)
+
+JupyterCon and AnacondaCon- Major Events
+* [JupyterCon](https://conferences.oreilly.com/jupyter)
+* [AnacondaCon](https://anacondacon.io)
+
+PyData- Regional Events and Meetups
+* [PyData Meetup](https://www.meetup.com/pro/pydata)
+* [PyData Seattle Meetup](https://www.meetup.com/pydata_seattle)
+* [PyData Berlin GitHub](https://github.com/pydataberlin)
+* [PyData Dublin](https://pydatadublin.github.io)
+* [PyData Edinburgh Twitter](https://twitter.com/PyDataEdinburgh)
+* [PyData London](http://london.pydata.org) and [PyData London GitHub](https://github.com/PyDataLondon)
+* [PyData Spain GitHub](https://github.com/python-spain)
+* [SciPy LA](https://conf.scipyla.org)
+
+<!--
+https://github.com/pydata/conf_site
+https://scipy2018.scipy.org/ehome/299527/648141/ | Sprints | SciPy 2018 Conference
+https://docs.google.com/forms/d/e/1FAIpQLSefj325nEwZSArxzEq3BOJdE6L3weMsBZJSDUS_61T7w3t3hw/viewform | SciPy 2018 Program Committee Interest Form
+http://scipyla.org/conf/2019/
+
+https://twitter.com/PyData/status/1017849955564904449 | PyData on Twitter: "The call for proposals is OPEN for our 3 upcoming U.S. #PyData events this fall! PyData NYC, Oct 17-19: https://t.co/it7ixyIpB0 CFP closes Aug 12 PyData LA, Oct 21-23: https://t.co/mMNMxbA2WC CFP closes Aug 12 PyData DC, Nov 16-18: https://t.co/EnO6sKXQNn CFP closes Sept 12… https://t.co/rOYkOcExft"
+
+https://github.com/scikit-learn/scikit-learn/wiki/Upcoming-events | Upcoming events · scikit-learn/scikit-learn Wiki
+
+https://twitter.com/DynamicWebPaige/status/1017946412095561728 | 👩‍💻 DynamicWebPaige @ OSCON 💻✨ on Twitter: "Can't wait to get started working on #PyOpenSci! If anyone wants to join in the planning, please DM and we'll add your email to @_inundata's master list! 👩‍🔬✨ @SciPyConf #SciPY2018… https://t.co/m5eAYgNLRs"
+-->
