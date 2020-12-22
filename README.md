@@ -3347,30 +3347,36 @@ CSSOM
 https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 DOM
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+
 Fetch API 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
-Geolocation API
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
-Payment Request API
-https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
+
 Permissions API
 https://developer.mozilla.org/en-US/docs/Web/API/Permissions_API
-Push API 
-https://developer.mozilla.org/en-US/docs/Web/API/Push_API
-Server Sent Events
-https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
-Service Workers API
-https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 Web Authentication API
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Authentication_API
+
 Web Notifications
 https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API
+Payment Request API
+https://developer.mozilla.org/en-US/docs/Web/API/Payment_Request_API
+Push API 
+https://developer.mozilla.org/en-US/docs/Web/API/Push_API
+Geolocation API
+https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+
+Service Workers API
+https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 Web Workers API
 https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API
-WebRTC
-https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
+
+Server Sent Events
+https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events
+
 Websockets API
 https://developer.mozilla.org/en-US/docs/Web/API/Websockets_API
+WebRTC
+https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API
 -->
 
 ## Mozilla- HTTP, Request and Response Cycle
@@ -3466,11 +3472,8 @@ CommonJS (Node)
 * [CommonJS](http://www.commonjs.org) and [CommonJS Wikipedia](https://en.wikipedia.org/wiki/CommonJS)
 
 <!--
+JavaScript ES2021, ES2020
 https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
-
-https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
-https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
-https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
 
 https://github.com/luruke/browser-2020
 http://caniuse.com
@@ -3489,21 +3492,28 @@ https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_
 
 
 <!--
+https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
+https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
+https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
+
 https://flaviocopes.com/node-difference-browser/
+
 node.js uses CommonJS modules
 https://flaviocopes.com/commonjs/
+https://en.wikipedia.org/wiki/CommonJS
+
 browsers use ES modules
 https://flaviocopes.com/es-modules/
+https://en.wikipedia.org/wiki/ECMAScript
 Mozilla docs are ECMAScript Standard
 -->
 
 <!--
 Flavors and Modules
 
-[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
-
 CommonJS
-* [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
+[CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
+[RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
 
 webpack CommonJS Explanation
 https://github.com/webpack/docs/wiki/commonjs
@@ -3523,7 +3533,6 @@ https://expressjs.com/en/api.html
 
 https://nodejs.org/api/http.html
 https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
 
 https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
 https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
