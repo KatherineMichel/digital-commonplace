@@ -8,6 +8,7 @@ https://global.pydata.org/pages/schedule | PyData Global 2020
 https://global.pydata.org/pages/program | PyData Global 2020
 https://global.pydata.org/pages/talk_release_schedule#nov-11 | PyData Global 2020
 https://forum.numfocus.org/pydata-global/channels/town-square | (26) * General - PyData Global NumFOCUS Forum
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
 
 https://www.ces.tech/
 https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
@@ -163,6 +164,11 @@ https://2021.pythonwebconf.com/ | Python Web Conference 2021
 
 <!--
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
+
+December 8-10
+https://githubuniverse.com/
+https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
+https://www.youtube.com/c/GitHub/playlists
 
 GitHub and GitLab
 https://www.meetup.com/GitHub-Virtual-Meetup/ | GitHub Virtual Meetup (San Francisco, CA) | Meetup
