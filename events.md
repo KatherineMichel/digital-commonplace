@@ -22,27 +22,15 @@ https://www.docker.com/events/women-at-dockercon-summit | Women@DockerCon Summit
 
 
 <!--
-PyColorado
-https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
-
-PyLondinium
-https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
-
-PyCon UK
-https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos | PyCon UK - YouTube
-
-
 Cuba
 Python Pizza Conf
 https://remote.python.pizza/
 https://twitter.com/lorinkoz/status/1308012485581172736 | Lorenzo Peña on Twitter: "In case you missed our weekend announcement, @pythonpizzaconf is crossing the Atlantic and having its first overseas edition in Holguín, Cuba. CfP is already open! Stay tuned in https://t.co/oXuLhzDIwX 🐍🍕🇨🇺" / Twitter
 https://mobile.twitter.com/pythonpizzaconf/status/1248681409457336320
+https://twitter.com/pythonpizzaconf | Python Pizza (@pythonpizzaconf) | Twitter
 
 
 https://na.pycon.org/programme/
-
-
-https://twitter.com/marlene_zw/status/1303332677651763203 | Marlene Mhangami on Twitter: "Yes!! The video's from this years Pycon Africa are available now on the Pycon Africa YouTube channel🥳" / Twitter
 
 
 DJUGL404: A Night of F*&k Ups
@@ -56,7 +44,6 @@ https://djangoday.dk/talks/evolution-of-a-view-point/
 
 https://github.com/PyLadiesCZ/roboprojekt | PyLadiesCZ/roboprojekt: Projekt PyLadies Brno 2018
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
-https://twitter.com/pythonpizzaconf | Python Pizza (@pythonpizzaconf) | Twitter
 -->
 
 
@@ -121,9 +108,6 @@ Conferences- General
 <!--
 https://twitter.com/Transition/lists/python-communities/members | List members
 https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
-
-https://github.com/tech-conferences/confs.tech | tech-conferences/confs.tech: List of tech conferences: JavaScript / Design - CSS - UX / Ruby - iOS - Android - PHP - Data - Devops
-https://confs.tech/?topics=&countries=U.S.A. | Tech conferences in 2019 and 2020 | Confs.tech
 -->
 
 ## To Watch
@@ -138,13 +122,45 @@ https://www.meetup.com/PyDataNYC/
 https://jupytercon.com/program/ | JupyterCon2020
 https://twitter.com/hashtag/JupyterCon2020?src=hashtag_click | #JupyterCon2020 - Twitter Search / Twitter
 
+
+PyColorado
+https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
+
+PyLondinium
+https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
+
+PyCon UK
+https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos | PyCon UK - YouTube
+
+
+https://pyjamas.live/ | Pyjamas 2020
+
+https://github.com/FlaskCon/website | FlaskCon/website
+https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
+
+https://reinvent.awsevents.com/ | AWS re:Invent | Amazon Web Services
+
+Next.js Conf
+https://nextjs.org/conf/schedule | Schedule – Next.js Conf
+https://www.youtube.com/watch?v=1-NzQ9ObsfM&list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD
+https://www.youtube.com/watch?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD&v=NXedb2z7N-4&feature=emb_logo
+
+https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
+
+
 December 8-10
 https://githubuniverse.com/
 https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
 https://www.youtube.com/c/GitHub/playlists
 
+https://global.pydata.org/pages/schedule
+https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
+https://forum.numfocus.org/pydata-global/channels/town-square
+
 PyTexas 2020
-https://www.pytexas.org/2020/
+https://www.pytexas.org/
+https://www.youtube.com/pytexas
+https://www.youtube.com/playlist?list=PL0MRiRrXAvRgAFCdfHUcw8PNPqS7ux_BK | (1) PyTexas 2020 - YouTube
 
 October 2-3
 PyGotham 2019
@@ -214,6 +230,11 @@ https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg
 
 ## Keeping Tabs On
 
+GitHub
+* [Git Merge](https://git-merge.com/)
+* [GitHub Satellite](https://githubsatellite.com/) and [GitHub Satellite 2020 GitHub](https://github.com/githubevents/satellite2020/ )
+
+PyLadies
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 <!--
@@ -237,25 +258,9 @@ https://2021.pytennessee.org/ | PyTennessee returns March 5, 2021
 
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
 
-https://pyjamas.live/ | Pyjamas 2020
-
 PyCascades
 https://2021.pycascades.com/news/1-tickets-available/ | Tickets are now available 📣 🎟
 https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
-https://www.youtube.com/pytexas
-
-https://global.pydata.org/pages/schedule
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
-https://forum.numfocus.org/pydata-global/channels/town-square
-
-https://github.com/FlaskCon/website | FlaskCon/website
-https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
-
-https://reinvent.awsevents.com/ | AWS re:Invent | Amazon Web Services
-
-https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
-
-https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
 -->
 
 <!--
@@ -324,18 +329,8 @@ https://github.com/pythonkc
 
 ## Open Source
 
-<!--
-GitHub and GitLab
-
-https://git-merge.com/ | Git Merge 2018 — March, Barcelona
-
-https://githubsatellite.com/
-https://github.com/githubevents/satellite2020/ | satellite2020/Satellite 2020 Presentations at master · githubevents/satellite2020
-
-https://securitylab.github.com/events
-
-https://www.meetup.com/GitHub-Presente/ | GitHub ¡Presente! : Evento virtual (São Paulo, Brazil) | Meetup
--->
+* [GitHub Security Lab GitHub Events](https://securitylab.github.com/events)
+* [GitHub ¡Presente! Meetup](https://www.meetup.com/GitHub-Presente/)
 
 <!--
 BazelCon 2019
@@ -473,13 +468,7 @@ Pacific Northwest
 * [PyCascades 2019 Website](https://2019.pycascades.com)
 
 <!--
-https://2020.pycascades.com/volunteer/
 https://2020.pycascades.com/
-https://2019.pycascades.com/grants/
-https://docs.google.com/forms/d/e/1FAIpQLSdfXmBqCbtDQFuiJzNQaHoiCTLDyu2eGQlXdTN6lgXpjkf9cg/viewform
-https://docs.google.com/forms/d/e/1FAIpQLSfE1Cn_n4dfYFDi64mVKR4NggD1Lcqw4fhtlviRONlMtM4UOw/viewform | PyCascades 2019 - Diversity Scholarships
-PyCascades Volunteer Sign Up
-http://pycascades.us15.list-manage.com/subscribe?u=910a586d174a45ddb1125ad4e&id=675d463df8
 -->
 
 Python US Conferences and Meetups- New York
@@ -611,26 +600,20 @@ https://twitter.com/amakarudze/status/1112826908960571392
 PyCon International- Middle East and Asia
 * [PyDelhi GitHub](https://github.com/pydelhi) and [PyDelhi Website GitHub](https://github.com/pydelhi/conference)
 * [Pune PyCon GitHub](https://github.com/PyConPune/pune.pycon.org)
-* [Python India GitHub](https://github.com/pythonindia)
+* [Python India](https://in.pycon.org/) and [Python India GitHub](https://github.com/pythonindia)
 * [PyCon Israel](http://il.pycon.org)
 * [PyCon Pakistan Facebook](https://www.facebook.com/PyConPakistan)
-* [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
+* [PyCon Turkey](https://tr.pycon.org/)
 * [PyCon China](https://cn.pycon.org/)
+* [PyCon Indonesia](https://pycon.jp/)
+* [PyCon Japan](https://pycon.id/)
+* [Python Philippines](https://pycon.python.ph) and [Python Philippines GitHub](https://github.com/pythonph)
 * [PyCon Taiwan GitHub](https://github.com/pycontw)
 * [PyCon Korea](https://www.pycon.kr/)
 
 <!--
-PyCon Japan
-https://pycon.jp/2020/en/
-
-PyCon Indonesia
-https://pycon.id/
-
 PyCon APAC 2020 (Asia-Pacific)
 https://pycon-apac-2020-online.peatix.com/
-
-https://tr.pycon.org/ | PyCon Turkey - May 2020
-https://in.pycon.org/2019/ | PyCon India 2019 in Chennai | October 12th to 15th
 
 https://www.townscript.com/e/pyconf-hyderabad-2019
 https://in.pycon.org/cfp/2019/proposals/
