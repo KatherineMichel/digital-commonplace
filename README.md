@@ -349,22 +349,6 @@ https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Ne
 <!--
 ## Portfolio Ideas
 
-https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
-
-Speaking at DevICT
-
-December 26
-https://www.python-fosdem.org/call-for-proposals/
-
-Speaking at Vancouver PyLadies
-https://www.meetup.com/PyLadies-Vancouver/events/273584092/
-https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
-
-Speaking at SF Python
-https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
-
-https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
-
 OS Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
 
@@ -684,7 +668,12 @@ https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community 
 https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
 https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
 
+
 ## Product
+
+https://www.fastcompany.com/3018559/pixars-22-rules-of-storytelling-visualized | Pixar’s 22 Rules of Storytelling–Visualized
+
+https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
 
 https://a16z.com/2020/10/18/doing-old-things-better-vs-doing-brand-new-things/ | Doing Old Things Better Vs. Doing Brand New Things - Andreessen Horowitz
 
@@ -747,46 +736,6 @@ https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experien
 
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
-
-## Design-y Stuff
-
-https://en.wikipedia.org/wiki/Bartle_taxonomy_of_player_types | Bartle taxonomy of player types - Wikipedia
-
-https://www.fastcompany.com/3018559/pixars-22-rules-of-storytelling-visualized | Pixar’s 22 Rules of Storytelling–Visualized
-
-https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
-
-https://github.com/LisaDziuba/Awesome-Design-Tools | LisaDziuba/Awesome-Design-Tools: The best design tools for everything.
-
-https://medium.com/@cap/the-design-system-decision-tree-edba9abdb83b | The Design System Decision Tree – Cap Watkins – Medium
-https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b | The 9 Rules of Design Research – Mule Design Studio – Medium
-
-https://principles.design/examples/ | Examples
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-https://lawsofux.com/ | Home | Laws of UX
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
-
-https://www.designsystems.com/
-https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
-https://designsystemchecklist.com/ | Design System Checklist
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-
-https://dropbox.design/article/mental-models-for-designers | Mental models for designers | Dropbox Design
-https://upcase.com/design-for-developers-resources/principles
-https://msdesignstorage.blob.core.windows.net/microsoftdesign/inclusive/InclusiveDesign_DesigningForGuidance.pdf | Designing for Guidance
-
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
-
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-
-https://refactoringui.com/previews/building-your-color-palette/ | Building Your Color Palette
-
-https://github.com/mmmonteiro/designethics/blob/master/en_US.m
-https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
-
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
 -->
 
 <!--
@@ -1147,35 +1096,14 @@ https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skil
 ## Technical Writing Tools
 
 <!--
-https://pyfound.blogspot.com/2020/04/cpython-documentation-next-5-years.html
-https://bugs.python.org/issue33649
-
-Season of Docs- Django
-https://developers.google.com/season-of-docs/docs/participants/ | Season of Docs  |  Google Developers
-https://opensource.googleblog.com/2020/03/season-of-docs-announces-successful.html
-
 https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
 
 https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
 
-https://realpython.com/write-for-us/ | Open Call for Authors and Editors: Python, Web Development, Data Science, and More – Real Python
-Open Source
-
-https://opensource.com/how-submit-article | Write for us | Opensource.com
 https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
-
-Digital Ocean
-https://www.digitalocean.com/community/pages/write-for-digitalocean
-https://bphogan.com/2020/06/20/2020-06-20-4-years-at-digitalocean/ | Four Years at DigitalOcean – bphogan.com
-
-Traversy Media
-https://twitter.com/traversymedia/status/1280879879169458177 | Brad Traversy on Twitter: "I am taking submissions on projects to be turned into tutorials (credit given) If interested, email projects@traversymedia.com with project description, github repo and URL (if live) Only projects that would make good tutorials (clear code, not too large, etc)" / Twitter
-
-https://next.egghead.io/write-for-egghead | Writing for egghead
-
 https://substack.com/content | Content Guidelines
 
-Free Code Camp
+Real Python, Digital Ocean, Traversy Media, Egghead, Free Code Camp
 -->
 
 <!--
@@ -1703,6 +1631,9 @@ https://github.com/jazibsawar?tab=repositories | jazibsawar (Jazib Sawar) / Repo
 https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
 https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
 
+Cosmic
+https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+
 Jake
 http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
 https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
@@ -1814,11 +1745,7 @@ Playgrounds
 * [CodePen Blog](https://blog.codepen.io/)
 
 <!--
-GitHub- Twitch
-https://www.twitch.tv/github | (6) GitHub - Twitch
-
 Great Dev Blogs
-https://www.twitch.tv/twitterdev
 https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
 
 Twilio
@@ -1836,7 +1763,6 @@ https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Commun
 https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
 https://mongodb.libsyn.com/ | The MongoDB Podcast
 https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
-https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
 
 https://oo.t9t.io/organizations | Open companies
 
@@ -1857,26 +1783,35 @@ https://dev.to/heroku/
 
 ## Streaming
 
+Twitch Streams
+* [Brian Douglas Twitch](https://www.twitch.tv/bdougieyo) and [Brian Douglas YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg)
+* [Michelle Mannering Twitch](https://www.twitch.tv/mishmanners)
+* [Anthony Sottile Twitch](https://www.twitch.tv/anthonywritescode) and [Anthony Sottile YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+
 Streamers
 * [Brian Douglas GitHub](https://github.com/bdougie/)
 * [Mish Manners GitHub](https://github.com/MishManners) and [Mish Manners Twitter](https://twitter.com/MishManners)
 
 <!--
+GitHub- Twitch
+https://www.twitch.tv/github | (6) GitHub - Twitch
+https://www.twitch.tv/twitterdev
+https://www.twitch.tv/twilio
+https://www.twitch.tv/team/twilio
+
 https://www.twitch.tv/directory/following
 
 https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
 
 Brian Douglas
 https://www.bdougie.live/ | bdougie.live
-https://www.twitch.tv/bdougieyo | bdougieYO - Twitch
 https://github.com/bdougie/blog | bdougie/blog: My blog
 https://twitter.com/bdougieYO
-https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg?sub_confirmation=1
+
+https://github.com/bdougie/github-actions-continuous-delivery
 
 https://twitter.com/saucedopen/
 https://www.meetup.com/Open-Sauced-Meetup/
-
-https://github.com/bdougie/github-actions-continuous-delivery
 https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
@@ -2443,13 +2378,12 @@ https://github.com/btholt/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://btholt.github.io/intro-to-web-dev-v2/
 https://github.com/btholt/intro-to-web-dev-v2
+
 https://btholt.github.io/complete-intro-to-containers/
 https://github.com/btholt/complete-intro-to-containers
 https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
 
 https://frontendmasters.com
-
-https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
 
 https://codepen.io/btholt/ | Brian Holt on CodePen
 http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
@@ -2457,7 +2391,9 @@ http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Scien
 Front End Masters Handbook
 https://github.com/FrontendMasters/front-end-handbook-2019
 https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer Handbook 2019 - Written By Cody Lindley sponsored by Frontend Masters
+
 https://frontendmasters.com/books/javascript-enlightenment/ | JavaScript (ES2015+) Enlightenment
+https://frontendmasters.com/workshops/design-for-devs/ | Design for Developers
 
 
 Recommendation
@@ -2852,12 +2788,106 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expression
 
 
 
+<!--
+## Design-y Stuff
+
+https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
+
+https://github.com/LisaDziuba/Awesome-Design-Tools | LisaDziuba/Awesome-Design-Tools: The best design tools for everything.
+
+https://medium.com/@cap/the-design-system-decision-tree-edba9abdb83b | The Design System Decision Tree – Cap Watkins – Medium
+https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b | The 9 Rules of Design Research – Mule Design Studio – Medium
+
+https://www.designsystems.com/
+https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
+https://designsystemchecklist.com/ | Design System Checklist
+https://designsystemchecklist.com/category/design-language/ | Design System Checklist
+
+https://dropbox.design/article/mental-models-for-designers | Mental models for designers | Dropbox Design
+https://upcase.com/design-for-developers-resources/principles
+https://msdesignstorage.blob.core.windows.net/microsoftdesign/inclusive/InclusiveDesign_DesigningForGuidance.pdf | Designing for Guidance
+
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
+
+https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
+Design Centered Design
+
+https://refactoringui.com/previews/building-your-color-palette/ | Building Your Color Palette
+
+https://github.com/mmmonteiro/designethics/blob/master/en_US.m
+https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
+
+https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
+-->
+
+
+## Mozilla and Google- General Docs
+
+Mozilla- Documentation
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Developer Web Tools](https://developers.google.com/web/tools)
+
+Glossaries
+* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+
+<!--
+https://principles.design/examples/ | Examples
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+https://lawsofux.com/ | Home | Laws of UX
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+
+https://web.dev/ | web.dev  |  web.dev
+
+https://developers.google.com/web/tools/chrome-devtools/
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+-->
+
+## Mozilla- JavaScript
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+-->
+
+
 ## Google Chrome Dev Tools
 
 <!--
 https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
 
 https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
+
+
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
 
 
 https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
@@ -2869,25 +2899,11 @@ https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Stateme
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
 
-https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
-
 https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/setup/setup-workflow | Set Up Persistence with DevTools Workspaces  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
 
 https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
 https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
 https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
 -->
 
 ## JavaScript Performance
@@ -2912,26 +2928,50 @@ Measure
 Semantics/SEO/Accessibility
 * [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
-<!--
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-
-https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
-
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
--->
-
 ## Design
 
 <!--
+CodePen
+
+https://www.nngroup.com/articles/ten-usability-heuristics/
+https://www.nngroup.com/articles/ux-research-cheat-sheet/
+https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+https://www.nngroup.com/articles/benchmarking-ux/
+
 https://developers.google.com/web/showcase
 
 The Mobile Site Benchmark Study
 https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-
 https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
+
+## Accessibility
+
+<!--
+https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
+
+Official specification
+https://www.w3.org/TR/wai-aria/
+https://www.w3.org/TR/WCAG21/
+https://www.w3.org/WAI/test-evaluate/preliminary/
+
+https://webaim.org/standards/wcag/checklist
+https://www.wuhcag.com/wcag-checklist/
+
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+
+https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
+
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+
+https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
+-->
+
 
 
 <!--
@@ -2983,15 +3023,12 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 <!--
 ## HTMl and CSS
 
-https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
-https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
-
 https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
 
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
 https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
 
 https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
 
 https://stateofcss.com/ | The State of CSS Survey
 https://stateofjs.com/
@@ -3089,28 +3126,6 @@ https://javascript.info/debugging-chrome | Debugging in Chrome
 
 https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
 https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
--->
-
-
-## Mozilla and Google- General Docs
-
-Mozilla- Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
-* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Developer Web Tools](https://developers.google.com/web/tools)
-
-Glossaries
-* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
-
-<!--
-https://web.dev/ | web.dev  |  web.dev
 -->
 
 
@@ -3250,22 +3265,6 @@ Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
 -->
 
-
-## Mozilla- JavaScript
-
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
-
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
--->
 
 ## Mozilla- JavaScript APIs Reference
 
