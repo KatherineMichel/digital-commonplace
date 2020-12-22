@@ -1,6 +1,14 @@
 # Events
 
 <!--
+https://twitter.com/hashtag/djangocon
+
+PyData
+https://global.pydata.org/pages/schedule | PyData Global 2020
+https://global.pydata.org/pages/program | PyData Global 2020
+https://global.pydata.org/pages/talk_release_schedule#nov-11 | PyData Global 2020
+https://forum.numfocus.org/pydata-global/channels/town-square | (26) * General - PyData Global NumFOCUS Forum
+
 https://www.ces.tech/
 https://websummit.com/speakers| Web Summit | Lisbon | Meet Web Summit's 2020 speakers | December 2-4, 2020
 
@@ -236,11 +244,7 @@ Google OS
 https://opensourcelive.withgoogle.com/events/new-open-source | Home - The new open source
 
 CHAOSS
-
-http://www.redhatagileday.com/ | Red Hat Agile Day
-
-Sustain OSS
-https://sustainoss.org/events/
+https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
 
 OSS Summit
 https://www.oreilly.com/conferences/oscon.html
@@ -269,6 +273,7 @@ https://events.linuxfoundation.org/
 Linux Conf AU
 https://events.linuxfoundation.org/lf-legal-summit/ | The Linux Foundation Legal Summit | Linux Foundation Events
 https://events.linuxfoundation.org/open-source-summit-north-america/
+https://events.linuxfoundation.org/open-source-summit-north-america/program/schedule/ | Schedule | Linux Foundation Events
 https://events.linuxfoundation.org/open-source-summit-europe/register/ | Register | Linux Foundation Events
 https://www.youtube.com/watch?v=xdpAlB-xeEY&feature=emb_logo
 -->
@@ -329,6 +334,8 @@ DjangoCon Europe Photos
 * [DjangoCon Europe Photos (Bartek Pawlik)](https://www.flickr.com/photos/140681500@N07/albums)
 
 <!--
+https://github.com/djangocon/2020.djangocon.africa | djangocon/2020.djangocon.africa: The DjangoCon Africa 2020 conference website
+
 https://github.com/pythonghana/pyconghana2018 | pythonghana/pyconghana2018: Python Ghana Conference 2018 website
 
 https://github.com/rixx/djangocon-europe-18-blog | rixx/djangocon-europe-18-blog
@@ -551,6 +558,8 @@ PyData- Regional Events and Meetups
 * [SciPy LA](https://conf.scipyla.org)
 
 <!--
+https://github.com/pydataglobal/pydataglobal.github.io | pydataglobal/pydataglobal.github.io: The front-end for global.pydata.org
+
 https://github.com/pydata/conf_site
 https://scipy2018.scipy.org/ehome/299527/648141/ | Sprints | SciPy 2018 Conference
 https://docs.google.com/forms/d/e/1FAIpQLSefj325nEwZSArxzEq3BOJdE6L3weMsBZJSDUS_61T7w3t3hw/viewform | SciPy 2018 Program Committee Interest Form
