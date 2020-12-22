@@ -49,6 +49,8 @@ https://twitter.com/kaichang/status/1328587723259715586 | 🈲 Punished Chang �
 
 https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
 
+https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
+
 
 ## Learning
 
@@ -118,107 +120,6 @@ Demos
 http://en.wikipedia.org/wiki/Vlog
 Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
-
-
-## Conferences
-
-https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
-
-DevICT
-https://www.meetup.com/devict/
-
-Dec 7
-https://twitter.com/JennyMEvents/status/1331090793000407041 | JennyMEvents on Twitter: "Event gold right here! Attn #Data #DataScience #DataAnalytics beginners, pros, &amp; the forever curious. See you all on Dec 7th!" / Twitter
-
-December 8-10
-https://githubuniverse.com/
-
-Octoverse
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
-
-GitHub and GitLab
-https://www.meetup.com/GitHub-Virtual-Meetup/ | GitHub Virtual Meetup (San Francisco, CA) | Meetup
-https://about.gitlab.com/blog/2020/11/19/gitlab-community-day/ | Join the first GitLab Community Day and get started with CI | GitLab
-
-https://pyjamas.live/ | Pyjamas 2020
-https://2021.pycascades.com/news/1-tickets-available/ | Tickets are now available 📣 🎟
-https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
-https://www.youtube.com/pytexas
-
-DevICT
-https://www.grooverlabs.org/events | Events | Groover Labs
-https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
-
-SF Python
-https://www.youtube.com/c/SFPython/videos
-https://www.sfpythonmeetup.com/ | SF Python
-https://www.meetup.com/sfpython/
-https://twitter.com/sfpythonmeetup | sfpythonmeetup (@sfpythonmeetup) / Twitter
-https://www.meetup.com/PyLadiesSF/
-https://twitter.com/pyladiessf
-https://www.meetup.com/Twitter-Engineering/events/past/ | Past Events | Twitter Engineering (San Francisco, CA) | Meetup
-
-SF Python Meetup Slack
-https://app.slack.com/client/T0CTW6ES0/C0CTW76R1
-https://sfpythonmeetup.slack.com/
-
-SF Django
-https://www.meetup.com/The-San-Francisco-Django-Meetup-Group/
-https://twitter.com/sfdjangomeetup
-
-Django London
-https://www.meetup.com/djangolondon/ | The Django London Meetup Group (London, United Kingdom) | Meetup
-
-PyLadies Florida
-https://www.meetup.com/PyLadies-SWFL/ | PyLadies SWFL (Naples, FL) | Meetup
-https://www.meetup.com/Miami-PyLadies/
-
-San Diego Python
-https://www.meetup.com/pythonsd/
-https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
-
-Seattle PyLadies
-https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
-
-Women Who Code SF
-https://twitter.com/wwcsf | https://twitter.com/wwcsf
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-* [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
-
-https://www.meetup.com/__PyMX__/?_locale=es | PyMX (México City, Mexico) | Meetup
-https://twitter.com/__PyMX__ | PyMX (@__PyMX__) / Twitter
-
-
-https://pyvideo.org/ | PyVideo.org
-https://github.com/python-organizers/conferences/blob/master/2020.csv
-https://www.python.org/events/python-events/past/?page=2
-https://www.python.org/events/python-user-group/ | Our Events | Python.org
-https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
-
-PyCon
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
-https://pycon.blogspot.com/2020/12/announcing-pycon-us-2021.html | Announcing PyCon US 2021
-
-https://global.pydata.org/pages/schedule
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
-https://forum.numfocus.org/pydata-global/channels/town-square
-
-https://reinvent.awsevents.com/ | AWS re:Invent | Amazon Web Services
-
-Videos
-https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
-
-
-https://twitter.com/fimion/status/1339751695463698432 | Alex Riviere on Twitter: "Best video from Next.js Conf got uploaded finally! https://t.co/u0mLHHtNck" / Twitter
-https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
 
 
 ## DevRel
@@ -339,6 +240,124 @@ https://slidesgo.com/
 https://www.flaticon.com/
 https://www.freepik.com/
 https://stories.forpeople.studio/
+-->
+
+<!--
+## Community
+
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Rusts Community automation
+https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
+http://talks.edunham.net/ | Index of /
+http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
+https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+Talks
+https://twitter.com/simonw/status/1300193439573708800
+
+Mariatta
+https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
+https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
+https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
+
+Mariatta
+https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitter: "Just published my talk Demystifying Public Speaking from last night's @pyladiesvan to @YouTube https://t.co/tQ7ZyvfqPc (13 minutes long)" / Twitter
+
+https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
+https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
+-->
+
+
+<!--
+## Of Interest
+
+http://stackshare.io/posts/
+
+https://us.pycon.org/2020/schedule/talks/
+
+https://techyaks.com/python-year-tytop.html
+
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+
+Octoverse
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
+
+
+Style Guide
+https://www.theguardian.com/guardian-observer-style-guide-q | Guardian and Observer style guide: Q | Info | The Guardian
+
+https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
+
+https://rcstyleguide.com/ | The Responsible Communication Style Guide
+
+Error Messages
+https://style.tidyverse.org/error-messages.html | 7 Error messages | The tidyverse style guide
+
+
+pytest
+https://docs.pytest.org/
+https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
+https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
+
+Contributing
+https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+
+https://docs.microsoft.com/en-us/learn/
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+
+Hanselman
+https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
+https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
+
+https://www.figma.com/ | Figma: the collaborative interface design tool.
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+
+https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
+
+Divio Docs, GitHub Docs
+
+https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+https://carpentries.org/
+
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+-->
+
+
+<!--
+### Docs
+
+Speaking at DevICT
+
+December 26
+https://www.python-fosdem.org/call-for-proposals/
 
 Speaking at Vancouver PyLadies
 https://www.meetup.com/PyLadies-Vancouver/events/273584092/
@@ -348,6 +367,80 @@ Speaking at SF Python
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
 
 
+https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
+
+https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
+
+Hackathon
+https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
+
+https://leaddev.com/
+
+https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
+
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
+
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+https://www.simple.org/ | Home Simple
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+
+Learning
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI
+
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+
+http://www.collaborativefund.com/blog
+https://search.firstround.com/lists
+-->
+
+
+<!--
 ## Learning
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
@@ -573,6 +666,12 @@ Python security
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
 
+Security
+https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
+Dark PDF and light PDF
+https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
+https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
+
 
 ## Social Media
 
@@ -701,18 +800,6 @@ https://amitness.com/2019/08/math-for-programmers/
 
 Strategy pattern
 https://twitter.com/joelnet/status/1256229458295619585
-
-
-Security
-https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
-Dark PDF and light PDF
-https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
-https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
 
 
 ## Look Through
@@ -849,6 +936,11 @@ https://prestodb.io/
 
 https://en.wikipedia.org/wiki/POSIX
 https://pop.system76.com/
+
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
 
 
 Mac Scrips
@@ -1033,190 +1125,9 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
-<!--
-## Community
-
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Rusts Community automation
-https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
-http://talks.edunham.net/ | Index of /
-http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
-https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
-
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-Mariatta
-https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
-https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
-https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-Mariatta
-https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitter: "Just published my talk Demystifying Public Speaking from last night's @pyladiesvan to @YouTube https://t.co/tQ7ZyvfqPc (13 minutes long)" / Twitter
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
--->
-
-<!--
-## Of Interest
-
-Style Guide
-https://www.theguardian.com/guardian-observer-style-guide-q | Guardian and Observer style guide: Q | Info | The Guardian
-
-https://rcstyleguide.com/ | The Responsible Communication Style Guide
-
-Error Messages
-https://style.tidyverse.org/error-messages.html | 7 Error messages | The tidyverse style guide
-
-
-pytest
-https://docs.pytest.org/
-https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
-https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
-
-Contributing
-https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
-
-https://docs.microsoft.com/en-us/learn/
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
-
-PWA
-https://github.com/GoogleChrome/workbox | GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps
-
-Hanselman
-https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
-https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
-
-Jason
-https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-
-https://www.figma.com/ | Figma: the collaborative interface design tool.
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
-
-https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
-
-Divio Docs, GitHub Docs
-
-https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-https://carpentries.org/
-
-https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
-
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-
-https://www.snowpack.dev/
-https://nim-lang.org/
-
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
--->
-
 ## Eldarion
 
 ## Portfolio Ideas
-
-<!--
-### Docs
-
-https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
-
-December 26
-https://www.python-fosdem.org/call-for-proposals/
-
-https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
-
-Hackathon
-https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
-
-https://leaddev.com/
-
-https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
-
-https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
-
-https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-https://www.simple.org/ | Home Simple
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
-
-
-Learning
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
-Feross
-https://www.youtube.com/watch?v=XTcqlOFhpPI
-
-https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-
-http://www.collaborativefund.com/blog
-https://search.firstround.com/lists
--->
 
 ## Code Challenges
 
@@ -1548,12 +1459,6 @@ List of Engineering Blogs
 https://github.com/KatherineMichel/organizations
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-http://stackshare.io/posts/
-
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
 -->
 
 Python Success Stories
@@ -2326,6 +2231,9 @@ https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
 https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
 Twitter sentiment analysis
 https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
+
+Jason
+https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
 
 Git Tools
 https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
@@ -3769,6 +3677,9 @@ Training
 * [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
 
 <!--
+PWA
+https://github.com/GoogleChrome/workbox | GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps
+
 Progressive Web Apps
 https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
 https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
@@ -3869,6 +3780,8 @@ Create React App
 * [Create React App GitHub](https://github.com/facebook/create-react-app)
 
 <!--
+https://www.snowpack.dev/
+
 Next (React) and Nuxt (Vue)
 
 https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
@@ -3919,6 +3832,10 @@ Scala
 
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!--
+https://nim-lang.org/
+-->
 
 ## JAMStack
 
