@@ -44,8 +44,22 @@ https://djangoday.dk/talks/evolution-of-a-view-point/
 
 https://github.com/PyLadiesCZ/roboprojekt | PyLadiesCZ/roboprojekt: Projekt PyLadies Brno 2018
 https://github.com/DutchDjangoAssociation/djangovereniging.nl
--->
 
+
+Important
+https://www.globaldiversitycfpday.com/ | Global Diversity CFP Day
+
+Pretty Website
+http://belpy.in/ | BelPy 2021 | Home
+
+https://python.geekle.us/ | Python Universe WEB Edition Global Summit online by Geekle
+
+https://speakerdeck.com/pycon2018?page=2
+
+Bazel
+https://bazel.build/ | Bazel - a fast, scalable, multi-language and extensible build system" - Bazel
+https://opensourcelive.withgoogle.com/events/bazelcon2020 | Home - BazelCon 2020
+-->
 
 
 ## Talk Aggregation
@@ -110,124 +124,6 @@ https://twitter.com/Transition/lists/python-communities/members | List members
 https://github.com/jonatasbaldin/python-community-map | jonatasbaldin/python-community-map: A map full of lovely Python communities ❤️🐍🌎
 -->
 
-## To Watch
-
-<!--
-PyData
-https://pydata.org/la2020/
-https://www.scipy2020.scipy.org/schedule
-
-https://www.meetup.com/pro/pydata/ | PyData | Meetup Pro - Meetup
-https://www.meetup.com/PyDataNYC/
-https://jupytercon.com/program/ | JupyterCon2020
-https://twitter.com/hashtag/JupyterCon2020?src=hashtag_click | #JupyterCon2020 - Twitter Search / Twitter
-
-
-PyColorado
-https://www.youtube.com/channel/UC8D8-zQbn9dOvUKtmsFnpGw/videos | PyColorado - YouTube
-
-PyLondinium
-https://www.youtube.com/channel/UCHh7vOesookNhYvupCCcJxA/videos | PyLondinium - YouTube
-
-PyCon UK
-https://www.youtube.com/channel/UChA9XP_feY1-1oSy2L7acog/videos | PyCon UK - YouTube
-
-
-https://pyjamas.live/ | Pyjamas 2020
-
-https://github.com/FlaskCon/website | FlaskCon/website
-https://www.youtube.com/channel/UC3QC5pASs8v5YVxKwJDtZeQ/videos | FlaskCon 2020 - YouTube
-
-https://reinvent.awsevents.com/ | AWS re:Invent | Amazon Web Services
-
-Next.js Conf
-https://nextjs.org/conf/schedule | Schedule – Next.js Conf
-https://www.youtube.com/watch?v=1-NzQ9ObsfM&list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD
-https://www.youtube.com/watch?list=PLBnKlKpPeagnT2Cmv4giCbosfrbKnuYTD&v=NXedb2z7N-4&feature=emb_logo
-
-https://www.youtube.com/watch?app=desktop&v=Q54uNN4SRAE | (6) State of the Source 2020: GPL Exceptions: Filling the Spaces between GPL, LGPL & permissive licenses - YouTube
-
-
-December 8-10
-https://githubuniverse.com/
-https://githubuniverse.com/schedule/ | Schedule | GitHub Universe · Virtual 2020 · Dec 8 - 10, 2020
-https://www.youtube.com/c/GitHub/playlists
-
-https://global.pydata.org/pages/schedule
-https://courses.numfocus.org/courses/course-v1:PyDataGlobal+PDG20-talks+2020/course/
-https://forum.numfocus.org/pydata-global/channels/town-square
-
-PyTexas 2020
-https://www.pytexas.org/
-https://www.youtube.com/pytexas
-https://www.youtube.com/playlist?list=PL0MRiRrXAvRgAFCdfHUcw8PNPqS7ux_BK | (1) PyTexas 2020 - YouTube
-
-October 2-3
-PyGotham 2019
-https://2020.pygotham.tv/talks/
-https://www.youtube.com/channel/UCTFmuFVfQA8Fl2SzKERFodQ/videos
-
-DjangoCon Europe
-https://2020.djangocon.eu/
-https://cfp.2020.djangocon.eu/porto/schedule/
-https://cfp.2020.djangocon.eu/porto/talk/X38KZG/ | Search Options in Django :: DjangoCon Europe 2020 :: pretalx
-https://djc2020.loudswarm.com/sessions | DjangoCon Europe 2020
-https://www.youtube.com/user/djangoconeurope/videos | DjangoCon Europe - YouTube
-
-PyCon AU
-https://2020.pycon.org.au/program/
-https://www.youtube.com/c/PyConAU/videos | (5) PyCon AU - YouTube
-
-PyOhio
-https://www.pyohio.org/2020/
-https://www.pyohio.org/2020/events/schedule/
-https://www.youtube.com/playlist?list=PL2k6bbM_wgjtGSzPXzUzP3AfVO-o4imbB | PyOhio 2020 - YouTube
-
-Python Web Conf 2020
-https://2020.pythonwebconf.com/
-https://www.youtube.com/playlist?list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4- | Python Web Conf 2020 Talks + Tutorials - YouTube
-
-EuroPython
-https://ep2020.europython.eu/
-https://ep2020.europython.eu/events/
-https://ep2019.europython.eu/events/ | Program / Events & EuroPython 2019 · Basel, Switzerland, 8-14 July 2019
-https://www.youtube.com/c/EuroPythonConference | EuroPython Conference - YouTube
-https://www.youtube.com/channel/UC98CzaYuFNAA_gOINFB0e4Q | EuroPython Conference - YouTube
-
-https://us.pycon.org/2020/remote/
-https://www.youtube.com/c/PyCon2020 | (1) PyCon 2020 - YouTube
-https://www.youtube.com/channel/UCMjMBMGt0WJQLeluw6qNJuA
-
-PyCon
-https://pyvideo.org/events/pycon-us-2019.html
-https://us.pycon.org/2019/schedule/talks/ | Talks Schedule | PyCon 2019 in Cleveland, Ohio
-https://speakerdeck.com/pycon2019?page=1
-https://www.youtube.com/channel/UCxs2IIVXaEHHA4BtTiWZ2mQ/videos
-
-PyCon Africa
-https://africa.pycon.org/schedule/
-https://www.youtube.com/watch?v=43wJnYZ6Zd0&feature=youtu.be
-
-PyTennessee
-http://2020.pytennessee.org/schedule
-
-PyBeach
-https://2020.pybeach.org/schedule/ | PyBeach 2020: Saturday, February 29, 2020, Los Angeles, California
-
-PyCascades
-https://2020.pycascades.com/schedule/
-https://www.youtube.com/channel/UCtWI06j1EADmEOGj2iJhSyA | PyCascades - YouTube
-
-North Bay Python
-https://2019.northbaypython.org/schedule/
-https://www.youtube.com/channel/UCLc1vUexbRTlRBJcUG9U6ug/videos
-
-PyCon Canada
-https://2019.pycon.ca/schedule-day-1/ | Schedule - Day 1 | PyCon Canada 2019
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg/videos
-https://www.youtube.com/channel/UCclkPrurwUP_ajqi3vDTNDg
--->
-
 ## Keeping Tabs On
 
 GitHub
@@ -238,32 +134,28 @@ PyLadies
 * [PyLadies Remote YouTube Webcasts](https://www.youtube.com/channel/UCyVogtilYlp1B1ZeFdnmDxQ)
 
 <!--
+PyCascades
+https://2021.pycascades.com/
+
+PyCon
+https://pycon.blogspot.com/2020/12/announcing-pycon-us-2021.html | Announcing PyCon US 2021
+https://us.pycon.org/2020/schedule/talks/ | PyCon US
+https://us.pycon.org/2020/hatchery/maintainers/ | PyCon US
+
 DjangoCon US
 https://2020.djangocon.us/
 https://www.youtube.com/DjangoConUS
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
 
-https://pycon.blogspot.com/2020/12/announcing-pycon-us-2021.html | Announcing PyCon US 2021
-
-PyCon
-https://us.pycon.org/2020/schedule/talks/ | PyCon US
-https://us.pycon.org/2020/hatchery/maintainers/ | PyCon US
-
 https://www.papercall.io/pytn-2021 | PaperCall.io - PyTennessee 2021
 https://2021.pytennessee.org/ | PyTennessee returns March 5, 2021
+
+https://2021.pythonwebconf.com/ | Python Web Conference 2021
 -->
 
 <!--
-## Conferences
-
 https://www.writethedocs.org/ | Welcome to our community! — Write the Docs
 
-PyCascades
-https://2021.pycascades.com/news/1-tickets-available/ | Tickets are now available 📣 🎟
-https://pretalx.com/pycascades-2021/login/?next=/pycascades-2021/cfp
--->
-
-<!--
 GitHub and GitLab
 https://www.meetup.com/GitHub-Virtual-Meetup/ | GitHub Virtual Meetup (San Francisco, CA) | Meetup
 https://github.com/githubevents | GitHub Events
@@ -307,6 +199,10 @@ https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Pyth
 
 Seattle PyLadies
 https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
+
+Every Friday
+https://speakeasyjs.com/talks | Past Talks - Speakeasy JS
+https://twitter.com/Speakeasy_JS/
 -->
 
 ### Wichita and Kansas City
