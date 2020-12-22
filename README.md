@@ -188,6 +188,30 @@ Website for Me
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 Jekyll Themes
 
+### Talks
+
+https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
+https://github.com/matteofigus/awesome-speaking
+
+https://slidesgo.com/editors-choice
+https://www.canva.com/presentations/templates/
+
+https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
+
+Vicky
+https://www.meetup.com/Code-for-Philly/events/273595264/ | Technical Blogging with Vicki Boykis | Meetup
+https://slidesgo.com/editors-choice | Free Editor's Choice Google Slides themes and PPT templates
+https://i.imgur.com/WRuJV6rl.png | WRuJV6rl.png (640×494)
+
+October 6
+https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
+https://www.meetup.com/Code-for-Philly/events/273595264/
+https://drive.google.com/file/d/1KADdmnjeC14d3fIaP7sWDAMj9ZzDksf1/view
+https://slidesgo.com/
+https://www.flaticon.com/
+https://www.freepik.com/
+https://stories.forpeople.studio/
+
 ### Community
 
 https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
@@ -217,32 +241,6 @@ https://twitter.com/dantley/status/1337550168980217856 | Dantley Davis on Twitte
 
 https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
 
-### Talks
-
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-https://github.com/matteofigus/awesome-speaking
-
-https://slidesgo.com/editors-choice
-https://www.canva.com/presentations/templates/
-
-https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
-
-Vicky
-https://www.meetup.com/Code-for-Philly/events/273595264/ | Technical Blogging with Vicki Boykis | Meetup
-https://slidesgo.com/editors-choice | Free Editor's Choice Google Slides themes and PPT templates
-https://i.imgur.com/WRuJV6rl.png | WRuJV6rl.png (640×494)
-
-October 6
-https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
-https://www.meetup.com/Code-for-Philly/events/273595264/
-https://drive.google.com/file/d/1KADdmnjeC14d3fIaP7sWDAMj9ZzDksf1/view
-https://slidesgo.com/
-https://www.flaticon.com/
-https://www.freepik.com/
-https://stories.forpeople.studio/
--->
-
-<!--
 ## Community
 
 https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
@@ -333,9 +331,6 @@ https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Ver
 
 Divio Docs, GitHub Docs
 
-https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-https://carpentries.org/
-
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
 
 https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
@@ -352,7 +347,9 @@ https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Ne
 
 
 <!--
-### Docs
+## Portfolio Ideas
+
+https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
 
 Speaking at DevICT
 
@@ -366,29 +363,33 @@ https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA
 Speaking at SF Python
 https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
 
-
-https://www.outreachy.org/apply/ | Apply to Outreachy - Outreach
-
 https://twitter.com/kjaymiller/status/1334627980505534464 | Jay Miller - #BlackLivesMatter on Twitter: "I should include that if are in any of the following: - never spoke at a meetup/conference - new to the Elastic Stack - ANY underrepresented group in tech I will volunteer to help you with your presentation." / Twitter
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
 
 Hackathon
 https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
 
-https://leaddev.com/
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+Reminds me of Jessica Rose
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
 
-https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+Awesome
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
 
 As CTO
 https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
 
 https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
 
 This is great!
 https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
@@ -401,10 +402,15 @@ Community engineering
 https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
 https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
 
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+https://leaddev.com/
+
 
 https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
 
 https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
 https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
@@ -412,14 +418,7 @@ https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "
 https://github.com/HangarOrg/
 https://github.com/HangarOrg/sphinx-netlify-cicd
 
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
 https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
 
 
 Learning
@@ -431,9 +430,6 @@ Feross
 https://www.youtube.com/watch?v=XTcqlOFhpPI
 
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 http://www.collaborativefund.com/blog
 https://search.firstround.com/lists
@@ -454,7 +450,11 @@ https://codebuddies.org/about | CodeBuddies | About
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
 
 https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
+
 https://carpentries.github.io/instructor-training/ | Instructor Training
+
+https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+https://carpentries.org/
 
 
 http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
@@ -1127,8 +1127,6 @@ https://github.com/carljm/dotfiles
 
 ## Eldarion
 
-## Portfolio Ideas
-
 ## Code Challenges
 
 Practice
@@ -1184,7 +1182,6 @@ Free Code Camp
 https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
 https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
 
-
 https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
 
 Interesting
@@ -1197,10 +1194,9 @@ http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
 https://opensourcesurvey.org/2017/
 https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 
+
 https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
 https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
-
-https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
 
 https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
@@ -1227,7 +1223,10 @@ https://docs.fast.ai/gen_doc_main.html
 https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
 https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
 
+
 https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
+
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
 
 Docusaurus
 https://v2.docusaurus.io/docs/installation
