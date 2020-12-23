@@ -290,6 +290,8 @@ https://cmxhub.com/ | Home | CMX
 
 Articles
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+https://blog.jetbrains.com/pycharm/
+
 https://blog.jetbrains.com/pycharm/2020/12/let-s-build-a-fast-modern-python-api-with-fastapi-additional-materials/ | Let's build a fast, modern Python API with FastAPI – additional materials | JetBrains Blog
 
 SEO
@@ -300,6 +302,7 @@ https://moz.com/ | Moz - SEO Software for Smarter Marketing
 https://begin.com/ | Begin
 https://github.com/WebReflection/uland#readme | WebReflection/uland: A µhtml take at neverland
 https://arc.codes/docs/en/guides/get-started/quickstart
+https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
 
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
@@ -832,18 +835,6 @@ https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 -->
 
 <!--
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://amitness.com/2019/08/math-for-programmers/
-
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
-
-
 ## Look Through
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
@@ -919,12 +910,22 @@ Extract till you drop
 https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
 
 
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://amitness.com/2019/08/math-for-programmers/
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+
 AWS
 https://www.awsgeek.com
 
 https://applitools.com/
-
-https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
