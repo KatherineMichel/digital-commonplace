@@ -374,7 +374,6 @@ https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
-
 https://docs.microsoft.com/en-us/learn/
 
 AWS
@@ -399,13 +398,17 @@ https://thisdeveloperslife.com/ | This Developer's Life - Stories About Develope
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
 
 
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+https://www.w3.org/DesignIssues/Architecture.html
 
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 Octoverse
 https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
+
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
 
 Divio Docs, GitHub Docs
@@ -464,10 +467,6 @@ https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
 ## Miscellaneous Tech
-
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-https://www.w3.org/DesignIssues/Architecture.html
 
 vscode html css support - Google Search
 
@@ -1478,8 +1477,6 @@ https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Googl
 
 https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
 
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
-
 https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
 
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
@@ -1955,8 +1952,6 @@ Python Articles and Tutorials
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
-
 http://stackshare.io/posts/
 
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
@@ -2185,7 +2180,6 @@ https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny 
 
 https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
 
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
 https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
@@ -2271,6 +2265,11 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
 https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
 
 https://repl.it/@KatherineMichel/
@@ -2456,7 +2455,6 @@ https://docs.divio.com/en/latest/introduction/#introduction
 https://docs.divio.com/en/latest/how-to/django-create-deploy/
 https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
 https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
-
 
 
 https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
@@ -2831,6 +2829,17 @@ Divio Docs
 https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
 
 
+https://en.wikipedia.org/wiki/Use_case
+https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
+
+
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 https://explorers.netlify.com/
@@ -2852,17 +2861,6 @@ https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on T
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-
-https://en.wikipedia.org/wiki/Use_case
-https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
 
 
 https://github.com/btholt | btholt (Brian Holt) / Repositories
@@ -2918,6 +2916,8 @@ https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript
 https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
 https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
 
+
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 
 https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
 
@@ -3044,6 +3044,66 @@ https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
 Guido
 https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
 https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
+-->
+
+## You Might Not Need
+
+You Might Not Need
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
+* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
+
+jQuery
+* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+
+<!--
+https://github.com/phuoc-ng/html-dom
+
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
+-->
+
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+<!--
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+
+arrow function
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
+
+https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
 -->
 
 <!--
@@ -3335,50 +3395,6 @@ https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
 https://flexboxfroggy.com/
 -->
 
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
-
-arrow function
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
-
-https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
--->
-
-
 ## Mozilla- JavaScript APIs Reference
 
 Web APIs
@@ -3531,24 +3547,6 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
 -->
 
-
-## You Might Not Need
-
-You Might Not Need
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
-* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
-
-jQuery
-* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
-
-<!--
-https://github.com/phuoc-ng/html-dom
-
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
--->
 
 <!--
 ## Dev Tools and Standards
