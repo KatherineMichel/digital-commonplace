@@ -475,9 +475,6 @@ Mac
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
 
 
-Martin
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
-
 Interesting
 https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
 
@@ -1343,6 +1340,8 @@ https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastru
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
 
 https://martinfowler.com/articles/collection-pipeline/
+
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
 -->
 
 ## General Software Design Patterns
@@ -1468,6 +1467,11 @@ https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 
 https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
 
 https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+-->
+
+
+<!--
+Google
 
 https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
 https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
@@ -1591,19 +1595,12 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 ## Case Studies
 
 <!--
-https://explorers.netlify.com/
-https://explorers.netlify.com/learn/launching-with-composition-api?utm_source=twitter&utm_medium=compapi-bh&utm_campaign=devex | Launching with Composition API - Jamstack Explorers
-
-https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
-
-Netlify
-https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
-https://twitter.com/wesbos/status/1335986088263946240 | https://twitter.com/wesbos/status/1335986088263946240
-https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
-
 Sarah
 https://vuejs.org/v2/guide/ | Introduction — Vue.js
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Netlify
+https://million-devs.netlify.com/
 https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
 
 Next
@@ -1613,7 +1610,6 @@ Interesting
 https://nextjs.org/docs/migrating/from-gatsby
 
 https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
-https://en.wikipedia.org/wiki/Use_case
 
 Gatsby Case Study
 https://twitter.com/gatsbyjs
@@ -1635,7 +1631,6 @@ https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.16068529
 Cosmic
 https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
 https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
-https://github.com/jazibsawar?tab=repositories | jazibsawar (Jazib Sawar) / Repositories
 https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
 https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
 
@@ -1724,18 +1719,18 @@ GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
 
 Deploy
-* [Vercel Blog](https://vercel.com/blog)
 * [Netlify Blog](https://www.netlify.com/blog/)
+* [Vercel Blog](https://vercel.com/blog)
 
 Container
 * [Docker Blog](https://www.docker.com/blog/)
 * [Kubernetes Blog](https://kubernetes.io/blog/)
 
 Databases
+* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
+* [CouchDB Blog](https://blog.couchbase.com/)
 * [Elastic Blog](https://www.elastic.co/blog/)
 * [MongoDB Blog](https://www.mongodb.com/blog)
-* [CouchDB Blog](https://blog.couchbase.com/)
-* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
 
 Product
 * [Twilio Blog](https://www.twilio.com/blog)
@@ -1937,35 +1932,6 @@ https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
 GitHub/Repl
 https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
--->
-
-<!--
-Non-Python
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-https://github.com/techreagan/vue-nodejs-youtube-clone
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-
-https://github.com/vuejs/vue-hackernews-2.0
-https://github.com/nuxt/hackernews
-https://github.com/python-telegram-bot/python-telegram-bot
-
-Demos and Boilerplates
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/nice-boys/product-boilerplate
-
-
-https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
-
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/DrkSephy/django-hackathon-starter
 -->
 
 
@@ -2793,9 +2759,295 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expression
 
 
 <!--
-## Design-y Stuff
+Non-Python
 
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+https://github.com/techreagan/vue-nodejs-youtube-clone
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+
+https://github.com/vuejs/vue-hackernews-2.0
+https://github.com/nuxt/hackernews
+https://github.com/python-telegram-bot/python-telegram-bot
+-->
+
+<!--
+Demos and Boilerplates
+
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
+https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
+
+https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
+
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/DrkSephy/django-hackathon-starter
+
+https://github.com/nice-boys/product-boilerplate
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+
+Node Tutorials
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+<!--
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+-->
+
+
+
+<!--
+Divio Docs
+https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
+
+
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+https://explorers.netlify.com/
+
+Netlify
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+
+
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+
+https://en.wikipedia.org/wiki/Use_case
 https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
+
+
+https://github.com/btholt | btholt (Brian Holt) / Repositories
+https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
+
+https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
+https://github.com/btholt/intro-to-web-dev-v2 | btholt/intro-to-web-dev-v2: Intro to Web Dev, v2
+https://github.com/btholt/four-semesters-of-cs | btholt/four-semesters-of-cs
+https://github.com/btholt/four-semesters-of-cs-part-two | btholt/four-semesters-of-cs-part-two: 4 Semesters of Computer in 5 Hours, Part 2!
+
+
+React
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+https://reactjs.org/community/examples.html | Example Projects – React
+https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
+https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
+https://github.com/facebook/react-native | facebook/react-native: A framework for building native apps with React.
+https://github.com/vercel/next.js | vercel/next.js: The React Framework
+https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+https://github.com/gatsbyjs/gatsby | gatsbyjs/gatsby: Build blazing fast, modern apps and websites with React
+
+Preact
+https://github.com/preactjs/preact | preactjs/preact: ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
+
+
+Tailwind
+https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
+https://tailwindcss.com/docs/guides/create-react-app | Install Tailwind CSS with Create React App - Tailwind CSS
+https://tailwindcss.com/docs/guides/nextjs | Install Tailwind CSS with Next.js - Tailwind CSS
+
+Firebase
+https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
+https://firebase.google.com/use-cases | Firebase Use Cases
+
+
+https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+-->
+
+
+<!--
+## HTMl and CSS
+
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+
+https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript module example but using script tags
+https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
+https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
+
+
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
+
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+https://moderntemplate.site/ | HTML Template
+https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
+
+http://www.initializr.com/ | Initializr - Start an HTML5 Boilerplate project in 15 seconds!
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+-->
+
+
+<!--
+Examples
+
+http://www.csszengarden.com/ | CSS Zen Garden: The Beauty of CSS Design
+http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
+http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
+
+https://1mb.club/ | 1MB Club
+https://250kb.club/ | The 250kb Club
+https://nojs.club/ | The NoJS Club!
+
+https://ugliest.app/ | https://ugliest.app
+https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
+https://github.com/thwidge/brutalcss/blob/main/brutalcss.html | brutalcss/brutalcss.html at main · thwidge/brutalcss
+https://sjmulder.nl/en/textonly.html | Text-only websites
+
+CSS
+http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
+https://a.singlediv.com/ | A Single Div
+https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
+https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
+-->
+
+<!--
+https://www.figma.com/ | Figma: the collaborative interface design tool.
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+
+https://stateofcss.com/ | The State of CSS Survey
+https://stateofjs.com/
+
+https://2020.stateofcss.com/images/tshirt/stateofcss/tshirt4.png | tshirt4.png (1501×996)
+
+CSS Tricks
+https://css-tricks.com/ | CSS-Tricks
+https://www.smashingmagazine.com/
+
+CodePen
+https://codepen.io/trending | Trending - CodePen
+https://codepen.io/chriscoyier | Chris Coyier on CodePen
+https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
+
+https://www.w3schools.com/ | W3Schools Online Web Tutorials
+
+
+https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
+
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+
+https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
+
+https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
+
+https://github.com/frontendmasters
+http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
+https://frontendmasters.github.io/bootcamp/
+
+https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
+
+Frontend- Important
+https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
+
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
+
+https://codepen.io/jen4web/
+https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
+
+
+JavaScript Notes
+
+https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
+
+JavaScript
+https://news.ycombinator.com/item?id=25333350 | A Modern JavaScript Tutorial | Hacker News
+https://javascript.info/
+https://learn.javascript.ru/ | Современный учебник JavaScript
+https://github.com/iliakan/javascript-tutorial-ru | iliakan/javascript-tutorial-ru: [Предыдущая редакция] Современный учебник JavaScript
+
+Pluralsight
+https://www.javascript.com/ | JavaScript.com
+
+
+https://jigsaw.w3.org/css-validator/ | The W3C CSS Validation Service
+https://validator.w3.org/ | The W3C Markup Validation Service
+
+
+https://web.dev/centering-in-css/ | Centering in CSS
+
+JavaScript
+https://plnkr.co/edit/?p=preview&preview | Plunker - Fork from https://javascript.info/hello-world
+
+https://javascript.info/ui | Browser: Document, Events, Interfaces
+https://javascript.info/browser-environment | Browser environment, specs
+https://javascript.info/article/devtools/bug.html | https://javascript.info/article/devtools/bug.html
+https://javascript.info/debugging-chrome | Debugging in Chrome
+
+https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
+https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
+
+Guido
+https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
+https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
+-->
+
+<!--
+## Design-y Stuff
 
 https://github.com/LisaDziuba/Awesome-Design-Tools | LisaDziuba/Awesome-Design-Tools: The best design tools for everything.
 
@@ -2825,50 +3077,49 @@ https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
 https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
 -->
 
-
-## Mozilla and Google- General Docs
-
-Mozilla- Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
-* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
-
-Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
-* [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
-* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
-* [Google Developer Web Tools](https://developers.google.com/web/tools)
-
-Glossaries
-* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
-* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
+## Design
 
 <!--
-https://principles.design/examples/ | Examples
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-https://lawsofux.com/ | Home | Laws of UX
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+CodePen
 
-https://web.dev/ | web.dev  |  web.dev
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
+https://www.nngroup.com/articles/ten-usability-heuristics/
+https://www.nngroup.com/articles/ux-research-cheat-sheet/
+https://www.nngroup.com/articles/usability-101-introduction-to-usability/
+https://www.nngroup.com/articles/benchmarking-ux/
 
-https://developers.google.com/web/tools/chrome-devtools/
-https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
-## Mozilla- JavaScript
-
-Mozilla JavaScript Tutorials
-* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
-* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
+## Accessibility
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
+https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
 
-https://developer.mozilla.org/en-US/docs/tag/JavaScript
+Official specification
+https://www.w3.org/TR/wai-aria/
+https://www.w3.org/TR/WCAG21/
+https://www.w3.org/WAI/test-evaluate/preliminary/
 
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
+https://webaim.org/standards/wcag/checklist
+https://www.wuhcag.com/wcag-checklist/
+
+https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
+
+https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
+
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
+https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
+
+https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
 -->
 
 
@@ -2932,83 +3183,50 @@ Measure
 Semantics/SEO/Accessibility
 * [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
-## Design
+
+## Mozilla and Google- General Docs
+
+Mozilla- Documentation
+* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
+
+Google Developers
+* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developer Web](https://developers.google.com/web)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
+* [Google Developer Web Tools](https://developers.google.com/web/tools)
+
+Glossaries
+* [Google Glossary](https://developers.google.com/web/fundamentals/glossary)
+* [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 
 <!--
-CodePen
+https://principles.design/examples/ | Examples
+https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
+https://lawsofux.com/ | Home | Laws of UX
+https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
 
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-https://www.nngroup.com/articles/ten-usability-heuristics/
-https://www.nngroup.com/articles/ux-research-cheat-sheet/
-https://www.nngroup.com/articles/usability-101-introduction-to-usability/
-https://www.nngroup.com/articles/benchmarking-ux/
+https://web.dev/ | web.dev  |  web.dev
 
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+https://developers.google.com/web/tools/chrome-devtools/
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 -->
 
-## Accessibility
+## Mozilla- JavaScript
+
+Mozilla JavaScript Tutorials
+* [Mozilla JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+* [Mozilla JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide) 
+* [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
 
 <!--
-https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
-Official specification
-https://www.w3.org/TR/wai-aria/
-https://www.w3.org/TR/WCAG21/
-https://www.w3.org/WAI/test-evaluate/preliminary/
+https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
-https://webaim.org/standards/wcag/checklist
-https://www.wuhcag.com/wcag-checklist/
-
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-
-https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
-
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
-
-https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
--->
-
-
-
-<!--
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
-
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-
-Node Tutorials
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-<!--
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 -->
 
 <!--
@@ -3023,212 +3241,6 @@ https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
-
-
-
-<!--
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
-
-https://www.figma.com/ | Figma: the collaborative interface design tool.
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
-
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
-
-https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-
-React
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-https://reactjs.org/community/examples.html | Example Projects – React
-https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
-https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
-https://github.com/facebook/react-native | facebook/react-native: A framework for building native apps with React.
-https://github.com/vercel/next.js | vercel/next.js: The React Framework
-https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-https://github.com/gatsbyjs/gatsby | gatsbyjs/gatsby: Build blazing fast, modern apps and websites with React
-
-Preact
-https://github.com/preactjs/preact | preactjs/preact: ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
-
-Tailwind
-https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
-https://tailwindcss.com/docs/guides/create-react-app | Install Tailwind CSS with Create React App - Tailwind CSS
-https://tailwindcss.com/docs/guides/nextjs | Install Tailwind CSS with Next.js - Tailwind CSS
-
-Firebase
-https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
-https://firebase.google.com/use-cases | Firebase Use Cases
-
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
-https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
-
-https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
-https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
-
-https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
-
-https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
-https://github.com/btholt/intro-to-web-dev-v2 | btholt/intro-to-web-dev-v2: Intro to Web Dev, v2
-https://github.com/btholt/four-semesters-of-cs | btholt/four-semesters-of-cs
-https://github.com/btholt/four-semesters-of-cs-part-two | btholt/four-semesters-of-cs-part-two: 4 Semesters of Computer in 5 Hours, Part 2!
-
-https://github.com/btholt | btholt (Brian Holt) / Repositories
-
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
-https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-https://moderntemplate.site/ | HTML Template
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-http://www.initializr.com/ | Initializr - Start an HTML5 Boilerplate project in 15 seconds!
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript module example but using script tags
-https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
-https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
--->
-
-<!--
-## HTMl and CSS
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-
-https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
-
-https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
-https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
-
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-
-https://stateofcss.com/ | The State of CSS Survey
-https://stateofjs.com/
-
-https://2020.stateofcss.com/images/tshirt/stateofcss/tshirt4.png | tshirt4.png (1501×996)
-
-https://1mb.club/ | 1MB Club
-https://250kb.club/ | The 250kb Club
-https://nojs.club/ | The NoJS Club!
-
-http://www.csszengarden.com/ | CSS Zen Garden: The Beauty of CSS Design
-http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
-http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
-
-https://ugliest.app/ | https://ugliest.app
-https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
-https://github.com/thwidge/brutalcss/blob/main/brutalcss.html | brutalcss/brutalcss.html at main · thwidge/brutalcss
-https://sjmulder.nl/en/textonly.html | Text-only websites
-
-CSS
-http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
-https://a.singlediv.com/ | A Single Div
-https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
-https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
-
-Guido
-https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
-https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
--->
-
-
-<!--
-https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
-
-
-JavaScript
-https://news.ycombinator.com/item?id=25333350 | A Modern JavaScript Tutorial | Hacker News
-https://javascript.info/
-https://learn.javascript.ru/ | Современный учебник JavaScript
-https://github.com/iliakan/javascript-tutorial-ru | iliakan/javascript-tutorial-ru: [Предыдущая редакция] Современный учебник JavaScript
-
-Pluralsight
-https://www.javascript.com/ | JavaScript.com
-
-
-https://www.w3schools.com/ | W3Schools Online Web Tutorials
-
-https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
-
-https://github.com/frontendmasters
-http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
-https://frontendmasters.github.io/bootcamp/
-
-Frontend- Important
-https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
-
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
-
-https://codepen.io/jen4web/
-https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
-
-
-https://jigsaw.w3.org/css-validator/ | The W3C CSS Validation Service
-https://validator.w3.org/ | The W3C Markup Validation Service
-
-CodePen
-https://codepen.io/trending | Trending - CodePen
-https://codepen.io/chriscoyier | Chris Coyier on CodePen
-https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
-
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-https://www.smashingmagazine.com/
-
-
-https://web.dev/centering-in-css/ | Centering in CSS
-
-JavaScript
-https://plnkr.co/edit/?p=preview&preview | Plunker - Fork from https://javascript.info/hello-world
-
-https://javascript.info/ui | Browser: Document, Events, Interfaces
-https://javascript.info/browser-environment | Browser environment, specs
-https://javascript.info/article/devtools/bug.html | https://javascript.info/article/devtools/bug.html
-https://javascript.info/debugging-chrome | Debugging in Chrome
-
-https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
-https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
--->
-
 
 ## Mozilla- HTMl5 and CSS Reference
 
