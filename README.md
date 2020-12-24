@@ -3,6 +3,68 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+## Portfolio Ideas
+
+SEO
+https://ahrefs.com/vs | Ahrefs vs. SEMrush vs. Moz: What the Industry Thinks
+https://www.semrush.com/ | Semrush - Online Visibility Management Platform
+https://moz.com/ | Moz - SEO Software for Smarter Marketing
+
+OS Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+Hackathon
+https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
+
+https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
+
+https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
+
+Reminds me of Jessica Rose
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+
+https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
+
+Awesome
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+https://www.simple.org/ | Home Simple
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+https://leaddev.com/
+
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+-->
+
+<!--
 Important
 https://twitter.com/emollick/status/1156788598303272960 | Ethan Mollick on Twitter: "The world's top published happiness researchers were asked to rank the most effective &amp; feasible strategies to happiness. Here's the list, though most of the results aren't shocking (though pets are lower &amp; shortening commutes are higher than expected) https://t.co/JglJfpZmHi https://t.co/c3InSDovtb" / Twitter
 
@@ -122,6 +184,18 @@ Presentations on demand
 https://twitter.com/bryanl/status/1295389406866677760
 
 
+## Fun Open Source Stuff
+
+Kenneth
+https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
+
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
+
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
+
+
 ## DevRel
 
 Great Talk
@@ -214,6 +288,8 @@ https://stories.forpeople.studio/
 
 ### Community
 
+https://cmxhub.com/ | Home | CMX
+
 https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
 https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
 
@@ -274,106 +350,9 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 -->
 
 
-<!--
-Interesting
-https://twitter.com/pm/status/1341123967906500608 | Paul McKellar on Twitter: "What’s the difference between something really addicting and really fun (Emotionally addicting, not chemical dependence, social media not crack)" / Twitter
-
-New products
-Honk
-https://twitter.com/msg/status/1249056942388940800 | Michael S Galpert on Twitter: "web first ⬇️ mobile first ⬇️ presence first" / Twitter
-https://twitter.com/rrhoover/status/1341499358940819456 | Ryan Hoover on Twitter: "One of my favorite consumer apps of 2020 just launched: https://t.co/XEgVXWHtQv Congrats, @benjitaylor and team 🥳 (disclosure: @weekendfund’s an investor)" / Twitter
-Forecasting
-https://twitter.com/andrewparker/status/1341442198655565826 | ɹǝʞɹɐd ʍǝɹpuɐ on Twitter: "This is rad. Just entered. My only wish is the addition of % certainty to the survey with each question, so the dataset could be used for superforcasting." / Twitter
-https://twitter.com/thejonanshow/status/1341432190601551872 | Jonan Scheffler 👾 on Twitter: "Look out todo-list-demo-app, I'm coming for you." / Twitter
-
-https://cmxhub.com/ | Home | CMX
-
-Articles
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
-https://blog.jetbrains.com/pycharm/
-
-https://blog.jetbrains.com/pycharm/2020/12/let-s-build-a-fast-modern-python-api-with-fastapi-additional-materials/ | Let's build a fast, modern Python API with FastAPI – additional materials | JetBrains Blog
-
-SEO
-https://ahrefs.com/vs | Ahrefs vs. SEMrush vs. Moz: What the Industry Thinks
-https://www.semrush.com/ | Semrush - Online Visibility Management Platform
-https://moz.com/ | Moz - SEO Software for Smarter Marketing
-
-https://begin.com/ | Begin
-https://github.com/WebReflection/uland#readme | WebReflection/uland: A µhtml take at neverland
-https://arc.codes/docs/en/guides/get-started/quickstart
-https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
-
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
-
-https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-
-React
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-https://reactjs.org/community/examples.html | Example Projects – React
-https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
-https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
-https://github.com/facebook/react-native | facebook/react-native: A framework for building native apps with React.
-https://github.com/vercel/next.js | vercel/next.js: The React Framework
-https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-https://github.com/gatsbyjs/gatsby | gatsbyjs/gatsby: Build blazing fast, modern apps and websites with React
-
-Preact
-https://github.com/preactjs/preact | preactjs/preact: ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
-
-Tailwind
-https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
-https://tailwindcss.com/docs/guides/create-react-app | Install Tailwind CSS with Create React App - Tailwind CSS
-https://tailwindcss.com/docs/guides/nextjs | Install Tailwind CSS with Next.js - Tailwind CSS
-
-Firebase
-https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
-https://firebase.google.com/use-cases | Firebase Use Cases
-
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
-https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
-
-https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
-https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
-
-https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
-
-https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
-https://github.com/btholt/intro-to-web-dev-v2 | btholt/intro-to-web-dev-v2: Intro to Web Dev, v2
-https://github.com/btholt/four-semesters-of-cs | btholt/four-semesters-of-cs
-https://github.com/btholt/four-semesters-of-cs-part-two | btholt/four-semesters-of-cs-part-two: 4 Semesters of Computer in 5 Hours, Part 2!
-
-https://github.com/btholt | btholt (Brian Holt) / Repositories
-
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
-https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-https://moderntemplate.site/ | HTML Template
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-http://www.initializr.com/ | Initializr - Start an HTML5 Boilerplate project in 15 seconds!
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript module example but using script tags
-https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
-https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
--->
-
 
 <!--
-## Of Interest
-
-http://stackshare.io/posts/
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
 https://us.pycon.org/2020/schedule/talks/
 
@@ -383,10 +362,15 @@ https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
+https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
 
-Octoverse
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
+https://docs.microsoft.com/en-us/learn/
 
+AWS
+https://www.awsgeek.com
+
+http://www.collaborativefund.com/blog
+https://search.firstround.com/lists
 
 Style Guide
 https://www.theguardian.com/guardian-observer-style-guide-q | Guardian and Observer style guide: Q | Info | The Guardian
@@ -399,6 +383,19 @@ Error Messages
 https://style.tidyverse.org/error-messages.html | 7 Error messages | The tidyverse style guide
 
 
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+
+Divio Docs, GitHub Docs
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+
 pytest
 https://docs.pytest.org/
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
@@ -407,113 +404,181 @@ https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
 Contributing
 https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
 
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+Interesting
+https://twitter.com/pm/status/1341123967906500608 | Paul McKellar on Twitter: "What’s the difference between something really addicting and really fun (Emotionally addicting, not chemical dependence, social media not crack)" / Twitter
+
+New products
+Honk
+https://twitter.com/msg/status/1249056942388940800 | Michael S Galpert on Twitter: "web first ⬇️ mobile first ⬇️ presence first" / Twitter
+https://twitter.com/rrhoover/status/1341499358940819456 | Ryan Hoover on Twitter: "One of my favorite consumer apps of 2020 just launched: 
+
+https://t.co/XEgVXWHtQv Congrats, @benjitaylor and team 🥳 (disclosure: @weekendfund’s an investor)" / Twitter
+Forecasting
+https://twitter.com/andrewparker/status/1341442198655565826 | ɹǝʞɹɐd ʍǝɹpuɐ on Twitter: "This is rad. Just entered. My only wish is the addition of % certainty to the survey with each question, so the dataset could be used for superforcasting." / Twitter
+https://twitter.com/thejonanshow/status/1341432190601551872 | Jonan Scheffler 👾 on Twitter: "Look out todo-list-demo-app, I'm coming for you." / Twitter
 
 
-https://docs.microsoft.com/en-us/learn/
+## Look Through
 
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
 Hanselman
 https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
 https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
 
-https://www.figma.com/ | Figma: the collaborative interface design tool.
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+Octoverse
+https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
 
-https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
 
-Divio Docs, GitHub Docs
+Julia Evans
 
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+Unix and bash
 
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
--->
-
-
-<!--
-## Portfolio Ideas
-
-OS Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Hackathon
-https://twitter.com/ThePracticalDev/status/1337081897030041601 | https://twitter.com/ThePracticalDev/status/1337081897030041601
-
-https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html | Kent Beck on How to Get a Paper Accepted at OOPSLA
-
-https://www.nature.com/articles/d41586-019-02918-5 | Novelist Cormac McCarthy’s tips on how to write a great science paper
-
-Reminds me of Jessica Rose
-https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
-
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-
-https://www.indiehackers.com/post/no-marketing-budget-start-writing-dev-to-vs-medium-0dfb7bf3c5 | "No marketing budget? Start writing." - Dev to vs Medium
-
-Awesome
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-https://www.simple.org/ | Home Simple
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-https://leaddev.com/
-
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-
-Learning
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
 
 https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
 
 Feross
 https://www.youtube.com/watch?v=XTcqlOFhpPI
-
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
 
-http://www.collaborativefund.com/blog
-https://search.firstround.com/lists
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+
+
+## Miscellaneous Tech
+
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+https://www.w3.org/DesignIssues/Architecture.html
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+
+vscode html css support - Google Search
+
+Mac
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
+
+
+Martin
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
+
+Interesting
+https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
+
+
+Simplicity
+https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
+
+* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
+
+Data Structures and Algorithms
+
+https://www.toptal.com/python/python-design-patterns
+
+https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
+
+Extract till you drop
+https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
+
+
+Architecture
+https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
+https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
+
+http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
+
+https://amitness.com/2019/08/math-for-programmers/
+
+Strategy pattern
+https://twitter.com/joelnet/status/1256229458295619585
+
+
+https://applitools.com/
+
+https://begin.com/ | Begin
+https://github.com/WebReflection/uland#readme | WebReflection/uland: A µhtml take at neverland
+https://arc.codes/docs/en/guides/get-started/quickstart
+https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+API
+https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+
+GraphQL
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://docs.python.org/3/library/sqlite3.html
+
+https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+Docs driven dev
+Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+Pre-mortem and Postmortem
+
+GraphQL
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
+https://devcenter.heroku.com/articles/platform-api-reference
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+
+
+CI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+
+VS Code/Container
+https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+
+Container
+https://www.docker.com/get-started | Get Started with Docker | Docker
+https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
+https://podman.io/
+
+https://www.packer.io/ | Packer by HashiCorp
+
+
+https://github.com/snowflakedb | Snowflake Computing
+https://prestodb.io/
+
+https://en.wikipedia.org/wiki/POSIX
+https://pop.system76.com/
+
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+
+Mac Scrips
+https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
+
 -->
+
 
 
 <!--
@@ -752,6 +817,10 @@ Dark PDF and light PDF
 https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
 https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
 
+Snyk
+https://snyk.io/ | Open Source Security Platform | Snyk
+https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
+
 
 ## Social Media
 
@@ -832,174 +901,6 @@ https://medium.com/@nwalkingshaw/think-of-it-like-this-we-are-a-product-experien
 
 Basecamp- Product
 https://mobile.twitter.com/HarshVitra/status/1248429426196361217
--->
-
-<!--
-## Look Through
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-
-Julia Evans
-
-Unix and bash
-
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-
-Snyk
-https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
-
-
-## Miscellaneous Tech
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-
-vscode html css support - Google Search
-
-
-Mac
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-
-Martin
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
-
-Interesting
-https://www.hillelwayne.com/post/decision-table-patterns/ | Decision Table Patterns • Hillel Wayne
-
-
-Simplicity
-https://www.infoq.com/presentations/Simple-Made-Easy/ | Simple Made Easy
-
-* MVC - [A](https://alexatnet.com/model-view-controller-mvc-in-javascript/), [B](https://developer.mozilla.org/en-US/Apps/Fundamentals/Modern_web_app_architecture/MVC_architecture), [C](https://developer.chrome.com/apps/app_frameworks)
-
-https://www.w3.org/DesignIssues/Architecture.html
-
-Data Structures and Algorithms
-
-https://www.toptal.com/python/python-design-patterns
-
-https://docs.quantifiedcode.com/python-anti-patterns/index.html | The Little Book of Python Anti-Patterns — Python Anti-Patterns documentation
-
-Extract till you drop
-https://twitter.com/dmokafa/status/1318160029783101443 | Deni Moka⚡ on Twitter: "A function should do only one thing and it should do it well! To write clean functions, follow Uncle Bob's one of the best advices: - 𝐄𝐱𝐭𝐫𝐚𝐜𝐭 𝐭𝐢𝐥𝐥 𝐲𝐨𝐮 𝐝𝐫𝐨𝐩! Always keep this in mind and keep extracting your functions until they do only one thing!" / Twitter
-
-
-Architecture
-https://dev.to/ezzy1337/a-pythonic-guide-to-solid-design-principles-4c8i | A Pythonic Guide to SOLID Design Principles - DEV Community 👩‍💻👨‍💻
-https://dev.to/brycedooley/refactoring-my-6-favorite-patterns-p13 | Refactoring: My 6 favorite patterns - DEV Community 👩‍💻👨‍💻
-
-http://smyachenkov.com/posts/cognitive-biases-software-development/ | Cognitive Biases In Software Development - Stanislav Myachenkov
-
-https://amitness.com/2019/08/math-for-programmers/
-
-Strategy pattern
-https://twitter.com/joelnet/status/1256229458295619585
-
-
-AWS
-https://www.awsgeek.com
-
-https://applitools.com/
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-API
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
-
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
-
-GraphQL
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-Docs driven dev
-Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
-Pre-mortem and Postmortem
-
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
-
-https://devcenter.heroku.com/articles/platform-api-reference
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-
-
-Container
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-https://www.packer.io/ | Packer by HashiCorp
-https://podman.io/
-
-https://github.com/snowflakedb | Snowflake Computing
-https://prestodb.io/
-
-https://en.wikipedia.org/wiki/POSIX
-https://pop.system76.com/
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
-
-
-Mac Scrips
-https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
-
-
-## Fun Open Source Stuff
-
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 -->
 
 <!--
@@ -2089,6 +1990,10 @@ Python Articles and Tutorials
 <!--
 https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
 
+http://stackshare.io/posts/
+
+https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+
 Tutorial and project ideas
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
@@ -2137,6 +2042,8 @@ Stack Overflow
 * [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
+https://blog.jetbrains.com/pycharm/
+
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
@@ -3029,6 +2936,7 @@ Semantics/SEO/Accessibility
 <!--
 CodePen
 
+https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
 https://www.nngroup.com/articles/ten-usability-heuristics/
 https://www.nngroup.com/articles/ux-research-cheat-sheet/
 https://www.nngroup.com/articles/usability-101-introduction-to-usability/
@@ -3116,8 +3024,104 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 -->
 
 
+
+<!--
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+
+https://www.figma.com/ | Figma: the collaborative interface design tool.
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
+
+https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+
+React
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+https://reactjs.org/community/examples.html | Example Projects – React
+https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
+https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
+https://github.com/facebook/react-native | facebook/react-native: A framework for building native apps with React.
+https://github.com/vercel/next.js | vercel/next.js: The React Framework
+https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+https://github.com/gatsbyjs/gatsby | gatsbyjs/gatsby: Build blazing fast, modern apps and websites with React
+
+Preact
+https://github.com/preactjs/preact | preactjs/preact: ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
+https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
+
+Tailwind
+https://tailwindcss.com/docs/installation | Installation - Tailwind CSS
+https://tailwindcss.com/docs/guides/create-react-app | Install Tailwind CSS with Create React App - Tailwind CSS
+https://tailwindcss.com/docs/guides/nextjs | Install Tailwind CSS with Next.js - Tailwind CSS
+
+Firebase
+https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
+https://firebase.google.com/use-cases | Firebase Use Cases
+
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
+https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
+
+https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
+https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
+
+https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
+
+https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
+https://github.com/btholt/intro-to-web-dev-v2 | btholt/intro-to-web-dev-v2: Intro to Web Dev, v2
+https://github.com/btholt/four-semesters-of-cs | btholt/four-semesters-of-cs
+https://github.com/btholt/four-semesters-of-cs-part-two | btholt/four-semesters-of-cs-part-two: 4 Semesters of Computer in 5 Hours, Part 2!
+
+https://github.com/btholt | btholt (Brian Holt) / Repositories
+
+https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+https://moderntemplate.site/ | HTML Template
+https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
+http://www.initializr.com/ | Initializr - Start an HTML5 Boilerplate project in 15 seconds!
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript module example but using script tags
+https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
+https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
+-->
+
 <!--
 ## HTMl and CSS
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
 
 https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
 
