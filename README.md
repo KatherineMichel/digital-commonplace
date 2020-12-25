@@ -1124,6 +1124,8 @@ https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
 https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
 https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
 
+Divio Docs
+https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
 https://github.com/divio/docs-theme | divio/docs-theme
 https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
@@ -1291,28 +1293,6 @@ https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-<!--
-List of top product management article links
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://www.sideprojectchecklist.com/ | Side Project Checklist
-
-https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
-https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
 -->
 
 ## Patterns
@@ -2756,6 +2736,71 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expression
 
 
 
+## Jargon, Algorithms, and Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+<!--
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+
+https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
+
+https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
+
+https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+<!--
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+Algos
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+
+Clean Code
+https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/zedr/clean-code-python
+
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+
+
+Style
+* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
+
+https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
+https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
+https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+-->
+
+
 <!--
 Non-Python
 
@@ -2823,31 +2868,7 @@ https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-
 -->
 
 
-
 <!--
-Divio Docs
-https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
-
-
-https://en.wikipedia.org/wiki/Use_case
-https://en.wikipedia.org/wiki/User_experience | User experience - Wikipedia
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
-
-
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-https://explorers.netlify.com/
-
-Netlify
-https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
-
-
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
@@ -2863,13 +2884,68 @@ https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twit
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 
 
-https://github.com/btholt | btholt (Brian Holt) / Repositories
-https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
-https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
-https://github.com/btholt/intro-to-web-dev-v2 | btholt/intro-to-web-dev-v2: Intro to Web Dev, v2
-https://github.com/btholt/four-semesters-of-cs | btholt/four-semesters-of-cs
-https://github.com/btholt/four-semesters-of-cs-part-two | btholt/four-semesters-of-cs-part-two: 4 Semesters of Computer in 5 Hours, Part 2!
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
+
+
+CodePen
+
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+https://explorers.netlify.com/
+
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
+
+http://ogp.me
+http://schema.org
+https://schema.org/docs/schemas.html
+itemscope, itemtype, itemprop
+https://schema.org/docs/gs.html
+https://schema.org/docs/documents.html
+https://schema.org/docs/datamodel.html
+
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
+
+https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans
+-->
+
+
+<!--
+http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
+http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
+
+https://www.figma.com/ | Figma: the collaborative interface design tool.
+https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
+
+
+https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
+
+
+https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
+
+SVG
+http://svgpocketguide.com/book
+https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
+
+Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+http://jonibologna.com/content/images/flexboxsheet.pdf
+https://flexboxfroggy.com/
+
+
+https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
 
 
 React
@@ -2897,93 +2973,19 @@ https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript pro
 https://firebase.google.com/use-cases | Firebase Use Cases
 
 
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
--->
-
-
-<!--
-## HTMl and CSS
-
 https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
 https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
 
-https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript module example but using script tags
-https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
-https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
+https://github.com/btholt | btholt (Brian Holt) / Repositories
+https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
 
+https://btholt.github.io/intro-to-web-dev-v2/ | Intro to Web Dev v2
+https://github.com/btholt/intro-to-web-dev-v2 | btholt/intro-to-web-dev-v2: Intro to Web Dev, v2
+https://github.com/btholt/four-semesters-of-cs | btholt/four-semesters-of-cs
+https://github.com/btholt/four-semesters-of-cs-part-two | btholt/four-semesters-of-cs-part-two: 4 Semesters of Computer in 5 Hours, Part 2!
 
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
-
-https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
-
-https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-https://moderntemplate.site/ | HTML Template
-https://github.com/harryheman/Modern-HTML-Starter-Template | harryheman/Modern-HTML-Starter-Template: Modern HTML Starter Template
-
-http://www.initializr.com/ | Initializr - Start an HTML5 Boilerplate project in 15 seconds!
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
--->
-
-
-<!--
-Examples
-
-http://www.csszengarden.com/ | CSS Zen Garden: The Beauty of CSS Design
-http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
-http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
-
-https://1mb.club/ | 1MB Club
-https://250kb.club/ | The 250kb Club
-https://nojs.club/ | The NoJS Club!
-
-https://ugliest.app/ | https://ugliest.app
-https://github.com/susam/spcss | susam/spcss: A simple, plain CSS for simple, plain HTML
-https://github.com/thwidge/brutalcss/blob/main/brutalcss.html | brutalcss/brutalcss.html at main · thwidge/brutalcss
-https://sjmulder.nl/en/textonly.html | Text-only websites
-
-CSS
-http://www.independent-software.com/stretching-the-limits-of-css-3-amazing-creations-in-pure-css
-https://a.singlediv.com/ | A Single Div
-https://twitter.com/Prathkum/status/1306555442298908672 | https://twitter.com/Prathkum/status/1306555442298908672
-https://twitter.com/_SparshSinghal/status/1324022143248601089 | Sparsh 🔥⚡ on Twitter: "This CSS amazes me😍 This is the true art of perfection in CSS" / Twitter
--->
-
-<!--
-https://www.figma.com/ | Figma: the collaborative interface design tool.
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
-
-https://stateofcss.com/ | The State of CSS Survey
-https://stateofjs.com/
-
-https://2020.stateofcss.com/images/tshirt/stateofcss/tshirt4.png | tshirt4.png (1501×996)
-
-CSS Tricks
-https://css-tricks.com/ | CSS-Tricks
-https://www.smashingmagazine.com/
-
-CodePen
-https://codepen.io/trending | Trending - CodePen
-https://codepen.io/chriscoyier | Chris Coyier on CodePen
-https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
-
-https://www.w3schools.com/ | W3Schools Online Web Tutorials
-
-
-https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
-https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
-
-https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
-
-
-https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
-
-https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
 
 https://github.com/frontendmasters
 http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
@@ -3056,6 +3058,7 @@ jQuery
 * [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
 
 <!--
+https://htmldom.dev/
 https://github.com/phuoc-ng/html-dom
 
 https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
@@ -3063,6 +3066,7 @@ https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery meth
 https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
+
 
 ## Wes Bos
 
@@ -3104,55 +3108,6 @@ https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
 
 Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
--->
-
-<!--
-## Design-y Stuff
-
-https://github.com/LisaDziuba/Awesome-Design-Tools | LisaDziuba/Awesome-Design-Tools: The best design tools for everything.
-
-https://medium.com/@cap/the-design-system-decision-tree-edba9abdb83b | The Design System Decision Tree – Cap Watkins – Medium
-https://medium.com/mule-design/the-9-rules-of-design-research-1a273fdd1d3b | The 9 Rules of Design Research – Mule Design Studio – Medium
-
-https://www.designsystems.com/
-https://designsystemsrepo.com/ | Design Systems Repo | A Collection of Design System Resources
-https://designsystemchecklist.com/ | Design System Checklist
-https://designsystemchecklist.com/category/design-language/ | Design System Checklist
-
-https://dropbox.design/article/mental-models-for-designers | Mental models for designers | Dropbox Design
-https://upcase.com/design-for-developers-resources/principles
-https://msdesignstorage.blob.core.windows.net/microsoftdesign/inclusive/InclusiveDesign_DesigningForGuidance.pdf | Designing for Guidance
-
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | Aug, 2020 | UX Collective
-
-https://saijogeorge.com/brand-style-guide-examples/ | Brand Style Guide Examples, Hand-picked by Saijo George
-Design Centered Design
-
-https://refactoringui.com/previews/building-your-color-palette/ | Building Your Color Palette
-
-https://github.com/mmmonteiro/designethics/blob/master/en_US.m
-https://github.com/mmmonteiro/designethics | mmmonteiro/designethics
-
-https://github.com/buzzfeed/design | buzzfeed/design: A public collection of BuzzFeed Design documentation.
--->
-
-## Design
-
-<!--
-CodePen
-
-https://www.nngroup.com/articles/the-need-for-speed/ | The Need for Speed, 23 Years Later
-https://www.nngroup.com/articles/ten-usability-heuristics/
-https://www.nngroup.com/articles/ux-research-cheat-sheet/
-https://www.nngroup.com/articles/usability-101-introduction-to-usability/
-https://www.nngroup.com/articles/benchmarking-ux/
-
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
 ## Accessibility
@@ -3247,13 +3202,13 @@ Semantics/SEO/Accessibility
 ## Mozilla and Google- General Docs
 
 Mozilla- Documentation
-* [Mozilla Developer](https://developer.mozilla.org/en-US), [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
+* [Mozilla Developer](https://developer.mozilla.org/en-US) and [Mozilla Developer Docs](https://developer.mozilla.org/en-US/docs/Web)
 * [Mozilla Learning Area](https://developer.mozilla.org/en-US/docs/Learn) and [Mozilla Learning Area GitHub](https://github.com/mdn/learning-area)
 
 Google Developers
-* [Google Developers](https://developers.google.com), [Google Developer Products](https://developers.google.com/products)
+* [Google Developers](https://developers.google.com) and [Google Developer Products](https://developers.google.com/products)
 * [Google Developer Web](https://developers.google.com/web)
-* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals), [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
+* [Google Developer Web Fundamentals](https://developers.google.com/web/fundamentals) and [Google Web Fundamentals GitHub](https://github.com/google/WebFundamentals)
 * [Google Web Fundamentals Research Study](https://developers.google.com/web/fundamentals/principles/research-study)  
 * [Google Developer Web Tools](https://developers.google.com/web/tools)
 
@@ -3262,15 +3217,24 @@ Glossaries
 * [Mozilla Developer Glossary](https://developer.mozilla.org/en-US/docs/Glossary)
 
 <!--
-https://principles.design/examples/ | Examples
-https://github.com/benbrignell/principles.design | benbrignell/principles.design: Work in progress repository of design principles and methods.
-https://lawsofux.com/ | Home | Laws of UX
-https://growth.design/psychology/ | 🧠Psychology of Design: 101 Cognitive Biases & Principles That Affect Your UX
+https://developers.google.com/web/tools/chrome-devtools/
+https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
 https://web.dev/ | web.dev  |  web.dev
 
-https://developers.google.com/web/tools/chrome-devtools/
-https://developers.google.com/web/tools/chrome-devtools/speed/get-started
+https://github.com/mdn/content | mdn/content: The content behind MDN Web Docs
+https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
+
+Web Development- Microsoft
+https://docs.microsoft.com/en-us/
+
+https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
+https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
+
+https://roadmap.sh/
+https://github.com/kamranahmedse/developer-roadmap | kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 -->
 
 ## Mozilla- JavaScript
@@ -3304,9 +3268,22 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 
 ## Mozilla- HTMl5 and CSS Reference
 
-* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
-* [SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
+Mozilla HTML and CSS
+* [Mozilla HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [Mozilla HTML Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML)
+* [Mozilla CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [Mozilla CSS Guide](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS)
+
+Mozilla HTML and CSS References
+* [Mozilla CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
+* [Mozilla HTML Reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+
+Mozilla HTML5 and CSS3
+* [Mozilla HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
+* [Mozilla CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3)
+
+Mozilla SVG
+* [Mozilla SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 <!--
 https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
@@ -3315,43 +3292,14 @@ https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
 
 HTML5 and CSS
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element | HTML elements reference - HTML: Hypertext Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button | <button>: The Button element - HTML: HyperText Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea | <textarea> - HTML: HyperText Markup Language | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/StyleSheet | StyleSheet - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/user_interface/Browser_styles | Browser styles - Mozilla | MDN
-
 https://developer.mozilla.org/en-US/docs/Web/CSS
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3 | CSS3 - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Reference | CSS reference - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS | CSS - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS | Introduction to CSS - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Fundamental_CSS_comprehension | Fundamental CSS comprehension - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics | CSS basics - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Values_and_units | CSS values and units - Learn web development | MDN
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/display | display - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
 
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_boxes | Styling boxes - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text | Styling text - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes | Pseudo-classes - CSS: Cascading Style Sheets | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Pseudo-classes_and_pseudo-elements | Pseudo-classes and pseudo-elements - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity | Specificity - CSS: Cascading Style Sheets | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity#directly-targeted-elements | Specificity - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/inheritance | inheritance - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference#Selectors | CSS reference - CSS | MDN
-
-JavaScript
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script | <script>: The Script element - HTML: HyperText Markup Language | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords | Lexical grammar - JavaScript | MDN
-
-HTTP
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200 | 200 OK - HTTP | MDN
 -->
 
 ## Box Model, Flow Layout, Grid, Flexbox
@@ -3364,6 +3312,8 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
 
 Flow Layout
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Writing_Modes
 
 Flexbox
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
@@ -3371,28 +3321,9 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout | CSS F
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
 
 Grid
+https://developer.mozilla.org/en-US/docs/Web/CSS/grid
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout | CSS Grid Layout - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
--->
-
-<!--
-https://2017.djangocon.us/schedule/ | Schedule | DjangoCon US
-https://2017.djangocon.us/talks/don-t-use-my-grid-system-or-any-others/ | Don’t Use My Grid System (or any others) | DjangoCon US
-https://www.miriamsuzanne.com/
-
-Grid
-https://css-tricks.com/snippets/css/complete-guide-grid/ | A Complete Guide to Grid | CSS-Tricks
-https://css-tricks.com/css-charts-grid-custom-properties/ | More CSS Charts, with Grid & Custom Properties | CSS-Tricks
-https://gridbyexample.com/ | Grid by Example
-
-Flexbox versus Grid
-https://www.youtube.com/watch?v=hs3piaN4b5I&list=PLXTrSMir4zP6LvJU6lE6xDSKeUDBo8Xy8&index=98 | (1) Flexbox vs. CSS Grid — Which is Better? - YouTube
-https://twitter.com/sarah_edo/status/1188952827508379649 | Sarah Drasner on Twitter: "“Are you going to use flexbox in development or are you going to use grid? The answer is... both! Choosing between two things that behave differently would be like deciding between font-family and font-size. They have different uses!” @jensimmons at #aeaden https://t.co/HBX9s33Fxm" / Twitter
-
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-https://flexboxfroggy.com/
 -->
 
 ## Mozilla- JavaScript APIs Reference
@@ -3576,6 +3507,15 @@ https://chromeos.dev/en | Chrome OS | chromeOS.dev
 
 ## JavaScript Standards
 
+<!--
+https://github.com/hpssjellis | hpssjellis (Jeremy Ellis)
+
+https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
+https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
+https://hpssjellis.github.io/js-examples/modules/myScriptTag/ | Basic JavaScript module example but using script tags
+https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js | https://hpssjellis.github.io/js-examples/modules/basic-modules/modules/canvas.js
+-->
+
 Browser (ECMAScript and ES6, ES7 Forthcoming)
 * [ES6 Cheat Sheet](https://github.com/DrkSephy/es6-cheatsheet)
 
@@ -3587,7 +3527,6 @@ JavaScript ES2021, ES2020
 https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
 
 https://github.com/luruke/browser-2020
-http://caniuse.com
 https://caniuse.com/#feat=es6
 
 ES6
@@ -3603,10 +3542,6 @@ https://developer.mozilla.org/en-US/docs/Archive/Web/JavaScript/ECMAScript_Next_
 
 
 <!--
-https://hpssjellis.github.io/js-examples/modules/ | https://hpssjellis.github.io/js-examples/modules/
-https://github.com/mdn/js-examples | mdn/js-examples: Code examples that accompany the MDN JavaScript/ECMAScript documentation
-https://twitter.com/rocksetta/status/1327818125501362176 | Rocksetta Jeremy Ellis on Twitter: "I HAVE SPENT YEARS NOT KNOWING THIS! Modules actually work using Vanilla #Javasscript. Meaning you do not need a transpiler like #babel to use Javascript modules. Thank you to the formerly named #Mozilla Developer Network https://t.co/4doGbr3ZMm" / Twitter
-
 https://flaviocopes.com/node-difference-browser/
 
 node.js uses CommonJS modules
@@ -3656,29 +3591,36 @@ https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 -->
 
 
-## Deploy
+## Product and Marketing
 
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
-* [Vercel Zero Config](https://vercel.com/blog/zero-config)
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
 
 <!--
-https://vercel.com/blog/zeit-is-now-vercel
+List of top product management article links
 
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
 
-* [Vercel now](https://zeit.co/now)
-* [Vercel micro](https://github.com/vercel/micro)
+https://www.sideprojectchecklist.com/ | Side Project Checklist
 
-https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
 
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+-->
+
+## Design
+
+<!--
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
 ## Mobile Optimized
@@ -3693,9 +3635,25 @@ Facebook- React Native
 * [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
 * [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
 
-Expo (React Native alternative) 
+Expo- React Native Platform
 * [Expo](https://expo.io)
 * [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
+
+Push Notifications
+* [Firebase](https://firebase.googleblog.com/ )
+* [OneSignal (used by Expo)](https://onesignal.com/)
+
+<!--
+https://github.com/firebase/
+
+Firebase
+https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+Actions
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
+https://docs.expo.io/guides/using-gatsby/
+https://docs.expo.io/guides/using-preact/
+-->
 
 Progressive Web Apps (PWA)
 * [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
@@ -3731,6 +3689,35 @@ Progressive Web app Testing
 https://github.com/TalAter/awesome-progressive-web-apps
 https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+
+## Deploy
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
+* [Vercel Zero Config](https://vercel.com/blog/zero-config)
+
+<!--
+Netlify
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+
+https://vercel.com/blog/zeit-is-now-vercel
+
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Vercel now](https://zeit.co/now)
+* [Vercel micro](https://github.com/vercel/micro)
+
+https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 -->
 
 ## My Stack
@@ -3913,11 +3900,6 @@ https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel templa
 ## Database
 
 <!--
-Firebase
-https://firebase.googleblog.com/ | The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
-Actions
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
-
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://blog.repl.it/database | Repl.it - A database for every repl
 -->
@@ -4039,78 +4021,18 @@ Video 5, 13:25 Recap
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 -->
 
-## Jargon, Algorithms, and Patterns
-
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
-https://refactoring.guru/design-patterns/ | Design Patterns
-
-
-https://github.com/elsewhencode/project-guidelines | elsewhencode/project-guidelines: A set of best practices for JavaScript projects
-
-https://github.com/goldbergyoni/nodebestpractices | goldbergyoni/nodebestpractices: The Node.js best practices list (August 2020)
-
-https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
--->
-
-<!--
-Algos
-https://www.algorist.com/ | The Algorithm Design Manual
-
-Algos
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-
-
-Clean Code
-https://github.com/ryanmcdermott/clean-code-javascript
-https://github.com/zedr/clean-code-python
-
-https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
-
-
-Style
-* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
-
-https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
-https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
-https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
-
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
--->
-
-
 ## Systems
 
 * [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
-https://github.com/kamranahmedse/developer-roadmap | kamranahmedse/developer-roadmap: Roadmap to becoming a web developer in 2020
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+
 
 
 Resilience
@@ -4121,27 +4043,6 @@ https://github.com/in28minutes/first-steps-to-software-architect
 https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
 https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
-
-
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-
-https://roadmap.sh/
-
-https://www.freecodecamp.org/news/alternative-career-paths/ | 23 Alternative Career Paths that Software Developers Can Grow Into
-https://mobile.twitter.com/wiredferret/status/1281660075225079810 | Heidi, The Sticker Thoughtleader on Twitter: "This is an AMAZING chart of some of the many code-adjacent technical jobs that are out there. My one quibble is that you don’t need to start as a developer. You can aim for one of these from anywhere. https://t.co/wqswN6GZj1" / Twitter
-
-https://twitter.com/LearnJavasript/status/1291226651607498752 | Learn Javascript on Twitter: "Every new Frontend Developer should bookmark this tweet. #javascript #100DaysOfCode #FrontEnd https://t.co/6XaMi4bdeh" / Twitter
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
 
 Distributed Systems
 https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
@@ -4160,13 +4061,21 @@ https://github.com/lorin/systems-thinking
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
 
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
 Sys Admin
 https://github.com/trimstray/sysadmin-interview-questions
 https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
 -->
 
