@@ -1,16 +1,18 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://jwt.io/ | JSON Web Tokens - jwt.io
+MongoDB/Cap
+https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
+https://github.com/dcramer/mangodb
+
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 
 https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
 
 https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
 
-https://en.wikipedia.org/wiki/X_Window_System#Principles
 
-MongoDB/Cap
-https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
+https://en.wikipedia.org/wiki/X_Window_System#Principles
 
 https://en.wikipedia.org/wiki/User_agent
 https://simple.wikipedia.org/wiki/Packet_(computing)
@@ -24,9 +26,6 @@ https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
 
 https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
-
-https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
-https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 
 Authenticate bearer
 Swarm testing
@@ -113,6 +112,7 @@ https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best
 https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
 https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
 https://hoppscotch.io/
+https://github.com/hoppscotch/hoppscotch | hoppscotch/hoppscotch: 👽 A free, fast and beautiful API request builder used by 80k+ developers.
 https://firecamp.io/
 -->
 
