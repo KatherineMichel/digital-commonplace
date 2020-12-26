@@ -2780,22 +2780,6 @@ Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
-<!--
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
--->
-
-<!--
-https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
-
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
-
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
--->
 
 <!--
 https://github.com/sohamkamani/javascript-design-patterns-for-humans
@@ -2810,6 +2794,25 @@ https://github.com/kamranahmedse/developer-roadmap | kamranahmedse/developer-roa
 https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadmap: A Developer Roadmap to becoming a Node.js developer in 2019
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+-->
+
+
+<!--
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
+
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+let and const Declarations
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
 
 ## Product and Marketing
@@ -2996,25 +2999,15 @@ https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM queryS
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
 
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
-
-arrow function
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
-
-https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
-
 Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent | KeyboardEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
 https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
 
-https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
-
 Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
 -->
 
 
@@ -3300,11 +3293,14 @@ https://www.w3schools.com/html/html_id.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+
 getElementById() method
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
 getElementsByClassName()
 getElementsByName()
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
 -->
 
 ## Mozilla Javascript- Popular Events
@@ -3318,13 +3314,18 @@ Desktop Events
 * [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
     
 <!--
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+
 DOM- Event
+https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/Event
 https://developer.mozilla.org/en-US/docs/Web/API/EventListener
 https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent
 https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent
+https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
 
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+https://developer.mozilla.org/en-US/docs/Web/API/Document/keydown_event | Document: keydown event - Web APIs | MDN
+https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
 
 https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick
 https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onkeydown
