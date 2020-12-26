@@ -2269,7 +2269,6 @@ https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial 
 
 https://tinyprojects.dev/ | Tiny Projects
 https://tinyprojects.dev/posts/tiny_websites_are_great | Tiny websites are great | Tiny Projects
-https://bestmotherfucking.website/ | Best Motherfucking Website
 
 
 https://twitter.com/chriscoyier/status/1337569425776635904
@@ -2901,6 +2900,38 @@ https://github.com/aliyr/Nodejs-Developer-Roadmap | aliyr/Nodejs-Developer-Roadm
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 -->
 
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+<!--
+List of top product management article links
+
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://www.sideprojectchecklist.com/ | Side Project Checklist
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+-->
+
+## Design
+
+<!--
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+-->
+
 
 <!--
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
@@ -2924,6 +2955,12 @@ Checklists
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
 https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
+
+
+https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
 
 
 https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
@@ -2963,20 +3000,14 @@ https://andreasbm.github.io/web-skills/?compact | Web Skills
 
 https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 
-http://ogp.me
-http://schema.org
-itemscope, itemtype, itemprop
-
-
-https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
-
 https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
+http://ogp.me
+https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
 
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+Semantic
+http://schema.org
+itemscope, itemtype, itemprop
 
 
 https://github.com/frontendmasters
@@ -3040,26 +3071,6 @@ https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
 https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
 -->
 
-## You Might Not Need
-
-You Might Not Need
-* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
-* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
-
-jQuery
-* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
-
-<!--
-https://htmldom.dev/
-https://github.com/phuoc-ng/html-dom
-
-https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
-
-https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
-https://github.com/you-dont-need/You-Dont-Need-Momentjs
--->
-
-
 ## Wes Bos
 
 <!--
@@ -3100,6 +3111,26 @@ https://www.w3schools.com/jsref/event_onkeydown.asp | onkeydown Event
 
 Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+-->
+
+
+## You Might Not Need
+
+You Might Not Need
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/), [You Don't Need jQuery](https://github.com/nefe/You-Dont-Need-jQuery )
+* [You Might Not Need JavaScript](http://youmightnotneedjs.com/)
+
+jQuery
+* [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
+
+<!--
+https://htmldom.dev/
+https://github.com/phuoc-ng/html-dom
+
+https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery methods
+
+https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
+https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
 
 ## Accessibility
@@ -3541,57 +3572,6 @@ https://docs.npmjs.com/packages-and-modules/
 https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 -->
 
-<!-- 
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
-
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-<!--
-List of top product management article links
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://www.sideprojectchecklist.com/ | Side Project Checklist
-
-https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
-https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
--->
-
-## Design
-
-<!--
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
--->
-
-
 ## Deploy
 
 Hawt- Web
@@ -3726,6 +3706,23 @@ Create React App
 
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!-- 
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
 
 <!--
 Next (React) and Nuxt (Vue)
