@@ -1319,6 +1319,18 @@ High Performance Browser Networking
 <!--
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+What happens
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
 -->
 
 ## Site Reliability
@@ -2834,21 +2846,6 @@ https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0
 
 
 <!--
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-What happens
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 Checklists
@@ -2874,17 +2871,6 @@ https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely
 https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
 https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
-
-SVG
-http://svgpocketguide.com/book
-https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
-
-Flexbox
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-http://jonibologna.com/content/images/flexboxsheet.pdf
-https://flexboxfroggy.com/
 
 
 http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
@@ -3189,6 +3175,10 @@ https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphic
 https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
 https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
 
+SVG
+http://svgpocketguide.com/book
+https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
+
 HTML5 and CSS
 https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
 https://developer.mozilla.org/en-US/docs/Web/CSS
@@ -3198,7 +3188,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS | CSS - Learn web development
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-
 -->
 
 ## Box Model, Flow Layout, Grid, Flexbox
@@ -3218,6 +3207,13 @@ Flexbox
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout | CSS Flexible Box Layout - CSS | MDN
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
+
+Flexbox
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
+https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
+https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
+http://jonibologna.com/content/images/flexboxsheet.pdf
+https://flexboxfroggy.com/
 
 Grid
 https://developer.mozilla.org/en-US/docs/Web/CSS/grid
