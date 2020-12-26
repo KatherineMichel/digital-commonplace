@@ -2915,6 +2915,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemref
 
 
 https://github.com/frontendmasters
