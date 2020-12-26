@@ -1731,6 +1731,8 @@ https://www.couchbase.com/about | About Us – Awards, Affiliations, History & M
 https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
 https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
 
+https://www.mongodb.com/resources
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
 https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
 https://mongodb.libsyn.com/ | The MongoDB Podcast
 https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
