@@ -2867,10 +2867,12 @@ https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS �
 https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
 
 
+Tailwind
 https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
+Next themes
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
 
 http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
@@ -2891,9 +2893,25 @@ https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Che
 http://ogp.me
 https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
 
+
+https://html.spec.whatwg.org/multipage/microdata.html
+
 Semantic
 http://schema.org
-itemscope, itemtype, itemprop
+
+https://schema.org/Thing
+https://schema.org/PostalAddress
+http://schema.org/Recipe
+
+id
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
+
+HTMl structured data global attributes
+itemid, itemscope, itemtype, itemprop
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope
 
 
 https://github.com/frontendmasters
@@ -3171,6 +3189,8 @@ Mozilla SVG
 * [Mozilla SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/CSS | CSS - Learn web development | MDN
+
 https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
 https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
 https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
@@ -3178,21 +3198,14 @@ https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
 SVG
 http://svgpocketguide.com/book
 https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
-
-HTML5 and CSS
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://developer.mozilla.org/en-US/docs/Web/CSS
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3 | CSS3 - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/Reference | CSS reference - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS | CSS - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
 -->
 
 ## Box Model, Flow Layout, Grid, Flexbox
 
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
+
 Box Model
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
@@ -3262,7 +3275,8 @@ Mozilla- Document Object Model
 * [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+CSSOM
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
@@ -3275,11 +3289,48 @@ https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
 -->
 
+## Mozilla JavaScript- Global Attributes
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
+
+JavaScript
+https://www.w3schools.com/html/html_id.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
+
+getElementById() method
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
+getElementsByClassName()
+getElementsByName()
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+-->
+
 ## Mozilla Javascript- Popular Events
 
 Events and Web APIs
 * [Mozilla Document Object Model Events](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [Mozilla Document Object Model Event Handlers](https://developer.mozilla.org/en-US/docs/Web/Guide/Events/Event_handlers)
+
+Desktop Events
+* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
+* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
+    
+<!--
+DOM- Event
+https://developer.mozilla.org/en-US/docs/Web/API/Event
+https://developer.mozilla.org/en-US/docs/Web/API/EventListener
+https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent
+https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent
+
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+
+https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onclick
+https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onkeydown
+https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onmousedown
+https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers/onchange
+-->
 
 Events
 * [Event Wikipedia](https://en.wikipedia.org/wiki/Event_(computing))
@@ -3287,21 +3338,20 @@ Events
 * [DOM/JavaScript Events Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
 * [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
 
-Desktop Events
-* [Mozilla KeyboardEvent](https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent), [Mozilla MouseEvent](https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent), [Mozilla WheelEvent](https://developer.mozilla.org/en-US/docs/Web/API/WheelEvent)
-* [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
-    
+## Mozilla JavaScript- Forms
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
+-->
+
 ## Mozilla Javascript- Popular APIs
 
 <!--
+https://github.com/luruke/browser-2020
+
 Web API Popular
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Fetching_data | Fetching data from the server - Learn web development | MDN
-
-CSSOM
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-DOM
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 
 Fetch API 
 https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API
@@ -3421,7 +3471,6 @@ CommonJS (Node)
 JavaScript ES2021, ES2020
 https://twitter.com/GaganGulyani/status/1334160622246789120 | Gagan Gulyani on Twitter: "JavaScript Devs! Do checkout! It's gonna change the game for you 🔥" / Twitter
 
-https://github.com/luruke/browser-2020
 https://caniuse.com/#feat=es6
 
 ES6
