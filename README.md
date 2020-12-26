@@ -1300,8 +1300,6 @@ https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastru
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
 
 https://martinfowler.com/articles/collection-pipeline/
-
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams
 -->
 
 ## General Software Design Patterns
@@ -1861,6 +1859,11 @@ Python
 * [Glitch Python](https://glitch.com/@python)
 * [CodePen Python](https://codepen.io/tag/python)
 
+CodePen
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
 <!--
 https://repl.it/talk/
 https://repl.it/templates
@@ -2019,109 +2022,6 @@ https://paperswithcode.com/ | The latest in machine learning | Papers With Code
 
 https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
 -->
-
-
-## Projects
-
-<!--
-https://twitter.com/thoward37/status/1304270923344867329 | Troy Howard / Executive Chef for Antifa on Twitter: "Data nerds... want to keep your mind busy on something mathy while trying not to obsess about wildfires? Check out the Drössel-Schwabl model, used to predict both wildfire spread and earthquake spread. It's pretty neat. https://t.co/6ZwA2zsrKV" / Twitter
-
-Cool!
-https://github.com/arithran/vim-pizza | arithran/vim-pizza: My initial attempt at trying to order pizza from within vim.
-
-https://donotpay.com/ | DoNotPay - The World's First Robot Lawyer
-
-README.md
-https://twitter.com/mscccc/status/1278742080253128704 | Mike Coutermarsh on Twitter: "@KatiMichel Yes!!" / Twitter
-https://github.com/mscoutermarsh/mscoutermarsh | mscoutermarsh/mscoutermarsh: SECRETS!
-
-Jeff
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-Simon- 
-Self-Rewriting README, TIL
-Datasette
-Doc Unit Tests
-Release, Weeknotes
--->
-
-<!--
-https://github.com/akamhy/waybackpy
-https://github.com/PyBites-Open-Source/karmabot
-
-Sarah
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-Chrome Extension
-https://github.com/sdras/productive-twitter/
-
-https://github.com/cassidoo/book-rating-demo | cassidoo/book-rating-demo: A demo built with React and HarperDB to show book ratings
-
-Safe Space
-https://charliegerard.dev/blog/github-action-toxic-comments/
-https://github.com/charliegerard
-https://github.com/charliegerard/safe-space/
-https://github.com/charliegerard/safe-space/blob/master/index.js
-
-Paint
-https://github.com/muan
-https://github.com/muan/paint-github
-https://chrome.google.com/webstore/detail/paint-github/dmcjbappfnlamankemdmmdjiecnclapl
-
-SpotHub
-https://github.com/swinton/SpotHub | swinton/SpotHub: Collaborate on Spotify playlists using Pull Requests, powered by GitHub Actions
-https://twitter.com/webology/status/1081036346662309888 | ✨ Jeff Triplett ✨ on Twitter: "These are the types of data tools that I live for. Commit song info into a repo and push to Spotify. https://t.co/KtOhpAyNyU"
-
-Kofi
-https://github.com/kofigumbs/multi | kofigumbs/multi: Create a custom, lightweight macOS app from a group of websites
-https://github.com/kofigumbs/yt | kofigumbs/yt: A monophonic sampler for playing a YouTube video like an instrument
-https://yt.kofi.sexy/ | YT—mono
-https://kofi.sexy/blog/slack-app-fewer-resources | Creating a Slack app that uses fewer resources
-
-
-https://twitter.com/aicoding_/status/1295011129836568577
-https://github.com/coding-ai/eyeBlinkedTREX
-
-
-Twitter Sentiment Analysis
-https://jvhuang1786.github.io/disney_nlp/ | Disney Parks Twitter NLP - Justin Huang
-https://github.com/jvhuang1786 | jvhuang1786 (Justin Huang)
-https://drive.google.com/file/d/1EpZB-xbAYiKvsVBso7AXj5hh7sSd1LGo/view | distweet_slidedeck_extended.pptx - Google Drive
-Twitter sentiment analysis
-https://www.linkedin.com/feed/?msgControlName=reply_to_sender&msgConversationId=6701259728753831936&msgOverlay=true
-
-Jason
-https://github.com/JasonEtco/todo | JasonEtco/todo: 🤖✅ GitHub App that creates new issues from actionable comments in your code.
-
-Git Tools
-https://github.com/nvbn/thefuck | nvbn/thefuck: Magnificent app which corrects your previous console command.
-https://github.com/paulirish/git-open | paulirish/git-open: Type `git open` to open the GitHub page or website for a repository in your browser.
-https://github.com/captainsafia/checklist
-https://github.com/sindresorhus/refined-twitter | sindresorhus/refined-twitter: Chrome extension that enforces the mobile web version of Twitter and improves its interface
-https://github.com/sindresorhus/refined-github
-https://twitter.com/carmatrocity/status/1273307346228436994 | Carmen H. Andoh on Twitter: "Also, refined-github is *incredibly helpful* for the annoying "load more" github issue truncation and batch loading of only 50. https://t.co/vhvbfwLqEc will give you 200. https://t.co/2n9NqnSbzn" / Twitter
-
-Data Scraping
-https://github.com/sw-yx/gh-action-data-scraping | sw-yx/gh-action-data-scraping: this shows how to use github actions to do periodic data scraping
-
-
-Mondrian
-https://www.dangermouse.net/esoteric/piet.html | DM's Esoteric Programming Languages - Piet
-
-Tweet DM Button
-https://twitter.com/Jason/status/1018571284911833088 | jason 🦄 🇦🇺 ❤️ on Twitter: "How do you make a tweet with a DM button like this?… "
-
-https://github.com/nsfw-filter/nsfw-filter | nsfw-filter/nsfw-filter: A Google Chrome/ Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.
-
-https://twitter.com/webKnjaZ/status/1179572026924818439 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺@Ansible@ Red Hat on Twitter: "Next step: copy-paste some code from StackOverflow back into the issue, re-run and close as invalid if it fixes that! https://t.co/OyGiv0MZNX" / Twitter
-https://twitter.com/bitandbang/status/1159514802596777984
-
-GitHub Metrics
-https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
--->
-
 
 
 ## Projects
@@ -6012,10 +5912,6 @@ General
 
 Computing Classification
 * [ACM Computing Classification System Wikipedia](https://en.wikipedia.org/wiki/ACM_Computing_Classification_System) and [ACM Computing Classification System](https://web.archive.org/web/20171015082005/http://www.acm.org/about/class)
-
-CodePen
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 ## People and Case Studies
 
