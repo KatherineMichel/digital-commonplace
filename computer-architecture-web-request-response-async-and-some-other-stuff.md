@@ -4,6 +4,11 @@
 Bread and crud
 https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
 
+http://www.arewewebyet.org/ | Are we web yet? Yes, and it's freaking fast!
+https://github.com/llvm/llvm-project
+Like the other
+http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
+
 MongoDB/Cap
 https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
 https://github.com/dcramer/mangodb
