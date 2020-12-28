@@ -683,8 +683,10 @@ http://meowni.ca/posts/emoji-emoji-emoji/
 https://computationalthinking.mit.edu/Fall20/
 
 Important
+https://home.cern/topics/birth-web | The birth of the web | CERN
 https://home.cern/science/computing/birth-web | The birth of the Web | CERN
 https://www.w3.org/DesignIssues/Architecture.html
+https://css-tricks.com/chapter-1-birth/
 
 Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
@@ -752,6 +754,31 @@ https://github.com/webpro/programming-principles
 https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
 
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+
+
+Grid
+https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
+
+React
+http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/
+
+Django Wagtail
+https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
+
+Sarah... grid
+https://twitter.com/patak_js/status/1318529458010193920 | https://twitter.com/patak_js/status/1318529458010193920
+https://marketplace.visualstudio.com/items?itemName=sdras.inbedby7pm | In Bed By 7pm - Visual Studio Marketplace
+
+Tailwind
+https://dev.to/rbethel/using-tailwind-with-begin-com-and-architect-3a7h | Using Tailwind with Begin.com and Architect - DEV Community 👩‍💻👨‍💻
+
+PWA
+https://addyosmani.com/blog/the-prpl-pattern/ | AddyOsmani.com - Faster Web App Delivery with PRPL
+
+Comparison
+http://www.npmtrends.com/angular-vs-react-vs-vue-vs-ember-source | angular vs react vs vue vs ember-source | npm trends
+
+https://twitter.com/Code4PuertoRico/
 
 
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
@@ -1859,6 +1886,7 @@ https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aar
 
 https://repl.it/talk/
 https://repl.it/templates
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
@@ -3166,6 +3194,24 @@ Measure
 Semantics/SEO/Accessibility
 * [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
 
+<!--
+Performance
+
+https://web.dev/fast/
+
+https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
+
+Web Vitals
+https://twitter.com/ChromiumDev/status/1257701879242514433
+https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
+
+https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
+
+Performance
+https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
+
+https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+-->
 
 ## Mozilla and Google- General Docs
 
@@ -3479,31 +3525,6 @@ https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
 -->
 
 
-<!--
-## Dev Tools and Standards
-
-Standards
-https://ietf.org/standards/rfcs/ | IETF | RFCs
-https://www.w3.org/TR/?status=rec | All Standards and Drafts - W3C
-https://w3c.github.io/ | W3C on GitHub
-https://github.com/w3c?page=2 | World Wide Web Consortium
-
-https://github.com/whatwg/dom
-
-
-https://medium.com/@bdauton/upcoming-features-in-the-next-chrome-devtools-b7edcb3002a5
-
-https://blog.chromium.org/2020/10/chrome-is-deploying-http3-and-ietf-quic.html
-https://github.com/w3c/w3process
-https://github.com/tc39
-
-https://www.w3.org/WAI
-
-
-Chrome Updates
-https://blog.chromium.org
-https://chromeos.dev/en | Chrome OS | chromeOS.dev
--->
 
 ## JavaScript Standards
 
@@ -3556,6 +3577,12 @@ Mozilla docs are ECMAScript Standard
 <!--
 Flavors and Modules
 
+JavaScript Standard Style
+http://standardjs.com/index.html
+https://github.com/standards/standards.github.io
+https://github.com/standard/standard
+https://github.com/standard | Standard JS
+
 CommonJS
 [CommonJS Wiki](http://wiki.commonjs.org/wiki/Introduction)
 [RequireJS CommonJS Explanation](https://requirejs.org/docs/commonjs.html)
@@ -3572,6 +3599,7 @@ https://docs.npmjs.com/packages-and-modules/
 https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 -->
 
+
 <!--
 https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
 
@@ -3586,17 +3614,31 @@ Next themes
 https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
 
 
-https://twitter.com/mdx_js
-https://mdxjs.com/
+Good
+https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
 
-https://www.fast.design/docs/introduction/ | Introduction | FAST
-
-OpenJS Architect
-https://twitter.com/ryan/status/1341140875955425281 | Ryan Block on Twitter: "🆕 In the last month the OpenJS Architect serverless framework got: - Lambda treeshaking - Custom filepath support - Global + local preferences - .env support - A brand new site! https://t.co/Tj5VNkz6CG ➡️ npm i @architect/architect" / Twitter
+Hotwire
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
 
 Stimulus
 https://github.com/hotwired/stimulus
 https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
+
+
+https://jasmine.github.io/ | Jasmine Documentation
+
+
+https://twitter.com/mdx_js
+https://mdxjs.com/
+
+https://hasura.io/
+
+https://www.fast.design/docs/introduction/ | Introduction | FAST
+
+https://github.com/flutter/flutter | flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
 
 Deploy
 https://www.skypack.dev/
@@ -3605,16 +3647,23 @@ https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very c
 Deploy/Django
 https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
 
+React
 https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
 
 https://p5js.org/
 
 https://begin.com/ | Begin
+OpenJS Architect
+https://arc.codes/docs/en/guides/get-started/quickstart
+
+https://twitter.com/ryan/status/1341140875955425281 | Ryan Block on Twitter: "🆕 In the last month the OpenJS Architect serverless framework got: - Lambda treeshaking - Custom filepath support - Global + local preferences - .env support - A brand new site! https://t.co/Tj5VNkz6CG ➡️ npm i @architect/architect" / Twitter
+
+
 https://github.com/WebReflection/uland#readme | WebReflection/uland: A µhtml take at neverland
+
 https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
 
 Terraform
-https://arc.codes/docs/en/guides/get-started/quickstart
 
 TensorFlow.js 
 -->
@@ -3645,6 +3694,8 @@ https://github.com/vercel/serve | zeit/serve: Static file serving and directory 
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
 -->
 
 ## Python and Django
@@ -3742,11 +3793,17 @@ Express Tutorials
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
 
-Next.js
-* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
-
 React
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+JSX (Syntax Extension; React)
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
+* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+React Frameworks
+* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 
 Create React App
 * [Create React App GitHub](https://github.com/facebook/create-react-app)
@@ -3755,6 +3812,11 @@ Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
 <!-- 
+React Server Components
+https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
+https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
+https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
+
 HTTP, API, DOM
 https://expressjs.com/en/api.html
 
@@ -3776,24 +3838,16 @@ Next (React) and Nuxt (Vue)
 
 https://reactjs.org/community/examples.html | Example Projects – React
 
-https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
 https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
 
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
 
 https://github.com/nextjs-starters/nextjs-starters
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
-
 https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-https://github.com/gatsbyjs/gatsby | gatsbyjs/gatsby: Build blazing fast, modern apps and websites with React
-
-Preact
-https://github.com/preactjs/preact | preactjs/preact: ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
-https://github.com/preactjs/preact-cli | preactjs/preact-cli: 😺 Your next Preact PWA starts in 30 seconds.
 
 https://www.snowpack.dev/
 https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
@@ -3870,13 +3924,27 @@ https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app
 -->
 
-## More Languages and Frameworks
+## Goodies
 
-Scala
-* [Scala](https://www.scala-lang.org/)
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
 
 <!--
-https://nim-lang.org/
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+11ty
+https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
 -->
 
 ## JAMStack
@@ -3897,35 +3965,14 @@ React and Vue Alternatives
 Static Site Generators
 * [11ty](https://www.11ty.dev/)
 
-<!--
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+## More Languages and Frameworks
 
-Redwood Example
-https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
-
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-11ty
-https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
--->
-
-
-## CMS
-
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+Scala
+* [Scala](https://www.scala-lang.org/)
 
 <!--
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+https://nim-lang.org/
 -->
-
-## Database
-
-<!--
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://blog.repl.it/database | Repl.it - A database for every repl
--->
-
 
 ## Heroku
 
