@@ -358,90 +358,6 @@ https://github.com/HangarOrg/sphinx-netlify-cicd
 -->
 
 <!--
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
-https://us.pycon.org/2020/schedule/talks/
-
-https://techyaks.com/python-year-tytop.html
-
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
-
-https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://docs.microsoft.com/en-us/learn/
-
-AWS
-https://www.awsgeek.com
-
-http://www.collaborativefund.com/blog
-https://search.firstround.com/lists
-
-Style Guide
-https://www.theguardian.com/guardian-observer-style-guide-q | Guardian and Observer style guide: Q | Info | The Guardian
-
-https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
-
-https://rcstyleguide.com/ | The Responsible Communication Style Guide
-
-Error Messages
-https://style.tidyverse.org/error-messages.html | 7 Error messages | The tidyverse style guide
-
-
-Hanselman
-https://thisdeveloperslife.com/ | This Developer's Life - Stories About Developers and Their Lives
-https://www.youtube.com/playlist?list=PL0M0zPgJ3HSesuPIObeUVQNbKqlw5U2Vr | (1) Computer Stuff They Didn't Teach You - YouTube
-
-
-https://www.w3.org/DesignIssues/Architecture.html
-
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-Octoverse
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse explores a year of change with new deep dives into developer productivity, security, and how we build communities on GitHub.
-
-
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-
-Divio Docs, GitHub Docs
-
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-
-
-pytest
-https://docs.pytest.org/
-https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
-https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
-
-Contributing
-https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
-
-
-Interesting
-https://twitter.com/pm/status/1341123967906500608 | Paul McKellar on Twitter: "What’s the difference between something really addicting and really fun (Emotionally addicting, not chemical dependence, social media not crack)" / Twitter
-
-New products
-Honk
-https://twitter.com/msg/status/1249056942388940800 | Michael S Galpert on Twitter: "web first ⬇️ mobile first ⬇️ presence first" / Twitter
-https://twitter.com/rrhoover/status/1341499358940819456 | Ryan Hoover on Twitter: "One of my favorite consumer apps of 2020 just launched: 
-
-https://t.co/XEgVXWHtQv Congrats, @benjitaylor and team 🥳 (disclosure: @weekendfund’s an investor)" / Twitter
-Forecasting
-https://twitter.com/andrewparker/status/1341442198655565826 | ɹǝʞɹɐd ʍǝɹpuɐ on Twitter: "This is rad. Just entered. My only wish is the addition of % certainty to the survey with each question, so the dataset could be used for superforcasting." / Twitter
-https://twitter.com/thejonanshow/status/1341432190601551872 | Jonan Scheffler 👾 on Twitter: "Look out todo-list-demo-app, I'm coming for you." / Twitter
-
-
 ## Look Through
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
@@ -505,11 +421,6 @@ https://amitness.com/2019/08/math-for-programmers/
 
 
 https://applitools.com/
-
-https://begin.com/ | Begin
-https://github.com/WebReflection/uland#readme | WebReflection/uland: A µhtml take at neverland
-https://arc.codes/docs/en/guides/get-started/quickstart
-https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
@@ -581,8 +492,6 @@ https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of p
 
 https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
 -->
-
-
 
 <!--
 ## Learning
@@ -907,10 +816,17 @@ https://mobile.twitter.com/HarshVitra/status/1248429426196361217
 -->
 
 <!--
-https://datasette.io/
-https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+https://twitter.com/ericholscher/status/1324485189142155265 | Eric Holscher on Twitter: "👏👏 @alex_gaynor https://t.co/4byTQBnK2A https://t.co/cDRvoZgMUx" / Twitter
 
 https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
+https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
+
+https://datasette.io/
+Datasette
+https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
+
+https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
 
 https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
 
@@ -1073,6 +989,11 @@ https://github.com/carljm/dotfiles
 -->
 
 <!--
+Important
+https://discord.com/invite/t7bHjYQ | Commit Your Code!
+
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
 https://twitter.com/garrytan/status/999347665623117824 | Garry BUIDL Tan on Twitter: "I think I need to print this out and put it on my desk at work… "
 
 Habits
@@ -1086,27 +1007,24 @@ https://twitter.com/sama/status/1337464959408754691 | Sam Altman on Twitter: "Fu
 Important
 https://pioneer.app/leaderboard | Leaderboard | Pioneer
 
-Teams
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-
-Important
-https://discord.com/invite/t7bHjYQ | Commit Your Code!
-
-https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
+https://docs.google.com/document/d/1Jm3jc2RGUTS_pp02eVJ1BuzfyDYGtOgnow02HamHPXE/preview | NPR's Guide To Hypothesis-Driven Design For Editorial Projects - Google Docs
 
 Abstract
 The implication of the One Startling Sentence… https://t.co/PEbT92D6wF"
 https://sites.umiacs.umd.edu/elm/2018/03/14/the-five-or-four-paragraphs-of-a-successful-introduction/
 https://plg.uwaterloo.ca/~migod/research/beckOOPSLA.html
 
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
-
 Checkbox Art/ASCII Art
 https://twitter.com/realpython/status/1004811256560324608 | Real Python on Twitter: "Create beautiful ASCII art with just three lines of Python... import ascii output = ascii.loadFromUrl("https://t.co/B9glpiP0G2") print(output) (Thanks for this Dave Graton) #python #computerscience #DataScience #pythontips #pythontricks… https://t.co/pJAN2dvyjb"
+
+Teams
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
 
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 
@@ -1114,18 +1032,127 @@ https://wizardzines.com/zines/css/ | Hell Yes! CSS!
 
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
 
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+
+http://meowni.ca/posts/emoji-emoji-emoji/
+
 https://computationalthinking.mit.edu/Fall20/
 
 Important
 https://home.cern/science/computing/birth-web | The birth of the Web | CERN
 
-https://awards.cmxhub.com/ | CMX
+https://www.w3.org/DesignIssues/Architecture.html
+
+Interesting
+https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
+
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
+
+
+https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
+
+
+https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+
+https://us.pycon.org/2020/schedule/talks/
+
+https://techyaks.com/python-year-tytop.html
+
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
+
+
+https://docs.microsoft.com/en-us/learn/
+
+AWS
+https://www.awsgeek.com
+
+http://www.collaborativefund.com/blog
+https://search.firstround.com/lists
+
+Style Guide
+https://www.theguardian.com/guardian-observer-style-guide-q | Guardian and Observer style guide: Q | Info | The Guardian
+
+https://www.buzzfeed.com/emmyf/buzzfeed-style-guide | BuzzFeed Style Guide
+
+https://rcstyleguide.com/ | The Responsible Communication Style Guide
+
+Error Messages
+https://style.tidyverse.org/error-messages.html | 7 Error messages | The tidyverse style guide
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+
+Divio Docs, GitHub Docs
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+
+pytest
+https://docs.pytest.org/
+https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
+https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
+
+Contributing
+https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
+
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://github.com/webpro/programming-principles
+
+https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+
+Patterns
+http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2018-10.html#e2018-10-05T15_39_10.htm | Knowing and Doing: October 2018 Archives
+
+https://avdi.codes/simple-is-complex/ | Simple is Complex – avdi.codes
+
+https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html | The Grand Unified Theory of Software Architecture - danuker | freedom & tech
+
+https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
+
+https://mobile.twitter.com/housecor/status/1251887465989898241
+
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
+
+
+https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/ | The usability of HTML elements – Terence Eden’s Blog
+
+https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA | Grand Unification of Web Technologies - Google Docs
+https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
+https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
+https://www.coursera.org/specializations/web-design | Web Design for Everybody: Basics of Web Development & Coding | Coursera
+
+Accessibility
+https://www.youtube.com/watch?v=Kl4CT4DaypM&feature=youtu.be
+https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md | Web-Dev-For-Beginners/README.md at main · microsoft/Web-Dev-For-Beginners
+
 
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
-
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
 
 https://twitter.com/wakaleo/status/854702550469234692
 
@@ -1155,8 +1182,6 @@ https://find.xyz/map/product-management-search-engine | Product Management Searc
 
 https://twitter.com/therealflouser/status/1162360711596707842 | Florian Reger on Twitter: "The very natural and simple concept of @basecamp hill charts is like learning a new word in your own language. You hear it, you understand it, you use it and you will never forget it. Well done @dhh @jasonfried" / Twitter
 
-https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
-
 Dante
 https://twitter.com/ctrlzee/status/1337042881048059904 | Mark Wilson on Twitter: "The European gaze rules design. The result is a world of products designed to control, exclude, and exploit. It's time for a change—here's a list to get your own company started https://t.co/Y5OY7Bn8h6" / Twitter
 https://www.fastcompany.com/90563364/10-new-rules-of-design | 10 new rules of design
@@ -1164,44 +1189,59 @@ https://www.fastcompany.com/90563364/10-new-rules-of-design | 10 new rules of de
 Important!
 https://cutle.fish/blog/product-development-team-self-assessment | Product Development Team Self-Assessment – Hacker Noon
 
+
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+Test Driven
+https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
+https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Model in Django | TestDriven.io
+https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
+https://testdriven.io/blog/django-performance-testing/ | Automating Performance Testing in Django | TestDriven.io
+
+https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
+
+Carpentries
+http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
+https://carpentries.org/community-lessons/ | Community Developed Lessons
+https://github.com/carpentries-incubator/ | carpentries-incubator
+
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
+
+https://securitycheckli.st/ | Security Checklist
+https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy | Threat Models for Differential Privacy | NIST
+
+https://docs.sweeting.me/s/against-curl-sh | Don’t distribute packages via curl | sh (but not for the reasons you think) - CodiMD
+https://twitter.com/thesquashSH/status/1332420582890156032 | Nick Sweeting on Twitter: "@CubicleApril That's not the real reason why curl | sh is bad. https://t.co/IQrJWpwzij" / Twitter
+
+https://en.wikipedia.org/wiki/Tabnabbing | Tabnabbing - Wikipedia
+
+Threat Modelling
+https://twitter.com/jeremyphoward/status/1097602570057482240 | Jeremy Howard on Twitter: "Great list of threat modeling experts compiled in this thread - have a look at their work and follow them if you're interested in the issues stemming from the @openai language model project. Would be great to have similar lists for medical, nuclear, etc research issues!… https://t.co/Xu6cDKyHm5"
+
+
 Interesting
-https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
+https://twitter.com/pm/status/1341123967906500608 | Paul McKellar on Twitter: "What’s the difference between something really addicting and really fun (Emotionally addicting, not chemical dependence, social media not crack)" / Twitter
 
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
+New products
+Honk
+https://twitter.com/msg/status/1249056942388940800 | Michael S Galpert on Twitter: "web first ⬇️ mobile first ⬇️ presence first" / Twitter
+https://twitter.com/rrhoover/status/1341499358940819456 | Ryan Hoover on Twitter: "One of my favorite consumer apps of 2020 just launched: 
 
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://github.com/webpro/programming-principles
+https://t.co/XEgVXWHtQv Congrats, @benjitaylor and team 🥳 (disclosure: @weekendfund’s an investor)" / Twitter
+Forecasting
+https://twitter.com/andrewparker/status/1341442198655565826 | ɹǝʞɹɐd ʍǝɹpuɐ on Twitter: "This is rad. Just entered. My only wish is the addition of % certainty to the survey with each question, so the dataset could be used for superforcasting." / Twitter
+https://twitter.com/thejonanshow/status/1341432190601551872 | Jonan Scheffler 👾 on Twitter: "Look out todo-list-demo-app, I'm coming for you." / Twitter
 
-https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
 
-Patterns
-http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2018-10.html#e2018-10-05T15_39_10.htm | Knowing and Doing: October 2018 Archives
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
-https://avdi.codes/simple-is-complex/ | Simple is Complex – avdi.codes
-
-https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
-
-https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html | The Grand Unified Theory of Software Architecture - danuker | freedom & tech
+https://devblogs.microsoft.com/visualstudio/checklist-for-writing-great-visual-studio-extensions/ | Checklist for writing great Visual Studio extensions | The Visual Studio Blog
 
 nbdev
 https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
-
-Bazel
-https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 | Watch - Bazel Persistent workers
-
-https://opensource.com/article/19/2/contributing-gitlab | Getting started as a GitLab contributor | Opensource.com
-
-Gatsby
-https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
-https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
-
-Twilio
-https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
-
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
 Browser/SM
 https://twitter.com/aaranged/status/844694418493878273
@@ -1226,6 +1266,16 @@ https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very c
 Deploy/Django
 https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
 
+https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+
+https://twitter.com/p5xjs
+https://twitter.com/shiffman/status/1328173959884509188 | https://twitter.com/shiffman/status/1328173959884509188
+
+https://begin.com/ | Begin
+https://github.com/WebReflection/uland#readme | WebReflection/uland: A µhtml take at neverland
+https://arc.codes/docs/en/guides/get-started/quickstart
+https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
+
 https://twitter.com/pystar/status/1336205795210432512 | https://twitter.com/pystar/status/1336205795210432512
 
 https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
@@ -1244,78 +1294,6 @@ https://twitter.com/LiyaSileshi/status/1335457578789163009 | Liya Tilahun on Twi
 
 Bread and crud
 https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
-
-https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
-
-https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
-
-https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
-
-http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
-
-https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/ | The usability of HTML elements – Terence Eden’s Blog
-
-https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA | Grand Unification of Web Technologies - Google Docs
-https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
-https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-https://www.coursera.org/specializations/web-design | Web Design for Everybody: Basics of Web Development & Coding | Coursera
-
-https://devblogs.microsoft.com/visualstudio/checklist-for-writing-great-visual-studio-extensions/ | Checklist for writing great Visual Studio extensions | The Visual Studio Blog
-
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-Test Driven
-https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
-https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Model in Django | TestDriven.io
-https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
-https://testdriven.io/blog/django-performance-testing/ | Automating Performance Testing in Django | TestDriven.io
-
-Carpentries
-http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
-https://carpentries.org/community-lessons/ | Community Developed Lessons
-https://github.com/carpentries-incubator/ | carpentries-incubator
-
-https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
-https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
-
-https://securitycheckli.st/ | Security Checklist
-https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy | Threat Models for Differential Privacy | NIST
-
-https://docs.sweeting.me/s/against-curl-sh | Don’t distribute packages via curl | sh (but not for the reasons you think) - CodiMD
-https://twitter.com/thesquashSH/status/1332420582890156032 | Nick Sweeting on Twitter: "@CubicleApril That's not the real reason why curl | sh is bad. https://t.co/IQrJWpwzij" / Twitter
-
-https://en.wikipedia.org/wiki/Tabnabbing | Tabnabbing - Wikipedia
-
-Threat Modelling
-https://twitter.com/jeremyphoward/status/1097602570057482240 | Jeremy Howard on Twitter: "Great list of threat modeling experts compiled in this thread - have a look at their work and follow them if you're interested in the issues stemming from the @openai language model project. Would be great to have similar lists for medical, nuclear, etc research issues!… https://t.co/Xu6cDKyHm5"
-
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-Accessibility
-https://www.youtube.com/watch?v=Kl4CT4DaypM&feature=youtu.be
-https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md | Web-Dev-For-Beginners/README.md at main · microsoft/Web-Dev-For-Beginners
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
-
-http://meowni.ca/posts/emoji-emoji-emoji/
-
-https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
-
-https://mobile.twitter.com/housecor/status/1251887465989898241
-
-https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
-
-
-https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
-https://twitter.com/ericholscher/status/1324485189142155265 | Eric Holscher on Twitter: "👏👏 @alex_gaynor https://t.co/4byTQBnK2A https://t.co/cDRvoZgMUx" / Twitter
-
-Datasette
-https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
 -->
 
 ## Technical Writing Tools
@@ -1790,6 +1768,8 @@ https://github.com/11ty/eleventy#major-roadmapped-features
 
 Gumroad Roadmap
 https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
 -->
 
 ## Launch
@@ -1830,6 +1810,9 @@ https://twitter.com/gatsbyjs
 https://www.gatsbyjs.com/use-cases/
 https://www.gatsbyjs.org/contributing/
 https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
+https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
 
 Redwood/React
 https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
@@ -1971,12 +1954,16 @@ https://www.twilio.com/video | Twilio Video | Video SDKs for iOS, Android, JavaS
 https://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video | Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video - Twilio
 https://www.twilio.com/blog/server-push-five-easy-steps-flask-react-twilio-sync | Server Push in 5 Easy Steps with Flask, React and Twilio Sync - Twilio
 
+https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+
 Couchbase
 https://github.com/couchbase | couchbase
 https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
 
 https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
 https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+
+Michael Lynn
 
 https://www.mongodb.com/resources
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
@@ -2177,9 +2164,19 @@ Python Articles and Tutorials
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
+https://awards.cmxhub.com/ | CMX
+
 http://stackshare.io/posts/
 
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 
 Tutorial and project ideas
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
@@ -2187,9 +2184,7 @@ https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | Th
 
 https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
@@ -2461,7 +2456,10 @@ https://www.udemy.com/user/brad-traversy/
 http://www.traversymedia.com
 https://twitter.com/traversymedia
 
+50 Projects
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+https://50projects50days.com/projects/random-image-feed/ | Random Image Feed
+https://www.udemy.com/course/50-projects-50-days/ | 50 Projects In 50 Days - HTML, CSS & JavaScript | Udemy
 
 Traversy
 https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
