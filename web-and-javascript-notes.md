@@ -1,11 +1,12 @@
 # Web and JavaScript Notes
 
 <!--
-JavaScript Standard Style
-http://standardjs.com/index.html
-https://github.com/standards/standards.github.io
-https://github.com/standard/standard
-https://github.com/standard | Standard JS
+https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
+
+https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
+
+https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+
 
 https://github.com/puppeteer/puppeteer
 
@@ -14,31 +15,15 @@ https://twitter.com/gr2m/status/1258112678062510080 | Gregor on Twitter: "Congra
 https://github.com/microsoft/playwright/releases/tag/v1.0.0 | Release v1.0.0 · microsoft/playwright
 
 https://github.com/jsdom/jsdom
-
 https://github.com/ruyadorno/ipt
-
 
 Node API
 https://feathersjs.com/ | Feathers | A framework for real-time applications and REST APIs
 
-JS Tools
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-https://github.com/storybookjs/storybook | storybookjs/storybook: UI component dev & test: React, Vue, Angular, React Native, Ember, Web Components & more!
-https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.
-
-
-
 https://github.com/stripe-samples/nextjs-typescript-react-stripe-js
 
 
-https://home.cern/topics/birth-web | The birth of the web | CERN
-https://css-tricks.com/chapter-1-birth/
-
-https://zenodo.org/record/3707008#.XtxQKRNKh0t | JavaScript: The First 20 Years | Zenodo
-
-https://arxiv.org/abs/1510.00925 | [1510.00925] The Essence of JavaScript
-
-https://www.destroyallsoftware.com/talks/the-birth-and-death-of-javascript
+https://github.com/brahmosjs/brahmos | brahmosjs/brahmos: Super charged JavaScript library with modern React API and native templates.
 
 
 JavaScript
@@ -51,22 +36,6 @@ https://dev.to/mouadkh9/do-we-still-need-jquery-in-2020-4n48 | Do we still need 
 
 GitHub | The GitHub Blog
 https://githubengineering.com/removing-jquery-from-github-frontend/ | Removing jQuery from GitHub.com frontend | GitHub Engineering
-
-
-
-https://bestmotherfucking.website/ | Best Motherfucking Website
-https://github.com/KeenRivals/bestmotherfucking.website
-
-https://userinyerface.com/ | User Inyerface - A worst-practice UI experiment
-https://twitter.com/nickf/status/1146525816869646336 | Nick Finck on Twitter: "How to piss off every designer ever. https://t.co/fZzH4HO3jw"
-
-http://diana-adrianne.com/purecss-francine/ | Francine
-https://github.com/cyanharlow/purecss-francine | cyanharlow/purecss-francine: HTML/CSS drawing in the style of an 18th-century oil painting. Hand-coded entirely in HTML & CSS.
-https://twitter.com/cyanharlow/status/1191264717706149890 | Diana Smith on Twitter: "Did another CSS-only art. Flemish/baroque inspired. Two weekends. Made for Chrome. https://t.co/d4Z9kkvu1R" / Twitter
-
-Single Div
-https://twitter.com/_marcba/status/1269894605270589440 | Marc Backes ⚡️ on Twitter: "If you ever think you're good at CSS, check out this website. These designs are all done with a single &lt;div&gt; element. It's insane! https://t.co/tleibWDJys" / Twitter
-https://a.singlediv.com/ | A Single Div
 
 
 * [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
@@ -93,8 +62,6 @@ https://github.com/denoland/deno/pull/5273
 
 Deno
 https://www.udemy.com/course/deno-the-complete-guide-zero-to-mastery/?couponCode=DENOLAUNCH | Deno: The Complete Guide Zero to Mastery | Udemy
-https://twitter.com/brianleroux/status/1270054520387559426 | xnoɹǝʃ uɐıɹq on Twitter: "Deno moving internals away from TypeScript is an interesting read. Internal advocates finding Ry isn't convinced by the marketing lines in actual practice https://t.co/8k8kfVhMeH" / Twitter
-https://docs.google.com/document/d/1_WvwHl7BXUPmoiSeD8G83JmS8ypsTPqed4Btkqkn_-4/edit | Design Doc: Use JavaScript instead of TypeScript for internal Deno Code - Google Docs
 
 
 Eric
@@ -103,9 +70,6 @@ ttps://twitter.com/_ericelliott/status/905129710941855744 | Eric Elliott on Twit
 1 Code review, 2 TDD, 3 Spec/design review, 4 Pair programming, 5 Manual (human) testing
 https://twitter.com/_ericelliott/status/1203135808095563776 | Tweet / Twitter
 
-https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
 https://medium.com/javascript-scene/mocking-is-a-code-smell-944a70c90a6a | Mocking is a Code Smell - JavaScript Scene - Medium
 https://github.com/ericelliott/redux-dsm | ericelliott/redux-dsm: Declarative state machines for Redux: Reduce your async-state boilerplate.
 
@@ -121,7 +85,6 @@ https://github.com/ericelliott/riteway
 https://www.youtube.com/watch?list=PLWOdyjG6bHl54g4o3V-5ooeGnAfqWH6ja&time_continue=158&v=F-JvvFlYcts&feature=emb_logo | (2) The Secret of Simple Code - YouTube
 
 https://hackernoon.com/test-driven-development-is-fundamentally-wrong-hor3z4d
-
 
 
 https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/client-hints | Adapting to Users with Client Hints  |  Web Fundamentals
@@ -180,96 +143,6 @@ https://github.com/jkup/functional-javascript | jkup/functional-javascript: A li
 
 Testing
 https://github.com/goldbergyoni/javascript-testing-best-practices | goldbergyoni/javascript-testing-best-practices: 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2019)
--->
-
-<!--
-Performance
-
-https://web.dev/fast/
-
-https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
-
-Web Vitals
-https://twitter.com/ChromiumDev/status/1257701879242514433
-https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
-
-https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
-
-Performance
-https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
-
-https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
--->
-
-## Browser Object Model (BOM) and Document Object Model (DOM)
-
-W3C DOM4
-* [W3C DOM4](https://www.w3.org/TR/dom)
-* [What is the Document Object Model?](https://www.w3.org/DOM/#what)
-* [DOM Level 2](https://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
-* [DOM Level 3](https://www.w3.org/TR/DOM-Level-3-Core/core.html)
-
-## ECMA
-
-ECMA Standards
-* [ECMA International](http://www.ecma-international.org)
-
-ECMAScript and ES6, ES7 Forthcoming
-* [ECMAScript Wikipedia](https://en.wikipedia.org/wiki/ECMAScript)
-* [ECMAScript Versions Wikipedia](https://en.wikipedia.org/wiki/ECMAScript#Versions)
-
-<!--
-http://www.ecma-international.org/publications/standards/Ecma-262.htm
-http://www.ecma-international.org/ecma-262
-http://www.ecma-international.org/ecma-262/5.1
-http://www.ecma-international.org/publications/files/ECMA-ST/Ecma-262.pdf
-http://www.ecma-international.org/publications/standards/Ecma-402.htm
--->
-
-## Standards
-
-Better Reference than W3C
-* [WHATWG (Web Hypertext Application Technology Working Group)](https://whatwg.org), [WHATWG Developers](https://developers.whatwg.org), and [WHATWG (Web Hypertext Application Technology Working Group) GitHub](https://github.com/whatwg)
-
-W3C
-* [W3C (The World Wide Web Consortium)](http://www.w3.org) and [The World Wide Web Consortium (W3C) GitHub](https://github.com/w3c)
-
-W3C Standards
-* [W3C Standards Table of Contents](https://www.w3.org/standards)
-* [W3C Standards Only](https://www.w3.org/TR/tr-date-stds.html) and [W3C All Standards and Drafts](https://www.w3.org/TR)
-
-W3C Tools
-* [W3C Developer Tools](http://w3c.github.io/developers/tools)
-
-JavaScript
-* [Ecma International Technical Committees and Task Groups](https://www.ecma-international.org/memento/TCs&TGs.htm)
-* [Ecma International, Technical Committee 39 GitHub](https://github.com/tc39)
-
-Node
-* [Node.js GitHub](https://github.com/nodejs)
-
-The Chromium Projects
-* ["How to make a web standards proposal"](https://www.chromium.org/developers/how-tos/make-a-web-standards-proposal)
-
-<!--
-https://w3c.github.io/
-https://en.wikipedia.org/wiki/World_Wide_Web_Consortium
-
-https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force
-
-https://github.com/tc39/proposals
-https://github.com/nodejs/TSC | nodejs/TSC: The Node.js Foundation Technical Steering Comittee
-
-
-https://v8.dev/docs
-https://github.com/v8/node/
-https://tc39.es/ecma262/
-https://github.com/tc39/ecma262
-https://webassembly.github.io/spec/core/
-https://chromium.googlesource.com/chromium/src/+/master/third_party/blink/renderer/bindings/core/v8/V8BindingDesign.md | Design of V8 bindings
-
-https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5
-https://html.spec.whatwg.org/multipage/
 -->
 
 ## Recommended
@@ -702,8 +575,6 @@ https://github.com/NixOS/nixpkgs
 * [Sass Basics](http://sass-lang.com/guide)
 
 <!--
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
 https://jekyllrb.com/docs/deployment-methods
 https://jekyllrb.com/docs/continuous-integration
 
@@ -731,7 +602,6 @@ React and Vue Alternatives
 * [Alpine GitHub](https://github.com/alpinejs/alpine)
 
 JamStack Site Frameworks (other than Jekyll)
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
 * [Hugo](https://gohugo.io/)
 
 Mojombo
@@ -1001,11 +871,6 @@ https://reactjs.org/docs/faq-internals.html | Virtual DOM and Internals – Reac
 -->
 
 ## JavaScript Ecosystem
-
-JSX (Syntax Extension; React)
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
-* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
 <!--
 https://reactjs.org/docs/faq-internals.html
