@@ -381,15 +381,20 @@ https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on T
 https://carpentries.org/
 
 
-http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
-https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
-
 https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
+
+https://home.cern/topics/birth-web | The birth of the web | CERN
+https://home.cern/science/computing/birth-web | The birth of the Web | CERN
+https://www.w3.org/DesignIssues/Architecture.html
+https://css-tricks.com/chapter-1-birth/
+
+http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
+https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
 
 https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
 https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
@@ -681,12 +686,6 @@ https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfoli
 http://meowni.ca/posts/emoji-emoji-emoji/
 
 https://computationalthinking.mit.edu/Fall20/
-
-Important
-https://home.cern/topics/birth-web | The birth of the web | CERN
-https://home.cern/science/computing/birth-web | The birth of the Web | CERN
-https://www.w3.org/DesignIssues/Architecture.html
-https://css-tricks.com/chapter-1-birth/
 
 Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
