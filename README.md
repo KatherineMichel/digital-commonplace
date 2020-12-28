@@ -1088,6 +1088,8 @@ https://twitter.com/sama/status/1337464959408754691 | Sam Altman on Twitter: "Fu
 Important
 https://pioneer.app/leaderboard | Leaderboard | Pioneer
 
+https://awards.cmxhub.com/ | CMX
+
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
 
 Checkbox Art/ASCII Art
@@ -1112,8 +1114,12 @@ https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfoli
 
 https://wizardzines.com/zines/css/ | Hell Yes! CSS!
 
+https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
+
 Important
 https://home.cern/science/computing/birth-web | The birth of the Web | CERN
+
+https://twitter.com/wakaleo/status/854702550469234692
 
 Important! Atomic Design
 https://twitter.com/IbrahimCodes/status/1339671093880209410 | https://twitter.com/IbrahimCodes/status/1339671093880209410
@@ -1129,10 +1135,15 @@ https://twitter.com/Traditional2D/status/789476349979136005
 https://twitter.com/balajis/status/1305886351737249792 | balajis.com on Twitter: "From 2013. https://t.co/jjCF1xfGLp" / Twitter
 
 Important!
+https://www.amazon.com/dp/B076VX53K1/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+https://medium.com/@crowquine/product-management-tools-for-startups-b13510506d99#.t4ufkaha4
+https://github.com/RahulJanagouda/AwesomeProductManager
 https://www.productmanual.co/ | Product Manual
+https://medium.com/@crowquine/product-management-tools-for-startups-b13510506d99#.t4ufkaha4
 https://medium.com/@samdebrule/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Gargantuan Product & Design Resource Hub – Sam DeBrule – Medium
 https://blog.usejournal.com/almost-every-product-design-resource-you-need-to-understand-the-tech-ecosystem-3d734f9c1a22 | The Ultimate Guide to Product & Design in the Tech Ecosystem
 http://firstround.com/review/17-product-managers-who-will-own-the-future-of-nyc-tech-and-the-9-frameworks-theyll-use-to-do-it/ | 17 Product Managers Who Will Own the Future of NYC Tech — and the 9 Frameworks They’ll Use to Do It | First Round Review
+https://find.xyz/map/product-management-search-engine | Product Management Search Engine | Product Management Search Engine | Find
 
 https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
 
@@ -1142,6 +1153,8 @@ https://cutle.fish/blog/product-development-team-self-assessment | Product Devel
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
+
+https://computationalthinking.mit.edu/Fall20/
 
 Accessibility
 https://www.youtube.com/watch?v=Kl4CT4DaypM&feature=youtu.be
@@ -1182,12 +1195,21 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 Good advice
 http://www.catb.org/~esr/faqs/hacker-howto.html
 
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://github.com/webpro/programming-principles
+
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
 
 Patterns
 http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2018-10.html#e2018-10-05T15_39_10.htm | Knowing and Doing: October 2018 Archives
 
+https://avdi.codes/simple-is-complex/ | Simple is Complex – avdi.codes
+
 https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html | The Grand Unified Theory of Software Architecture - danuker | freedom & tech
 
 https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 
@@ -1222,6 +1244,18 @@ https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies 
 
 https://twitter.com/pystar/status/1336205795210432512 | https://twitter.com/pystar/status/1336205795210432512
 
+http://www.arewewebyet.org/ | Are we web yet? Yes, and it's freaking fast!
+https://github.com/llvm/llvm-project
+Like the other
+http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
+
+https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
+
+https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
+https://clig.dev/
+https://github.com/cli-guidelines/cli-guidelines
+
 https://twitter.com/LiyaSileshi/status/1335457578789163009 | Liya Tilahun on Twitter: "@PrasoonPratham @TensorFlow Wow this is super cool! I’m a JavaScript developer and just started using TensorFlow for my deep learning class (which is in python). Excited to learn more about TensorFlow.js and make some cool projects! 😄" / Twitter
 
 https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/ | The usability of HTML elements – Terence Eden’s Blog
@@ -1232,6 +1266,11 @@ https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Fr
 https://www.coursera.org/specializations/web-design | Web Design for Everybody: Basics of Web Development & Coding | Coursera
 
 https://devblogs.microsoft.com/visualstudio/checklist-for-writing-great-visual-studio-extensions/ | Checklist for writing great Visual Studio extensions | The Visual Studio Blog
+
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
+https://twitter.com/ericholscher/status/1324485189142155265 | Eric Holscher on Twitter: "👏👏 @alex_gaynor https://t.co/4byTQBnK2A https://t.co/cDRvoZgMUx" / Twitter
+
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
 
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
@@ -1244,6 +1283,7 @@ https://testdriven.io/blog/django-performance-testing/ | Automating Performance 
 Datasette
 https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
 
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
 https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
 
 https://docs.sweeting.me/s/against-curl-sh | Don’t distribute packages via curl | sh (but not for the reasons you think) - CodiMD
