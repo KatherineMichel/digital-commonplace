@@ -683,6 +683,20 @@ https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf 
 https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
 https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
 
+
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
+
+Amir
+https://cmxhub.com/video-amir-shevat-slacks-developer-relations-strategy/ | [Video] Amir Shevat: Slack's Developer Relations Strategy
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+Jane
+https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
+
+
 http://meowni.ca/posts/emoji-emoji-emoji/
 
 https://computationalthinking.mit.edu/Fall20/
@@ -1557,13 +1571,12 @@ https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-git
 ## Case Studies
 
 <!--
+Simon
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+
 Sarah
 https://vuejs.org/v2/guide/ | Introduction — Vue.js
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Netlify
-https://million-devs.netlify.com/
-https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
 
 Next
 https://nextjs.org/showcase | Showcase | Next.js
@@ -1786,6 +1799,7 @@ https://twitter.com/bdougieYO
 
 https://github.com/bdougie/github-actions-continuous-delivery
 
+https://opensauced.pizza/ | Open Sauced
 https://twitter.com/saucedopen/
 https://www.meetup.com/Open-Sauced-Meetup/
 https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
@@ -2187,6 +2201,7 @@ https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode
 
 https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 
+https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
 
 Florin
@@ -2244,6 +2259,11 @@ https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resourc
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
 https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
+
+Netlify
+https://million-devs.netlify.com/
+https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/ | The Making of: Netlify's Million Devs SVG Animation Site | CSS-Tricks
+https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
 
 Sarah Drasner
 https://twitter.com/sarah_edo/status/1244991486250217472
@@ -2574,7 +2594,6 @@ https://github.com/search?q=django+feature+flags | Search · django feature flag
 https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
 https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 -->
-
 
 ## Structuring Your Python Project
 
@@ -3636,9 +3655,6 @@ Good
 https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
-
-Case study
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
 
 
 React
