@@ -233,6 +233,7 @@ https://stories.forpeople.studio/
 ### Community
 
 https://cmxhub.com/ | Home | CMX
+https://awards.cmxhub.com/ | CMX
 https://leaddev.com/
 
 https://tessakriesel.com
@@ -280,6 +281,9 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 
 <!--
 ## Portfolio Ideas
+
+http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
+https://winners.webbyawards.com/winners/websites
 
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
@@ -634,14 +638,22 @@ https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ |
 Checklists
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
-https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc | AWS Well-Architected - Build secure, efficient cloud applications
-
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
 
 
 https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+
+
+https://dev.to/mbbroberg/help-make-community-more-valuable-by-sharing-your-metrics-2c9b
+
+Metrics for Open Source Events
+https://opensource.com/article/20/11/chaoss-open-source-events
+https://twitter.com/GeorgLink/status/1329786944142897152 | https://twitter.com/GeorgLink/status/1329786944142897152
+https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md
+https://en.wikipedia.org/wiki/GQM
+https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit
 
 http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
 
@@ -660,16 +672,6 @@ Teams
 https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
 http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
 
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-Jane
-https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
-
-Luke
-https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
 
 https://twitter.com/Code4PuertoRico/
 
@@ -1001,17 +1003,6 @@ https://github.com/carljm/dotfiles
 ## Technical Writing Tools
 
 <!--
-https://dev.to/devteam/dev-is-now-web-monetized-21db | DEV is now Web Monetized
-
-https://lwn.net/op/AuthorGuide.lwn | Writing for LWN [LWN.net]
-
-https://opensource.com/submission-style-guide | Article submission and style guide | Opensource.com
-https://substack.com/content | Content Guidelines
-
-Real Python, Digital Ocean, Traversy Media, Egghead, Free Code Camp
--->
-
-<!--
 https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
 https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
 
@@ -1132,6 +1123,7 @@ https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a 
 <!--
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
 
 https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
 
@@ -1143,7 +1135,6 @@ https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twi
 https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
 https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
-
 
 http://sijinjoseph.com/programmer-competency-matrix/
 
@@ -1650,9 +1641,6 @@ Playgrounds
 * [CodePen Blog](https://blog.codepen.io/)
 
 <!--
-Great Dev Blogs
-https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
-
 Twilio
 https://www.twilio.com/video | Twilio Video | Video SDKs for iOS, Android, JavaScript and web-based video
 https://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video | Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video - Twilio
@@ -1704,6 +1692,9 @@ Streamers
 * [Mish Manners GitHub](https://github.com/MishManners) and [Mish Manners Twitter](https://twitter.com/MishManners)
 
 <!--
+Great Dev Blogs
+https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
+
 GitHub- Twitch
 https://www.twitch.tv/github | (6) GitHub - Twitch
 https://www.twitch.tv/twitterdev
@@ -1872,11 +1863,7 @@ Python Articles and Tutorials
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
-https://awards.cmxhub.com/ | CMX
-
 http://stackshare.io/posts/
-
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 
@@ -2106,6 +2093,16 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
+Jane
+https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+
+
 https://codepen.io/KatherineMichel
 https://repl.it/@KatherineMichel/
 
