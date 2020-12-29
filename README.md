@@ -1646,6 +1646,7 @@ Built With
 * [Vue Showcase](https://madewithvuejs.com/)
 
 <!--
+https://reactnative.dev/showcase | Who's using React Native? · React Native
 https://reactjs.org/community/examples.html
 
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
@@ -2325,7 +2326,7 @@ https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS an
 https://codepen.io/jen4web/
 https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
 
-
+https://github.com/FrontendMasters/bootcamp/tree/master/src/layouts | bootcamp/src/layouts at master · FrontendMasters/bootcamp
 https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
 
 Frontend- Important
@@ -2336,10 +2337,19 @@ https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Master
 https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
 https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
 
+https://frontendmasters.github.io/bootcamp/layout#introducing-flexbox | Frontend Masters Bootcamp
 https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
 https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#shorthand | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
+
 https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms#web-fonts | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
+
+Frontend Master's Bootcamp
+https://codepen.io/jen4web/pen/xymQdz?editors=1100 | Exploring floats and clears
 
 https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
 
@@ -3627,7 +3637,31 @@ https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Tw
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
 
+Case study
 https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+
+
+React
+https://www.taniarascia.com/getting-started-with-react/
+https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
+
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+
+
+PWA Topic
+https://github.com/topics/pwa | pwa · GitHub Topics
+
+PWA Pointer Events
+https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
+https://web.dev/discoverable/
+
+PWA Permissions
+https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
+https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
+
+SEO
+https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
 
 
 https://twitter.com/mdx_js
@@ -3817,6 +3851,13 @@ Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
 <!-- 
+https://vercel.com/solutions/react | React - Solutions – Vercel
+
+Create React
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
+
 https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
 
 React Server Components
@@ -3867,7 +3908,8 @@ https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssemb
 ## Mobile Optimized
 
 Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/)
+* [Flutter](https://flutter.dev/) and [Flutter GitHub](https://github.com/flutter/flutter)
+* [Dart](https://dart.dev/)
 
 Create React App
 * ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
@@ -3881,19 +3923,25 @@ Expo- React Native Platform
 * [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
 
 Push Notifications
-* [Firebase](https://firebase.googleblog.com/ )
+* [Firebase](https://firebase.googleblog.com/)
+* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase )
 * [OneSignal (used by Expo)](https://onesignal.com/)
 
 <!--
-Firebase alternative
-https://github.com/supabase/supabase | supabase/supabase: Website, docs, and client libraries. Follow to stay updated about our public Beta.
-
-https://github.com/flutter/flutter | flutter/flutter: Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+React Native
+https://github.com/facebook/react-native#-building-your-first-react-native-app | facebook/react-native: A framework for building native apps with React.
+https://reactnative.dev/docs/getting-started | Introduction · React Native
+https://reactnative.dev/docs/environment-setup | Setting up the development environment · React Native
 
 Firebase
 https://github.com/firebase/
+https://github.com/firebase/?q=python&type=&language= | Firebase
+
 https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
 https://firebase.google.com/use-cases | Firebase Use Cases
+https://firebase.google.com/docs/database
+https://firebase.google.com/support/release-notes/admin/node | Firebase Admin Node.js SDK Release Notes
+
 https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
 
 https://docs.expo.io/guides/using-gatsby/
@@ -3956,6 +4004,7 @@ https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog
 https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 
 11ty
+https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
 https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
 -->
 
