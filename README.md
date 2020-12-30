@@ -2786,6 +2786,7 @@ https://github.com/nice-boys/product-boilerplate
 -->
 
 <!--
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
 
@@ -2832,6 +2833,7 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-
 
 <!--
 https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
 -->
 
 <!--
@@ -3054,57 +3056,6 @@ https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
 
-## Accessibility
-
-<!--
-Accessibility is SEO friendly
-
-https://en.wikipedia.org/wiki/Color_blindness#:~:text=Red%E2%80%93green%20color%20blindness%20affects,also%20decreases%20in%20old%20age. | Color blindness - Wikipedia
-https://www.w3.org/WAI/GL/wiki/Relative_luminance#:~:text=WCAG%20definition%20of%20relative%20luminance,and%201%20for%20lightest%20white | Relative luminance - WCAG WG
-
-https://developers.google.com/web/fundamentals/accessibility | Accessibility  |  Web Fundamentals  |  Google Developers
-
-Microsoft
-https://www.youtube.com/watch?v=Kl4CT4DaypM&feature=youtu.be
-https://github.com/microsoft/Web-Dev-For-Beginners/blob/main/1-getting-started-lessons/3-accessibility/README.md | Web-Dev-For-Beginners/README.md at main · microsoft/Web-Dev-For-Beginners
-
-https://www.a11yproject.com/checklist/ | Checklist - The A11Y Project
-
-https://www.youtube.com/watch?v=ys7cy7njkvA | Accessibility Matters: Creating a Better Web - YouTube
-https://docs.google.com/presentation/d/1KSWrG0a6scX1qjLpaW9PUCFNuniKm7X5_2kRXQl8D9o/edit#slide=id.g3379d25894_0_635 | A11y for modern web apps - Google Slides
-
-
-https://www.evernote.com/shard/s8/client/snv?noteGuid=0519cc1d-09d5-49a2-a5d4-4b7c350b440b&noteKey=f348b28f347337d1&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs8%2Fsh%2F0519cc1d-09d5-49a2-a5d4-4b7c350b440b%2Ff348b28f347337d1&title=Web%2BAccessibility%2BWCAG%2B2.0%2B-%2BCodemash%2Bby%2BNathan%2BLoding%2B%2540NathanLoding | Web Accessibility WCAG 2.0 - Codemash by Nathan Loding @NathanLoding
-
-Official specification
-https://www.w3.org/TR/wai-aria/
-https://www.w3.org/TR/WCAG21/
-https://www.w3.org/WAI/test-evaluate/preliminary/
-https://www.w3.org/WAI/WCAG21/quickref/?versions=2.0 | How to Meet WCAG (Quickref Reference)
-
-https://webaim.org/standards/wcag/checklist
-https://www.wuhcag.com/wcag-checklist/
-
-https://www.section508.gov/create/web-content | Developing Accessible Web Content | Section508.gov
-
-https://support.freedomscientific.com/Products/Blindness/JAWSdocumentation | JAWS Screen Reader - Documentation
-
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/HTML
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/CSS_and_JavaScript
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/What_is_accessibility | What is accessibility? - Learn web development | MDN
-
-ARIA
-https://webaim.org/techniques/aria/
-https://www.w3.org/TR/wai-aria-practices-1.2/#aria_ex
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA
-https://developer.mozilla.org/en-US/docs/Learn/Accessibility/WAI-ARIA_basics
-https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/List_role | ARIA: List role - Accessibility | MDN
-
-https://engineering.fb.com/web/facebook-com-accessibility/ | Building greater accessibility into Facebook.com - Facebook Engineering
--->
-
-
 ## Google Chrome Dev Tools
 
 <!--
@@ -3162,15 +3113,16 @@ Measure
 * [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
 * [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
 
-Semantics/SEO/Accessibility
-* [Google Search Engine Optimization Starter Guide](http://www.google.com/webmasters/docs/search-engine-optimization-starter-guide.pdf)
-
 <!--
 Performance
 
 https://web.dev/fast/
 
+https://github.com/GoogleChrome/web-vitals-extension
+
+https://developers.google.com/web/tools/lighthouse#devtools
 https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
+https://github.com/GoogleChrome/lighthouse-ci/blob/master/docs/getting-started.md
 
 Web Vitals
 https://twitter.com/ChromiumDev/status/1257701879242514433
@@ -3178,7 +3130,6 @@ https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitt
 
 https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
 
-Performance
 https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
 
 https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
