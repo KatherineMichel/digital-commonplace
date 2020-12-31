@@ -2261,6 +2261,7 @@ https://github.com/btholt/node-example-app | btholt/node-example-app: The hello 
 http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
 https://frontendmasters.github.io/bootcamp/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://github.com/FrontendMasters/bootcamp
 
 https://codepen.io/jen4web/
 https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
