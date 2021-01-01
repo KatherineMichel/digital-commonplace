@@ -98,7 +98,7 @@ Conferences- Python
 * [Python Conferences Mailing List](https://mail.python.org/mailman/listinfo/conferences)
 
 <!--
-https://github.com/python-organizers/conferences/blob/master/2020.csv
+https://github.com/python-organizers/conferences/blob/master/2021.csv
 https://www.python.org/events/python-events/past/?page=2
 https://www.python.org/events/python-user-group/ | Our Events | Python.org
 https://www.meetup.com/pro/python-software-foundation-meetups/ | Python Software Foundation Meetup Pro Network | Meetup Pro - Meetup
@@ -156,10 +156,16 @@ https://2020.djangocon.us/
 https://www.youtube.com/DjangoConUS
 https://www.youtube.com/channel/UC0yY6a79pPY9J0ShIHRf6yw/videos | DjangoCon US - YouTube
 
+EuroPython 2021, July 26 to August 1
+https://www.python.org/events/python-events/964/
+
+March 22 to 26
+https://2021.pythonwebconf.com/ | Python Web Conference 2021
+https://2021.pythonwebconf.com/schedule
+
+Cancelled
 https://www.papercall.io/pytn-2021 | PaperCall.io - PyTennessee 2021
 https://2021.pytennessee.org/ | PyTennessee returns March 5, 2021
-
-https://2021.pythonwebconf.com/ | Python Web Conference 2021
 -->
 
 <!--
@@ -182,7 +188,7 @@ https://www.youtube.com/c/Gitlab/videos | (2) GitLab - YouTube
 
 https://www.eventbrite.com/d/ca--san-francisco/events/ | San Francisco, CA Events & Things To Do | Eventbrite
 
-SF Python
+SF Python- Lightning Talk
 https://www.youtube.com/c/SFPython/videos
 https://www.sfpythonmeetup.com/ | SF Python
 https://www.meetup.com/sfpython/
@@ -211,6 +217,8 @@ San Diego Python
 https://www.meetup.com/pythonsd/
 https://www.youtube.com/channel/UCXU-oZwaHnoYUhja_yrrrGg/videos | San Diego Python - YouTube - YouTube
 
+Vancouver PyLadies
+
 Seattle PyLadies
 https://www.meetup.com/Seattle-PyLadies/ | Remote Lightning Talks and Human Bingo! | Meetup
 
@@ -222,19 +230,21 @@ https://twitter.com/Speakeasy_JS/
 ### Wichita and Kansas City
 
 <!--
+April 21 - 23, 2021, Kansas City Convention Center
+http://www.kcdc.info/ | KCDC | 2019
+
 DevICT
 https://www.meetup.com/devict/
+
+https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
+https://www.wichitaswe.org/calendar?view=calendar&month=01-2021
+
+Kansas City, St. Louis
+https://github.com/pythonkc
 
 DevICT
 https://www.grooverlabs.org/events | Events | Groover Labs
 https://www.eventbrite.com/e/groover-labs-presents-jennifer-akers-youtube-live-presentation-tickets-119357969901 | Groover Labs Presents Jennifer Akers (YouTube Live Presentation) Tickets, Tue, Sep 22, 2020 at 4:15 PM | Eventbrite
-
-https://www.wichitaswe.org/join-swe-1 | Join SWE! — SWE - Wichita Section
-
-http://www.kcdc.info/ | KCDC | 2019
-
-Kansas City, St. Louis
-https://github.com/pythonkc
 -->
 
 ## Open Source
@@ -249,11 +259,19 @@ https://www.youtube.com/playlist?list=PLxNYxgaZ8Rsf-7g43Z8LyXct9ax6egdSj | Bazel
 Google OS
 https://opensourcelive.withgoogle.com/events/new-open-source | Home - The new open source
 
-CHAOSS
-https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
 
-OSS Summit
-https://www.oreilly.com/conferences/oscon.html
+August 3 – 6, 2021
+Vancouver Convention Centre | Vancouver, BC 
+https://events.linuxfoundation.org/open-source-summit-north-america/
+https://events.linuxfoundation.org/open-source-summit-north-america/program/schedule/ | Schedule | Linux Foundation Events
+https://events.linuxfoundation.org/open-source-summit-europe/register/ | Register | Linux Foundation Events
+https://www.youtube.com/watch?v=xdpAlB-xeEY&feature=emb_logo
+
+https://events.linuxfoundation.org/
+
+Linux Conf AU
+https://events.linuxfoundation.org/lf-legal-summit/ | The Linux Foundation Legal Summit | Linux Foundation Events
+
 
 September 9-10 (State of the Source)
 https://opensource.org/StateOfTheSource | State of the Source Summit | Open Source Initiative
@@ -267,21 +285,16 @@ https://2020.allthingsopen.org/speakers/
 https://2020.allthingsopen.org/sessions/getting-started-with-ci-cd-using-github-actions/ | Getting Started with CI/CD using Github Actions : All Things Open 2020
 
 FOSDEM
-https://fosdem.org/2021/news/2020-09-01-dates-fosdem-2021/ | FOSDEM 2021 - Next FOSDEM: 6 & 7 February 2021, online
+https://www.facebook.com/fosdem | FOSDEM | Facebook
+https://fosdem.org/2021/ | FOSDEM 2021 - Home
 https://fosdem.org/2020/schedule/
 
 https://fosdem.org/2018/schedule/track/community/ | FOSDEM 2018 - Community devroom
 https://fosdem.org/2018/schedule/event/python3/ | FOSDEM 2018 - Python 3: 10 years laterchow
 https://archive.fosdem.org/2019/ | FOSDEM 2019 - Home
 
-https://events.linuxfoundation.org/
-
-Linux Conf AU
-https://events.linuxfoundation.org/lf-legal-summit/ | The Linux Foundation Legal Summit | Linux Foundation Events
-https://events.linuxfoundation.org/open-source-summit-north-america/
-https://events.linuxfoundation.org/open-source-summit-north-america/program/schedule/ | Schedule | Linux Foundation Events
-https://events.linuxfoundation.org/open-source-summit-europe/register/ | Register | Linux Foundation Events
-https://www.youtube.com/watch?v=xdpAlB-xeEY&feature=emb_logo
+OSS Summit- cancelled?
+https://www.oreilly.com/conferences/oscon.html
 -->
 
 
