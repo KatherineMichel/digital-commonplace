@@ -633,6 +633,49 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
+https://cmxhub.com/ | Home | CMX
+https://leaddev.com/
+
+Lead Dev
+https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
+https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
+https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
+https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
+
+
+Hotwire
+https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
+
+React Server
+https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
+
+CodePen
+https://codepen.io/2019/popular/pens | Top Pens of 2019 on CodePen
+
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+
+https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+
+
+pytest
+https://docs.pytest.org/
+https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
+https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
+
+Contributing
+https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
+
+https://twitter.com/Code4PuertoRico/
+
 https://github.com/ashleywolf?tab=stars | ashleywolf (Ashley Wolf) / Starred
 
 According to the GitHub's [2017 Open Source Survey](https://opensourcesurvey.org/2017/), "Documentation is highly valued, but often overlooked." 
@@ -643,6 +686,29 @@ GitHub Universe- Metrics that Matter
 
 The GitHub Open Source Guides "[Checklist Before You Contribute](https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute)" section can be used by prospective contributors to evaluate whether or not to contribute to a project. I used it to evaluate Pinax meets the checklist standards.
 
+https://dev.to/mbbroberg/help-make-community-more-valuable-by-sharing-your-metrics-2c9b
+
+Metrics for Open Source Events
+https://opensource.com/article/20/11/chaoss-open-source-events
+https://twitter.com/GeorgLink/status/1329786944142897152 | https://twitter.com/GeorgLink/status/1329786944142897152
+https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md
+https://en.wikipedia.org/wiki/GQM
+https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit
+
+OS- Important
+https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md | wg-app-ecosystem/event-organizers.md at master · chaoss/wg-app-ecosystem
+https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit | APP Ecosystem GQM - Google Docs
+https://en.wikipedia.org/wiki/GQM | GQM - Wikipedia
+https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
+
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+Bazel
+https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 | Watch - Bazel Persistent workers
+
+https://opensource.com/article/19/2/contributing-gitlab | Getting started as a GitLab contributor | Opensource.com
 
 Project
 https://ohshitgit.com/
@@ -686,47 +752,9 @@ Templates
 https://dev.to/thawkin3/a-checklist-manifesto-the-importance-of-merge-request-templates-2jd6 | A Checklist Manifesto: The Importance of Merge Request Templates - DEV Community 👩‍💻👨‍💻
 
 
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
-
-https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
-
-
-https://dev.to/mbbroberg/help-make-community-more-valuable-by-sharing-your-metrics-2c9b
-
-Metrics for Open Source Events
-https://opensource.com/article/20/11/chaoss-open-source-events
-https://twitter.com/GeorgLink/status/1329786944142897152 | https://twitter.com/GeorgLink/status/1329786944142897152
-https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md
-https://en.wikipedia.org/wiki/GQM
-https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit
-
-http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-pytest
-https://docs.pytest.org/
-https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
-https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
-
-Contributing
-https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
-
-
 Teams
 https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
 http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
-
-https://twitter.com/Code4PuertoRico/
 
 
 http://meowni.ca/posts/emoji-emoji-emoji/
