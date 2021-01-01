@@ -14,7 +14,7 @@ http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building
 
 * Atomic Habits
 * Deep Work
-* Checklist Manifesto
+* Checklist Manifestof
 * Maker's Schedule/Manager's Schedule
 
 https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
@@ -632,6 +632,59 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 
 <!--
 ## Look Through
+
+https://github.com/ashleywolf?tab=stars | ashleywolf (Ashley Wolf) / Starred
+
+According to the GitHub's [2017 Open Source Survey](https://opensourcesurvey.org/2017/), "Documentation is highly valued, but often overlooked." 
+
+GitHub Universe- Metrics that Matter
+
+* [GitHub Open Source Guide Metrics](https://opensource.guide/metrics/)
+
+The GitHub Open Source Guides "[Checklist Before You Contribute](https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute)" section can be used by prospective contributors to evaluate whether or not to contribute to a project. I used it to evaluate Pinax meets the checklist standards.
+
+
+Project
+https://ohshitgit.com/
+
+Metrics
+https://twitter.com/jasoncwarner/status/1337417785681428480 | https://twitter.com/jasoncwarner/status/1337417785681428480
+
+Metrics- Important
+https://www.infoq.com/articles/understandability-metric-not-tracking/ | Understandability: The Most Important Metric You’re Not Tracking
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+Google Open Source Report Card
+https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
+Groupon Open Source Report Card
+https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
+
+Heroku
+https://dev.to/heroku/we-need-better-virtual-dev-conferences-4fjn | We Need Better Virtual Dev Conferences - DEV Community 👩‍💻👨‍💻
+
+https://github.blog/2020-12-21-visualizing-githubs-global-community/ | Visualizing GitHub’s global community - The GitHub Blog
+
+Notifications
+https://mobile.twitter.com/aaronbassett/status/1248353221678116864
+
+https://twitter.com/osdiversity | Open Source Diversity 🌼 (@osdiversity) / Twitter
+
+http://opensourcedesign.net/
+
+OS Governance- Priority
+http://stormyscorner.com/2020/09/what-open-source-governance-models-are-available.html | What open source governance models are available? – Stormy's Corner
+
+Charter
+https://github.com/cncf/foundation/blob/master/charter.md | foundation/charter.md at master · cncf/foundation
+
+Europe- sustainability
+https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities | Guidelines for creating sustainable open source communities | Joinup
+
+https://dev.to/salesforcedevs/how-to-help-hacktoberfest-contributors-become-long-term-community-members-4nig | How to help Hacktoberfest contributors become long term community members - DEV Community 👩‍💻👨‍💻
+
+Templates
+https://dev.to/thawkin3/a-checklist-manifesto-the-importance-of-merge-request-templates-2jd6 | A Checklist Manifesto: The Importance of Merge Request Templates - DEV Community 👩‍💻👨‍💻
+
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
