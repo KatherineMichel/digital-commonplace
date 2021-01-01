@@ -666,6 +666,9 @@ https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.ht
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 
 
+CHAOSS
+https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
+
 pytest
 https://docs.pytest.org/
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
