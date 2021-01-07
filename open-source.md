@@ -82,6 +82,64 @@ Templates
 https://dev.to/thawkin3/a-checklist-manifesto-the-importance-of-merge-request-templates-2jd6 | A Checklist Manifesto: The Importance of Merge Request Templates - DEV Community 👩‍💻👨‍💻
 -->
 
+## Case Studies
+
+<!--
+Simon
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Next
+https://nextjs.org/showcase | Showcase | Next.js
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
+https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
+
+Redwood/React
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+
+Ghost
+https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
+https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
+https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
+
+Cosmic
+https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
+https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
+https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
+
+Cosmic
+https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+
+Jake
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+-->
+
 ## Open Source Guides
 
 GitHub Open Source Guides
