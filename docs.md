@@ -1,6 +1,9 @@
 # Docs
 
 <!--
+https://github.com/rgs258/django-markdown-view
+https://twitter.com/FlipperPA/status/1296430919704809472 | Tim A. on Twitter: "@mariatta @zapier Markdown and READMEs with @rgs258’s https://t.co/42wsEpmfiP - simple is better than complex!" / Twitter
+
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://simonwillison.net/2017/Jul/7/doc-of-docs/ | Doc of docs
 -->
