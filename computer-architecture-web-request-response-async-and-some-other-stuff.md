@@ -1,24 +1,9 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-Bread and crud
-https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
-
-http://www.arewewebyet.org/ | Are we web yet? Yes, and it's freaking fast!
-https://github.com/llvm/llvm-project
-Like the other
-http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
-
-MongoDB/Cap
-https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
-https://github.com/dcramer/mangodb
-
-https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
-
 https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
 
 https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
-
 
 https://en.wikipedia.org/wiki/X_Window_System#Principles
 
@@ -26,6 +11,27 @@ https://en.wikipedia.org/wiki/User_agent
 https://simple.wikipedia.org/wiki/Packet_(computing)
 
 https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+
+
+http://www.arewewebyet.org/ | Are we web yet? Yes, and it's freaking fast!
+https://github.com/llvm/llvm-project
+Like the other
+http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
+
+Bread and crud
+https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
+
+MongoDB/Cap
+https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
+https://github.com/dcramer/mangodb
+
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+
+https://github.com/snowflakedb | Snowflake Computing
+https://prestodb.io/
+
+https://en.wikipedia.org/wiki/POSIX
+https://pop.system76.com/
 
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
