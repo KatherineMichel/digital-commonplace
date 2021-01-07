@@ -1,5 +1,87 @@
 # Open Source
 
+<!--
+Contributing
+https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
+
+https://twitter.com/Code4PuertoRico/
+
+https://github.com/ashleywolf?tab=stars | ashleywolf (Ashley Wolf) / Starred
+
+According to the GitHub's [2017 Open Source Survey](https://opensourcesurvey.org/2017/), "Documentation is highly valued, but often overlooked." 
+
+GitHub Universe- Metrics that Matter
+
+* [GitHub Open Source Guide Metrics](https://opensource.guide/metrics/)
+
+The GitHub Open Source Guides "[Checklist Before You Contribute](https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute)" section can be used by prospective contributors to evaluate whether or not to contribute to a project. I used it to evaluate Pinax meets the checklist standards.
+
+https://dev.to/mbbroberg/help-make-community-more-valuable-by-sharing-your-metrics-2c9b
+
+Metrics for Open Source Events
+https://opensource.com/article/20/11/chaoss-open-source-events
+https://twitter.com/GeorgLink/status/1329786944142897152 | https://twitter.com/GeorgLink/status/1329786944142897152
+https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md
+https://en.wikipedia.org/wiki/GQM
+https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit
+
+OS- Important
+https://github.com/chaoss/wg-app-ecosystem/blob/master/event-organizers.md | wg-app-ecosystem/event-organizers.md at master · chaoss/wg-app-ecosystem
+https://docs.google.com/document/d/1ghREXIO5C9PLiwXMtouOR4AjPLGz9pD34LIxO8N2-xo/edit | APP Ecosystem GQM - Google Docs
+https://en.wikipedia.org/wiki/GQM | GQM - Wikipedia
+https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
+
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
+
+Bazel
+https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 | Watch - Bazel Persistent workers
+
+https://opensource.com/article/19/2/contributing-gitlab | Getting started as a GitLab contributor | Opensource.com
+
+Project
+https://ohshitgit.com/
+
+Metrics
+https://twitter.com/jasoncwarner/status/1337417785681428480 | https://twitter.com/jasoncwarner/status/1337417785681428480
+
+Metrics- Important
+https://www.infoq.com/articles/understandability-metric-not-tracking/ | Understandability: The Most Important Metric You’re Not Tracking
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+Google Open Source Report Card
+https://opensource.googleblog.com/2016/10/google-open-source-report-card.html | Google Open Source Report Card | Google Open Source Blog
+Groupon Open Source Report Card
+https://github.com/groupon/report-card | groupon/report-card: An Open Source Report Card
+
+Heroku
+https://dev.to/heroku/we-need-better-virtual-dev-conferences-4fjn | We Need Better Virtual Dev Conferences - DEV Community 👩‍💻👨‍💻
+
+https://github.blog/2020-12-21-visualizing-githubs-global-community/ | Visualizing GitHub’s global community - The GitHub Blog
+
+Notifications
+https://mobile.twitter.com/aaronbassett/status/1248353221678116864
+
+https://twitter.com/osdiversity | Open Source Diversity 🌼 (@osdiversity) / Twitter
+
+http://opensourcedesign.net/
+
+OS Governance- Priority
+http://stormyscorner.com/2020/09/what-open-source-governance-models-are-available.html | What open source governance models are available? – Stormy's Corner
+
+Charter
+https://github.com/cncf/foundation/blob/master/charter.md | foundation/charter.md at master · cncf/foundation
+
+Europe- sustainability
+https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities | Guidelines for creating sustainable open source communities | Joinup
+
+https://dev.to/salesforcedevs/how-to-help-hacktoberfest-contributors-become-long-term-community-members-4nig | How to help Hacktoberfest contributors become long term community members - DEV Community 👩‍💻👨‍💻
+
+Templates
+https://dev.to/thawkin3/a-checklist-manifesto-the-importance-of-merge-request-templates-2jd6 | A Checklist Manifesto: The Importance of Merge Request Templates - DEV Community 👩‍💻👨‍💻
+-->
+
 ## Open Source Guides
 
 GitHub Open Source Guides
