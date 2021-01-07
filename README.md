@@ -52,6 +52,13 @@ https://twitter.com/sama/status/1337464959408754691 | Sam Altman on Twitter: "Fu
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
 
+Teams
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
+
+
 ## Learning
 
 Learning mental models
@@ -91,37 +98,6 @@ Stars
 Nuzzel
 * [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
 * [Friends' Feeds](https://nuzzel.com/friendsfeeds)
-
-
-## Personal Brand
-
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-
-Wow
-https://twitter.com/adriennefriend/status/1063457337481076736 | adriennefriend on Twitter: "Ever wonder what I'd be like as your engineering manager? Read what some of my direct reports had to say. https://t.co/v9lL633M22 https://t.co/fcbLsy28kq" / Twitter
-
-Brag documents
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
-
-
-## Demos and Other Content
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
 
 
 ## Fun Open Source Stuff
@@ -266,11 +242,25 @@ Talks
 https://twitter.com/simonw/status/1300193439573708800
 
 
+CHAOSS
+https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
+
+pytest
+https://docs.pytest.org/
+https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
+https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
+
+
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 http://talks.edunham.net/ | Index of /
 http://talks.edunham.net/codeconfLA2016/codeconfLA2016.pdf | codeconfLA2016.pdf
 https://users.rust-lang.org/t/rust-2020-growth/34956 | Rust 2020: Growth - community - The Rust Programming Language Forum
+
+Vicky
+https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
+https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
+https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
 
 Mariatta
 https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
@@ -408,219 +398,6 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
 
-## Testing and Stuff
-
-https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
-
-https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
-https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
-
-obeying the testing goat - Google Search
-https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-
-
-## Fast AI
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
-
-
-## Python and Django
-
-Ana
-https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
-https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
-
-
-https://pyfound.blogspot.com/2020/11/pip-20-3-new-resolver.html | Python Software Foundation News: Releasing pip 20.3, featuring new dependency resolver
-
-https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
-http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
-
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
-
-
-http://wsvincent.com/how-to-contribute-to-django-docs/
-
-https://docs.djangoproject.com/en/dev/misc/design-philosophies/ | Design philosophies | Django documentation | Django
-https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
-
-
-PEPs Graph
-https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
-
-https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
-
-https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
-
-
-https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
-
-https://twitter.com/webology/status/1339967069186633731 | Jeff Triplett 😷 on Twitter: "🤔 I think I'm going to start installing rich by default in my projects. I write a ton of cli apps and I frequently feel limited by output colors and styles. ✨ Just saying this out loud in case you haven't heard of rich yet." / Twitter
-
-Recommended by Jeff
-https://github.com/direnv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-https://pypi.org/project/python-decouple/
-
-pip-tools
-https://twitter.com/webology/status/1324134889172701190 | Jeff "voted 🗳 and wears a mask 😷 " Triplett on Twitter: "@epicserve Pip-tools is solid and you should use it with pip. You may want to try out poetry to see if it works with your workflow." / Twitter
-
-https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
-
-https://twitter.com/FlipperPA/status/1296430919704809472 | Tim A. on Twitter: "@mariatta @zapier Markdown and READMEs with @rgs258’s https://t.co/42wsEpmfiP - simple is better than complex!" / Twitter
-
-https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
-
-
-https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
-
-
-Python 3.9
-https://twitter.com/PrasoonPratham/status/1313392420038483968
-
-https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
-
-## Django
-
-https://djangobuilder.io/#/ | Django Builder
-
-https://django.doctor/challenge | Django Doctor - Django code improvement bot
-
-https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
-https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
-
-https://github.com/wsvincent/awesome-django
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
-Luke
-https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
-https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
-https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
-
-https://github.com/spookylukey/django-views-the-right-way/tree/master/code
-https://spookylukey.github.io/django-views-the-right-way/
-https://spookylukey.github.io/django-views-the-right-way/detail-view.html
-"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
-
-https://github.com/phildini/api-driven-django
-
-Kojo
-https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
-
-Class-based Sites
-https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
-
-https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
-
-Adam
-https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
-https://twitter.com/AdamChainz/status/1324680039250776070 | Adam Johnson on Twitter: "Django uses descriptors to power its database field "magic". @raymondh 's new guide to descriptors in the Python 3.9 docs is a great source for understanding how they work! https://t.co/3ZsHUB0KTA" / Twitter
-
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
-https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
-
-https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
-https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
-https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
-
-https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
-https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
-https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
-
-https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
-https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
-https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
-
-
-## Python Talks
-
-https://github.com/vmbrasseur/Public_Speaking | vmbrasseur/Public_Speaking
-http://anonymoushash.vmbrasseur.com/2017/09/11/advice-for-new-speakers/ | Advice for new speakers – {anonymous => 'hash'};
-https://twitter.com/ThatMightBePaul/status/1298623354698596353 | Paul Burt 🍕 on Twitter: "Adopt a "design language" for your deck. All that means is make certain backgrounds, fonts, slide layouts "special" for certain types of slides. IMO, this is most effective when signalling chapter or topic transitions to the audience." / Twitter
-
-Vicky
-https://twitter.com/vmbrasseur/status/1299006363406749696 | VM (Vicky) Brasseur on Twitter: "@KatiMichel Soon the video will be up at the same link where you can already find the slides: https://t.co/mhOO16rS7c :-)" / Twitter
-https://twitter.com/dnsmichi/status/1298973510333734913 | Michael Friedrich 🦊 on Twitter: ""There were no docs for how to use it and they told me just to read the code." When starting as #opensource maintainer, I told contributors the same. I was so wrong. Docs for design, style guides, development are super important! 🤝 #community #GitLabCommit @vmbrasseur https://t.co/iGRoDahgkY" / Twitter
-https://twitter.com/dnsmichi/status/1298975466921967624 | https://twitter.com/dnsmichi/status/1298975466921967624
-
-https://osem.seagl.org/conferences/seagl2020/program/proposals/779
-https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
-
-https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
-
-Nina
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-
-## Security
-
-Django security
-https://learndjango.com/tutorials/django-best-practices-security
-
-https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
-https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy | Threat Models for Differential Privacy | NIST
-https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
-
-GitHub
-https://github.blog/2020-09-02-how-we-threat-model/
-https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/ | Secure at every step: What is software supply chain security and why does it matter? - The GitHub Blog
-
-Threat Modelling
-https://twitter.com/jeremyphoward/status/1097602570057482240 | Jeremy Howard on Twitter: "Great list of threat modeling experts compiled in this thread - have a look at their work and follow them if you're interested in the issues stemming from the @openai language model project. Would be great to have similar lists for medical, nuclear, etc research issues!… https://t.co/Xu6cDKyHm5"
-
-https://github.com/magoo/minimalist-risk-management
-
-Hacking
-https://samsclass.info/123/123_F18.shtml | CNIT 123: Ethical Hacking and Network Defense -- Sam Bowne
-https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
-
-Checklist
-https://securitycheckli.st/ | Security Checklist
-https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
-Dark PDF and light PDF
-
-https://github.com/jacobian/infosec-engineering | jacobian/infosec-engineering: A reading list for infosec engineers
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
-
-GitHub
-https://www.shhgit.com/ | shhgit: find secrets in real time across GitHub, GitLab and BitBucket
-https://twitter.com/wsv3000/status/1317267405106708480 | William Vincent on Twitter: "https://t.co/VY3NPtAdJV This website is amazing and scary." / Twitter
-
-https://docs.npmjs.com/getting-started/running-a-security-audit
-https://www.pagerduty.com/blog/security-training-at-pagerduty/
-
-Pen testing 
-https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
-
-Snyk
-https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
-
-
 ## Social Media
 
 Practical Dev
@@ -634,9 +411,15 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 -->
 
 
-
 <!--
 ## Look Through
+
+Gaming
+https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
+
+http://meowni.ca/posts/emoji-emoji-emoji/
+
+
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 Checklists
@@ -649,30 +432,6 @@ https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architec
 https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 
-
-CHAOSS
-https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
-
-pytest
-https://docs.pytest.org/
-https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
-https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
-
-
-Teams
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
-
-http://meowni.ca/posts/emoji-emoji-emoji/
-
-
-https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
-
-
-## Miscellaneous Tech
-
-Divio Docs, GitHub Docs
 
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
 
@@ -691,41 +450,8 @@ https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
 
 
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-Test Driven
-https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
-https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Model in Django | TestDriven.io
-https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
-https://testdriven.io/blog/django-performance-testing/ | Automating Performance Testing in Django | TestDriven.io
-
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
-
-
-vscode html css support - Google Search
-
 Mac
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-
-https://devblogs.microsoft.com/visualstudio/checklist-for-writing-great-visual-studio-extensions/ | Checklist for writing great Visual Studio extensions | The Visual Studio Blog
-
-Browser/SM
-https://twitter.com/aaranged/status/844694418493878273
-
-https://clig.dev/
-https://github.com/cli-guidelines/cli-guidelines
-
-https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
-
-https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
 
 
 https://applitools.com/
@@ -736,6 +462,8 @@ https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
+
+https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
 
 https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
 
@@ -748,9 +476,12 @@ https://postgis.net/docs/manual-3.0/
 https://postgis.net/docs/manual-3.0/ch06.html
 https://www.gaia-gis.it/fossil/libspatialite/index
 
+vscode html css support
 Docs driven dev
+Divio Docs, GitHub Docs
 Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
 Pre-mortem and Postmortem
+Unix and bash
 
 GraphQL
 https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
@@ -766,13 +497,17 @@ https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev C
 https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
 
 
-Unix and bash
-
 CI
 https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
 
+https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
 VS Code/Container
 https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+
+https://github.com/jessfraz/dockerfiles
+
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 
 Container
 https://www.docker.com/get-started | Get Started with Docker | Docker
@@ -804,17 +539,93 @@ https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home direc
 
 
 <!--
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+## Security
 
-Feross
-https://www.youtube.com/watch?v=XTcqlOFhpPI
-https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
 
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+
+## Fast AI
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+
+
+## Innovations
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+
+
+## Python and Django
+
+Ana
+https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
+https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
+
+https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
+http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
+
+
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+
+
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
+
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+Python 3.9
+https://twitter.com/PrasoonPratham/status/1313392420038483968
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+
+## Django Tools and Approaches
+
+https://djangobuilder.io/#/ | Django Builder
+
+https://django.doctor/challenge | Django Doctor - Django code improvement bot
+
+https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
+
+https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
+
+https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
+
+Class-based Sites
+https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
+
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
+
+
+## Tutorials
+
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+Django security
+https://learndjango.com/tutorials/django-best-practices-security
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+
+Test Driven
+https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
+https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Model in Django | TestDriven.io
+https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
+https://testdriven.io/blog/django-performance-testing/ | Automating Performance Testing in Django | TestDriven.io
+
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
 
 ## Anthony Advice
@@ -854,6 +665,97 @@ https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (begin
 https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
 https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
 https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
+
+## Jacob
+
+https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
+
+https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
+https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
+
+## Adam
+
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+https://twitter.com/AdamChainz/status/1324680039250776070 | Adam Johnson on Twitter: "Django uses descriptors to power its database field "magic". @raymondh 's new guide to descriptors in the Python 3.9 docs is a great source for understanding how they work! https://t.co/3ZsHUB0KTA" / Twitter
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
+https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
+
+https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
+https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+## Luke
+
+https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
+
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
+https://spookylukey.github.io/django-views-the-right-way/
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+## Nina
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+
+
+## People and Orgs
+
+https://osem.seagl.org/conferences/seagl2020/program/proposals/779
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+https://github.com/phildini/api-driven-django
+
+Kojo
+https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
+
+https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
+-->
+
+<!--
+Jane
+https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
+
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 
 Julia Evans
@@ -915,7 +817,10 @@ https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twi
 https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
 https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
 https://twitter.com/andrewgodwin/status/1147272951118483457
+-->
 
+<!--
+Simon
 
 https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
 
@@ -1087,184 +992,6 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
-
-## Performance
-
-Python Time Complexity, Performance
-* [Python Time Complexity](https://wiki.python.org/moin/TimeComplexity)
-* [Python Speed](https://wiki.python.org/moin/PythonSpeed)
-* [Python Performance Tips](https://wiki.python.org/moin/PythonSpeed/PerformanceTips)
-
-Python Benchmarking and Profiling
-* [profile](https://docs.python.org/3/library/profile.html)
-* [timeit](https://docs.python.org/3/library/timeit.html)
-
-Diagnostic tools
-* hotshot module?
-* cProfile module
-
-<!--
-Tools matrix
-https://www.integralist.co.uk/posts/profiling-python/
-
-27.4. The Python Profilers
-https://docs.python.org/3/library/profile.html#module-pstats
-https://docs.python.org/3/library/profile.html#pstats.Stats
-
-https://github.com/pyutils/line_profiler
-https://docs.python.org/3/library/tracemalloc.html
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-
-https://wiki.python.org/moin/PythonSpeed/Profiling
-http://web.archive.org/web/20060506162444/http://wingware.com/doc/howtos/performance-profiling-python-code
-
-https://en.wikipedia.org/wiki/Schwartzian_transform
-https://wiki.python.org/moin/DecorateSortUndecorate
-https://wiki.python.org/moin/ConcatenationTestCode
-
-https://numba.pydata.org/
-http://scipy.github.io/old-wiki/pages/PerformancePython
-
-https://docs.python.org/3/library/sys.html#sys.setcheckinterval
--->
-
-## Time Complexity and Optimization- Improvement Methods
-
-Improvement Methods
-* [Profiling Wikipedia](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
-* [Performance Tuning Wikipedia](https://en.wikipedia.org/wiki/Performance_tuning)
-* [Logging Wikipedia](https://en.wikipedia.org/wiki/Logging)
-* [Telemetry Wikipedia](https://en.wikipedia.org/wiki/Telemetry)
-
-Improvement Methods
-* [Big O Notation Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation)
-* [Dynamic Program Analysis Wikipedia](https://en.wikipedia.org/wiki/Dynamic_program_analysis)
-* [McCabe's Cyclomatic Complexity Wikipedia](https://en.wikipedia.org/wiki/Cyclomatic_complexity)
-
-<!--
-https://en.wikipedia.org/wiki/Dynamic_program_analysis
-
-https://en.wikipedia.org/wiki/Benchmark_(computing) | Benchmark (computing) - Wikipedia
-
-
-https://twitter.com/simonw/status/1262970529746612224 | Simon Willison on Twitter: "Activity Monitor on my Mac shows Python running 438.9% CPU (SHA256 hashing 40,000 files using 5 threads) so it's definitely running across multiple cores. And the program seems to complete about 4x faster. So if, like me, you've mostly avoided threads in Python give them a go!" / Twitter
-
-Profiling
-https://www.youtube.com/watch?v=ey_P64E34g0&feature=youtu.be
-https://github.com/asottile/importtime-waterfall/
-har http timing
-
-https://www.blog.pythonlibrary.org/2020/04/14/an-overview-of-profiling-tools-for-python/
-
-https://jvns.ca/blog/2017/12/17/how-do-ruby---python-profilers-work-/ | How do Ruby & Python profilers work? - Julia Evans
-
-Nice README!
-https://github.com/open-telemetry/opentelemetry-python | open-telemetry/opentelemetry-python: The OpenTelemetry Python Client
-https://opentelemetry-python.readthedocs.io/en/stable/getting-started.html
-https://github.com/jaegertracing/jaeger
-https://github.com/jaegertracing/jaeger-client-python
-https://prometheus.io/
-
-https://github.com/joerick/pyinstrument | joerick/pyinstrument: 🚴 Call stack profiler for Python. Shows you why your code is slow!
-
-
-https://knasmueller.net/measure-code-execution-time-accurately-in-python
-
-Tools
-https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
-
-https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
-https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
-
-
-https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
-
-https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
--->
-
-<!--
-lines of code (loc) versus complexity
-
-https://en.wikipedia.org/wiki/Time_complexity#Sub-linear_time
-
-https://en.wikipedia.org/wiki/Mathematical_optimization
-https://en.wikipedia.org/wiki/Computational_complexity_theory
-
-https://en.wikipedia.org/wiki/Category:Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms
-https://en.wikipedia.org/wiki/Analysis_of_algorithms#Evaluating_run-time_complexity
-
-https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
-https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
--->
-
-## General Big O Rules
-
-Big O Notation
-* [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
-* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
-* [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
-* [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
-* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
-
-Linear versus Constant Time
-* [Logarithmic Time O(log n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Logarithmic_time)
-* [Constant Time O(1) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Constant_time)
-* [Linear Time O(n) Wikipedia](https://en.wikipedia.org/wiki/Time_complexity#Linear_time)
-
-Big O Notation- Terminology
-* [Exponentiation Wikipedia](https://en.wikipedia.org/wiki/Exponentiation)
-* [Logarithm Wikipedia](https://en.wikipedia.org/wiki/Logarithm)
-* [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
-
-<!--
-https://en.wikipedia.org/wiki/Asymptotic_analysis
-
-https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
-https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
-
-https://www.youtube.com/watch?v=duvZ-2UK0fc
-
-https://nedbatchelder.com/text/bigo.html
-Python Complexities
-https://nedbatchelder.com/text/bigo/bigo.html#13
-The Graph
-https://nedbatchelder.com/text/bigo/bigo.html#12
-Small Numbers
-https://nedbatchelder.com/text/bigo/bigo.html#17
-
-Trade-Offs
-https://nedbatchelder.com/text/bigo/bigo.html#14
-Slow/Fast
-https://nedbatchelder.com/text/bigo/bigo.html#15
-More Possibilities
-https://nedbatchelder.com/text/bigo/bigo.html#16
-
-https://nedbatchelder.com/text/slowsgrows.html
-https://nedbatchelder.com/blog/201710/how_code_slows_as_data_grows.html
-
-https://drive.google.com/drive/u/0/folders/0B9l0_ldK09SOfjE3R1c2LTcxSU8xSGxXNkJpOF9iQ0JMV1NLUDhnUmlXVm50R0tLTGFUeEE | Big-O Cheat Sheet - Google Drive
-https://docs.google.com/spreadsheets/d/1hyxEEFvF5zBcpC3ALPVPyE8kJ1Soiwd4jpwKjHgzG6o/edit#gid=0 | Big-O cheatsheet - Google Sheets
-https://www.youtube.com/watch?v=V6mKVRU1evU | Big O Notations - YouTube
-
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-omega-notation | (2) Big-Ω (Big-Omega) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-big-theta-notation | Big-θ (Big-Theta) notation (article) | Khan Academy
-https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-notation/a/big-o-notation | Big-O notation (article) | Algorithms | Khan Academy
--->
-
-<!--
-Analysis of Algorithms
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
--->
-
-
 ## Shortcuts
 
 <!--
@@ -1388,144 +1115,6 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 -->
 
 
-## Website and Blog Resources
-
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
-
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
-
-<!--
-https://github.com/wowthemesnet/mundana-theme-jekyll
-
-https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
-
-https://ghost.org/docs/ | Ghost Docs
-https://demo.ghost.io/
-https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
-https://gatsby.ghost.org/
-https://github.com/TryGhost/gatsby-starter-ghost
-https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
-https://lyra.ghost.io/ | Lyra
-https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
-https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
-https://massively.ghost.io/ | This is Massively
-https://editorial.ghost.io/ | Editorial for Ghost
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
-
-
-## Technical Writing Tools
-
-<!--
-https://dev.to/radiomorillo/7-pieces-of-information-to-include-in-technical-blog-posts-5go4
-https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines#structure
-
-https://www.gnu.org/philosophy/free-doc.html | Why Free Software needs Free Documentation - GNU Project - Free Software Foundation
-
-Interesting
-https://twitter.com/fchollet/status/1231285340335267840 | François Chollet on Twitter: "A key design principle I follow in libraries (e.g. Keras) is "progressive disclosure of complexity". Make it easy to get started, yet make it possible to handle arbitrarily flexible use cases, only requiring incremental learning at each step. Like zooming in a complex landscape. https://t.co/AzaySJeTMP" / Twitter
-
-https://www.writethedocs.org/surveys/salary-survey/2019/
-http://www.writethedocs.org/guide/ | Documentation Guide — Write the Docs
-
-2017 Open Source Survey
-https://opensourcesurvey.org/2017/
-https://medium.com/@mikeal/docs-docs-docs-1e06d17fa06f
-
-
-https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
-https://github.com/github/docs/issues?q=is%3Aopen+is%3Aissue+%22GitHub+Desktop%22+label%3A%22help+wanted%22 | Issues · github/docs
-
-Divio Docs
-https://pradyunsg.me/furo/quickstart/ | Quickstart - Furo
-https://github.com/divio/docs-theme | divio/docs-theme
-https://github.com/divio/divio-cloud-docs | divio/divio-cloud-docs: Divio Cloud documentation for developers
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://documentation.divio.com/tutorials/ | Tutorials — Documentation system documentation
-https://documentation.divio.com/how-to-guides/ | How-to guides — Documentation system documentation
-
-http://caktus.github.io/developer-documentation/dokku.html | Deploying to a Dokku server — Caktus Developer Documentation 0.0.1 documentation
-
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
-https://developers.google.com/style/
-https://developers.google.com/tech-writing
-https://developers.google.com/tech-writing/one
-
-http://stylepedia.net/ | Writing Style Guide
-https://stylepedia.net/style/ | Conventions for Writers and Editors
-
-https://stripe.com/docs/api | Stripe API Reference
-https://twitter.com/Austen/status/1328394042682425345 | Austen on Twitter: "What companies have the best documentation? Gitlab, surely. Probably Stripe. Who else?" / Twitter
-
-Docs- Important!
-minimum viable documentation
-https://twitter.com/webology/status/1257759193743929347
-https://docs.fast.ai/gen_doc_main.html
-
-https://thegooddocsproject.dev/ | The Good Docs Project | Templates to make good docs.
-https://github.com/thegooddocsproject/templates/tree/master/reference | templates/reference at master · thegooddocsproject/templates
-
-
-https://twitter.com/hardmaru/status/1255319843408089091 | hardmaru on Twitter: "There are now 4 versions of this MDN tutorial. Javascript (2015): https://t.co/nGz6B5PDy4 TensorFlow (2015): https://t.co/8TCvxARxJp PyTorch (2018): https://t.co/oIm0KmQAB1 NumPy / JAX (2020): https://t.co/CmZV5Fyg1U I've used MDNs in so many projects, such a useful method.." / Twitter
-
-https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
-
-Docusaurus
-https://v2.docusaurus.io/docs/installation
-https://github.com/facebook/docusaurus | facebook/docusaurus: Easy to maintain open source documentation websites.
-
-https://github.com/swagger-api/swagger-codegen | swagger-api/swagger-codegen: swagger-codegen contains a template-driven engine to generate documentation, API clients and server stubs in different languages by parsing your OpenAPI / Swagger definition.
-
-https://github.com/thlorenz/doctoc | thlorenz/doctoc: 📜 Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
-
-https://dev.to/nickytonline/projects-with-great-documentation-352h
-https://twitter.com/adamwathan/status/1257641015835611138 | Adam Wathan on Twitter: "What open source projects have the best docs?" / Twitter
-https://twitter.com/kennethreitz/status/1201593376015040512 | ☿ Kenneth Reitz on Twitter: "Who do you think has the best HTTP API documentation?" / Twitter
-
-https://twitter.com/simonbrown/status/1287706842441949187 | Simon Brown on Twitter: "New blog post: "How to review a software architecture diagram" -&gt; https://t.co/uTi4OvyCv6 (this is something we don't talk about much, yet I regularly see people struggle because they're not sure what to look for) https://t.co/rwshwg8bJG" / Twitter
-https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0 | How to review a software architecture diagram - DEV Community 👩‍💻👨‍💻
-
-PyBeeWare
-https://twitter.com/froidotdev/status/1273035738322534400 | Froilán Irizarry Rivera 🇵🇷 on Twitter: "Just went through the @PyBeeWare tutorial for the first time. Super impressed! Awesome job @PyBeeWare team and @freakboy3742 " / Twitter
-https://beeware.org/contributing/how/first-time/ | First-time contributors — BeeWare
-Fairly easy Pythons setup?
-https://beeware.org/contributing/how/first-time/setup/
--->
-
-<!--
-https://en.wikipedia.org/wiki/Five_Ws
-
-https://github.com/jnordberg/wintersmith/wiki/Showcase
-
-http://www.writethedocs.org/
-https://github.com/writethedocs/www
-http://blog.thoward37.me/articles/developer-to-documentarian/
-http://blog.thoward37.me/articles/documentation-considered-harmful/
-
-https://twitter.com/thoward37/status/1227286141537144832
-https://abookapart.com/products/everyday-information-architecture
-https://en.wikipedia.org/wiki/Information_architecture
-https://en.wikipedia.org/wiki/Content_strategy
-https://en.wikipedia.org/wiki/User_experience_design
--->
-
-
 ## Engineering Performance Resources
 
 JavaScript Scene
@@ -1574,9 +1163,6 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 
 <!--
 ## Website and Blog Resources
-## Shortcuts
-## Visual Studio Code
-## GitHub and VS Code Integration
 
 ## Performance
 ## Time Complexity and Optimization-Improvement Methods
@@ -1822,49 +1408,6 @@ https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How
 -->
 
 
-## GitLab
-
-GitLab- Notable Features
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-Tools and Landscapes
-* [About GitLab](https://about.gitlab.com/)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-
-<!--
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
-
-https://docs.gitlab.com/ee/install/README.html
-
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
-
-gitlab continuous integration and deployment
-https://www.youtube.com/watch?v=1iXFbchozdY
-https://docs.gitlab.com/ce/ci/
-https://docs.gitlab.com/ce/ci/quick_start/README.html
-https://docs.gitlab.com/ce/ci/environments.html
-https://docs.gitlab.com/ee/ci/autodeploy/index.html
-https://docs.gitlab.com/ee/integration/
-https://about.gitlab.com/features/gitlab-ci-cd/
-https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
-https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
-https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
-https://about.gitlab.com/2016/11/22/introducing-review-apps/
--->
-
 ## Roadmaps
 
 * [GitHub Roadmap](https://github.com/github/roadmap)
@@ -1909,84 +1452,6 @@ https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design S
 
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
--->
-
-## Case Studies
-
-<!--
-Simon
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
-
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Next
-https://nextjs.org/showcase | Showcase | Next.js
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-https://nextjs.org/docs/migrating/from-gatsby
-
-https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
-
-Gatsby Case Study
-https://twitter.com/gatsbyjs
-https://www.gatsbyjs.com/use-cases/
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
-https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
-
-Redwood/React
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-https://redwoodjs.com/docs/introduction
-https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
-
-Ghost
-https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
-https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
-https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
-
-Cosmic
-https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
-https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
-https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
-https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
-
-Cosmic
-https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
-
-Jake
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
-
-Ansible
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
--->
-
-<!--
-## Websites
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-https://github.com/yarnpkg/website
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
 ## Showcases
@@ -2182,6 +1647,11 @@ Product
 <!--
 ## Makers and Projects
 
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+
 Dan
 https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
 
@@ -2193,91 +1663,6 @@ https://jasonet.co/ | Jason Etcovitch · jasonet.co
 
 https://github.com/tj
 https://github.com/mikeal
--->
-
-<!--
-Probot and Such
-
-https://dev.to/gr2m/ | Gregor Martynus - DEV
-https://github.com/gr2m/
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
-
-https://github.com/gr2m/twitter-together
-
-https://github.com/probot/reminders
-
-https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
-
-Probot
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-https://probot.github.io/apps/ | Featured Apps | Probot
-https://probot.github.io/docs/hello-world/ | Hello world | Probot
-https://probot.github.io/apps/polls/ | Polls | Probot
-https://probot.github.io/apps/no-response/ | No Response | Probot
-https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
-
-Make semantic-release compatible with GitHub Actions
-https://github.com/semantic-release/semantic-release/issues/1194
-Python Plugin
-https://github.com/semantic-release/git/issues/172#issuecomment-557203217
-
-https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-https://github.com/probot/create-probot-app
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-
-https://github.com/JasonEtco/jasonet.co/pull/46/files
--->
-
-<!--
-Python- Publishing
-
-PyPI GitHub Actions
-https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-Important
-https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
-https://github.com/pypa/gh-action-pypi-publish/issues/2
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
--->
-
-<!--
-https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
-
-Testing and Release
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/commitizen/conventional-commit-types/
-https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-https://github.com/semantic-release/npm
-https://twitter.com/SemanticRelease
-
-Semantic Release and Merge Release
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-
-https://github.com/marketplace/actions/codecov
-
-https://probot.github.io/apps/release-drafter/
-
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
 -->
 
 
@@ -2320,6 +1705,7 @@ Python
 * [CodePen Python](https://codepen.io/tag/python)
 
 CodePen
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
 * [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
 * [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
@@ -2574,25 +1960,6 @@ https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - 
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
-## Eldarion
-
-## Code Challenges
-
-Practice
-* [LeetCode](https://leetcode.com)
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-
-Advent
-* [Advent of Code 2020](https://adventofcode.com/2020/)
-
-<!--
-https://www.pythonmorsels.com/resources/
-https://www.pythonmorsels.com/exercises/list/ | Exercise List
-
-https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
--->
-
 
 ## Learning Resources- Projects
 
@@ -2609,16 +1976,6 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
-Jane
-https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
-
-Luke
-https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
-
-
 https://codepen.io/KatherineMichel
 https://repl.it/@KatherineMichel/
 
@@ -2848,18 +2205,87 @@ https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-
 
 
 <!--
+Django/React
+
+https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
+https://breakingbadapi.com/ | The Breaking Bad API
+
+https://github.com/bradtraversy/lead_manager_react_django | bradtraversy/lead_manager_react_django: Full stack app with React, Redux & Django
+https://www.youtube.com/watch?v=Uyei2iDA4Hs | (5) Full Stack React & Django [1] - Basic REST API - YouTube
+https://www.youtube.com/watch?v=GieYIzvdt2U | (5) Full Stack React & Django [2] - Implementing React - YouTube
+
+Valentino
+https://github.com/valentinogagliardi?tab=repositories | valentinogagliardi (Valentino Gagliardi) / Repositories
+https://github.com/valentinogagliardi/django-rest-react-pycon | valentinogagliardi/django-rest-react-pycon: 🐍 Demo repo for Pycon X talk "Decoupling Django with Django REST (and a sprinkle of React)"
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+https://www.valentinog.com/blog/drf/#django-rest-with-react-django-and-react-together | Tutorial: Django REST with React (Django 3 and a sprinkle of testing)
+http://v1k45.com/blog/modern-django-part-1-setting-up-django-and-react/ | Modern Django: Part 1: Setting up Django and React — v1k45
+-->
+
+<!--
+Boostrap/Emmett
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+https://docs.emmet.io/actions/ | Actions
+https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
+https://getbootstrap.com/docs/4.5/components/navbar/ | Navbar · Bootstrap v4.5
+https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate | HTML Boilerplate - Visual Studio Marketplace
+
+VS Code and React
+https://reactrouter.com/web/guides/quick-start
+https://reactjs.org/docs/introducing-jsx.html
+https://redux.js.org/ | Redux - A predictable state container for JavaScript apps. | Redux
+https://react-redux.js.org/ | React Redux · Official React bindings for Redux
+
+Third Party
+https://github.com/reduxjs/redux-thunk | reduxjs/redux-thunk: Thunk middleware for Redux
+https://www.npmjs.com/package/axios-react | axios-react - npm
+
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets | ES7 React/Redux/GraphQL/React-Native snippets - Visual Studio Marketplace
+https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/related?hl=en | React Developer Tools - Chrome Web Store
+https://github.com/reduxjs/redux-devtools | reduxjs/redux-devtools: DevTools for Redux with hot reloading, action replay, and customizable UI
+https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd/related?hl=es | Redux DevTools - Chrome Web Store
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Prettier - Code formatter - Visual Studio Marketplace
+https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
+-->
+
+<!--
+Projects
+
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
+
+Every Cheese
+
+Cookiecutter
+https://twitter.com/nthapen/status/1240936897234513921
+https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
+
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
+
+Projects
+https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
+https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
+https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
+https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
+
+https://www.npmjs.com/package/npx | npx - npm
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
+
+DRF
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/ | Home - Django REST framework
+https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
+
+Every Cheese- Third party
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
+-->
+
+
+<!--
 Deployment
-
-Sphinx
-https://www.sphinx-doc.org/en/master/ | Overview — Sphinx 4.0.0+ documentation
-https://sourceforge.net/docs/ref/rst/restructuredtext.html | Page not found - SourceForge.net
-
-https://sphinx-themes.org/ | Sphinx Themes
-https://sphinx-themes.org/html/default/alabaster/index.html | Welcome to Sphinx-Themes template’s documentation! — Sphinx-Themes template 1 documentation
-https://vsalvino.github.io/sphinx-library/ | Library Sphinx Theme — sphinx-library documentation
-https://github.com/vsalvino/sphinx-library | vsalvino/sphinx-library: Typography-centric Sphinx theme that reads like a good book.
-https://www.psycopg.org/psycopg3/docs/ | Home - psycopg3 UNRELEASED documentation
-urllib
 
 Heroku and Node
 https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
@@ -3235,6 +2661,69 @@ https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.m
 https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
 -->
 
+
+## Website and Blog Resources
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+<!--
+https://github.com/wowthemesnet/mundana-theme-jekyll
+
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
+
+https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
+
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+-->
+
+<!--
+## Websites
+
+Nice site!
+https://github.com/nodejs/nodejs.dev
+https://github.com/yarnpkg/website
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+-->
+
+
 ## Design
 
 <!--
@@ -3247,6 +2736,17 @@ https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0
 
 
 <!--
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
+
+Browser/SM
+https://twitter.com/aaranged/status/844694418493878273
+
+
 React
 http://hackflow.com/blog/2015/03/08/boiling-react-down-to-few-lines-in-jquery/
 
@@ -3279,9 +2779,6 @@ https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS �
 
 https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA | Grand Unification of Web Technologies - Google Docs
 
-
-CodePen
-https://codepen.io/2019/popular/pens | Top Pens of 2019 on CodePen
 
 https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
 
@@ -4298,92 +3795,6 @@ Scala
 https://nim-lang.org/
 -->
 
-## Heroku
-
-<!--
-GitHub Actions/Heroku
-https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
--->
-
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-Heroku- Elements Marketplace
-* [Heroku Elements Marketplace](https://elements.heroku.com)
-* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
-
-Heroku Git Integration
-* [Deploying with Git](https://devcenter.heroku.com/articles/git)
-* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
-* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
-Container Registries and Tools
-* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
-* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
-
-<!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
--->
-
-## Workflows
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-<!--
-https://www.npmjs.com/package/git-flow-deploy
-
-https://devcenter.heroku.com/articles/development-configuration
-https://devcenter.heroku.com/articles/github-integration-review-apps
-https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
-
-heroku continuous integration and delivery, using gitflow with heroku
-https://www.heroku.com/flow
-https://blog.heroku.com/heroku-ci-now-available
-https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
-https://www.heroku.com/continuous-integration
-https://www.heroku.com/continuous-delivery
-https://www.heroku.com/continuous-delivery/on-heroku
-https://www.heroku.com/continuous-delivery/how-it-works
-https://www.heroku.com/continuous-delivery/foundations
-https://devcenter.heroku.com/articles/heroku-ci
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/pipelines
-https://devcenter.heroku.com/articles/pipelines#github-sync
-https://devcenter.heroku.com/articles/git
-
-https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
-https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
-https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
-
-Release Phase
-https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
--->
-
-
 ## Python Syntax and Python Versus JavaScript
 
 ## Python and JavaScript
@@ -4786,7 +4197,11 @@ Terminal String Styling
 * [Pygments](https://pygments.org/) and [Pygments GitHub](https://github.com/pygments/pygments/)
 
 <!--
+https://clig.dev/
+https://github.com/cli-guidelines/cli-guidelines
+
 https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
+https://twitter.com/webology/status/1339967069186633731 | Jeff Triplett 😷 on Twitter: "🤔 I think I'm going to start installing rich by default in my projects. I write a ton of cli apps and I frequently feel limited by output colors and styles. ✨ Just saying this out loud in case you haven't heard of rich yet." / Twitter
 
 https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
 
@@ -4960,6 +4375,8 @@ Chromium Developers
 * [Chrome Release Channels](https://www.chromium.org/getting-involved/dev-channel)
 
 <!--
+https://devblogs.microsoft.com/visualstudio/checklist-for-writing-great-visual-studio-extensions/ | Checklist for writing great Visual Studio extensions | The Visual Studio Blog
+
 https://developer.chrome.com/webstore/apps_vs_extensions | Extensions and Apps in the Chrome Web Store - Google Chrome
 https://chrome.google.com/webstore/category/extensions | Chrome Web Store - Extensions
 https://developer.chrome.com/extensions/api_index | Chrome APIs - Google Chrome
@@ -5271,6 +4688,133 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
 
+## Heroku
+
+<!--
+GitHub Actions/Heroku
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+-->
+
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
+
+Container Registries and Tools
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
+## Workflows
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+<!--
+https://www.npmjs.com/package/git-flow-deploy
+
+https://devcenter.heroku.com/articles/development-configuration
+https://devcenter.heroku.com/articles/github-integration-review-apps
+https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
+Release Phase
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+-->
+
+## GitLab
+
+GitLab- Notable Features
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+Tools and Landscapes
+* [About GitLab](https://about.gitlab.com/)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+<!--
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+https://docs.gitlab.com/ee/install/README.html
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
+-->
 
 ## Useful Files
 
