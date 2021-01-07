@@ -105,7 +105,6 @@ Brag documents
 https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document - Julia Evans
 
 
-
 ## Demos and Other Content
 
 Demo
@@ -235,6 +234,12 @@ https://stories.forpeople.studio/
 https://cmxhub.com/ | Home | CMX
 https://awards.cmxhub.com/ | CMX
 https://leaddev.com/
+
+Lead Dev
+https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
+https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
+https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
+https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
 
 https://tessakriesel.com
 https://devocate.com/
@@ -632,35 +637,6 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 
 <!--
 ## Look Through
-
-Regex
-https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
-https://regexr.com/3cr6f | RegExr: regex - translations
-https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
-
-
-https://cmxhub.com/ | Home | CMX
-https://leaddev.com/
-
-Lead Dev
-https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
-https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
-https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
-https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
-
-
-Hotwire
-https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
-
-React Server
-https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
-
-CodePen
-https://codepen.io/2019/popular/pens | Top Pens of 2019 on CodePen
-
-
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 Checklists
@@ -694,25 +670,6 @@ http://meowni.ca/posts/emoji-emoji-emoji/
 https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
 
 
-Julia Evans
-
-Unix and bash
-
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
-Feross
-https://www.youtube.com/watch?v=XTcqlOFhpPI
-https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
-
-Feross
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-
 ## Miscellaneous Tech
 
 Divio Docs, GitHub Docs
@@ -744,7 +701,12 @@ https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Mo
 https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
 https://testdriven.io/blog/django-performance-testing/ | Automating Performance Testing in Django | TestDriven.io
 
-https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
+Regex
+https://regex101.com/ | Online regex tester and debugger: PHP, PCRE, Python, Golang and JavaScript
+https://regexr.com/3cr6f | RegExr: regex - translations
+https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf | Regular Expressions: The Complete Tutorial
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Character_Classes | Character classes - JavaScript | MDN
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Cheatsheet | Regular expression syntax cheatsheet - JavaScript | MDN
 
 
 vscode html css support - Google Search
@@ -774,9 +736,9 @@ https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
+
 https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
 
-GraphQL
 https://www.sqlite.org/
 https://www.sqlite.org/lang.html
 https://docs.python.org/3/library/sqlite3.html
@@ -804,6 +766,8 @@ https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev C
 https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
 
 
+Unix and bash
+
 CI
 https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
 
@@ -821,12 +785,10 @@ https://podman.io/
 
 https://www.packer.io/ | Packer by HashiCorp
 
+https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
 
-https://github.com/snowflakedb | Snowflake Computing
-https://prestodb.io/
-
-https://en.wikipedia.org/wiki/POSIX
-https://pop.system76.com/
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
 
 https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
 
@@ -842,94 +804,19 @@ https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home direc
 
 
 <!--
-# Practical
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
 
-<!--
-Probot and Such
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
 
-https://dev.to/gr2m/ | Gregor Martynus - DEV
-https://github.com/gr2m/
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
+Feross
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
-https://github.com/gr2m/twitter-together
 
-https://github.com/probot/reminders
-
-https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
-
-Probot
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-https://probot.github.io/apps/ | Featured Apps | Probot
-https://probot.github.io/docs/hello-world/ | Hello world | Probot
-https://probot.github.io/apps/polls/ | Polls | Probot
-https://probot.github.io/apps/no-response/ | No Response | Probot
-https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
-
-Make semantic-release compatible with GitHub Actions
-https://github.com/semantic-release/semantic-release/issues/1194
-Python Plugin
-https://github.com/semantic-release/git/issues/172#issuecomment-557203217
-
-https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-https://github.com/probot/create-probot-app
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-
-https://github.com/JasonEtco/jasonet.co/pull/46/files
--->
-
-<!--
-Python- Publishing
-
-PyPI GitHub Actions
-https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-Important
-https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
-https://github.com/pypa/gh-action-pypi-publish/issues/2
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
--->
-
-<!--
-https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
-
-Testing and Release
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/commitizen/conventional-commit-types/
-https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-https://github.com/semantic-release/npm
-https://twitter.com/SemanticRelease
-
-Semantic Release and Merge Release
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-
-https://github.com/marketplace/actions/codecov
-
-https://probot.github.io/apps/release-drafter/
-
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
--->
-
-<!--
 ## Anthony Advice
 
 https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
@@ -2308,6 +2195,92 @@ https://github.com/tj
 https://github.com/mikeal
 -->
 
+<!--
+Probot and Such
+
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
+
+https://github.com/gr2m/twitter-together
+
+https://github.com/probot/reminders
+
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+
+Probot
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+
+Make semantic-release compatible with GitHub Actions
+https://github.com/semantic-release/semantic-release/issues/1194
+Python Plugin
+https://github.com/semantic-release/git/issues/172#issuecomment-557203217
+
+https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+https://github.com/probot/create-probot-app
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/JasonEtco/jasonet.co/pull/46/files
+-->
+
+<!--
+Python- Publishing
+
+PyPI GitHub Actions
+https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
+
+Important
+https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
+-->
+
+<!--
+https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
+
+Testing and Release
+
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/commitizen/conventional-commit-types/
+https://github.com/commitizen/conventional-commit-types/blob/master/index.json
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+https://github.com/semantic-release/npm
+https://twitter.com/SemanticRelease
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+
+https://github.com/marketplace/actions/codecov
+
+https://probot.github.io/apps/release-drafter/
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+-->
+
+
 ## People
 
 Product Hunt Maker Leader Boards
@@ -3307,6 +3280,9 @@ https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS �
 https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA | Grand Unification of Web Technologies - Google Docs
 
 
+CodePen
+https://codepen.io/2019/popular/pens | Top Pens of 2019 on CodePen
+
 https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
 
 http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
@@ -4055,6 +4031,7 @@ CSS
 Hotwire
 https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
 https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
+https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
 
 Stimulus
 https://github.com/hotwired/stimulus
@@ -4147,8 +4124,9 @@ https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: Rea
 
 React Server Components
 https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
-https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
+https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
 https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
+https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
 
 HTTP, API, DOM
 https://expressjs.com/en/api.html
