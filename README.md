@@ -842,6 +842,94 @@ https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home direc
 
 
 <!--
+# Practical
+
+<!--
+Probot and Such
+
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
+
+https://github.com/gr2m/twitter-together
+
+https://github.com/probot/reminders
+
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
+
+Probot
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
+
+Make semantic-release compatible with GitHub Actions
+https://github.com/semantic-release/semantic-release/issues/1194
+Python Plugin
+https://github.com/semantic-release/git/issues/172#issuecomment-557203217
+
+https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+https://github.com/probot/create-probot-app
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/JasonEtco/jasonet.co/pull/46/files
+-->
+
+<!--
+Python- Publishing
+
+PyPI GitHub Actions
+https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
+
+Important
+https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
+-->
+
+<!--
+https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
+
+Testing and Release
+
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/commitizen/conventional-commit-types/
+https://github.com/commitizen/conventional-commit-types/blob/master/index.json
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+https://github.com/semantic-release/npm
+https://twitter.com/SemanticRelease
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+
+https://github.com/marketplace/actions/codecov
+
+https://probot.github.io/apps/release-drafter/
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+-->
+
+<!--
 ## Anthony Advice
 
 https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
@@ -1111,97 +1199,6 @@ https://www.oddbird.net/talks/set-your-code-free/
 https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
-
-
-
-<!--
-# Practical
-
-<!--
-Probot and Such
-
-https://dev.to/gr2m/ | Gregor Martynus - DEV
-https://github.com/gr2m/
-https://github.com/gr2m/create-or-update-pull-request-action
-https://twitter.com/gr2m/status/1224742792280211456
-https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
-
-https://github.com/gr2m/twitter-together
-
-https://github.com/probot/reminders
-
-https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
-
-Probot
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-https://probot.github.io/apps/ | Featured Apps | Probot
-https://probot.github.io/docs/hello-world/ | Hello world | Probot
-https://probot.github.io/apps/polls/ | Polls | Probot
-https://probot.github.io/apps/no-response/ | No Response | Probot
-https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
-
-Make semantic-release compatible with GitHub Actions
-https://github.com/semantic-release/semantic-release/issues/1194
-Python Plugin
-https://github.com/semantic-release/git/issues/172#issuecomment-557203217
-
-https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
-https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
-https://github.com/probot/create-probot-app
-https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
-
-https://github.com/JasonEtco/jasonet.co/pull/46/files
--->
-
-<!--
-Python- Publishing
-
-PyPI GitHub Actions
-https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
-
-Brett Release
-https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
-
-Important
-https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
-https://github.com/pypa/gh-action-pypi-publish/issues/2
-https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
-https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
-
-Publish to PyPI
-https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
-https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
--->
-
-<!--
-https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
-
-Testing and Release
-
-Conventional Commits
-https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
-
-https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
-https://www.conventionalcommits.org/en/v1.0.0-beta.4/
-https://github.com/commitizen/conventional-commit-types/
-https://github.com/commitizen/conventional-commit-types/blob/master/index.json
-https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
-https://github.com/semantic-release/npm
-https://twitter.com/SemanticRelease
-
-Semantic Release and Merge Release
-https://semantic-release.gitbook.io/semantic-release/
-https://github.com/semantic-release
-https://github.com/semantic-release/semantic-release
-
-https://github.com/marketplace/actions/codecov
-
-https://probot.github.io/apps/release-drafter/
-
-https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
--->
-
 
 
 ## Performance
@@ -3273,21 +3270,6 @@ https://developers.google.com/web/showcase
 The Mobile Site Benchmark Study
 https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
 https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
--->
-
-
-
-<!--
-https://shkspr.mobi/blog/2020/10/the-usability-of-html-elements/ | The usability of HTML elements – Terence Eden’s Blog
-
-https://twitter.com/wakaleo/status/854702550469234692
-
-Important! Atomic Design
-https://twitter.com/IbrahimCodes/status/1339671093880209410 | https://twitter.com/IbrahimCodes/status/1339671093880209410
-
-https://design.google/library/
-https://uxdesign.cc/color-theory-for-designers-a-crash-course-with-infographic-41d8b4c45619?gi=49b9e04f5bf1 | Color theory for designers — a crash course (with infographic)
-https://twitter.com/timothyachumba/status/1336591686370258947 | Timothy Achumba on Twitter: "Interface Lovers is back with a new name and a brand new online experience! We've redesigned &amp; rebuilt our website from the ground up to make it easier for you to discover all the amazing interviews from designers in the industry. https://t.co/GjN9oFhdZV" / Twitter
 -->
 
 
@@ -5837,143 +5819,6 @@ Lynn Root's talks
 https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
--->
-
-## Git, GitHub, Open Source, Hosting
-
-GitHub More
-* [GitHub Explore](https://github.com/explore)
-* [GitHub Discover](https://github.com/dashboard/discover)
-* [GitHub Showcases](https://github.com/showcases)
-
-GitHub
-* [GitHub YouTube](https://www.youtube.com/user/github/videos)
-
-Marketplaces
-* [GitHub Marketplace CI](https://github.com/marketplace/category/continuous-integration)
-* [GitHub Marketplace Code Quality](https://github.com/marketplace/category/code-quality)
-
-<!--
-Nadia Eghbal
-https://www.amazon.com/Working-Public-Making-Maintenance-Software/dp/0578675862 | Working in Public: The Making and Maintenance of Open Source Software: Nadia Eghbal: 9780578675862: Amazon.com: Books
-
-Reports
-https://octoverse.github.com/ | The State of the Octoverse | The State of the Octoverse reflects on 2018 so far, teamwork across time zones, and 1.1 billion contributions.
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2401-the-github-diversity-report	
-
-https://github.com/github
-
-https://resources.github.com/webcasts/
-https://resources.github.com/whitepapers/
-https://experiments.github.com
-
-https://primer.style/css/ | Primer CSS
-https://github.com/primer | Primer
-https://github.com/primer/design | primer/design: Primer Design Guidelines
-
-https://github.com/features/codespaces | Codespaces
-https://github.com/codespaces-examples | codespaces-examples
-https://github.com/codespaces-examples/base | codespaces-examples/base: A basic Codespaces environment that can be expanded upon to build your ideal environment
-
-https://github.com/marketplace/category/code-review
-
-https://github.com/features/code-review/
-https://github.com/personal
-https://github.com/enterprise#administration
-https://github.com/features/project-management/
-
-https://github.com/mobile/beta | You're signed up for the GitHub for mobile beta
-
-GitHub Stars
-https://twitter.com/MrAhmadAwais/status/1291787547929186306 | Awais on Twitter: "I'm humbled to share that I've been awarded a GitHub Stars status by the good folks at @GitHub. It feels great to be recognized for my open-source work. Thank you, everyone, who made it possible. ✍️ Read more: https://t.co/nW9OAODuVP 🌟 Stars Profile: https://t.co/SS4yUoPDEo https://t.co/eWKzAQmcfi" / Twitter
-
-https://github.com/sponsors | GitHub Sponsors
-
-GH Learning Lab
-https://lab.github.com/githubtraining/introduction-to-html | Introduction to HTML | GitHub Learning Lab
-
-https://github.com/features/insights | Features · Insights
--->
-
-## GitHub Security
-
-<!--
-https://dependabot.com/ | Dependabot
-https://dependabot.com/#how-it-works | Dependabot
-https://dependabot.com/github-actions/ | Dependabot
-
-https://github.com/features/security
-
-National Vulnerability Database
-https://nvd.nist.gov/ | NVD - Home
-
-GitHub Security
-https://semmle.com/ | Semmle - Code Analysis Platform for Securing Software
-https://github.com/Semmle
-http://github.com/Semmle/qlc
-https://twitter.com/jpwarren/status/1195037396204605446 | Justin Warren ⬡ on Twitter: "Linking a CodeQL scan into a PR review step with a GitHub Action will be very cool for finding vulns before they get merged to master. #GitHubUniverse" / Twitter
-https://help.semmle.com/QL/learn-ql/ | Learning CodeQL — Learn CodeQL
-https://lgtm.com/help/lgtm/ql/learning-ql | Learning CodeQL - Help - LGTM
-https://securitylab.github.com/ | GitHub Security Lab
-https://www.hackerone.com/product/community | Ethical & Open Source Hacking Community | HackerOne
-https://github.com/advisories | GitHub Advisory Database
-request cve - Google Search
-https://help.github.com/en/articles/about-maintainer-security-advisories | About maintainer security advisories - GitHub Help
-
-https://github.com/github/codeql-action | github/codeql-action: Actions for running CodeQL analysis
-https://securitylab.github.com/tools/codeql/atm | CodeQL - GitHub Security Lab
-https://github.com/github/ossar-action | github/ossar-action: Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
--->
-
-## Advanced Workflows- Collaborative Development
-
-Collaborative Development Models
-* [Collaborative Software Development Model Wikipedia](https://en.wikipedia.org/wiki/Collaborative_software_development_model)
-* ["Fork and Pull" Model Wikipedia](https://en.wikipedia.org/wiki/Fork_and_pull_model)
-* [GitHub: "About collaborative development models"](https://help.github.com/articles/about-collaborative-development-models)
-* [GitHub Enterprise: "Types of collaborative development models"](https://help.github.com/enterprise/2.7/user/articles/types-of-collaborative-development-models)
-* [GitHub: "What is a good Git workflow?"](https://help.github.com/articles/what-is-a-good-git-workflow)
-
-Pros and Cons
-* ["What are the pros and cons of git-flow vs github-flow?"](http://stackoverflow.com/questions/18188492/what-are-the-pros-and-cons-of-git-flow-vs-github-flow/35915110#35915110)
-
-A Successful Git Branching Model
-* [A Successful Git Branching Model (with reflection now)](http://nvie.com/posts/a-successful-git-branching-model)
-* [git-flow Git Extension GitHub](https://github.com/nvie/gitflow)
-* [A Successful Git Branching Model Considered Harmful](https://barro.github.io/2016/02/a-succesful-git-branching-model-considered-harmful)
-
-Gitflow Considered Harmful
-* [Gitflow Considered Harmful](http://endoflineblog.com/gitflow-considered-harmful)
-* [Follow-up to Gitflow Considered Harmful](http://endoflineblog.com/follow-up-to-gitflow-considered-harmful)
-* [OneFlow - A Git Branching Model and Workflow](http://endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
-* [Git Workflows That Work](http://blog.endpoint.com/2014/05/git-workflows-that-work.html)
-
-Atlassian Workflow
-* [Simple Git workflow is simple](https://www.atlassian.com/blog/archives/simple-git-workflow-simple)
-* [Comparing Workflows](https://www.atlassian.com/git/tutorials/comparing-workflows)
-* [Live Long and Prosper with Long-Lived Git Branches](https://www.atlassian.com/blog/git/prospering-with-long-lived-git-branches)
-
-GitHub Flow
-* [GitHub Flow](https://help.github.com/articles/github-flow)
-* [Understanding the GitHub Flow](https://guides.github.com/introduction/flow)
-* [Scott Chacon: GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
-GitLab Flow
-* [GitLab Flow](https://about.gitlab.com/2014/09/29/gitlab-flow)
-* [GitLab Flow Documentation](https://docs.gitlab.com/ee/workflow/gitlab_flow.html)
-* [The 11 Rules of GitLab Flow](https://about.gitlab.com/2016/07/27/the-11-rules-of-gitlab-flow)
-
-Other Company Blogs
-* [New Relic: Long-Running Branches Considered Harmful](https://blog.newrelic.com/2012/11/14/long-running-branches-considered-harmful)
-* [Rackspace: The Business Advantages Of Continuous Integration](https://blog.rackspace.com/the-business-advantages-of-continuous-integration)
-
-Company or Organization Specific Git Workflows
-* [GitHub Workflow used by Frameworks team at BBC News](http://www.integralist.co.uk/posts/github-workflow.html)
-
-<!--
-https://georgestocker.com/2020/03/04/please-stop-recommending-git-flow/
 -->
 
 ## Authority Figures and Books
