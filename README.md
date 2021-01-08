@@ -414,9 +414,6 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
-Gaming
-https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
-
 http://meowni.ca/posts/emoji-emoji-emoji/
 
 
@@ -568,12 +565,6 @@ Ana
 https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
 https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
 
-https://twitter.com/marlene_zw/status/1336699404816965644 | https://twitter.com/marlene_zw/status/1336699404816965644
-http://pyfound.blogspot.com/2020/12/announcing-psf-diversity-and-inclusion.html | Python Software Foundation News: Announcing the PSF Diversity and Inclusion Work Group
-
-
-http://wsvincent.com/how-to-contribute-to-django-docs/
-
 
 PEPs Graph
 https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
@@ -610,6 +601,11 @@ https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Djang
 
 
 ## Tutorials
+
+Python 3.9
+https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
+https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
+https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
 
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
@@ -1000,13 +996,10 @@ Awesome Python
 * [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 
 Awesome Django
-* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
 * [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
 * [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-<!--
-https://github.com/wsvincent/awesome-django
--->
 
 ## Shortcuts
 
@@ -1190,6 +1183,8 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 -->
 
 <!--
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
 https://docs.djangoproject.com/en/dev/internals/contributing/
 
 https://lwn.net/Articles/819853/
@@ -1729,6 +1724,10 @@ CodePen
 <!--
 https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
 
+Digital Ocean
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
 https://repl.it/talk/
 https://repl.it/templates
 https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
@@ -1868,21 +1867,8 @@ https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff wit
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
-Digital Ocean
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
 https://www.digitalocean.com/community/tags/python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
-
-<!--
-Tutorials
-
-Python 3.9
-https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
-https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
 -->
 
 ## Projects
@@ -4253,6 +4239,8 @@ https://wiki.python.org/moin/PyQt
 * [PyGame](https://www.pygame.org/)
 
 <!--
+https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
+
 https://wiki.python.org/moin/PythonGameLibraries | PythonGameLibraries - Python Wiki
 
 https://github.com/ppb/pursuedpybear | ppb/pursuedpybear: A python game engine.
