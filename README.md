@@ -992,6 +992,22 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
+## Awesome Python and Django
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Django
+* [Awesome Django GitLab](hhttps://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+<!--
+https://github.com/wsvincent/awesome-django
+-->
+
 ## Shortcuts
 
 <!--
@@ -1833,22 +1849,18 @@ https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 -->
 
 <!--
-Tutorials
-
-Python 3.9
-https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
-https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
--->
-
-<!--
-https://github.com/mpirnat/django-tutorial | mpirnat/django-tutorial: Tutorial presented by Mike Pirnat and David Stanek at CodeMash 2014 about web development with Python and Django
-
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 
+No Starch
 https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
@@ -1861,21 +1873,17 @@ https://github.com/digitalocean/sample-django | digitalocean/sample-django: Djan
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
 https://www.digitalocean.com/community/tags/python
-
-https://aws.amazon.com/developer/language/python/
-
-https://www.edx.org/learn/python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-
-Data Science
-https://www.kaggle.com/learn/python
-
-Arxiv
-https://paperswithcode.com/ | The latest in machine learning | Papers With Code
-
-https://twitter.com/ndrewwang/status/1270082943399198720 | Andrew Wang on Twitter: "Wow, @ConnectedPapers is seriously the coolest tool to visualize co-referencing between papers. This is seriously a game-changer for literature reviews, big props to https://t.co/hqdstYsH9h 👏👏👏 #AcademicChatter @AcademicChatter https://t.co/s2aXiroRoS" / Twitter
 -->
 
+<!--
+Tutorials
+
+Python 3.9
+https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
+https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
+https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
+-->
 
 ## Projects
 
