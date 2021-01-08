@@ -499,24 +499,6 @@ https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - Circle
 
 https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
 
-VS Code/Container
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
-
-https://github.com/jessfraz/dockerfiles
-
-https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-
-Container
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-https://podman.io/
-
-https://www.packer.io/ | Packer by HashiCorp
-
 https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
 
 CPU
@@ -3449,6 +3431,24 @@ https://jasmine.github.io/ | Jasmine Documentation
 TensorFlow.js 
 
 Terraform
+
+
+VS Code/Container
+https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+
+https://github.com/jessfraz/dockerfiles
+
+Container
+https://www.docker.com/get-started | Get Started with Docker | Docker
+https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+
+https://podman.io/
+
+https://www.packer.io/ | Packer by HashiCorp
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 -->
 
 ## Deploy
