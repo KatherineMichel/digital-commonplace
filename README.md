@@ -414,6 +414,16 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
+http://inventwithpython.com/beyond/
+
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
+
 http://meowni.ca/posts/emoji-emoji-emoji/
 
 
