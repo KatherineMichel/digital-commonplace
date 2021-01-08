@@ -414,6 +414,15 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
+https://github.com/facebook/create-react-app
+http://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+https://codepen.io/2020/popular/pens/10
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+https://twitter.com/jessicahische/status/1343614261277282306
+https://stylestage.dev/styles/floral-vibes/
+
 DevICT
 https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
 
