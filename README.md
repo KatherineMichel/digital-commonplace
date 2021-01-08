@@ -414,6 +414,54 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
+DevICT
+https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+
+Important! Atomic Design
+https://twitter.com/IbrahimCodes/status/1339671093880209410 | https://twitter.com/IbrahimCodes/status/1339671093880209410
+
+Features
+https://twitter.com/wakaleo/status/854702550469234692
+
+Examples
+Important- Typography
+https://mobile.twitter.com/rauchg/status/1249401344009441280
+
+https://twitter.com/nivi/status/1321891318604296192 | Nivi on Twitter: "Start your own blog or podcast on WordPress—steal our design." / Twitter
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+
+https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
+
+
+Tailwind
+https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
+https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
+
+Ideas
+https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
+
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
+
+Docs
+https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
+nbdev
+https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
+
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google
+
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+
+
+
 Tailwind Crash Course
 https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
 
@@ -608,6 +656,8 @@ https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 
 Test Driven
+https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
+https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
 https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
 https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Model in Django | TestDriven.io
 https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
@@ -810,6 +860,11 @@ https://twitter.com/andrewgodwin/status/1147272951118483457
 <!--
 Simon
 
+https://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/ | Weeknotes: Datasette internals
+
+https://twitter.com/simonw/status/1343307038734962690 | Simon Willison on Twitter: "@jasoncwarner @datasetteproj The Mozilla example is interesting because they don't have to do a full deploy for a content change - they effectively mirror their SQLite database file to all of their frontend machines and have a cron that updates it on a schedule https://t.co/rhWWta6Gh8" / Twitter
+
+
 https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
 
 https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
@@ -980,18 +1035,51 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
-## Awesome Python and Django
+## Engineering Performance Resources
 
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
-Awesome Django
-* [Awesome Django](https://github.com/wsvincent/awesome-django)
-* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+
+https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+-->
+
+<!--
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+Great engineers
+https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
+https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
+https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
+
+http://sijinjoseph.com/programmer-competency-matrix/
+
+software development competency framework
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+-->
 
 ## Shortcuts
 
@@ -1115,52 +1203,18 @@ https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 -->
 
+## Awesome Python and Django
 
-## Engineering Performance Resources
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
 
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
-
-https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
-<!--
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-Great engineers
-https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
-
-https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
-https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
-https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
-
-http://sijinjoseph.com/programmer-competency-matrix/
-
-software development competency framework
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
--->
+Awesome Django
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
 
 <!--
 ## Website and Blog Resources
@@ -1212,6 +1266,100 @@ https://devchecklists.com/vintas-high-quality-standards/
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 -->
 
+## Programming Language Comparisons
+## General Software Design Patterns
+## Architectures
+## Python Syntax and Python Versus JavaScript
+
+## Python and JavaScript
+
+One Pic
+* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
+* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
+
+Python vs. JavaScript
+* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
+* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
+
+<!--
+https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
+-->
+
+JavaScript Syntax
+* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
+* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
+
+Philip Guo
+* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
+* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
+
+<!--
+http://pythontutor.com/live.html#mode=edit
+Video 5, 13:25 Recap
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+-->
+
+## Jargon, Algorithms, and Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+<!--
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+-->
+
+<!--
+Functional programming
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+<!--
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+Algos
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
+
+
+Clean Code
+https://github.com/ryanmcdermott/clean-code-javascript
+https://github.com/zedr/clean-code-python
+
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+
+
+Style
+* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
+
+https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
+https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
+https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
+
+https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+-->
+
 ## Patterns
 
 Martin Fowler, Refactoring, Patterns, ThoughtWorks
@@ -1238,9 +1386,164 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of
 https://martinfowler.com/articles/collection-pipeline/
 -->
 
-## General Software Design Patterns
+## Patterns
 
-## Architectures
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Python Patterns
+* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
+* [Python Patterns](https://github.com/faif/python-patterns/)
+
+<!--
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
+
+Grady
+https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
+
+https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
+
+https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
+
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
+
+https://refactoring.guru/collapse-hierarchy
+
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
+-->
+
+
+<!--
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
+
+https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
+
+Use
+http://aosabook.org/en/index.html
+https://github.com/aosabook/500lines
+
+https://martinfowler.com/articles/products-over-projects.html
+
+
+CI/CD
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
+
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
+
+High-level structure
+https://martinfowler.com/testing/
+https://en.wikipedia.org/wiki/High-level_design
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/bliki/UnitTest.html
+https://martinfowler.com/articles/nonDeterminism.html
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
+
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
+
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
+
+https://martinfowler.com/bliki/C3.html | C3
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+-->
+
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+
+
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/rShetty/awesome-distributed-systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+-->
 
 ## High Performance
 
@@ -1269,6 +1572,29 @@ https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on T
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+-->
+
+## High Performance
+
+<!--
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+https://www.redhat.com/en/resources/digital-transformation-ebook
+https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
+
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
 -->
 
 ## Site Reliability
@@ -1305,15 +1631,6 @@ https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection
 
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
-
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
 
 ## Stuff
 
@@ -1456,6 +1773,16 @@ https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design S
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 -->
+
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
 
 ## Showcases
 
@@ -1737,6 +2064,8 @@ https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 * [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
 
 <!--
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+
 https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
 
 GitHub/Netlify
@@ -1979,6 +2308,8 @@ https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode
 
 https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
 https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
 
@@ -2000,18 +2331,12 @@ https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling
 
 
 
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-
 https://twitter.com/chriscoyier/status/1337569425776635904
 https://wordpress.org/themes/twentytwentyone/
 https://css-tricks.com/unconventional-stock-image-sources/
 
 
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 Learn Django
 https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
@@ -2031,8 +2356,6 @@ https://explorers.netlify.com/
 
 Sarah
 https://css-tricks.com/learning-to-learn/
-
-https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
 
 https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
 https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
@@ -2115,6 +2438,7 @@ https://github.com/btholt/complete-intro-to-containers
 https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
 
 https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
+https://github.com/btholt/gatsby-course-starter | btholt/gatsby-course-starter: a gatsby starter project to help you create educational materials
 
 
 http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
@@ -2122,11 +2446,18 @@ https://frontendmasters.github.io/bootcamp/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://github.com/FrontendMasters/bootcamp
 
+Jen Kramer
 https://codepen.io/jen4web/
+https://github.com/jen4web | jen4web (Jen Kramer)
+https://learnwithjen.com/ | Learn with Jen Kramer
+https://gumroad.com/l/softr-airtable | Your First Interactive Website with Airtable and Softr
+
 https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
 
 https://github.com/FrontendMasters/bootcamp/tree/master/src/layouts | bootcamp/src/layouts at master · FrontendMasters/bootcamp
 https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
 
 Frontend- Important
 https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
@@ -2379,147 +2710,11 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
 -->
 
-
 <!--
 Channels stuff
 https://github.com/fcurella/django-channels-react-redux
 https://github.com/channels-frontend/django_redux
 -->
-
-
-## Django Organization Tools
-
-<!--
-Lincoln Loop Stack
-High Performance Django Stack
-
-https://github.com/skorokithakis/django-annoying | skorokithakis/django-annoying: A django application that tries to eliminate annoying things in the Django framework. ⛺
-
-https://github.com/caktus/aws-web-stacks | caktus/aws-web-stacks: Easily create AWS managed resources in an isolated VPC for hosting web applications.
-https://gitlab.com/ewdurbin/chalice-github-auth | Ernest W. Durbin III / chalice-github-auth · GitLab
-
-Calvin
-https://blog.jetbrains.com/pycharm/2020/04/webinar-how-to-build-real-time-interactions-in-your-django-3-app-with-calvin-hendryx-parker/ | Webinar: “How To Build Real-Time Interactions In Your Django 3 App” with Calvin Hendryx-Parker | PyCharm Blog
-
-https://www.caktusgroup.com/blog/2014/11/10/Using-Amazon-S3-to-store-your-Django-sites-static-and-media-files/ | Using Amazon S3 to Store your Django Site's Static and Media Files | Caktus Group
-https://www.vinta.com.br/blog/2017/celery-overview-archtecture-and-how-it-works/ | Celery: an overview of the architecture and how it works – Vinta Software
-http://www.revsys.com/tidbits/brief-intro-docker-djangonauts/ | A Brief Intro to Docker for Djangonauts
-https://www.revsys.com/tidbits/how-add-django-models-wagtail-admin/ | How to Add Django Models to the Wagtail Admin
-https://www.revsys.com/tidbits/using-different-read-and-write-serializers-django-rest-framework/ | Using Different Read and Write Serializers in Django REST Framework
-
-https://github.com/roverdotcom/django-related-models | roverdotcom/django-related-models: An easy way to fetch all the related objects of a Django model's instance.
-
-https://github.com/theatlantic/django-nested-admin | theatlantic/django-nested-admin: Django admin classes that allow for nested inlines
-
-https://github.com/adamchainz/django-perf-rec
-https://gumroad.com/l/suydt
-
-https://jazzband.co/ | Jazzband
-https://github.com/jazzband/django-silk | jazzband/django-silk: Silky smooth profiling for Django
-https://github.com/jazzband/dj-rest-auth
-https://github.com/jazzband/django-model-utils
-
-https://twitter.com/jpadilla_/status/1189752115566133248
-https://github.com/jazzband/django-configurations | jazzband/django-configurations: A helper for organizing Django project settings by relying on well established programming patterns.
-https://github.com/jazzband/django-constance | jazzband/django-constance: Dynamic Django settings.
-
-https://github.com/edx/django-config-models | edx/django-config-models: Configuration models for Django allowing config management with auditing.
-
-https://github.com/jambonsw/django-improved-user
-
-https://github.com/lincolnloop/django-alive
-
-https://github.com/mozilla/django-csp | mozilla/django-csp: Content Security Policy for Django.
--->
-
-<!--
-Feature Flags
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
-
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
--->
-
-## Structuring Your Python Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Django Project Structure
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-
-
-## Jargon, Algorithms, and Patterns
-
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-<!--
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
-https://refactoring.guru/design-patterns/ | Design Patterns
--->
-
-<!--
-Functional programming
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
--->
-
-<!--
-Algos
-https://www.algorist.com/ | The Algorithm Design Manual
-
-Algos
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
-
-
-Clean Code
-https://github.com/ryanmcdermott/clean-code-javascript
-https://github.com/zedr/clean-code-python
-
-https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
-
-
-Style
-* [Peter Norvig: Pytudes](https://github.com/norvig/pytudes)
-
-https://en.wikipedia.org/wiki/Exercises_in_Style | Exercises in Style - Wikipedia
-https://github.com/crista/exercises-in-programming-style | crista/exercises-in-programming-style: Comprehensive collection of programming styles using a simple computational task, term frequency
-https://henrikwarne.com/2018/03/13/exercises-in-programming-style/ | Exercises in Programming Style | Henrik Warne's blog
-
-https://github.com/SigmaQuan/Better-Python-59-Ways | SigmaQuan/Better-Python-59-Ways: Code Sample of Book "Effective Python: 59 Specific Ways to Write Better Pyton" by Brett Slatkin
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
--->
-
 
 <!--
 Non-Python
@@ -2647,6 +2842,16 @@ https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.m
 https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
 -->
 
+## Design
+
+<!--
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
+-->
+
 
 ## Website and Blog Resources
 
@@ -2707,17 +2912,6 @@ https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "p
 
 Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
-
-## Design
-
-<!--
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
 
@@ -3090,6 +3284,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids | Grids - Learn web development | MDN
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Line-based_placement | Grids - Learn web development | MDN
 -->
 
 ## Mozilla- JavaScript APIs Reference
@@ -3179,6 +3374,11 @@ Desktop Events
 * [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
     
 <!--
+https://www.w3schools.com/html/html_id.asp | HTML - The id attribute
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById | Document.getElementById() - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Using_Touch_Events | Using Touch Events - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Touch_events | Touch events - Web APIs | MDN
+
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
 
 DOM- Event
@@ -3625,6 +3825,7 @@ https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: Rea
 
 React Server Components
 https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
+https://github.com/vercel/next-server-components | vercel/next-server-components: Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
 https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
 https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
 https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
@@ -3797,221 +3998,6 @@ Scala
 
 <!--
 https://nim-lang.org/
--->
-
-## Python Syntax and Python Versus JavaScript
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-<!--
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
--->
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
--->
-
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
-
-
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-https://github.com/rShetty/awesome-distributed-systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
--->
-
-
-## Programming Language Comparisons
-
-## Patterns
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
-
-<!--
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
-Grady
-https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
-
-https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
-
-https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
-
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
-https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
-
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-
-<!--
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
-
-https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-Use
-http://aosabook.org/en/index.html
-https://github.com/aosabook/500lines
-
-https://martinfowler.com/articles/products-over-projects.html
-
-
-CI/CD
-https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
-https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
-https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
-https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
-https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
-
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
-
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-High-level structure
-https://martinfowler.com/testing/
-https://en.wikipedia.org/wiki/High-level_design
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/bliki/UnitTest.html
-https://martinfowler.com/articles/nonDeterminism.html
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
--->
-
-
-## High Performance
-
-<!--
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-
-
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
-
-http://engineering.khanacademy.org/posts/engineering-principles.htm
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
 -->
 
 ## API
