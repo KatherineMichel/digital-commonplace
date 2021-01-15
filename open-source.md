@@ -99,6 +99,7 @@ https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
 https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
 -->
 
+
 <!--
 https://primer.style/doctocat/usage/deployment
 
@@ -267,6 +268,14 @@ http://jmlr.org/ | Journal of Machine Learning Research Homepage
 Charter
 https://github.com/cncf/foundation/blob/master/charter.md | foundation/charter.md at master · cncf/foundation
 
+CNCF
+https://github.com/cncf/
+https://www.cncf.io/blog/
+https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
+https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
+
+https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+
 Foundations
 https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
 
@@ -283,14 +292,6 @@ https://github.com/kubernetes/website | kubernetes/website: Kubernetes website a
 
 MongoDB
 https://github.com/mongodb/community
-
-CNCF
-https://github.com/cncf/
-https://www.cncf.io/blog/
-https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
-https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
-
-https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
 -->
 
 ## Reports
