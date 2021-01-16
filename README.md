@@ -157,9 +157,6 @@ https://twitter.com/i/lists/1216283681167265792 | @Scobleizer/Top Shelf in Tech 
 
 https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
 
-OS
-https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-
 People
 https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
 
@@ -286,6 +283,9 @@ https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-s
 Website for Me
 https://github.com/showcases/github-pages-examples | GitHub Pages examples
 Jekyll Themes
+
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 
 Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
@@ -414,8 +414,20 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
+Deck
+https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
+
+PSF
+https://www.eff.org/event/pycon-certbot-development-sprint
+
+PSF
+https://twitter.com/jaredpalmer/status/1289948794138763265 | Jared Palmer on Twitter: "TIL you can setup @GitHub to autolink text references with a prefix of your choice to external URLs (e.g. Clubhouse, Jira, Trello etc.) https://t.co/7R5bU01MVB" / Twitter
+
+Interesting
+https://www.kapwing.com/museum-of-websites | Museum of Websites - Kapwing
+
+
 https://github.com/facebook/create-react-app
-http://inventwithpython.com/beyond/
 https://www.youtube.com/watch?v=nJwqX-rfpXw
 https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
 https://codepen.io/2020/popular/pens/10
@@ -1734,53 +1746,6 @@ https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Ag
 https://www.atlassian.com/devops/tools-and-technologies
 
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
--->
-
-
-## Roadmaps
-
-* [GitHub Roadmap](https://github.com/github/roadmap)
-* [Twitter Developer Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap)
-
-<!--
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-GitHub and Twitter Roadmaps
-https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
-
-Slack Roadmap
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
-
-Asana
-https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
-https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
-
-https://github.com/vuejs/vue/projects/6
-
-https://redwoodjs.com/roadmap
-https://github.com/11ty/eleventy#major-roadmapped-features
-
-Gumroad Roadmap
-https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
-https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
--->
-
-## Launch
-
-<!--
-https://github.com/github/docs
-
-Launch Story
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-Rapid dev
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
 -->
 
 
