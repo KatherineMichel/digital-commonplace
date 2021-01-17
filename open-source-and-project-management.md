@@ -242,7 +242,19 @@ Bus Factor
 * [Bus Factor Wikipedia](https://en.wikipedia.org/wiki/Bus_factor)
 
 <!--
+Open Source
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS
+https://en.wikipedia.org/wiki/Open-source_software
 https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
+
+Important
+https://opensource.com/open-source-way
+https://opensource.com/resources/what-open-source
+https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html
+
+Project Management
+https://opensource.com/business/15/11/open-development-method
 
 http://anonymoushash.vmbrasseur.com
 https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
@@ -358,35 +370,6 @@ MongoDB
 https://github.com/mongodb/community
 -->
 
-## Reports
-
-Octoverse
-* [The State of the Octoverse](https://octoverse.github.com/)
-
-GitHub Open Source Survey
-* [Open Source Survey Insights](http://opensourcesurvey.org/2017/#insights), [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
-
-<!--
-Important!
-https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
-
-https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
-
-Survey
-https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
-https://todogroup.org/blog/survey-2019/
-https://github.com/todogroup/survey
-
-Survey
-https://www.tidelift.com/subscription/2020-managed-open-source-survey
-https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
-
-Old
-https://github.com/ten | Thank you for making 10 years of GitHub possible
-https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
-https://github.com/blog/2401-the-github-diversity-report	
--->
-
 ## Open Source Governance
 
 FOSS Governance Collection
@@ -414,34 +397,32 @@ https://www.slideshare.net/caniszczyk/starting-an-open-source-program-office-osp
 
 https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
 
-OS Governance- Priority
+OS Governance
 http://stormyscorner.com/2020/09/what-open-source-governance-models-are-available.html | What open source governance models are available? – Stormy's Corner
+https://github.com/theopensourceway/guidebook/blob/master/community_governance.adoc
+https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
+
+https://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing/16-The_architecture_of_participation_I
+https://twitter.com/catallman/status/1234631228126416896 | Cat Allman on Twitter: "A good thread re open source https://t.co/LVA4K7sWkv" / Twitter
 
 Europe- sustainability
 https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-creating-sustainable-open-source-communities | Guidelines for creating sustainable open source communities | Joinup
 https://joinup.ec.europa.eu/sites/default/files/inline-files/Guidelines%20for%20Sustainable%20OSS%20Communities%20in%20the%20Public%20Sector%20final.pdf
 
+InnerSource
+https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
+https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
+https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
+
 
 https://github.com/todogroup/todogroup.github.io/tree/master/content/en/guides
 
-https://github.com/todogroup/awesome-oss-mgmt
 
-
+People
 https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
-
 https://github.com/ashleywolf?tab=stars | ashleywolf (Ashley Wolf) / Starred
-
 https://wiki.opensource.org/bin/Main/OSI+Board+of+Directors/Board+Member+Elections/ | Board Member Elections (Main.OSI Board of Directors.Board Member Elections.WebHome) - XWiki
 
-
-Important
-https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
-
-https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
-
-InnerSource
-https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
-https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
 
 Sustain OSS
 https://sustainoss.org/
@@ -449,157 +430,12 @@ https://github.com/sustainers | Sustain
 https://discourse.sustainoss.org/
 https://twitter.com/SustainOSS/
 
+https://github.com/todogroup/awesome-oss-mgmt
+
 COSS
 https://www.bvp.com/atlas/roadmap-open-source
 https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
 -->
-
-
-## Company Open Source- Philosophy
-
-Google: Why Open Source
-* [Why Open Source?](https://opensource.google.com/docs/why)
-
-Uber Open Source Guiding Principles
-* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
-* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
-
-## Company Open Source- Guides
-
-GitHub Docs
-* [GitHub Help](https://help.github.com) 
-* [GitHub Guides](https://guides.github.com/)
-
-GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
-
-Google Open Source Guides
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Engineering Practices Guide](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
-<!--
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
--->
-
-## Company Open Source- Approaches
-
-Google Open Source
-* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
-
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-
-Bazel
-* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
-* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
-
-Google Developers- Code
-* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
-* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
-    
-## Company Open Source- Tools
-
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
-
-
-<!--
-https://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing/16-The_architecture_of_participation_I
-https://twitter.com/catallman/status/1234631228126416896 | Cat Allman on Twitter: "A good thread re open source https://t.co/LVA4K7sWkv" / Twitter
-
-https://github.com/customer-stories/facebook | Facebook
-
-https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
-
-
-https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
-https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
-https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
-https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
-
-https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
-https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
-
-
-Bazel
-https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 | Watch - Bazel Persistent workers
-
-Bazel
-https://github.com/twitter/bazel-multiversion | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
-https://github.com/twitter/scoot
-https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
-
-Twitter
-https://github.com/twitter/.github/blob/master/code-of-conduct.md
-https://github.com/todogroup/opencodeofconduct
-https://github.com/twitter/twitter.github.io
-https://github.com/twitter/template
-https://github.com/twitter/metrics
-https://github.com/twitter/scala_school
-https://github.com/twitter/dodo
-
-Pants
-https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
-https://github.com/twitter/pants
-
-https://github.com/microsoft/opensource.microsoft.com
-https://opensource.microsoft.com/program/#program-contributing
-
-https://jeffwilcox.blog/2019/06/scaling-25k/
-https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
-https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
-https://github.com/microsoft/ghcrawler
-
-MS OS
-https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
-https://opensource.microsoft.com/resources
-https://opensource.microsoft.com/codeofconduct/
-https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
-Interesting checklists
-https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
-https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
-https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-
-FOSS Contributor Funds (Also, Microsoft)
-https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
-https://github.com/indeedeng/FOSS-Contributor-Fund
-https://github.com/indeedeng/FOSS-Contributor-Fund#the-project-must-use-an-osi-approved-license | indeedeng/FOSS-Contributor-Fund: This document outlines the processes we use to manage our FOSS Contributor Fund initiative at Indeed.
-https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
-https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
-
-Project Portal
-https://github.com/SAP/project-portal-for-innersource
-https://github.com/VerizonMedia/verizon-media-open-source-project-portal
-
-https://eng.uber.com/open-source-principles/#:~:text=Open%20source%20at%20Uber%20supports,expand%20upon%20existing%20community%20solutions. | Introducing Uber’s Open Source Principles | Uber Engineering Blog
-https://uber.github.io/#/principles | Uber Open Source
-
-Core Beliefs
-https://github.com/homedepot/opensource-corebeliefs
-https://homedepot.github.io/
-
-
-https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
-
-
-Templates
-https://github.com/adobe/open-development-template
-https://github.com/adobe/open-development-template/blob/master/README.md#goals
-https://github.com/adobe/open-development-template/blob/master/Process.md
-https://github.com/adobe/open-development-template/blob/master/Mission.md
-https://github.com/adobe/open-development-template/blob/master/Licensing.md
-https://github.com/adobe/open-development-template/blob/master/Licensing.md#example-outbound-licenses
-https://github.com/adobe/open-development-template/blob/master/Licensing.md#example-inbound-licenses
-https://github.com/adobe/open-development-template/blob/master/Licensing.md#references
-
-https://github.com/salesforce/oss-template/
-https://github.com/forcedotcom/oss-template
--->
-
 
 <!--
 https://github.com/redhatdemocentral
@@ -629,6 +465,139 @@ https://github.com/OpenTechStrategies/open-source-archetypes | OpenTechStrategie
 Gov
 https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-ops-new-hire-checklist.md | onboarding-documents/team-talent-ops-new-hire-checklist.md at master · 18F/onboarding-documents
 https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
+-->
+
+
+## Company Open Source- Philosophy
+
+Google: Why Open Source
+* [Why Open Source?](https://opensource.google.com/docs/why)
+
+Uber Open Source Guiding Principles
+* [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
+* [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
+
+## Company Open Source- Guides
+
+GitHub Docs
+* [GitHub Help](https://help.github.com) 
+* [GitHub Guides](https://guides.github.com/)
+
+GitHub Open Source Guide GitHub
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+
+Google Open Source Guides
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Google Engineering Practices Guide](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
+
+Verizon Open Source Software Guide
+* [Verizon OSS Guide](https://verizonmedia.github.io/oss-guide/) and [Verizon OSS Guide GitHub](https://github.com/VerizonMedia/oss-guide)
+
+## Company Open Source- Approaches
+
+Google Open Source
+* [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
+
+Bazel
+* [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
+* [Bazel Overview](https://docs.bazel.build/versions/master/bazel-overview.html)
+
+Google Developers- Code
+* [Google Developers Open Source](http://developers.google.com/open-source/projects) 
+* [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
+    
+<!--
+https://cacm.acm.org/magazines/2016/7/204032-why-google-stores-billions-of-lines-of-code-in-a-single-repository/fulltext
+https://cacm.acm.org/magazines/2018/4/226371-lessons-from-building-static-analysis-tools-at-google/fulltext | Lessons from Building Static Analysis Tools at Google | April 2018 | Communications of the ACM
+
+Bazel
+https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 | Watch - Bazel Persistent workers
+https://github.com/twitter/bazel-multiversion | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
+https://github.com/twitter/scoot
+https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+-->
+
+## Company Open Source- Tools
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+<!--
+Twitter
+https://github.com/twitter/.github/blob/master/code-of-conduct.md
+https://github.com/todogroup/opencodeofconduct
+https://github.com/twitter/twitter.github.io
+https://github.com/twitter/template
+https://github.com/twitter/metrics
+https://github.com/twitter/scala_school
+https://github.com/twitter/dodo
+
+Pants
+https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
+https://github.com/twitter/pants
+
+https://opensource.google/docs/github/ | GitHub at Google – opensource.google.com
+https://github.com/google/new-project/tree/master/.github | new-project/.github at master · google/new-project
+https://developers.google.com/issue-tracker | Google Issue Tracker  |  Google Developers
+
+https://github.com/google/triage-party | google/triage-party: Triage Party: massively multi-player GitHub triage 
+
+Templates
+https://github.com/adobe/open-development-template
+https://github.com/adobe/open-development-template/blob/master/README.md#goals
+https://github.com/adobe/open-development-template/blob/master/Process.md
+https://github.com/adobe/open-development-template/blob/master/Mission.md
+https://github.com/adobe/open-development-template/blob/master/Licensing.md
+https://github.com/adobe/open-development-template/blob/master/Licensing.md#example-outbound-licenses
+https://github.com/adobe/open-development-template/blob/master/Licensing.md#example-inbound-licenses
+https://github.com/adobe/open-development-template/blob/master/Licensing.md#references
+
+https://github.com/salesforce/oss-template/
+https://github.com/forcedotcom/oss-template
+
+Core Beliefs
+https://github.com/homedepot/opensource-corebeliefs
+https://homedepot.github.io/
+
+https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
+-->
+
+<!--
+Microsoft Open Source
+
+https://github.com/microsoft/opensource.microsoft.com
+https://opensource.microsoft.com/program/#program-contributing
+
+https://jeffwilcox.blog/2019/06/scaling-25k/
+https://www.jeff.wilcox.name/2019/06/scaling-25k/#docs
+https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
+https://github.com/microsoft/ghcrawler
+
+https://opensource.microsoft.com/explore
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+https://opensource.microsoft.com/resources
+https://opensource.microsoft.com/codeofconduct/
+https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
+Interesting checklists
+https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
+https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
+https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+FOSS Contributor Funds (Also, Microsoft)
+https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
+https://github.com/indeedeng/FOSS-Contributor-Fund
+https://github.com/indeedeng/FOSS-Contributor-Fund#the-project-must-use-an-osi-approved-license | indeedeng/FOSS-Contributor-Fund: This document outlines the processes we use to manage our FOSS Contributor Fund initiative at Indeed.
+https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
+https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
+
+Project Portal
+https://github.com/SAP/project-portal-for-innersource
+https://github.com/VerizonMedia/verizon-media-open-source-project-portal
 -->
 
 ## Legal
@@ -683,11 +652,6 @@ Data, Media, etc.
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 <!--
-Open Source
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS
-https://en.wikipedia.org/wiki/Open-source_software
-
 https://choosealicense.com/licenses/
 
 Open Source Initiative
@@ -725,11 +689,6 @@ https://twitter.com/jamesvasile/status/1197974742227148800 | James Vasile on Twi
 
 https://gplcc.github.io/gplcc/
 https://www.redhat.com/en/about/press-releases/gpl-initiative-grows-over-40-more-60-companies-have-joined-campaign-greater-predictability-open-source-licensing
-
-Important
-https://opensource.com/open-source-way
-https://opensource.com/resources/what-open-source
-https://opensource.com/business/15/11/open-development-method
 -->
 
 ## Codes of Conduct
@@ -781,13 +740,14 @@ https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light
 https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
 
 https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
-
-https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
-https://github.com/joelparkerhenderson/maturity_models
 -->
 
 <!--
-Metrics and Health
+Stories, Report Cards, Project Health
+
+https://github.com/customer-stories/facebook | Facebook
+
+https://opensource.googleblog.com/2020/08/open-source-by-numbers-at-google.html | Open source by the numbers at Google | Google Open Source Blog
 
 https://github.com/mlazana/MyFirst-OpenSource-Contribution-Report | mlazana/MyFirst-OpenSource-Contribution-Report: My first open source contribution!
 
@@ -818,6 +778,11 @@ Maturity Models and Frameworks
 * [Red Hat Open Decision Framework](https://github.com/red-hat-people-team/open-decision-framework)
 
 <!--
+List of Maturity Models
+https://github.com/joelparkerhenderson/maturity_models
+
+https://www.geeksforgeeks.org/software-engineering-capability-maturity-model-cmm/
+
 Assessment
 https://coiled.io/blog/stages-of-openness.html
 Service metrics
@@ -858,6 +823,34 @@ https://www.forbes.com/sites/forbescommunicationscouncil/2018/06/13/why-open-sou
 * [Tidelift](https://blog.tidelift.com)
 * [Open Source Collective](https://opencollective.com)
 
+## Reports
+
+Octoverse
+* [The State of the Octoverse](https://octoverse.github.com/)
+
+GitHub Open Source Survey
+* [Open Source Survey Insights](http://opensourcesurvey.org/2017/#insights), [Open Source Survey](http://opensourcesurvey.org/2017) and [Open Source Survey GitHub](https://github.com/github/open-source-survey)
+
+<!--
+Important!
+https://thenewstack.io/week-numbers-data-lots/ | This Week in Numbers: Open Source Development at Large Companies - The New Stack
+
+https://opensource.org/node/1093 | Released: Report on Our Member Survey | Open Source Initiative
+
+Survey
+https://todogroup.org/blog/survey-2020/ | // TODO: Talk openly, develop openly
+https://todogroup.org/blog/survey-2019/
+https://github.com/todogroup/survey
+
+Survey
+https://www.tidelift.com/subscription/2020-managed-open-source-survey
+https://www.linuxfoundation.org/blog/2020/06/linux-foundation-harvard-announce-free-libre-and-open-source-software-foss-contributor-survey/ | Linux Foundation & Harvard Announce Free/Libre and Open Source Software (FOSS) Contributor Survey - The Linux Foundation
+
+Old
+https://github.com/ten | Thank you for making 10 years of GitHub possible
+https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's technology predictions for 2018
+https://github.com/blog/2401-the-github-diversity-report	
+-->
 
 ## Open Source and Release Examples
 
@@ -865,19 +858,21 @@ Community Handbook
 * [CHAOSS Community Handbook](https://handbook.chaoss.community/community-handbook/)
 
 <!--
-Contributing
-https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
-
-https://opensource.com/article/19/2/contributing-gitlab | Getting started as a GitLab contributor | Opensource.com
-
-https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
-
+Vicky
 https://anonymoushash.vmbrasseur.com/2020/10/26/personality-in-open-source | Personality in Open Source - {anonymous => 'hash'};
 https://www.fosslife.org/open-source-drive-thru-contributors | Open Source Drive-Thru Contributors
 
 Sarah Cope
 https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
+
+
+Contributing
+https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
+
+https://opensource.com/article/19/2/contributing-gitlab | Getting started as a GitLab contributor | Opensource.com
+
+https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
 
 https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
 
