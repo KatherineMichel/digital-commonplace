@@ -239,9 +239,6 @@ Talks
 https://twitter.com/simonw/status/1300193439573708800
 
 
-CHAOSS
-https://opensource.com/article/20/11/chaoss-open-source-events | How we develop success metrics for open source events | Opensource.com
-
 pytest
 https://docs.pytest.org/
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
@@ -292,8 +289,6 @@ https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-
 
 Hackathon Deadline January 10
 https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
 
 Frontend Bootcamp teacher Jenn... great at it
 
@@ -414,29 +409,43 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
-Deck
-https://twitter.com/theavalkyrie/status/1315685482479718403 | Stargirl🌠 on Twitter: "@vixter55 You're welcome to use my deck from PyCon 2019 as a starting point. I don't love the blue on white contrast and I'd probably use different fonts now (Nunito is fun without being too hard to read). https://t.co/vsDIMcC9Qh" / Twitter
-
-PSF
-https://www.eff.org/event/pycon-certbot-development-sprint
-
-PSF
-https://twitter.com/jaredpalmer/status/1289948794138763265 | Jared Palmer on Twitter: "TIL you can setup @GitHub to autolink text references with a prefix of your choice to external URLs (e.g. Clubhouse, Jira, Trello etc.) https://t.co/7R5bU01MVB" / Twitter
-
-Interesting
-https://www.kapwing.com/museum-of-websites | Museum of Websites - Kapwing
-
-
-https://github.com/facebook/create-react-app
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-https://codepen.io/2020/popular/pens/10
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-https://twitter.com/jessicahische/status/1343614261277282306
-https://stylestage.dev/styles/floral-vibes/
+https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 
 DevICT
 https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+
+Interesting
+https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
+
+Important- Engineering Orgs
+https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
+
+Important
+https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
+
+Use
+https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69 | Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium
+https://2020.stateofjs.com/en-US/ | State of JS 2020
+
+Ideas
+https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
+
+Inspiration
+https://dribbble.com/ | Dribbble - Discover the World’s Top Designers & Creative Professionals
+https://www.loversmagazine.com/inspiration | Inspiration - Lovers Magazine
+beautiful design - Google Search
+design inspiration - Google Search
+https://www.kapwing.com/museum-of-websites | Museum of Websites - Kapwing
+https://twitter.com/WebDesignMuseum | https://twitter.com/WebDesignMuseum
+
+Design
+https://learningfigma.com/ | Learning Figma
+https://twitter.com/FigmaAntichrist/status/1346258003113209856 | https://twitter.com/FigmaAntichrist/status/1346258003113209856
+https://www.figma.com/community/plugin/735707089415755407/Image-tracer | Image tracer – Figma
 
 Important! Atomic Design
 https://twitter.com/IbrahimCodes/status/1339671093880209410 | https://twitter.com/IbrahimCodes/status/1339671093880209410
@@ -450,11 +459,37 @@ https://mobile.twitter.com/rauchg/status/1249401344009441280
 
 https://twitter.com/nivi/status/1321891318604296192 | Nivi on Twitter: "Start your own blog or podcast on WordPress—steal our design." / Twitter
 
+Docs
+https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
+nbdev
+https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
+
+https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
+
+
+https://github.com/facebook/create-react-app
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+https://codepen.io/2020/popular/pens/10
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+https://twitter.com/jessicahische/status/1343614261277282306
+https://stylestage.dev/styles/floral-vibes/
+
+
+http://inventwithpython.com/beyond/
+
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
 
-https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
+
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
 
 Tailwind
 https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
@@ -463,38 +498,14 @@ https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcs
 https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
 
-https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
-
-Ideas
-https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
-
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
 
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
 
-Docs
-https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
-nbdev
-https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
-
-https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google
-
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-
-
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-http://inventwithpython.com/beyond/
-
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
-
 http://meowni.ca/posts/emoji-emoji-emoji/
 
+
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
@@ -503,10 +514,6 @@ https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae9
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
-
-https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 
 
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
@@ -600,6 +607,7 @@ https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home direc
 ## Security
 
 https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-samm/ | OWASP SAMM
 https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
 https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
 
