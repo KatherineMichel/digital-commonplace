@@ -1,33 +1,31 @@
 # Open Source and Project Management
 
 <!--
-## Git and OS
+Julia
+https://leaddev.com/events/leaddev-live-2021?utm_source=twitter&utm_medium=social&utm_content=session&utm_campaign=vir21 | LeadDev Live | LeadDev
 
-https://twitter.com/webKnjaZ/status/1285214525629833217 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "@johnlindquist Pro Git 2" / Twitter
+https://twitter.com/Liberationtech/status/1350201138650480646 | Liberation Technology on Twitter: "Microsoft: Open source is now the accepted model for cross-company collaboration https://t.co/wNhsgaCW1c via @VentureBeat" / Twitter
+https://venturebeat.com/2021/01/14/microsoft-open-source-is-now-the-accepted-model-for-cross-company-collaboration/ | Microsoft: Open source is now the accepted model for cross-company collaboration | VentureBeat
+
+https://en.wikipedia.org/wiki/Paradox_of_tolerance | Paradox of tolerance - Wikipedia
+
+
+https://primer.style/doctocat/usage/deployment
+
+https://twitter.com/Code4PuertoRico/
+
 
 https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
 
-https://git-scm.com/docs
-https://git-scm.com/docs/git-status
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://www.infoq.com/news/2019/08/git-2-23-switch-restore/ | Git 2.23 Adds Switch and Restore Commands
+https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
 
-https://opensource.googleblog.com/2018/05/introducing-git-protocol-version-2.html | Introducing Git protocol version 2 | Google Open Source Blog
-
-Email Git
-https://drewdevault.com/2018/07/02/Email-driven-git.html | The advantages of an email-driven git workflow | Drew DeVault’s Blog
-
-https://dev.to/cmilr/initialize-populate-and-post-your-git-repo-to-github-in-a-single-step | Initialize, Populate, and Post Your Git Repo to GitHub in a Single Step
-
-Git Internals
-https://blog.safia.rocks/post/171866471130/how-does-git-know-if-you-have-uncommitted-changes | How does Git know if you have uncommitted changes... - The Web Log of Safia Abdalla
-https://blog.safia.rocks/post/171932025970/whats-inside-the-gitobjects-directory | What’s inside the `.git/objects` directory? - The Web Log of Safia Abdalla
+Best of
+https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
 
 https://github.community/ | Home - GitHub Community Forum
 
 https://githubtraining.github.io/training-manual/#/ | GitHub Training Manual
 -->
-
 
 <!--
 https://twitter.com/Spatial_Punk/status/1273237539936239616 | Spatial Trouble Maker 🏳️‍⚧️ (They/Them) on Twitter: "My favorite thing about all #FOSS Software is that a brilliant kid will never be held back because of the price of entry. Over the past couple of years and as I work more with students, this democratization trait has became the most important thing for me. #nogatekeepers" / Twitter
@@ -50,46 +48,7 @@ https://opensource.com/open-organization/20/8/making-open-decisions-five-steps
 https://dev.to/shhdharmen/open-source-maintainers-must-haves-3a89 | Open-source Maintainers' Must Haves - DEV Community 👩‍💻👨‍💻
 -->
 
-
 <!--
-https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
-
-
-https://primer.style/doctocat/usage/deployment
-
-
-https://missionprotocol.org/ | About | Mission Protocol
-
-Best of
-https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
--->
-
-<!--
-https://twitter.com/Code4PuertoRico/
-
-
-https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
-
-
-The GitHub Open Source Guides "[Checklist Before You Contribute](https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute)" section can be used by prospective contributors to evaluate whether or not to contribute to a project. I used it to evaluate Pinax meets the checklist standards.
-
-
-GitHub Universe- Metrics that Matter
-
-* [GitHub Open Source Guide Metrics](https://opensource.guide/metrics/)
-
-http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
-
-https://dev.to/mbbroberg/help-make-community-more-valuable-by-sharing-your-metrics-2c9b
-
-Metrics
-https://twitter.com/jasoncwarner/status/1337417785681428480 | https://twitter.com/jasoncwarner/status/1337417785681428480
-
-Metrics- Important
-https://www.infoq.com/articles/understandability-metric-not-tracking/ | Understandability: The Most Important Metric You’re Not Tracking
-http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
-
-
 Metrics for Open Source Events
 https://opensource.com/article/20/11/chaoss-open-source-events
 https://twitter.com/GeorgLink/status/1329786944142897152 | https://twitter.com/GeorgLink/status/1329786944142897152
@@ -105,13 +64,6 @@ https://opensource.com/article/20/11/chaoss-open-source-events | How we develop 
 
 Heroku
 https://dev.to/heroku/we-need-better-virtual-dev-conferences-4fjn | We Need Better Virtual Dev Conferences - DEV Community 👩‍💻👨‍💻
-
-https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-https://twitter.com/osdiversity | Open Source Diversity 🌼 (@osdiversity) / Twitter
-
-http://opensourcedesign.net/
-https://opensourcedesign.net/goals/ | Goals - Open Source Design
 -->
 
 ## Case Studies
@@ -248,10 +200,8 @@ https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS
 https://en.wikipedia.org/wiki/Open-source_software
 https://www.gnu.org/software/reliability.en.html | Free Software is More Reliable! - GNU Project - Free Software Foundation
 
-Important
 https://opensource.com/open-source-way
 https://opensource.com/resources/what-open-source
-https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html
 
 Project Management
 https://opensource.com/business/15/11/open-development-method
@@ -268,13 +218,15 @@ https://nadiaeghbal.com/tragedy-of-the-commons
 
 ## Orgs
 
-General Open Source Sites
+Licensing
 * [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
-* [Open Source Dot Com](https://opensource.com)
+* [Free Software Foundation](https://www.fsf.org/)
 
 Foundations
 * [Choose A Foundation](http://chooseafoundation.com/)
 * [Software Freedom Conservancy](https://sfconservancy.org/)
+
+Software Foundations
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [Apache Foundation](https://www.apache.org/foundation/)
 * [Mozilla Foundation](https://foundation.mozilla.org/)
@@ -282,61 +234,70 @@ Foundations
 * [Open JavaScript Foundation](https://openjsf.org/)
 * [Node Foundation](https://foundation.nodejs.org/)
 
+OSPO and Governance
+* [TODO Group](https://todogroup.org/)
+
 Important Orgs
 * [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
 * [Cloud Native Computing Foundation](https://www.cncf.io/)
-* [TODO Group](https://todogroup.org/)
+
+General
+* [Open Source Dot Com](https://opensource.com)
 
 <!--
-https://www.mail-archive.com/
+https://opensource.com/article/21/1/community-awards-2021
+
 https://opensource.google/community/affiliations/
 
-
-https://www.openapis.org/
-
-https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
-
-Continuous Delivery Foundation
-https://cd.foundation/
-
-https://opensource.googleblog.com/
-
-https://numfocus.org/
-
-https://www.redhat.com
-https://www.redhat.com/en/blog
-https://access.redhat.com/documentation/en-us/
-https://developers.redhat.com/blog
-https://twitter.com/redhatopen/
-
-GNOME Foundation
-https://blogs.gnome.org
-
+Free Software Foundation
 https://www.fsf.org/blogs/
 http://ftp.gnu.org
 http://gcc.gnu.org
 https://en.wikipedia.org/wiki/GNU_Project
 https://en.wikipedia.org/wiki/Free_Software_Foundation
 
-ACM Library
-https://www.acm.org/
-https://dl.acm.org/
+Red Hat
+https://www.redhat.com
+https://www.redhat.com/en/blog
+https://access.redhat.com/documentation/en-us/
+https://developers.redhat.com/blog
+https://twitter.com/redhatopen/
 
+Linux
 https://www.linux.com/
 https://www.linuxjournal.com
 https://www.linux.com/blog/
 https://lwn.net/
 
-https://www.eff.org
+https://www.mail-archive.com/
 
-Recurse Center
-https://www.recurse.com/
+Continuous Delivery Foundation
+https://cd.foundation/
+
+GNOME Foundation
+https://blogs.gnome.org
+
+ACM Library
+https://www.acm.org/
+https://dl.acm.org/
 
 OS Security
 https://github.com/ossf | Open Source Security Foundation (OpenSSF)
 
+https://www.eff.org
+
 https://joss.theoj.org/ | Journal of Open Source Software
+
+Open API
+https://www.openapis.org/
+https://github.com/OAI/OpenAPI-Specification/blob/master/README.md
+
+Data Science
 http://jmlr.org/ | Journal of Machine Learning Research Homepage
+https://numfocus.org/
+
+Recurse Center
+https://www.recurse.com/
 -->
 
 
@@ -351,6 +312,8 @@ https://landscape.cncf.io/ | CNCF Cloud Native Interactive Landscape
 https://raw.githubusercontent.com/cncf/landscape/master/landscape/CloudNativeLandscape_latest.png | CloudNativeLandscape_latest.png (7200×4050)
 
 https://github.com/cncf/sig-contributor-strategy | cncf/sig-contributor-strategy: CNCF Special Interest Group on Contributor Strategy -- maintainer relations, building up contributors, governance, graduation, and more.
+
+https://openinventionnetwork.com/
 
 Foundations
 https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
@@ -396,11 +359,18 @@ https://www.slideshare.net/caniszczyk/presentations
 https://www.slideshare.net/caniszczyk/starting-an-open-source-program-office-ospo
 
 https://thenewstack.io/why-you-should-consider-establishing-an-open-source-program-office/ | Why You Should Consider Establishing an Open Source Program Office – The New Stack
+https://opensource.com/article/20/5/open-source-program-office | A guide to setting up your Open Source Program Office (OSPO) for success | Opensource.com
+https://www.redhat.com/en/blog/what-does-open-source-program-office-do | What does an open source program office do?
 
 OS Governance
 http://stormyscorner.com/2020/09/what-open-source-governance-models-are-available.html | What open source governance models are available? – Stormy's Corner
 https://github.com/theopensourceway/guidebook/blob/master/community_governance.adoc
 https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
+
+Minimal Viable Governance
+https://www.slideshare.net/stephenrwalli/minimum-viable-governance | Minimum Viable Governance
+https://www.youtube.com/watch?v=C2-_MjzP-Rs
+https://osseu2020.sched.com/event/eCGH | Open Source Summit + Embedded Linux Conference Europe 2020: M.V.G. – Minimum Viable Governance - Ste...
 
 https://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing/16-The_architecture_of_participation_I
 https://twitter.com/catallman/status/1234631228126416896 | Cat Allman on Twitter: "A good thread re open source https://t.co/LVA4K7sWkv" / Twitter
@@ -417,7 +387,6 @@ https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Pro
 
 https://github.com/todogroup/todogroup.github.io/tree/master/content/en/guides
 
-
 People
 https://github.com/todogroup/governance/blob/master/MEMBERS.csv | governance/MEMBERS.csv at master · todogroup/governance
 https://github.com/ashleywolf?tab=stars | ashleywolf (Ashley Wolf) / Starred
@@ -429,6 +398,11 @@ https://sustainoss.org/
 https://github.com/sustainers | Sustain
 https://discourse.sustainoss.org/
 https://twitter.com/SustainOSS/
+
+https://twitter.com/osdiversity | Open Source Diversity 🌼 (@osdiversity) / Twitter
+
+http://opensourcedesign.net/
+https://opensourcedesign.net/goals/ | Goals - Open Source Design
 
 https://github.com/todogroup/awesome-oss-mgmt
 
@@ -495,6 +469,23 @@ Google Open Source Guides
 Verizon Open Source Software Guide
 * [Verizon OSS Guide](https://verizonmedia.github.io/oss-guide/) and [Verizon OSS Guide GitHub](https://github.com/VerizonMedia/oss-guide)
 
+<!--
+https://opensource.google/docs/releasing/publishing/#announce | Releasing and Publicizing – opensource.google.com
+
+https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | How to Contribute to Open Source | Open Source Guides
+
+* ["Checklist Before You Contribute"](https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute)
+
+https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
+
+https://opensource.guide/best-practices/
+https://github.com/github/opensource.guide/tree/master/_articles
+https://opensource.guide/starting-a-project/
+https://opensource.guide/finding-users/
+https://opensource.guide/building-community/
+https://opensource.guide/leadership-and-governance/
+-->
+
 ## Company Open Source- Approaches
 
 Google Open Source
@@ -536,6 +527,11 @@ https://github.com/twitter/template
 https://github.com/twitter/metrics
 https://github.com/twitter/scala_school
 https://github.com/twitter/dodo
+
+https://twitter.github.io/ | Twitter Open Source
+https://twitter.github.io/year-in-review/ | Year in Review | Twitter Open Source
+https://blog.twitter.com/engineering/en_us/topics/open-source.html | Open source
+https://twitter.com/twitteross?lang=en | Twitter Open Source (@TwitterOSS) / Twitter
 
 Pants
 https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
@@ -597,6 +593,7 @@ https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Co
 
 Project Portal
 https://github.com/SAP/project-portal-for-innersource
+https://github.com/zkoppert/innersource-crawler | zkoppert/innersource-crawler: This project creates a repos.json that can be utilized by the SAP InnerSource Portal.
 https://github.com/VerizonMedia/verizon-media-open-source-project-portal
 -->
 
@@ -615,9 +612,8 @@ GitLab
 * [Contributor License Agreement Wikipedia](https://en.wikipedia.org/wiki/Contributor_License_Agreement)
 
 <!--
+https://twitter.com/martinwoodward/status/1350167363199635456
 https://github.blog/2020-12-14-inspired-by-open-source-balanced-employee-intellectual-property-agreement-2-0/ | Inspired by Open Source: Balanced Employee Intellectual Property Agreement 2.0 - The GitHub Blog
-
-https://sada.com/insights/blog/why-im-on-the-board-of-the-open-usage-commons/
 
 https://github.com/github/balanced-employee-ip-agreement/blob/main/Employee_IP_Laws.md
 https://github.com/github/balanced-employee-ip-agreement/blob/master/Balanced_Employee_IP_Agreement.md | balanced-employee-ip-agreement/Balanced_Employee_IP_Agreement.md at master · github/balanced-employee-ip-agreement
@@ -652,6 +648,8 @@ Data, Media, etc.
 * [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
 
 <!--
+https://sada.com/insights/blog/why-im-on-the-board-of-the-open-usage-commons/
+
 https://choosealicense.com/licenses/
 
 Open Source Initiative
@@ -679,6 +677,24 @@ https://www.gnu.org/philosophy/open-source-misses-the-point.html
 https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
 
 
+Ethics
+https://missionprotocol.org/ | About | Mission Protocol
+
+Ethical Source
+https://firstdonoharm.dev/
+https://ethicalsource.dev/
+https://ethicalsource.dev/media/ | Ethical Source | Ethical Source in the Media
+https://github.com/EthicalSource/hippocratic-license
+https://github.com/ContributorCovenant/ethicalsource
+
+Interesting
+http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/ | mikepennisi.com | You May Finally Use JSHint for Evil
+http://mikepennisi.com/blog/2020/jshint-watching-the-ship-sink/
+
+Unique
+https://twitter.com/joshsimmons/status/1349118003930046464 | Josh Simmons on Twitter: "New license linked to Code of Conduct, that decays to MIT license in time. Really, a fascinating approach." / Twitter
+https://twitter.com/ml5js/status/1349039197789835270
+
 Josh
 https://en.wikipedia.org/wiki/End-user_license_agreement
 https://twitter.com/joshsimmons/status/1267923827536719872 | Josh Simmons on Twitter: "@DawnWagesSays Broadly, folks are exploring licenses, EULAs, Codes of Conduct, and all manner of other tools for minimizing risk that their software will be used to oppress/surveil/harm/etc. I think you'll find the folks @KatiMichel pointed you at will be able to bring you up to speed on those." / Twitter
@@ -704,6 +720,8 @@ Git Ignore
 
 ## Open Source Metrics
 
+* [GitHub Open Source Guide Metrics](https://opensource.guide/metrics/)
+
 Mozilla Metrics
 * [CHAOSS Metrics GitHub](https://github.com/chaoss/metrics/)
 * [CHAOSS Diversity and Inclusion Working Group GitHub](https://github.com/chaoss/wg-diversity-inclusion)
@@ -711,8 +729,6 @@ Mozilla Metrics
 * [Emma Irwin GitHub](https://github.com/emmairwin/), [Emma Irwin](http://tiptoes.ca/), and [Emma Irwin Medium](https://medium.com/@sunnydeveloper/)
 
 <!--
-https://opensource.guide/metrics/
-
 https://bitergia.com/
 https://alpha.cauldron.io/ | Cauldron (α version) - Level Up Software Development Analytics
 https://chaoss.github.io/grimoirelab/ | GrimoireLab - Software Development and Community Analytics platform
@@ -734,12 +750,26 @@ https://github.com/GSA/code-gov-github-metrics/tree/master | GSA/code-gov-github
 <!--
 Metrics and Maturity
 
+GitHub Universe- Metrics that Matter
+
+https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
+
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+https://dev.to/mbbroberg/help-make-community-more-valuable-by-sharing-your-metrics-2c9b
+
+Metrics
+https://twitter.com/jasoncwarner/status/1337417785681428480 | https://twitter.com/jasoncwarner/status/1337417785681428480
+
+Metrics- Important
+https://www.infoq.com/articles/understandability-metric-not-tracking/ | Understandability: The Most Important Metric You’re Not Tracking
+http://swreflections.blogspot.com/2012/05/software-development-metrics-that.html | Building Real Software: Software Development Metrics that Matter
+
+
 https://twitter.com/CHAOSSproj/status/1335965096355434499 | CHAOSS Project on Twitter: "It was an honor to have @jaskirat626 join the CHAOSS community as part of GSOD! Our community handbook is ✨💫⚡️💯🔥 now!" / Twitter
 
 https://speakerdeck.com/bitergia/bof-discussing-metrics-for-open-source-in-light-of-insights-from-the-chaoss-project-georg-link-bitergia | BoF: Discussing Metrics for Open Source in Light of Insights From the CHAOSS Project - Georg Link, Bitergia - Speaker Deck
 https://github.com/chaoss/wg-diversity-inclusion/issues/252 | Agree on a format for a 'Metrics Toolkit' that makes application of metrics easier for people/projects. · Issue #252 · chaoss/wg-diversity-inclusion
-
-https://queue.acm.org/detail.cfm?id=3309571 | Metrics That Matter - ACM Queue
 -->
 
 <!--
@@ -867,17 +897,21 @@ https://github.com/saracope/shaping-the-contributor-experience
 https://saracope.github.io/shaping-the-contributor-experience/
 
 
+https://koaning.io/posts/cool-commits/ | koaning.io: Uncommon Contributions
+
 Contributing
 https://docs.astropy.org/en/stable/development/workflow/development_workflow.html | How to make a code contribution — Astropy v4.1
 
+GitLab
 https://opensource.com/article/19/2/contributing-gitlab | Getting started as a GitLab contributor | Opensource.com
 
+Vicky
 https://fossgovernance.org/contribute/ | Contributing to the FOSS Governance Collection - FOSS Governance Collection
 
 https://hackernoon.com/startup-tips-from-the-11th-most-popular-project-on-github-751387bd0caa#.t0dur8qhu
 
+General intros
 https://www.fosslife.org/easy-introduction-open-source-projects | An Easy Introduction to Open Source Projects
-
 https://jvns.ca/blog/2017/08/06/contributing-to-open-source/
 
 Important!
@@ -897,16 +931,6 @@ https://pganssle-talks.github.io/pydata-nyc-2018-open-source/#/12
 Example
 https://twitter.com/carltongibson/status/1284409591703515137 | Carlton Gibson 🇪🇺 on Twitter: "How to open an issue... https://t.co/iD3VGPra6c" / Twitter
 https://github.com/carltongibson/django-filter/issues/1244 | Unclear Usage For `OrderingFilter` and Calculated Fields · Issue #1244 · carltongibson/django-filter
-
-https://opensource.guide/how-to-contribute/#a-checklist-before-you-contribute
-https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
-
-https://opensource.guide/best-practices/
-https://github.com/github/opensource.guide/tree/master/_articles
-https://opensource.guide/starting-a-project/
-https://opensource.guide/finding-users/
-https://opensource.guide/building-community/
-https://opensource.guide/leadership-and-governance/
 
 https://pyvideo.org/pycon-au-2017/how-to-handle-abandoned-projects-take-two.html
 https://glasnt.com/talks/2017_08_PyConAU/#/
