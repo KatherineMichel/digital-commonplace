@@ -387,19 +387,6 @@ https://github.com/blog/2480-github-s-technology-predictions-for-2018 | GitHub's
 https://github.com/blog/2401-the-github-diversity-report	
 -->
 
-## Open Source Guides
-
-GitHub Open Source Guides
-* [GitHub Help](https://help.github.com) 
-* [GitHub Open Source Guide](https://opensource.guide)
-* [GitHub Guides](https://guides.github.com/)
-
-Google Open Source Guides
-* [Google Open Source Docs](https://opensource.google.com/docs)
-* [Google Engineering Practices Guide](https://google.github.io/eng-practices)
-* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
-* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
-
 ## Open Source Governance
 
 FOSS Governance Collection
@@ -467,7 +454,8 @@ https://www.bvp.com/atlas/roadmap-open-source
 https://twitter.com/jeffborek/status/1308548710037512192 | https://twitter.com/jeffborek/status/1308548710037512192
 -->
 
-## Company Open Source
+
+## Company Open Source- Philosophy
 
 Google: Why Open Source
 * [Why Open Source?](https://opensource.google.com/docs/why)
@@ -476,18 +464,33 @@ Uber Open Source Guiding Principles
 * [Uber's Open Source Guiding Principles Blog Post](https://eng.uber.com/open-source-principles/)
 * [Uber's Open Source Guiding Principles](https://uber.github.io/#/principles)
 
+## Company Open Source- Guides
+
+GitHub Docs
+* [GitHub Help](https://help.github.com) 
+* [GitHub Guides](https://guides.github.com/)
+
 GitHub Open Source Guide GitHub
-* [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
+* [GitHub Open Source Guide](https://opensource.guide) and [GitHub Open Source Guide GitHub](https://github.com/github/opensource.guide)
 
-Google Open Source Docs
-* [Google New Project Template](https://github.com/google/new-project)
+Google Open Source Guides
+* [Google Open Source Docs](https://opensource.google.com/docs)
+* [Google Engineering Practices Guide](https://google.github.io/eng-practices) and [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+* [How to Do a Code Review](https://google.github.io/eng-practices/review/reviewer/)
+* [Speed of Code Reviews](https://google.github.io/eng-practices/review/reviewer/speed.html)
 
-Google Engineering Practices
-* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
-* [Google Engineering Practices GitHub](https://github.com/google/eng-practices)
+<!--
+https://github.com/VerizonMedia/oss-guide
+https://verizonmedia.github.io/oss-guide/
+-->
+
+## Company Open Source- Approaches
 
 Google Open Source
 * [Google Open Source](https://opensource.google.com) and [Google Blog Open Source](https://opensource.googleblog.com)
+
+Google Engineering Practices
+* [Software Engineering at Google, by Fergus Henderson](https://arxiv.org/ftp/arxiv/papers/1702/1702.01715.pdf)
 
 Bazel
 * [Bazel](https://bazel.build/) and [Bazel GitHub](https://github.com/bazelbuild)
@@ -497,6 +500,12 @@ Google Developers- Code
 * [Google Developers Open Source](http://developers.google.com/open-source/projects) 
 * [Google Code Homepage](http://code.google.com) and [Google Code Wikipedia](http://en.wikipedia.org/wiki/Google_Code)  
     
+## Company Open Source- Tools
+
+Google Open Source Docs
+* [Google New Project Template](https://github.com/google/new-project)
+
+
 <!--
 https://www.slideshare.net/timoreilly/the-past-and-future-of-open-computing/16-The_architecture_of_participation_I
 https://twitter.com/catallman/status/1234631228126416896 | Cat Allman on Twitter: "A good thread re open source https://t.co/LVA4K7sWkv" / Twitter
@@ -519,10 +528,22 @@ Bazel
 https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 | Watch - Bazel Persistent workers
 
 Bazel
+https://github.com/twitter/bazel-multiversion | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
+https://github.com/twitter/scoot
 https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
-https://github.com/twitter/bazel-multideps | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
-https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
 
+Twitter
+https://github.com/twitter/.github/blob/master/code-of-conduct.md
+https://github.com/todogroup/opencodeofconduct
+https://github.com/twitter/twitter.github.io
+https://github.com/twitter/template
+https://github.com/twitter/metrics
+https://github.com/twitter/scala_school
+https://github.com/twitter/dodo
+
+Pants
+https://blog.pantsbuild.org/introducing-pants-v2/ | Introducing Pants v2
+https://github.com/twitter/pants
 
 https://github.com/microsoft/opensource.microsoft.com
 https://opensource.microsoft.com/program/#program-contributing
@@ -561,9 +582,6 @@ Core Beliefs
 https://github.com/homedepot/opensource-corebeliefs
 https://homedepot.github.io/
 
-OS Guides
-https://github.com/VerizonMedia/oss-guide
-https://verizonmedia.github.io/oss-guide/
 
 https://opensource.intuit.com/app/intuit-open-source/open-source | Intuit Open Source
 
@@ -618,10 +636,6 @@ https://github.com/cfpb/open-source-project-template/blob/master/opensource-chec
 Key Legal Topics
 * [Google Open Source Casebook](https://google.github.io/opencasebook/)
 
-Trademark
-* [Open Usage Common](https://openusage.org/)
-* [Model Trademark Guidelines](http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines)
-
 Intellectual Property/Innovators Patent Agreements
 * [Balanced Employee IP Agreement GitHub](https://github.com/github/balanced-employee-ip-agreement)
 * [Innovators Patent Agreements Twitter](https://github.com/twitter/innovators-patent-agreement)
@@ -639,6 +653,95 @@ https://sada.com/insights/blog/why-im-on-the-board-of-the-open-usage-commons/
 https://github.com/github/balanced-employee-ip-agreement/blob/main/Employee_IP_Laws.md
 https://github.com/github/balanced-employee-ip-agreement/blob/master/Balanced_Employee_IP_Agreement.md | balanced-employee-ip-agreement/Balanced_Employee_IP_Agreement.md at master · github/balanced-employee-ip-agreement
 -->
+
+## Licenses
+
+Trademark
+* [Open Usage Common](https://openusage.org/)
+* [Model Trademark Guidelines](http://modeltrademarkguidelines.org/index.php/Model_Trademark_Guidelines)
+
+GitHub Licenses
+* [GitHub Choose a License](http://choosealicense.com)
+* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
+
+Copyright and Copyleft
+* [Copyright Wikipedia](https://en.wikipedia.org/wiki/Copyright)
+* [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
+
+Example Licenses
+* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
+* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
+* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
+* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
+* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
+* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
+
+Data, Media, etc.
+* [Creative Commons](https://creativecommons.org/licenses)
+* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
+
+<!--
+Open Source
+https://en.wikipedia.org/wiki/Free_and_open-source_software
+https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS
+https://en.wikipedia.org/wiki/Open-source_software
+
+https://choosealicense.com/licenses/
+
+Open Source Initiative
+https://opensource.org/approval | The License Review Process | Open Source Initiative
+https://opensource.org/licenses | Licenses & Standards | Open Source Initiative
+https://opensource.org/licenses/category
+https://opensource.org/faq
+https://opensource.org/proliferation
+https://opensource.org/proliferation-report
+
+https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences#Approvals | Comparison of free and open-source software licences - Wikipedia
+
+https://opensource.org/osd-annotated
+https://opensource.org/docs/osd
+https://www.debian.org/social_contract#guidelines
+https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines
+https://en.wikipedia.org/wiki/The_Open_Source_Definition
+https://twitter.com/joshsimmons/status/1238929285529743360
+
+Free Software Foundation: What is free software? The Free Software Definition
+https://www.gnu.org/philosophy/free-sw.html
+https://www.gnu.org/philosophy/open-source-misses-the-point.html
+
+"OSI Approved License" badge
+https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
+
+
+Josh
+https://en.wikipedia.org/wiki/End-user_license_agreement
+https://twitter.com/joshsimmons/status/1267923827536719872 | Josh Simmons on Twitter: "@DawnWagesSays Broadly, folks are exploring licenses, EULAs, Codes of Conduct, and all manner of other tools for minimizing risk that their software will be used to oppress/surveil/harm/etc. I think you'll find the folks @KatiMichel pointed you at will be able to bring you up to speed on those." / Twitter
+
+"licenses are the wrong tool"
+https://blog.opentechstrategies.com/2019/11/influencing-open-source-projects/
+https://twitter.com/jamesvasile/status/1197974742227148800 | James Vasile on Twitter: "@joshsimmons You might be interested in something OTS put together that isn't "licenses are the wrong tool" to address ethics but rather "here's a place to look for solutions": https://t.co/mhBQVuCCkC" / Twitter
+
+https://gplcc.github.io/gplcc/
+https://www.redhat.com/en/about/press-releases/gpl-initiative-grows-over-40-more-60-companies-have-joined-campaign-greater-predictability-open-source-licensing
+
+Important
+https://opensource.com/open-source-way
+https://opensource.com/resources/what-open-source
+https://opensource.com/business/15/11/open-development-method
+-->
+
+## Codes of Conduct
+
+* [Contributor Covenant](http://contributor-covenant.org) and [Contributor Covenant GitHub](https://github.com/ContributorCovenant/contributor_covenant)
+* [Citizen Code of Conduct](http://citizencodeofconduct.org)
+
+## Gitignore
+
+Git Ignore
+* [Git Ignore GitHub](https://github.com/github/gitignore) 
+
 
 ## Open Source Metrics
 
@@ -755,69 +858,6 @@ https://www.forbes.com/sites/forbescommunicationscouncil/2018/06/13/why-open-sou
 * [Tidelift](https://blog.tidelift.com)
 * [Open Source Collective](https://opencollective.com)
 
-## Codes of Conduct
-
-* [Contributor Covenant](http://contributor-covenant.org) and [Contributor Covenant GitHub](https://github.com/ContributorCovenant/contributor_covenant)
-* [Citizen Code of Conduct](http://citizencodeofconduct.org)
-
-## Git Ignore, Licenses
-
-Git Ignore
-* [Git Ignore GitHub](https://github.com/github/gitignore) 
-
-GitHub Licenses
-* [GitHub Choose a License](http://choosealicense.com)
-* [GitHub Open Source Licensing](https://help.github.com/en/articles/licensing-a-repository) 
-
-New Age Licenses
-* [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
-
-More Typical Licenses
-* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
-* [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
-* [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-* [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
-* [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-* [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
-* [Creative Commons](https://creativecommons.org/licenses)
-* [Creative Commons Wikipedia](http://en.wikipedia.org/wiki/Creative_Commons)  
-* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
-
-<!--
-Josh
-https://en.wikipedia.org/wiki/End-user_license_agreement
-https://twitter.com/joshsimmons/status/1267923827536719872 | Josh Simmons on Twitter: "@DawnWagesSays Broadly, folks are exploring licenses, EULAs, Codes of Conduct, and all manner of other tools for minimizing risk that their software will be used to oppress/surveil/harm/etc. I think you'll find the folks @KatiMichel pointed you at will be able to bring you up to speed on those." / Twitter
-
-"licenses are the wrong tool"
-https://blog.opentechstrategies.com/2019/11/influencing-open-source-projects/
-https://twitter.com/jamesvasile/status/1197974742227148800 | James Vasile on Twitter: "@joshsimmons You might be interested in something OTS put together that isn't "licenses are the wrong tool" to address ethics but rather "here's a place to look for solutions": https://t.co/mhBQVuCCkC" / Twitter
-
-https://www.redhat.com/en/about/press-releases/gpl-initiative-grows-over-40-more-60-companies-have-joined-campaign-greater-predictability-open-source-licensing
-
-https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences#Approvals | Comparison of free and open-source software licences - Wikipedia
-
-Important
-https://opensource.com/open-source-way
-https://opensource.com/resources/what-open-source
-https://opensource.com/business/15/11/open-development-method
-
-Open Source Definition
-https://en.wikipedia.org/wiki/Free_and_open-source_software
-https://en.wikipedia.org/wiki/Alternative_terms_for_free_software#FLOSS
-https://en.wikipedia.org/wiki/Open-source_software
-https://opensource.org/osd-annotated
-https://en.wikipedia.org/wiki/The_Open_Source_Definition
-https://en.wikipedia.org/wiki/Debian_Free_Software_Guidelines
-https://twitter.com/joshsimmons/status/1238929285529743360
-
-Open Source Initiative
-https://opensource.org/approval | The License Review Process | Open Source Initiative
-https://opensource.org/licenses | Licenses & Standards | Open Source Initiative
-
-"OSI Approved License" badge
-https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
--->
 
 ## Open Source and Release Examples
 
