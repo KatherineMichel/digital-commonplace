@@ -1,16 +1,34 @@
 # Open Source and Project Management
 
 <!--
+https://en.wikipedia.org/wiki/Monorepo
+
+https://www.slideshare.net/fossaconference/oss-governance
+https://fossbazaar.org/system/files/FOSSGovernanceFundamentals.pdf
+
+https://www.tfir.io/a-red-hat-playbook-for-new-open-source-companies/
+
 Julia
 https://leaddev.com/events/leaddev-live-2021?utm_source=twitter&utm_medium=social&utm_content=session&utm_campaign=vir21 | LeadDev Live | LeadDev
 
-https://twitter.com/Liberationtech/status/1350201138650480646 | Liberation Technology on Twitter: "Microsoft: Open source is now the accepted model for cross-company collaboration https://t.co/wNhsgaCW1c via @VentureBeat" / Twitter
 https://venturebeat.com/2021/01/14/microsoft-open-source-is-now-the-accepted-model-for-cross-company-collaboration/ | Microsoft: Open source is now the accepted model for cross-company collaboration | VentureBeat
 
 https://en.wikipedia.org/wiki/Paradox_of_tolerance | Paradox of tolerance - Wikipedia
 
-
+https://github.com/primer
+https://github.com/primer/design
+https://github.com/primer/doctocat
+https://primer.style/doctocat/
 https://primer.style/doctocat/usage/deployment
+https://primer.style/css/support/color-system
+https://primer.style/presentations/design-guidelines
+
+https://web.archive.org/web/20160531063939/http://www.linuxfoundation.org:80/programs/legal/compliance
+https://web.archive.org/web/20160518171244/http://www.linuxfoundation.org/programs/legal/compliance/templates
+https://fossbazaar.org/
+https://fossbazaar.org/openSourceGovernanceFundamentals/
+https://www.fossology.org/
+https://github.com/fossology/fossology
 
 https://twitter.com/Code4PuertoRico/
 
@@ -124,12 +142,15 @@ https://www.ansible.com/resources/webinars-training/how-to-make-ansible-communit
 https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
 -->
 
-## Roadmaps
+## Project Management and Roadmaps
 
 * [GitHub Roadmap](https://github.com/github/roadmap)
 * [Twitter Developer Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap)
 
 <!--
+Project Management
+https://opensource.com/business/15/11/open-development-method
+
 https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
 
 https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
@@ -203,9 +224,6 @@ https://www.gnu.org/software/reliability.en.html | Free Software is More Reliabl
 https://opensource.com/open-source-way
 https://opensource.com/resources/what-open-source
 
-Project Management
-https://opensource.com/business/15/11/open-development-method
-
 http://anonymoushash.vmbrasseur.com
 https://pragprog.com/book/vbopens/forge-your-future-with-open-source | Forge Your Future with Open Source: Build Your Skills. Build Your Network. Build the Future of Technology. by VM (Vicky) Brasseur | The Pragmatic Bookshelf
 
@@ -219,23 +237,26 @@ https://nadiaeghbal.com/tragedy-of-the-commons
 ## Orgs
 
 Licensing
-* [Open Source Initiative](https://opensource.org) and [Open Source Initiative History](https://opensource.org/history)
+* [Open Source Initiative](https://opensource.org)
 * [Free Software Foundation](https://www.fsf.org/)
 
 Foundations
 * [Choose A Foundation](http://chooseafoundation.com/)
 * [Software Freedom Conservancy](https://sfconservancy.org/)
 
+OSPO and Governance
+* [TODO Group](https://todogroup.org/)
+
 Software Foundations
 * [Linux Foundation](https://www.linuxfoundation.org/)
 * [Apache Foundation](https://www.apache.org/foundation/)
-* [Mozilla Foundation](https://foundation.mozilla.org/)
 * [JavaScript Foundation](https://js.foundation/)
 * [Open JavaScript Foundation](https://openjsf.org/)
 * [Node Foundation](https://foundation.nodejs.org/)
 
-OSPO and Governance
-* [TODO Group](https://todogroup.org/)
+Other
+* [Mozilla Foundation](https://foundation.mozilla.org/)
+* [Red Hat](https://www.redhat.com)
 
 Important Orgs
 * [OpenChain](https://www.openchainproject.org/) and [OpenChain Members](https://www.openchainproject.org/about/members)
@@ -255,13 +276,6 @@ http://ftp.gnu.org
 http://gcc.gnu.org
 https://en.wikipedia.org/wiki/GNU_Project
 https://en.wikipedia.org/wiki/Free_Software_Foundation
-
-Red Hat
-https://www.redhat.com
-https://www.redhat.com/en/blog
-https://access.redhat.com/documentation/en-us/
-https://developers.redhat.com/blog
-https://twitter.com/redhatopen/
 
 Linux
 https://www.linux.com/
@@ -302,9 +316,6 @@ https://www.recurse.com/
 
 
 <!--
-Charter
-https://github.com/cncf/foundation/blob/master/charter.md | foundation/charter.md at master · cncf/foundation
-
 CNCF
 https://github.com/cncf/
 https://www.cncf.io/blog/
@@ -317,9 +328,23 @@ https://openinventionnetwork.com/
 
 Foundations
 https://github.com/todogroup/guides/blob/master/images/creating-an-open-source-program1.png
+-->
 
+<!--
+Charter
+https://github.com/cncf/foundation/blob/master/charter.md | foundation/charter.md at master · cncf/foundation
+
+Red Hat
+https://www.redhat.com/en/blog
+https://access.redhat.com/documentation/en-us/
+https://developers.redhat.com/blog
+https://twitter.com/redhatopen/
+
+https://www.mozilla.org/en-US/about/governance/
+https://www.mozilla.org/en-US/about/governance/policies/
 https://www.mozilla.org/en-US/about/governance/policies/participation/
 https://www.mozilla.org/en-US/about/manifesto/ | The Mozilla Manifesto
+https://www.mozilla.org/en-US/about/manifesto/details/
 
 https://github.com/nodejs/getting-started | nodejs/getting-started: Getting started in Node.js!
 https://github.com/nodejs/getting-started#nodejs-contributing
@@ -366,6 +391,12 @@ OS Governance
 http://stormyscorner.com/2020/09/what-open-source-governance-models-are-available.html | What open source governance models are available? – Stormy's Corner
 https://github.com/theopensourceway/guidebook/blob/master/community_governance.adoc
 https://twitter.com/lizrice/status/1321095887234473985 | Liz Rice🇪🇺 on Twitter: "Valuable talk on minimal viable governance @stephenrwalli @sarahnovotny #OSSummit https://t.co/ZWgSkiVWEF" / Twitter
+
+HP
+https://www.slideshare.net/outercurve/2013-0508-governance-models
+https://www.slideshare.net/eurolinux/governance-v25
+https://www.slideshare.net/fossaconference/oss-governance
+https://fossbazaar.org/system/files/FOSSGovernanceFundamentals.pdf
 
 Minimal Viable Governance
 https://www.slideshare.net/stephenrwalli/minimum-viable-governance | Minimum Viable Governance
@@ -478,8 +509,8 @@ https://opensource.guide/how-to-contribute/#anatomy-of-an-open-source-project | 
 
 https://github.com/collections/choosing-projects | Collection: How to choose (and contribute to) your first open 
 
-https://opensource.guide/best-practices/
 https://github.com/github/opensource.guide/tree/master/_articles
+https://opensource.guide/best-practices/
 https://opensource.guide/starting-a-project/
 https://opensource.guide/finding-users/
 https://opensource.guide/building-community/
@@ -575,14 +606,19 @@ https://jeffwilcox.blog/2019/06/scaling-25k/#Exciting-new-GitHub-features
 https://github.com/microsoft/ghcrawler
 
 https://opensource.microsoft.com/explore
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
 https://opensource.microsoft.com/resources
 https://opensource.microsoft.com/codeofconduct/
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
+
 https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 Interesting checklists
+https://github.com/microsoft/code-with-engineering-playbook/blob/master/ENG-FUNDAMENTALS-CHECKLIST.md
 https://github.com/Microsoft/code-with-engineering-playbook#quicklinks
 https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-with-engineering-playbook: This is the playbook for "code-with" customer or partner engagements
 https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
+
+Microsoft
+https://github.com/microsoft-sponsorships/microsoft-foss-fund
 
 FOSS Contributor Funds (Also, Microsoft)
 https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
@@ -591,10 +627,19 @@ https://github.com/indeedeng/FOSS-Contributor-Fund#the-project-must-use-an-osi-a
 https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
 https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
 
+Salesforce
+https://engineering.salesforce.com/announcing-the-first-foss-contributor-fund-recipient-60a295201497
+
 Project Portal
 https://github.com/SAP/project-portal-for-innersource
 https://github.com/zkoppert/innersource-crawler | zkoppert/innersource-crawler: This project creates a repos.json that can be utilized by the SAP InnerSource Portal.
 https://github.com/VerizonMedia/verizon-media-open-source-project-portal
+https://www.verizon.com/support/residential/internet/equipment/open-source-software
+
+https://comcast.github.io/sponsorship.html
+https://comcast.github.io/talks.html
+https://github.com/Comcast/Comcast.github.io
+https://github.com/Comcast/Comcast.github.io/blob/main/CONTRIBUTING.md
 -->
 
 ## Legal
@@ -633,15 +678,17 @@ Copyright and Copyleft
 * [Copyright Wikipedia](https://en.wikipedia.org/wiki/Copyright)
 * [Copyleft Wikipedia](https://en.wikipedia.org/wiki/Copyleft)
 
-Example Licenses
+FOSS- Non-Copyleft
 * [MIT License Wikipedia](https://en.wikipedia.org/wiki/MIT_License)
 * [BSD License Wikipedia](https://en.wikipedia.org/wiki/BSD_licenses)
-* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
-* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
 * [Apache License Wikipedia](https://en.wikipedia.org/wiki/Apache_License)
+* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
+
+FOSS- Copyleft
 * [GNU General Public License Wikipedia](http://en.wikipedia.org/wiki/GNU_General_Public_License)  
 * [GNU Free Documentation License Wikipedia](http://en.wikipedia.org/wiki/GNU_Free_Documentation_License)  
-* [Academic Free License](https://en.wikipedia.org/wiki/Academic_Free_License)
+* [AGPL Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License)  
+* [AGPL History Wikipedia](http://en.wikipedia.org/wiki/Affero_General_Public_License#History)  
 
 Data, Media, etc.
 * [Creative Commons](https://creativecommons.org/licenses)
@@ -660,6 +707,8 @@ https://opensource.org/faq
 https://opensource.org/proliferation
 https://opensource.org/proliferation-report
 
+[Open Source Initiative History](https://opensource.org/history)
+ 
 https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences#Approvals | Comparison of free and open-source software licences - Wikipedia
 
 https://opensource.org/osd-annotated
