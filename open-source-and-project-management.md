@@ -472,6 +472,35 @@ https://github.com/18F/onboarding-documents/blob/master/Checklists/team-talent-o
 https://github.com/cfpb/open-source-project-template/blob/master/opensource-checklist.md | open-source-project-template/opensource-checklist.md at master · cfpb/open-source-project-template
 -->
 
+## Company Open Source- Sites
+
+* [Twitter Open Source](https://twitter.github.io/)
+* [Google Open Source](http://google-opensource.blogspot.com/)
+* [Microsoft Open Source](https://opensource.microsoft.com/)
+* [Facebook Open Source](https://opensource.facebook.com/)
+* [Apple Open Source](https://opensource.apple.com) and [Apple Open Source](https://developer.apple.com/opensource)
+* [AWS Open Source](https://aws.amazon.com/opensource), [AWS Open Source GitHub](https://aws.github.io), and [AWS Open Source Blog](https://aws.amazon.com/blogs/opensource/welcome-to-the-aws-open-source-blog)
+* [IBM Open Source](https://developer.ibm.com/code/open)
+* [Salesforce Open Source](https://opensource.salesforce.com/)
+* [Capital One Open Source](https://developer.capitalone.com/open-source/)
+
+<!--
+http://uber.github.io
+https://medium.com/@ubereng | Conor L. Myhrvold – Medium
+
+https://cs.opensource.google/
+https://opensource.google.com/projects/explore/featured
+https://www.elastic.co/about/our-source-code | Our Source Code | Elastic
+
+https://github.com/facebook/fbshipit
+https://github.com/facebookarchive/mention-bot
+
+GitHub Universe
+https://github.com/Shopify/shipit-engine | Shopify/shipit-engine: Deployment coordination
+https://engineering.shopify.com/blogs/engineering/introducing-the-merge-queue | Introducing the Merge Queue – Shopify Engineering
+Shopify Merge Queue
+https://engineering.shopify.com/blogs/engineering/successfully-merging-work-1000-developers | Successfully Merging the Work of 1000+ Developers – Shopify Engineering
+-->
 
 ## Company Open Source- Philosophy
 
@@ -542,6 +571,8 @@ https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk3 
 https://github.com/twitter/bazel-multiversion | twitter/bazel-multideps: Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier.
 https://github.com/twitter/scoot
 https://testdriven.io/blog/bazel-builds/ | Reproducible Builds with Bazel | TestDriven.io
+https://reproducible-builds.org/docs/definition/
+https://reproducible-builds.org/docs/
 -->
 
 ## Company Open Source- Tools
@@ -559,7 +590,6 @@ https://github.com/twitter/metrics
 https://github.com/twitter/scala_school
 https://github.com/twitter/dodo
 
-https://twitter.github.io/ | Twitter Open Source
 https://twitter.github.io/year-in-review/ | Year in Review | Twitter Open Source
 https://blog.twitter.com/engineering/en_us/topics/open-source.html | Open source
 https://twitter.com/twitteross?lang=en | Twitter Open Source (@TwitterOSS) / Twitter
