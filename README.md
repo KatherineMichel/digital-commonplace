@@ -409,6 +409,10 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
+Recommended
+https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
+https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
+
 https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
 https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 
@@ -1918,11 +1922,14 @@ https://github.com/bdougie/blog | bdougie/blog: My blog
 https://twitter.com/bdougieYO
 
 https://github.com/bdougie/github-actions-continuous-delivery
+https://dinnerpeople.app/ | Dinner People
 
+https://discord.com/invite/gZMKK5q | Open Sauced
 https://opensauced.pizza/ | Open Sauced
 https://twitter.com/saucedopen/
 https://www.meetup.com/Open-Sauced-Meetup/
 https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This is a project to identify your next open source contribution.
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
 -->
