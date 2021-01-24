@@ -658,6 +658,7 @@ https://civs.cs.cornell.edu/ | Condorcet Internet Voting Service
 https://github.com/indeedeng/starfish | indeedeng/starfish: Run your own FOSS Contributor Fund - use starfish to find eligible voters
 
 Salesforce
+https://medium.com/@AlyssaArvin
 https://engineering.salesforce.com/announcing-the-first-foss-contributor-fund-recipient-60a295201497
 
 Project Portal
