@@ -413,11 +413,57 @@ Recommended
 https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
 https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
 
-https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
+
+Twitter Account
+https://twitter.com/opensource_orgs | https://twitter.com/opensource_orgs
+
+https://github.blog/2021-01-21-changelog-2020-edition/ | The best of Changelog • 2020 Edition - The GitHub Blog
+https://docs.github.com/en/github/managing-your-work-on-github/configuring-automation-for-project-boards | Configuring automation for project boards - GitHub Docs
+
+GitHub Case Study
+https://github.blog/2021-01-25-improving-how-we-deploy-github/ | Improving how we deploy GitHub - The GitHub Blog
+
+https://www.plainlanguage.gov/ | Home | plainlanguage.gov
+https://www.plainlanguage.gov/guidelines/ | Federal plain language guidelines | plainlanguage.gov
+
+Interesting
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
+
+https://github.com/divio/user-handbook | divio/user-handbook
+
+Docs
+https://opencollective.com/open-web-docs/updates/introducing-open-web-docs | Open Web Docs - Open Collective
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
+
+Blogs
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
+Game Off
+https://2020game.io/ | 2020 Game
+https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
+https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
+
+DevICT
+https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
 
 DevICT
 https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+
+
+https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
+https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
 
 Interesting
 https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
