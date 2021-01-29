@@ -3,18 +3,58 @@
 <!--
 https://en.wikipedia.org/wiki/Monorepo
 
-https://www.slideshare.net/fossaconference/oss-governance
-https://fossbazaar.org/system/files/FOSSGovernanceFundamentals.pdf
+Best of
+https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
 
-https://www.tfir.io/a-red-hat-playbook-for-new-open-source-companies/
+https://venturebeat.com/2021/01/14/microsoft-open-source-is-now-the-accepted-model-for-cross-company-collaboration/ | Microsoft: Open source is now the accepted model for cross-company collaboration | VentureBeat
+
+https://blogs.microsoft.com/blog/2021/01/14/software-development-in-2021-and-beyond/ | Software development in 2021 and beyond - The Official Microsoft Blog
+
+https://twitter.com/pchestek/
+https://anonymoushash.vmbrasseur.com/
+
+Josh Keynote
+https://www.youtube.com/watch?v=8T_w4bPPbC4&trk=organization-update-content_share-embed-video_share-article_title | (6) State of the Source 2020: Keynote: An Open Source Success at Sea, Joshua Simmons - YouTube
 
 Julia
 https://leaddev.com/events/leaddev-live-2021?utm_source=twitter&utm_medium=social&utm_content=session&utm_campaign=vir21 | LeadDev Live | LeadDev
 
-https://venturebeat.com/2021/01/14/microsoft-open-source-is-now-the-accepted-model-for-cross-company-collaboration/ | Microsoft: Open source is now the accepted model for cross-company collaboration | VentureBeat
+Adrienne
+https://twitter.com/adriennefriend/status/1353800305171902464 | adriennefriend on Twitter: "Open question for folks who value my input as an engineering leader: what would you like me to write about? What's a management or team topic you'd love my take on? I have a few articles due for @TheLeadDev in the coming months and would love to hear what could be useful to you." / Twitter
 
-https://en.wikipedia.org/wiki/Paradox_of_tolerance | Paradox of tolerance - Wikipedia
+Talks
+https://www.youtube.com/watch?v=rhqIPtkAMvo | (1) Open Source Licenses at the Center - Chris DiBona - YouTube
 
+https://linuxfoundation.org/resources/open-source-guides/creating-an-open-source-program/
+https://linuxfoundation.org/resources/open-source-guides/creating-an-open-source-program/#program-structure | Creating an Open Source Program - Linux Foundation
+https://todogroup.org/guides/create-program/ | How to create an open source program // TODO: Talk openly, develop openly
+
+https://itbrief.com.au/story/the-linux-foundation-launches-open-source-training-program | The Linux Foundation launches open source training program
+https://www.linuxfoundation.org/resources/publications/enterprise-open-source-a-practical-introduction | Enterprise Open Source: A Practical Introduction - Linux Foundation
+
+https://www.slideshare.net/fossaconference/oss-governance
+https://fossbazaar.org/system/files/FOSSGovernanceFundamentals.pdf
+
+https://opensource.com/open-source-way | What is the open source way? | Opensource.com
+https://github.com/theopensourceway/guidebook/blob/master/community_governance.adoc | guidebook/community_governance.adoc at master · theopensourceway/guidebook
+https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html | THE OPEN SOURCE WAY 2.0
+https://www.theopensourceway.org/the_open_source_way-guidebook-2.0.html#_new_project_checklist | THE OPEN SOURCE WAY 2.0
+
+https://www.apache.org/theapacheway/ | Briefing: The Apache Way
+http://theapacheway.com/about/ | About - The Apache Way
+https://blogs.apache.org/foundation/entry/the-apache-way-to-sustainable | The Apache Way to Sustainable Open Source Success : The Apache Software Foundation Blog
+
+https://www.tfir.io/a-red-hat-playbook-for-new-open-source-companies/
+
+https://www.itproportal.com/news/unmanaged-open-source-software-is-putting-businesses-at-risk/ | Unmanaged open-source software is putting businesses at risk | ITProPortal
+https://www.itproportal.com/features/manage-open-source-risk-in-turbulent-times-through-governance-and-automation/
+
+Innersource
+https://resources.github.com/whitepapers/introduction-to-innersource/ | An introduction to innersource | GitHub Resources
+https://www.oreilly.com/programming/free/getting-started-with-innersource.csp | Getting Started with InnerSource - O'Reilly Media
+https://www.youtube.com/watch?v=Y_mjvrX7u-w | (1) Why innersource is a critical component of FOSS sustainability - GitHub Satellite 2020 - YouTube
+
+https://primer.style/css/ | Primer CSS
 https://github.com/primer
 https://github.com/primer/design
 https://github.com/primer/doctocat
@@ -30,15 +70,12 @@ https://fossbazaar.org/openSourceGovernanceFundamentals/
 https://www.fossology.org/
 https://github.com/fossology/fossology
 
-https://twitter.com/Code4PuertoRico/
-
+https://en.wikipedia.org/wiki/Paradox_of_tolerance | Paradox of tolerance - Wikipedia
+https://geekfeminism.wikia.org/wiki/Charles%27_Rules_of_Argument | Charles' Rules of Argument | Geek Feminism Wiki | Fandom
 
 https://twitter.com/TatianaTMac/status/1259582485345652736 | Tatiana Mac on Twitter: "For people who want to contribute to open-source software (OSS), but haven't, what is stopping you?" / Twitter
 
 https://medium.com/@skamille/how-do-individual-contributors-get-stuck-63102ba43516
-
-Best of
-https://opensource.com/open-organization/17/12/best-opensourcecom-open-organization-culture?sc_cid=7016000000127L3AAI | Best of Opensource.com: Open organizational culture | Opensource.com
 
 https://github.community/ | Home - GitHub Community Forum
 
@@ -411,6 +448,7 @@ https://joinup.ec.europa.eu/collection/open-source-observatory-osor/guidelines-c
 https://joinup.ec.europa.eu/sites/default/files/inline-files/Guidelines%20for%20Sustainable%20OSS%20Communities%20in%20the%20Public%20Sector%20final.pdf
 
 InnerSource
+https://innersourcecommons.org/
 https://innersourcecommons.org/assets/files/InnerSourceChecklist.pdf
 https://github.com/InnerSourceCommons/InnerSourcePatterns#list-of-patterns | InnerSourceCommons/InnerSourcePatterns: Proven approaches that can guide you through applying open source best practices within your organization
 https://github.com/tapjdey/InnerSource_Project_Fitness | tapjdey/InnerSource_Project_Fitness: A tool for measuring InnerSource project fitness. Shows Fitness score, Strengths & Weaknesses on 6 dimensions according to the Technology-Process-People model. Includes options for downloading the scores and the plots.
@@ -616,6 +654,19 @@ https://github.com/adobe/open-development-template/blob/master/Licensing.md#refe
 
 https://github.com/salesforce/oss-template/
 https://github.com/forcedotcom/oss-template
+https://github.com/auth0/open-source-template | auth0/open-source-template: A template for open source projects at Auth0
+
+Indeed
+https://github.com/indeedeng/oss-guide | indeedeng/oss-guide
+https://github.com/indeedeng/hacktoberfest | indeedeng/hacktoberfest: Learn about Indeed's participation in Hacktoberfest, as well as tools we use to participate.
+https://engineering.indeedblog.com/indeed-hacktoberfest-2020/ | Indeed + Hacktoberfest 2020 - Indeed Engineering Blog
+https://github.com/foss-responders | FOSS Responders
+https://engineering.indeedblog.com/blog/2020/07/inclusion-in-code/ | Making Our Code More Inclusive - Indeed Engineering Blog
+
+https://developer.yahoo.com/opensource/docs/ | About our Open Source Program Office (OSPO) - Yahoo Developer Network
+
+https://tech.trivago.com/2021/01/25/keeping-up-the-open-source-promise-for-2021/ | Keeping up the Open Source promise for 2021 · trivago tech blog
+https://blogs.sap.com/2021/01/28/sap-open-source-year-in-review/ | SAP Open Source Year in Review | SAP Blogs
 
 Core Beliefs
 https://github.com/homedepot/opensource-corebeliefs
@@ -638,7 +689,6 @@ https://github.com/microsoft/ghcrawler
 https://opensource.microsoft.com/explore
 https://opensource.microsoft.com/resources
 https://opensource.microsoft.com/codeofconduct/
-https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's self-service GitHub-at-scale join + management portal
 
 https://docs.microsoft.com/en-us/contribute/ | Microsoft Docs contributor guide overview - Contributor Guide | Microsoft Docs
 Interesting checklists
@@ -648,7 +698,9 @@ https://github.com/Microsoft/code-with-engineering-playbook | Microsoft/code-wit
 https://github.com/microsoft/repo-templates | microsoft/repo-templates: Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
 
 Microsoft
+https://github.com/microsoft/opensource-portal | microsoft/opensource-portal: Microsoft's GitHub-at-scale self-service monolithic portal
 https://github.com/microsoft-sponsorships/microsoft-foss-fund
+https://twitter.com/bitandbang/status/1352719209910951943 | Tierney Cyren on Twitter: "Microsoft friends who contribute to open source: the FOSS Fund #6 opened. Please vote &lt;3" / Twitter
 
 FOSS Contributor Funds (Also, Microsoft)
 https://engineering.indeedblog.com/blog/2019/07/foss-fund-six-months-in/
@@ -730,10 +782,17 @@ https://sada.com/insights/blog/why-im-on-the-board-of-the-open-usage-commons/
 
 https://choosealicense.com/licenses/
 
-Open Source Initiative
-https://opensource.org/approval | The License Review Process | Open Source Initiative
+Free Software Foundation- License List
+https://www.gnu.org/licenses/license-list.en.html | Various Licenses and Comments about Them - GNU Project - Free Software Foundation
+https://www.gnu.org/licenses/licenses.en.html | Licenses - GNU Project - Free Software Foundation
+https://www.gnu.org/licenses/license-list.html#JSON | Various Licenses and Comments about Them - GNU Project - Free Software Foundation
+
+OSI- License List
 https://opensource.org/licenses | Licenses & Standards | Open Source Initiative
 https://opensource.org/licenses/category
+
+Open Source Initiative
+https://opensource.org/approval | The License Review Process | Open Source Initiative
 https://opensource.org/faq
 https://opensource.org/proliferation
 https://opensource.org/proliferation-report
@@ -742,6 +801,7 @@ https://opensource.org/proliferation-report
  
 https://en.wikipedia.org/wiki/Comparison_of_free_and_open-source_software_licences#Approvals | Comparison of free and open-source software licences - Wikipedia
 
+OSD
 https://opensource.org/osd-annotated
 https://opensource.org/docs/osd
 https://www.debian.org/social_contract#guidelines
@@ -756,6 +816,26 @@ https://www.gnu.org/philosophy/open-source-misses-the-point.html
 "OSI Approved License" badge
 https://twitter.com/realkpfleming/status/1246459210184953865 | Kevin P. Fleming on Twitter: "There are still only *23* repositories on GitHub sporting the "OSI Approved License" badge (from @OpenSourceOrg) in their README files. If you need an example of how to add it to your repositories, here you go: https://t.co/QnC1xruiyp Do it today." / Twitter
 
+Josh
+https://en.wikipedia.org/wiki/End-user_license_agreement
+
+https://gplcc.github.io/gplcc/
+https://www.redhat.com/en/about/press-releases/gpl-initiative-grows-over-40-more-60-companies-have-joined-campaign-greater-predictability-open-source-licensing
+
+https://www.apache.org/legal/resolved.html#category-x
+
+https://sfconservancy.org/copyleft-compliance/enforcement-strategy.html | Copyleft Compliance Projects - Software Freedom Conservancy
+
+Non-Code Technical Content
+https://twitter.com/jonafato/status/1293983607858573317 | Jon Banafato on Twitter: "I'm looking for advice on licensing for non-code technical content. How do people tend to license their videos, transcripts, etc.? I know there have been issues with unauthorized re-branded and re-hosted conference videos. What's the right approach? I'm guessing some CC license." / Twitter
+-->
+
+<!--
+https://twitter.com/joshsimmons/status/1267923827536719872 | Josh Simmons on Twitter: "@DawnWagesSays Broadly, folks are exploring licenses, EULAs, Codes of Conduct, and all manner of other tools for minimizing risk that their software will be used to oppress/surveil/harm/etc. I think you'll find the folks @KatiMichel pointed you at will be able to bring you up to speed on those." / Twitter
+
+"licenses are the wrong tool"
+https://blog.opentechstrategies.com/2019/11/influencing-open-source-projects/
+https://twitter.com/jamesvasile/status/1197974742227148800 | James Vasile on Twitter: "@joshsimmons You might be interested in something OTS put together that isn't "licenses are the wrong tool" to address ethics but rather "here's a place to look for solutions": https://t.co/mhBQVuCCkC" / Twitter
 
 Ethics
 https://missionprotocol.org/ | About | Mission Protocol
@@ -767,6 +847,9 @@ https://ethicalsource.dev/media/ | Ethical Source | Ethical Source in the Media
 https://github.com/EthicalSource/hippocratic-license
 https://github.com/ContributorCovenant/ethicalsource
 
+https://ethicalsource.dev/blog/oes-announcement/
+https://twitter.com/CoralineAda/status/1351583215266508812 | Coraline Ada Ehmke on Twitter: "This is a big day. I’m very happy to announce that we have founded the Organization for Ethical Source to shepherd and fund the work of the Ethical Source Movement. #EthicalSource" / Twitter
+
 Interesting
 http://mikepennisi.com/blog/2020/you-may-finally-use-jshint-for-evil/ | mikepennisi.com | You May Finally Use JSHint for Evil
 http://mikepennisi.com/blog/2020/jshint-watching-the-ship-sink/
@@ -774,17 +857,45 @@ http://mikepennisi.com/blog/2020/jshint-watching-the-ship-sink/
 Unique
 https://twitter.com/joshsimmons/status/1349118003930046464 | Josh Simmons on Twitter: "New license linked to Code of Conduct, that decays to MIT license in time. Really, a fascinating approach." / Twitter
 https://twitter.com/ml5js/status/1349039197789835270
+https://github.com/ml5js/Code-of-Conduct | ml5js/Code-of-Conduct: The Code of Conduct establishes and communicates the commitment of the ml5.js community to uphold a key set of standards and obligations that aim to make ml5.js a friendly and welcoming environment to be a part of.
+https://blueoakcouncil.org/license/1.0.0 | Blue Oak Model License 1.0.0
+-->
 
-Josh
-https://en.wikipedia.org/wiki/End-user_license_agreement
-https://twitter.com/joshsimmons/status/1267923827536719872 | Josh Simmons on Twitter: "@DawnWagesSays Broadly, folks are exploring licenses, EULAs, Codes of Conduct, and all manner of other tools for minimizing risk that their software will be used to oppress/surveil/harm/etc. I think you'll find the folks @KatiMichel pointed you at will be able to bring you up to speed on those." / Twitter
+<!--
+Noah mentioned this
+Van Lindberg/Bruce Perens (OSI Co-founder) quits Open Source Initiative
+https://github.com/holochain/cryptographic-autonomy-license | holochain/cryptographic-autonomy-license: The Cryptographic Autonomy License is a new breed of open license that protects not just the app developers and users of the source code but also end user privacy and control of identity and data.
 
-"licenses are the wrong tool"
-https://blog.opentechstrategies.com/2019/11/influencing-open-source-projects/
-https://twitter.com/jamesvasile/status/1197974742227148800 | James Vasile on Twitter: "@joshsimmons You might be interested in something OTS put together that isn't "licenses are the wrong tool" to address ethics but rather "here's a place to look for solutions": https://t.co/mhBQVuCCkC" / Twitter
+Explaining React's license | Engineering Blog | Facebook Code
+https://code.facebook.com/posts/112130496157735/explaining-react-s-license
+https://engineering.fb.com/web/relicensing-react-jest-flow-and-immutable-js/
 
-https://gplcc.github.io/gplcc/
-https://www.redhat.com/en/about/press-releases/gpl-initiative-grows-over-40-more-60-companies-have-joined-campaign-greater-predictability-open-source-licensing
+Community License Model (Confluent, Elastic, Redis, MongoDB)
+Atlassian
+https://www.atlassian.com/software/views/community-license-request | Community License Request | Atlassian
+https://www.confluent.io/confluent-community-license/
+https://www.confluent.io/blog/license-changes-confluent-platform/
+https://redislabs.com/community/licenses/ | Licenses | Redis Labs
+
+SSPL
+https://en.wikipedia.org/wiki/Server_Side_Public_License | Server Side Public License - Wikipedia
+https://www.mongodb.com/licensing/server-side-public-license
+https://www.mongodb.com/licensing/server-side-public-license/faq
+SSPL License (Elasticsearch and Kibana)
+
+OSI/SSPL
+https://opensource.org/node/1099 | The SSPL is Not an Open Source License | Open Source Initiative
+https://twitter.com/pchestek/status/1351620181697695745 | Her Mavenship on Twitter: "The Open Source Initiative's view on the Elastic announcement: "The SSPL is Not an Open Source License" https://t.co/bCXSpcPFUT" / Twitter
+
+Elastic
+https://twitter.com/elastic/status/1349721014083719169 | Elastic on Twitter: "We are moving our Apache 2.0-licensed source code in Elasticsearch &amp; Kibana to be dual licensed under SSPL &amp; the Elastic License, giving users the choice of which license to apply. Read more → https://t.co/FENobUiYeq FAQs → https://t.co/lkuhhNAg2O https://t.co/FENobUiYeq" / Twitter
+https://www.elastic.co/blog/licensing-change
+https://www.elastic.co/blog/why-license-change-AWS | Amazon: NOT OK - why we had to change Elastic licensing | Elastic Blog
+
+AWS
+https://twitter.com/awscloud/status/1352377584361877509 | Amazon Web Services on Twitter: "We are committed to open source. To help keep Elasticsearch and Kibana open for everyone, we are announcing that we will launch new forks of both Elasticsearch and Kibana based on the latest Apache 2.0 licensed codebases. https://t.co/ngpxcNtiDO https://t.co/STAcVtJLPE" / Twitter
+https://aws.amazon.com/blogs/opensource/stepping-up-for-a-truly-open-source-elasticsearch/ | Stepping up for a truly open source Elasticsearch | AWS Open Source Blog
+https://aws.amazon.com/blogs/aws/new-open-distro-for-elasticsearch/
 -->
 
 ## Codes of Conduct
@@ -1101,10 +1212,6 @@ https://github.com/github
 https://resources.github.com/webcasts/
 https://resources.github.com/whitepapers/
 https://experiments.github.com
-
-https://primer.style/css/ | Primer CSS
-https://github.com/primer | Primer
-https://github.com/primer/design | primer/design: Primer Design Guidelines
 
 https://github.com/features/codespaces | Codespaces
 https://github.com/codespaces-examples | codespaces-examples
