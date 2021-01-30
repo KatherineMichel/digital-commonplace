@@ -3,10 +3,6 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-http://www.drvondawright.com/fitness-after-40/
-
-https://www.penguinrandomhouse.com/books/606199/the-xx-brain-by-lisa-mosconi-phd-foreword-by-maria-shriver/ | The XX Brain by Lisa Mosconi PhD: 9780593083116 | PenguinRandomHouse.com: Books
-
 https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
@@ -178,9 +174,6 @@ https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomeninte
 https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
 
 
-https://docsend.com/view/v85vgbnsgg8gm4ys | DocSend
-https://www.entrepreneur.com/article/311539
-
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 https://github.com/matteofigus/awesome-speaking
 Vicky's resources
@@ -286,9 +279,6 @@ https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jek
 
 Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Hackathon Deadline January 10
-https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
 
 Frontend Bootcamp teacher Jenn... great at it
 
@@ -449,6 +439,9 @@ https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Open
 
 https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
 https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
+Hackathon Deadline January 10
+https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
 
 Game Off
 https://2020game.io/ | 2020 Game
@@ -1711,102 +1704,6 @@ https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
 
-## Stuff
-
-Joel Spolsky
-* [Joel on Software](https://www.joelonsoftware.com/)
-* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
-
-Basecamp Product
-* [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
-
-<!--
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-https://blog.codinghorror.com/doing-terrible-things-to-your-code/
-
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
-
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
--->
-
-## Company Playbooks
-
-Handbooks
-* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
-* [Glitch Handbook](https://handbook.glitch.me/)
-* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
-
-<!--
-Atlassian Team Playbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-https://www.atlassian.com/team-playbook/examples
-
-https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
-https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
-
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
-
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-https://twitter.com/dnsmichi/status/1314267751607869442
-https://twitter.com/melsmo/status/1313180759889305601
--->
-
-<!--
-Testing
-
-https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
-
-JS Scene
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
--->
-
-
-<!--
-Google
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-
-https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
--->
-
-## Agile and DevOps
-
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-
-<!--
-https://developer.atlassian.com
-
-https://www.atlassian.com/agile/product-management
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/devops/tools-and-technologies
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
--->
-
-
 ## Stack
 
 * [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
@@ -2855,27 +2752,6 @@ https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
 -->
 
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-<!--
-List of top product management article links
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://www.sideprojectchecklist.com/ | Side Project Checklist
-
-https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
-https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
--->
 
 ## Design
 
