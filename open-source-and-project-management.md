@@ -121,62 +121,99 @@ Heroku
 https://dev.to/heroku/we-need-better-virtual-dev-conferences-4fjn | We Need Better Virtual Dev Conferences - DEV Community 👩‍💻👨‍💻
 -->
 
-## Case Studies
+## Stuff
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
 
 <!--
-Simon
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
 
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
 
-Next
-https://nextjs.org/showcase | Showcase | Next.js
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-https://nextjs.org/docs/migrating/from-gatsby
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
 
-https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+-->
 
-Gatsby Case Study
-https://twitter.com/gatsbyjs
-https://www.gatsbyjs.com/use-cases/
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+## Company Playbooks
 
-https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
-https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
+Handbooks
+* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
+* [Glitch Handbook](https://handbook.glitch.me/)
+* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
 
-Redwood/React
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-https://redwoodjs.com/docs/introduction
-https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+<!--
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
 
-Ghost
-https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
-https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
-https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
+https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
+https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
 
-Cosmic
-https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
-https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
-https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
-https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
 
-Cosmic
-https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 
-Jake
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+https://twitter.com/dnsmichi/status/1314267751607869442
+https://twitter.com/melsmo/status/1313180759889305601
+-->
 
-Ansible
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+<!--
+Testing
+
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
+JS Scene
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+-->
+
+
+<!--
+Google
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+-->
+
+## Agile and DevOps
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+<!--
+https://developer.atlassian.com
+
+https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 -->
 
 ## Project Management and Roadmaps
@@ -241,6 +278,86 @@ https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design S
 
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+-->
+
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+<!--
+List of top product management article links
+
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://www.sideprojectchecklist.com/ | Side Project Checklist
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+-->
+
+## Case Studies
+
+<!--
+Simon
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Next
+https://nextjs.org/showcase | Showcase | Next.js
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
+https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
+
+Redwood/React
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+
+Ghost
+https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
+https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
+https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
+
+Cosmic
+https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
+https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
+https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
+
+Cosmic
+https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+
+Jake
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
 -->
 
 ## FOSS Context
