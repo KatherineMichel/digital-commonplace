@@ -4716,6 +4716,51 @@ https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-co
 https://about.gitlab.com/2016/11/22/introducing-review-apps/
 -->
 
+<!--
+## Hosting- General
+
+Hosting Blogs
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
+
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+
+AWS Marketplace
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
+
+Google Cloud, App Engine
+* [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
+* [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
+* [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
+* [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
+
+Alibaba
+* [Alibaba Cloud](https://www.alibabacloud.com)
+-->
+
 ## Useful Files
 
 Shells
