@@ -264,8 +264,8 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 <!--
 ## Portfolio Ideas
 
-http://webbyawards.com/winners/ | HBS Alumni – Wilderness Survival Handbook | The Webby Awards
-https://winners.webbyawards.com/winners/websites
+Neat layout
+http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
 
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
@@ -399,67 +399,38 @@ https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on
 <!--
 ## Look Through
 
-Recommended
-https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
-https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
+DevICT
+https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
 
-https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
-
-Twitter Account
-https://twitter.com/opensource_orgs | https://twitter.com/opensource_orgs
-
-https://github.blog/2021-01-21-changelog-2020-edition/ | The best of Changelog • 2020 Edition - The GitHub Blog
-https://docs.github.com/en/github/managing-your-work-on-github/configuring-automation-for-project-boards | Configuring automation for project boards - GitHub Docs
-
-GitHub Case Study
-https://github.blog/2021-01-25-improving-how-we-deploy-github/ | Improving how we deploy GitHub - The GitHub Blog
-
-https://www.plainlanguage.gov/ | Home | plainlanguage.gov
-https://www.plainlanguage.gov/guidelines/ | Federal plain language guidelines | plainlanguage.gov
-
-Interesting
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-Product Sprint
-https://github.com/google/software-product-sprint | google/software-product-sprint
-
-https://github.com/divio/user-handbook | divio/user-handbook
-
-Docs
-https://opencollective.com/open-web-docs/updates/introducing-open-web-docs | Open Web Docs - Open Collective
-https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
-
-Blogs
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
-https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
-
-Hackathon Deadline January 10
-https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
+DevICT
+https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
 
 Game Off
 https://2020game.io/ | 2020 Game
 https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
 https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
 
-DevICT
-https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
+https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
 
-DevICT
-https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+Recommended
+https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
+https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
 
+Game Simulation
+https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
 
-https://www.cgma.org/resources/tools/essential-tools/quality-management-tools.html | Quality Management Tools – including TQM, Six Sigma, Cost of Quality and EFQM
-https://github.com/tucaz/agile-development-cheat-sheet/blob/master/README.md | agile-development-cheat-sheet/README.md at master · tucaz/agile-development-cheat-sheet
+https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
 
 Interesting
-https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 
 Important- Engineering Orgs
 https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
@@ -470,45 +441,32 @@ https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_sou
 Important
 https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
 
-Use
-https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69 | Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium
-https://2020.stateofjs.com/en-US/ | State of JS 2020
+https://rcstyleguide.com/ | The Responsible Communication Style Guide
 
-Ideas
-https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
+https://www.plainlanguage.gov/ | Home | plainlanguage.gov
+https://www.plainlanguage.gov/guidelines/ | Federal plain language guidelines | plainlanguage.gov
 
-Inspiration
-https://dribbble.com/ | Dribbble - Discover the World’s Top Designers & Creative Professionals
-https://www.loversmagazine.com/inspiration | Inspiration - Lovers Magazine
-beautiful design - Google Search
-design inspiration - Google Search
-https://www.kapwing.com/museum-of-websites | Museum of Websites - Kapwing
-https://twitter.com/WebDesignMuseum | https://twitter.com/WebDesignMuseum
+https://github.com/divio/user-handbook | divio/user-handbook
 
-Design
-https://learningfigma.com/ | Learning Figma
-https://twitter.com/FigmaAntichrist/status/1346258003113209856 | https://twitter.com/FigmaAntichrist/status/1346258003113209856
-https://www.figma.com/community/plugin/735707089415755407/Image-tracer | Image tracer – Figma
+https://opencollective.com/open-web-docs/updates/introducing-open-web-docs | Open Web Docs - Open Collective
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
 
-Important! Atomic Design
-https://twitter.com/IbrahimCodes/status/1339671093880209410 | https://twitter.com/IbrahimCodes/status/1339671093880209410
-
-Features
-https://twitter.com/wakaleo/status/854702550469234692
-
-Examples
-Important- Typography
-https://mobile.twitter.com/rauchg/status/1249401344009441280
-
-https://twitter.com/nivi/status/1321891318604296192 | Nivi on Twitter: "Start your own blog or podcast on WordPress—steal our design." / Twitter
-
-Docs
 https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
 nbdev
 https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
 
 https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
 
+
+
+
+Ideas
+https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
 
 https://github.com/facebook/create-react-app
 https://www.youtube.com/watch?v=nJwqX-rfpXw
@@ -517,6 +475,19 @@ https://codepen.io/2020/popular/pens/10
 https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
 https://twitter.com/jessicahische/status/1343614261277282306
 https://stylestage.dev/styles/floral-vibes/
+
+https://www.atlassian.com/agile/product-management/requirements
+
+
+Blogs
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
 
 
 http://inventwithpython.com/beyond/
@@ -828,7 +799,7 @@ https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Sk
 
 
 
-## People and Orgs
+## Python and Django Stuff
 
 https://osem.seagl.org/conferences/seagl2020/program/proposals/779
 https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
@@ -1667,6 +1638,32 @@ http://engineering.khanacademy.org/posts/engineering-principles.htm
 
 https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
 Richard Feynman 
+-->
+
+<!--
+Testing
+
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
+JS Scene
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+-->
+
+<!--
+Google
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 -->
 
 ## Site Reliability
@@ -4823,8 +4820,6 @@ https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-
 https://www.linuxjournal.com/content/understanding-bash-elements-programming
 -->
 
-
-
 <!--
 http://www.brendangregg.com/perf.html | Linux perf Examples
 
@@ -5196,29 +5191,6 @@ Robustness Diagrams: An Agile Introduction
 http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
 -->
 
-## Cost
-
-* [List of Failed and Overbudget Custom Software Projects Wikipedia](https://en.wikipedia.org/wiki/List_of_failed_and_overbudget_custom_software_projects)
-
-<!--
-https://paulhammant.com/2012/11/01/testability-and-cost-of-change/ | Testability and Cost of Change
-
-https://twitter.com/ploeh/status/1101442797436055552 | Mark Seemann on Twitter: "Software development productivity has little correlation to how fast you can produce code. It's closer related to the total cost of ownership of that code. Some code, you can write in one hour, and then proceed to waste days or months maintaining and troubleshooting."
-
-https://en.wikipedia.org/wiki/Continuous_integration#References | Continuous integration - Wikipedia
-
-https://en.wikipedia.org/wiki/COCOMO
-https://en.wikipedia.org/wiki/Cost_estimation_in_software_engineering
-https://www.youtube.com/watch?v=meB_SWzZm8M | (1) Trunk-Based Development economics (Paul Hammant) - YouTube
-https://en.wikipedia.org/wiki/Barry_Boehm
-https://www.amazon.com/Software-Engineering-Economics-Barry-Boehm/dp/0138221227 | Software Engineering Economics: Barry W. Boehm: 0076092033097: Amazon.com: Books
-
-https://scottwambler.wordpress.com/courses/amdd/
-http://swreflections.blogspot.com/2013/09/the-real-cost-of-change-in-software.html | Building Real Software: The Real Cost of Change in Software Development
-http://www.agilemodeling.com/essays/costOfChange.htm | Examining the Agile Cost of Change Curve
-Cost of Software Change
--->
-
 ## Other Interesting
 
 Incident Response
@@ -5443,7 +5415,6 @@ Agency
 <!--
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 -->
-
 
 ## To Look At
 
@@ -6018,7 +5989,6 @@ https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
 https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
 -->
 
-
 ## Engineering Management
 
 <!--
@@ -6137,14 +6107,6 @@ FreshBooks: Breaking the Time Barrier
 https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Porter%27s_five_forces_analysis | Porter's five forces analysis - Wikipedia
-
-The 4ps
-https://www.cleverism.com/understanding-marketing-mix-concept-4ps
-https://en.wikipedia.org/wiki/Marketing_mix
--->
-
 ## Chicken or Egg Problem
 
 <!--
@@ -6161,6 +6123,8 @@ https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-eg
 https://twitter.com/hunterwalk/status/1283863580585025536 | 👨🏻‍💻☕️ on Twitter: "if you're designing social spaces for humans, and have never read Bartle's 1996 paper on player types and motivations... https://t.co/MxZzuqWl0d https://t.co/fn4hrnIT88" / Twitter
 http://mud.co.uk/richard/hcds.htm | Richard A. Bartle: Players Who Suit MUDs
 https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr. 🚀 on Twitter: "Must-read" / Twitter
+
+https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
 -->
 
 ## Ratios
@@ -6178,11 +6142,7 @@ https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Net
 https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
 -->
 
-## Minimum Viable Product
-
-Scientific Method and Minimum Viable Product
-* [Scientific Method Wikipedia](http://en.wikipedia.org/wiki/Scientific_method)
-* [Eric Ries: Minimum Viable Product Wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product) 
+## Distribution
 
 Distribution, Digital Distribution and User-Generated Content
 * [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
@@ -6244,35 +6204,6 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 
 The Elements of Value
 * [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
-
-## Product and User Research
-
-<!--
-PM
-https://twitter.com/justindross/status/1287061321754673155 | JD Ross on Twitter: "A good early stage PM should be an editor of other teammates’ work and ideas Steve Jobs wasn’t a designer, nor Elon a car/rocket engineer For a long time, Square called PMs “Product Editors” and I think that’s a better title. I wish it stuck" / Twitter
-https://mixpanel.com/blog/steven-sinofsky-product-leadership/ | Steven Sinofsky on product leadership
-
-PM
-https://mobile.twitter.com/sriramk/status/1249860579994435585
-https://mobile.twitter.com/seanrose/status/1249863535414218752
-https://mobile.twitter.com/stevesi/status/1249862470006493184
-
-MVP
-https://pbs.twimg.com/media/DTSp0xCVoAAcWto.jpg | DTSp0xCVoAAcWto.jpg (1000×563)
-
-https://www.nngroup.com
-
-https://growth.design/psychology/
-
-https://www.cbinsights.com/research/what-is-psychographics/ | What Is Psychographics? Understanding The ‘Dark Arts’ Of Marketing That Brought Down Cambridge Analytics
-https://about.gitlab.com/2017/12/20/conducting-remote-ux-research/ | Conducting remote UX research at GitLab | GitLab
-https://www.nngroup.com/articles/why-personas-fail/ | Why Personas Fail
-https://hbr.org/2010/11/using-customer-journey-maps-to | Using Customer Journey Maps to Improve Customer Experience
-
-Human Factors
-https://www.britannica.com/topic/human-factors-engineering | human-factors engineering | Definition, Ergonomics, & Examples | Britannica.com
-https://en.wikipedia.org/wiki/Human_factors_and_ergonomics | Human factors and ergonomics - Wikipedia
--->
 
 ## Persuasian, Ethics
 
