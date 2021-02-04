@@ -1,5 +1,10 @@
 # Python Doc- Basic
 
+## Kenneth Reitz Advice to Me 
+
+* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
+* Python Magic Classes
+
 ## Enter and Exit the Python Interactive Shell
 
 Enter the Python interactive shell
@@ -157,48 +162,6 @@ String escape
 \t
 \n (one line)
 \n\n (two lines)
-```
-
-### Common Naming Conventions
-
-<!--
-case sensitivity
-underscore
-starting underscore
--->
-
-```python
-CapWords
-snake_case
-MACRO_CASE
-camelCase
-```
-
-snake_case
-
-<!--
-https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
--->
-
-```python
-module_name
-package_name
-function_name
-method_name
-variable_name
-```
-
-CapWords
-
-```python
-ClassName
-ExceptionName
-```
-
-MACRO_CASE
-
-```python
-CONSTANT_NAME
 ```
 
 ## Statements Versus Expressions
