@@ -5,6 +5,164 @@
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
 * Python Magic Classes
 
+<!--
+## Lexical Analysis
+
+https://en.wikipedia.org/wiki/Lexical_analysis | Lexical analysis - Wikipedia
+
+Lexical Analysis
+https://docs.python.org/3/reference/lexical_analysis.html#logical-lines
+https://docs.python.org/3/reference/lexical_analysis.html#physical-lines
+https://docs.python.org/3/reference/lexical_analysis.html#comments
+https://docs.python.org/3/reference/lexical_analysis.html#encoding-declarations
+https://docs.python.org/3/reference/lexical_analysis.html#explicit-line-joining
+https://docs.python.org/3/reference/lexical_analysis.html#implicit-line-joining
+https://docs.python.org/3/reference/lexical_analysis.html#blank-lines
+https://docs.python.org/3/reference/lexical_analysis.html#indentation
+https://docs.python.org/3/reference/lexical_analysis.html#whitespace-between-tokens
+
+https://docs.python.org/3/reference/lexical_analysis.html#line-structure
+https://docs.python.org/3/reference/lexical_analysis.html#other-tokens
+https://docs.python.org/3/reference/lexical_analysis.html#identifiers
+
+## Data Model
+
+https://docs.python.org/3/reference/datamodel.html#implementing-descriptors
+https://docs.python.org/3/reference/datamodel.html#invoking-descriptors
+https://docs.python.org/3/reference/datamodel.html#slots
+https://docs.python.org/3/reference/datamodel.html#customizing-class-creation
+https://docs.python.org/3/reference/datamodel.html#metaclasses
+https://docs.python.org/3/reference/datamodel.html#resolving-mro-entries
+https://docs.python.org/3/reference/datamodel.html#determining-the-appropriate-metaclass
+https://docs.python.org/3/reference/datamodel.html#preparing-the-class-namespace
+https://docs.python.org/3/reference/datamodel.html#executing-the-class-body
+https://docs.python.org/3/reference/datamodel.html#creating-the-class-object
+https://docs.python.org/3/reference/datamodel.html#metaclass-example
+https://docs.python.org/3/reference/datamodel.html#customizing-instance-and-subclass-checks
+
+https://docs.python.org/3/reference/datamodel.html#emulating-generic-types
+https://docs.python.org/3/reference/datamodel.html#emulating-callable-objects
+https://docs.python.org/3/reference/datamodel.html#emulating-container-types
+https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types
+https://docs.python.org/3/reference/datamodel.html#with-statement-context-managers
+https://docs.python.org/3/reference/datamodel.html#special-method-lookup
+
+## Method Resolution Order
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+MRO
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
+
+New Style
+https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
+https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+
+## Classes, Objects, Functions, Methods, Attributes
+
+https://docs.python.org/3/glossary.html#term-new-style-class
+https://docs.python.org/3/glossary.html#term-object
+https://docs.python.org/3/reference/datamodel.html#objects-values-and-types
+https://docs.python.org/3/reference/datamodel.html#objects
+https://docs.python.org/3/reference/datamodel.html#basic-customization
+
+https://docs.python.org/3/reference/datamodel.html#customizing-attribute-access
+https://docs.python.org/3/reference/datamodel.html#customizing-module-attribute-access
+
+https://docs.python.org/3/glossary.html#term-class
+https://docs.python.org/3/tutorial/classes.html#classes
+https://docs.python.org/3/reference/compound_stmts.html#class-definitions
+
+https://docs.python.org/3/tutorial/classes.html#a-first-look-at-classes
+https://docs.python.org/3/tutorial/classes.html#class-definition-syntax
+
+https://docs.python.org/3/library/stdtypes.html#classes-and-class-instances
+
+Important!
+https://docs.python.org/3/tutorial/classes.html#class-objects
+https://docs.python.org/3/tutorial/classes.html#instance-objects
+https://docs.python.org/3/tutorial/classes.html#method-objects
+
+https://docs.python.org/3/tutorial/classes.html#random-remarks
+https://docs.python.org/3/tutorial/classes.html#inheritance
+https://docs.python.org/3/tutorial/classes.html#multiple-inheritance
+
+https://docs.python.org/3/tutorial/classes.html#class-and-instance-variables
+https://docs.python.org/3/tutorial/classes.html#private-variables
+
+Function Objects
+https://docs.python.org/3/library/stdtypes.html#functions
+
+Calls!
+https://docs.python.org/3/reference/expressions.html#calls
+
+"A series of statements which returns some value to a caller. It can also be passed zero or more arguments which may be used in the execution of the body. See also parameter, method, and the Function definitions section."
+https://stackoverflow.com/questions/53485906/what-exactly-is-a-caller-in-python
+https://docs.python.org/3/glossary.html#term-function
+
+https://docs.python.org/3/reference/compound_stmts.html#function-definitions
+
+https://docs.python.org/3/tutorial/controlflow.html#defining-functions
+https://docs.python.org/3/tutorial/controlflow.html#more-on-defining-functions
+
+"There are really two flavors of function objects: built-in functions and user-defined functions. Both support the same operation (to call the function), but the implementation is different, hence the different object types."
+https://docs.python.org/3/library/stdtypes.html#functions
+
+Look again
+https://docs.python.org/3/glossary.html#term-generic-function
+
+Usually used for type hints
+https://docs.python.org/3/tutorial/controlflow.html#function-annotations
+
+"Methods are functions that are called using the attribute notation. There are two flavors: built-in methods (such as append() on lists) and class instance methods. Built-in methods are described with the types that support them.
+If you access a method (a function defined in a class namespace) through an instance, you get a special object: a bound method (also called instance method) object."
+https://docs.python.org/3/library/stdtypes.html#methods
+
+"A function which is defined inside a class body. If called as an attribute of an instance of that class, the method will get the instance object as its first argument (which is usually called self). See function and nested scope."
+https://docs.python.org/3/glossary.html#term-method
+
+https://docs.python.org/3/glossary.html#term-attribute
+
+https://docs.python.org/3/reference/expressions.html#attribute-references
+
+## Mapping Operators to Functions
+
+Mapping Operators to Functions
+
+"For backward compatibility, many of these have a variant with the double underscores kept."
+https://docs.python.org/3/library/operator.html
+https://docs.python.org/3/library/operator.html#module-operator
+https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
+https://docs.python.org/3/library/operator.html#inplace-operators
+
+## Scope
+
+Scope
+* [Scope Wikipedia](https://en.wikipedia.org/wiki/Scope_(computer_science))
+
+https://en.wikipedia.org/wiki/Scope_(computer_science)#Lexical_scope_vs._dynamic_scope
+
+7.12. The global statement
+https://docs.python.org/3/reference/simple_stmts.html#the-global-statement
+7.13. The nonlocal statement
+https://docs.python.org/3/reference/simple_stmts.html#the-nonlocal-statement
+
+Classes
+9.1. A Word About Names and Objects
+https://docs.python.org/3/tutorial/classes.html#a-word-about-names-and-objects
+9.2. Python Scopes and Namespaces
+https://docs.python.org/3/tutorial/classes.html#python-scopes-and-namespaces
+9.2.1. Scopes and Namespaces Example
+https://docs.python.org/3/tutorial/classes.html#scopes-and-namespaces-example
+
+https://docs.python.org/3/glossary.html#term-nested-scope
+-->
+
 ## Enter and Exit the Python Interactive Shell
 
 Enter the Python interactive shell
@@ -224,27 +382,126 @@ print(variable)
 7.6. The return statement
 https://docs.python.org/3/reference/simple_stmts.html#the-return-statement
 
+### Common Naming Conventions
 
-## Type, Identity, Hash Value
+<!--
+case sensitivity
+underscore
+starting underscore
+-->
 
-With one argument, return the type of an object. 
+```python
+CapWords
+snake_case
+MACRO_CASE
+camelCase
+```
 
-```type()```
+snake_case
 
-https://docs.python.org/3/library/functions.html#type
+<!--
+https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
+-->
 
-Return the “identity” of an object. 
+```python
+module_name
+package_name
+function_name
+method_name
+variable_name
+```
 
-```id()```
+CapWords
 
-https://docs.python.org/3/library/functions.html#id
+```python
+ClassName
+ExceptionName
+```
 
-Return the hash value of the object (if it has one). Hash values are integers. 
+MACRO_CASE
 
-```hash()```
+```python
+CONSTANT_NAME
+```
 
-https://docs.python.org/3/library/functions.html#hash
-https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
+## Example Module File
+
+Attribution
+* [RichardBronosky PEP8 Cheatsheet](https://gist.github.com/RichardBronosky/454964087739a449da04)
+
+```python
+"""This module's multi-line docstring.
+Paragraphs are separated with blank lines.
+Lines conform to 79 character rule.
+1234567891011121314151617181920212223242526272829303132333435363738394041424344
+"""
+
+
+import standard_library  # STD lib imports first, alphabetical
+
+import third_party_library  # 3rd party library imports next, alphabetical
+
+import local_library  # local library imports last
+import library_one, library_two  # anti-pattern
+from library import *  # anti-pattern, including pyflake problem # noqa
+# Using # noqa in the line above avoids flake8 warnings about line length!
+
+
+# 2 empty lines between top-level functions + classes
+def new_function(): # snake_case
+    """Description"""
+    action
+    
+
+class NewClass(object): #CapWords
+    """Description"""
+
+    def __init__(self, attribute):
+        self.attribute = attribute
+
+    # 1 empty line between in-class definitions
+    def new_method(self): # snake_class, always use self as first argument
+        """Description"""
+        action
+
+    @classmethod
+    def new_class_method(cls):
+        """Description"""
+        action
+
+# Newline at end of file
+```
+
+## Class or Function Syntax
+
+Define a function or class
+
+```python
+def function():
+class Class:
+```
+
+Function statement
+
+```python
+def function():
+    """Description"""
+    action
+
+function()
+```
+
+Class statement
+
+```python
+class Class:
+    """Description"""
+    def __init__(self, attribute):
+        self.attribute = attribute
+ 
+    def method(self):
+        action
+```
 
 ## Modules
 
@@ -305,161 +562,6 @@ from module import *
 
 function()
 ```
-
-
-## Built-In Functions- Formatting and Printing
-
-Convert a value to a “formatted” representation, as controlled by format_spec. 
-```format()```
-
-Return a string containing a printable representation of an object. 
-```repr()```
-
-
-## Built-In Functions- Numbers
-
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
-
-Return x to the power y; if z is present, return x to the power y, modulo z
-
-```pow()```
-
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
-
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
-
-## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
-
-Return the largest item in an iterable or the largest of two or more arguments.
-
-```max()```
-
-Return the smallest item in an iterable or the smallest of two or more arguments.
-
-```min()```
-
-## Built-In Functions- Length and Sum- Addressed in Sequences Section
-
-Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
-
-```len()```
-
-Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
-
-```sum()```
-
-## Print Data Structure and Ascertain Data Type
-
-```python
-print(data_structure)
-print(type(data_structure))
-```
-
-
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
-
 
 ## Operators and Delimiters
 
@@ -692,6 +794,53 @@ Return a new set object, optionally with elements taken from iterable.
 ```set()```
 
 
+## Object-Oriented Programming
+
+### Built-In Object Methods
+
+Return a new featureless object. object is a base for all classes. It has the methods that are common to all instances of Python classes. 
+
+```object()```
+
+Return a proxy object that delegates method calls to a parent or sibling class of type. This is useful for accessing inherited methods that have been overridden in a class. 
+
+```super()```
+
+https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+
+### Class and Object `Is` Functions
+
+Return true if the object argument is an instance of the classinfo argument, or of a (direct, indirect or virtual) subclass thereof. 
+
+```isinstance()```
+
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+Return true if class is a subclass (direct, indirect or virtual) of classinfo. 
+
+```issubclass()```
+
+### Attributes and Properties
+
+Object attributes
+
+```delattr()```
+```getattr()```
+```__getattribute__()```
+```hasattr()```
+```setattr()```
+
+https://en.wikipedia.org/wiki/Mutator_method
+https://docs.python.org/3/library/functions.html#setattr
+https://docs.python.org/3/library/functions.html#getattr
+https://docs.python.org/3/library/functions.html#hasattr
+https://docs.python.org/3/library/functions.html#delattr
+https://en.wikipedia.org/wiki/Property_(programming)
+
+Return a property attribute.
+```property()```
+
+
 ## dir() and builtins
 
 Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
@@ -711,6 +860,35 @@ https://docs.python.org/3/library/functions.html#dir
 
 Return True if the object argument appears callable, False if not. 
 ```callable()```
+
+
+## Type, Identity, Hash Value
+
+With one argument, return the type of an object. 
+
+```type()```
+
+https://docs.python.org/3/library/functions.html#type
+
+Return the “identity” of an object. 
+
+```id()```
+
+https://docs.python.org/3/library/functions.html#id
+
+Return the hash value of the object (if it has one). Hash values are integers. 
+
+```hash()```
+
+https://docs.python.org/3/library/functions.html#hash
+https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
+
+## Print Data Structure and Ascertain Data Type
+
+```python
+print(data_structure)
+print(type(data_structure))
+```
 
 ## Less Common Built-In Function
 
