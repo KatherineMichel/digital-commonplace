@@ -1,5 +1,20 @@
 # Python Doc- Basic
 
+<!--
+https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
+
+1.2. Notation
+https://docs.python.org/3/reference/introduction.html#notation
+
+https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
+
+http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
+https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
+https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
+https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
+https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
+-->
+
 ## Kenneth Reitz Advice to Me 
 
 * Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
@@ -77,9 +92,13 @@ https://docs.python.org/3/reference/datamodel.html#types
 https://docs.python.org/3/library/stdtypes.html#built-in-types
 https://docs.python.org/3/library/stdtypes.html#other-built-in-types
 
+
+https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
+
 https://docs.python.org/3/library/builtins.html
 https://docs.python.org/3/library/functions.html#built-in-funcs
 https://docs.python.org/3/library/constants.html#built-in-consts
+
 
 https://docs.python.org/3/reference/expressions.html#expression-lists
 https://docs.python.org/3/reference/simple_stmts.html#expression-statements
@@ -180,6 +199,31 @@ https://docs.python.org/3/library/operator.html
 https://docs.python.org/3/library/operator.html#module-operator
 https://docs.python.org/3/library/operator.html#mapping-operators-to-functions
 https://docs.python.org/3/library/operator.html#inplace-operators
+
+## Arguments and Parameters
+
+Difference between kwargs and zip
+
+Information passed to a function is called an argument
+information received by a function is called a parameter.
+
+Interpreter
+2.1.1. Argument Passing
+https://docs.python.org/3/tutorial/interpreter.html#argument-passing
+sys.argv[0]
+
+4.7.1. Default Argument Values
+https://docs.python.org/3/tutorial/controlflow.html#default-argument-values
+4.7.2. Keyword Arguments
+https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments
+4.7.3. Arbitrary Argument Lists
+https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists
+4.7.4. Unpacking Argument Lists
+https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
+
+positional, keyword
+https://docs.python.org/3/glossary.html#term-argument
+https://docs.python.org/3/glossary.html#term-parameter
 
 ## Scope
 
