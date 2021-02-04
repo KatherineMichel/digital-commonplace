@@ -938,10 +938,47 @@ https://docs.python.org/3/reference/lexical_analysis.html#other-tokens
 https://docs.python.org/3/reference/lexical_analysis.html#identifiers
 -->
 
-## Kenneth Reitz Advice to Me 
+### Common Naming Conventions
 
-* Python Object Model, [Python Data Model Docs](https://docs.python.org/3/reference/datamodel.html)
-* Python Magic Classes
+<!--
+case sensitivity
+underscore
+starting underscore
+-->
+
+```python
+CapWords
+snake_case
+MACRO_CASE
+camelCase
+```
+
+snake_case
+
+<!--
+https://en.wikipedia.org/wiki/Snake_case | Snake case - Wikipedia
+-->
+
+```python
+module_name
+package_name
+function_name
+method_name
+variable_name
+```
+
+CapWords
+
+```python
+ClassName
+ExceptionName
+```
+
+MACRO_CASE
+
+```python
+CONSTANT_NAME
+```
 
 ## Example Module File
 
