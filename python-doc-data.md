@@ -36,21 +36,6 @@ https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN We
 -->
 
 <!--
-1.2. Notation
-https://docs.python.org/3/reference/introduction.html#notation
-
-https://docs.python.org/3/tutorial/controlflow.html#intermezzo-coding-style
-
-http://akaptur.com/blog/2014/03/16/reading-ebnf/ | Reading EBNF - Allison Kaptur
-https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form | Extended Backus–Naur form - Wikipedia
-https://en.wikipedia.org/wiki/Backus%E2%80%93Naur_form	
-https://www.iso.org/standard/26153.html | ISO/IEC 14977:1996 - Information technology -- Syntactic metalanguage -- Extended BNF
-https://standards.iso.org/ittf/PubliclyAvailableStandards/s026153_ISO_IEC_14977_1996(E).zip | Publicly Available Standards
--->
-
-<!--
-https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
-
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
 https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
 
@@ -62,24 +47,15 @@ https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 negative indexes python - Google Search
 
 https://en.wikipedia.org/wiki/Control_flow
-https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
 https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
-https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
 
-https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
 
-https://docs.python.org/3/library/functions.html#built-in-funcs
-https://docs.python.org/3/library/constants.html#built-in-consts
 
 Super
 https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
 
-Errors
-https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
-https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
-https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
 https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
 
 Path
@@ -92,15 +68,29 @@ https://docs.python.org/3/library/string.html | string — Common string operati
 https://docs.python.org/3/library/stdtypes.html#str.replace
 https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
 
-Array
-https://docs.python.org/3/library/array.html | array — Efficient arrays of numeric values — Python 3.8.6rc1 documentation
-
 Range
 https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
 https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
 
 Slicing
 https://docs.python.org/2.3/whatsnew/section-slices.html | 15 Extended Slices
+-->
+
+<!--
+## Utilities
+
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+
+28. Debugging and Profiling
+28.3. pdb — The Python Debugger
+28.1. bdb — Debugger framework
+
+https://docs.python.org/3/library/debug.html
+
+https://docs.python.org/3/library/pdb.html#debugger-commands
+
+29.9. traceback — Print or retrieve a stack traceback
+https://docs.python.org/3/library/traceback.html
 -->
 
 
@@ -133,489 +123,6 @@ https://docs.python.org/3/library/stdtypes.html#str.rstrip
 https://docs.python.org/3/library/stdtypes.html#str.strip
 -->
 
-<!--
-Unix
-https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
-https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
-
-https://docs.python.org/3/tutorial/appendix.html#interactive-mode
-
-https://docs.python.org/3/tutorial/appendix.html#error-handling
-https://docs.python.org/3/reference/compound_stmts.html#try
-https://docs.python.org/3/reference/compound_stmts.html#except
-https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
-https://docs.python.org/3/reference/compound_stmts.html#finally
-https://docs.python.org/3/reference/simple_stmts.html#from
-https://docs.python.org/3/reference/simple_stmts.html#raise
-https://docs.python.org/3/library/constants.html#None
-
-https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
-
-
-File
-https://docs.python.org/3/library/os.html#file-object-creation
-https://docs.python.org/3/library/os.html#os.open
-https://docs.python.org/3/library/functions.html#open
-https://docs.python.org/3/library/fileinput.html#module-fileinput
-https://docs.python.org/3/library/tempfile.html#module-tempfile
-https://docs.python.org/3/library/shutil.html#module-shutil
-
-
-## Platform
-
-https://docs.python.org/3/library/allos.html
-
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
-
-10.1. Operating System Interface
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
-
-https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
-
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
-
-11.2. os.path — Common pathname manipulations
-https://docs.python.org/3/library/os.path.html
-
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
-https://docs.python.org/3/library/os.html#os.stat
-
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-Interesting (os and os.path versus pathlib)
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
-29.1. sys — System-specific parameters and functions
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.path
-https://docs.python.org/3/library/sys.html#sys.stdin
-https://docs.python.org/3/library/sys.html#sys.stdout
-https://docs.python.org/3/library/sys.html#sys.stderr
-
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
-
-
-## Utilities
-
-https://pypi.org/project/ipdb/ | ipdb · PyPI
-
-28. Debugging and Profiling
-28.3. pdb — The Python Debugger
-28.1. bdb — Debugger framework
-
-https://docs.python.org/3/library/debug.html
-
-https://docs.python.org/3/library/pdb.html#debugger-commands
-
-29.9. traceback — Print or retrieve a stack traceback
-https://docs.python.org/3/library/traceback.html
-
-
-## Tutorial
-
-3. An Informal Introduction to Python
-https://docs.python.org/3/tutorial/introduction.html
-https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-https://docs.python.org/3/tutorial/introduction.html#numbers
-https://docs.python.org/3/tutorial/introduction.html#strings
-https://docs.python.org/3/library/stdtypes.html#textseq
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-Fibonacci series 
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-
-
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-https://docs.python.org/3/library/functions.html#repr
-https://docs.python.org/3/library/pprint.html#module-pprint
-
-f-string
-https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
-https://docs.python.org/3/glossary.html#term-f-string
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
-
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://requests.readthedocs.io/en/master/
-https://requests.readthedocs.io/en/master/#beloved-features
-
-
-10.5. String Pattern Matching
-https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-11.7. glob — Unix style pathname pattern expansion
-https://docs.python.org/3/library/glob.html
-https://docs.python.org/3/library/fnmatch.html
-
-
-10.12. Batteries Included
-https://docs.python.org/3/library/json.html#module-json
-https://docs.python.org/3/library/csv.html#module-csv
-https://docs.python.org/3/library/sqlite3.html#module-sqlite3
-
-14.1. csv — CSV File Reading and Writing
-https://docs.python.org/3/library/csv.html
-https://docs.python.org/3/library/csv.html#module-contents
-https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
-https://docs.python.org/3/library/csv.html#reader-objects
-https://docs.python.org/3/library/csv.html#writer-objects
-https://docs.python.org/3/library/csv.html#examples
-
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
-
-21. Internet Protocols and Support
-
-19.2. json — JSON encoder and decoder
-20.2. json — JSON encoder and decoder
-7.2.2. Saving structured data with json
-https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
-
-https://docs.python.org/3/library/json.html
-
-https://docs.python.org/3/library/json.html#basic-usage
-https://docs.python.org/3/library/json.html#encoders-and-decoders
-https://docs.python.org/3/library/json.html#exceptions
-https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
-https://docs.python.org/3/library/json.html#character-encodings
-https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
-https://docs.python.org/3/library/json.html#repeated-names-within-an-object
-https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
-https://docs.python.org/3/library/json.html#implementation-limitations
-https://docs.python.org/3/library/json.html#module-json.tool
-https://docs.python.org/3/library/json.html#command-line-options
-
-12.4. marshal — Internal Python object serialization
-https://docs.python.org/3/library/marshal.html
-
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
-
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
-
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-https://docs.python.org/3/library/array.html#module-array
-https://docs.python.org/3/library/array.html#array.array
-https://docs.python.org/3/library/collections.html#module-collections
-https://docs.python.org/3/library/collections.html#collections.deque
-https://docs.python.org/3/library/bisect.html#module-bisect
-https://docs.python.org/3/library/heapq.html#module-heapq
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
-
-
-
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#sys.argv
-
-22.1. webbrowser — Convenient Web-browser controller
-https://docs.python.org/3/library/webbrowser.html
-https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
-
-https://docs.python.org/3/howto/argparse.html
-"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
-
-Alternative
-16.5. getopt — C-style parser for command line options
-https://docs.python.org/3/library/getopt.html
-
-16.4. argparse — Parser for command-line options, arguments and sub-commands
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/argparse.html#example
-https://docs.python.org/3/library/argparse.html#creating-a-parser
-https://docs.python.org/3/library/argparse.html#adding-arguments
-https://docs.python.org/3/library/argparse.html#parsing-arguments
-https://docs.python.org/3/library/argparse.html#argumentparser-objects
-https://docs.python.org/3/library/argparse.html#prog
-https://docs.python.org/3/library/argparse.html#usage
-https://docs.python.org/3/library/argparse.html#description
-https://docs.python.org/3/library/argparse.html#epilog
-https://docs.python.org/3/library/argparse.html#parents
-https://docs.python.org/3/library/argparse.html#formatter-class
-https://docs.python.org/3/library/argparse.html#prefix-chars
-https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
-https://docs.python.org/3/library/argparse.html#argument-default
-https://docs.python.org/3/library/argparse.html#allow-abbrev
-https://docs.python.org/3/library/argparse.html#conflict-handler
-https://docs.python.org/3/library/argparse.html#add-help
-https://docs.python.org/3/library/argparse.html#the-add-argument-method
-https://docs.python.org/3/library/argparse.html#name-or-flags
-https://docs.python.org/3/library/argparse.html#action
-https://docs.python.org/3/library/argparse.html#nargs
-https://docs.python.org/3/library/argparse.html#const
-https://docs.python.org/3/library/argparse.html#default
-https://docs.python.org/3/library/argparse.html#type
-https://docs.python.org/3/library/argparse.html#choices
-https://docs.python.org/3/library/argparse.html#required
-https://docs.python.org/3/library/argparse.html#help
-https://docs.python.org/3/library/argparse.html#metavar
-https://docs.python.org/3/library/argparse.html#dest
-https://docs.python.org/3/library/argparse.html#action-classes
-https://docs.python.org/3/library/argparse.html#the-parse-args-method
-https://docs.python.org/3/library/argparse.html#option-value-syntax
-https://docs.python.org/3/library/argparse.html#invalid-arguments
-https://docs.python.org/3/library/argparse.html#arguments-containing
-https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
-https://docs.python.org/3/library/argparse.html#beyond-sys-argv
-https://docs.python.org/3/library/argparse.html#the-namespace-object
-https://docs.python.org/3/library/argparse.html#other-utilities
-https://docs.python.org/3/library/argparse.html#sub-commands
-https://docs.python.org/3/library/argparse.html#filetype-objects
-https://docs.python.org/3/library/argparse.html#argument-groups
-https://docs.python.org/3/library/argparse.html#mutual-exclusion
-https://docs.python.org/3/library/argparse.html#parser-defaults
-https://docs.python.org/3/library/argparse.html#printing-help
-https://docs.python.org/3/library/argparse.html#partial-parsing
-https://docs.python.org/3/library/argparse.html#customizing-file-parsing
-https://docs.python.org/3/library/argparse.html#exiting-methods
-https://docs.python.org/3/library/argparse.html#intermixed-parsing
-https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
-
-
-Regular Expression HOWTO
-https://docs.python.org/3/howto/regex.html
-
-6.2. re — Regular expression operations
-https://docs.python.org/3/library/re.html#regular-expression-syntax
-https://docs.python.org/3/library/re.html#module-contents
-https://docs.python.org/3/library/re.html#regular-expression-objects
-https://docs.python.org/3/library/re.html#match-objects
-https://docs.python.org/3/library/re.html#regular-expression-examples
-https://docs.python.org/3/library/re.html#checking-for-a-pair
-https://docs.python.org/3/library/re.html#simulating-scanf
-https://docs.python.org/3/library/re.html#search-vs-match
-https://docs.python.org/3/library/re.html#making-a-phonebook
-https://docs.python.org/3/library/re.html#text-munging
-https://docs.python.org/3/library/re.html#finding-all-adverbs
-https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
-https://docs.python.org/3/library/re.html#raw-string-notation
-https://docs.python.org/3/library/re.html#writing-a-tokenizer
-
-
-Unicode HOWTO
-https://docs.python.org/3/howto/unicode.html
-
-
-https://www.sqlite.org/index.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/wsgiref.html
-
-22.5. urllib — URL handling modules
-
-https://docs.python.org/3/library/urllib.html
-
-
-26.1. typing — Support for type hints
-https://docs.python.org/3/library/typing.html
-
-
-14. File Formats
-https://docs.python.org/3/library/fileformats.html
-
-6. Text Processing Services
-https://docs.python.org/3/library/text.html
-
-21. Structured Markup Processing Tools
-21.1. html — HyperText Markup Language support
-21.2. html.parser — Simple HTML and XHTML parser
-21.3. html.entities — Definitions of HTML general entities
-
-20. Structured Markup Processing Tools
-https://docs.python.org/3/library/markup.html
-20.1. html — HyperText Markup Language support
-https://docs.python.org/3/library/html.html
-
-https://docs.python.org/3/library/html.parser.html
-https://docs.python.org/3/library/html.parser.html#example-html-parser-application
-https://docs.python.org/3/library/html.parser.html#htmlparser-methods
-https://docs.python.org/3/library/html.parser.html#examples
-https://docs.python.org/3/library/html.entities.html
-
-
-22.22. http.server — HTTP servers
-22.23. http.cookies — HTTP state management
-22.24. http.cookiejar — Cookie handling for HTTP clients
-
-Not recommended for production
-https://docs.python.org/3/library/http.server.html
-https://docs.python.org/3/library/http.cookies.html
-https://docs.python.org/3/library/http.cookiejar.html
-
-
-
-https://docs.python.org/3/library/functions.html#built-in-funcs
-
-
-
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
-
-
-## Arguments and Parameters
-
-Difference between kwargs and zip
-
-Information passed to a function is called an argument
-information received by a function is called a parameter.
-
-Interpreter
-2.1.1. Argument Passing
-https://docs.python.org/3/tutorial/interpreter.html#argument-passing
-sys.argv[0]
-
-4.7.1. Default Argument Values
-https://docs.python.org/3/tutorial/controlflow.html#default-argument-values
-4.7.2. Keyword Arguments
-https://docs.python.org/3/tutorial/controlflow.html#keyword-arguments
-4.7.3. Arbitrary Argument Lists
-https://docs.python.org/3/tutorial/controlflow.html#arbitrary-argument-lists
-4.7.4. Unpacking Argument Lists
-https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
-
-positional, keyword
-https://docs.python.org/3/glossary.html#term-argument
-https://docs.python.org/3/glossary.html#term-parameter
 
 
 ## Important Data Questions
@@ -937,6 +444,107 @@ https://docs.python.org/3/library/constants.html#None
 NotImplemented
 
 
+## Math
+
+3.2. First Steps Towards Programming
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+3.1. Using Python as a Calculator
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+3.1.1. Numbers
+https://docs.python.org/3/tutorial/introduction.html#numbers
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+
+9.7.4. Exceptions
+exception statistics.StatisticsError
+
+
+9. Numeric and Mathematical Modules
+https://docs.python.org/3/library/numeric.html
+9.1. numbers — Numeric abstract base classes
+https://docs.python.org/3/library/numbers.html
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html
+9.3. cmath — Mathematical functions for complex numbers
+https://docs.python.org/3/library/cmath.html
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html
+9.6. random — Generate pseudo-random numbers
+https://docs.python.org/3/library/random.html
+9.7. statistics — Mathematical statistics functions
+https://docs.python.org/3/library/statistics.html
+
+
+https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
+
+https://docs.python.org/3/library/numbers.html#module-numbers
+https://docs.python.org/3/library/numbers.html#the-numeric-tower
+https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
+https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html#module-math
+https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
+https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/math.html#trigonometric-functions
+https://docs.python.org/3/library/math.html#angular-conversion
+https://docs.python.org/3/library/math.html#hyperbolic-functions
+https://docs.python.org/3/library/math.html#special-functions
+https://docs.python.org/3/library/math.html#constants
+
+https://docs.python.org/3/library/cmath.html#module-cmath
+https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
+https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/cmath.html#trigonometric-functions
+https://docs.python.org/3/library/cmath.html#hyperbolic-functions
+https://docs.python.org/3/library/cmath.html#classification-functions
+https://docs.python.org/3/library/cmath.html#constants
+
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html#module-decimal
+https://docs.python.org/3/library/decimal.html#quick-start-tutorial
+https://docs.python.org/3/library/decimal.html#decimal-objects
+https://docs.python.org/3/library/decimal.html#logical-operands
+https://docs.python.org/3/library/decimal.html#context-objects
+https://docs.python.org/3/library/decimal.html#constants
+https://docs.python.org/3/library/decimal.html#rounding-modes
+https://docs.python.org/3/library/decimal.html#signals
+https://docs.python.org/3/library/decimal.html#floating-point-notes
+https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
+https://docs.python.org/3/library/decimal.html#special-values
+https://docs.python.org/3/library/decimal.html#working-with-threads
+https://docs.python.org/3/library/decimal.html#recipes
+https://docs.python.org/3/library/decimal.html#decimal-faq
+
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html#module-fractions
+
+9.6. random — Generate pseudo-random numbers
+See also section
+https://docs.python.org/3/library/random.html#module-random
+https://docs.python.org/3/library/random.html#bookkeeping-functions
+https://docs.python.org/3/library/random.html#functions-for-integers
+https://docs.python.org/3/library/random.html#functions-for-sequences
+https://docs.python.org/3/library/random.html#real-valued-distributions
+https://docs.python.org/3/library/random.html#alternative-generator
+https://docs.python.org/3/library/random.html#notes-on-reproducibility
+tutorials
+https://docs.python.org/3/library/random.html#examples-and-recipes
+
+https://docs.python.org/3/library/statistics.html#module-statistics
+https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
+https://docs.python.org/3/library/statistics.html#measures-of-spread
+https://docs.python.org/3/library/statistics.html#function-details
+https://docs.python.org/3/library/statistics.html#exceptions
+
+9.3. cmath — Mathematical functions for complex numbers
+
+
 ## Built-In Functions- Formatting and Printing
 
 Convert a value to a “formatted” representation, as controlled by format_spec. 
@@ -1020,6 +628,11 @@ header:
 
            
 ## Control Flow Statement Examples
+
+<!--
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+-->
 
 if-elif-else statement
 
@@ -1125,6 +738,7 @@ https://docs.python.org/3/library/abc.html
 * repeating while a condition is True (while loop)
 * sequential processing (for loop)
 
+
 ## if Statements
 
 Conditional test
@@ -1139,6 +753,7 @@ Number of statements
 https://docs.python.org/3/tutorial/controlflow.html#if-statements
 https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
 
+
 ## while Statements
 
 Conditional test
@@ -1147,6 +762,7 @@ Conditional test
 * if the while statements becomes False, the else statement, if present, is executed
 
 https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
+
 
 ## Sequences
 
@@ -1177,6 +793,7 @@ https://docs.python.org/3/reference/simple_stmts.html#the-del-statement
 Not common
 https://docs.python.org/3/library/stdtypes.html#binaryseq
 
+
 ## Iterators
 
 Difference between Sequences, Iterators, Iterables
@@ -1192,6 +809,7 @@ https://docs.python.org/3/library/stdtypes.html#iterator-types
 
 5.6. Looping Techniques
 https://docs.python.org/3/tutorial/datastructures.html#looping-techniques
+
 
 ## Built-In Functions- Data Sequence/Iterator
 
@@ -1272,6 +890,7 @@ Make an iterator that aggregates elements from each of the iterables. Returns an
 
 https://docs.python.org/3/library/functions.html#zip
 
+
 ## for Statements
 
 What it does
@@ -1280,6 +899,7 @@ What it does
 
 https://docs.python.org/3/tutorial/controlflow.html#for-statements
 https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
+
 
 ## break and continue Statements (for or while Loops), and else Clauses on Loops
 
@@ -1306,6 +926,7 @@ https://docs.python.org/3/tutorial/controlflow.html#pass-statements
 7.4. The pass statement
 https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
 
+
 ## range() Function (for Statement for Numbers)
 
 What it does
@@ -1329,6 +950,7 @@ Return a slice object representing the set of indices specified by range(start, 
 ```slice()```
 
 https://docs.python.org/3.7/library/itertools.html#itertools.islice
+
 
 ## for Statement Alternatives
 
@@ -1423,6 +1045,7 @@ https://docs.python.org/3/reference/datamodel.html#coroutine-objects
 https://docs.python.org/3/reference/datamodel.html#asynchronous-iterators
 https://docs.python.org/3/reference/datamodel.html#asynchronous-context-managers
 
+
 ## Built-In Looping Functions- Dictionary
 
 dictionary views
@@ -1450,12 +1073,14 @@ https://docs.python.org/3/library/stdtypes.html#dict.get
 https://docs.python.org/3/library/stdtypes.html#dict.setdefault
 https://docs.python.org/3/library/collections.html#collections.defaultdict
 
+
 ## Lambda Expressions
 
 4.7.5. Lambda Expressions
 https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions
 6.13. Lambdas
 https://docs.python.org/3/reference/expressions.html#lambda
+
 
 ## with Statements
 
@@ -1483,6 +1108,7 @@ https://docs.python.org/3/library/contextlib.html#single-use-reusable-and-reentr
 https://docs.python.org/3/library/contextlib.html#reentrant-context-managers
 https://docs.python.org/3/library/contextlib.html#reusable-context-managers
 
+
 ## Functional Programming: itertools, functools, and operator
 
 "The functions fall into categories that perform object comparisons, logical operations, mathematical operations and sequence operations."
@@ -1507,6 +1133,333 @@ https://docs.python.org/3/library/itertools.html#itertools.chain
 
 https://docs.python.org/3/library/functools.html
 https://docs.python.org/3/library/functools.html#partial-objects
+
+
+
+<!--
+Unix
+https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
+https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
+
+https://docs.python.org/3/tutorial/appendix.html#interactive-mode
+
+
+https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
+
+
+File
+https://docs.python.org/3/library/os.html#file-object-creation
+https://docs.python.org/3/library/os.html#os.open
+https://docs.python.org/3/library/functions.html#open
+https://docs.python.org/3/library/fileinput.html#module-fileinput
+https://docs.python.org/3/library/tempfile.html#module-tempfile
+https://docs.python.org/3/library/shutil.html#module-shutil
+
+
+## Platform
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+https://docs.python.org/3/library/os.html#os.stat
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+
+
+## Tutorial
+
+3. An Informal Introduction to Python
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+https://docs.python.org/3/tutorial/introduction.html#numbers
+https://docs.python.org/3/tutorial/introduction.html#strings
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+Fibonacci series 
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
+
+f-string
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
+https://docs.python.org/3/glossary.html#term-f-string
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
+
+
+https://docs.python.org/3/library/http.html#http-status-codes
+
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/#beloved-features
+
+
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+https://docs.python.org/3/library/fnmatch.html
+
+
+10.12. Batteries Included
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+14.1. csv — CSV File Reading and Writing
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/csv.html#module-contents
+https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
+https://docs.python.org/3/library/csv.html#reader-objects
+https://docs.python.org/3/library/csv.html#writer-objects
+https://docs.python.org/3/library/csv.html#examples
+
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+
+21. Internet Protocols and Support
+
+19.2. json — JSON encoder and decoder
+20.2. json — JSON encoder and decoder
+7.2.2. Saving structured data with json
+https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
+
+https://docs.python.org/3/library/json.html
+
+https://docs.python.org/3/library/json.html#basic-usage
+https://docs.python.org/3/library/json.html#encoders-and-decoders
+https://docs.python.org/3/library/json.html#exceptions
+https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
+https://docs.python.org/3/library/json.html#character-encodings
+https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
+https://docs.python.org/3/library/json.html#repeated-names-within-an-object
+https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
+https://docs.python.org/3/library/json.html#implementation-limitations
+https://docs.python.org/3/library/json.html#module-json.tool
+https://docs.python.org/3/library/json.html#command-line-options
+
+12.4. marshal — Internal Python object serialization
+https://docs.python.org/3/library/marshal.html
+
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
+
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
+
+22.1. webbrowser — Convenient Web-browser controller
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
+
+https://docs.python.org/3/howto/argparse.html
+"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
+
+Alternative
+16.5. getopt — C-style parser for command line options
+https://docs.python.org/3/library/getopt.html
+
+16.4. argparse — Parser for command-line options, arguments and sub-commands
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/argparse.html#example
+https://docs.python.org/3/library/argparse.html#creating-a-parser
+https://docs.python.org/3/library/argparse.html#adding-arguments
+https://docs.python.org/3/library/argparse.html#parsing-arguments
+https://docs.python.org/3/library/argparse.html#argumentparser-objects
+https://docs.python.org/3/library/argparse.html#prog
+https://docs.python.org/3/library/argparse.html#usage
+https://docs.python.org/3/library/argparse.html#description
+https://docs.python.org/3/library/argparse.html#epilog
+https://docs.python.org/3/library/argparse.html#parents
+https://docs.python.org/3/library/argparse.html#formatter-class
+https://docs.python.org/3/library/argparse.html#prefix-chars
+https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
+https://docs.python.org/3/library/argparse.html#argument-default
+https://docs.python.org/3/library/argparse.html#allow-abbrev
+https://docs.python.org/3/library/argparse.html#conflict-handler
+https://docs.python.org/3/library/argparse.html#add-help
+https://docs.python.org/3/library/argparse.html#the-add-argument-method
+https://docs.python.org/3/library/argparse.html#name-or-flags
+https://docs.python.org/3/library/argparse.html#action
+https://docs.python.org/3/library/argparse.html#nargs
+https://docs.python.org/3/library/argparse.html#const
+https://docs.python.org/3/library/argparse.html#default
+https://docs.python.org/3/library/argparse.html#type
+https://docs.python.org/3/library/argparse.html#choices
+https://docs.python.org/3/library/argparse.html#required
+https://docs.python.org/3/library/argparse.html#help
+https://docs.python.org/3/library/argparse.html#metavar
+https://docs.python.org/3/library/argparse.html#dest
+https://docs.python.org/3/library/argparse.html#action-classes
+https://docs.python.org/3/library/argparse.html#the-parse-args-method
+https://docs.python.org/3/library/argparse.html#option-value-syntax
+https://docs.python.org/3/library/argparse.html#invalid-arguments
+https://docs.python.org/3/library/argparse.html#arguments-containing
+https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
+https://docs.python.org/3/library/argparse.html#beyond-sys-argv
+https://docs.python.org/3/library/argparse.html#the-namespace-object
+https://docs.python.org/3/library/argparse.html#other-utilities
+https://docs.python.org/3/library/argparse.html#sub-commands
+https://docs.python.org/3/library/argparse.html#filetype-objects
+https://docs.python.org/3/library/argparse.html#argument-groups
+https://docs.python.org/3/library/argparse.html#mutual-exclusion
+https://docs.python.org/3/library/argparse.html#parser-defaults
+https://docs.python.org/3/library/argparse.html#printing-help
+https://docs.python.org/3/library/argparse.html#partial-parsing
+https://docs.python.org/3/library/argparse.html#customizing-file-parsing
+https://docs.python.org/3/library/argparse.html#exiting-methods
+https://docs.python.org/3/library/argparse.html#intermixed-parsing
+https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
+
+
+Regular Expression HOWTO
+https://docs.python.org/3/howto/regex.html
+
+6.2. re — Regular expression operations
+https://docs.python.org/3/library/re.html#regular-expression-syntax
+https://docs.python.org/3/library/re.html#module-contents
+https://docs.python.org/3/library/re.html#regular-expression-objects
+https://docs.python.org/3/library/re.html#match-objects
+https://docs.python.org/3/library/re.html#regular-expression-examples
+https://docs.python.org/3/library/re.html#checking-for-a-pair
+https://docs.python.org/3/library/re.html#simulating-scanf
+https://docs.python.org/3/library/re.html#search-vs-match
+https://docs.python.org/3/library/re.html#making-a-phonebook
+https://docs.python.org/3/library/re.html#text-munging
+https://docs.python.org/3/library/re.html#finding-all-adverbs
+https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
+https://docs.python.org/3/library/re.html#raw-string-notation
+https://docs.python.org/3/library/re.html#writing-a-tokenizer
+
+
+Unicode HOWTO
+https://docs.python.org/3/howto/unicode.html
+
+
+https://www.sqlite.org/index.html
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/wsgiref.html
+
+22.5. urllib — URL handling modules
+
+https://docs.python.org/3/library/urllib.html
+
+
+26.1. typing — Support for type hints
+https://docs.python.org/3/library/typing.html
+
+
+14. File Formats
+https://docs.python.org/3/library/fileformats.html
+
+6. Text Processing Services
+https://docs.python.org/3/library/text.html
+
+21. Structured Markup Processing Tools
+21.1. html — HyperText Markup Language support
+21.2. html.parser — Simple HTML and XHTML parser
+21.3. html.entities — Definitions of HTML general entities
+
+20. Structured Markup Processing Tools
+https://docs.python.org/3/library/markup.html
+20.1. html — HyperText Markup Language support
+https://docs.python.org/3/library/html.html
+
+https://docs.python.org/3/library/html.parser.html
+https://docs.python.org/3/library/html.parser.html#example-html-parser-application
+https://docs.python.org/3/library/html.parser.html#htmlparser-methods
+https://docs.python.org/3/library/html.parser.html#examples
+https://docs.python.org/3/library/html.entities.html
+
+
+22.22. http.server — HTTP servers
+22.23. http.cookies — HTTP state management
+22.24. http.cookiejar — Cookie handling for HTTP clients
+
+Not recommended for production
+https://docs.python.org/3/library/http.server.html
+https://docs.python.org/3/library/http.cookies.html
+https://docs.python.org/3/library/http.cookiejar.html
+-->
 
 
 ## Django System Checks, Error Reporting, Exceptions
@@ -1611,11 +1564,15 @@ else:
 
 <!--
 8.4. The try statement
-https://docs.python.org/3/reference/compound_stmts.html#the-try-statement
+https://docs.python.org/3/reference/compound_stmts.html#try
+https://docs.python.org/3/reference/compound_stmts.html#except
 https://docs.python.org/3/reference/compound_stmts.html#finally
 
+from
+https://docs.python.org/3/reference/simple_stmts.html#from
+
 7.8. The raise statement
-https://docs.python.org/3/reference/simple_stmts.html#the-raise-statement
+https://docs.python.org/3/reference/simple_stmts.html#raise
 -->
 
 ## Exceptions and Errors
@@ -1648,6 +1605,11 @@ https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions
 
 <!--
 The most common exceptions?
+
+https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
+https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
 -->
 
 5. Built-in Exceptions
