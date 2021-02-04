@@ -63,6 +63,47 @@ https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
 https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
 http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
 
+## Standard
+
+https://docs.python.org/3/reference/lexical_analysis.html
+
+https://docs.python.org/3/library/stdtypes.html#internal-objects
+https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
+
+https://docs.python.org/3/library/stdtypes.html#code-objects
+https://docs.python.org/3/library/stdtypes.html#type-objects
+
+https://docs.python.org/3/reference/datamodel.html#types
+https://docs.python.org/3/library/stdtypes.html#built-in-types
+https://docs.python.org/3/library/stdtypes.html#other-built-in-types
+
+https://docs.python.org/3/library/builtins.html
+https://docs.python.org/3/library/functions.html#built-in-funcs
+https://docs.python.org/3/library/constants.html#built-in-consts
+
+https://docs.python.org/3/reference/expressions.html#expression-lists
+https://docs.python.org/3/reference/simple_stmts.html#expression-statements
+https://docs.python.org/3/reference/expressions.html
+
+https://docs.python.org/3/tutorial/modules.html#standard-modules
+
+3.1. Constants added by the site module
+
+Special attribute and method names
+https://docs.python.org/3/glossary.html#term-special-method
+https://docs.python.org/3/reference/datamodel.html#special-method-names
+"Some of these are not reported by the dir() built-in function."
+https://docs.python.org/3/library/stdtypes.html#special-attributes
+https://docs.python.org/3/reference/lexical_analysis.html#reserved-classes-of-identifiers
+
+
+https://docs.python.org/3/glossary.html#term-decorator
+https://docs.python.org/3/glossary.html#term-descriptor
+https://docs.python.org/3/reference/datamodel.html#descriptors
+
+dot notation
+https://docs.python.org/3/library/stdtypes.html#modules
+
 ## Classes, Objects, Functions, Methods, Attributes
 
 https://docs.python.org/3/glossary.html#term-new-style-class
