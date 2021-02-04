@@ -161,9 +161,6 @@ https://docs.python.org/3/library/tempfile.html#module-tempfile
 https://docs.python.org/3/library/shutil.html#module-shutil
 
 
-
-
-
 ## Platform
 
 https://docs.python.org/3/library/allos.html
@@ -489,47 +486,110 @@ https://docs.python.org/3/library/http.cookiejar.html
 
 
 
-## Standard
-
-https://docs.python.org/3/reference/lexical_analysis.html
-
-https://docs.python.org/3/library/stdtypes.html#internal-objects
-https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
-
-https://docs.python.org/3/library/stdtypes.html#code-objects
-https://docs.python.org/3/library/stdtypes.html#type-objects
-
-https://docs.python.org/3/reference/datamodel.html#types
-https://docs.python.org/3/library/stdtypes.html#built-in-types
-https://docs.python.org/3/library/stdtypes.html#other-built-in-types
-
-https://docs.python.org/3/library/builtins.html
 https://docs.python.org/3/library/functions.html#built-in-funcs
-https://docs.python.org/3/library/constants.html#built-in-consts
-
-https://docs.python.org/3/reference/expressions.html#expression-lists
-https://docs.python.org/3/reference/simple_stmts.html#expression-statements
-https://docs.python.org/3/reference/expressions.html
-
-https://docs.python.org/3/tutorial/modules.html#standard-modules
-
-3.1. Constants added by the site module
-
-Special attribute and method names
-https://docs.python.org/3/glossary.html#term-special-method
-https://docs.python.org/3/reference/datamodel.html#special-method-names
-"Some of these are not reported by the dir() built-in function."
-https://docs.python.org/3/library/stdtypes.html#special-attributes
-https://docs.python.org/3/reference/lexical_analysis.html#reserved-classes-of-identifiers
 
 
-https://docs.python.org/3/glossary.html#term-decorator
-https://docs.python.org/3/glossary.html#term-descriptor
-https://docs.python.org/3/reference/datamodel.html#descriptors
 
-dot notation
-https://docs.python.org/3/library/stdtypes.html#modules
--->
+## Math
+
+3.2. First Steps Towards Programming
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+3.1. Using Python as a Calculator
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+3.1.1. Numbers
+https://docs.python.org/3/tutorial/introduction.html#numbers
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+
+9.7.4. Exceptions
+exception statistics.StatisticsError
+
+
+9. Numeric and Mathematical Modules
+https://docs.python.org/3/library/numeric.html
+9.1. numbers — Numeric abstract base classes
+https://docs.python.org/3/library/numbers.html
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html
+9.3. cmath — Mathematical functions for complex numbers
+https://docs.python.org/3/library/cmath.html
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html
+9.6. random — Generate pseudo-random numbers
+https://docs.python.org/3/library/random.html
+9.7. statistics — Mathematical statistics functions
+https://docs.python.org/3/library/statistics.html
+
+
+
+https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
+
+https://docs.python.org/3/library/numbers.html#module-numbers
+https://docs.python.org/3/library/numbers.html#the-numeric-tower
+https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
+https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html#module-math
+https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
+https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/math.html#trigonometric-functions
+https://docs.python.org/3/library/math.html#angular-conversion
+https://docs.python.org/3/library/math.html#hyperbolic-functions
+https://docs.python.org/3/library/math.html#special-functions
+https://docs.python.org/3/library/math.html#constants
+
+https://docs.python.org/3/library/cmath.html#module-cmath
+https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
+https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/cmath.html#trigonometric-functions
+https://docs.python.org/3/library/cmath.html#hyperbolic-functions
+https://docs.python.org/3/library/cmath.html#classification-functions
+https://docs.python.org/3/library/cmath.html#constants
+
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html#module-decimal
+https://docs.python.org/3/library/decimal.html#quick-start-tutorial
+https://docs.python.org/3/library/decimal.html#decimal-objects
+https://docs.python.org/3/library/decimal.html#logical-operands
+https://docs.python.org/3/library/decimal.html#context-objects
+https://docs.python.org/3/library/decimal.html#constants
+https://docs.python.org/3/library/decimal.html#rounding-modes
+https://docs.python.org/3/library/decimal.html#signals
+https://docs.python.org/3/library/decimal.html#floating-point-notes
+https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
+https://docs.python.org/3/library/decimal.html#special-values
+https://docs.python.org/3/library/decimal.html#working-with-threads
+https://docs.python.org/3/library/decimal.html#recipes
+https://docs.python.org/3/library/decimal.html#decimal-faq
+
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html#module-fractions
+
+9.6. random — Generate pseudo-random numbers
+See also section
+https://docs.python.org/3/library/random.html#module-random
+https://docs.python.org/3/library/random.html#bookkeeping-functions
+https://docs.python.org/3/library/random.html#functions-for-integers
+https://docs.python.org/3/library/random.html#functions-for-sequences
+https://docs.python.org/3/library/random.html#real-valued-distributions
+https://docs.python.org/3/library/random.html#alternative-generator
+https://docs.python.org/3/library/random.html#notes-on-reproducibility
+tutorials
+https://docs.python.org/3/library/random.html#examples-and-recipes
+
+https://docs.python.org/3/library/statistics.html#module-statistics
+https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
+https://docs.python.org/3/library/statistics.html#measures-of-spread
+https://docs.python.org/3/library/statistics.html#function-details
+https://docs.python.org/3/library/statistics.html#exceptions
+
+9.3. cmath — Mathematical functions for complex numbers
 
 
 ## Arguments and Parameters
@@ -1447,108 +1507,6 @@ https://docs.python.org/3/library/itertools.html#itertools.chain
 
 https://docs.python.org/3/library/functools.html
 https://docs.python.org/3/library/functools.html#partial-objects
-
-
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
 
 
 ## Django System Checks, Error Reporting, Exceptions
