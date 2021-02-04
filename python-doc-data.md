@@ -991,82 +991,6 @@ class NewClass(object): #CapWords
 # Newline at end of file
 ```
 
-## Reserved Keywords
-
-<!--
-(See Python Crash Course “Python Keywords and Built-in Functions” on page 489.)
-
-Keywords!
-https://docs.python.org/3/reference/lexical_analysis.html#keywords
--->
-
-```python
-class
-def
-```
-
-```python
-try
-except
-raise
-assert
-```
-
-```python
-for
-while
-else
-if
-elif
-with
-```
-
-```python
-continue
-pass
-break
-```
-
-Boolean
-
-```python
-True
-False
-```
-
-```python
-and
-not
-or
-```
-
-```python
-import
-from
-```
-
-```python
-global
-nonlocal
-```
-
-```python
-async
-await
-```
-
-```python
-None
-as
-del
-finally
-in
-is
-lambda
-return
-yield
-```
-
 ## Arguments and Parameters
 
 Difference between kwargs and zip
@@ -1091,6 +1015,325 @@ https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists
 positional, keyword
 https://docs.python.org/3/glossary.html#term-argument
 https://docs.python.org/3/glossary.html#term-parameter
+
+
+## Important Data Questions
+
+https://docs.python.org/3/reference/expressions.html#atoms
+https://docs.python.org/3/reference/expressions.html#atom-identifiers
+https://docs.python.org/3/reference/expressions.html#literals
+https://docs.python.org/3/reference/expressions.html#parenthesized-forms
+
+Dictionaries, lists, sets
+https://docs.python.org/3/reference/expressions.html#displays-for-lists-sets-and-dictionaries
+https://docs.python.org/3/reference/expressions.html#list-displays
+https://docs.python.org/3/reference/expressions.html#set-displays
+https://docs.python.org/3/reference/expressions.html#dictionary-displays
+
+https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects
+
+Data Structures
+* Is order important?
+* Does your data need to shrink or grow?
+
+## Data Types
+
+Data Types
+* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type) 
+
+https://docs.python.org/3/library/datatypes.html
+
+https://docs.python.org/3/reference/lexical_analysis.html#literals
+Escape sequence chart
+https://docs.python.org/3/reference/lexical_analysis.html#string-and-bytes-literals
+https://docs.python.org/3/reference/lexical_analysis.html#numeric-literals
+https://docs.python.org/3/reference/lexical_analysis.html#integer-literals
+https://docs.python.org/3/reference/lexical_analysis.html#imaginary-literals
+
+## Mutability
+
+* Mutable- individual item can be changed
+* Immutable- individual item cannot be changed
+* Sequence- 
+* Non-Sequence-
+* Iterable-
+
+After change
+* mutable data structure will have same id
+* immutable data structure will have new id
+
+## Data Types and Structures- Primitives 
+
+Methods
+https://docs.python.org/3/library/stdtypes.html#additional-methods-on-integer-types
+https://docs.python.org/3/library/stdtypes.html#additional-methods-on-float
+
+Primitive (a.k.a. atomic data types)
+* integer (numeric)
+* float (numeric)
+* string (sequence, "This is a string.", 'This is also a string.')
+* boolean
+* complex number (numeric)
+
+## Data Types and Structures- User Defined
+
+User Defined
+* list []
+* tuple () or (item,) (singleton)
+* range
+* set {}
+* dictionary {}
+
+## Data Types Categorized by Mutable or Immutable, Sequence or Non-Sequence
+
+<!--
+Sequence/looping
+lists: item
+strings: character
+-->
+
+Immutable Sequence Types- Common
+* string (text sequence type, primitive)
+
+Mutable Sequence Types- Common
+* list
+
+Mutable Non-Sequence Types
+* dictionary (built-in mapping/hash table)
+* set
+
+Set Types
+* set
+* frozenset (immutable and hashable)
+
+Immutable Sequence Types- Less Common
+* tuple
+
+Sequence Types
+* range (immutable)
+
+Other Data Structures
+* hashes
+
+## Linear and Non-Linear
+
+Linear Data Structures (left to right, top to bottom)
+* list, stack, queue, deque, array are examples
+
+List (Sequence) Linear and Non-Linear Implementations
+* Linear: stack and queue
+* Non-Linear: graph and tree
+
+<!--
+5.1.1. Using Lists as Stacks
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
+
+5.1.2. Using Lists as Queues
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
+-->
+
+
+## Sorting, Queues
+
+https://docs.python.org/3/howto/sorting.html
+
+Collections
+https://docs.python.org/3/library/collections.html#collections.deque
+
+8.5. heapq — Heap queue algorithm
+https://docs.python.org/3/library/heapq.html
+https://docs.python.org/3/library/heapq.html#basic-examples
+https://docs.python.org/3/library/heapq.html#theory
+
+https://en.wikipedia.org/wiki/Priority_queue
+https://docs.python.org/3/library/heapq.html#priority-queue-implementation-notes
+
+
+## Data Types
+
+6.3. Primaries
+https://docs.python.org/3/reference/expressions.html#primaries
+
+4.4. Numeric Types — int, float, complex
+https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
+
+4.7. Text Sequence Type — str
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
+
+## Binary
+
+Binary Sequence Types
+* bytes (immutable)
+* byte array/bytearray (mutable)
+* memoryview
+
+4.8. Binary Sequence Types — bytes, bytearray, memoryview
+https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview
+
+https://docs.python.org/3/library/stdtypes.html#bytes-objects
+https://docs.python.org/3/library/stdtypes.html#bytearray-objects
+https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
+https://docs.python.org/3/library/stdtypes.html#memory-views
+
+## Strings
+
+Common string operations
+https://docs.python.org/3/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+
+https://docs.python.org/3/tutorial/introduction.html#strings
+
+https://docs.python.org/3/library/stdtypes.html#str
+
+<!--
+operator overloading
+https://docs.python.org/3/glossary.html#term-coercion
+
+https://docs.python.org/3/reference/lexical_analysis.html#string-literal-concatenation
+-->
+
+## Lists
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+
+https://docs.python.org/3/library/stdtypes.html#lists
+
+3.1.3. Lists
+https://docs.python.org/3/tutorial/introduction.html#lists
+
+5.1. More on Lists
+https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+
+## Arrays
+
+array — Efficient arrays of numeric values
+https://docs.python.org/3/library/array.html
+
+bisect — Array bisection algorithm
+https://docs.python.org/3/library/bisect.html
+https://docs.python.org/3/library/bisect.html#searching-sorted-lists
+https://docs.python.org/3/library/bisect.html#other-examples
+
+## Tuples
+
+https://docs.python.org/3/library/stdtypes.html#tuples
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+
+Tuple
+https://docs.python.org/3/glossary.html#term-struct-sequence
+
+## Dictionaries
+
+https://docs.python.org/3/library/stdtypes.html#dict
+
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+
+https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
+
+https://docs.python.org/3/glossary.html#term-mapping
+https://docs.python.org/3/glossary.html#term-hashable
+
+## Sets
+
+"A set object is an unordered collection of distinct hashable objects"
+
+set, frozenset
+https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+https://docs.python.org/3/tutorial/datastructures.html#sets
+
+
+### Identity Operators (```is```/```is not```)
+
+True if same object/identify (id)
+
+```is``` 
+
+True if different object/identity (id)
+
+```is not```
+
+https://docs.python.org/3/reference/expressions.html#is
+https://docs.python.org/3/reference/expressions.html#is-not
+
+### Membership Operators
+
+```
+in
+not in
+```
+
+(built-in sequences, set types, and dictionaries)
+
+https://docs.python.org/3/reference/expressions.html#membership-test-operations
+https://docs.python.org/3/reference/expressions.html#in
+https://docs.python.org/3/reference/expressions.html#not-in
+
+### Logical Operators
+
+```
+and
+or
+not
+```
+
+### Boolean Values (See also: Logical Operators)
+
+```python
+True
+False
+```
+
+Assigning Boolean Values ("boolean values are often used to keep track of certain conditions within a program")
+
+```python
+true_value = True
+false_value = False
+```
+
+6.11. Boolean operations
+https://docs.python.org/3/reference/expressions.html#boolean-operations
+
+https://docs.python.org/3/library/stdtypes.html#boolean-values
+
+4.2. Boolean Operations — and, or, not
+https://docs.python.org/3/library/stdtypes.html#boolean-operations-and-or-not
+
+## Conditions, Comparisons
+
+5.7. More on Conditions
+https://docs.python.org/3/tutorial/datastructures.html#more-on-conditions
+
+"Chapter Objects, values and types states that objects have a value (in addition to type and identity)."
+https://docs.python.org/3/reference/expressions.html#value-comparisons
+
+6.10. Comparisons
+https://docs.python.org/3/reference/expressions.html#comparisons
+
+4.3. Comparisons
+https://docs.python.org/3/library/stdtypes.html#comparisons
+
+4.1. Truth Value Testing
+https://docs.python.org/3/library/stdtypes.html#truth-value-testing
+
+“ternary operator” have the lowest priority of all Python operations
+6.12. Conditional expressions
+https://docs.python.org/3/reference/expressions.html#conditional-expressions
+
+5.8. Comparing Sequences and Other Types
+https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
+
+## Negation (Null Object, ```None```, ```NotImplemented```)
+
+https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
+
+https://docs.python.org/3/library/stdtypes.html#the-null-object
+https://docs.python.org/3/library/stdtypes.html#the-notimplemented-object
+
+None
+https://docs.python.org/3/library/constants.html#None
+
+NotImplemented
+
 
 ## Python Code Block Examples
 
