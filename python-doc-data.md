@@ -610,133 +610,45 @@ Python structures that end blocks with a colon (:)
 * for-else statement (loop)
 * while-else statement (loop)
 * with statement
+
 * try-except-else statement
 
 Python structures that don't end blocks with a colon (:)
 * range/list comprehension functions
-
-Compound or complex statements
-
-```python
-header: 
-   suite
-header:
-   suite 
-header:
-   suite
-```
-
-           
+       
 ## Control Flow Statement Examples
 
-<!--
-https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
-https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
--->
+### Control Flow and Sequences
 
-if-elif-else statement
+for statement and sequence
 
 ```python
-if condition true:
-    action
-elif condition true:
-    action
-else:
+for item in items:
     action
 ```
 
-for-else statement
+while statement and sequence
 
 ```python
-for condition:
-    action
-else:
+while item in items:
     action
 ```
 
-while-else statement
-
-```python
-while condition true:
-    action
-else:
-    action
-```
-
-with statement
-
-```python
-with condition:
-```
-
-with-else statement
-
-```python
-
-```
 
 try-except-else statement
 
 ```python
 ```
   	 
-	 
-## Collections
-
-collections- mutability?
-
-8.3. collections — Container datatypes
-https://docs.python.org/3/library/collections.html
-
-"alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple."
-
-Container datatypes
-* namedtuple()
-* deque
-* ChainMap
-* Counter
-* OrderedDict (see example)
-* defaultdict
-* UserDict
-* UserList
-* UserString
-
-Abstract Base Classes for Containers
-* collections.abc
-
-https://docs.python.org/3/library/collections.html#collections.namedtuple	
-https://docs.python.org/3/library/collections.html#collections.OrderedDict	
-
-https://docs.python.org/3/library/collections.html#chainmap-objects
-https://docs.python.org/3/library/collections.html#chainmap-examples-and-recipes
-https://docs.python.org/3/library/collections.html#counter-objects
-https://docs.python.org/3/library/collections.html#deque-objects
-https://docs.python.org/3/library/collections.html#deque-recipes
-https://docs.python.org/3/library/collections.html#defaultdict-objects
-https://docs.python.org/3/library/collections.html#defaultdict-examples
-https://docs.python.org/3/library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields
-https://docs.python.org/3/library/collections.html#ordereddict-objects
-https://docs.python.org/3/library/collections.html#ordereddict-examples-and-recipes
-https://docs.python.org/3/library/collections.html#userdict-objects
-https://docs.python.org/3/library/collections.html#userlist-objects
-https://docs.python.org/3/library/collections.html#userstring-objects
-
-https://docs.python.org/3/glossary.html#term-abstract-base-class
-
-8.4. collections.abc — Abstract Base Classes for Containers
-https://docs.python.org/3/library/collections.abc.html
-https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
-
-29.7. abc — Abstract Base Classes
-https://docs.python.org/3/library/abc.html
-
-
+	
 ## Python and Django Control Flow
 
 3 Types of Control structures
 * true or false branch evaluation (if statement)
 * repeating while a condition is True (while loop)
 * sequential processing (for loop)
+
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
 
 
 ## if Statements
@@ -753,6 +665,16 @@ Number of statements
 https://docs.python.org/3/tutorial/controlflow.html#if-statements
 https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
 
+if-elif-else statement
+
+```python
+if condition true:
+    action
+elif condition true:
+    action
+else:
+    action
+```
 
 ## while Statements
 
@@ -761,7 +683,16 @@ Conditional test
 * if the condition does not become False, the loop runs indefinitely as an infinite loop.
 * if the while statements becomes False, the else statement, if present, is executed
 
-https://docs.python.org/3/reference/compound_stmts.html#the-while-statement
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+
+while-else statement
+
+```python
+while condition true:
+    action
+else:
+    action
+```
 
 
 ## Sequences
@@ -810,6 +741,375 @@ https://docs.python.org/3/library/stdtypes.html#iterator-types
 5.6. Looping Techniques
 https://docs.python.org/3/tutorial/datastructures.html#looping-techniques
 
+
+## for Statements
+
+What it does
+* iterates over the items of any sequence in the order in which they appear in the sequence
+* when all iteration has been completed, the else statement, if present, is executed
+
+https://docs.python.org/3/tutorial/controlflow.html#for-statements
+https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
+
+for-else statement
+
+```python
+for condition:
+    action
+else:
+    action
+```
+
+## range() Function (for Statement for Numbers)
+
+What it does
+* iterates over a sequence of numbers
+
+How
+* starts at 0 by default
+* stops one number below the number passed to it
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+
+https://docs.python.org/3/library/stdtypes.html#ranges
+
+4.3. The range() Function
+https://docs.python.org/3/tutorial/controlflow.html#the-range-function
+
+## List Comprehensions (range() function)
+
+What it does
+* a more efficient way to do a for loop
+
+5.1.3. List Comprehensions
+https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
+
+
+
+## break, continue, and pass Statements
+
+### break and continue Statements (for or while Loops), and else Clauses on Loops
+
+4.4. break and continue Statements, and else Clauses on Loops
+https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
+
+"The break statement breaks out of the innermost enclosing for or while loop."
+
+7.9. The break statement
+https://docs.python.org/3/reference/simple_stmts.html#the-break-statement
+
+"The continue statement continues with the next iteration of the (for or while) loop."
+
+7.10. The continue statement
+https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
+
+### pass Statements
+
+Nothing happens when the pass statement executes.
+
+null operation
+4.5. pass Statements
+https://docs.python.org/3/tutorial/controlflow.html#pass-statements
+7.4. The pass statement
+https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
+
+
+
+## for Statement Examples
+
+### Loop Through a List (for Statement)
+
+Print all items in a list
+
+```python
+items = []
+for item in items:
+    print(item)
+```
+
+Example
+
+```python
+numbers = [1, 2, 3, 4]
+for number in numbers:
+    print(number)
+```
+
+### Loop Through a Tuple (for Statement)
+
+Print all items in a tuple
+
+```python
+items = ()
+for item in items:
+    print(item)
+```
+
+### Loop Through a Dictionary (for Statement)
+
+Three Ways to Loop through a Dictionary
+* loop through all the key/value pairs
+* loop through all the keys
+* loop through all the values
+   
+A dictionary
+
+```python
+a_dictionary = {key: value, key: value}
+```
+
+Loop through all the key-value pairs
+
+```python
+for key, value in a_dictionary.items():
+    print(key, value)
+```
+
+Sometimes also written as
+
+```python
+for k, v in a_dictionary.items():
+    print(k, v)
+```
+
+Loop through all the keys
+
+```python
+for key in a_dictionary.keys():
+    print(key)
+```
+
+Loop through all the values
+
+```python
+for value in a_dictionary.values():
+    print(value)
+```
+
+Example of value as integer made into string
+
+```python
+for value in a_dictionary.values():
+    print(str(value))
+```
+
+### Loop Versus List Comprehension- Squared Numbers Example
+
+Use a loop to generate a list of squared numbers
+
+```python
+squares = []
+for i in range(1, 20): 
+    square = i**2
+    squares.append(square)
+print(squares)
+```
+
+Similar
+
+```python
+squares = []
+for i in range(1, 20): 
+    squares.append(i**2)
+print(squares)
+```
+
+Use a list comprehension to generate a list of squared numbers
+
+```python
+squares = [i**2 for i in range(1, 20)]
+print(squares)
+```
+
+### Loop Versus List Comprehension- Convert List of Names to Upper Case
+
+Use a loop to convert a list of names to upper case
+
+```python
+names = ['name1', 'name2', 'name3']
+
+upper_names = []
+for name in names:
+    upper_names.append(name.upper())
+```
+
+Use a list comprehension to convert a list of names to upper case
+
+```python
+names = ['name1', 'name2', 'name3']
+
+upper_names = [name.upper() for name in names]
+```
+
+
+## for Statement Alternatives
+
+* list comprehension (see above)
+* map function
+* generator expressions
+
+## List Comprehensions (range() function)
+
+Two Types of Listed Comprehensions
+* List Comprehensions
+* Nested List Comprehensions
+
+## Nested List Comprehensions
+
+matrix?
+5.1.4. Nested List Comprehensions
+https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions
+
+## Built-In Function- ```map()```
+
+Return an iterator that applies function to every item of iterable, yielding the results. see itertools.starmap().
+
+```map()```
+
+https://docs.python.org/3/library/functions.html#map
+https://docs.python.org/3/library/itertools.html#itertools.starmap
+
+
+## Generators
+
+https://docs.python.org/3/glossary.html#term-generator
+
+Types
+https://docs.python.org/3/library/stdtypes.html#iterator-types
+https://docs.python.org/3/library/stdtypes.html#generator-types
+
+Classes
+9.8. Iterators
+https://docs.python.org/3/tutorial/classes.html#iterators
+9.9. Generators
+https://docs.python.org/3/tutorial/classes.html#generators
+9.10. Generator Expressions
+https://docs.python.org/3/tutorial/classes.html#generator-expressions
+
+## Generator Expression
+
+https://docs.python.org/3/glossary.html#term-generator-expression
+
+https://docs.python.org/3/reference/expressions.html#generator-expressions
+
+## Asynchronous Generator
+
+https://docs.python.org/3/reference/expressions.html#asynchronous-generator-functions
+https://docs.python.org/3/reference/expressions.html#asynchronous-generator-iterator-methods
+
+## Generator Iterator
+
+https://docs.python.org/3/glossary.html#term-generator-iterator
+https://docs.python.org/3/reference/expressions.html#generator-iterator-methods
+https://docs.python.org/3/reference/expressions.html#examples
+
+## yield Statements (used with a generator function or asynchronous generator function)
+
+https://docs.python.org/3/reference/expressions.html#yield-expressions
+
+7.7. The yield statement
+https://docs.python.org/3/reference/simple_stmts.html#the-yield-statement
+
+## Coroutines
+
+async/await
+Similar to generator iterator
+
+https://docs.python.org/3/reference/datamodel.html#coroutines
+https://docs.python.org/3/reference/compound_stmts.html#coroutines
+
+https://docs.python.org/3/reference/expressions.html#await-expression
+
+https://docs.python.org/3/reference/compound_stmts.html#coroutine-function-definition
+https://docs.python.org/3/reference/compound_stmts.html#the-async-for-statement
+https://docs.python.org/3/reference/compound_stmts.html#the-async-with-statement
+
+Data Model
+https://docs.python.org/3/reference/datamodel.html#awaitable-objects
+https://docs.python.org/3/reference/datamodel.html#coroutine-objects
+https://docs.python.org/3/reference/datamodel.html#asynchronous-iterators
+https://docs.python.org/3/reference/datamodel.html#asynchronous-context-managers
+
+
+## Lambda Expressions
+
+4.7.5. Lambda Expressions
+https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions
+6.13. Lambdas
+https://docs.python.org/3/reference/expressions.html#lambda
+
+
+## with Statements
+
+8.5. The with statement
+https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
+
+https://docs.python.org/3/reference/compound_stmts.html#with
+
+with statement
+
+```python
+with condition:
+```
+
+### Context Manager (with Statement)
+
+4.11. Context Manager Types
+https://docs.python.org/3/library/stdtypes.html#context-manager-types
+
+https://docs.python.org/3/reference/datamodel.html#context-managers
+
+30.7. contextlib — Utilities for with-statement contexts
+
+https://docs.python.org/3/library/contextlib.html
+https://docs.python.org/3/library/contextlib.html#utilities
+https://docs.python.org/3/library/contextlib.html#examples-and-recipes
+https://docs.python.org/3/library/contextlib.html#supporting-a-variable-number-of-context-managers
+https://docs.python.org/3/library/contextlib.html#catching-exceptions-from-enter-methods
+https://docs.python.org/3/library/contextlib.html#cleaning-up-in-an-enter-implementation
+https://docs.python.org/3/library/contextlib.html#replacing-any-use-of-try-finally-and-flag-variables
+https://docs.python.org/3/library/contextlib.html#using-a-context-manager-as-a-function-decorator
+https://docs.python.org/3/library/contextlib.html#single-use-reusable-and-reentrant-context-managers
+https://docs.python.org/3/library/contextlib.html#reentrant-context-managers
+https://docs.python.org/3/library/contextlib.html#reusable-context-managers
+
+
+
+## Built-In Functions- Range
+
+Return a slice object representing the set of indices specified by range(start, stop, step). See itertools.islice() for an alternate version that returns an iterator.
+
+```slice()```
+
+https://docs.python.org/3.7/library/itertools.html#itertools.islice
+
+## Built-In Looping Functions- Dictionary
+
+dictionary views
+"The objects returned by dict.keys(), dict.values() and dict.items() are view objects. They provide a dynamic view on the dictionary’s entries, which means that when the dictionary changes, the view reflects these changes."
+https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects
+
+Dictionaries
+
+```items()```
+
+https://docs.python.org/3/library/stdtypes.html#dict.items
+
+### More dictionary helpers
+
+* try statement
+* get method
+* dict.setdefault
+* collections.defaultdict
+
+Dictionary alternatives
+https://docs.python.org/3/reference/compound_stmts.html#try
+https://wiki.python.org/moin/KeyError
+
+https://docs.python.org/3/library/stdtypes.html#dict.get
+
+https://docs.python.org/3/library/stdtypes.html#dict.setdefault
+https://docs.python.org/3/library/collections.html#collections.defaultdict
 
 ## Built-In Functions- Data Sequence/Iterator
 
@@ -891,222 +1191,54 @@ Make an iterator that aggregates elements from each of the iterables. Returns an
 https://docs.python.org/3/library/functions.html#zip
 
 
-## for Statements
-
-What it does
-* iterates over the items of any sequence in the order in which they appear in the sequence
-* when all iteration has been completed, the else statement, if present, is executed
-
-https://docs.python.org/3/tutorial/controlflow.html#for-statements
-https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
-
-
-## break and continue Statements (for or while Loops), and else Clauses on Loops
-
-4.4. break and continue Statements, and else Clauses on Loops
-https://docs.python.org/3/tutorial/controlflow.html#break-and-continue-statements-and-else-clauses-on-loops
-
-"The break statement breaks out of the innermost enclosing for or while loop."
-
-7.9. The break statement
-https://docs.python.org/3/reference/simple_stmts.html#the-break-statement
-
-"The continue statement continues with the next iteration of the (for or while) loop."
-
-7.10. The continue statement
-https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
-
-## pass Statements
-
-Nothing happens when the pass statement executes.
-
-null operation
-4.5. pass Statements
-https://docs.python.org/3/tutorial/controlflow.html#pass-statements
-7.4. The pass statement
-https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
-
-
-## range() Function (for Statement for Numbers)
-
-What it does
-* iterates over a sequence of numbers
-
-How
-* starts at 0 by default
-* stops one number below the number passed to it
-
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-
-https://docs.python.org/3/library/stdtypes.html#ranges
-
-4.3. The range() Function
-https://docs.python.org/3/tutorial/controlflow.html#the-range-function
-
-## Built-In Functions- Range
-
-Return a slice object representing the set of indices specified by range(start, stop, step). See itertools.islice() for an alternate version that returns an iterator.
-
-```slice()```
-
-https://docs.python.org/3.7/library/itertools.html#itertools.islice
-
-
-## for Statement Alternatives
-
-* list comprehension
-* map function
-* generator expressions
-
-## List Comprehensions (range function)
-
-What it does
-* a more efficient way to do a for loop
-
-Two Types of Listed Comprehensions
-* List Comprehensions
-* Nested List Comprehensions
-
-5.1.3. List Comprehensions
-https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
-
-## Nested List Comprehensions
-
-matrix?
-5.1.4. Nested List Comprehensions
-https://docs.python.org/3/tutorial/datastructures.html#nested-list-comprehensions
-
-## Built-In Function- ```map()```
-
-Return an iterator that applies function to every item of iterable, yielding the results. see itertools.starmap().
-
-```map()```
-
-https://docs.python.org/3/library/functions.html#map
-https://docs.python.org/3/library/itertools.html#itertools.starmap
-
-## Generators
-
-https://docs.python.org/3/glossary.html#term-generator
-
-Types
-https://docs.python.org/3/library/stdtypes.html#iterator-types
-https://docs.python.org/3/library/stdtypes.html#generator-types
-
-Classes
-9.8. Iterators
-https://docs.python.org/3/tutorial/classes.html#iterators
-9.9. Generators
-https://docs.python.org/3/tutorial/classes.html#generators
-9.10. Generator Expressions
-https://docs.python.org/3/tutorial/classes.html#generator-expressions
-
-## Generator Expression
-
-https://docs.python.org/3/glossary.html#term-generator-expression
-
-https://docs.python.org/3/reference/expressions.html#generator-expressions
-
-## Asynchronous Generator
-
-https://docs.python.org/3/reference/expressions.html#asynchronous-generator-functions
-https://docs.python.org/3/reference/expressions.html#asynchronous-generator-iterator-methods
-
-## Generator Iterator
-
-https://docs.python.org/3/glossary.html#term-generator-iterator
-https://docs.python.org/3/reference/expressions.html#generator-iterator-methods
-https://docs.python.org/3/reference/expressions.html#examples
-
-## yield Statements (used with a generator function or asynchronous generator function)
-
-https://docs.python.org/3/reference/expressions.html#yield-expressions
-
-7.7. The yield statement
-https://docs.python.org/3/reference/simple_stmts.html#the-yield-statement
-
-## Coroutines
-
-async/await
-Similar to generator iterator
-
-https://docs.python.org/3/reference/datamodel.html#coroutines
-https://docs.python.org/3/reference/compound_stmts.html#coroutines
-
-https://docs.python.org/3/reference/expressions.html#await-expression
-
-https://docs.python.org/3/reference/compound_stmts.html#coroutine-function-definition
-https://docs.python.org/3/reference/compound_stmts.html#the-async-for-statement
-https://docs.python.org/3/reference/compound_stmts.html#the-async-with-statement
-
-Data Model
-https://docs.python.org/3/reference/datamodel.html#awaitable-objects
-https://docs.python.org/3/reference/datamodel.html#coroutine-objects
-https://docs.python.org/3/reference/datamodel.html#asynchronous-iterators
-https://docs.python.org/3/reference/datamodel.html#asynchronous-context-managers
-
-
-## Built-In Looping Functions- Dictionary
-
-dictionary views
-"The objects returned by dict.keys(), dict.values() and dict.items() are view objects. They provide a dynamic view on the dictionary’s entries, which means that when the dictionary changes, the view reflects these changes."
-https://docs.python.org/3/library/stdtypes.html#dictionary-view-objects
-
-Dictionaries
-
-```items()```
-
-https://docs.python.org/3/library/stdtypes.html#dict.items
-
-More dictionary helpers
-* try statement
-* get method
-* dict.setdefault
-* collections.defaultdict
-
-Dictionary alternatives
-https://docs.python.org/3/reference/compound_stmts.html#try
-https://wiki.python.org/moin/KeyError
-
-https://docs.python.org/3/library/stdtypes.html#dict.get
-
-https://docs.python.org/3/library/stdtypes.html#dict.setdefault
-https://docs.python.org/3/library/collections.html#collections.defaultdict
-
-
-## Lambda Expressions
-
-4.7.5. Lambda Expressions
-https://docs.python.org/3/tutorial/controlflow.html#lambda-expressions
-6.13. Lambdas
-https://docs.python.org/3/reference/expressions.html#lambda
-
-
-## with Statements
-
-8.5. The with statement
-https://docs.python.org/3/reference/compound_stmts.html#the-with-statement
-
-https://docs.python.org/3/reference/compound_stmts.html#with
-
-4.11. Context Manager Types
-https://docs.python.org/3/library/stdtypes.html#context-manager-types
-
-https://docs.python.org/3/reference/datamodel.html#context-managers
-
-30.7. contextlib — Utilities for with-statement contexts
-
-https://docs.python.org/3/library/contextlib.html
-https://docs.python.org/3/library/contextlib.html#utilities
-https://docs.python.org/3/library/contextlib.html#examples-and-recipes
-https://docs.python.org/3/library/contextlib.html#supporting-a-variable-number-of-context-managers
-https://docs.python.org/3/library/contextlib.html#catching-exceptions-from-enter-methods
-https://docs.python.org/3/library/contextlib.html#cleaning-up-in-an-enter-implementation
-https://docs.python.org/3/library/contextlib.html#replacing-any-use-of-try-finally-and-flag-variables
-https://docs.python.org/3/library/contextlib.html#using-a-context-manager-as-a-function-decorator
-https://docs.python.org/3/library/contextlib.html#single-use-reusable-and-reentrant-context-managers
-https://docs.python.org/3/library/contextlib.html#reentrant-context-managers
-https://docs.python.org/3/library/contextlib.html#reusable-context-managers
+## Collections
+
+collections- mutability?
+
+8.3. collections — Container datatypes
+https://docs.python.org/3/library/collections.html
+
+"alternatives to Python’s general purpose built-in containers, dict, list, set, and tuple."
+
+Container datatypes
+* namedtuple()
+* deque
+* ChainMap
+* Counter
+* OrderedDict (see example)
+* defaultdict
+* UserDict
+* UserList
+* UserString
+
+Abstract Base Classes for Containers
+* collections.abc
+
+https://docs.python.org/3/library/collections.html#collections.namedtuple	
+https://docs.python.org/3/library/collections.html#collections.OrderedDict	
+
+https://docs.python.org/3/library/collections.html#chainmap-objects
+https://docs.python.org/3/library/collections.html#chainmap-examples-and-recipes
+https://docs.python.org/3/library/collections.html#counter-objects
+https://docs.python.org/3/library/collections.html#deque-objects
+https://docs.python.org/3/library/collections.html#deque-recipes
+https://docs.python.org/3/library/collections.html#defaultdict-objects
+https://docs.python.org/3/library/collections.html#defaultdict-examples
+https://docs.python.org/3/library/collections.html#namedtuple-factory-function-for-tuples-with-named-fields
+https://docs.python.org/3/library/collections.html#ordereddict-objects
+https://docs.python.org/3/library/collections.html#ordereddict-examples-and-recipes
+https://docs.python.org/3/library/collections.html#userdict-objects
+https://docs.python.org/3/library/collections.html#userlist-objects
+https://docs.python.org/3/library/collections.html#userstring-objects
+
+https://docs.python.org/3/glossary.html#term-abstract-base-class
+
+8.4. collections.abc — Abstract Base Classes for Containers
+https://docs.python.org/3/library/collections.abc.html
+https://docs.python.org/3/library/collections.abc.html#collections-abstract-base-classes
+
+29.7. abc — Abstract Base Classes
+https://docs.python.org/3/library/abc.html
 
 
 ## Functional Programming: itertools, functools, and operator
