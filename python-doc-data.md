@@ -893,6 +893,64 @@ for value in a_dictionary.values():
     print(str(value))
 ```
 
+### range() Function Examples (for Statement)
+
+Print the numbers 0 to 1000
+
+```python
+for number in range(1001):
+    print(number)
+```
+
+Print the numbers 1 to 1000
+
+```python
+for number in range(1, 1001):
+    print(number)
+```
+
+Generate a million dictionaries using a for loop
+
+```python
+items = []
+
+for item_number in range(1000000):
+    new_item = {}
+    new_item[key] = value
+    items.append(new_item)
+
+number_of_items = len(items)
+
+print(number_of_items)
+```
+
+Make a list of numbers from 1 to a million
+
+```python
+numbers = list(range(1, 1000001))
+```
+
+### range() Function Versus List Comprehension (for Statement)
+
+range() function
+
+```python
+for i in range():
+    action
+```
+
+List comprehensions
+
+```python
+list = [action for i in range()]
+```
+
+```python
+list = [value, value, value]
+
+new_list = [list.action() for items in list]
+```
+
 ### Loop Versus List Comprehension- Squared Numbers Example
 
 Use a loop to generate a list of squared numbers
