@@ -3,23 +3,15 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
-https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
+## My Aggregation
 
-https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
-http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
+Stars
+* [Astral App](https://astralapp.com)
 
-* Atomic Habits
-* Deep Work
-* Checklist Manifestof
-* Maker's Schedule/Manager's Schedule
+Nuzzel
+* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
+* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
 
-https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
-
-http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
-
-
-http://www.collaborativefund.com/blog
-https://search.firstround.com/lists
 
 https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
 
@@ -29,8 +21,20 @@ https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Pas
 https://anchor.fm/ | Anchor - The easiest way to make a podcast
 
 
-https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
+http://www.collaborativefund.com/blog
+https://search.firstround.com/lists
 
+
+* Prioritization
+* Atomic Habits
+* Deep Work
+* Checklist Manifesto
+* Maker's Schedule/Manager's Schedule
+
+https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
+http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
+
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
 
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
@@ -40,22 +44,15 @@ https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-per
 
 https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 
-
-https://pioneer.app/leaderboard | Leaderboard | Pioneer
-
-https://twitter.com/sama/status/1337464959408754691 | Sam Altman on Twitter: "Fun game: what tiny/nonexistent markets today will be trillion dollar markets in 10-20 years?" / Twitter
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
 
-Teams
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
-https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
-
-
 ## Learning
+
+http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
 
 Learning mental models
 https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
@@ -74,7 +71,6 @@ https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
 https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
 https://mobile.twitter.com/edortizv/status/1250241717481201664
 
-Prioritization
 
 Important
 https://sive.rs/srs | Memorizing a programming language using spaced repetition software | Derek Sivers
@@ -86,66 +82,9 @@ https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twi
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 
-## My Aggregation
-
-Stars
-* [Astral App](https://astralapp.com)
-
-Nuzzel
-* [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
-* [Friends' Feeds](https://nuzzel.com/friendsfeeds)
-
-
-## Fun Open Source Stuff
-
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-Jeff
-https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
-
-Checkbox Art/ASCII Art
-https://twitter.com/realpython/status/1004811256560324608 | Real Python on Twitter: "Create beautiful ASCII art with just three lines of Python... import ascii output = ascii.loadFromUrl("https://t.co/B9glpiP0G2") print(output) (Thanks for this Dave Graton) #python #computerscience #DataScience #pythontips #pythontricks… https://t.co/pJAN2dvyjb"
-
-
-## DevRel
-
-Great Talk
-https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
-
-https://www.devrelcon.net/
-https://2018.devrelawards.com/
-
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-https://twitter.com/i/lists/1293027363723214848/members
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-https://developer.microsoft.com/en-us/advocates/
-https://github.com/MicrosoftDocs/cloud-developer-advocates | MicrosoftDocs/cloud-developer-advocates
-
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-GitLab
-https://about.gitlab.com/handbook/marketing/community-relations/evangelist-program/
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
-
-https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
-
-https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
-
-
 ## People and Places
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 https://freestateforge.com/map
 
@@ -169,11 +108,6 @@ https://us.pycon.org/2020/schedule/talks/
 https://techyaks.com/python-year-tytop.html
 https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
-
-
 https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
 https://github.com/matteofigus/awesome-speaking
 Vicky's resources
@@ -194,39 +128,10 @@ https://www.flaticon.com/
 https://www.freepik.com/
 https://stories.forpeople.studio/
 
-
-### Community
-
-https://cmxhub.com/ | Home | CMX
-https://awards.cmxhub.com/ | CMX
-https://leaddev.com/
-
-Lead Dev
-https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
-https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
-https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
-https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
-
-https://tessakriesel.com
-https://devocate.com/
-https://www.thedevelopermindset.com/
-
-https://twitter.com/ashevat
-https://medium.com/@ashevat | Amir Shevat – Medium
-https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
-
-Roadmap
-https://medium.com/@ashevat/amir-4-4-release-notes-aka-44-0404-2020-1504a3d6b929
-
-
-Dantley
-https://twitter.com/dantley/status/1337550168980217856 | Dantley Davis on Twitter: "I love working with people with windy roads to design, those who are misfits, trouble makers, and challenge the status quo. We are punk rock. Hip hop. I’m inspired by those who rage against the machine. Together we’ll make a better Twitter and a better Internet." / Twitter
-
-https://twitter.com/jonafato/status/1270806946971557888 | Jon Banafato on Twitter: "Conference organizers open chat tonight at 9PM EDT. Drop in to talk about running events or even just to distract yourself from the world for a couple hours." / Twitter
+https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
 
 
 ## Community
-
 
 Talks
 https://twitter.com/simonw/status/1300193439573708800
@@ -262,69 +167,19 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 -->
 
 <!--
-## Portfolio Ideas
+## Fun Open Source Stuff
 
-Neat layout
-http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
+Kenneth
+https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
 
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+Jeff
+https://github.com/slashsBin/styleguide-git-commit-message | slashsBin/styleguide-git-commit-message: /sBin/StyleGuide/Git/CommitMessage
 
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
+https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
+http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
 
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
-
-Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Frontend Bootcamp teacher Jenn... great at it
-
-Awesome
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-Awesome talk
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-https://www.simple.org/ | Home Simple
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Reminds me of Jessica Rose
-https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
-
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
+Checkbox Art/ASCII Art
+https://twitter.com/realpython/status/1004811256560324608 | Real Python on Twitter: "Create beautiful ASCII art with just three lines of Python... import ascii output = ascii.loadFromUrl("https://t.co/B9glpiP0G2") print(output) (Thanks for this Dave Graton) #python #computerscience #DataScience #pythontips #pythontricks… https://t.co/pJAN2dvyjb"
 -->
 
 <!--
@@ -381,241 +236,7 @@ Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
 
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
-
-
-## Social Media
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
 -->
-
-
-<!--
-## Look Through
-
-DevICT
-https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
-
-DevICT
-https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
-
-Game Off
-https://2020game.io/ | 2020 Game
-https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
-https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
-
-https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
-
-Recommended
-https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
-https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
-
-Game Simulation
-https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
-
-https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
-
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
-
-Product Sprint
-https://github.com/google/software-product-sprint | google/software-product-sprint
-
-Interesting
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-
-Important- Engineering Orgs
-https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
-https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
-
-Important
-https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
-
-https://rcstyleguide.com/ | The Responsible Communication Style Guide
-
-https://www.plainlanguage.gov/ | Home | plainlanguage.gov
-https://www.plainlanguage.gov/guidelines/ | Federal plain language guidelines | plainlanguage.gov
-
-https://github.com/divio/user-handbook | divio/user-handbook
-
-https://opencollective.com/open-web-docs/updates/introducing-open-web-docs | Open Web Docs - Open Collective
-https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
-
-https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
-nbdev
-https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
-
-https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
-
-
-
-
-Ideas
-https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-https://github.com/facebook/create-react-app
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-https://codepen.io/2020/popular/pens/10
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-https://twitter.com/jessicahische/status/1343614261277282306
-https://stylestage.dev/styles/floral-vibes/
-
-https://www.atlassian.com/agile/product-management/requirements
-
-
-Blogs
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
-https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
-
-
-
-http://inventwithpython.com/beyond/
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-Tailwind
-https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
-https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
-https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
-
-https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
-
-https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
-
-http://meowni.ca/posts/emoji-emoji-emoji/
-
-
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
-
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://github.com/webpro/programming-principles
-
-https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
-
-https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
-
-
-Mac
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-
-https://applitools.com/
-
-API
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-
-https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
-
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-vscode html css support
-Docs driven dev
-Divio Docs, GitHub Docs
-Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
-Pre-mortem and Postmortem
-Unix and bash
-
-GraphQL
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
-
-https://devcenter.heroku.com/articles/platform-api-reference
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-
-
-CI
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-
-https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
-
-https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
-
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
-
-
-Mac Scrips
-https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
--->
-
 
 <!--
 ## Security
@@ -817,17 +438,6 @@ https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A 
 -->
 
 <!--
-Jane
-https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
-
-Luke
-https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
-
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
 Feross
 https://www.youtube.com/watch?v=XTcqlOFhpPI
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
@@ -1079,6 +689,304 @@ https://github.com/carljm/dotfiles
 
 
 
+<!--
+## Look Through
+
+Recommended
+https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
+https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
+
+Game Simulation
+https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
+
+Great Talk
+https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
+
+DevICT
+https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+
+DevICT
+https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
+
+Game Off
+https://2020game.io/ | 2020 Game
+https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
+https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
+
+https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
+Blogs
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
+
+Interesting
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+Important- Engineering Orgs
+https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+
+Important
+https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
+
+Jane
+https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+## Portfolio Ideas
+
+Neat layout
+http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
+
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
+
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
+
+Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+Frontend Bootcamp teacher Jenn... great at it
+
+Awesome
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+Awesome talk
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+https://www.simple.org/ | Home Simple
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Reminds me of Jessica Rose
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
+-->
+
+
+
+<!--
+https://rcstyleguide.com/ | The Responsible Communication Style Guide
+
+https://www.plainlanguage.gov/ | Home | plainlanguage.gov
+https://www.plainlanguage.gov/guidelines/ | Federal plain language guidelines | plainlanguage.gov
+
+https://github.com/divio/user-handbook | divio/user-handbook
+
+https://opencollective.com/open-web-docs/updates/introducing-open-web-docs | Open Web Docs - Open Collective
+https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
+
+https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
+nbdev
+https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
+
+https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
+
+
+
+
+Ideas
+https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+https://github.com/facebook/create-react-app
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+https://codepen.io/2020/popular/pens/10
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+https://twitter.com/jessicahische/status/1343614261277282306
+https://stylestage.dev/styles/floral-vibes/
+
+
+
+
+http://inventwithpython.com/beyond/
+
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
+
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
+Tailwind
+https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
+https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
+
+
+https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
+
+http://meowni.ca/posts/emoji-emoji-emoji/
+
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://github.com/webpro/programming-principles
+
+https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+
+
+Mac
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
+
+
+https://applitools.com/
+
+API
+https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+
+https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://docs.python.org/3/library/sqlite3.html
+
+https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+vscode html css support
+Docs driven dev
+Divio Docs, GitHub Docs
+Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+Pre-mortem and Postmortem
+Unix and bash
+
+GraphQL
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
+https://devcenter.heroku.com/articles/platform-api-reference
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+
+
+CI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+
+https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
+https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
+
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
+
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+
+Mac Scrips
+https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+-->
+
+
 ## Project Management and Roadmaps
 
 * [GitHub Roadmap](https://github.com/github/roadmap)
@@ -1216,6 +1124,36 @@ https://www.ansible.com/resources/webinars-training/how-to-make-ansible-communit
 https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
 -->
 
+<!--
+## Websites
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
+
+Nice site!
+https://github.com/nodejs/nodejs.dev
+https://github.com/yarnpkg/website
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+-->
+
+
 ## Agile and DevOps
 
 Atlassian Agile
@@ -1329,6 +1267,10 @@ http://sijinjoseph.com/programmer-competency-matrix/
 
 software development competency framework
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+Teams
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
 -->
 
 ## Shortcuts
@@ -2039,6 +1981,62 @@ https://dev.to/salesforcedevs/
 https://dev.to/heroku/
 -->
 
+
+
+<!--
+https://www.devrelcon.net/
+https://2018.devrelawards.com/
+
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
+https://twitter.com/i/lists/1293027363723214848/members
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
+
+https://developer.microsoft.com/en-us/advocates/
+https://github.com/MicrosoftDocs/cloud-developer-advocates | MicrosoftDocs/cloud-developer-advocates
+
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+GitLab
+https://about.gitlab.com/handbook/marketing/community-relations/evangelist-program/
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
+
+https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
+
+https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
+-->
+
+<!--
+### Community
+
+https://cmxhub.com/ | Home | CMX
+https://awards.cmxhub.com/ | CMX
+https://leaddev.com/
+
+Lead Dev
+https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
+https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
+https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
+https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
+
+https://tessakriesel.com
+https://devocate.com/
+https://www.thedevelopermindset.com/
+
+https://twitter.com/ashevat
+https://medium.com/@ashevat | Amir Shevat – Medium
+https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
+
+Roadmap
+https://medium.com/@ashevat/amir-4-4-release-notes-aka-44-0404-2020-1504a3d6b929
+-->
 
 ## Streaming
 
@@ -3010,27 +3008,6 @@ http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
-
-<!--
-## Websites
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-https://github.com/yarnpkg/website
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
 
 <!--
 Regex
@@ -5635,8 +5612,9 @@ Books- Management and Scaling
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
+
+https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
 
 Marty Cagan Inspired
 
@@ -5902,6 +5880,8 @@ Books- Work Methods
 * [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
 
 <!--
+https://twitter.com/peterpham/status/954467551538393089 | Peter Pham on Twitter: "The thing is you can't confuse hard work with results. I don't care if you are in the office 1hr a week if you get results.… https://t.co/dzwaxcWv77"
+
 https://www.amazon.com/Indistractable-Control-Your-Attention-Choose-ebook/dp/B07PG2W6DC/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1597704118&sr=8-1-spons | Amazon.com: Indistractable: How to Control Your Attention and Choose Your Life eBook: Eyal, Nir: Kindle Store
 
 https://twitter.com/kathleencodes/status/1212945670849490945 | Kathleen Vignos on Twitter: "I’m finding Deep Work by Cal Newport an excellent new year’s read. 4 approaches for deep concentration: 1/Monastic: only deep work 2/Bimodal: short retreats or seasons 3/Rhythmic: daily regular habit 4/Journalistic: alternating betw deep &amp; shallow thru the day. I use # 2; you?" / Twitter
@@ -5947,19 +5927,6 @@ https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/gui
 https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
 
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
--->
-
-
-## Checklists
-
-<!--
-https://zapier.com/blog/the-checklist-manifesto/
-
-The Checklist Manifesto: How to Get Things Right, Atul Gawande
-https://www.amazon.com/dp/B0030V0PEW
-
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 -->
 
 ## Distribution
@@ -6084,8 +6051,6 @@ https://twitter.com/naval/status/1129483486081966080 | Naval on Twitter: "https:
 
 https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 
-https://patrickcollison.com/fast | Fast · Patrick Collison
-
 https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
 
 FreshBooks: Breaking the Time Barrier
@@ -6120,6 +6085,13 @@ https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue
 
 https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
 https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
+
+https://pioneer.app/leaderboard | Leaderboard | Pioneer
+
+https://twitter.com/sama/status/1337464959408754691 | Sam Altman on Twitter: "Fun game: what tiny/nonexistent markets today will be trillion dollar markets in 10-20 years?" / Twitter
+
+https://patrickcollison.com/fast | Fast · Patrick Collison
+https://twitter.com/patrickc/status/1116007791905214464 | Patrick Collison on Twitter: "What are the best examples of organizations that consistently execute substantially faster than those around them? (The C.C. Myers of other industries: https://t.co/jWvvv15DTp.)… https://t.co/FA7qit6yMr"
 -->
 
 ## Makers
@@ -6356,6 +6328,18 @@ https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles
 https://en.wikipedia.org/wiki/In_Search_of_Excellence#Themes | In Search of Excellence - Wikipedia
 -->
 
+## Checklists
+
+<!--
+https://zapier.com/blog/the-checklist-manifesto/
+
+The Checklist Manifesto: How to Get Things Right, Atul Gawande
+https://www.amazon.com/dp/B0030V0PEW
+
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
+-->
+
 ## Speed Reading and Memory
 
 Memory Methods
@@ -6435,14 +6419,7 @@ https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communicat
 https://fs.blog/2015/03/carol-dweck-mindset/
 -->
 
-## How to Live
-
-Seneca the Younger
-* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
-* [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
-* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
-* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
-* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+## Tools
 
 Tim Ferris
 * [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
@@ -6452,9 +6429,6 @@ Tim Ferris
 * [Tim Ferris Instagram](https://www.instagram.com/timferriss)
 
 <!--
-https://fourminutebooks.com/the-courage-to-be-disliked-summary/
-https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
-
 Tools of Titans
 http://tim.blog/2017/01/25/tools-of-titans-index/
 https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
@@ -6473,6 +6447,20 @@ http://vagabonding.net
 https://en.wikipedia.org/wiki/Rolf_Potts
 https://en.wikipedia.org/wiki/The_Graveyard_Book
 https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
+-->
+
+## Life Lessons
+
+Seneca the Younger
+* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+* [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
+* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
+* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
+* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+
+<!--
+https://fourminutebooks.com/the-courage-to-be-disliked-summary/
+https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
 -->
 
 ## Health and Well Being
