@@ -1,8 +1,6 @@
 # Python Doc- Basic
 
 <!--
-https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
-
 1.2. Notation
 https://docs.python.org/3/reference/introduction.html#notation
 
@@ -40,6 +38,22 @@ https://docs.python.org/3/reference/lexical_analysis.html#line-structure
 https://docs.python.org/3/reference/lexical_analysis.html#other-tokens
 https://docs.python.org/3/reference/lexical_analysis.html#identifiers
 
+## Method Resolution Order
+
+Method Resolution Order
+* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
+* [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
+* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+
+MRO
+http://python-history.blogspot.com/2010/06/method-resolution-order.html
+https://docs.python.org/3/library/stdtypes.html#class.__mro__
+
+New Style
+https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
+https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
+http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+
 ## Data Model
 
 https://docs.python.org/3/reference/datamodel.html#implementing-descriptors
@@ -62,21 +76,14 @@ https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types
 https://docs.python.org/3/reference/datamodel.html#with-statement-context-managers
 https://docs.python.org/3/reference/datamodel.html#special-method-lookup
 
-## Method Resolution Order
+## Useful
 
-Method Resolution Order
-* [C3 Linearization Wikipedia](https://en.wikipedia.org/wiki/C3_linearization)
-* [Multiple Inheritance Wikipedia](https://en.wikipedia.org/wiki/Multiple_inheritance)
-* [The Python 2.3 Method Resolution Order](https://www.python.org/download/releases/2.3/mro)
+https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 
-MRO
-http://python-history.blogspot.com/2010/06/method-resolution-order.html
-https://docs.python.org/3/library/stdtypes.html#class.__mro__
+https://docs.python.org/3/library/functions.html#built-in-funcs
 
-New Style
-https://www.python.org/doc/newstyle/ | New-style Classes | Python.org
-https://docs.python.org/2/glossary.html#term-new-style-class | Glossary — Python 2.7.16 documentation
-http://python-history.blogspot.com/2010/06/inside-story-on-new-style-classes.html
+https://docs.python.org/3/reference/expressions.html#operator-precedence
+
 
 ## Standard
 
@@ -96,13 +103,12 @@ https://docs.python.org/3/library/stdtypes.html#other-built-in-types
 https://docs.python.org/3/library/functions.html | Built-in Functions — Python 3.8.3 documentation
 
 https://docs.python.org/3/library/builtins.html
-https://docs.python.org/3/library/functions.html#built-in-funcs
 https://docs.python.org/3/library/constants.html#built-in-consts
 
 
+https://docs.python.org/3/reference/expressions.html
 https://docs.python.org/3/reference/expressions.html#expression-lists
 https://docs.python.org/3/reference/simple_stmts.html#expression-statements
-https://docs.python.org/3/reference/expressions.html
 
 https://docs.python.org/3/tutorial/modules.html#standard-modules
 
