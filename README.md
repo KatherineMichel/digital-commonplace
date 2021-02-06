@@ -1045,7 +1045,6 @@ Git Scraping
 https://twitter.com/simonw/status/1314654153646383104
 -->
 
-
 <!--
 Hynek Schlawack
 https://hynek.me/talks/python-foss/
@@ -1076,6 +1075,214 @@ https://www.oddbird.net/talks/set-your-code-free/
 
 https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
+-->
+
+
+
+## Project Management and Roadmaps
+
+* [GitHub Roadmap](https://github.com/github/roadmap)
+* [Twitter Developer Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap)
+
+<!--
+Project Management
+https://opensource.com/business/15/11/open-development-method
+
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+GitHub and Twitter Roadmaps
+https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
+
+Slack Roadmap
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+Asana
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
+https://github.com/vuejs/vue/projects/6
+
+https://redwoodjs.com/roadmap
+https://github.com/11ty/eleventy#major-roadmapped-features
+
+Gumroad Roadmap
+https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
+-->
+
+## Launch
+
+<!--
+https://github.com/github/docs
+
+Launch Story
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+-->
+
+## Product and Marketing
+
+Interesting Curated Learning Resources- Product Management, Marketing, and Sales
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+<!--
+List of top product management article links
+
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://www.sideprojectchecklist.com/ | Side Project Checklist
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+-->
+
+## Case Studies
+
+<!--
+Simon
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Next
+https://nextjs.org/showcase | Showcase | Next.js
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
+https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
+
+Redwood/React
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+
+Redwood JS
+https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
+https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
+https://twitter.com/mojombo/status/1313572403595759616
+https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter: "✨ Today at 1pm PST ✨ @mojombo and members of the @redwoodjs core team are live-streaming a Fireside chat during the JS Bootcamp Olympics. Free and Everyone’s invited! https://t.co/i8YLrsj00l" / Twitter
+https://twitter.com/mojombo/status/1329097078102913025 | Tom Preston-Werner on Twitter: "5k stars! @RedwoodJS is picking up steam and getting close to a 1.0 release. Watch the video tutorial today! https://t.co/JasJrDNacj" / Twitter
+https://dev.to/ajcwebdev/my-redwood-js-history-3kdp | my redwood.js history - DEV Community 👩‍💻👨‍💻
+
+Ghost
+https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
+https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
+https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
+
+Cosmic
+https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
+https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
+https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
+
+Cosmic
+https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
+
+Jake
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+-->
+
+## Agile and DevOps
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+<!--
+https://developer.atlassian.com
+
+https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+-->
+
+## Stuff
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
+
+<!--
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+-->
+
+
+## Company Playbooks
+
+Handbooks
+* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
+* [Glitch Handbook](https://handbook.glitch.me/)
+* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
+
+<!--
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
+
+https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
+https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
+
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+
+https://twitter.com/dnsmichi/status/1314267751607869442
+https://twitter.com/melsmo/status/1313180759889305601
 -->
 
 ## Engineering Performance Resources
@@ -1245,6 +1452,7 @@ https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 -->
+
 
 ## Awesome Python and Django
 
@@ -1700,6 +1908,7 @@ https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection
 
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
+
 
 ## Stack
 
@@ -3479,27 +3688,63 @@ https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interf
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
 https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
 
-Tailwind
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+SEO
+https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
+
+## New-ish
+
+https://openbase.io/
+
+TensorFlow.js 
+
+AWS Serverless
+https://begin.com/ | Begin
+OpenJS Architect
+https://arc.codes/docs/en/guides/get-started/quickstart
+
+https://p5js.org/
+
+https://hasura.io/
+
+https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
+
+Web components/standards
+https://www.fast.design/docs/introduction/ | Introduction | FAST
+
+Deploy
+https://www.skypack.dev/
+https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
+
+Deploy/Django
+https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
+
+## Next
 
 Next themes
 https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
 
 Good
 https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
 
+## CSS
+
+Tailwind
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+
+## JavaScript
+
+JSX in your Markdown documents
+https://twitter.com/mdx_js
+https://mdxjs.com/
+
+https://jasmine.github.io/ | Jasmine Documentation
 
 React
 https://www.taniarascia.com/getting-started-with-react/
 https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
-
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-
 
 PWA Topic
 https://github.com/topics/pwa | pwa · GitHub Topics
@@ -3512,44 +3757,13 @@ PWA Permissions
 https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
 https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
 
-SEO
-https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
+## Django
 
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
 
-https://twitter.com/mdx_js
-https://mdxjs.com/
-
-
-https://www.fast.design/docs/introduction/ | Introduction | FAST
-
-
-AWS
-https://begin.com/ | Begin
-OpenJS Architect
-https://arc.codes/docs/en/guides/get-started/quickstart
-
-
-https://openbase.io/
-
-Deploy
-https://www.skypack.dev/
-https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
-
-Deploy/Django
-https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
-
-https://hasura.io/
-
-https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
-
-https://p5js.org/
-
-https://jasmine.github.io/ | Jasmine Documentation
-
-TensorFlow.js 
+## Automation and Container
 
 Terraform
-
 
 VS Code/Container
 https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
@@ -3568,6 +3782,7 @@ https://podman.io/
 https://www.packer.io/ | Packer by HashiCorp
 https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 -->
+
 
 ## Deploy
 
@@ -5410,6 +5625,25 @@ https://www.inc.com/inc5000/index.html | Inc. 5000 2018: America's Top Entrepren
 https://www.cnbc.com/cnbc-disruptors/ | CNBC Disruptor 50
 -->
 
+## Management Books
+
+Books- Management and Scaling
+* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
+* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
+* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+
+<!--
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+Marty Cagan Inspired
+
+https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
+-->
+
+
 ## Articles and Blog Posts
 
 Google, Google Tech, and TED Talks, Charlie Rose, PBS, This American Life
@@ -5544,227 +5778,34 @@ Technology radar
 https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
 -->
 
-## Management Books
 
-Books- Management and Scaling
-* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-* [Elad Gil: High Growth Handbook](https://www.amazon.com/dp/B07DRPGGQ7)
-* [Reid Hoffman, Chris Yeh, Bill Gates: Blitzscaling](https://www.amazon.com/dp/B0791239V7)
-* [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
+## Digital Commonplace and Knowledge Base
 
 <!--
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+Naveen
+https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
 
-Marty Cagan Inspired
+Knowledge Base
+https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
+http://devonzuegel.com/post/memex-my-personal-knowledge-base
+https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
+https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
+https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
 
-https://twitter.com/naval/status/1058856647764791297 | Naval on Twitter: "Second best - read Influence by Cialdini, persuasion from @ScottAdamsSays , and actually get out there and sell things."
+https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
+https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
+https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
+
+AirTable
+https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
+https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
+
+https://airtable.com/blocks
+https://airtable.com/templates | Templates - Airtable
+https://guide.airtable.com/
 -->
 
-## Mental Models
 
-Mental Models
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
-* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
-* [Farnham Street Mental Models](https://fs.blog/mental-models/)
-* [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
-* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
-
-Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
-* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
-* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
-
-<!--
-https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
-
-https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
--->
-
-## How to Live
-
-Seneca the Younger
-* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
-* [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
-* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
-* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
-* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
-
-Tim Ferris
-* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
-* [Tools of Titans](https://toolsoftitans.com) 
-* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
-* [Tribe of Mentors](https://tribeofmentors.com)
-* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
-
-<!--
-https://fourminutebooks.com/the-courage-to-be-disliked-summary/
-https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
-
-Tools of Titans
-http://tim.blog/2017/01/25/tools-of-titans-index/
-https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
-
-http://fourhourworkweek.com
-http://fourhourworkweek.com/sitemap.xml
-
-https://tim.blog/2008/09/15/rolf-potts-qa-the-art-of-long-term-world-travel-and-travel-writing/ | Rolf Potts Q&A: The Art of Long-term World Travel… and Travel Writing | The Blog of Author Tim Ferriss
-
-Rec from Tim Ferris
-http://fourhourworkweek.com/2013/11/11/vagabonding/ | The Tim Ferriss Book Club Launches — Book #1: Vagabonding | The Blog of Author Tim Ferriss
-Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
-http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
-https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-http://vagabonding.net
-https://en.wikipedia.org/wiki/Rolf_Potts
-https://en.wikipedia.org/wiki/The_Graveyard_Book
-https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
--->
-
-## Health and Well Being
-
-Meditation
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-Habits with a High Rate of Return in Life
-* [DHH](https://twitter.com/dhh/status/990742238257864705)
-* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
-* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
-
-Mind-Body Connection
-* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
-
-Meditation
-* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
-
-Sleep
-* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
-* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
-
-<!--
-https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
-
-Why We Sleep
-http://amazon.com/dp/B06Y649387/
-https://jacquesmattheij.com/dealing-with-insomnia/ | Dealing With Insomnia · Jacques Mattheij
-
-https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
-https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
-
-https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
-
-https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
-
-https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
--->
-
-Stress
-
-<!--
-The Upside of Stress
-https://www.amazon.com/dp/B00OI5PGWU
-http://online.stanford.edu/course/upside-stress
-https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
-
-A Brief History of Existential Terror
-https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
--->
-
-Sapiens
-* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
-
-<!--
-https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
--->
-
-## Retrospective
-
-Personal Advice
-* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
-* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
-
-<!--
-Business Model You: A One-Page Method For Reinventing Your Career
-https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
-
-https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
-https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
--->
-
-<!--
-## Tips
-
-Creativity
-https://bored.solutions/
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
-
-Essentialism
-https://twitter.com/housecor/status/1217087577313947648
-https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
-
-https://dayhaysoos.com/don-t-seek-mentors-seek-friends/ | Don't seek mentors, seek friends
-https://twitter.com/Dayhaysoos/status/1283234586194055169 | Nick DeJesus 🛒🎉 - Pariss Athena Photography on Twitter: "I've noticed a handful of people looking for mentors for helping them learn and grow in the tech community. I'm here to tell you to stop seeking mentors and start seeking friends. This post is about my fave ways to make friends! https://t.co/9OO7htItde" / Twitter
--->
-
-## Types of Intelligence
-
-<!--
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
-https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
--->
-
-## Learning Methods
-
-Dr. Barbara Oakley: Learning How to Learn
-* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Dr. Barbara Oakley
-* [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
-
-<!--
-https://salman.io/posts/polymath-playbook/ | The Polymath Playbook
-
-https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
-
-https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
-
-https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
-https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
-https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
-https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
-
-https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
-https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
-
-https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
-
-http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
--->
-
-Making Learning Whole
-* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-
-Learning
-* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
-* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
-
-Mindset
-* [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
-
-<!--
-https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
-https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
-
-https://fs.blog/2015/03/carol-dweck-mindset/
--->
 
 ## Goal Setting and Habit Methods
 
@@ -5908,31 +5949,254 @@ https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
 -->
 
-## Digital Commonplace and Knowledge Base
+
+## Checklists
 
 <!--
-Naveen
-https://superorganizers.substack.com/p/how-naveen-keeps-track | How Naveen Keeps Track
+https://zapier.com/blog/the-checklist-manifesto/
 
-Knowledge Base
-https://en.wikipedia.org/wiki/Personal_knowledge_base | Personal knowledge base - Wikipedia
-http://devonzuegel.com/post/memex-my-personal-knowledge-base
-https://tkainrad.dev/posts/managing-my-personal-knowledge-base/ | Managing my personal knowledge base · tkainrad
-https://www.encode.app/matt/building-a-second-brain | Building a Second Brain: Capture, Organize, and Retrieve Your...
-https://blog.diffbot.com/the-economics-of-building-knowledge-bases/ | The Economics of Building Knowledge Bases | Diffblog
+The Checklist Manifesto: How to Get Things Right, Atul Gawande
+https://www.amazon.com/dp/B0030V0PEW
 
-https://medium.com/@rklau/my-homegrown-personal-crm-87dffbcf54d7 | My Homegrown, Personal CRM - Rick Klau - Medium
-https://support.airtable.com/hc/en-us/articles/360021518753-Getting-started-starting-with-the-base-ics | Getting started: starting with the base-ics – Airtable - Support
-https://twitter.com/rklau/status/1167105659852115969 | Rick Klau on Twitter: "Finally got around to writing up my attempt at building a personal CRM in Airtable: https://t.co/KiPZ8icg9U https://t.co/20rZX4f502" / Twitter
-
-AirTable
-https://twitter.com/hnshah/status/1105884604798390272 | Hiten Shah on Twitter: "📊 Great Product Planning templates: @airtable Product Launch template https://t.co/b0hmHsRviW @coda_hq Sprint Planning https://t.co/URrDIIZJ6I @teamtettra Smart Goals https://t.co/woj7qpxw0P @ProductHunt https://t.co/qMKfSjHnuO"
-https://www.producthunt.com/posts/airtable-gantt-block | Airtable Gantt Block - Turn your Airtable base into a Gantt chart | Product Hunt
-
-https://airtable.com/blocks
-https://airtable.com/templates | Templates - Airtable
-https://guide.airtable.com/
+Checklist Manifesto Template
+https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 -->
+
+## Distribution
+
+Distribution, Digital Distribution and User-Generated Content
+* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
+* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
+* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
+
+Distribution, Growth, Sales Hacking
+* [Distribution Hacks](http://distributionhacks.com) 
+* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
+* [Hiten Shah Twitter](https://twitter.com/hnshah)
+
+<!--
+Seth Godin
+
+Viral Funnel model
+https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
+
+https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
+https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
+https://kk.org/thetechnium/1000-true-fans/
+-->
+
+## Success and Failure
+
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
+
+<!--
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+-->
+
+
+
+## Types of Intelligence
+
+<!--
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
+https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+-->
+
+## Mental Models
+
+Mental Models
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [Tren Griffin: A Dozen Things I’ve Learned from Charlie Munger about Mental Models and Worldly Wisdom](http://25iq.com/2015/08/22/a-dozen-things-ive-learned-from-charlie-munger-about-mental-models-and-worldly-wisdom)
+* Charlie Munger Mental Models (A partial list of some Mental Models used by Charlie Munger, compiled from many sources by [Tren Griffin](https://twitter.com/trengriffin/status/642772253269082112)
+* [Farnham Street Mental Models](https://fs.blog/mental-models/)
+* [Farnham Street All Models Are Wrong](https://fs.blog/2017/06/all-models-are-wrong/)
+* [Mental Models I Find Repeatedly Useful](https://medium.com/@yegg/mental-models-i-find-repeatedly-useful-936f1cc405d)
+
+Charlie Munger's 18 Biases and The Psychology of Human Misjudgement
+* [Charlie Munger's 18 Biases](http://www.fool.com/investing/general/2013/06/10/charlie-mungers-18-biases-that-cause-you-to-fool-y.aspx)
+* [Farnam Street Blog: "Charlie Munger: The Psychology of Human Misjudgment (Transcript and Audio)"](https://www.farnamstreetblog.com/2013/02/the-psychology-of-human-misjudgement)
+
+<!--
+https://25iq.com/2015/10/30/a-dozen-things-ive-learned-from-charlie-munger-distilled-to-less-than-500-words/ | A Dozen Things I’ve Learned from Charlie Munger (Distilled to less than 500 Words) – 25iq
+
+https://www.youtube.com/watch?v=7-fe01CA3vc&feature=youtu.be | Charlie Munger: The Psychology of Human Misjudgement - YouTube
+-->
+
+
+## Chicken or Egg Problem
+
+<!--
+https://twitter.com/gregisenberg/status/1271084004326940673 | Greg Isenberg on Twitter: "Building "the anti-product" is often a successful way to build compelling products How do you build the: - The anti-Instagram - The anti-YouTube - The anti-Amazon - The anti-Netflix - etc You'll be surprised with what you come up with" / Twitter
+
+https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
+http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
+
+https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
+https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
+-->
+
+<!--
+https://twitter.com/hunterwalk/status/1283863580585025536 | 👨🏻‍💻☕️ on Twitter: "if you're designing social spaces for humans, and have never read Bartle's 1996 paper on player types and motivations... https://t.co/MxZzuqWl0d https://t.co/fn4hrnIT88" / Twitter
+http://mud.co.uk/richard/hcds.htm | Richard A. Bartle: Players Who Suit MUDs
+https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr. 🚀 on Twitter: "Must-read" / Twitter
+
+https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
+-->
+
+## Ratios
+
+Financial Ratio
+* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+
+A16Z Metrics
+* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+
+<!--
+https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
+https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
+
+https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
+-->
+
+## Business Philosophies
+
+Carlota Perez Framework
+* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
+* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
+
+Personal MBA
+* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
+* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
+* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
+* [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
+
+<!--
+https://twitter.com/naval/status/1129483486081966080 | Naval on Twitter: "https://t.co/xcRc8wegWX"
+
+https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+https://patrickcollison.com/fast | Fast · Patrick Collison
+
+https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
+
+FreshBooks: Breaking the Time Barrier
+https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+-->
+
+## Idea Evaluation
+
+The Elements of Value
+* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
+
+Tim Ferris Blueprints
+* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
+* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
+* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
+* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+
+Idea Maze
+* [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
+
+<!--
+https://twitter.com/davidlee/status/983742916513251328 | David Lee on Twitter: "1/ .@balajis and @cdixon wrote about the Idea Maze 5 years ago. For startups in hard but not impossible startups today, there’s also the Industry Maze. This path is well-worn and in some cases, the only path to success. https://t.co/0OKkAdn175"
+https://twitter.com/sarthakgh/status/1069367174169411584 | Sar Haribhakti on Twitter: "I really enjoy deeply researched talks/posts that explore thematic idea mazes. Few recent ones : @arampell on real estate https://t.co/6hsH870YgL @venturetwins on business in box https://t.co/OjLaUWyTPP Looking for mazes in digital communities, urban tech & office tech.… https://t.co/kTJRpd8Pe7"
+-->
+
+Blue Ocean Strategy
+* [Blue Ocean Strategy Wikipedia](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
+
+<!--
+https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html | 'Red Oceans': How to Find Profitable Startup Ideas - Capital & Growth
+https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
+
+https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
+https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
+-->
+
+## Makers
+
+Pieter Levels
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
+* [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
+
+<!--
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+
+https://nomadlist.com/open | Open Startups - Nomad List
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
+-->
+
+
+## Persuasian, Ethics
+
+Persuasive Tech
+* [Nir Eyal](http://www.nirandfar.com)
+* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
+* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
+* [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
+* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
+
+<!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+
+Nir Eyal 4-step model
+
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+-->
+
+Center for Humane Technology
+* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
+
+<!--
+https://twitter.com/webology/status/1266931277791473665 | Jeff says, "wear a mask" 😷 on Twitter: "@kennethlove The Nighthawk client does a good job or lean on mute lists." / Twitter
+
+Digital minimalism
+https://twitter.com/kessler/status/1266049555105103872 | Ben Kessler on Twitter: "Anyone have a great resource for weaning off of social media and phone use (addiction)? The intensity and negativity of the news cycle and commentary on Twitter and Instagram is stressing me out and I need to take a break. cc: @dremilyanhalt @schlaf etc." / Twitter
+
+http://www.tristanharris.com/
+https://medium.com/@tristanharris
+http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+
+http://humanetech.com/ | Center for Humane Technology
+
+http://www.tragicdesign.com
+https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
+
+https://www.uxbrutalism.com/
+https://brutalist-web.design/ | Brutalist Web Design
+
+https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
+https://humanebydesign.com/ | Humane by Design
+https://www.darkpatterns.org/ | Dark Patterns
+
+IT and Ethics
+https://plato.stanford.edu/entries/it-moral-values/
+https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
+-->
+
 
 ## Productivity Tools
 
@@ -5991,47 +6255,27 @@ https://chrome.google.com/webstore/detail/voice-recognition/ikjmfindklfaonkodbni
 https://chrome.google.com/webstore/detail/speech-recognition-anywhe/kdnnmhpmcakdilnofmllgcigkibjonof?hl=en
 -->
 
-## Checklists
+## Retrospective
+
+Personal Advice
+* [Reid Hoffman: The Startup of You](http://www.slideshare.net/reidhoffman/startup-of-you-visual-summary)
+* [Ryan Allis: Lessons from My 20s](http://www.scribd.com/doc/236446010/Lessons-From-My-20s-By-Ryan-Allis) 
 
 <!--
-https://zapier.com/blog/the-checklist-manifesto/
+Business Model You: A One-Page Method For Reinventing Your Career
+https://www.amazon.com/Business-Model-You-One-Page-Reinventing/dp/1118156315
 
-The Checklist Manifesto: How to Get Things Right, Atul Gawande
-https://www.amazon.com/dp/B0030V0PEW
+https://davidcummings.org/2016/01/17/example-simplified-one-page-strategic-plan/ | Example Simplified One Page Strategic Plan – David Cummings on Startups
+https://schlaf.me/2018/12/24/how-to-conduct-an-annual-life-review-that-will-catapult-you-into-the-new-year/comment-page-1/#comment-217 | How to Conduct an Annual Life Review That Will Catapult You into the New Year – Schlaf.me
 
-Checklist Manifesto Template
-https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
--->
+## Tips
 
-## Speed Reading and Memory
+Essentialism
+https://twitter.com/housecor/status/1217087577313947648
+https://www.amazon.com/dp/B00G1J1D28/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-Pattern
-* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
-
-<!--
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
-https://en.wikipedia.org/wiki/Mnemonic
-https://en.wikipedia.org/wiki/Memory_sport
-
-https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
-https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
-https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
-https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
-
-https://ncase.me/remember/ | How To Remember Anything Forever-ish
-https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
-https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
-http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
-
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
-https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+https://dayhaysoos.com/don-t-seek-mentors-seek-friends/ | Don't seek mentors, seek friends
+https://twitter.com/Dayhaysoos/status/1283234586194055169 | Nick DeJesus 🛒🎉 - Pariss Athena Photography on Twitter: "I've noticed a handful of people looking for mentors for helping them learn and grow in the tech community. I'm here to tell you to stop seeking mentors and start seeking friends. This post is about my fave ways to make friends! https://t.co/9OO7htItde" / Twitter
 -->
 
 ## Engineering Management
@@ -6112,191 +6356,177 @@ https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021 | Principles
 https://en.wikipedia.org/wiki/In_Search_of_Excellence#Themes | In Search of Excellence - Wikipedia
 -->
 
-## Business Philosophies
+## Speed Reading and Memory
 
-Carlota Perez Framework
-* [Fred Wilson: Carlota Perez Framework](http://avc.com/2015/02/the-carlota-perez-framework) and [Fred Wilson: Carlota Perez Technological Surge Cycle Chart](http://avc.com/wp-content/uploads/2015/02/perez-cycles-final.png)
-* [Technology Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_life_cycle)
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
-Personal MBA
-* [Fred Wilson MBA Mondays](http://avc.com/2017/08/mba-mondays)
-* [Tim Ferris "How to Create Your Own Real-World MBA"](https://tim.blog/2010/06/28/mba)
-* [Peter Levels Free 5 Minute MBA](https://twitter.com/levelsio/status/887979497475129344)
-* [Naval MBA](https://twitter.com/naval/status/1002103360646823936) and [AMA](https://twitter.com/naval/status/1058854885758689280)
+Spaced Repetition
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
+Pattern
+* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
 
 <!--
-https://twitter.com/naval/status/1129483486081966080 | Naval on Twitter: "https://t.co/xcRc8wegWX"
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Memory_sport
+
+https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
+https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
+https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
+https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
+
+https://ncase.me/remember/ | How To Remember Anything Forever-ish
+https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
+https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
+http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
 -->
 
-Tim Ferris Blueprints
-* ["How to Create a Million-Dollar Business This Weekend"](http://fourhourworkweek.com/2011/09/24/how-to-create-a-million-dollar-business-this-weekend-examples-appsumo-mint-chihuahuas)
-* ["Hacking Kickstarter: How to Raise $100,000 in 10 Days"](http://fourhourworkweek.com/2012/12/18/hacking-kickstarter-how-to-raise-100000-in-10-days-includes-successful-templates-e-mails-etc)
-* ["Real-World Blueprint for a $5-Million Week"](https://tim.blog/2016/03/04/5-million-week)
-* ["The Psychology of Automation: Building a Bulletproof Personal-Finance System"](http://fourhourworkweek.com/2009/03/26/the-psychology-of-automation-building-a-bulletproof-personal-finance-system)
+## Learning Methods
 
-Site Deaths and Failures
-* [Site Deaths](https://indieweb.org/site-deaths)
-* [Failure Museum](http://failuremuseum.com)
+Dr. Barbara Oakley: Learning How to Learn
+* [Coursera: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+Dr. Barbara Oakley
+* [A Mind for Numbers](https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra-ebook/dp/B00G3L19ZU)
 
 <!--
-https://www.notion.so/High-Output-Library-48742928f9f149b8a777e11a1409ce0a | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+https://salman.io/posts/polymath-playbook/ | The Polymath Playbook
 
-https://patrickcollison.com/fast | Fast · Patrick Collison
+https://www.amazon.com/Mind-Numbers-Science-Flunked-Algebra/dp/039916524X/ref=asap_bc?ie=UTF8 | Amazon.com: A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra) (9780399165245): Barbara Oakley: Books
 
-https://en.wikipedia.org/wiki/Timeline_of_the_far_future | Timeline of the far future - Wikipedia
-https://en.wikipedia.org/wiki/List_of_emerging_technologies | List of emerging technologies - Wikipedia
+https://www.youtube.com/watch?v=1FvYJhpNvHY&feature=youtu.be | The Science of Learning: How to Turn Information into Intelligence | Barbara Oakley - YouTube
 
-https://medium.com/@fwiles/working-for-yourself-the-day-i-did-something-99d534200ca9 | Working for yourself: The day I did something – Frank Wiles – Medium
+https://barbaraoakley.com/wp-content/uploads/2016/12/A_Mind_for_Numbers_Oakley_Chs_1-2-1.pdf
 
-FreshBooks: Breaking the Time Barrier
-https://www.freshbooks.com/assets/other/Breaking-the-Time-Barrier.pdf
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+https://twitter.com/naval/status/940436350024798215 | Naval on Twitter: "Must read. https://t.co/YTg1Sfr450"
+https://en.wikipedia.org/wiki/Dual_process_theory | Dual process theory - Wikipedia
+https://www.amazon.com/Art-Learning-Journey-Optimal-Performance/dp/0743277465
+
+https://en.wikipedia.org/wiki/How_to_Create_a_Mind | How to Create a Mind - Wikipedia
+https://www.amazon.com/Mastermind-Think-Like-Sherlock-Holmes/dp/014312434X/ | Mastermind: How to Think Like Sherlock Holmes: Maria Konnikova: 9780143124344: Amazon.com: Books
+
+https://en.wikipedia.org/wiki/Metacognition | Metacognition - Wikipedia
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf | Self-regulated-learning-Bjork.pdf
 -->
 
-## Chicken or Egg Problem
+Making Learning Whole
+* [Fast AI (Math versus Baseball): Making Learning Whole: How Seven Principles of Teaching Can Transform Education: David Perkins](https://www.amazon.com/Making-Learning-Whole-Principles-Transform/dp/0470633719) and [A Mathematician's Lament](https://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+
+Learning
+* [Daniel Kahneman: Thinking, Fast and Slow](http://www.amazon.com/gp/product/0374533555?ie=UTF8&camp=1789&creativeASIN=0374533555&linkCode=xm2&tag=wwwjasonzweig-20)
+* [Thinking, Fast and Slow Wikipedia](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow)
+
+Mindset
+* [Carol S. Dweck: Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322)
 
 <!--
-https://twitter.com/gregisenberg/status/1271084004326940673 | Greg Isenberg on Twitter: "Building "the anti-product" is often a successful way to build compelling products How do you build the: - The anti-Instagram - The anti-YouTube - The anti-Amazon - The anti-Netflix - etc You'll be surprised with what you come up with" / Twitter
+https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
+https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
 
-https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
-http://www.qubit.com/sites/default/files/pdf/qubit_meta_analysis.pdf | qubit_meta_analysis.pdf
-
-https://twitter.com/JamesCurrier/status/1009201885302095872 | James Currier on Twitter: "After investing in 60+ marketplaces, we made a list for Founders of the 19 tactics we’ve seen to solve the classic chicken-or-egg problem. What comes first, supply or demand? The solutions were often counter-intuitive. @NFXGuild @GigiLevy @peteflint. https://t.co/mFb5bIzjKm"
-https://www.nfx.com/post/19-marketplace-tactics-for-overcoming-the-chicken-or-egg-problem | 19 Tactics to Solve the Chicken-or-Egg Problem and Grow Your Marketplace
+https://fs.blog/2015/03/carol-dweck-mindset/
 -->
 
-<!--
-https://twitter.com/hunterwalk/status/1283863580585025536 | 👨🏻‍💻☕️ on Twitter: "if you're designing social spaces for humans, and have never read Bartle's 1996 paper on player types and motivations... https://t.co/MxZzuqWl0d https://t.co/fn4hrnIT88" / Twitter
-http://mud.co.uk/richard/hcds.htm | Richard A. Bartle: Players Who Suit MUDs
-https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr. 🚀 on Twitter: "Must-read" / Twitter
+## How to Live
 
-https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
+Seneca the Younger
+* [Seneca the Younger Wikipedia](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+* [Tim Ferris: "On The Shortness of Life: An Introduction to Seneca"](https://tim.blog/2009/04/24/on-the-shortness-of-life-an-introduction-to-seneca)
+* [Tim Ferris: The Tao of Seneca, Free PDFs](https://tim.blog/2017/07/06/tao-of-seneca)
+* [Tim Ferris: "The Tao of Seneca: Letters from a Stoic Master + On Groundless Fears (Letter 13)"](https://tim.blog/2016/01/22/the-tao-of-seneca)
+* [Tren Griffin: A Dozen Things I’ve Learned from Seneca The Younger About Venture Capital, Startups, Business and Life (cf. Nassim Taleb)](http://25iq.com/2015/05/28/a-dozen-things-ive-learned-from-seneca-the-younger-about-venture-capital-startups-business-and-life/)
+
+Tim Ferris
+* [Tim Ferris: Tools of Titans](http://fourhourworkweek.com/2016/10/25/tools-of-titans)
+* [Tools of Titans](https://toolsoftitans.com) 
+* [Tools of Titans Index Scribd](https://www.scribd.com/document/337571251/Tools-of-Titans-Index-Tim-Ferriss)
+* [Tribe of Mentors](https://tribeofmentors.com)
+* [Tim Ferris Instagram](https://www.instagram.com/timferriss)
+
+<!--
+https://fourminutebooks.com/the-courage-to-be-disliked-summary/
+https://www.amazon.com/gp/product/1501197274/ref=as_li_qf_asin_il_tl?ie=UTF8&tag=sparkszilla-20&creative=9325&linkCode=as2&creativeASIN=1501197274&linkId=c40c558bbf017b6f9b9080c077f72c13 | The Courage to Be Disliked: The Japanese Phenomenon That Shows You How to Change Your Life and Achieve Real Happiness: Ichiro Kishimi, Fumitake Koga: 9781501197277: Amazon.com: Books
+
+Tools of Titans
+http://tim.blog/2017/01/25/tools-of-titans-index/
+https://www.amazon.com/Summary-Routines-Billionaires-World-Class-Performers-ebook/dp/B01MS9LH30/ref=pd_typ_k_ba_2_154821011_5/161-2877202-8909447?_encoding=UTF8&psc=1&refRID=0H5JJ4DFR2ZHSK4EPGPM
+
+http://fourhourworkweek.com
+http://fourhourworkweek.com/sitemap.xml
+
+https://tim.blog/2008/09/15/rolf-potts-qa-the-art-of-long-term-world-travel-and-travel-writing/ | Rolf Potts Q&A: The Art of Long-term World Travel… and Travel Writing | The Blog of Author Tim Ferriss
+
+Rec from Tim Ferris
+http://fourhourworkweek.com/2013/11/11/vagabonding/ | The Tim Ferriss Book Club Launches — Book #1: Vagabonding | The Blog of Author Tim Ferriss
+Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel
+http://www.amazon.com/Vagabonding-Uncommon-Guide-Long-Term-Travel/dp/B00GG0BRZA
+https://www.amazon.com/dp/B000FBFMKM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
+http://vagabonding.net
+https://en.wikipedia.org/wiki/Rolf_Potts
+https://en.wikipedia.org/wiki/The_Graveyard_Book
+https://www.amazon.com/Graveyard-Book-Neil-Gaiman-ebook/dp/B0011UJM48?ie=UTF8&btkr=1&redirect=true&ref_=dp-kindle-redirect
 -->
 
-## Ratios
+## Health and Well Being
 
-Financial Ratio
-* [Financial Ratio Wikipedia](https://en.wikipedia.org/wiki/Financial_ratio)
+Meditation
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
-A16Z Metrics
-* [A16Z: Metrics](http://a16z.com/2015/08/21/16-metrics) and [A16Z: More Metrics](http://a16z.com/2015/09/23/16-more-metrics)
+Habits with a High Rate of Return in Life
+* [DHH](https://twitter.com/dhh/status/990742238257864705)
+* [James Clear](https://twitter.com/james_clear/status/1005821705980465152)
+* [Vala Afshar: A healthy list](https://twitter.com/ValaAfshar/status/1065265463473651712)
+
+Mind-Body Connection
+* [Dr. John E. Sarno: "Healing Back Pain: The Mind-Body Connection"](https://www.amazon.com/dp/B000FA5SGG)
+
+Meditation
+* [Bob Roth: "Strength in Stillness: The Power of Transcendental Meditation"](https://www.amazon.com/dp/1501161210)
+
+Sleep
+* [Matthew Walker: "Why We Sleep: Unlocking the Power of Sleep and Dreams"](https://www.amazon.com/dp/B06ZZ1YGJ5)
+* [Circadian Clock Wikipedia](https://en.wikipedia.org/wiki/Circadian_clock)
 
 <!--
-https://a16z.com/2016/03/07/network-effects_critical-mass/ | Two Powerful Mental Models: Network Effects and Critical Mass – Andreessen Horowitz
-https://a16z.com/2018/12/13/16-metrics-network-effects/ | 16 Ways to Measure Network Effects – Andreessen Horowitz
+https://www.nfx.com/post/your-life-network-effects | Your Life is Driven by Network Effects
 
-https://twitter.com/davidcummings/status/1082834548159926273 | David Cummings on Twitter: "More growth means tracking more metrics. Track these 60 metrics on a *weekly* basis across the following: - General - Sales - Implementation - Support - Customer Success - Engineering - Marketing - Finance - HR/People"
+Why We Sleep
+http://amazon.com/dp/B06Y649387/
+https://jacquesmattheij.com/dealing-with-insomnia/ | Dealing With Insomnia · Jacques Mattheij
+
+https://www.coursera.org/learn/the-science-of-well-being | The Science of Well-Being | Coursera
+https://justinkan.com/feeling-good-justins-program-b77c70437ee2 | Feeling Good: Justin’s Program - Justin Kan
+
+https://en.wikipedia.org/wiki/Pranayama | Pranayama - Wikipedia
+
+https://twitter.com/justinkan/status/1112520984316133377 | Justin Kan on Twitter: "You can control so much of your state of mind just by breathing"
+
+https://tim.blog/2017/09/26/tools-and-tips-better-sleep/ | Tools and Tips for Better Sleep | The Blog of Author Tim Ferriss
 -->
 
-## Distribution
-
-Distribution, Digital Distribution and User-Generated Content
-* [Distribution Wikipedia](https://en.wikipedia.org/wiki/Distribution_(business))
-* [Digital Distribution Wikipedia](https://en.wikipedia.org/wiki/Digital_distribution)
-* [User-Generated Content Wikipedia](https://en.wikipedia.org/wiki/User-generated_content)
-
-Distribution, Growth, Sales Hacking
-* [Distribution Hacks](http://distributionhacks.com) 
-* [Sean Ellis Twitter](https://twitter.com/SeanEllis), [Growthhackers](https://growthhackers.com), and [Startup-Marketing](http://www.startup-marketing.com)
-* [Hiten Shah Twitter](https://twitter.com/hnshah)
+Stress
 
 <!--
-Seth Godin
+The Upside of Stress
+https://www.amazon.com/dp/B00OI5PGWU
+http://online.stanford.edu/course/upside-stress
+https://books.google.com/books?id=T2oBDAAAQBAJ&pg=PA233&lpg=PA233&dq
 
-Viral Funnel model
-https://twitter.com/balajis/status/1244514791739109376 | Balaji S. Srinivasan on Twitter: "The "viral funnel" mental model might seem like trivial startup lingo, but it's a strong tool for resource prioritization. For example, if we could strike the top of the funnel with something clever (eg #masks4all) that might have the greatest bang for the buck." / Twitter
-
-https://a16z.com/2019/11/26/a16z-podcast-how-what-why-500th-episode-behind-the-scenes/
-https://a16z.com/2019/11/20/brand-building-a16z-ideas-people-marketing/
-https://kk.org/thetechnium/1000-true-fans/
+A Brief History of Existential Terror
+https://www.ribbonfarm.com/2017/02/28/a-brief-history-of-existential-terror/
 -->
 
-Idea Maze
-* [Chris Dixon: Idea Maze](http://cdixon.org/2013/08/04/the-idea-maze)
+Sapiens
+* [Dr. Yuval Noah Harari: A Brief History of Humankind Playlist](https://www.youtube.com/playlist?list=PLE-kxvSEhkzDEmLQx3RE09aKO4WS-M84t)
 
 <!--
-https://twitter.com/davidlee/status/983742916513251328 | David Lee on Twitter: "1/ .@balajis and @cdixon wrote about the Idea Maze 5 years ago. For startups in hard but not impossible startups today, there’s also the Industry Maze. This path is well-worn and in some cases, the only path to success. https://t.co/0OKkAdn175"
-https://twitter.com/sarthakgh/status/1069367174169411584 | Sar Haribhakti on Twitter: "I really enjoy deeply researched talks/posts that explore thematic idea mazes. Few recent ones : @arampell on real estate https://t.co/6hsH870YgL @venturetwins on business in box https://t.co/OjLaUWyTPP Looking for mazes in digital communities, urban tech & office tech.… https://t.co/kTJRpd8Pe7"
--->
-
-Blue Ocean Strategy
-* [Blue Ocean Strategy Wikipedia](https://en.wikipedia.org/wiki/Blue_Ocean_Strategy)
-
-<!--
-https://capitalandgrowth.org/articles/770/how-to-find-profitable-business-ideas.html | 'Red Oceans': How to Find Profitable Startup Ideas - Capital & Growth
-https://capitalandgrowth.org/articles/720/part-3-six-paths-to-discovering-a-blue-ocean-idea.html | Part 3: Six Paths to Discovering a Blue Ocean Idea - Capital & Growth
--->
-
-Pieter Levels
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
-* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
-* [Bootstrapping](https://levels.io/bootstrapping)
-* [Make Book](https://makebook.io)
-
-<!--
-https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
-
-https://nomadlist.com/open | Open Startups - Nomad List
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
--->
-
-The Elements of Value
-* [The Elements of Value](https://hbr.org/2016/09/the-elements-of-value)
-
-## Persuasian, Ethics
-
-Persuasive Tech
-* [Nir Eyal](http://www.nirandfar.com)
-* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
-* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
-* [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
-* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
-
-<!--
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
-
-https://www.wired.com/story/phone-addiction-formula/ | WIRED
-http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
-
-Nir Eyal 4-step model
-
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
--->
-
-Center for Humane Technology
-* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
-
-<!--
-https://twitter.com/webology/status/1266931277791473665 | Jeff says, "wear a mask" 😷 on Twitter: "@kennethlove The Nighthawk client does a good job or lean on mute lists." / Twitter
-
-Digital minimalism
-https://twitter.com/kessler/status/1266049555105103872 | Ben Kessler on Twitter: "Anyone have a great resource for weaning off of social media and phone use (addiction)? The intensity and negativity of the news cycle and commentary on Twitter and Instagram is stressing me out and I need to take a break. cc: @dremilyanhalt @schlaf etc." / Twitter
-
-http://www.tristanharris.com/
-https://medium.com/@tristanharris
-http://www.tristanharris.com/the-need-for-a-new-design-ethics/
-
-http://humanetech.com/ | Center for Humane Technology
-
-http://www.tragicdesign.com
-https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
-
-https://www.uxbrutalism.com/
-https://brutalist-web.design/ | Brutalist Web Design
-
-https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
-https://humanebydesign.com/ | Humane by Design
-https://www.darkpatterns.org/ | Dark Patterns
-
-IT and Ethics
-https://plato.stanford.edu/entries/it-moral-values/
-https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
+https://neilkakkar.com/sapiens.html | If Sapiens were a blog post | Neil Kakkar
 -->
