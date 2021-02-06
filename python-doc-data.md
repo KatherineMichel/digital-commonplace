@@ -158,6 +158,14 @@ https://docs.python.org/3/reference/lexical_analysis.html#numeric-literals
 https://docs.python.org/3/reference/lexical_analysis.html#integer-literals
 https://docs.python.org/3/reference/lexical_analysis.html#imaginary-literals
 
+## Sequences and Iterables
+
+* List (mutable, sequence, iterable)
+* String (immutable, sequence, iterable)
+* Tuple (immutable, sequence, iterable)
+* Dict (mutable, non-sequence, iterable)
+* Set (mutable, non-sequence, iterable)
+
 ## Mutability
 
 * Mutable- individual item can be changed
@@ -240,6 +248,38 @@ https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
 https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
 -->
 
+### List Pop
+
+Pop the last item from a list
+
+```python
+items.pop()
+```
+
+### List as Stack
+
+```python
+>>> stack = []
+>>> stack.append()
+>>> stack.pop()
+>>> stack
+[]
+```
+
+### List as Queue
+
+<!--
+https://docs.python.org/3/library/collections.html#collections.deque
+-->
+
+```python
+>>> from collections import deque
+>>> queue = deque([])
+>>> queue.append()  
+>>> queue.popleft()
+>>> queue
+deque([])
+```
 
 ## Sorting, Queues
 
