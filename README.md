@@ -3661,6 +3661,24 @@ https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-s
 
 
 <!--
+MongoDB and Elastic
+https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
+https://www.elastic.co/what-is/elk-stack
+
+PostHTML
+https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
+https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
+
+https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
+
+https://robotframework.org/
+https://www.fastly.com/
+https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
+https://svelte.dev/tutorial/basics | Introduction / Basics • Svelte Tutorial
+https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+https://www.browserstack.com/
+
+
 https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
 
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
