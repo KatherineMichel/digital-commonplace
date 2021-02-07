@@ -823,25 +823,6 @@ https://github.com/HangarOrg/sphinx-netlify-cicd
 
 
 <!--
-https://rcstyleguide.com/ | The Responsible Communication Style Guide
-
-https://www.plainlanguage.gov/ | Home | plainlanguage.gov
-https://www.plainlanguage.gov/guidelines/ | Federal plain language guidelines | plainlanguage.gov
-
-https://github.com/divio/user-handbook | divio/user-handbook
-
-https://opencollective.com/open-web-docs/updates/introducing-open-web-docs | Open Web Docs - Open Collective
-https://hacks.mozilla.org/2020/12/welcome-yari-mdn-web-docs-has-a-new-platform/ | Welcome Yari: MDN Web Docs has a new platform - Mozilla Hacks - the Web developer blog
-
-https://twitter.com/FOuweric/status/1343587260575350787 | https://twitter.com/FOuweric/status/1343587260575350787
-nbdev
-https://nbdev.fast.ai/tutorial.html | nbdev tutorial | nbdev
-
-https://github.com/DataDog/mkdocs-click | DataDog/mkdocs-click: An MkDocs extension to generate documentation for Click command line applications
-
-
-
-
 Ideas
 https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
 
@@ -850,40 +831,10 @@ https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_
 https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
 https://github.com/octokit/?q=project&type=&language= | Octokit
 
-https://github.com/facebook/create-react-app
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-https://codepen.io/2020/popular/pens/10
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-https://twitter.com/jessicahische/status/1343614261277282306
-https://stylestage.dev/styles/floral-vibes/
-
-
-
 
 http://inventwithpython.com/beyond/
 
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-Tailwind
-https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
-https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
-https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
-
-https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
 
 
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
@@ -984,6 +935,29 @@ Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
 https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+
+
+
+## Automation and Container
+
+Terraform
+
+VS Code/Container
+https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+
+https://github.com/jessfraz/dockerfiles
+
+Container
+https://www.docker.com/get-started | Get Started with Docker | Docker
+https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+
+https://podman.io/
+
+https://www.packer.io/ | Packer by HashiCorp
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 -->
 
 
@@ -1034,28 +1008,6 @@ https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design S
 
 Rapid dev
 https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
--->
-
-## Product and Marketing
-
-Interesting Curated Learning Resources- Product Management, Marketing, and Sales
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-<!--
-List of top product management article links
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://www.sideprojectchecklist.com/ | Side Project Checklist
-
-https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
-https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
 -->
 
 ## Case Studies
@@ -1153,6 +1105,29 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+## Product and Marketing
+
+Product
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+Marketing and Sales
+* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+<!--
+List of top product management article links
+
+https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
+https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
+
+https://www.sideprojectchecklist.com/ | Side Project Checklist
+
+https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
+https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+-->
 
 ## Agile and DevOps
 
@@ -1163,6 +1138,7 @@ Atlassian Agile
 <!--
 https://developer.atlassian.com
 
+"The history of product management"
 https://www.atlassian.com/agile/product-management
 https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
 https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
@@ -2957,6 +2933,39 @@ https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modu
 -->
 
 
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+<!--
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+-->
+
+
 ## Design
 
 <!--
@@ -3124,38 +3133,6 @@ https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
 Guido
 https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
 https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
--->
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
 -->
 
 
@@ -3659,6 +3636,37 @@ https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-s
 -->
 
 
+
+<!--
+https://twitter.com/jessicahische/status/1343614261277282306
+
+## Django
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+
+
+
+Brian
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+
+Steph
+https://stylestage.dev/styles/floral-vibes/
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+
+Web skills
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+Brad
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
+
+https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
+-->
+
+
 <!--
 https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
 
@@ -3688,10 +3696,6 @@ https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at n
 Web components/standards
 https://www.fast.design/docs/introduction/ | Introduction | FAST
 
-Deploy
-https://www.skypack.dev/
-https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
-
 Deploy/Django
 https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
 
@@ -3707,15 +3711,20 @@ https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Tw
 
 ## CSS
 
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
 Tailwind
+https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
+https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
 https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+Tailwind Styleguide
 https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
 
 ## JavaScript
-
-JSX in your Markdown documents
-https://twitter.com/mdx_js
-https://mdxjs.com/
 
 https://jasmine.github.io/ | Jasmine Documentation
 
@@ -3733,31 +3742,23 @@ https://web.dev/discoverable/
 PWA Permissions
 https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
 https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
+-->
 
-## Django
 
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+## Goodies
 
-## Automation and Container
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
 
-Terraform
+<!--
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
 
-VS Code/Container
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+https://blog.repl.it/database | Repl.it - A database for every repl
 
-https://github.com/jessfraz/dockerfiles
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 
-Container
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-
-https://podman.io/
-
-https://www.packer.io/ | Packer by HashiCorp
-https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
 -->
 
 
@@ -3822,66 +3823,13 @@ https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build 
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
 -->
 
-## CSS
+## More Languages and Frameworks
 
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-* [Bootstrap](https://getbootstrap.com/)
+Scala
+* [Scala](https://www.scala-lang.org/)
 
 <!--
-Hotwire
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
-https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
-https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
-
-Stimulus
-https://github.com/hotwired/stimulus
-https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
-
-Bootstrap
-https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
-
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-Django/Tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-Tailwind Tutorials
-https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
-https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
-
-Tailwind Installation Guides
-https://tailwindcss.com/docs/installation
-https://tailwindcss.com/docs/guides/nextjs
-https://tailwindcss.com/docs/guides/create-react-app
-
-https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
-https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
-
-https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
-https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
-https://tailwindui.com/documentation | Documentation | Tailwind UI
-https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
-https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
-https://play.tailwindcss.com/ | Tailwind Play
-https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
-https://heroicons.com/ | Heroicons
-
-Play Screencast
-https://twitter.com/adamwathan/status/1313826345374416896
+https://nim-lang.org/
 -->
 
 ## JavaScript- Using
@@ -3913,15 +3861,23 @@ Create React App
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
-<!-- 
+<!--
+Next (React) and Nuxt (Vue)
+
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+JSX in your Markdown documents
+https://twitter.com/mdx_js
+https://mdxjs.com/
+
 https://vercel.com/solutions/react | React - Solutions – Vercel
 
-Create React
+Create React App
 https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
 https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
 https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
 
-https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+https://reactjs.org/community/examples.html | Example Projects – React
 
 React Server Components
 https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
@@ -3930,6 +3886,29 @@ https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I ref
 https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
 https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
 
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+
+https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+
+Storybook
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+
+Next.js
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+https://www.snowpack.dev/
+https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
+
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+-->
+
+<!--
 HTTP, API, DOM
 https://expressjs.com/en/api.html
 
@@ -3946,28 +3925,32 @@ https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 -->
 
+## JAMStack
+
+Mojombo (React)
+* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Prisma](https://www.prisma.io/)
+* [Fauna](https://fauna.com/)
+
+CSS
+* [PostCSS](https://postcss.org/)
+* [Emmet](https://emmet.io/)
+
+React and Vue Alternatives
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
+
+Static Site Generators
+* [11ty](https://www.11ty.dev/)
+
 <!--
-Next (React) and Nuxt (Vue)
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
 
-https://reactjs.org/community/examples.html | Example Projects – React
-
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-https://www.snowpack.dev/
-https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
-
-https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+11ty
+https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
+https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
 -->
 
 ## Mobile Optimized
@@ -4049,55 +4032,66 @@ https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app
 -->
 
-## Goodies
-
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
-
-<!--
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
-
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
-
-Redwood Example
-https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-11ty
-https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
-https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
--->
-
-## JAMStack
-
-Mojombo (React)
-* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
-* [Prisma](https://www.prisma.io/)
-* [Fauna](https://fauna.com/)
+## CSS
 
 CSS
-* [PostCSS](https://postcss.org/)
-* [Emmet](https://emmet.io/)
-
-React and Vue Alternatives
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
-
-Static Site Generators
-* [11ty](https://www.11ty.dev/)
-
-## More Languages and Frameworks
-
-Scala
-* [Scala](https://www.scala-lang.org/)
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Bootstrap](https://getbootstrap.com/)
 
 <!--
-https://nim-lang.org/
+Hotwire
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
+https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
+
+Stimulus
+https://github.com/hotwired/stimulus
+https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
+
+Bootstrap
+https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
+
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+Django/Tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+Tailwind Tutorials
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+Tailwind Installation Guides
+https://tailwindcss.com/docs/installation
+https://tailwindcss.com/docs/guides/nextjs
+https://tailwindcss.com/docs/guides/create-react-app
+
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
+
+https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
+https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
+https://tailwindui.com/documentation | Documentation | Tailwind UI
+https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
+https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
+https://play.tailwindcss.com/ | Tailwind Play
+https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
+https://heroicons.com/ | Heroicons
+
+Play Screencast
+https://twitter.com/adamwathan/status/1313826345374416896
 -->
 
 ## API
