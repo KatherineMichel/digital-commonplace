@@ -12,6 +12,9 @@ Nuzzel
 * [Kati Michel Feeds](https://nuzzel.com/KatiMichel/feeds)
 * [Friends' Feeds](https://nuzzel.com/friendsfeeds)
 
+https://codepen.io/KatherineMichel
+https://repl.it/@KatherineMichel/
+
 
 https://hashnode.com/ | Hashnode: Everything you need to start blogging as a developer!
 
@@ -705,24 +708,8 @@ https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter
 DevICT
 https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
 
-DevICT
-https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
+DevICT Game Jam
 
-Game Off
-https://2020game.io/ | 2020 Game
-https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
-https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
-
-https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
-https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
-
-Blogs
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 
 https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
 
@@ -747,9 +734,6 @@ https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfoli
 
 Important
 https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
-
-Jane
-https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
 
 Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
@@ -823,15 +807,6 @@ https://github.com/HangarOrg/sphinx-netlify-cicd
 
 
 <!--
-Ideas
-https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-
 http://inventwithpython.com/beyond/
 
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
@@ -1732,6 +1707,7 @@ https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
+
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
 
 What happens
@@ -1958,62 +1934,6 @@ https://dev.to/heroku/
 -->
 
 
-
-<!--
-https://www.devrelcon.net/
-https://2018.devrelawards.com/
-
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-https://twitter.com/i/lists/1293027363723214848/members
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-https://developer.microsoft.com/en-us/advocates/
-https://github.com/MicrosoftDocs/cloud-developer-advocates | MicrosoftDocs/cloud-developer-advocates
-
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-GitLab
-https://about.gitlab.com/handbook/marketing/community-relations/evangelist-program/
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
-
-https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
-
-https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
--->
-
-<!--
-### Community
-
-https://cmxhub.com/ | Home | CMX
-https://awards.cmxhub.com/ | CMX
-https://leaddev.com/
-
-Lead Dev
-https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
-https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
-https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
-https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
-
-https://tessakriesel.com
-https://devocate.com/
-https://www.thedevelopermindset.com/
-
-https://twitter.com/ashevat
-https://medium.com/@ashevat | Amir Shevat – Medium
-https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
-
-Roadmap
-https://medium.com/@ashevat/amir-4-4-release-notes-aka-44-0404-2020-1504a3d6b929
--->
-
 ## Streaming
 
 Twitch Streams
@@ -2107,6 +2027,72 @@ https://github.com/tj
 https://github.com/mikeal
 -->
 
+<!--
+Jane
+https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
+
+Ideas
+https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
+
+Octokit
+https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
+https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
+https://github.com/octokit/?q=project&type=&language= | Octokit
+
+### Community
+
+https://cmxhub.com/ | Home | CMX
+https://awards.cmxhub.com/ | CMX
+https://leaddev.com/
+
+Lead Dev
+https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
+https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
+https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
+https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
+
+https://tessakriesel.com
+https://devocate.com/
+https://www.thedevelopermindset.com/
+
+https://twitter.com/ashevat
+https://medium.com/@ashevat | Amir Shevat – Medium
+https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
+
+Roadmap
+https://medium.com/@ashevat/amir-4-4-release-notes-aka-44-0404-2020-1504a3d6b929
+-->
+
+<!--
+https://www.devrelcon.net/
+https://2018.devrelawards.com/
+
+https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
+https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
+
+DevRel List
+https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
+https://twitter.com/i/lists/1293027363723214848/members
+https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
+
+https://developer.microsoft.com/en-us/advocates/
+https://github.com/MicrosoftDocs/cloud-developer-advocates | MicrosoftDocs/cloud-developer-advocates
+
+http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
+
+* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
+
+GitLab
+https://about.gitlab.com/handbook/marketing/community-relations/evangelist-program/
+
+https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
+https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
+
+https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
+
+https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
+-->
+
 
 ## People
 
@@ -2120,6 +2106,9 @@ People
 * [GitHub Trending Developers](https://github.com/trending/developers)
 
 <!--
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
 https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
 
 https://adventofcode.com/2020/leaderboard
@@ -2216,12 +2205,15 @@ Python Articles and Tutorials
 http://stackshare.io/posts/
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
 
 Tutorial and project ideas
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
@@ -2233,6 +2225,52 @@ https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
+
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+DevICT Gam Jam
+https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
+
+Game Jam, Game Off
+https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
+https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
+https://2020game.io/ | 2020 Game
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+JavaScript
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
+https://js13kgames.com/
+
+GitHub Actions
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
+-->
+
 
 ## Python Learning Resources
 
@@ -2347,47 +2385,6 @@ https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list mana
 -->
 
 
-
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
-<!--
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-Games
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-
-https://js1024.fun/results/2020 | JS1024 Results - 2020
-
-Gam Jam
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
-
-Games
-https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
-https://js13kgames.com/
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-
-GitHub Actions
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
--->
-
-
 ## Learning Resources- Projects
 
 100 Days of Code
@@ -2403,9 +2400,6 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
-https://codepen.io/KatherineMichel
-https://repl.it/@KatherineMichel/
-
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 
 http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
@@ -2913,69 +2907,33 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-
 -->
 
 
-<!--
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
-https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
--->
 
 <!--
-https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+https://twitter.com/jessicahische/status/1343614261277282306
 
+## Django
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+
+Steph
+https://stylestage.dev/styles/floral-vibes/
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+
+Web skills
+https://andreasbm.github.io/web-skills/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
 
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+Brad
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 
-let and const Declarations
-https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
 
-https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+Brian
+https://www.youtube.com/watch?v=nJwqX-rfpXw
 -->
-
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
--->
-
-
-## Design
-
-<!--
-https://developers.google.com/web/showcase
-
-The Mobile Site Benchmark Study
-https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
-https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
--->
-
 
 ## Website and Blog Resources
 
@@ -3133,6 +3091,71 @@ https://en.wikipedia.org/wiki/ECMAScript | ECMAScript - Wikipedia
 Guido
 https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
 https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
+-->
+
+
+
+<!--
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
+-->
+
+<!--
+https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
+
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
+let and const Declarations
+https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
+
+https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
+-->
+
+
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+<!--
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+-->
+
+
+## Design
+
+<!--
+https://developers.google.com/web/showcase
+
+The Mobile Site Benchmark Study
+https://twitter.com/LinaCHansson/status/974560027414548480 | Lina Hansson on Twitter: "Let's create great mobile sites! Here are the UX checklists produced by @Google, showing the basics within UX that you need to have in place. Does your site get 100%?… https://t.co/7GiXy6patI"
+https://docs.google.com/spreadsheets/d/1Z57uwHGc1vU7ojd5mdUhvRxNqrLuC5yFG8K8puP0c1E/edit#gid=0 | Heuristic Framework for Executive Summary report - Google Sheets
 -->
 
 
@@ -3635,36 +3658,6 @@ https://docs.npmjs.com/packages-and-modules/
 https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-search-rank-criteria
 -->
 
-
-
-<!--
-https://twitter.com/jessicahische/status/1343614261277282306
-
-## Django
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-
-
-
-Brian
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-
-Steph
-https://stylestage.dev/styles/floral-vibes/
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-Brad
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
-
-https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
--->
 
 
 <!--
