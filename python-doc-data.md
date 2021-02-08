@@ -63,11 +63,6 @@ https://docs.python.org/3/library/filesys.html | File and Directory Access — P
 https://docs.python.org/3/library/os.path.html#os.path.join
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
 
-String
-https://docs.python.org/3/library/string.html | string — Common string operations — Python 3.10.0a0 documentation
-https://docs.python.org/3/library/stdtypes.html#str.replace
-https://docs.python.org/3/library/stdtypes.html?highlight=split#str.split | 4. Built-in Types — Python 3.3.7 documentation
-
 Range
 https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
 https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
@@ -94,34 +89,17 @@ https://docs.python.org/3/library/traceback.html
 -->
 
 
-## Strings
 
-Strip whitespace (right, left, both sides)
+## Useful
 
-```python
-lstrip()
-rstrip()
-strip()
-```
+https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 
-<!--
-6.1. string — Common string operations
-https://docs.python.org/3/library/string.html#module-string
-https://docs.python.org/3/library/string.html#string-constants
-https://docs.python.org/3/library/string.html#custom-string-formatting
-https://docs.python.org/3/library/string.html#format-string-syntax
-https://docs.python.org/3/library/string.html#format-specification-mini-language
-https://docs.python.org/3/library/string.html#format-examples
-https://docs.python.org/3/library/string.html#template-strings
-https://docs.python.org/3/library/string.html#helper-functions
+https://docs.python.org/3/library/functions.html#built-in-funcs
 
-String methods
-https://docs.python.org/3/library/stdtypes.html#string-methods
+https://docs.python.org/3/reference/expressions.html#operator-precedence
 
-https://docs.python.org/3/library/stdtypes.html#str.lstrip
-https://docs.python.org/3/library/stdtypes.html#str.rstrip
-https://docs.python.org/3/library/stdtypes.html#str.strip
--->
+https://docs.python.org/3/library/stdtypes.html
+https://docs.python.org/3/tutorial/datastructures.html
 
 
 
@@ -158,13 +136,16 @@ https://docs.python.org/3/reference/lexical_analysis.html#numeric-literals
 https://docs.python.org/3/reference/lexical_analysis.html#integer-literals
 https://docs.python.org/3/reference/lexical_analysis.html#imaginary-literals
 
-## Sequences and Iterables
+## Data Types
 
-* List (mutable, sequence, iterable)
-* String (immutable, sequence, iterable)
-* Tuple (immutable, sequence, iterable)
-* Dict (mutable, non-sequence, iterable)
-* Set (mutable, non-sequence, iterable)
+6.3. Primaries
+https://docs.python.org/3/reference/expressions.html#primaries
+
+4.4. Numeric Types — int, float, complex
+https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
+
+4.7. Text Sequence Type — str
+https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 
 ## Mutability
 
@@ -177,6 +158,14 @@ https://docs.python.org/3/reference/lexical_analysis.html#imaginary-literals
 After change
 * mutable data structure will have same id
 * immutable data structure will have new id
+
+## Sequences and Iterables
+
+* List (mutable, sequence, iterable)
+* String (immutable, sequence, iterable)
+* Tuple (immutable, sequence, iterable)
+* Dict (mutable, non-sequence, iterable)
+* Set (mutable, non-sequence, iterable)
 
 ## Data Types and Structures- Primitives 
 
@@ -248,6 +237,153 @@ https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
 https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
 -->
 
+
+## Sequences
+
+Sequence Types — list, tuple, range, string
+https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/library/stdtypes.html#string-methods
+
+immutable
+https://docs.python.org/3/library/stdtypes.html#immutable-sequence-types
+mutable
+https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types
+
+mutable and immutable
+https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
+
+https://docs.python.org/3/reference/expressions.html#subscriptions
+
+Range
+https://docs.python.org/3/reference/expressions.html#slicings
+
+List, dictionaries, etc. 
+https://docs.python.org/3/tutorial/datastructures.html#the-del-statement
+https://docs.python.org/3/reference/simple_stmts.html#the-del-statement
+
+Not common
+https://docs.python.org/3/library/stdtypes.html#binaryseq
+
+
+## Strings
+
+Common string operations
+https://docs.python.org/3/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
+
+String methods
+https://docs.python.org/3/library/stdtypes.html#string-methods
+
+https://docs.python.org/3/tutorial/introduction.html#strings
+
+https://docs.python.org/3/library/stdtypes.html#str
+
+<!--
+operator overloading
+https://docs.python.org/3/glossary.html#term-coercion
+
+https://docs.python.org/3/reference/lexical_analysis.html#string-literal-concatenation
+-->
+
+
+### Strings
+
+Strip whitespace (right, left, both sides)
+
+```python
+lstrip()
+rstrip()
+strip()
+```
+
+<!--
+String
+https://docs.python.org/3/library/stdtypes.html#str.join
+https://docs.python.org/3/library/stdtypes.html#str.replace
+https://docs.python.org/3/library/stdtypes.html#str.split
+
+https://docs.python.org/3/library/stdtypes.html#str.lstrip
+https://docs.python.org/3/library/stdtypes.html#str.rstrip
+https://docs.python.org/3/library/stdtypes.html#str.strip
+
+6.1. string — Common string operations
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string-constants
+https://docs.python.org/3/library/string.html#custom-string-formatting
+https://docs.python.org/3/library/string.html#format-string-syntax
+https://docs.python.org/3/library/string.html#format-specification-mini-language
+https://docs.python.org/3/library/string.html#format-examples
+https://docs.python.org/3/library/string.html#template-strings
+https://docs.python.org/3/library/string.html#helper-functions
+-->
+
+
+## Lists
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+
+List methods
+5.1. More on Lists
+https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
+
+3.1.3. Lists
+https://docs.python.org/3/tutorial/introduction.html#lists
+https://docs.python.org/3/library/stdtypes.html#lists
+
+## Arrays
+
+array — Efficient arrays of numeric values
+https://docs.python.org/3/library/array.html
+
+bisect — Array bisection algorithm
+https://docs.python.org/3/library/bisect.html
+https://docs.python.org/3/library/bisect.html#searching-sorted-lists
+https://docs.python.org/3/library/bisect.html#other-examples
+
+## Tuples
+
+https://docs.python.org/3/library/stdtypes.html#tuples
+https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
+
+Tuple
+https://docs.python.org/3/glossary.html#term-struct-sequence
+
+## Dictionaries
+
+https://docs.python.org/3/library/stdtypes.html#dict
+
+https://docs.python.org/3/tutorial/datastructures.html#dictionaries
+
+https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
+
+https://docs.python.org/3/glossary.html#term-mapping
+https://docs.python.org/3/glossary.html#term-hashable
+
+## Sets
+
+"A set object is an unordered collection of distinct hashable objects"
+
+set, frozenset
+https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
+https://docs.python.org/3/tutorial/datastructures.html#sets
+
+## Binary
+
+Binary Sequence Types
+* bytes (immutable)
+* byte array/bytearray (mutable)
+* memoryview
+
+4.8. Binary Sequence Types — bytes, bytearray, memoryview
+https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview
+
+https://docs.python.org/3/library/stdtypes.html#bytes-objects
+https://docs.python.org/3/library/stdtypes.html#bytearray-objects
+https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
+https://docs.python.org/3/library/stdtypes.html#memory-views
+
+
 ### List Pop
 
 Pop the last item from a list
@@ -297,99 +433,8 @@ https://en.wikipedia.org/wiki/Priority_queue
 https://docs.python.org/3/library/heapq.html#priority-queue-implementation-notes
 
 
-## Data Types
 
-6.3. Primaries
-https://docs.python.org/3/reference/expressions.html#primaries
-
-4.4. Numeric Types — int, float, complex
-https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
-
-4.7. Text Sequence Type — str
-https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
-
-## Binary
-
-Binary Sequence Types
-* bytes (immutable)
-* byte array/bytearray (mutable)
-* memoryview
-
-4.8. Binary Sequence Types — bytes, bytearray, memoryview
-https://docs.python.org/3/library/stdtypes.html#binary-sequence-types-bytes-bytearray-memoryview
-
-https://docs.python.org/3/library/stdtypes.html#bytes-objects
-https://docs.python.org/3/library/stdtypes.html#bytearray-objects
-https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
-https://docs.python.org/3/library/stdtypes.html#memory-views
-
-## Strings
-
-Common string operations
-https://docs.python.org/3/library/string.html | 6.1. string — Common string operations — Python 3.4.10 documentation
-
-https://docs.python.org/3/tutorial/introduction.html#strings
-
-https://docs.python.org/3/library/stdtypes.html#str
-
-<!--
-operator overloading
-https://docs.python.org/3/glossary.html#term-coercion
-
-https://docs.python.org/3/reference/lexical_analysis.html#string-literal-concatenation
--->
-
-## Lists
-
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-
-https://docs.python.org/3/library/stdtypes.html#lists
-
-3.1.3. Lists
-https://docs.python.org/3/tutorial/introduction.html#lists
-
-5.1. More on Lists
-https://docs.python.org/3/tutorial/datastructures.html#more-on-lists
-
-## Arrays
-
-array — Efficient arrays of numeric values
-https://docs.python.org/3/library/array.html
-
-bisect — Array bisection algorithm
-https://docs.python.org/3/library/bisect.html
-https://docs.python.org/3/library/bisect.html#searching-sorted-lists
-https://docs.python.org/3/library/bisect.html#other-examples
-
-## Tuples
-
-https://docs.python.org/3/library/stdtypes.html#tuples
-https://docs.python.org/3/tutorial/datastructures.html#tuples-and-sequences
-
-Tuple
-https://docs.python.org/3/glossary.html#term-struct-sequence
-
-## Dictionaries
-
-https://docs.python.org/3/library/stdtypes.html#dict
-
-https://docs.python.org/3/tutorial/datastructures.html#dictionaries
-
-https://docs.python.org/3/library/stdtypes.html#mapping-types-dict
-
-https://docs.python.org/3/glossary.html#term-mapping
-https://docs.python.org/3/glossary.html#term-hashable
-
-## Sets
-
-"A set object is an unordered collection of distinct hashable objects"
-
-set, frozenset
-https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset
-https://docs.python.org/3/tutorial/datastructures.html#sets
-
-
+## Identity and Membership
 
 ### Identity Operators (```is```/```is not```)
 
@@ -482,152 +527,6 @@ None
 https://docs.python.org/3/library/constants.html#None
 
 NotImplemented
-
-
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
-
-
-## Built-In Functions- Formatting and Printing
-
-Convert a value to a “formatted” representation, as controlled by format_spec. 
-```format()```
-
-Return a string containing a printable representation of an object. 
-```repr()```
-
-
-## Built-In Functions- Numbers
-
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
-
-Return x to the power y; if z is present, return x to the power y, modulo z
-
-```pow()```
-
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
-
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
-
-## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
-
-Return the largest item in an iterable or the largest of two or more arguments.
-
-```max()```
-
-Return the smallest item in an iterable or the smallest of two or more arguments.
-
-```min()```
-
-## Built-In Functions- Length and Sum- Addressed in Sequences Section
-
-Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
-
-```len()```
-
-Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
-
-```sum()```
 
 
 
@@ -733,36 +632,6 @@ while condition true:
 else:
     action
 ```
-
-
-## Sequences
-
-Sequence Types — list, tuple, range, string
-
-Sequence Types — list, tuple, range, string
-https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
-https://docs.python.org/3/library/stdtypes.html#textseq
-https://docs.python.org/3/library/stdtypes.html#string-methods
-
-immutable
-https://docs.python.org/3/library/stdtypes.html#immutable-sequence-types
-mutable
-https://docs.python.org/3/library/stdtypes.html#mutable-sequence-types
-
-mutable and immutable
-https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
-
-https://docs.python.org/3/reference/expressions.html#subscriptions
-
-Range
-https://docs.python.org/3/reference/expressions.html#slicings
-
-List, dictionaries, etc. 
-https://docs.python.org/3/tutorial/datastructures.html#the-del-statement
-https://docs.python.org/3/reference/simple_stmts.html#the-del-statement
-
-Not common
-https://docs.python.org/3/library/stdtypes.html#binaryseq
 
 
 ## Iterators
@@ -1364,6 +1233,152 @@ https://docs.python.org/3/library/itertools.html#itertools.chain
 https://docs.python.org/3/library/functools.html
 https://docs.python.org/3/library/functools.html#partial-objects
 
+
+
+## Math
+
+3.2. First Steps Towards Programming
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+3.1. Using Python as a Calculator
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+3.1.1. Numbers
+https://docs.python.org/3/tutorial/introduction.html#numbers
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+
+9.7.4. Exceptions
+exception statistics.StatisticsError
+
+
+9. Numeric and Mathematical Modules
+https://docs.python.org/3/library/numeric.html
+9.1. numbers — Numeric abstract base classes
+https://docs.python.org/3/library/numbers.html
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html
+9.3. cmath — Mathematical functions for complex numbers
+https://docs.python.org/3/library/cmath.html
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html
+9.6. random — Generate pseudo-random numbers
+https://docs.python.org/3/library/random.html
+9.7. statistics — Mathematical statistics functions
+https://docs.python.org/3/library/statistics.html
+
+
+https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
+
+https://docs.python.org/3/library/numbers.html#module-numbers
+https://docs.python.org/3/library/numbers.html#the-numeric-tower
+https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
+https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html#module-math
+https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
+https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/math.html#trigonometric-functions
+https://docs.python.org/3/library/math.html#angular-conversion
+https://docs.python.org/3/library/math.html#hyperbolic-functions
+https://docs.python.org/3/library/math.html#special-functions
+https://docs.python.org/3/library/math.html#constants
+
+https://docs.python.org/3/library/cmath.html#module-cmath
+https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
+https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/cmath.html#trigonometric-functions
+https://docs.python.org/3/library/cmath.html#hyperbolic-functions
+https://docs.python.org/3/library/cmath.html#classification-functions
+https://docs.python.org/3/library/cmath.html#constants
+
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html#module-decimal
+https://docs.python.org/3/library/decimal.html#quick-start-tutorial
+https://docs.python.org/3/library/decimal.html#decimal-objects
+https://docs.python.org/3/library/decimal.html#logical-operands
+https://docs.python.org/3/library/decimal.html#context-objects
+https://docs.python.org/3/library/decimal.html#constants
+https://docs.python.org/3/library/decimal.html#rounding-modes
+https://docs.python.org/3/library/decimal.html#signals
+https://docs.python.org/3/library/decimal.html#floating-point-notes
+https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
+https://docs.python.org/3/library/decimal.html#special-values
+https://docs.python.org/3/library/decimal.html#working-with-threads
+https://docs.python.org/3/library/decimal.html#recipes
+https://docs.python.org/3/library/decimal.html#decimal-faq
+
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html#module-fractions
+
+9.6. random — Generate pseudo-random numbers
+See also section
+https://docs.python.org/3/library/random.html#module-random
+https://docs.python.org/3/library/random.html#bookkeeping-functions
+https://docs.python.org/3/library/random.html#functions-for-integers
+https://docs.python.org/3/library/random.html#functions-for-sequences
+https://docs.python.org/3/library/random.html#real-valued-distributions
+https://docs.python.org/3/library/random.html#alternative-generator
+https://docs.python.org/3/library/random.html#notes-on-reproducibility
+tutorials
+https://docs.python.org/3/library/random.html#examples-and-recipes
+
+https://docs.python.org/3/library/statistics.html#module-statistics
+https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
+https://docs.python.org/3/library/statistics.html#measures-of-spread
+https://docs.python.org/3/library/statistics.html#function-details
+https://docs.python.org/3/library/statistics.html#exceptions
+
+9.3. cmath — Mathematical functions for complex numbers
+
+
+## Built-In Functions- Formatting and Printing
+
+Convert a value to a “formatted” representation, as controlled by format_spec. 
+```format()```
+
+Return a string containing a printable representation of an object. 
+```repr()```
+
+
+## Built-In Functions- Numbers
+
+Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
+```divmod()```
+
+Return x to the power y; if z is present, return x to the power y, modulo z
+
+```pow()```
+
+Return number rounded to ndigits precision after the decimal point. 
+```round()```
+
+Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
+```abs()```
+
+## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
+
+Return the largest item in an iterable or the largest of two or more arguments.
+
+```max()```
+
+Return the smallest item in an iterable or the smallest of two or more arguments.
+
+```min()```
+
+## Built-In Functions- Length and Sum- Addressed in Sequences Section
+
+Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
+
+```len()```
+
+Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
+
+```sum()```
 
 
 <!--
