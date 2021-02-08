@@ -76,14 +76,6 @@ https://docs.python.org/3/reference/datamodel.html#emulating-numeric-types
 https://docs.python.org/3/reference/datamodel.html#with-statement-context-managers
 https://docs.python.org/3/reference/datamodel.html#special-method-lookup
 
-## Useful
-
-https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
-
-https://docs.python.org/3/library/functions.html#built-in-funcs
-
-https://docs.python.org/3/reference/expressions.html#operator-precedence
-
 
 ## Standard
 
