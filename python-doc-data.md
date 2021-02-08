@@ -255,15 +255,20 @@ https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
 
 https://docs.python.org/3/reference/expressions.html#subscriptions
 
-Range
-https://docs.python.org/3/reference/expressions.html#slicings
-
 List, dictionaries, etc. 
 https://docs.python.org/3/tutorial/datastructures.html#the-del-statement
 https://docs.python.org/3/reference/simple_stmts.html#the-del-statement
 
 Not common
 https://docs.python.org/3/library/stdtypes.html#binaryseq
+
+## List Comprehensions and Range
+
+Range
+https://docs.python.org/3/reference/expressions.html#slicings
+
+Explanation of `j`
+https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
 
 
 ## Strings
