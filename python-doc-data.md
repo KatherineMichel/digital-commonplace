@@ -101,28 +101,101 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 https://docs.python.org/3/library/stdtypes.html
 https://docs.python.org/3/tutorial/datastructures.html
 
-Data Structures
-* Linked Lists
-* Trees, Tries, & Graphs
-* Stacks & Queues
-* Heaps
+Data Structures- List
+* [Linked List](https://en.wikipedia.org/wiki/Linked_list)
+* [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
 * Vectors/Arraylists 
+
+* Trees, Tries, & Graphs
+* [Heap (tree)](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+Data Structures- Hash
 * [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 
-Algorithms
+https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
+
+Algorithms- Search
 * [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
 * [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+Algorithms- Sort
 * [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
 * [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
 
-Concepts
-* [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
-* Memory (Stack vs. Heap)
+Concepts- Memory (Stack vs. Heap)
+* [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+Concepts- Problem Solving
 * [Recursion](https://en.wikipedia.org/wiki/Recursion)
 * Dynamic Programming
+
+Concepts- Time and Space Complexity
 * Big O [Time Complexity](https://en.wikipedia.org/wiki/Time_complexity)
 * Big O [Space Complexity](https://en.wikipedia.org/wiki/Space_complexity)
+
+Concepts- Bits
+* [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+
+https://en.wikipedia.org/wiki/Big_O_notation
+https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf
+
+Problem Solving Flowchart
+
+
+## Lists as Stack or Queue
+
+### List Pop
+
+Pop the last item from a list
+
+```python
+items.pop()
+```
+
+### List as Stack
+
+```python
+>>> stack = []
+>>> stack.append()
+>>> stack.pop()
+>>> stack
+[]
+```
+
+### List as Queue
+
+<!--
+https://docs.python.org/3/library/collections.html#collections.deque
+-->
+
+```python
+>>> from collections import deque
+>>> queue = deque([])
+>>> queue.append()  
+>>> queue.popleft()
+>>> queue
+deque([])
+```
+
+## Sorting, Queues
+
+https://docs.python.org/3/howto/sorting.html
+
+Collections
+https://docs.python.org/3/library/collections.html#collections.deque
+
+8.5. heapq — Heap queue algorithm
+https://docs.python.org/3/library/heapq.html
+https://docs.python.org/3/library/heapq.html#basic-examples
+https://docs.python.org/3/library/heapq.html#theory
+
+https://en.wikipedia.org/wiki/Priority_queue
+https://docs.python.org/3/library/heapq.html#priority-queue-implementation-notes
+
+
 
 ## Important Data Questions
 
@@ -408,56 +481,6 @@ https://docs.python.org/3/library/stdtypes.html#bytes-objects
 https://docs.python.org/3/library/stdtypes.html#bytearray-objects
 https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
 https://docs.python.org/3/library/stdtypes.html#memory-views
-
-
-### List Pop
-
-Pop the last item from a list
-
-```python
-items.pop()
-```
-
-### List as Stack
-
-```python
->>> stack = []
->>> stack.append()
->>> stack.pop()
->>> stack
-[]
-```
-
-### List as Queue
-
-<!--
-https://docs.python.org/3/library/collections.html#collections.deque
--->
-
-```python
->>> from collections import deque
->>> queue = deque([])
->>> queue.append()  
->>> queue.popleft()
->>> queue
-deque([])
-```
-
-## Sorting, Queues
-
-https://docs.python.org/3/howto/sorting.html
-
-Collections
-https://docs.python.org/3/library/collections.html#collections.deque
-
-8.5. heapq — Heap queue algorithm
-https://docs.python.org/3/library/heapq.html
-https://docs.python.org/3/library/heapq.html#basic-examples
-https://docs.python.org/3/library/heapq.html#theory
-
-https://en.wikipedia.org/wiki/Priority_queue
-https://docs.python.org/3/library/heapq.html#priority-queue-implementation-notes
-
 
 
 ## Identity and Membership
