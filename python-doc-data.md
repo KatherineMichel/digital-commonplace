@@ -62,13 +62,6 @@ Path
 https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
 https://docs.python.org/3/library/os.path.html#os.path.join
 https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
-
-Range
-https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
-https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
-
-Slicing
-https://docs.python.org/2.3/whatsnew/section-slices.html | 15 Extended Slices
 -->
 
 <!--
@@ -93,52 +86,60 @@ https://docs.python.org/3/library/traceback.html
 ## Useful
 
 https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
+https://docs.python.org/3/reference/expressions.html#operator-precedence
 
+Built-in functions
 https://docs.python.org/3/library/functions.html#built-in-funcs
 
-https://docs.python.org/3/reference/expressions.html#operator-precedence
+Popular string methods
+https://www.w3schools.com/python/python_ref_string.asp
+Popular list methods
+https://www.w3schools.com/python/python_ref_list.asp
 
 https://docs.python.org/3/library/stdtypes.html
 https://docs.python.org/3/tutorial/datastructures.html
 
-Data Structures- List
-* [Linked List](https://en.wikipedia.org/wiki/Linked_list)
-* [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Queue](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
+
+Data Structures- Linear
+* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
 * Vectors/Arraylists 
 
 * Trees, Tries, & Graphs
-* [Heap (tree)](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Heap (tree) Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Trie Wikipedia](https://en.wikipedia.org/wiki/Trie)
 
 Data Structures- Hash
-* [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
-
-https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
+* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
 
 Algorithms- Search
-* [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
-* [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Depth-First Search Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
 * [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
 Algorithms- Sort
-* [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
-* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+* [Merge Sort Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
+* [Quicksort Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
 
 Concepts- Memory (Stack vs. Heap)
-* [Stack](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Heap](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 Concepts- Problem Solving
-* [Recursion](https://en.wikipedia.org/wiki/Recursion)
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
 * Dynamic Programming
 
 Concepts- Time and Space Complexity
-* Big O [Time Complexity](https://en.wikipedia.org/wiki/Time_complexity)
-* Big O [Space Complexity](https://en.wikipedia.org/wiki/Space_complexity)
+* Big O [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* Big O [Space Complexity Wikipedia](https://en.wikipedia.org/wiki/Space_complexity)
 
 Concepts- Bits
-* [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+* [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
 
+http://bigocheatsheet.com/
 https://en.wikipedia.org/wiki/Big_O_notation
 https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf
 
@@ -157,6 +158,11 @@ items.pop()
 
 ### List as Stack
 
+<!--
+5.1.1. Using Lists as Stacks
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
+-->
+
 ```python
 >>> stack = []
 >>> stack.append()
@@ -168,6 +174,9 @@ items.pop()
 ### List as Queue
 
 <!--
+5.1.2. Using Lists as Queues
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
+
 https://docs.python.org/3/library/collections.html#collections.deque
 -->
 
@@ -316,21 +325,44 @@ Other Data Structures
 
 ## Linear and Non-Linear
 
-Linear Data Structures (left to right, top to bottom)
-* list, stack, queue, deque, array are examples
+Linear (Sequential) Data Structures
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
+Linear Data Structure Examples (left to right, top to bottom)
+* list (including linked list, doubly linked list), stack, queue, deque, array
 
 List (Sequence) Linear and Non-Linear Implementations
 * Linear: stack and queue
 * Non-Linear: graph and tree
 
+Queue Implementations
+* Queue Using Linked List
+* Queue Using Stack
+
+
+## Sequences
+
+Sequence
+* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
+
+Types of order
+* [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
+* [Lexicographical Order (Alphabetical Order) Wikipedia](https://en.wikipedia.org/wiki/Lexicographical_order)
+* [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
+* [Numerical Order Wikipedia](https://en.wikipedia.org/wiki/Numerical_order)
+* [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
+
 <!--
-5.1.1. Using Lists as Stacks
-https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
+https://en.wikipedia.org/wiki/Character_encoding
+https://en.wikipedia.org/wiki/Letter_case
+https://en.wikipedia.org/wiki/Numeral_system
+https://en.wikipedia.org/wiki/Punctuation
 
-5.1.2. Using Lists as Queues
-https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
+https://www.geeksforgeeks.org/ord-function-python/
+https://en.wikipedia.org/wiki/Unicode
+
+https://en.wikipedia.org/wiki/ASCII
 -->
-
 
 ## Sequences
 
@@ -349,6 +381,7 @@ https://docs.python.org/3/library/stdtypes.html#common-sequence-operations
 
 https://docs.python.org/3/reference/expressions.html#subscriptions
 
+
 List, dictionaries, etc. 
 https://docs.python.org/3/tutorial/datastructures.html#the-del-statement
 https://docs.python.org/3/reference/simple_stmts.html#the-del-statement
@@ -363,6 +396,14 @@ https://docs.python.org/3/reference/expressions.html#slicings
 
 Explanation of `j`
 https://docs.python.org/3/tutorial/datastructures.html#list-comprehensions
+
+
+Range
+https://docs.python.org/3/library/functions.html#func-range | Built-in Functions — Python 3.8.2 documentation
+https://docs.python.org/3.3/library/stdtypes.html?highlight=range#ranges | 4. Built-in Types — Python 3.3.7 documentation
+
+Slicing
+https://docs.python.org/2.3/whatsnew/section-slices.html | 15 Extended Slices
 
 
 ## Strings
@@ -383,39 +424,6 @@ https://docs.python.org/3/glossary.html#term-coercion
 
 https://docs.python.org/3/reference/lexical_analysis.html#string-literal-concatenation
 -->
-
-
-### Strings
-
-Strip whitespace (right, left, both sides)
-
-```python
-lstrip()
-rstrip()
-strip()
-```
-
-<!--
-String
-https://docs.python.org/3/library/stdtypes.html#str.join
-https://docs.python.org/3/library/stdtypes.html#str.replace
-https://docs.python.org/3/library/stdtypes.html#str.split
-
-https://docs.python.org/3/library/stdtypes.html#str.lstrip
-https://docs.python.org/3/library/stdtypes.html#str.rstrip
-https://docs.python.org/3/library/stdtypes.html#str.strip
-
-6.1. string — Common string operations
-https://docs.python.org/3/library/string.html#module-string
-https://docs.python.org/3/library/string.html#string-constants
-https://docs.python.org/3/library/string.html#custom-string-formatting
-https://docs.python.org/3/library/string.html#format-string-syntax
-https://docs.python.org/3/library/string.html#format-specification-mini-language
-https://docs.python.org/3/library/string.html#format-examples
-https://docs.python.org/3/library/string.html#template-strings
-https://docs.python.org/3/library/string.html#helper-functions
--->
-
 
 ## Lists
 
@@ -481,6 +489,42 @@ https://docs.python.org/3/library/stdtypes.html#bytes-objects
 https://docs.python.org/3/library/stdtypes.html#bytearray-objects
 https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
 https://docs.python.org/3/library/stdtypes.html#memory-views
+
+
+
+
+## Common String Operations
+
+### Strings
+
+Strip whitespace (right, left, both sides)
+
+```python
+lstrip()
+rstrip()
+strip()
+```
+
+<!--
+String
+https://docs.python.org/3/library/stdtypes.html#str.join
+https://docs.python.org/3/library/stdtypes.html#str.replace
+https://docs.python.org/3/library/stdtypes.html#str.split
+
+https://docs.python.org/3/library/stdtypes.html#str.lstrip
+https://docs.python.org/3/library/stdtypes.html#str.rstrip
+https://docs.python.org/3/library/stdtypes.html#str.strip
+
+6.1. string — Common string operations
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string-constants
+https://docs.python.org/3/library/string.html#custom-string-formatting
+https://docs.python.org/3/library/string.html#format-string-syntax
+https://docs.python.org/3/library/string.html#format-specification-mini-language
+https://docs.python.org/3/library/string.html#format-examples
+https://docs.python.org/3/library/string.html#template-strings
+https://docs.python.org/3/library/string.html#helper-functions
+-->
 
 
 ## Identity and Membership
