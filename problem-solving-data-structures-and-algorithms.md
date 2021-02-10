@@ -260,20 +260,6 @@ https://www.geeksforgeeks.org/abstract-data-types/
 * [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
 -->
 
-### Linear Data Structures
-
-Linear (Sequential) Data Structures
-* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Linear Data Structure Examples (left to right, top to bottom)
-* list (including linked list, doubly linked list), stack, queue, deque, array
-
-### Lists- Linear and Non-Linear Implementations
-
-List (Sequence)
-* Linear: stack and queue
-* Non-Linear: graph and tree
-
 ### Strings, Arrays, and Lists
 
 String
@@ -305,24 +291,18 @@ https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structu
 "Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
 -->
 
+
 ### Stacks and Queues
 
-Stacks
-* [LIFO Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
-* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-
-Queues
-* [FIFO Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
-* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
-* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
-
-Implementations
-* Queue Using Linked List
-* Queue Using Stack
+LIFO and FIFO
+* [LIFO (Stack) Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
+* [FIFO (Queue) Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
 
 <!--
+Python has built-in functionality
 https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
 -->
+
 
 ### Trees and Graphs
 
@@ -341,7 +321,6 @@ https://en.wikipedia.org/wiki/Binary_tree
 
 https://en.wikipedia.org/wiki/Binary_search_tree
 
-https://en.wikipedia.org/wiki/Trie | Trie - Wikipedia
 
 Advanced Data Structures
 https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
@@ -377,24 +356,43 @@ https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 https://www.geeksforgeeks.org/matrix/
 -->
 
-### Sequences
-
-Sequence
-* [Sequence Wikipedia](https://en.wikipedia.org/wiki/Sequence)
-
-Types of order
-* [Alphabetical Order Wikipedia](https://en.wikipedia.org/wiki/Alphabetical_order)
-* [Lexicographical Order (Alphabetical Order) Wikipedia](https://en.wikipedia.org/wiki/Lexicographical_order)
-* [Numerical Wikipedia](https://en.wiktionary.org/wiki/numerical)
-* [Numerical Order Wikipedia](https://en.wikipedia.org/wiki/Numerical_order)
-* [Alphanumeric Wikipedia](https://en.wikipedia.org/wiki/Alphanumeric)
 
 <!--
+Common problems
+
+https://en.wikipedia.org/wiki/Fibonacci_number
+
+https://en.wikipedia.org/wiki/Permutation
+https://en.wikipedia.org/wiki/Combination
+-->
+
+### Sequences
+
+<!--
+## Sequence
+
 Also, examples of sequences
-https://en.wikipedia.org/wiki/Sequence
 https://en.wikipedia.org/wiki/Sequence#Analysis
 
+https://en.wikipedia.org/wiki/Subsequence | Subsequence - Wikipedia
+https://en.wikipedia.org/wiki/Substring
+
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
+
+Subsequence and substring
+* [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
+* [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
+* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
+https://en.wikipedia.org/wiki/N-gram
+
+A word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar
+https://en.wikipedia.org/wiki/Palindrome
+
+A word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once
+https://en.wikipedia.org/wiki/Anagram
+
+Uses every letter of the alphabet once
+https://en.wikipedia.org/wiki/Pangram
 -->
 
 
@@ -546,11 +544,10 @@ https://www.geeksforgeeks.org/randomized-algorithms/
 https://www.geeksforgeeks.org/game-theory/
 
 <!--
-http://bigocheatsheet.com/
-
 Types of Optimization
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Combinatorial_optimization
+
 
 https://en.wikipedia.org/wiki/Iterative_method
 
@@ -565,18 +562,7 @@ https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
 https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
 
 
-https://en.wikipedia.org/wiki/Fibonacci_number
-
-https://en.wikipedia.org/wiki/Permutation
-https://en.wikipedia.org/wiki/Combination
-
-
-* [Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Search_algorithm)
-
-
-https://en.wikipedia.org/wiki/Category:Search_algorithms
-https://en.wikipedia.org/wiki/Binary_search_algorithm#Binary_search_versus_other_schemes
-
+## Sorting
 
 Sorting
 * [Sorting Wikipedia](https://en.wikipedia.org/wiki/Sorting)
@@ -585,12 +571,18 @@ Sorting
 Sequence Search- Sorted lists
 * [Sorting Algorithm Wikipedia](https://en.wikipedia.org/wiki/Sorting_algorithm)
 
-
 Array Sorting Algorithms
 
 http://rosettacode.org/wiki/Category:Sorting_Algorithms
 https://en.wikipedia.org/wiki/Category:Sorting_algorithms
 
+
+## Search
+
+* [Search Algorithm Wikipedia](https://en.wikipedia.org/wiki/Search_algorithm)
+
+https://en.wikipedia.org/wiki/Category:Search_algorithms
+https://en.wikipedia.org/wiki/Binary_search_algorithm#Binary_search_versus_other_schemes
 
 Sequence Search
 * [Linear Search Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
@@ -598,26 +590,7 @@ Sequence Search
 * [Ternary Search Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
 
 
-https://en.wikipedia.org/wiki/Subsequence | Subsequence - Wikipedia
-https://en.wikipedia.org/wiki/Substring
-
-Subsequence and substring
-* [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
-* [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
-* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
-https://en.wikipedia.org/wiki/N-gram
-
-A word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar
-https://en.wikipedia.org/wiki/Palindrome
-
-A word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once
-https://en.wikipedia.org/wiki/Anagram
-
-Uses every letter of the alphabet once
-https://en.wikipedia.org/wiki/Pangram
-
-https://en.wikipedia.org/wiki/ASCII
-
+## Graph and Traversal
 
 https://en.wikipedia.org/wiki/Graph_theory
 
@@ -631,6 +604,4 @@ https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
 https://en.wikipedia.org/wiki/Tree_traversal
 
 * [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
-* [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
-* [Depth-First Search Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
 -->
