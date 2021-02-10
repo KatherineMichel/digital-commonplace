@@ -101,7 +101,28 @@ https://docs.python.org/3/reference/expressions.html#operator-precedence
 https://docs.python.org/3/library/stdtypes.html
 https://docs.python.org/3/tutorial/datastructures.html
 
+Data Structures
+* Linked Lists
+* Trees, Tries, & Graphs
+* Stacks & Queues
+* Heaps
+* Vectors/Arraylists 
+* [Hash Table](https://en.wikipedia.org/wiki/Hash_table)
 
+Algorithms
+* [Breadth-First Search](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Depth-First Search](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+* [Merge Sort](https://en.wikipedia.org/wiki/Merge_sort)
+* [Quicksort](https://en.wikipedia.org/wiki/Quicksort)
+
+Concepts
+* [Bit Manipulation](https://en.wikipedia.org/wiki/Bit_manipulation)
+* Memory (Stack vs. Heap)
+* [Recursion](https://en.wikipedia.org/wiki/Recursion)
+* Dynamic Programming
+* Big O [Time Complexity](https://en.wikipedia.org/wiki/Time_complexity)
+* Big O [Space Complexity](https://en.wikipedia.org/wiki/Space_complexity)
 
 ## Important Data Questions
 
