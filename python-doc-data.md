@@ -177,6 +177,7 @@ https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
 5.1.2. Using Lists as Queues
 https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
 
+Collections
 https://docs.python.org/3/library/collections.html#collections.deque
 -->
 
@@ -192,9 +193,6 @@ deque([])
 ## Sorting, Queues
 
 https://docs.python.org/3/howto/sorting.html
-
-Collections
-https://docs.python.org/3/library/collections.html#collections.deque
 
 8.5. heapq — Heap queue algorithm
 https://docs.python.org/3/library/heapq.html
@@ -1564,6 +1562,43 @@ https://docs.python.org/3/reference/lexical_analysis.html#f-strings
 https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
 
 
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
+
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+
 https://docs.python.org/3/library/http.html#http-status-codes
 
 https://requests.readthedocs.io/en/master/
@@ -1620,43 +1655,6 @@ https://docs.python.org/3/library/json.html#command-line-options
 
 12.4. marshal — Internal Python object serialization
 https://docs.python.org/3/library/marshal.html
-
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
-
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
-
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-https://docs.python.org/3/library/array.html#module-array
-https://docs.python.org/3/library/array.html#array.array
-https://docs.python.org/3/library/collections.html#module-collections
-https://docs.python.org/3/library/collections.html#collections.deque
-https://docs.python.org/3/library/bisect.html#module-bisect
-https://docs.python.org/3/library/heapq.html#module-heapq
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
 
 
 10.3. Command Line Arguments
