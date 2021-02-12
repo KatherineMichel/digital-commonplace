@@ -62,6 +62,10 @@ https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (
 https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
 
 
+https://ide.geeksforgeeks.org/
+https://en.wikipedia.org/wiki/Standard_52-card_deck
+
+
 https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 https://docs.python.org/3/reference/expressions.html#operator-precedence
 
@@ -75,6 +79,8 @@ https://www.w3schools.com/python/python_ref_list.asp
 
 https://docs.python.org/3/library/stdtypes.html
 https://docs.python.org/3/tutorial/datastructures.html
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
 
 https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
 
@@ -124,6 +130,9 @@ https://en.wikipedia.org/wiki/Big_O_notation
 https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf
 
 Problem Solving Flowchart
+
+https://docs.python.org/3/library/itertools.html
+https://docs.python.org/3/library/collections.html
 
 
 ## Lists as Stack or Queue
