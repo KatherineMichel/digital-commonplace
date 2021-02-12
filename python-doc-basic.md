@@ -557,6 +557,11 @@ class NewClass(object): #CapWords
 
 ## Class or Function Syntax
 
+<!--
+Super
+https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
+-->
+
 Define a function or class
 
 ```python
