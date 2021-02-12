@@ -3,66 +3,20 @@
 ## General Notes
 
 <!--
-pathlib
-https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
-
-File path
-https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
-
-https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
-https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
-https://en.wikipedia.org/wiki/Recursion
-https://realpython.com/python-thinking-recursively/
-
-
-https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
-https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
-
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
 
 os and pathlib
-https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf | pbpython/Pathlib-Cheatsheet.pdf at master · chris1610/pbpython
 https://twitter.com/treyhunner/status/1317105113614360576 | ✨ Trey Hunner 🐍 on Twitter: "@KatiMichel A bit more demonstration that the "os" module is the junk drawer: it has more variable names in it than any of the other standard library modules "Operating System" includes a *lot* of stuff 😜 https://t.co/qFUVGPdRgX" / Twitter
+https://twitter.com/wsv3000/status/1286022846939107329 | Will Vincent on Twitter: "I'm a fan of switching to pathlib in Django 3.1 but it's gonna brick A LOT of older tutorials for newbies who can't get their https://t.co/dr8oMArbJE files to work right. Not sure how to mitigate this..." / Twitter
 https://twitter.com/jeremyphoward/status/1316586950170615809 | Jeremy Howard on Twitter: "Python 3.9's standard library has 331 modules, exporting 8329 symbols. `os` exports the most, with 331 symbols https://t.co/UCR8Jd3eKl" / Twitter
 
-dir()
-https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
+os and pathlib
+https://github.com/chris1610/pbpython/blob/master/extras/Pathlib-Cheatsheet.pdf | pbpython/Pathlib-Cheatsheet.pdf at master · chris1610/pbpython
 
-https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
-
-https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
-https://developer.mozilla.org/en-US/docs/Glossary/Parameter | Parameter - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+File path
+https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
 -->
 
-<!--
-https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
-https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
-
-https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
-
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
-negative indexes python - Google Search
-
-https://en.wikipedia.org/wiki/Control_flow
-https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
-
-
-
-Super
-https://docs.python.org/2/library/functions.html#super | 2. Built-in Functions — Python 2.7.16 documentation
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypeError | TypeError - JavaScript | MDN
-https://eli.thegreenplace.net/2011/05/15/understanding-unboundlocalerror-in-python/ | Understanding UnboundLocalError in Python - Eli Bendersky's website
-
-Path
-https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
-https://docs.python.org/3/library/os.path.html#os.path.join
-https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
--->
 
 <!--
 ## Utilities
@@ -82,8 +36,31 @@ https://docs.python.org/3/library/traceback.html
 -->
 
 
-
 ## Useful
+
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://en.wikipedia.org/wiki/Recursion
+https://realpython.com/python-thinking-recursively/
+
+https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
+https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+
+https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+negative indexes python - Google Search
+
+https://en.wikipedia.org/wiki/Control_flow
+https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+
 
 https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 https://docs.python.org/3/reference/expressions.html#operator-precedence
@@ -100,6 +77,9 @@ https://docs.python.org/3/library/stdtypes.html
 https://docs.python.org/3/tutorial/datastructures.html
 
 https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
+
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
+
 
 Data Structures- Linear
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
@@ -487,7 +467,6 @@ https://docs.python.org/3/library/stdtypes.html#bytes-objects
 https://docs.python.org/3/library/stdtypes.html#bytearray-objects
 https://docs.python.org/3/library/stdtypes.html#printf-style-bytes-formatting
 https://docs.python.org/3/library/stdtypes.html#memory-views
-
 
 
 
@@ -1482,6 +1461,10 @@ https://docs.python.org/3/tutorial/appendix.html#interactive-mode
 
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
+Path
+https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
+https://docs.python.org/3/library/os.path.html#os.path.join
+https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
 
 File
 https://docs.python.org/3/library/os.html#file-object-creation
