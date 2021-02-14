@@ -807,6 +807,65 @@ https://github.com/HangarOrg/sphinx-netlify-cicd
 
 
 <!--
+Important
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+
+https://www.wix.com/logo/maker
+
+Matt- Resume
+http://www.codingacrossamerica.com/ | Coding Across America
+http://www.mattmakai.com/matt-makai-resume.pdf | matt-makai-resume.pdf
+https://github.com/mattmakai/mattmakai.com/tree/gh-pages/source/resume | mattmakai.com/source/resume at gh-pages · mattmakai/mattmakai.com
+
+https://twitter.com/ValaAfshar/status/1355149785485996035 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES: 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/sij1mzSNry" / Twitter
+
+Biases
+https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
+https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
+
+https://twitter.com/ShaneAParrish/status/1356658536751779844 | Shane Parrish on Twitter: "I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions." / Twitter
+
+Interesting
+https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Type_A | Type A and Type B personality theory - Wikipedia
+
+https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
+https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
+
+Family Tree
+https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
+
+https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
+https://www.neuroinclusion.io/ | neuroinclusion.io
+
+Docs
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
+https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
+
+https://www.buymeacoffee.com/ | Buy Me a Coffee
+
+People
+https://github.com/orgs/maintainers/people | People · Open Source Maintainers on GitHub
+
+https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
+
+https://www.nature.com/ | Nature
+
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-1meo | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+
+repl.it free URL
+https://blog.repl.it/global | Repl.it - Going Global
+https://twitter.com/Contextify1/status/1359271409097187332 | Alec Barrett-Wilsdon on Twitter: "The killer app has been shipped congrats to Amjad and team" / Twitter
+
+
+
 http://inventwithpython.com/beyond/
 
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
