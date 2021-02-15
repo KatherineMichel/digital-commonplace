@@ -50,7 +50,93 @@ https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
+
+https://twitter.com/ValaAfshar/status/1355149785485996035 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES: 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/sij1mzSNry" / Twitter
+
+Biases
+https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
+https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
+
+https://twitter.com/ShaneAParrish/status/1356658536751779844 | Shane Parrish on Twitter: "I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions." / Twitter
+
+Interesting
+https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Type_A | Type A and Type B personality theory - Wikipedia
+
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+
+## Portfolio Ideas
+
+Game Simulation
+https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
+
+https://www.wix.com/logo/maker
+
+Matt- Resume
+http://www.codingacrossamerica.com/ | Coding Across America
+http://www.mattmakai.com/matt-makai-resume.pdf | matt-makai-resume.pdf
+https://github.com/mattmakai/mattmakai.com/tree/gh-pages/source/resume | mattmakai.com/source/resume at gh-pages · mattmakai/mattmakai.com
+
+Neat layout
+http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
+
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
+
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
+
+Spanish
+https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+
+Frontend Bootcamp teacher Jenn... great at it
+
+Awesome
+https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+
+Awesome talk
+https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
+
+https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+
+This is great!
+https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
+https://www.simple.org/ | Home Simple
+
+As CTO
+https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
+
+https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
+
+Developer Experience
+https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
+
+Community engineering
+https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
+https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
+
+Sprints
+OS/PSF
+https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
+https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
+
+Reminds me of Jessica Rose
+https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
+
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
+Collapsible markdown
+https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
+
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://github.com/HangarOrg/
+https://github.com/HangarOrg/sphinx-netlify-cicd
 
 
 ## Learning
@@ -185,7 +271,6 @@ Checkbox Art/ASCII Art
 https://twitter.com/realpython/status/1004811256560324608 | Real Python on Twitter: "Create beautiful ASCII art with just three lines of Python... import ascii output = ascii.loadFromUrl("https://t.co/B9glpiP0G2") print(output) (Thanks for this Dave Graton) #python #computerscience #DataScience #pythontips #pythontricks… https://t.co/pJAN2dvyjb"
 -->
 
-
 <!--
 ## Learning
 
@@ -241,34 +326,6 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
-
-
-
-<!--
-## Security
-
-https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
-https://owasp.org/www-project-samm/ | OWASP SAMM
-https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-
-## Fast AI
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
-
-
-## Innovations
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
--->
-
 
 <!--
 Feross
@@ -521,9 +578,16 @@ https://github.com/carljm/dotfiles
 -->
 
 
-
 <!--
-## Look Through
+Important
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+
+Brian Douglas... environment
+https://www.youtube.com/watch?v=SGtoR5s8fgE
+https://www.youtube.com/watch?v=-CEVBPZDid0
+
 
 https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
 
@@ -533,20 +597,34 @@ Wow
 https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
 
 
-Recommended
-https://twitter.com/Seaglass67/status/1344094579394543616 | Lauren Borsa-Curran on Twitter: "@KatiMichel A must read https://t.co/LIcFJ2NTcD" / Twitter
-https://www.amazon.com/dp/B01M0EOI6I/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Woman Who Smashed Codes: A True Story of Love, Spies, and the Unlikely Heroine Who Outwitted America's Enemies eBook: Fagone, Jason: Kindle Store
-
-Game Simulation
-https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
-
-Great Talk
-https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
+Family Tree
+https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
 
 DevICT
 https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
 
-DevICT Game Jam
+Great Talk
+https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
+
+https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
+https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
+
+
+https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
+https://www.neuroinclusion.io/ | neuroinclusion.io
+
+Docs
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
+https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
+
+https://www.buymeacoffee.com/ | Buy Me a Coffee
+
+People
+https://github.com/orgs/maintainers/people | People · Open Source Maintainers on GitHub
+
+https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
 
 
 https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
@@ -570,144 +648,42 @@ https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_sou
 https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
 https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
 
-Important
-https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
 
 Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
 
 https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
 
-## Portfolio Ideas
 
-Neat layout
-http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
+## Security
 
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-samm/ | OWASP SAMM
+https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
 
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
+Important
+https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
 
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 
-Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
+## Fast AI
 
-Frontend Bootcamp teacher Jenn... great at it
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
 
-Awesome
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
 
-Awesome talk
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
 
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
+## Innovations
 
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-https://www.simple.org/ | Home Simple
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
 
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Reminds me of Jessica Rose
-https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
 -->
 
 
-
 <!--
-Brian Douglas... environment
-https://www.youtube.com/watch?v=SGtoR5s8fgE
-https://www.youtube.com/watch?v=-CEVBPZDid0
-
-Important
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-
-https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
-
-https://www.wix.com/logo/maker
-
-Matt- Resume
-http://www.codingacrossamerica.com/ | Coding Across America
-http://www.mattmakai.com/matt-makai-resume.pdf | matt-makai-resume.pdf
-https://github.com/mattmakai/mattmakai.com/tree/gh-pages/source/resume | mattmakai.com/source/resume at gh-pages · mattmakai/mattmakai.com
-
-https://twitter.com/ValaAfshar/status/1355149785485996035 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES: 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/sij1mzSNry" / Twitter
-
-Biases
-https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
-https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
-
-https://twitter.com/ShaneAParrish/status/1356658536751779844 | Shane Parrish on Twitter: "I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions." / Twitter
-
-Interesting
-https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Type_A | Type A and Type B personality theory - Wikipedia
-
-https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
-https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
-https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
-
-Family Tree
-https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
-
-https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
-https://www.neuroinclusion.io/ | neuroinclusion.io
-
-Docs
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
-https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
-
-https://www.buymeacoffee.com/ | Buy Me a Coffee
-
-People
-https://github.com/orgs/maintainers/people | People · Open Source Maintainers on GitHub
-
-https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
-
-https://www.nature.com/ | Nature
-
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-1meo | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-
-repl.it free URL
-https://blog.repl.it/global | Repl.it - Going Global
-https://twitter.com/Contextify1/status/1359271409097187332 | Alec Barrett-Wilsdon on Twitter: "The killer app has been shipped congrats to Amjad and team" / Twitter
-
-
-
 http://inventwithpython.com/beyond/
 
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
@@ -811,7 +787,6 @@ Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
 https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
 
 
 ## Automation and Container
@@ -1909,9 +1884,6 @@ https://obsproject.com/forum/threads/whats-the-point-in-profiles.24079/ | Questi
 
 Presentations
 https://www.amazon.com/How-Draw-Cute-Stuff-Everything/dp/1454925647 | How to Draw Cute Stuff: Draw Anything and Everything in the Cutest Style Ever! (Volume 1): Nguyen, Angela: 9781454925644: Amazon.com: Books
-
-Phone
-https://help.panasonic.ca/viewing/ALL/KX-TGD590C/OI/TGD590C_PNQX8411YA/TGD590C_PNQX8411YA.pdf | Operating Instructions (English)
 -->
 
 
@@ -2163,6 +2135,11 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
+repl.it free URL
+https://blog.repl.it/global | Repl.it - Going Global
+https://twitter.com/Contextify1/status/1359271409097187332 | Alec Barrett-Wilsdon on Twitter: "The killer app has been shipped congrats to Amjad and team" / Twitter
+
+
 https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
 
 Digital Ocean
@@ -2223,6 +2200,9 @@ Python Articles and Tutorials
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
+https://www.nature.com/ | Nature
+
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
 http://stackshare.io/posts/
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
@@ -2234,9 +2214,13 @@ https://github.com/blog/2445-release-radar-november-2017 | Release Radar · Nove
 
 https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
 
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
 
-Tutorial and project ideas
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-1meo | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
 
