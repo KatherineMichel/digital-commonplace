@@ -65,6 +65,38 @@ https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Type_A | Type
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
 
+## Learning
+
+http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
+
+Learning mental models
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
+
+Learning how to learn
+https://twitter.com/Fox0x01/status/1238636236962779136
+
+Sarah
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
+https://mobile.twitter.com/edortizv/status/1250241717481201664
+
+
+Important
+https://sive.rs/srs | Memorizing a programming language using spaced repetition software | Derek Sivers
+
+https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
+
+
+https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+
+
 ## Portfolio Ideas
 
 Game Simulation
@@ -137,38 +169,6 @@ https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "
 
 https://github.com/HangarOrg/
 https://github.com/HangarOrg/sphinx-netlify-cicd
-
-
-## Learning
-
-http://currentnursing.com/nursing_theory/Patricia_Benner_From_Novice_to_Expert.html | Patricia Benner's From Novice to Expert
-
-Learning mental models
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train-yourself-to-be-smarter-infographic-86d0d42ad41c
-
-Learning how to learn
-https://twitter.com/Fox0x01/status/1238636236962779136
-
-Sarah
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
-https://mobile.twitter.com/edortizv/status/1250241717481201664
-
-
-Important
-https://sive.rs/srs | Memorizing a programming language using spaced repetition software | Derek Sivers
-
-https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
-
-
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 
 ## People and Places
@@ -578,6 +578,7 @@ https://github.com/carljm/dotfiles
 -->
 
 
+
 <!--
 Important
 https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
@@ -606,6 +607,7 @@ https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-
 Great Talk
 https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
 
+
 https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
 https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
 https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
@@ -620,9 +622,6 @@ https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on 
 https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
 
 https://www.buymeacoffee.com/ | Buy Me a Coffee
-
-People
-https://github.com/orgs/maintainers/people | People · Open Source Maintainers on GitHub
 
 https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
 
@@ -1772,9 +1771,9 @@ Playgrounds
 
 <!--
 Twilio
-https://www.twilio.com/video | Twilio Video | Video SDKs for iOS, Android, JavaScript and web-based video
-https://www.twilio.com/blog/build-video-chat-application-python-javascript-twilio-programmable-video | Build a Video Chat Application with Python, JavaScript and Twilio Programmable Video - Twilio
-https://www.twilio.com/blog/server-push-five-easy-steps-flask-react-twilio-sync | Server Push in 5 Easy Steps with Flask, React and Twilio Sync - Twilio
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
 
 https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
 
@@ -1794,22 +1793,47 @@ https://mongodb.libsyn.com/ | The MongoDB Podcast
 https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
 
 https://oo.t9t.io/organizations | Open companies
-
-https://blog.couchbase.com/datagrip-setup-couchbase/ | DataGrip Setup for Couchbase | The Couchbase Blog
-
-Twilio
-https://www.twilio.com/blog/category/code-tutorials-and-hacks
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
-https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
-
-Dev Cos
-https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
-https://dev.to/salesforcedevs/
-https://dev.to/heroku/
 -->
 
 
+## Streaming
+
+Twitch Streams
+* [Brian Douglas Twitch](https://www.twitch.tv/bdougieyo), [Brian Douglas YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg), and [Brian Douglas GitHub](https://github.com/bdougie/)
+* [Michelle Mannering Twitch](https://www.twitch.tv/mishmanners), [Mish Manners GitHub](https://github.com/MishManners), and [Mish Manners Twitter](https://twitter.com/MishManners)
+* [Anthony Sottile Twitch](https://www.twitch.tv/anthonywritescode) and [Anthony Sottile YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+
+<!--
+Great Dev Blogs
+https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
+
+GitHub- Twitch
+https://www.twitch.tv/github | (6) GitHub - Twitch
+https://www.twitch.tv/twitterdev
+https://www.twitch.tv/twilio
+https://www.twitch.tv/team/twilio
+
+https://www.twitch.tv/directory/following
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+Brian Douglas
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://twitter.com/bdougieYO
+
+https://github.com/bdougie/github-actions-continuous-delivery
+https://dinnerpeople.app/ | Dinner People
+
+https://discord.com/invite/gZMKK5q | Open Sauced
+https://opensauced.pizza/ | Open Sauced
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This is a project to identify your next open source contribution.
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
+-->
 
 <!--
 Brand
@@ -1884,89 +1908,6 @@ https://obsproject.com/forum/threads/whats-the-point-in-profiles.24079/ | Questi
 
 Presentations
 https://www.amazon.com/How-Draw-Cute-Stuff-Everything/dp/1454925647 | How to Draw Cute Stuff: Draw Anything and Everything in the Cutest Style Ever! (Volume 1): Nguyen, Angela: 9781454925644: Amazon.com: Books
--->
-
-
-## Streaming
-
-Twitch Streams
-* [Brian Douglas Twitch](https://www.twitch.tv/bdougieyo), [Brian Douglas YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg), and [Brian Douglas GitHub](https://github.com/bdougie/)
-* [Michelle Mannering Twitch](https://www.twitch.tv/mishmanners), [Mish Manners GitHub](https://github.com/MishManners), and [Mish Manners Twitter](https://twitter.com/MishManners)
-* [Anthony Sottile Twitch](https://www.twitch.tv/anthonywritescode) and [Anthony Sottile YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
-
-<!--
-Great Dev Blogs
-https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
-
-GitHub- Twitch
-https://www.twitch.tv/github | (6) GitHub - Twitch
-https://www.twitch.tv/twitterdev
-https://www.twitch.tv/twilio
-https://www.twitch.tv/team/twilio
-
-https://www.twitch.tv/directory/following
-
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
-
-Brian Douglas
-https://www.bdougie.live/ | bdougie.live
-https://github.com/bdougie/blog | bdougie/blog: My blog
-https://twitter.com/bdougieYO
-
-https://github.com/bdougie/github-actions-continuous-delivery
-https://dinnerpeople.app/ | Dinner People
-
-https://discord.com/invite/gZMKK5q | Open Sauced
-https://opensauced.pizza/ | Open Sauced
-https://twitter.com/saucedopen/
-https://www.meetup.com/Open-Sauced-Meetup/
-https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
-https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This is a project to identify your next open source contribution.
-https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
-https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
--->
-
-<!--
-https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
-
-Developer Mindset
-https://web.archive.org/web/20201101020540/https://community.thedevelopermindset.com/c/introductions | Intros & Chatter | The Developer Mindset
-https://web.archive.org/web/*/https://community.thedevelopermindset.com/c/* | Wayback Machine
-
-https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
-
-https://devocate.com/work-with-us/
-https://devocate.com/blog/
-https://devocate.com/blog/developer-intel/open-source-vs-enterprise-developers/
-
-https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
-https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
-https://devocate.com/blog/accomplishing-goals/ways-to-accomplish-developer-audience-goals-the-trello-board/
-https://devocate.com/blog/developer-intel/developer-personas-driven-by-motivation/
-https://devocate.com/blog/developer-feedback/pillars-of-a-solid-developer-feedback-program/
-https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
-https://web.archive.org/web/20201119221035/https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example
-https://devocate.com/blog/teamwork/managing-up-to-achieve-developer-community-success/
-
-https://devocate.com/blog/engaging-with-developers/why-your-new-software-needs-a-developer-community-before-marketing/ | Why Your New Software Needs a Developer Community Before Marketing
-
-https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
-
-https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
-https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
-
-https://cmxhub.com/video-amir-shevat-slacks-developer-relations-strategy/ | [Video] Amir Shevat: Slack's Developer Relations Strategy
-https://www.youtube.com/watch?v=ycKPJ_27cYo&feature=emb_logo | (2) OCTO Speaker Series #5 Amir Shevat - YouTube
-https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
-
-https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
-
-Books
-https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/1491974826 | Designing Bots: Creating Conversational Experiences: Shevat, Amir: 9781491974827: Amazon.com: Books
-https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
-
-https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
-hero theme - Google Search
 -->
 
 
@@ -2087,6 +2028,54 @@ https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-r
 -->
 
 
+<!--
+https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
+
+Tessa
+
+Developer Mindset
+https://web.archive.org/web/20201101020540/https://community.thedevelopermindset.com/c/introductions | Intros & Chatter | The Developer Mindset
+https://web.archive.org/web/*/https://community.thedevelopermindset.com/c/* | Wayback Machine
+
+https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
+
+https://devocate.com/work-with-us/
+https://devocate.com/blog/
+https://devocate.com/blog/developer-intel/open-source-vs-enterprise-developers/
+
+https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
+https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
+https://devocate.com/blog/accomplishing-goals/ways-to-accomplish-developer-audience-goals-the-trello-board/
+https://devocate.com/blog/developer-intel/developer-personas-driven-by-motivation/
+https://devocate.com/blog/developer-feedback/pillars-of-a-solid-developer-feedback-program/
+https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
+https://web.archive.org/web/20201119221035/https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example
+https://devocate.com/blog/teamwork/managing-up-to-achieve-developer-community-success/
+
+https://devocate.com/blog/engaging-with-developers/why-your-new-software-needs-a-developer-community-before-marketing/ | Why Your New Software Needs a Developer Community Before Marketing
+
+https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
+
+https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
+https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
+
+
+Amir Shevat
+https://cmxhub.com/video-amir-shevat-slacks-developer-relations-strategy/ | [Video] Amir Shevat: Slack's Developer Relations Strategy
+https://www.youtube.com/watch?v=ycKPJ_27cYo&feature=emb_logo | (2) OCTO Speaker Series #5 Amir Shevat - YouTube
+https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
+
+https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
+
+Books
+https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/1491974826 | Designing Bots: Creating Conversational Experiences: Shevat, Amir: 9781491974827: Amazon.com: Books
+https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
+
+https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
+hero theme - Google Search
+-->
+
+
 ## People
 
 Product Hunt Maker Leader Boards
@@ -2135,18 +2124,16 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
-repl.it free URL
-https://blog.repl.it/global | Repl.it - Going Global
-https://twitter.com/Contextify1/status/1359271409097187332 | Alec Barrett-Wilsdon on Twitter: "The killer app has been shipped congrats to Amjad and team" / Twitter
-
-
 https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
 
 Digital Ocean
 https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
+https://blog.repl.it/global | Repl.it - Going Global
 https://repl.it/talk/
+
+https://blog.repl.it/alwayson
 https://repl.it/templates
 https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
 
@@ -2208,15 +2195,11 @@ http://stackshare.io/posts/
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
-
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
 
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
 
@@ -2226,7 +2209,15 @@ https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | Th
 
 https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
 https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
@@ -2566,6 +2557,7 @@ https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶�
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
+
 
 
 ## Learning Resources- Projects
@@ -3090,34 +3082,6 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit | sdmg15/Best-
 -->
 
 
-
-<!--
-https://twitter.com/jessicahische/status/1343614261277282306
-
-## Django
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-
-Steph
-https://stylestage.dev/styles/floral-vibes/
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-Brad
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
-
-https://web.archive.org/web/20200407235333/https://pwa.rocks/ | A selection of Progressive Web Apps
-
-Brian
-https://www.youtube.com/watch?v=nJwqX-rfpXw
--->
-
 ## Website and Blog Resources
 
 GitHub Pages Showcase (Jekyll)
@@ -3158,6 +3122,27 @@ http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
+
+
+<!--
+https://twitter.com/jessicahische/status/1343614261277282306
+
+## Django
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+
+Steph
+https://stylestage.dev/styles/floral-vibes/
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+
+Web skills
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+-->
+
 
 <!--
 Regex
@@ -3844,6 +3829,20 @@ https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-s
 
 
 <!--
+https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+
+
+https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
+
+Edge cloud platform
+https://www.fastly.com/
+
+Automation framework
+https://robotframework.org/
+
+App and browser testing
+https://www.browserstack.com/
+
 MongoDB and Elastic
 https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
 https://www.elastic.co/what-is/elk-stack
@@ -3852,16 +3851,11 @@ PostHTML
 https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
 https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
 
-https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
-
-https://robotframework.org/
-https://www.fastly.com/
+Jam
 https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
 https://svelte.dev/tutorial/basics | Introduction / Basics • Svelte Tutorial
-https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
-https://www.browserstack.com/
 
-
+Fast AI
 https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
 
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
@@ -3894,6 +3888,9 @@ Deploy/Django
 https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
 
 ## Next
+
+Brian
+https://www.youtube.com/watch?v=nJwqX-rfpXw
 
 Next themes
 https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
