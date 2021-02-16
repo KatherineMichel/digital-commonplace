@@ -590,6 +590,14 @@ https://www.youtube.com/watch?v=SGtoR5s8fgE
 https://www.youtube.com/watch?v=-CEVBPZDid0
 
 
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
+https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
+https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
+https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
+https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
+
+
 https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
 
 https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
