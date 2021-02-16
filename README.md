@@ -607,6 +607,11 @@ https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-
 Great Talk
 https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
 
+https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
+https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
+
+https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
+
 
 https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
 https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
@@ -3878,6 +3883,7 @@ https://arc.codes/docs/en/guides/get-started/quickstart
 https://p5js.org/
 
 https://hasura.io/
+https://twitter.com/sarah_edo/status/1320761774447063040 | Sarah Drasner on Twitter: "💫 I'm quickly becoming a Hasura fangirl (no they didn't ask me to say that), so I wrote up a post on how to get started with GraphQL with Hasura and my favorite metaframework, Nuxt! I made a repo you can explore, too: https://t.co/LX4qZL8dRJ https://t.co/QLVOISn6Z9" / Twitter
 
 https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
 
