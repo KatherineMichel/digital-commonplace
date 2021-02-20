@@ -417,6 +417,7 @@ https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html
 https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
 
 Carlton Weeknotes
+https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
 https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
 https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
 https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
@@ -460,6 +461,8 @@ https://github.com/simonw/datasette/discussions/990 | Potential new elevator pit
 Dogsheep
 https://simonwillison.net/2019/Oct/7/dogsheep/
 https://twitter.com/simonw/status/1181292173020368896
+
+https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit | Building a personal data warehouse in Snowflake for fun and no profit. — Thomas Dziedzic
 
 Personal Data Warehouse
 https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
@@ -592,6 +595,10 @@ https://www.youtube.com/watch?v=SGtoR5s8fgE
 https://www.youtube.com/watch?v=-CEVBPZDid0
 
 
+KJ
+https://diversityorgs.tech/ | DiversityOrgs.Tech
+
+
 https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
 https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
 https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
@@ -653,6 +660,10 @@ Interesting
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
+Jacob
+https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
+https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
+
 Important- Engineering Orgs
 https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
 https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
@@ -667,6 +678,20 @@ Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
 
 https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+System Python
+https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
+https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
+
 
 
 ## Security
@@ -2151,6 +2176,7 @@ https://repl.it/talk/
 https://blog.repl.it/alwayson
 https://repl.it/templates
 https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
 
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
@@ -2246,6 +2272,8 @@ Coding Competitions
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 
 <!--
+https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel?guid=none&deviceId=128bacde-962a-47df-8396-1dec5f9be439
+
 DevICT Gam Jam
 https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
 https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
@@ -2253,12 +2281,14 @@ https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+https://dev.to/devteam/announcing-the-new-relic-hack-the-planet-contest-on-dev-5d | Announcing the New Relic Hack the Planet Contest on DEV! - DEV Community 👩‍💻👨‍💻
 https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
 
 Game Jam, Game Off
 https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
 https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
 https://2020game.io/ | 2020 Game
+https://dev.to/github/github-game-off-top-picks-from-2020-submissions-where-to-learn-game-dev-4no0 | GitHub Game Off 🎮 Top picks from 2020 submissions & where to learn game dev - DEV Community 👩‍💻👨‍💻
 https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
 https://itch.io/jam/game-off-2017 | Game Off - itch.io
 https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
@@ -3845,6 +3875,9 @@ https://docs.npmjs.com/searching-for-and-choosing-packages-to-download#package-s
 
 <!--
 https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+
+https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
+https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
 
 
 https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
