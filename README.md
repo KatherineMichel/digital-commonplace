@@ -400,47 +400,41 @@ https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twi
 https://twitter.com/andrewgodwin/status/1147272951118483457
 -->
 
+
+
 <!--
-Simon
-
-https://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/ | Weeknotes: Datasette internals
-
 https://twitter.com/simonw/status/1343307038734962690 | Simon Willison on Twitter: "@jasoncwarner @datasetteproj The Mozilla example is interesting because they don't have to do a full deploy for a content change - they effectively mirror their SQLite database file to all of their frontend machines and have a cron that updates it on a schedule https://t.co/rhWWta6Gh8" / Twitter
 
-
-https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
-
-https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
-
 Simon
+https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson 🇪🇺 on Twitter: "djangobench running hourly via a GitHub Action into Datasette… 👀 @simonw 🤔 https://t.co/cFfvO64rH3" / Twitter
 https://twitter.com/simonw/status/1332309496824172544 | Simon Willison on Twitter: "These are really nice - and this notebook lets you interactively adjust things like colors and line-widths for the different counties and zip codes" / Twitter
-https://twitter.com/simonw/status/1331380727754067969 | Simon Willison on Twitter: "Today I was reminded of how insanely performant ripgrep is - I wanted to search across all of my checked out Git repos (~500 folders) so I ran rg '\.config\(' -g '*.py' in the parent directory and it gave me results across all 500 projects in ~2.5 seconds" / Twitter
-https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
 
 
+
+NYT JSON
 https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
 https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
 https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
 
-https://datasette.io/
-Datasette
-https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
-
-
+Carlton Weeknotes
 https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
 https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
+https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
+
+Simon Automation
+https://twitter.com/simonw/status/1331380727754067969 | Simon Willison on Twitter: "Today I was reminded of how insanely performant ripgrep is - I wanted to search across all of my checked out Git repos (~500 folders) so I ran rg '\.config\(' -g '*.py' in the parent directory and it gave me results across all 500 projects in ~2.5 seconds" / Twitter
 
 Weeknotes Methodology
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
 https://twitter.com/simonw/status/1250652889938186240
 https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
 https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
 https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
 
-Simon
-https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+Simon's Blog
 https://simonwillison.net/
-https://simonwillison.net/2017/Oct/17/free-continuous-deployment/
+https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
+
 https://simonwillison.net/2020/Oct/9/git-scraping/ | Git scraping: track changes over time by scraping to a Git repository
 https://simonwillison.net/2019/Jan/7/exploring-search-relevance-algorithms-sqlite/ | Exploring search relevance algorithms with SQLite
 https://simonwillison.net/2020/May/21/apple-photos-sqlite/ | Using SQL to find my best photo of a pelican according to Apple Photos
@@ -480,15 +474,21 @@ https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: To
 https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
 https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
 
+Datasette Website
+https://datasette.io/
+https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
+
 Blog- Datasette
 https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
 https://simonwillison.net/2020/Mar/9/datasette-search-all/
 https://simonwillison.net/2020/Apr/14/datasette-clone/
 
+https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
 
-Simon's template
-https://github.com/simonw/pypi-rename | simonw/pypi-rename: Cookiecutter template for creating renamed PyPI packages
+Simon's Template
 https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
+https://github.com/simonw/pypi-rename | simonw/pypi-rename: Cookiecutter template for creating renamed PyPI packages
+https://github.com/simonw/python-lib
 https://twitter.com/simonw/status/1302806418421030912 | Simon Willison on Twitter: "Made myself another cookiecutter template this morning - this one sets up new open source Python libraries based on my preferred way of doing that (with Github Actions CI for both running tests and publishing the package to PyPI) https://t.co/SsjROare3e" / Twitter
 
 Datasette Tutorial
@@ -496,6 +496,7 @@ https://rixx.de/blog/datasette-setup/
 https://fly.io/blog/making-datasets-fly-with-datasette-and-fly/ | Making Datasets Fly with Datasette and Fly · Fly
 
 Datasette
+https://simonwillison.net/2020/Dec/27/weeknotes-datasette-internals/ | Weeknotes: Datasette internals
 https://github.com/simonw/datasette/discussions | Discussions · simonw/datasette
 https://github.com/simonw/datasette-template-sql
 https://github.com/simonw/datasette-insert/issues/14 | Rename this plugin to datasette-insert · Issue #14 · simonw/datasette-insert
@@ -544,6 +545,7 @@ https://twitter.com/simonw/status/1306636974204174336 | Simon Willison on Twitte
 Git Scraping
 https://twitter.com/simonw/status/1314654153646383104
 -->
+
 
 <!--
 Hynek Schlawack
