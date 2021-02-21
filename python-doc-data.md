@@ -669,6 +669,18 @@ try-except-else statement
 https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
 
 
+## Compound or complex statements
+
+```python
+header: 
+   suite
+header:
+   suite 
+header:
+   suite
+```
+
+
 ## if Statements
 
 Conditional test
@@ -682,6 +694,22 @@ Number of statements
 
 https://docs.python.org/3/tutorial/controlflow.html#if-statements
 https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
+
+if statement
+
+```python
+if condition true:
+    action
+```
+
+if-else statement
+
+```python
+if condition true:
+    action
+else:
+    action
+```
 
 if-elif-else statement
 
@@ -702,6 +730,13 @@ Conditional test
 * if the while statements becomes False, the else statement, if present, is executed
 
 https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+
+while statement
+
+```python
+while condition true:
+    action
+```
 
 while-else statement
 
@@ -1879,7 +1914,29 @@ print 'Hello world! ^
 SyntaxError: EOL while scanning string literal
 ```
 
+### Error Reporting Versus Failing Silently
+
+Two ways to deal with user errors (you decide whether error should be reported to user)
+* report error
+* let error fail silently (program continues to run without reporting error to user)
+
+### Failing Silently
+
+Use the pass statement to fail silently
+
+```python
+try:
+    something
+except:
+    pass
+```
+
 ### Raising an Exception
+
+Use it when you think an error might occur while your program is running. 
+1. try block: code that will run that might cause an exception
+2. except block: code that should run in response if a particular type of exception occurs
+3. else block: code that should only run if try block was successful
 
 ```python
 try:
