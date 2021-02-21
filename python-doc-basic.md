@@ -465,6 +465,29 @@ print(variable)
 7.6. The return statement
 https://docs.python.org/3/reference/simple_stmts.html#the-return-statement
 
+## Naming Conventions
+
+Variable Names
+
+* Can start with a letter or an underscore, but not with a number.
+* Can only contain letters, numbers, and underscores. 
+* Spaces not allowed
+* Do not use Python keywords and function names as variable names
+* Should be short but descriptive.
+* Lowercase letter l and the uppercase letter O could be confused with the numbers 1 and 0.
+
+Anti-Pattern
+```python
+l as 1
+O as 0
+```
+
+<!--
+anti-pattern
+O = 2
+I = 3
+-->
+
 ### Common Naming Conventions
 
 <!--
@@ -1043,3 +1066,26 @@ Convert an integer number to an octal string prefixed with “0o”.
 
 Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
 ```ord()```
+
+## Input
+
+Accept input from a user. Input is stored as a string.
+
+```python
+<variable> = input()
+print(<variable>)
+```
+
+Example
+
+```python
+name = input("Name? ")
+print("Hello, " + name + "!")
+```
+
+Convert input from string into integer
+
+```python
+age = input("Age? ")
+age = int(age)
+```
