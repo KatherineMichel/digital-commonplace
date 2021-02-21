@@ -1879,6 +1879,33 @@ print 'Hello world! ^
 SyntaxError: EOL while scanning string literal
 ```
 
+### Raising an Exception
+
+```python
+try:
+    something
+except:
+    raise Error
+```
+
+Don’t use bare except blocks (use ```Exception``` instead)
+
+```python
+try:
+    something
+except:
+    do something else
+```
+
+try-except statement
+
+```python
+try:
+    something
+except Exception:
+    do something else
+```
+
 try-except-else statement
 
 ```python
@@ -1888,6 +1915,15 @@ except Exception:
     do something else
 else:
     do something else
+```
+
+Print the exception
+
+```python
+try:
+    something
+except Exception as e:
+    print(e, type(e))
 ```
 
 <!--
