@@ -255,9 +255,197 @@ https://www.youtube.com/watch?v=wtCQalq7L-E
 
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
+<!--
+Domain Logic Patterns: Transaction Script (110), Domain Model (116), Table Module (125), Service Layer (133).
+
+Data Source Architectural Patterns: Table Data Gateway (144), Row Data Gateway (152), Active Record (160), Data Mapper (165).
+
+Object-Relational Behavioral Patterns: Unit of Work (184), Identity Map (195), Lazy Load (200)
+
+Object-Relational Structural Patterns: Identity Field (216), Foreign Key Mapping (236), Association Table Mapping (248), Dependent Mapping (262), Embedded Value (268), Serialized LOB (272), Single Table Inheritance (278), Class Table Inheritance (285), Concrete Table Inheritance (293), Inheritance Mappers (302).
+
+Object-Relational Metadata Mapping Patterns: Metadata Mapping (306), Query Object (316), Repository (322).
+
+Web Presentation Patterns: Model View Controller (330), Page Controller (333), Front Controller (344), Template View (350), Transform View (361), Two-Step View (365), Application Controller (379).
+
+Distribution Patterns: Remote Facade (388), Data Transfer Object (401)
+
+Offline Concurrency Patterns: Optimistic Offline Lock (416), Pessimistic Offline Lock (426), Coarse Grained Lock (438), Implicit Lock (449).
+
+Session State Patterns: Client Session State (456), Server Session State (458), Database Session State (462).
+
+Base Patterns: Gateway (466), Mapper (473), Layer Supertype (475), Separated Interface (476), Registry (480), Value Object (486), Money (488), Special Case (496), Plugin (499), Service Stub (504), Record Set (508)
+-->
+
 ## Refactoring
 
 * [Refactoring Catalog](https://refactoring.com/catalog/)
+
+<!--
+Tags
+basic
+encapsulation
+moving-features
+organizing-data
+simplify-conditional-logic
+refactoring-apis
+dealing-with-inheritance
+collections
+delegation
+errors
+extract
+parameters
+fragments
+grouping-function
+immutability
+inline
+remove
+rename
+split-phase
+variables
+
+Change Function Declaration
+• Add Parameter 
+• Change Signature 
+• Remove Parameter 
+• Rename Function 
+• Rename Method
+
+Inverse
+Change Reference to Value
+Change Value to Reference
+
+Collapse Hierarchy
+Combine Functions into Class
+Combine Functions into Transform
+Consolidate Conditional Expression
+Decompose Conditional
+Encapsulate Collection
+Encapsulate Record
+• Replace Record with Data Class
+
+Encapsulate Variable
+• Encapsulate Field 
+• Self-Encapsulate Field
+
+Inverse
+Extract Class
+Inline Class
+
+Inverse
+Extract Function
+Inline Function
+• Inline Method
+
+Extract Method
+
+Extract Superclass
+
+Inverse
+Extract Variable
+• Introduce Explaining Variable
+Inline Variable
+• Inline Temp
+
+Inverse
+Hide Delegate
+Remove Middle Man
+
+Introduce Assertion
+Introduce Parameter Object
+Introduce Special Case
+• Introduce Null Object
+
+Move Field
+Move Function
+• Move Method
+
+Inverse
+Move Statements into Function
+Move Statements to Callers
+
+Parameterize Function
+• Parameterize Method
+
+Preserve Whole Object
+Pull Up Constructor Body
+
+Inverse
+Pull Up Field
+Push Down Field
+
+Inverse
+Pull Up Method
+Push Down Method
+
+Remove Dead Code
+Remove Flag Argument
+• Replace Parameter with Explicit Methods
+
+Remove Setting Method
+
+Inverse
+Remove Subclass
+• Replace Subclass with Fields
+Replace Type Code with Subclasses
+• Extract Subclass 
+• Replace Type Code with State/Strategy
+
+Rename Field
+Rename Variable
+
+Inverse
+Replace Command with Function
+Replace Function with Command
+• Replace Method with Method Object
+
+Replace Conditional with Polymorphism
+Replace Constructor with Factory Function
+• Replace Constructor with Factory Method
+
+Replace Control Flag with Break
+• Remove Control Flag
+
+Replace Derived Variable with Query
+Replace Error Code with Exception
+Replace Exception with Precheck
+• Replace Exception with Test
+
+Replace Inline Code with Function Call
+Replace Loop with Pipeline
+Replace Magic Literal
+• Replace Magic Number with Symbolic Constant
+
+Replace Nested Conditional with Guard Clauses
+
+Inverse
+Replace Parameter with Query
+• Replace Parameter with Method
+Replace Query with Parameter
+
+Replace Primitive with Object
+• Replace Data Value with Object 
+• Replace Type Code with Class
+
+Replace Subclass with Delegate
+Replace Superclass with Delegate
+• Replace Inheritance with Delegation
+
+Replace Temp with Query
+
+Return Modified Value
+Separate Query from Modifier
+Slide Statements
+• Consolidate Duplicate Conditional Fragments
+
+Split Loop
+Split Phase
+Split Variable
+• Remove Assignments to Parameters 
+• Split Temp
+
+Substitute Algorithm
+-->
 
 ## General Software Design Patterns
 
