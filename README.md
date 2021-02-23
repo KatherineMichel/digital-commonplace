@@ -585,11 +585,6 @@ https://github.com/carljm/dotfiles
 
 
 <!--
-Important
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-
-https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
-
 Brian Douglas... environment
 https://www.youtube.com/watch?v=SGtoR5s8fgE
 https://www.youtube.com/watch?v=-CEVBPZDid0
@@ -603,8 +598,8 @@ https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-
 https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
 https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
 https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
+
 https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
-https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
 
 
 https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
@@ -656,11 +651,12 @@ https://github.com/joelparkerhenderson/ground_rules#see-also
 Product Sprint
 https://github.com/google/software-product-sprint | google/software-product-sprint
 
-Interesting
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+Camille
+https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
 
 Jacob
+https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
 https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
 https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
 
@@ -723,11 +719,6 @@ https://github.com/encode/starlette-example | encode/starlette-example: An examp
 
 
 <!--
-http://inventwithpython.com/beyond/
-
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-
-
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
 
 http://meowni.ca/posts/emoji-emoji-emoji/
@@ -2166,10 +2157,6 @@ CodePen
 <!--
 https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
 
-Digital Ocean
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
 https://blog.repl.it/global | Repl.it - Going Global
 https://repl.it/talk/
 
@@ -2230,8 +2217,8 @@ Python Articles and Tutorials
 <!--
 https://www.nature.com/ | Nature
 
+https://stackshare.io/featured-posts
 https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-http://stackshare.io/posts/
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
@@ -2322,10 +2309,6 @@ Real Python
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
-
 Simple is Better Than Complex
 * [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
 
@@ -2337,6 +2320,10 @@ Full Stack Python
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
 Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
@@ -2413,7 +2400,9 @@ https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects
 
 https://djangobuilder.io/#/ | Django Builder
 
+
 https://django.doctor/challenge | Django Doctor - Django code improvement bot
+
 
 https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
 
@@ -2429,11 +2418,6 @@ https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Djang
 
 ## Tutorials
 
-Python 3.9
-https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c | 10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science
-https://towardsdatascience.com/python-3-9-9c2ce1332eb4 | What's New in Python 3.9 | Future of Python | Towards Data Science
-https://testdriven.io/blog/python39/ | Python 3.9: What's New | TestDriven.io
-
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
 Django security
@@ -2441,14 +2425,6 @@ https://learndjango.com/tutorials/django-best-practices-security
 
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-
-Test Driven
-https://testdriven.io/part-six-intro/ | Microservices with Docker, Flask, and React - Introduction
-https://testdriven.io/blog/deploying-django-to-digitalocean-with-docker-and-github-actions/
-https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
-https://testdriven.io/blog/django-custom-user-model/ | Creating a Custom User Model in Django | TestDriven.io
-https://testdriven.io/blog/django-spa-auth/ | Django Session-based Auth for Single Page Apps | TestDriven.io
-https://testdriven.io/blog/django-performance-testing/ | Automating Performance Testing in Django | TestDriven.io
 
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
@@ -2507,6 +2483,16 @@ https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applicatio
 https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
 https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
 https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+
+https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
+
+Security 
+https://adamj.eu/tech/2020/04/08/django-security-headers-hall-of-fame/
+
+Memory Leaks
+https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
+https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
 
 https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
 https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
@@ -2530,6 +2516,8 @@ https://github.com/spookylukey/django-views-the-right-way/tree/master/code
 https://spookylukey.github.io/django-views-the-right-way/
 https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/ | Everything is an X - lukeplant.me.uk
 
 ## Nina
 
@@ -2620,6 +2608,26 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
+https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+
+Interesting
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+Important
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+http://inventwithpython.com/beyond/
+
+Digital Ocean
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+
+https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
+
+
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 
 http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
@@ -2709,6 +2717,7 @@ https://twitter.com/traversymedia
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 https://50projects50days.com/projects/random-image-feed/ | Random Image Feed
 https://www.udemy.com/course/50-projects-50-days/ | 50 Projects In 50 Days - HTML, CSS & JavaScript | Udemy
+
 
 Traversy
 https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
