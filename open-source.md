@@ -696,6 +696,7 @@ https://sada.com/insights/blog/why-im-on-the-board-of-the-open-usage-commons/
 https://choosealicense.com/licenses/
 
 Free Software Foundation- License List
+https://web.archive.org/web/20210227035120/http://www.gnu.org/licenses/
 https://www.gnu.org/licenses/license-list.en.html | Various Licenses and Comments about Them - GNU Project - Free Software Foundation
 https://www.gnu.org/licenses/licenses.en.html | Licenses - GNU Project - Free Software Foundation
 https://www.gnu.org/licenses/license-list.html#JSON | Various Licenses and Comments about Them - GNU Project - Free Software Foundation
@@ -726,8 +727,13 @@ Open Standards Requirement for Software
 https://opensource.org/osr
 
 Free Software Foundation: What is free software? The Free Software Definition
+https://en.wikipedia.org/wiki/Gratis_versus_libre
 https://www.gnu.org/philosophy/free-sw.html
 https://www.gnu.org/philosophy/open-source-misses-the-point.html
+https://web.archive.org/web/20210220142526/https://www.gnu.org/philosophy/open-source-misses-the-point.html
+
+http://www.gnu.org/licenses/gpl.html
+
 
 https://www.debian.org/social_contract
 
