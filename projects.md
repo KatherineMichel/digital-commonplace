@@ -1,5 +1,101 @@
 # Projects
 
+## To Do
+
+### Ongoing Projects
+
+<!--
+Prioritization/Learning Strategies
+https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic
+https://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf
+https://www.mindtools.com/pages/article/newHTE_91.htm
+
+New Release
+
+Pinax Roadmap
+https://github.com/pinax/pinax/projects/1
+https://github.com/pinax/pinax/wiki/Pinax-21.04-Release-Plan
+https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan
+
+Issues
+https://github.com/pinax/pinax/issues/165
+https://app.slack.com/client/T04R5AQTQ/C08N5S6AU
+https://github.com/pinax/pinax-project-teams/issues/1
+
+Pinax Starter Projects
+https://github.com/pinax/pinax-starter-projects/blob/master/update.sh
+
+https://github.com/slashsBin/styleguide-git-commit-message
+
+Django Jobs
+https://github.com/jefftriplett/django-jobs/pull/1/files
+https://github.com/simplworld/simpl-games-api/
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
+
+Django Test Plus
+https://github.com/revsys/django-test-plus/pull/122
+-->
+
+### Code Challenges
+
+100 Days of Code
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
+* [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
+
+
+<!--
+https://twitter.com/jessicahische/status/1343614261277282306
+
+https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+
+https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+
+Important
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+http://inventwithpython.com/beyond/
+
+Demos/Templates
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+Digital Ocean
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+Steph
+https://stylestage.dev/styles/floral-vibes/
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+
+Web skills
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+Interesting
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+-->
+
 ## VS Code
 
 ### Shortcuts
@@ -579,66 +675,6 @@ https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Commun
 https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
--->
-
-
-## Code Challenges
-
-100 Days of Code
-* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
-* [100 Days of Projects](https://100daysofprojects.carrd.co/)
-* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
-* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
-
-## To Do
-
-<!--
-https://twitter.com/jessicahische/status/1343614261277282306
-
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
-
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
-https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
-
-Important
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-
-http://inventwithpython.com/beyond/
-
-Demos/Templates
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-Digital Ocean
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
-Steph
-https://stylestage.dev/styles/floral-vibes/
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
-Interesting
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 -->
 
 ## Python Learning Resources
