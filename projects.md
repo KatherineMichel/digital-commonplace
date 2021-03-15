@@ -36,6 +36,20 @@ https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
 
 Django Test Plus
 https://github.com/revsys/django-test-plus/pull/122
+
+Make a game
+Game Simulation
+https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
+
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
+
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 -->
 
 ### Code Challenges
@@ -1218,6 +1232,18 @@ https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 
 
 
+## Awesome Python and Django
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Django
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
 
 ## Python and Django
 
@@ -1302,36 +1328,6 @@ https://nim-lang.org/
 -->
 
 
-## Deploy
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
-* [Vercel Zero Config](https://vercel.com/blog/zero-config)
-
-<!--
-Netlify
-https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
-
-https://vercel.com/blog/zeit-is-now-vercel
-
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-
-* [Vercel now](https://zeit.co/now)
-* [Vercel micro](https://github.com/vercel/micro)
-
-https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
-
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
--->
-
 ## HTML, CSS, JavaScript
 
 ### Website and Blog Resources
@@ -1373,6 +1369,36 @@ https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+-->
+
+### Deploy
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
+* [Vercel Zero Config](https://vercel.com/blog/zero-config)
+
+<!--
+Netlify
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+
+https://vercel.com/blog/zeit-is-now-vercel
+
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Vercel now](https://zeit.co/now)
+* [Vercel micro](https://github.com/vercel/micro)
+
+https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
 -->
 
 ### Goodies
@@ -1467,6 +1493,7 @@ https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very c
 https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 -->
 
+
 <!--
 HTTP, API, DOM
 https://expressjs.com/en/api.html
@@ -1500,6 +1527,7 @@ https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
+
 
 ### JAMStack
 
