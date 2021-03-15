@@ -401,7 +401,6 @@ https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on 
 https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
 
 
-
 ## Security
 
 https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
@@ -431,6 +430,14 @@ https://github.com/encode/starlette-example | encode/starlette-example: An examp
 
 
 <!--
+https://twitter.com/jessicahische/status/1343614261277282306
+
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
 
 http://meowni.ca/posts/emoji-emoji-emoji/
