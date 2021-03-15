@@ -99,8 +99,11 @@ https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learni
 
 ## Portfolio Ideas
 
-Game Simulation
-https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
+https://www.buymeacoffee.com/ | Buy Me a Coffee
+
+Brian Douglas... environment
+https://www.youtube.com/watch?v=SGtoR5s8fgE
+https://www.youtube.com/watch?v=-CEVBPZDid0
 
 https://www.wix.com/logo/maker
 
@@ -111,16 +114,6 @@ https://github.com/mattmakai/mattmakai.com/tree/gh-pages/source/resume | mattmak
 
 Neat layout
 http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
-
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
-
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
-
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 
 Spanish
 https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
@@ -326,6 +319,240 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
+
+<!--
+KJ
+https://diversityorgs.tech/ | DiversityOrgs.Tech
+
+
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
+
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
+https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
+https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
+
+https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
+
+
+https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
+
+https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
+
+Wow
+https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
+
+
+Family Tree
+https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
+
+DevICT
+https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+
+Great Talk
+https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
+
+https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
+https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
+
+https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
+
+
+https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
+https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
+
+
+https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
+https://www.neuroinclusion.io/ | neuroinclusion.io
+
+Docs
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
+https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
+
+
+https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
+
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
+
+
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+System Python
+https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
+https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
+
+
+
+## Security
+
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-samm/ | OWASP SAMM
+https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
+
+Important
+https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
+
+
+## Fast AI
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+
+
+## Innovations
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+-->
+
+
+<!--
+https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
+
+http://meowni.ca/posts/emoji-emoji-emoji/
+
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://github.com/webpro/programming-principles
+
+https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+
+
+Mac
+https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
+
+
+https://applitools.com/
+
+API
+https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+
+https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://docs.python.org/3/library/sqlite3.html
+
+https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+vscode html css support
+Docs driven dev
+Divio Docs, GitHub Docs
+Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
+Pre-mortem and Postmortem
+Unix and bash
+
+GraphQL
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
+https://devcenter.heroku.com/articles/platform-api-reference
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
+
+
+CI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+
+https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
+https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
+
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
+
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+
+Mac Scrips
+https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
+
+https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
+
+
+## Automation and Container
+
+Terraform
+
+VS Code/Container
+https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
+
+https://github.com/jessfraz/dockerfiles
+
+Container
+https://www.docker.com/get-started | Get Started with Docker | Docker
+https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
+https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
+
+* [Docker for Mac](https://docs.docker.com/docker-for-mac)
+
+https://podman.io/
+
+https://www.packer.io/ | Packer by HashiCorp
+https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+-->
+
 
 <!--
 Feross
@@ -582,280 +809,6 @@ https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
 
-
-
-<!--
-Brian Douglas... environment
-https://www.youtube.com/watch?v=SGtoR5s8fgE
-https://www.youtube.com/watch?v=-CEVBPZDid0
-
-
-KJ
-https://diversityorgs.tech/ | DiversityOrgs.Tech
-
-
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
-
-Luke
-https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
-
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
-https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
-https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
-
-https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
-
-
-https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
-
-https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
-
-Wow
-https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
-
-
-Family Tree
-https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
-
-DevICT
-https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
-
-Great Talk
-https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
-
-https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
-https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
-
-https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
-
-
-https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
-https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
-https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
-
-
-https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
-https://www.neuroinclusion.io/ | neuroinclusion.io
-
-Docs
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
-https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
-
-https://www.buymeacoffee.com/ | Buy Me a Coffee
-
-https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
-
-
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
-
-Product Sprint
-https://github.com/google/software-product-sprint | google/software-product-sprint
-
-Camille
-https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
-
-Jacob
-https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
-https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
-https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
-https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
-
-Important- Engineering Orgs
-https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
-https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
-
-
-Python- Rust Bindings
-https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
-
-Python Debugging
-https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
-https://pypi.org/project/ipdb/
-https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
-
-System Python
-https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
-https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
-
-
-
-## Security
-
-https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
-https://owasp.org/www-project-samm/ | OWASP SAMM
-https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-Important
-https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
-
-
-## Fast AI
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
-
-
-## Innovations
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
--->
-
-
-<!--
-https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
-
-http://meowni.ca/posts/emoji-emoji-emoji/
-
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
-
-
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://github.com/webpro/programming-principles
-
-https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
-
-https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
-
-
-Mac
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-
-https://applitools.com/
-
-API
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-
-https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
-
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-vscode html css support
-Docs driven dev
-Divio Docs, GitHub Docs
-Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
-Pre-mortem and Postmortem
-Unix and bash
-
-GraphQL
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
-
-https://devcenter.heroku.com/articles/platform-api-reference
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-
-
-CI
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-
-https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
-
-https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
-
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
-
-
-Mac Scrips
-https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-
-## Automation and Container
-
-Terraform
-
-VS Code/Container
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
-
-https://github.com/jessfraz/dockerfiles
-
-Container
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-
-https://podman.io/
-
-https://www.packer.io/ | Packer by HashiCorp
-https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
--->
-
-
-## Awesome Python and Django
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-
-Awesome Django
-* [Awesome Django](https://github.com/wsvincent/awesome-django)
-* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-
 <!--
 ## Python and Django
 
@@ -1067,6 +1020,82 @@ https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion 
 https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
 -->
 
+<!--
+Brand
+http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
+
+
+Presentation advice
+https://twitter.com/jen4web/status/1343561729888956418 | https://twitter.com/jen4web/status/1343561729888956418
+
+https://github.com/TryGhost/Ghost
+https://www.theverge.com/2021/1/8/22219468/substack-theme-options-multipub-crm-lists | Substack is adding theming options to change the look of newsletters - The Verge
+
+YouTube
+https://www.canva.com/design/DAERl1ljA6k/AeJUXC8wabSiQXQIyAcIVA/edit?utm_source=onboarding | Untitled design - YouTube Thumbnail
+https://www.canva.com/create/youtube-thumbnails/ | Free Online Youtube Thumbnail Maker: Design Your Own - Canva
+https://www.canva.com/sizes/youtube/ | YouTube size guide - Canva's Design Wiki
+https://creatoracademy.youtube.com/page/lesson/thumbnails | Make effective thumbnails and titles - YouTube
+https://spark.adobe.com/make/youtube-thumbnail-maker/ | Free YouTube Thumbnail Maker with Online Templates | Adobe Spark
+
+Blog posts- SEO
+https://ahrefs.com/vs | Ahrefs vs. SEMrush vs. Moz: What the Industry Thinks
+https://www.semrush.com/ | Semrush - Online Visibility Management Platform
+https://moz.com/ | Moz - SEO Software for Smarter Marketing
+
+## Demos and Other Content
+
+Gif
+https://www.google.com/search?q=how+to+make+an+art+gif&oq=how+to+make+an+art+gif&aqs=chrome..69i57j0i22i30l5.5463j1j7&sourceid=chrome&ie=UTF-8 | how to make an art gif - Google Search
+
+Demo
+https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
+https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
+
+Record a Video/Gif
+
+http://gifmaker.me/
+OSX/Gif
+https://gist.github.com/dergachev/4627207
+https://mobile.twitter.com/AlSweigart/status/1249858205649260544
+
+Demos
+http://en.wikipedia.org/wiki/Vlog
+Presentations on demand
+https://twitter.com/bryanl/status/1295389406866677760
+
+## OBS Set Up
+
+https://dev.to/erikaheidi/how-to-use-obs-studio-to-record-or-stream-live-presentations-474j | How to Use OBS Studio to Record or Stream Live Presentations - DEV Community 👩‍💻👨‍💻
+
+FOSDEM Broadcasting Guidance 
+https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers | FOSDEM 2021 video email to speakers · FOSDEM/video Wiki
+https://github.com/blackbeard334/fosdem21-emulator-devroom-cfp/blob/main/SPEAKERS_GUIDE.MD | fosdem21-emulator-devroom-cfp/SPEAKERS_GUIDE.MD at main · blackbeard334/fosdem21-emulator-devroom-cfp
+
+OBS
+Chrome... Advanced settings... hardware acceleration?
+chrome://settings/system | Settings
+https://photography.tutsplus.com/tutorials/obs-for-screen-recording-video-and-output-settings--cms-28542#:~:text=It%20can%20either%20be%20the%20same%20as%20the%20base%20resolution,(1280x720)%2C%20for%20example. | How to Get Best-Quality Screen Recording Video in OBS Studio
+
+Royalty Free Music
+https://www.pretzel.rocks/
+https://incompetech.com/music/
+
+zoom backgrounds - Google Search
+obs use a background - Google Search
+
+Broadcasting
+https://streamlabs.com/ | The Best Free Live Streaming Software on Windows and Mac | Streamlabs
+https://obsproject.com/ | Open Broadcaster Software®️ | OBS
+https://obsproject.com/welcome | Welcome | OBS
+https://obsproject.com/forum/resources/ | Resources | OBS Forums
+https://obsproject.com/forum/threads/whats-the-point-in-profiles.24079/ | Question / Help - Whats The Point In Profiles? | OBS Forums
+
+Presentations
+https://www.amazon.com/How-Draw-Cute-Stuff-Everything/dp/1454925647 | How to Draw Cute Stuff: Draw Anything and Everything in the Cutest Style Ever! (Volume 1): Nguyen, Angela: 9781454925644: Amazon.com: Books
+-->
+
+
 ## Launch
 
 <!--
@@ -1201,6 +1230,7 @@ https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.m
 https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
 -->
 
+
 ## Agile and DevOps
 
 Atlassian Agile
@@ -1244,7 +1274,6 @@ https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #
 https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
 -->
 
-
 ## Company Playbooks
 
 Handbooks
@@ -1270,6 +1299,7 @@ https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 https://twitter.com/dnsmichi/status/1314267751607869442
 https://twitter.com/melsmo/status/1313180759889305601
 -->
+
 
 ## Engineering Performance Resources
 
@@ -1315,10 +1345,6 @@ http://sijinjoseph.com/programmer-competency-matrix/
 
 software development competency framework
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
-
-Teams
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
 -->
 
 
@@ -1804,81 +1830,6 @@ https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project 
 https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This is a project to identify your next open source contribution.
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
--->
-
-<!--
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-
-
-Presentation advice
-https://twitter.com/jen4web/status/1343561729888956418 | https://twitter.com/jen4web/status/1343561729888956418
-
-https://github.com/TryGhost/Ghost
-https://www.theverge.com/2021/1/8/22219468/substack-theme-options-multipub-crm-lists | Substack is adding theming options to change the look of newsletters - The Verge
-
-YouTube
-https://www.canva.com/design/DAERl1ljA6k/AeJUXC8wabSiQXQIyAcIVA/edit?utm_source=onboarding | Untitled design - YouTube Thumbnail
-https://www.canva.com/create/youtube-thumbnails/ | Free Online Youtube Thumbnail Maker: Design Your Own - Canva
-https://www.canva.com/sizes/youtube/ | YouTube size guide - Canva's Design Wiki
-https://creatoracademy.youtube.com/page/lesson/thumbnails | Make effective thumbnails and titles - YouTube
-https://spark.adobe.com/make/youtube-thumbnail-maker/ | Free YouTube Thumbnail Maker with Online Templates | Adobe Spark
-
-Blog posts- SEO
-https://ahrefs.com/vs | Ahrefs vs. SEMrush vs. Moz: What the Industry Thinks
-https://www.semrush.com/ | Semrush - Online Visibility Management Platform
-https://moz.com/ | Moz - SEO Software for Smarter Marketing
-
-## Demos and Other Content
-
-Gif
-https://www.google.com/search?q=how+to+make+an+art+gif&oq=how+to+make+an+art+gif&aqs=chrome..69i57j0i22i30l5.5463j1j7&sourceid=chrome&ie=UTF-8 | how to make an art gif - Google Search
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
-
-## OBS Set Up
-
-https://dev.to/erikaheidi/how-to-use-obs-studio-to-record-or-stream-live-presentations-474j | How to Use OBS Studio to Record or Stream Live Presentations - DEV Community 👩‍💻👨‍💻
-
-FOSDEM Broadcasting Guidance 
-https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers | FOSDEM 2021 video email to speakers · FOSDEM/video Wiki
-https://github.com/blackbeard334/fosdem21-emulator-devroom-cfp/blob/main/SPEAKERS_GUIDE.MD | fosdem21-emulator-devroom-cfp/SPEAKERS_GUIDE.MD at main · blackbeard334/fosdem21-emulator-devroom-cfp
-
-OBS
-Chrome... Advanced settings... hardware acceleration?
-chrome://settings/system | Settings
-https://photography.tutsplus.com/tutorials/obs-for-screen-recording-video-and-output-settings--cms-28542#:~:text=It%20can%20either%20be%20the%20same%20as%20the%20base%20resolution,(1280x720)%2C%20for%20example. | How to Get Best-Quality Screen Recording Video in OBS Studio
-
-Royalty Free Music
-https://www.pretzel.rocks/
-https://incompetech.com/music/
-
-zoom backgrounds - Google Search
-obs use a background - Google Search
-
-Broadcasting
-https://streamlabs.com/ | The Best Free Live Streaming Software on Windows and Mac | Streamlabs
-https://obsproject.com/ | Open Broadcaster Software®️ | OBS
-https://obsproject.com/welcome | Welcome | OBS
-https://obsproject.com/forum/resources/ | Resources | OBS Forums
-https://obsproject.com/forum/threads/whats-the-point-in-profiles.24079/ | Question / Help - Whats The Point In Profiles? | OBS Forums
-
-Presentations
-https://www.amazon.com/How-Draw-Cute-Stuff-Everything/dp/1454925647 | How to Draw Cute Stuff: Draw Anything and Everything in the Cutest Style Ever! (Volume 1): Nguyen, Angela: 9781454925644: Amazon.com: Books
 -->
 
 
@@ -3960,6 +3911,32 @@ Lynn Root's talks
 https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+-->
+
+## Engineering Orgs
+
+<!--
+Camille
+https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
+
+Teams
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+Jacob
+https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
+https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
+https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
+
+Important- Engineering Orgs
+https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
 -->
 
 ## Authority Figures and Books
