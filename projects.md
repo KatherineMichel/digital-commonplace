@@ -5,6 +5,8 @@
 ### Ongoing Projects
 
 <!--
+https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
+
 Prioritization/Learning Strategies
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic
@@ -62,14 +64,7 @@ https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jek
 
 
 <!--
-https://twitter.com/jessicahische/status/1343614261277282306
-
 https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
-
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
 
 Important!
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
@@ -962,11 +957,8 @@ Wes Bos Courses
 <!--
 https://wizardzines.com/zines/css/ | Hell Yes! CSS!
 
-https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
-
 https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
 
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
 
 https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
@@ -975,22 +967,37 @@ Florin
 https://github.com/florinpop17/10-projects-10-hours | florinpop17/10-projects-10-hours
 https://github.com/florinpop17/app-ideas | florinpop17/app-ideas: A Collection of application ideas which can be used to improve your coding skills.
 
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+https://github.com/bradtraversy/
+https://www.udemy.com/user/brad-traversy/
+http://www.traversymedia.com
+https://twitter.com/traversymedia
 
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
 
-https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
-http://imgur.com/gallery/fM9yn
-https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
-https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
-
-http://gameprogrammingpatterns.com/contents.html
-https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
+50 Projects
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+https://50projects50days.com/projects/random-image-feed/ | Random Image Feed
+https://www.udemy.com/course/50-projects-50-days/ | 50 Projects In 50 Days - HTML, CSS & JavaScript | Udemy
 
 
-https://twitter.com/chriscoyier/status/1337569425776635904
-https://wordpress.org/themes/twentytwentyone/
-https://css-tricks.com/unconventional-stock-image-sources/
+Traversy
+https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
+https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/modern_portfolio
+https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
+
+https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+
+https://github.com/wesbos/JavaScript30
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
+
+
 
 
 Web Design
@@ -1023,35 +1030,6 @@ https://twitter.com/FagnerBrack
 https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
 https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
 https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
-
-
-https://github.com/bradtraversy/
-https://www.udemy.com/user/brad-traversy/
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-50 Projects
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-https://50projects50days.com/projects/random-image-feed/ | Random Image Feed
-https://www.udemy.com/course/50-projects-50-days/ | 50 Projects In 50 Days - HTML, CSS & JavaScript | Udemy
-
-
-Traversy
-https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
-https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/modern_portfolio
-https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
-
-https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-
-https://github.com/wesbos/JavaScript30
-https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
-https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
-https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 
 
 AWS
@@ -1146,6 +1124,24 @@ https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Close
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
 https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
 https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+
+https://twitter.com/chriscoyier/status/1337569425776635904
+https://wordpress.org/themes/twentytwentyone/
+https://css-tricks.com/unconventional-stock-image-sources/
+
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
+https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
+http://imgur.com/gallery/fM9yn
+https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
+https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
+
+http://gameprogrammingpatterns.com/contents.html
+https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
 
 
