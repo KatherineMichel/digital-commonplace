@@ -101,16 +101,28 @@ https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learni
 
 https://www.buymeacoffee.com/ | Buy Me a Coffee
 
-Brian Douglas... environment
-https://www.youtube.com/watch?v=SGtoR5s8fgE
-https://www.youtube.com/watch?v=-CEVBPZDid0
-
 https://www.wix.com/logo/maker
 
 Matt- Resume
 http://www.codingacrossamerica.com/ | Coding Across America
 http://www.mattmakai.com/matt-makai-resume.pdf | matt-makai-resume.pdf
 https://github.com/mattmakai/mattmakai.com/tree/gh-pages/source/resume | mattmakai.com/source/resume at gh-pages · mattmakai/mattmakai.com
+
+https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
+
+Talks
+https://twitter.com/di_codes/status/1363288819584303105 | Dustin Ingram on Twitter: "@glasnt @laceynwilliams @simonw My secret for writing up talks is to use https://t.co/uSR23MPM6W to record a transcript of me giving the talk, and then edit that into the writeup!" / Twitter
+
+Brian Douglas... environment
+https://www.youtube.com/watch?v=SGtoR5s8fgE
+https://www.youtube.com/watch?v=-CEVBPZDid0
+
+Great Talk
+https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
+
+https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
+
+https://twitter.com/juliaferraioli | julia ferraioli (@juliaferraioli) / Twitter
 
 Neat layout
 http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
@@ -321,84 +333,46 @@ https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Tech
 -->
 
 <!--
-KJ
-https://diversityorgs.tech/ | DiversityOrgs.Tech
+DevICT
+https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
 
-
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
-
-Luke
-https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
-
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
-https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
-https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
-
-https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
-
+Wow
+https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
 
 https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
 
 https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
 
-Wow
-https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
-
-
 Family Tree
 https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
 
-DevICT
-https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
-
-Great Talk
-https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
+https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
 
 https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
 https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
 
-https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
+https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
 
+KJ
+https://diversityorgs.tech/ | DiversityOrgs.Tech
 
 https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
 https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
-https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
 
+Articles
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
 
 https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
 https://www.neuroinclusion.io/ | neuroinclusion.io
 
-Docs
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
-https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
+https://free-for.dev/#/ | Free for developers
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
+https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
 
-https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
-
-
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
-
-Product Sprint
-https://github.com/google/software-product-sprint | google/software-product-sprint
-
-
-Python- Rust Bindings
-https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
-
-Python Debugging
-https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
-https://pypi.org/project/ipdb/
-https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
-
-System Python
-https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
-https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
+https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
 
 
 ## Security
@@ -427,6 +401,7 @@ https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramíre
 
 https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
 -->
+
 
 
 <!--
@@ -819,6 +794,19 @@ https://github.com/carljm/dotfiles
 <!--
 ## Python and Django
 
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+System Python
+https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
+https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
+
+
 Ana
 https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
 https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
@@ -1143,6 +1131,10 @@ https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on T
 
 https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
 https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
+
+Redwood
+https://app.livestorm.co/redwood/redwoodjs-meetup | RedwoodJS Meetup | RedwoodJS
+https://twitter.com/redwoodjs/status/1364255377324302341 | RedwoodJS on Twitter: "Redwood *Prerender* (aka SSG for those who prefer acronyms) is about to 🚀 Join this week's Meetup for a full walkthrough presentation followed by discussion + Q&amp;A. It’s Thursday the 25th. Details and free registration 👇 https://t.co/F4lfDeUPj8" / Twitter
 
 Redwood/React
 https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
