@@ -332,12 +332,214 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
 
+
 <!--
+## Python and Django
+
+Ana
+https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
+https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
+
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+System Python
+https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
+https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
+
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+
+
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
+
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+Python 3.9
+https://twitter.com/PrasoonPratham/status/1313392420038483968
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+
+## Django Tools and Approaches
+
+https://djangobuilder.io/#/ | Django Builder
+
+
+https://django.doctor/challenge | Django Doctor - Django code improvement bot
+
+
+https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
+
+https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
+
+https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
+
+Class-based Sites
+https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
+
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
+
+
+## Tutorials
+
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+https://learndjango.com/tutorials/django-best-practices-security
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+
+## Anthony Advice
+
+https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
+
+https://twitter.com/codewithanthony/status/1285974757750353920 | Anthony Sottile on Twitter: "@chaitan94 you may be interested to learn there's other ways of postmortem debugging as well! https://t.co/wbz8AyhmLP" / Twitter
+
+Anthony Advice
+https://www.youtube.com/watch?time_continue=2&v=bfyIrX4_yL8&feature=emb_logo | python packaging: data files (intermediate) anthony explains #071 - YouTube
+https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
+https://www.youtube.com/watch?v=ZpOoRSkm-dQ&feature=emb_logo | what is PATH? (beginner - intermediate) anthony explains #070 - YouTube
+
+typing
+https://www.youtube.com/watch?v=HESA7oukEqE | (1) typing __getitem__ (python / mypy) (intermediate) anthony explains #045 - YouTube
+
+https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
+
+flake8 Plugin
+https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
+https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
+
+https://www.youtube.com/watch?v=sW1qUZ_nSXk&feature=emb_logo | python packaging: src layout (intermediate) anthony explains #048 - YouTube
+
+intro to tox
+https://www.youtube.com/watch?v=75WBE_qbpGk&feature=emb_logo
+https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
+tox -e py - Google Search
+https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
+
+https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
+https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
+
+https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
+https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
+
+https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
+https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
+https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
+
+## Jacob
+
+https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
+
+https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
+https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
+
+## Adam
+
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+https://twitter.com/AdamChainz/status/1324680039250776070 | Adam Johnson on Twitter: "Django uses descriptors to power its database field "magic". @raymondh 's new guide to descriptors in the Python 3.9 docs is a great source for understanding how they work! https://t.co/3ZsHUB0KTA" / Twitter
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+
+https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
+
+Security 
+https://adamj.eu/tech/2020/04/08/django-security-headers-hall-of-fame/
+
+Memory Leaks
+https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
+https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
+
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
+https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
+
+https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
+https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+## Luke
+
+https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
+
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
+https://spookylukey.github.io/django-views-the-right-way/
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/ | Everything is an X - lukeplant.me.uk
+
+## Nina
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+
+
+## Python and Django Stuff
+
+https://osem.seagl.org/conferences/seagl2020/program/proposals/779
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+https://github.com/phildini/api-driven-django
+
+Kojo
+https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
+
+https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
+-->
+
+
+<!--
+Important
+https://www.facebook.com/events/423530692228364/ | Engineering Expo 2021 | Facebook
+
+https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ | Token authentication requirements for Git operations - The GitHub Blog
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
 DevICT
 https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
 
 Wow
 https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
+
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
+
+KJ
+https://diversityorgs.tech/ | DiversityOrgs.Tech
+
 
 https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
 
@@ -353,8 +555,15 @@ https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, 
 
 https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
 
-KJ
-https://diversityorgs.tech/ | DiversityOrgs.Tech
+
+
+https://twitter.com/jessicahische/status/1343614261277282306
+
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
 
 https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
 https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
@@ -365,6 +574,15 @@ https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Tw
 
 https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
 https://www.neuroinclusion.io/ | neuroinclusion.io
+
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+Interesting
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
 https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
@@ -415,14 +633,6 @@ https://github.com/encode/starlette-example | encode/starlette-example: An examp
 
 
 <!--
-https://twitter.com/jessicahische/status/1343614261277282306
-
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
-
-
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
 
 http://meowni.ca/posts/emoji-emoji-emoji/
@@ -432,6 +642,9 @@ https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ |
 
 Checklists
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+AWS
+https://www.awsgeek.com
 
 * [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
 https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
@@ -459,6 +672,13 @@ https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Prope
 
 
 https://applitools.com/
+
+Automation framework
+https://robotframework.org/
+
+App and browser testing
+https://www.browserstack.com/
+
 
 API
 https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
@@ -997,36 +1217,6 @@ https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — 
 https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
 https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
 -->
-
-<!--
-## Websites
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-https://github.com/yarnpkg/website
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
 
 ## Product and Marketing
 
@@ -1884,20 +2074,10 @@ Dark
 https://darkpatterns.org/types-of-dark-pattern | Types of Dark Pattern | Dark Patterns
 https://www.youtube.com/watch?v=kxkrdLI6e6M | How Dark Patterns Trick You Online - YouTube
 
-
-
-https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
-https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
-
-https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
-
 https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/preview?pru=AAABdiPfn7Y*IRT5QXJF7RDRgVb8-q53aA | Grand Unification of Web Technologies - Google Docs
 
 
 https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
-
-http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
-http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
 
 
 https://www.figma.com/ | Figma: the collaborative interface design tool.
@@ -1966,12 +2146,6 @@ https://horstmann.com/javascript-impatient/ | Horstmann JavaScript
 https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on Twitter: "@raymondh Make what you want of it, but today I am reading "Modern JavaScript for the Impatient". If you have to learn JavaScript (or TypeScript), and are not new to coding, this is really good." / Twitter
 -->
 
-
-
-<!--
-https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
-https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
--->
 
 <!--
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
@@ -2042,6 +2216,10 @@ jQuery
 * [jQuery](https://jquery.com/) and [jQuery Wikipedia](https://en.wikipedia.org/wiki/JQuery) 
 
 <!--
+https://www.freecodecamp.org/news/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa/ | Here are the most popular ways to make an HTTP request in JavaScript
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest/readyState
+
+
 https://htmldom.dev/
 https://github.com/phuoc-ng/html-dom
 
@@ -2050,6 +2228,7 @@ https://gist.github.com/joyrexus/7307312 | Vanilla JS equivalents of jQuery meth
 https://github.com/you-dont-need/You-Dont-Need-Lodash-Underscore
 https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
+
 
 ## Google Chrome Dev Tools
 
