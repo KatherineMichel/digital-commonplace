@@ -1522,6 +1522,8 @@ https://github.com/mozilla/flask-elasticsearch-skeleton
 https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 
 https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
 
 Django Wagtail
 https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
@@ -1729,8 +1731,6 @@ https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twit
 
 https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
 
-https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
-
 Storybook
 https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
@@ -1917,6 +1917,7 @@ CSS Philosphies
 https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
 https://en.bem.info/ | BEM
 https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
 https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
 
@@ -1958,43 +1959,65 @@ https://twitter.com/adamwathan/status/1313826345374416896
 
 
 <!--
-https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
 
-https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
-https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
+Tailwind
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+Tailwind UI-PostHTML
+https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
+https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
+
+https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
+
+Tailwind Styleguide
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+-->
 
 
-https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
 
-Edge cloud platform
-https://www.fastly.com/
 
+<!--
 Automation framework
 https://robotframework.org/
 
 App and browser testing
 https://www.browserstack.com/
 
+https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+
+https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
+
 MongoDB and Elastic
 https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
 https://www.elastic.co/what-is/elk-stack
 
-PostHTML
-https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
-https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
-
-Jam
+Ionic (Vue)
 https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
-https://svelte.dev/tutorial/basics | Introduction / Basics • Svelte Tutorial
+https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+
+
+https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
+https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
+
+
+
+Edge cloud platform
+https://www.fastly.com/
 
 Fast AI
 https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
 
 https://github.com/googleapis/python-api-core | googleapis/python-api-core
 https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
 
 SEO
 https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
+
 
 ## New-ish
 
@@ -2033,20 +2056,6 @@ https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Tw
 https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
 
-## CSS
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-Tailwind
-https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
-https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
-https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
-
-Tailwind Styleguide
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
 
 ## JavaScript
 
