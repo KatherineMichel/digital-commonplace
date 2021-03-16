@@ -351,6 +351,169 @@ https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A 
 -->
 
 
+
+<!--
+Python Projects and Packages
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+-->
+
+
+<!--
+Deployment
+
+Heroku and Node
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Important
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
+
+https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
+
+
+Heroku and Python/Django
+https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
+-->
+
+## Django Tutorials and Templates
+
+<!--
+Django + React/Node
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
+https://github.com/divio/react-boilerplate
+https://github.com/divio/node-boilerplate
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+-->
+
+<!--
+Django Templates
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+Divio
+https://docs.divio.com/en/latest/introduction/#introduction
+https://docs.divio.com/en/latest/how-to/django-create-deploy/
+https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
+https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
+
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
+
+https://github.com/feldroy | Feldroy
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+
+Django/React Project Tutorials
+https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
+https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
+https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
+https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
+https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
+
+
+Django Templates
+
+https://github.com/sixfeetup/cookiecutter-sixiedjango
+
+https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
+
+https://github.com/caktus/django-project-template
+
+https://github.com/20tab/django-continuous-delivery
+
+https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
+https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
+
+https://github.com/jpadilla/django-project-template
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://jpadilla.github.io/django-project-template/
+
+Deprecated
+https://github.com/jpadilla/django-rest-framework-jwt
+https://github.com/jpadilla/django-rest-framework-jwt/issues/484
+
+
+https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
+https://wemake-django-template.readthedocs.io/en/latest/
+
+https://github.com/wemake-services/wemake-python-styleguide
+https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
+
+Cookiecutter
+https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
+wemake-services/dotenv-linter - Google Search
+https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
+
+https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
+-->
+
+<!--
+Channels stuff
+https://github.com/fcurella/django-channels-react-redux
+https://github.com/channels-frontend/django_redux
+-->
+
+<!--
+Non-Python
+
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+https://github.com/python-telegram-bot/python-telegram-bot
+-->
+
+<!--
+Demos and Boilerplates
+
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+
+Frontend
+https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
+https://github.com/reck1ess/next-realworld-example-app
+https://github.com/gothinkster/web-components-realworld-example-app
+
+Backend
+https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
+https://github.com/gothinkster/django-realworld-example-app
+https://thinkster.io/tutorials/django-json-api
+https://github.com/gothinkster/flask-realworld-example-app
+
+https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
+
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://github.com/DrkSephy/django-hackathon-starter
+
+https://github.com/nice-boys/product-boilerplate
+-->
+
+
 ## VS Code
 
 ### Shortcuts
@@ -1040,167 +1203,6 @@ https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
 https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
--->
-
-<!--
-Python Projects and Packages
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
--->
-
-
-<!--
-Deployment
-
-Heroku and Node
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-
-Important
-https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
-https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
-
-https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
-
-
-Heroku and Python/Django
-https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
-https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
--->
-
-## Django Tutorials and Templates
-
-<!--
-Django + React/Node
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
-https://github.com/divio/react-boilerplate
-https://github.com/divio/node-boilerplate
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
--->
-
-<!--
-Django Templates
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-Divio
-https://docs.divio.com/en/latest/introduction/#introduction
-https://docs.divio.com/en/latest/how-to/django-create-deploy/
-https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
-https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
-
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-
-https://github.com/feldroy | Feldroy
-https://github.com/audreyfeldroy/cookiecutter-pypackage
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
-
-Django/React Project Tutorials
-https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
-https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
-https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
-https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
-https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
-
-
-Django Templates
-
-https://github.com/sixfeetup/cookiecutter-sixiedjango
-
-https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
-
-https://github.com/caktus/django-project-template
-
-https://github.com/20tab/django-continuous-delivery
-
-https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
-https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
-
-https://github.com/jpadilla/django-project-template
-https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
-https://jpadilla.github.io/django-project-template/
-
-Deprecated
-https://github.com/jpadilla/django-rest-framework-jwt
-https://github.com/jpadilla/django-rest-framework-jwt/issues/484
-
-
-https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
-https://wemake-django-template.readthedocs.io/en/latest/
-
-https://github.com/wemake-services/wemake-python-styleguide
-https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
-
-Cookiecutter
-https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
-wemake-services/dotenv-linter - Google Search
-https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
-
-https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
--->
-
-<!--
-Channels stuff
-https://github.com/fcurella/django-channels-react-redux
-https://github.com/channels-frontend/django_redux
--->
-
-<!--
-Non-Python
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-https://github.com/python-telegram-bot/python-telegram-bot
--->
-
-<!--
-Demos and Boilerplates
-
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-
-Frontend
-https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
-https://github.com/reck1ess/next-realworld-example-app
-https://github.com/gothinkster/web-components-realworld-example-app
-
-Backend
-https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
-https://github.com/gothinkster/django-realworld-example-app
-https://thinkster.io/tutorials/django-json-api
-https://github.com/gothinkster/flask-realworld-example-app
-
-https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
-
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/DrkSephy/django-hackathon-starter
-
-https://github.com/nice-boys/product-boilerplate
 -->
 
 
