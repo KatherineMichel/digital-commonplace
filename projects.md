@@ -64,15 +64,33 @@ https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jek
 
 
 <!--
+https://github.com/KatherineMichel/organizations
+
+
+https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
+
 https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/input
 
 Important!
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 
 Important
+https://django-news.com/ | Django News
 https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
 
+https://plone.org/
+
+https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
+https://discord.com/invite/xDKGPaW | anthonywritescode
+
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 http://inventwithpython.com/beyond/
+
+DRF
+https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
+https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About Django REST Framework, Part 3: Adding custom endpoints — Lacey Williams Henschel
 
 Demos/Templates
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
@@ -84,10 +102,12 @@ https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Objec
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 
-Digital Ocean
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+
+Digital Ocean- Deployment
 https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
 
 Steph
 https://stylestage.dev/styles/floral-vibes/
@@ -100,10 +120,48 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arro
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
+https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
+https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
+
+
+Docs Audit
+https://twitter.com/GoogleOSS/status/1367882772916953098 | Google Open Source on Twitter: "📂 Are you struggling to understand what docs your open source project has, what docs your project needs, and how to bridge that gap? Check out this new documentation content maturity checklist and guide from @ddbeck, open sourced by Google → https://t.co/Yt3ObDc8sx https://t.co/YG1yVKcJm3" / Twitter
+https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · google/opendocs · GitHub
+https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+
+Docs
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
+https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
+
+
+Important!
+https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
+
+
+https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+
 Interesting
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
 -->
+
 
 ## VS Code
 
@@ -443,6 +501,15 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
 -->
 
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
 
 ## Stack
 
@@ -1509,6 +1576,8 @@ https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 
 <!--
 Node Tutorials
+
+https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
 
 https://github.com/microsoft/beginners-intro-javascript-node
 
