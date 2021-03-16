@@ -366,6 +366,15 @@ https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Tw
 https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
 https://www.neuroinclusion.io/ | neuroinclusion.io
 
+https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
+
 https://free-for.dev/#/ | Free for developers
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
@@ -373,6 +382,7 @@ https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape
 https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
 
 https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
+
 
 
 ## Security
@@ -534,6 +544,7 @@ https://podman.io/
 https://www.packer.io/ | Packer by HashiCorp
 https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 -->
+
 
 
 <!--
@@ -1774,22 +1785,6 @@ https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre |
 
 https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
 -->
-
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-
-<!--
-https://github.com/KatherineMichel/organizations
-
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
--->
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
 
 
 ## Streaming
