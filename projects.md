@@ -967,7 +967,7 @@ Coding Competitions
 <!--
 https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
 
-https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel?guid=none&deviceId=128bacde-962a-47df-8396-1dec5f9be439
+https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel
 
 DevICT Gam Jam
 https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
