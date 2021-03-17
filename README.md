@@ -2080,36 +2080,6 @@ https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/
 https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
 
 
-https://www.figma.com/ | Figma: the collaborative interface design tool.
-https://flowcards.io/ | Flow Cards – Construct your web pages with ease, using Flow Cards ―for website builders, designers and developers.
-
-
-https://github.com/thedaviddias/Front-End-Checklist | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-https://github.com/joshbuchea/HEAD | joshbuchea/HEAD: 🗿 A list of everything that *could* go in the head of your document
-
-http://ogp.me
-
-https://html.spec.whatwg.org/multipage/microdata.html
-
-Semantic
-http://schema.org
-
-https://schema.org/Thing
-https://schema.org/PostalAddress
-http://schema.org/Recipe
-
-id
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
-
-HTMl structured data global attributes
-itemid, itemscope, itemtype, itemprop
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemref
-
-
 JavaScript Notes
 
 https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
