@@ -20,6 +20,25 @@ https://github.com/pinax/pinax/projects/1
 https://github.com/pinax/pinax/wiki/Pinax-21.04-Release-Plan
 https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan
 
+Don't Have Access
+https://github.com/pinax/pinax-starter-projects
+https://github.com/pinax/pinax-design/
+https://github.com/pinax/pinax-cart/
+https://github.com/pinax/pinaxproject.com/
+https://github.com/pinax/cloudspotting/
+https://github.com/pinax/pinax.github.com/
+https://github.com/pinax/pinax-pages/
+https://github.com/pinax/django-forms-bootstrap/
+https://github.com/pinax/pinax-calendars-demo/
+https://github.com/pinax/pinax-images-panel/
+https://github.com/pinax/screencasts/
+https://github.com/pinax/PinaxCon/
+https://github.com/pinax/mytweets/
+https://github.com/pinax/atom-format/
+https://github.com/pinax/django-bookmarks/
+https://github.com/pinax/dashboard.pinaxproject.com/
+
+
 Issues
 https://github.com/pinax/pinax/issues/165
 https://app.slack.com/client/T04R5AQTQ/C08N5S6AU
