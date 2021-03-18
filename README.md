@@ -2118,6 +2118,8 @@ https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on 
 <!--
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#increment_and_decrement
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
 
@@ -2200,85 +2202,6 @@ https://github.com/you-dont-need/You-Dont-Need-Momentjs
 -->
 
 
-## Google Chrome Dev Tools
-
-<!--
-https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
-
-https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
-
-
-https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
-https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
-
-
-https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
-
-https://developer.chrome.com/devtools/docs/javascript-debugging
-https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
-
-https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
-
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
-
-https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
-
-https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
-https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
--->
-
-## JavaScript Performance
-
-Lighthouse
-* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
-* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
-
-Rendering
-* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
-* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
-* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
-* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
-* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
-Offline
-* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
-
-Measure
-* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
-* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
-
-<!--
-Performance
-
-https://web.dev/fast/
-
-https://github.com/GoogleChrome/web-vitals-extension
-
-https://developers.google.com/web/tools/lighthouse#devtools
-https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
-https://github.com/GoogleChrome/lighthouse-ci/blob/master/docs/getting-started.md
-
-Web Vitals
-https://twitter.com/ChromiumDev/status/1257701879242514433
-https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
-
-https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
-
-https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
-
-https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
--->
-
 ## Mozilla and Google- General Docs
 
 Mozilla- Documentation
@@ -2321,28 +2244,15 @@ Mozilla JavaScript Tutorials
 * [Mozilla JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference) 
 
 <!--
+Good overview
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript
 
 https://developer.mozilla.org/en-US/docs/tag/JavaScript
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
--->
-
-## JSON and JavaScript Objects
-
-<!--
-JavaScript Objects
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
-
-JSON
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
-
-JavaScript Object versus JSON
-https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
 -->
 
 
@@ -2357,20 +2267,66 @@ Mozilla- Document Object Model
 * [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
 
 <!--
-CSSOM
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
-
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
 
+DOM API
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/API/Window
+https://developer.mozilla.org/en-US/docs/Web/API/Window#properties
+https://developer.mozilla.org/en-US/docs/Web/API/Window#methods
+
 https://developer.mozilla.org/en-US/docs/Web/API/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Document#properties
+https://developer.mozilla.org/en-US/docs/Web/API/Document#methods
+https://developer.mozilla.org/en-US/docs/Web/API/Document#events
+
 https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
 https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element
+https://developer.mozilla.org/en-US/docs/Web/API/Element#properties
+https://developer.mozilla.org/en-US/docs/Web/API/Element#properties_included_from_aria
+https://developer.mozilla.org/en-US/docs/Web/API/Element#methods
+
+HTML Elements API
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement
+
+https://developer.mozilla.org/en-US/docs/Web/API/Event
+https://developer.mozilla.org/en-US/docs/Web/API/Element#events
+https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#svg_data_type_interfaces
 
 https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
 -->
 
+<!--
+CSS API
+https://developer.mozilla.org/en-US/docs/Web/API/CSS
+
+CSSOM
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
+-->
+
+
+## JSON and JavaScript Objects
+
+<!--
+"Your code interacts with APIs using one or more JavaScript objects, which serve as containers for the data the API uses (contained in object properties), and the functionality the API makes available (contained in object methods)."
+
+JavaScript Objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
+
+JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+
+JavaScript Object versus JSON
+https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+-->
 
 ## Mozilla JavaScript- Global Attributes
 
@@ -2384,6 +2340,8 @@ getElementsByClassName()
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName
 
 getElementsByName()
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName
+
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
 
@@ -2393,6 +2351,9 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
 HTML/JavaScript
 https://www.w3schools.com/html/html_id.asp
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById | Document.getElementById() - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName
+
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
@@ -2456,9 +2417,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
 
 ## Mozilla- JavaScript APIs Reference
 
-Web APIs
+Built-In Web APIs
 * [Mozilla Web API](https://developer.mozilla.org/en-US/docs/Web/API)
 * [Mozilla Client-Side Web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs)
+
+Third Party APIs
 * [Mozilla Third Party APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Third_party_APIs)
 
 <!--
@@ -2702,6 +2665,85 @@ https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+-->
+
+## Google Chrome Dev Tools
+
+<!--
+https://stackoverflow.com/questions/46207687/how-does-the-brave-browser-have-chromes-dev-tools | How does the Brave browser have Chrome's dev-tools? - Stack Overflow
+
+https://twitter.com/umaar/status/1321509003042660365 | Umar Hansa on Twitter: "DevTools Tip ⚡️ CSS Grid inspection from the Elements Panel! This has helped me a bunch in understanding how rows and columns form part of a CSS Grid. Quick write-up and instructions: https://t.co/5BLgXt1JIt https://t.co/8pd7QEWxM5" / Twitter
+
+
+https://developers.google.com/web/tools/chrome-devtools/console/ | Using the Console  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/javascript/ | Get Started with Debugging JavaScript in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/javascript/step-code | How to step through your code  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/inspect-styles/edit-dom | Edit the DOM  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/workspaces/ | Save Changes To Disk With Workspaces  |  Tools for Web Developers  |  Google Developers
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Keyboard Shortcuts Reference  |  Tools for Web Developers  |  Google Developers
+https://support.google.com/chrome/answer/157179?hl=en | Chrome keyboard shortcuts - Google Chrome Help
+
+
+https://developers.google.com/web/tools/chrome-devtools/remote-debugging/local-server | Access Local Servers  |  Tools for Web Developers  |  Google Developers
+
+https://developer.chrome.com/devtools/docs/javascript-debugging
+https://developer.mozilla.org/en-US/docs/Debugging_JavaScript
+
+https://www.w3schools.com/jsref/jsref_debugger.asp | JavaScript debugger Statement
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/debugger | debugger - JavaScript | MDN
+
+https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/reference | Performance Analysis Reference  |  Tools for Web Developers  |  Google Developers
+
+https://developers.google.com/web/tools/chrome-devtools/network-performance/ | Get Started with Analyzing Network Performance in Chrome DevTools  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/reference | Network Analysis Reference  |  Tools for Web Developers  |  Google Developers
+https://developers.google.com/web/tools/chrome-devtools/network-performance/resource-loading | Measure Resource Loading Times  |  Tools for Web Developers  |  Google Developers
+-->
+
+## JavaScript Performance
+
+Lighthouse
+* [Lighthouse](https://developers.google.com/web/tools/lighthouse/) and [Lighthouse GitHub](https://github.com/GoogleChrome/lighthouse)
+* [Google Lighthouse](https://developers.google.com/web/tools/lighthouse)
+
+Rendering
+* [Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/)
+* [CSS will-change](https://developer.mozilla.org/en-US/docs/Web/CSS/will-change)
+* [CSS Containment in Chrome 52](https://developers.google.com/web/updates/2016/06/css-containment)
+* [PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+* [Critical Rendering Path](https://developers.google.com/web/fundamentals/performance/critical-rendering-path/)
+Offline
+* [Offline UX Considerations](https://developers.google.com/web/fundamentals/instant-and-offline/offline-ux)
+
+Measure
+* [Measure Performance with the RAIL Model](https://developers.google.com/web/fundamentals/performance/rail)
+* [Measuring network performance with Resource Timing API](https://developers.googleblog.com/2013/12/measuring-network-performance-with.html)
+
+<!--
+Performance
+
+https://web.dev/fast/
+
+https://github.com/GoogleChrome/web-vitals-extension
+
+https://developers.google.com/web/tools/lighthouse#devtools
+https://github.com/marketplace/actions/lighthouse-check | Lighthouse Check · Actions · GitHub Marketplace
+https://github.com/GoogleChrome/lighthouse-ci/blob/master/docs/getting-started.md
+
+Web Vitals
+https://twitter.com/ChromiumDev/status/1257701879242514433
+https://twitter.com/rauchg/status/1258772870802505728 | Guillermo Rauch on Twitter: "Installed the "Web Vitals" Chrome extension I love the newfound clarity of what the critical, shall I say *vital*, perf metrics to watch are https://t.co/lkzg9wXnFb https://t.co/BIg6BZC2ms" / Twitter
+
+https://dev.to/ben/addy-osmanis-18-point-web-performance-checklist-2e1 | Addy Osmani's 18-Point Web Performance Checklist - DEV Community 👩‍💻👨‍💻
+
+https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks-with-benchmarks-2019-update-4be0d3c78075/ | A RealWorld Comparison of Front-End Frameworks with Benchmarks (2019 update)
+
+https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 -->
 
 
