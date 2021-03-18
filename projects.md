@@ -24,7 +24,6 @@ Don't Have Access
 https://github.com/pinax/pinax-starter-projects
 https://github.com/pinax/screencasts/
 https://github.com/pinax/pinax-design/
-
 https://github.com/pinax/pinax-cart/
 https://github.com/pinax/cloudspotting/
 https://github.com/pinax/pinax-pages/
@@ -32,11 +31,9 @@ https://github.com/pinax/django-forms-bootstrap/
 https://github.com/pinax/pinax-calendars-demo/
 https://github.com/pinax/PinaxCon/
 https://github.com/pinax/mytweets/
-
 https://github.com/pinax/pinax-images-panel/
 https://github.com/pinax/atom-format/
 https://github.com/pinax/django-bookmarks/
-
 https://github.com/pinax/pinaxproject.com/
 https://github.com/pinax/pinax.github.com/
 https://github.com/pinax/dashboard.pinaxproject.com/
@@ -99,6 +96,8 @@ https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know T
 
 https://jspaint.app/#local:c15e223514779 | untitled - Paint
 
+https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
+
 
 Important
 https://django-news.com/ | Django News
@@ -111,6 +110,7 @@ https://discord.com/invite/xDKGPaW | anthonywritescode
 
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 http://inventwithpython.com/beyond/
+
 
 Python
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
@@ -128,15 +128,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_t
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
 
-
-https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
-
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
-
-Product Sprint
-https://github.com/google/software-product-sprint | google/software-product-sprint
-
-
 Docs Audit
 https://twitter.com/GoogleOSS/status/1367882772916953098 | Google Open Source on Twitter: "📂 Are you struggling to understand what docs your open source project has, what docs your project needs, and how to bridge that gap? Check out this new documentation content maturity checklist and guide from @ddbeck, open sourced by Google → https://t.co/Yt3ObDc8sx https://t.co/YG1yVKcJm3" / Twitter
 https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · google/opendocs · GitHub
@@ -146,6 +137,21 @@ Docs
 https://documentation.divio.com/ | The documentation system — Documentation system documentation
 https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
 https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
+
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
+
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
+https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
+https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
 -->
 
 
@@ -156,6 +162,10 @@ Important!
 https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+-->
+
+<!--
+Non-Python
 
 Clones
 https://github.com/techreagan?tab=repositories
@@ -196,7 +206,6 @@ https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitt
 
 https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
 
-
 https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
 
 Not updated in a very long time
@@ -207,6 +216,8 @@ https://github.com/heroku/heroku-django-template | heroku/heroku-django-template
 ## Django + React/Node Tutorials and Templates
 
 <!--
+Django + React/Node
+
 https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
 https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
 https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
@@ -240,7 +251,6 @@ https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: 
 
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
 https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-
 
 https://github.com/feldroy | Feldroy
 https://github.com/audreyfeldroy/cookiecutter-pypackage
@@ -1042,13 +1052,19 @@ https://twitter.com/traversymedia
 https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
 
+Design Resources
 https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates
+https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
 
 Web skills
 https://andreasbm.github.io/web-skills/
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+HTML5 Boilerplate
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 
 http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
@@ -1074,15 +1090,31 @@ https://egghead.io/courses/accessible-cross-browser-css-form-styling-7297 | Acce
 
 https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
 
-https://dev.to/nghiemthu/master-css-grid-with-5-layouts-in-17-minutes-3phf | Master CSS Grid by Building 5 Layouts in 17 Minutes - DEV Community 👩‍💻👨‍💻
+https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
 https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
 
 
 Web Design
-https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
-https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
 https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
+
+https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
+
+https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
+https://jgthms.com/web-design-in-4-minutes/#share
+view-source:https://jgthms.com/web-design-in-4-minutes/#share
+https://jgthms.com/web-design-in-4-minutes/index.css
+
 https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
+https://github.com/jgthms/marksheet
+
+https://github.com/jgthms/minireset.css
+https://htmlreference.io/
+https://github.com/jgthms/html-reference
+https://cssreference.io/
+https://github.com/jgthms/css-reference
+https://jgthms.com/javascript-in-14-minutes/
+https://github.com/jgthms/javascript-in-14-minutes
+
 
 https://tinyprojects.dev/ | Tiny Projects
 https://tinyprojects.dev/posts/tiny_websites_are_great | Tiny websites are great | Tiny Projects
@@ -1838,6 +1870,15 @@ https://twitter.com/adamwathan/status/1313826345374416896
 
 
 <!--
+Tailwind
+https://tailwindcss.com/docs/plugins | Plugins - Tailwind CSS
+https://www.tailwindtoolbox.com/plugins | Tailwind Toolbox - Free Starter Templates
+https://tailwindcss.com/docs/screen-readers | Screen Readers - Tailwind CSS
+
+Tailwind Access
+https://github.com/jack-pallot/tailwindcss-accessibility | jack-pallot/tailwindcss-accessibility: A Tailwind CSS plugin that adds additional functionality to help improve accessibility.
+
+
 Tailwind Crash Course
 https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
 
