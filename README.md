@@ -2104,10 +2104,6 @@ JavaScript
 https://plnkr.co/edit/?p=preview&preview | Plunker - Fork from https://javascript.info/hello-world
 
 
-https://jigsaw.w3.org/css-validator/ | The W3C CSS Validation Service
-https://validator.w3.org/ | The W3C Markup Validation Service
-
-
 https://web.dev/centering-in-css/ | Centering in CSS
 
 https://en.wikipedia.org/wiki/Comet_(programming) | Comet (programming) - Wikipedia
@@ -2153,6 +2149,8 @@ https://github.com/wesbos/JavaScript30
 
 https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+
+
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
 
 Project 1
