@@ -522,6 +522,7 @@ https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A 
 
 
 <!--
+Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
 
 Important
@@ -2116,6 +2117,8 @@ https://twitter.com/gvanrossum/status/1337203846653726720 | Guido van Rossum on 
 
 
 <!--
+https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+
 https://developer.mozilla.org/en-US/docs/Glossary/Hoisting
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#increment_and_decrement
@@ -2123,47 +2126,15 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#incr
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 https://medium.com/javascript-scene/familiarity-bias-is-holding-you-back-its-time-to-embrace-arrow-functions-3d37e1a9bb75 | Familiarity Bias is Holding You Back: It’s Time to Embrace Arrow Functions
 
-https://gist.github.com/gaearon/683e676101005de0add59e8bb345340c | Modern JavaScript in React Documentation
+let, const, var
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/var
 
 let and const Declarations
 https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75
 
 https://medium.com/computed-comparisons/commonjs-vs-amd-vs-requirejs-vs-es6-modules-2e814b114a0b
--->
-
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-
-
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
 -->
 
 
@@ -2256,6 +2227,24 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 -->
 
 
+## JSON and JavaScript Objects
+
+<!--
+"Your code interacts with APIs using one or more JavaScript objects, which serve as containers for the data the API uses (contained in object properties), and the functionality the API makes available (contained in object methods)."
+
+JavaScript Objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
+
+JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+
+JavaScript Object versus JSON
+https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
+-->
+
 ## Mozilla JavaScript- Document Object Model and Window
 
 Browser Object Model (BOM) and Document Object Model (DOM)
@@ -2310,24 +2299,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 -->
 
 
-## JSON and JavaScript Objects
-
-<!--
-"Your code interacts with APIs using one or more JavaScript objects, which serve as containers for the data the API uses (contained in object properties), and the functionality the API makes available (contained in object methods)."
-
-JavaScript Objects
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#They_are_based_on_objects
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
-
-JSON
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
-
-JavaScript Object versus JSON
-https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
-
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
--->
-
 ## Mozilla JavaScript- Global Attributes
 
 <!--
@@ -2336,14 +2307,39 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
 
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
-getElementsByClassName()
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName
+
+Array-like objects
+
+## NodeList
+
+"Although NodeList is not an Array, it is possible to iterate over it with forEach(). It can also be converted to a real Array using Array.from()."
+document.querySelectorAll() returns a NodeList
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+https://developer.mozilla.org/en-US/docs/Web/API/NodeList
+https://developer.mozilla.org/en-US/docs/Web/API/NodeList/item
+
+Iterate
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+https://api.jquery.com/category/selectors/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
 
 getElementsByName()
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName
 
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+
+## HTML Collections
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
+
+getElementsByClassName()
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName
+
 
 getElementById() method
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
@@ -2353,6 +2349,19 @@ https://www.w3schools.com/html/html_id.asp
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById | Document.getElementById() - Web APIs | MDN
 
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName
+
+
+https://www.w3schools.com/jsref/met_document_addeventlistener.asp
+
+https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
+https://www.w3schools.com/jsref/met_doc_getelementsbyname.asp
+https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+The NodeList object represents a collection of nodes
+https://www.w3schools.com/jsref/met_document_queryselectorall.asp
+
 
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
@@ -2407,6 +2416,7 @@ Events
 * [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
 * [DOM/JavaScript Events Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
 * [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
+
 
 ## Mozilla JavaScript- Forms
 
