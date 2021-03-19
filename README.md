@@ -2083,6 +2083,8 @@ https://docs.google.com/document/d/1Ys-2Pb6PUVl8-5BMhM770trKNp_DmGrfskDlp-L_WSs/
 https://codepen.io/sdras/pen/RwwQapa | How does the Virtual DOM work?
 
 
+https://www.w3.org/TR/CSS21/selector.html%23id-selectors
+
 JavaScript Notes
 
 https://www.digitalocean.com/community/books/understanding-the-dom-document-object-model-ebook
@@ -2305,10 +2307,22 @@ https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
 
 
+HTML DOM
+https://www.w3schools.com/jsref/dom_obj_style.asp
+
+object.style.height
+https://www.geeksforgeeks.org/html-dom-style-height-property/
+https://www.tutorialspoint.com/html-dom-style-height-property
+https://www.geeksforgeeks.org/css-height-property/
+https://www.w3schools.com/Jsref/prop_style_height.asp
+
+
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
 
 Array-like objects
+
+"Both an HTMLCollection object and a NodeList object is an array-like list (collection) of objects. Both have a length property defining the number of items in the list (collection)."
 
 ## NodeList
 
@@ -2317,6 +2331,9 @@ document.querySelectorAll() returns a NodeList
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
 https://developer.mozilla.org/en-US/docs/Web/API/NodeList
 https://developer.mozilla.org/en-US/docs/Web/API/NodeList/item
+https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/from
 
 Iterate
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
@@ -2367,14 +2384,6 @@ https://www.w3schools.com/jsref/met_document_queryselectorall.asp
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
-
-HTMl structured data global attributes
-itemid, itemscope, itemtype, itemprop
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemid
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemtype
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemprop
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemscope
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/itemref
 -->
 
 
