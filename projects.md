@@ -90,6 +90,7 @@ https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
 
 https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
 https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/input
+https://adventofcode.com/2020/day/2
 
 Important!
 https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
@@ -1033,6 +1034,41 @@ https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for D
 -->
 
 
+## Wes Bos
+
+<!--
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
+
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
+-->
+
+<!--
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://github.com/wesbos/JavaScript30
+
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
+
+
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
+
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
+
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+-->
+
+
 ## Learning Resources- CSS, HTML, JavaScript
 
 Wes Bos Courses
@@ -1044,7 +1080,6 @@ Wes Bos Courses
 <!--
 https://wizardzines.com/zines/css/ | Hell Yes! CSS!
 
-https://github.com/bradtraversy/
 https://www.udemy.com/user/brad-traversy/
 http://www.traversymedia.com
 https://twitter.com/traversymedia
@@ -1052,60 +1087,56 @@ https://twitter.com/traversymedia
 https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
 https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
 
-Design Resources
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://explorers.netlify.com/
 
+Sarah
+https://css-tricks.com/learning-to-learn/
 
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
 
-HTML5 Boilerplate
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+Netlify
+https://million-devs.netlify.com/
+https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/ | The Making of: Netlify's Million Devs SVG Animation Site | CSS-Tricks
+https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
 
-
-http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
-http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
-
-Style Stage
-https://stylestage.dev/styles/floral-vibes/
-https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-
-Accessibility
-https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
-https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
-
-Stephanie Eckles/
-https://smolcss.dev/ | SmolCSS
-https://github.com/5t3ph/smolcss/issues/new/choose
+Sarah Drasner
+https://twitter.com/sarah_edo/status/1244991486250217472
+https://twitter.com/FagnerBrack
+https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
+https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
+https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
 
 Stephanie Eckles
 https://moderncss.dev/complete-guide-to-centering-in-css/ | The Complete Guide to Centering in CSS | Modern CSS Solutions
 https://smashingconf.com/online-workshops/workshops/stephanie-eckles | Level-Up With Modern CSS - Online Workshops
 https://egghead.io/courses/accessible-cross-browser-css-form-styling-7297 | Accessible Cross-Browser CSS Form Styling | egghead.io
 
+Stephanie Eckles/
+https://smolcss.dev/ | SmolCSS
+https://github.com/5t3ph/smolcss/issues/new/choose
 
 https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
 
 https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
 https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
 
+## Tools
 
-Web Design
-https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
+Web skills
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
 
-https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
+Accessibility
+https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
+https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
 
-https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
-https://jgthms.com/web-design-in-4-minutes/#share
-view-source:https://jgthms.com/web-design-in-4-minutes/#share
-https://jgthms.com/web-design-in-4-minutes/index.css
-
-https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
-https://github.com/jgthms/marksheet
+Design Resources
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 
 https://github.com/jgthms/minireset.css
 https://htmlreference.io/
@@ -1114,6 +1145,24 @@ https://cssreference.io/
 https://github.com/jgthms/css-reference
 https://jgthms.com/javascript-in-14-minutes/
 https://github.com/jgthms/javascript-in-14-minutes
+
+HTML5 Boilerplate
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+
+
+http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
+http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
+http://csszengarden.com/221/
+
+Style Stage
+https://stylestage.dev/styles/floral-vibes/
+https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
+
+
+Traversy Media
+https://github.com/bradtraversy/
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 
 https://tinyprojects.dev/ | Tiny Projects
@@ -1159,28 +1208,21 @@ https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfol
 
 
 
+## Web Design/Dev
 
-https://explorers.netlify.com/
 
-Sarah
-https://css-tricks.com/learning-to-learn/
+Web Design
+https://jgthms.com/ | JT is a CSS Guru | Jeremy Thomas
 
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
-https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
+https://jgthms.com/css-in-44-minutes-ebook/ | CSS in 44 minutes | Jeremy Thomas
 
-Netlify
-https://million-devs.netlify.com/
-https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/ | The Making of: Netlify's Million Devs SVG Animation Site | CSS-Tricks
-https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
+https://jgthms.com/web-design-in-4-minutes/ | Web Design in 4 minutes
+https://jgthms.com/web-design-in-4-minutes/#share
+view-source:https://jgthms.com/web-design-in-4-minutes/#share
+https://jgthms.com/web-design-in-4-minutes/index.css
 
-Sarah Drasner
-https://twitter.com/sarah_edo/status/1244991486250217472
-https://twitter.com/FagnerBrack
-https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
-https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
-https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
-
+https://marksheet.io/ | MarkSheet: a free HTML and CSS tutorial - Free tutorial to learn HTML and CSS
+https://github.com/jgthms/marksheet
 
 
 Web Development- Microsoft
