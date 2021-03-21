@@ -3160,6 +3160,7 @@ https://developer.spotify.com/documentation/web-api/quick-start/ | Web API Tutor
 https://spotipy.readthedocs.io/en/2.14.0/ | Welcome to Spotipy! — spotipy 2.0 documentation
 -->
 
+
 ## Third Party Social Media API Tools
 
 Tools
@@ -3193,26 +3194,64 @@ Twitter API
 https://github.com/twitterdev | @TwitterDev
 
 
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
 
 https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
 
+Resources
+https://twittercommunity.com/t/announcing-early-access-to-the-next-generation-of-the-twitter-api/139612
+
+Endpoints and Tweet Object
+https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
+
 
 https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
 https://developer.twitter.com/en/apps | Twitter Developers
 
-https://developer.twitter.com/en/labs | Labs
+https://developer.twitter.com/en/products/labs | Labs
 https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
 
-https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
+https://developer.twitter.com/en/portal/dashboard
+
+
+https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap
 
 https://developer.twitter.com/en/docs
-https://developer.twitter.com/en/docs/media/upload-media/overview | Overview — Twitter Developers
-https://developer.twitter.com/en/docs/ads/creatives/api-reference/media-library | Media Library — Twitter Developers
+https://developer.twitter.com/en/docs/getting-started
+https://developer.twitter.com/en/docs/tutorials
+https://developer.twitter.com/en/docs/tutorials/explore-a-users-tweets
+https://developer.twitter.com/en/docs/tutorials/listen-for-important-events
+https://developer.twitter.com/en/docs/tutorials/analyze-past-conversations
+https://developer.twitter.com/en/docs/tutorials/stream-tweets-in-real-time
+
+https://developer.twitter.com/en/docs/twitter-api/enterprise
+
+https://developer.twitter.com/en/docs/twitter-api
+https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
+https://developer.twitter.com/en/docs/twitter-api/api-reference-index
+https://github.com/twitterdev/Twitter-API-v2-sample-code
+
+GitHub Search
+https://api.twitter.com/
+
+https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries
+https://pypi.org/project/requests/
+https://pypi.org/project/requests-oauthlib/
+https://developer.twitter.com/en/docs/twitter-for-websites/tools-and-libraries
+https://developer.twitter.com/en/docs/twitter-ads-api/tools-and-libraries
+https://twitterdev.github.io/twitter-python-ads-sdk/
+https://github.com/twitterdev/twitter-python-ads-sdk
+https://developer.twitter.com/en/docs/tools-and-libraries/using-postman
+
+
+Media and Log In
+https://developer.twitter.com/en/docs/twitter-api/v1/media/upload-media/overview | Overview — Twitter Developers
+https://developer.twitter.com/en/docs/twitter-ads-api/creatives/api-reference/media-library | Media Library — Twitter Developers
+https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
+
+Old
 https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
-https://developer.twitter.com/en/docs/basics/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
 -->
 
 ## GitHub API
