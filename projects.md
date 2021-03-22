@@ -83,9 +83,6 @@ https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jek
 
 
 <!--
-https://github.com/KatherineMichel/organizations
-
-
 https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
 
 https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
@@ -1078,49 +1075,10 @@ Wes Bos Courses
 * [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
-https://wizardzines.com/zines/css/ | Hell Yes! CSS!
+https://github.com/KatherineMichel/organizations
+https://github.com/KatherineMichel/projects/blob/main/frontend-development-process.md
+https://github.com/KatherineMichel/digital-commonplace/edit/master/projects.md
 
-https://www.udemy.com/user/brad-traversy/
-http://www.traversymedia.com
-https://twitter.com/traversymedia
-
-https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
-https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
-
-https://explorers.netlify.com/
-
-Sarah
-https://css-tricks.com/learning-to-learn/
-
-https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
-https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
-https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
-
-Netlify
-https://million-devs.netlify.com/
-https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/ | The Making of: Netlify's Million Devs SVG Animation Site | CSS-Tricks
-https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
-
-Sarah Drasner
-https://twitter.com/sarah_edo/status/1244991486250217472
-https://twitter.com/FagnerBrack
-https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
-https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
-https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
-
-Stephanie Eckles
-https://moderncss.dev/complete-guide-to-centering-in-css/ | The Complete Guide to Centering in CSS | Modern CSS Solutions
-https://smashingconf.com/online-workshops/workshops/stephanie-eckles | Level-Up With Modern CSS - Online Workshops
-https://egghead.io/courses/accessible-cross-browser-css-form-styling-7297 | Accessible Cross-Browser CSS Form Styling | egghead.io
-
-Stephanie Eckles/
-https://smolcss.dev/ | SmolCSS
-https://github.com/5t3ph/smolcss/issues/new/choose
-
-https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
-
-https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
-https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
 
 ## Tools
 
@@ -1148,6 +1106,17 @@ https://github.com/jgthms/javascript-in-14-minutes
 
 HTML5 Boilerplate
 https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+
+
+https://developer.twitter.com/en/docs
+https://frontendmasters.com/bootcamp/introduction-html/
+
+Django Builder
+https://djangobuilder.io/
+
+Wes Bos
+https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
 
 
 
@@ -1228,6 +1197,7 @@ https://github.com/jgthms/marksheet
 Web Development- Microsoft
 https://docs.microsoft.com/en-us/
 https://docs.microsoft.com/en-us/learn/
+
 https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
 https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 
@@ -1320,6 +1290,54 @@ https://twitter.com/chriscoyier/status/1337569425776635904
 https://wordpress.org/themes/twentytwentyone/
 https://css-tricks.com/unconventional-stock-image-sources/
 
+
+## People
+
+https://wizardzines.com/zines/css/ | Hell Yes! CSS!
+
+https://www.udemy.com/user/brad-traversy/
+http://www.traversymedia.com
+https://twitter.com/traversymedia
+
+https://www.florin-pop.com/ | Florin Pop - FE Developer & Blogger
+https://twitter.com/florinpop1705/status/1338909269454970881 | https://twitter.com/florinpop1705/status/1338909269454970881
+
+https://explorers.netlify.com/
+
+Sarah
+https://css-tricks.com/learning-to-learn/
+
+https://twitter.com/sarah_edo/status/1260287826471448577 | Sarah Drasner on Twitter: "The intersection of knowledge of CSS (including CSS-in-JS) and JS, and how the browser works enables a dev to make experiences with a ton of depth. Exploring all of them in tandem unlocks so many capabilities. IMO, they're not at odds with one another, they play together." / Twitter
+https://twitter.com/sarah_edo/status/1260289104949858304 | Sarah Drasner on Twitter: "@KatiMichel I wrote up an article on how to teach yourself things: https://t.co/Ds6pyDkfoz In terms of resources, exploring CodePen and GitHub and building things, breaking things, O'Reilly books, @FrontendMasters and @eggheadio are all great!" / Twitter
+https://twitter.com/sarah_edo/status/1331251022715445248 | Sarah Drasner on Twitter: "I’m thoroughly convinced that learning how to use SVG to create UI components opens a ton of doors for interaction on the web! 🙌 I wrote up an article on how to do so: Creating UI Components in SVG https://t.co/Qvq8aRlYzo" / Twitter
+
+Netlify
+https://million-devs.netlify.com/
+https://css-tricks.com/the-making-of-netlifys-million-devs-svg-animation-site/ | The Making of: Netlify's Million Devs SVG Animation Site | CSS-Tricks
+https://twitter.com/sarah_edo/status/1290304014928580610 | Sarah Drasner on Twitter: "🎉 We've been working for a while on a site that celebrates Netlify reaching a million devs! I'm super excited to show some of the SVG animation work for this site, which is all open source :) https://t.co/8AiCVsL50V https://t.co/kPvPKCwpzu" / Twitter
+
+Sarah Drasner
+https://twitter.com/sarah_edo/status/1244991486250217472
+https://twitter.com/FagnerBrack
+https://medium.com/@fagnerbrack/one-pull-request-one-concern-e84a27dfe9f1
+https://medium.com/@hugooodias/the-anatomy-of-a-perfect-pull-request-567382bb6067
+https://www.netlify.com/blog/2020/03/31/how-to-scope-down-prs
+
+Stephanie Eckles
+https://moderncss.dev/complete-guide-to-centering-in-css/ | The Complete Guide to Centering in CSS | Modern CSS Solutions
+https://smashingconf.com/online-workshops/workshops/stephanie-eckles | Level-Up With Modern CSS - Online Workshops
+https://egghead.io/courses/accessible-cross-browser-css-form-styling-7297 | Accessible Cross-Browser CSS Form Styling | egghead.io
+
+Stephanie Eckles/
+https://smolcss.dev/ | SmolCSS
+https://github.com/5t3ph/smolcss/issues/new/choose
+
+https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS — Smashing Magazine
+
+https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
+https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
+
+## Games/Gamification
 
 https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
 
