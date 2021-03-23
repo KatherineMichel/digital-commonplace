@@ -1080,35 +1080,6 @@ https://github.com/KatherineMichel/projects/blob/main/frontend-development-proce
 https://github.com/KatherineMichel/digital-commonplace/edit/master/projects.md
 
 
-## Tools
-
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-Accessibility
-https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
-https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
-
-Design Resources
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-https://github.com/jgthms/minireset.css
-https://htmlreference.io/
-https://github.com/jgthms/html-reference
-https://cssreference.io/
-https://github.com/jgthms/css-reference
-https://jgthms.com/javascript-in-14-minutes/
-https://github.com/jgthms/javascript-in-14-minutes
-
-HTML5 Boilerplate
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-
-
 https://developer.twitter.com/en/docs
 https://frontendmasters.com/bootcamp/introduction-html/
 
@@ -1118,8 +1089,6 @@ https://djangobuilder.io/
 Wes Bos
 https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
 
-
-
 http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
 http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
 http://csszengarden.com/221/
@@ -1127,7 +1096,6 @@ http://csszengarden.com/221/
 Style Stage
 https://stylestage.dev/styles/floral-vibes/
 https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
-
 
 Traversy Media
 https://github.com/bradtraversy/
@@ -1158,24 +1126,6 @@ ES6
 https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
 
 
-## Projects
-
-https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
-
-Traversy
-https://github.com/bradtraversy/modern_portfolio
-
-Django
-https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
-
-Node
-https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
-
-https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
-https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
-
-
 
 ## Web Design/Dev
 
@@ -1202,6 +1152,8 @@ https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Begin
 https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 
 
+## Frontend Masters
+
 https://frontendmasters.com
 https://github.com/frontendmasters
 
@@ -1214,9 +1166,6 @@ https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer
 https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
 
 
-https://github.com/btholt/
-https://codepen.io/btholt/ | Brian Holt on CodePen
-
 https://btholt.github.io/intro-to-web-dev-v2/
 https://github.com/btholt/intro-to-web-dev-v2
 http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
@@ -1227,20 +1176,11 @@ https://btholt.github.io/complete-intro-to-containers/
 https://github.com/btholt/complete-intro-to-containers
 https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
 
-https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
-https://github.com/btholt/gatsby-course-starter | btholt/gatsby-course-starter: a gatsby starter project to help you create educational materials
 
-
-http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
 https://frontendmasters.github.io/bootcamp/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://github.com/FrontendMasters/bootcamp
-
-Jen Kramer
-https://codepen.io/jen4web/
-https://github.com/jen4web | jen4web (Jen Kramer)
-https://learnwithjen.com/ | Learn with Jen Kramer
-https://gumroad.com/l/softr-airtable | Your First Interactive Website with Airtable and Softr
+http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
 
 https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
 
@@ -1279,19 +1219,68 @@ https://www.coursera.org/specializations/web-design | Web Design for Everybody: 
 Recommendation
 https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The Complete Web Developer in 2020: Zero to Mastery | Udemy
 
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
-https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
-
 
 https://twitter.com/chriscoyier/status/1337569425776635904
 https://wordpress.org/themes/twentytwentyone/
 https://css-tricks.com/unconventional-stock-image-sources/
 
 
+
+## Tools
+
+Web skills
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+Accessibility
+https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
+https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
+
+Design Resources
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+https://github.com/jgthms/minireset.css
+https://htmlreference.io/
+https://github.com/jgthms/html-reference
+https://cssreference.io/
+https://github.com/jgthms/css-reference
+https://jgthms.com/javascript-in-14-minutes/
+https://github.com/jgthms/javascript-in-14-minutes
+
+HTML5 Boilerplate
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+
+## Games/Gamification
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
+https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
+http://imgur.com/gallery/fM9yn
+https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
+https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
+
+http://gameprogrammingpatterns.com/contents.html
+https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
+-->
+
+
+<!--
 ## People
+
+https://github.com/btholt/
+https://codepen.io/btholt/ | Brian Holt on CodePen
+
+Jen Kramer
+https://codepen.io/jen4web/
+https://github.com/jen4web | jen4web (Jen Kramer)
+https://learnwithjen.com/ | Learn with Jen Kramer
+https://gumroad.com/l/softr-airtable | Your First Interactive Website with Airtable and Softr
 
 https://wizardzines.com/zines/css/ | Hell Yes! CSS!
 
@@ -1336,22 +1325,35 @@ https://www.smashingmagazine.com/2019/01/how-to-learn-css/ | How To Learn CSS �
 
 https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
 https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
-
-## Games/Gamification
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
-
-https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
-http://imgur.com/gallery/fM9yn
-https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
-https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
-
-http://gameprogrammingpatterns.com/contents.html
-https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
 
+<!--
+## Projects
+
+https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
+
+https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
+https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
+https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
+
+https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
+https://github.com/btholt/gatsby-course-starter | btholt/gatsby-course-starter: a gatsby starter project to help you create educational materials
+
+https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
+
+Traversy
+https://github.com/bradtraversy/modern_portfolio
+
+Django
+https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django real estate website
+
+Node
+https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
+
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
+-->
 
 ## Projects
 
