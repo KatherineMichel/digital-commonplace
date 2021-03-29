@@ -13,24 +13,6 @@ https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic
 https://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf
 https://www.mindtools.com/pages/article/newHTE_91.htm
 
-
-Issues
-https://github.com/pinax/pinax/issues/165
-https://app.slack.com/client/T04R5AQTQ/C08N5S6AU
-https://github.com/pinax/pinax-project-teams/issues/1
-
-
-https://github.com/slashsBin/styleguide-git-commit-message
-
-Django Jobs
-https://github.com/jefftriplett/django-jobs/pull/1/files
-https://github.com/simplworld/simpl-games-api/
-https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
-https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
-
-Django Test Plus
-https://github.com/revsys/django-test-plus/pull/122
-
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
 
