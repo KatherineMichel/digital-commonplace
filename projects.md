@@ -13,39 +13,12 @@ https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic
 https://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf
 https://www.mindtools.com/pages/article/newHTE_91.htm
 
-New Release
-
-Pinax Roadmap
-https://github.com/pinax/pinax/projects/1
-https://github.com/pinax/pinax/wiki/Pinax-21.04-Release-Plan
-https://github.com/pinax/pinax/wiki/Pinax-20.XX-Release-Plan
-
-Don't Have Access
-https://github.com/pinax/pinax-starter-projects
-https://github.com/pinax/screencasts/
-https://github.com/pinax/pinax-design/
-https://github.com/pinax/pinax-cart/
-https://github.com/pinax/cloudspotting/
-https://github.com/pinax/pinax-pages/
-https://github.com/pinax/django-forms-bootstrap/
-https://github.com/pinax/pinax-calendars-demo/
-https://github.com/pinax/PinaxCon/
-https://github.com/pinax/mytweets/
-https://github.com/pinax/pinax-images-panel/
-https://github.com/pinax/atom-format/
-https://github.com/pinax/django-bookmarks/
-https://github.com/pinax/pinaxproject.com/
-https://github.com/pinax/pinax.github.com/
-https://github.com/pinax/dashboard.pinaxproject.com/
-
 
 Issues
 https://github.com/pinax/pinax/issues/165
 https://app.slack.com/client/T04R5AQTQ/C08N5S6AU
 https://github.com/pinax/pinax-project-teams/issues/1
 
-Pinax Starter Projects
-https://github.com/pinax/pinax-starter-projects/blob/master/update.sh
 
 https://github.com/slashsBin/styleguide-git-commit-message
 
@@ -57,10 +30,6 @@ https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
 
 Django Test Plus
 https://github.com/revsys/django-test-plus/pull/122
-
-Make a game
-Game Simulation
-https://twitter.com/FreeDOS_Project/status/1337920378598027266 | FreeDOS on Twitter: "If you like simulation games, check out "Linux Tycoon." It's a game where you simulate running a #Linux Distribution project. This DOS version is written entirely in #VisualBasic for DOS. https://t.co/iscCFTZYxs Originally written as a lark, but it can be fun to play. https://t.co/8BlsFxsacL" / Twitter
 
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
