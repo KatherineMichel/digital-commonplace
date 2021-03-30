@@ -1,14 +1,21 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Port_(computer_networking) | Port (computer networking) - Wikipedia
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers | List of TCP and UDP port numbers - Wikipedia
+https://en.wikipedia.org/wiki/Computer_port_(hardware) | Computer port (hardware) - Wikipedia
 
-https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
+https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
+https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+
+
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+Social Auth
+
 
 https://en.wikipedia.org/wiki/X_Window_System#Principles
 
-https://en.wikipedia.org/wiki/User_agent
-https://simple.wikipedia.org/wiki/Packet_(computing)
 
 https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
 
@@ -18,20 +25,19 @@ https://github.com/llvm/llvm-project
 Like the other
 http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
 
-Bread and crud
-https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
-
 MongoDB/Cap
 https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
 https://github.com/dcramer/mangodb
 
 https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 
+
 https://github.com/snowflakedb | Snowflake Computing
 https://prestodb.io/
 
 https://en.wikipedia.org/wiki/POSIX
 https://pop.system76.com/
+
 
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
@@ -54,6 +60,7 @@ https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging
 http://restcookbook.com/Miscellaneous/rest-and-http/
 -->
 
+
 ## Philosophies
 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -70,6 +77,31 @@ https://environ-config.readthedocs.io/en/latest/ | environ-config: Application C
   * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 
 https://github.com/microservices/cli
+-->
+
+## Computer Architecture
+
+CPU versus IO
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
+* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound)
+* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
+
+Ports
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+
+<!--
+https://en.wikipedia.org/wiki/Memory_bound_function
+
+Interesting!
+https://en.wikipedia.org/wiki/Execution_model
+https://en.wikipedia.org/wiki/Scheduling_(computing)
+
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Event-driven_messaging
 -->
 
 ## General Software Design Patterns
@@ -98,6 +130,7 @@ https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec
 
 Interesting
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
 https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 https://en.wikipedia.org/wiki/Software_architecture
 https://en.wikipedia.org/wiki/Architectural_pattern
@@ -107,12 +140,15 @@ https://en.wikipedia.org/wiki/Post/Redirect/Get
 https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
 -->
 
+
 ## API
 
 * [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
+Fast API
+* [Fast API GitHub](https://github.com/tiangolo/fastapi)
+
 <!--
-https://github.com/tiangolo/fastapi
 https://fastapi.tiangolo.com/#performance
 
 Postman	
@@ -130,10 +166,105 @@ https://github.com/hoppscotch/hoppscotch | hoppscotch/hoppscotch: 👽 A free, f
 https://firecamp.io/
 -->
 
-## Request and Response Cycle, HTTP
+## API
 
-Request and Response Cycle
-* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+<!--
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+https://www.thepythoncode.com/article/using-github-api-in-python
+
+https://github.com/realpython/list-of-python-api-wrappers
+
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
+https://github.com/api-evangelist
+https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://www.programmableweb.com/category/all/apis
+-->
+
+
+## Requests
+
+Requests (HTTP for Humans) and Requests HTML
+* [Requests PyPI](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
+* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
+
+<!--
+"Requests is a library to interact with APIs (as a client), while FastAPI is a library to build APIs (as a server)."
+https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
+
+https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
+-->
+
+urllib3 (pip and Requests)
+* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
+
+Utilities- Retrieving Files/Data
+* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [Wget Wikipedia](https://www.gnu.org/software/wget/)
+
+<!--
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+-->
+
+
+## Mozilla- HTTP, Request and Response Cycle
+
+Mozilla- HTTP- General
+* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+Mozilla- HTTP- Specifics
+* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
+
+Other Stuff
+* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+     
+<!--
+https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
+
+https://www.udacity.com/course/http-web-servers--ud303
+https://github.com/udacity/course-ud303
+
+https://developer.mozilla.org/en-US/docs/Web/API/Request | Request - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Response | Response - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
+-->
+
+
+## Request and Response Cycle, HTTP
 
 Request and Response Cycle- HTTP
 * [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
@@ -142,6 +273,24 @@ Request and Response Cycle- HTTP
 * [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
+
+<!--
+https://en.wikipedia.org/wiki/HTTP_message_body
+
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
+
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
+https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
+https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
+https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
+
+https://en.wikipedia.org/wiki/Server_log
+-->
+
+
+## HTTP Sessions and Cookies
 
 Sessions
 * [Web Browsing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
@@ -154,81 +303,15 @@ Cookies
 * [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
 
 <!--
-https://en.wikipedia.org/wiki/HTTP_message_body
-
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
-
 https://en.wikipedia.org/wiki/HTTP_cookie#Http-only_cookie
 "Cookies were designed to be a reliable mechanism for websites to remember stateful information"
 Authentication cookie
-
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
-https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
-https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
-https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
-
-https://en.wikipedia.org/wiki/Server_log
--->
-
-## Computer Architecture
-
-CPU versus IO
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
-* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
-* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound)
-* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
-
-Ports
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
-
-<!--
-https://en.wikipedia.org/wiki/Memory_bound_function
-
-Interesting!
-https://en.wikipedia.org/wiki/Execution_model
-https://en.wikipedia.org/wiki/Scheduling_(computing)
-
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Event-driven_messaging
--->
-
-## HTTP, HTTPS, and WebSockets
-
-HTTP and HTTPS
-* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
-* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
-
-HTTP Versions
-* [HTTP/3 Wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
-* [HTTP/2 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
-* [HTTP/2- Differences from HTTP/1.1 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1)
-
-<!--
-See GraphQL
-
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
--->
-
-HTTP versus WebSocket (HTTP is uni-directional; WebSocket is bi-directional)
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-
-<!--
-Important
-"HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
-https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
-https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
-https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
 -->
 
 ## APIs, Callbacks, Webhooks
+
+CRUD
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
 
 Application Programming Interface (API... usually HTTP + XML or JSON)
 * [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
@@ -250,11 +333,75 @@ Webhooks (Event-driven, custom callback... the format is usually JSON. The reque
 Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
 * [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
 
+<!--
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Other_variations
 
-"GraphQL is a query language for APIs " (REST Alternatives, also used in GitHub API)
+Bread and crud
+https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
+
+https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
+-->
+
+## Async Benefits?
+
+HTTP versus WebSocket (HTTP is uni-directional; WebSocket is bi-directional)
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+
+Benefits of Async
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
+* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
+
+<!--
+Important
+"HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
+https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
+https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
+-->
+
+<!--
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
+See Tom's Talk
+Real time
+non-blocking http requests
+light-weight parallelization
+https://en.wikipedia.org/wiki/Parallel_computing
+explicit i/o
+
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+Also, Ajax Polling explained
+
+polling versus webhooks
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+Websockets
+https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
+https://www.tutorialspoint.com/html5/html5_websocket.htm
+-->
+
+
+## Rest API Alternatives
+
+"GraphQL is a query language for APIs " (REST Alternative)
 * [GraphQL](http://graphql.org/)
 * [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
+
+Rest Alternative
 * [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
+
+<!--
+See GraphQL
+
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+-->
 
 <!--
 https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
@@ -265,61 +412,6 @@ https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implemen
 https://github.com/graphql-python | GraphQL Python
 -->
 
-
-## Performance and Metrics
-
-<!--
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-
-## SQL Related
-
-The Python SQL Toolkit and Object Relational Mapper
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
-<!--
-https://www.postgresql.org/about/ | PostgreSQL: About
-http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
-https://www.sqlite.org/serverless.html | SQLite Is Serverless
-https://www.sqlite.org/json1.html | The JSON1 Extension
-https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
-https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
--->
-
-## Used Less Often
-
-Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
-* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
-
-Remote Procedure Call (RPC) Framework (Uses Protocol Buffers)
-* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
-* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
-
-<!--
-https://developers.google.com/protocol-buffers/docs/overview
-
-https://github.com/protocolbuffers/protobuf | protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format
-https://en.wikipedia.org/wiki/Protocol_Buffers | Protocol Buffers - Wikipedia
-https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protocol Buffers Instead of JSON for Your Next Service - Code Climate
-
-https://grpc.io/
-https://grpc.io/docs/guides/
--->
 
 ## Serialization, JSON, XML, Ajax
 
@@ -333,15 +425,15 @@ https://grpc.io/docs/guides/
 JSON Versus XML
 * ["JSON is much simpler than XML"](http://www.json.org/xml.html)
 
+Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
+* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
+* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
+
 XML, XPath, XHTML
 * [XML Wikipedia](https://en.wikipedia.org/wiki/XML)
 * [XPath Wikipedia](https://en.wikipedia.org/wiki/XPath)
 * [XHTML Wikipedia](https://en.wikipedia.org/wiki/XHTML)
 * [List of XML and HTML Character Entity References Wikipedia](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
-
-Ajax: Asynchronous JavaScript and XML (Uses XHTML + CSS + DOM/JavaScript)
-* [Ajax Wikipedia](https://en.wikipedia.org/wiki/Ajax_(programming))
-* [List of AJAX Frameworks Wikipedia](https://en.wikipedia.org/wiki/List_of_Ajax_frameworks)
 
 
 <!--
@@ -373,26 +465,83 @@ JSON and YAML
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
 -->
 
-## Graph, Schema, Format
 
-Graph and Schema- General (See also Facebook Open Graph and W3C Semantic Extractor)
-* [Open Graph Protocol Schema](http://ogp.me) 
-* [Schema Org](http://schema.org), [Schema Org Getting Started](http://schema.org/docs/gs.html), and [Schema Org Wikipedia](http://en.wikipedia.org/wiki/Schema.org) 
-* [Schema Creator](http://schema-creator.org)
+## Performance and Metrics
 
-Open Search
-* [Open Search](http://www.opensearch.org/Home)
+<!--
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
 
-Microformats
-* [Microformats](http://microformats.org)
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+See also: Data Science
+https://github.com/keen/cohorts
+-->
 
 
+## SQL Related
+
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+
+<!--
+https://www.postgresql.org/about/ | PostgreSQL: About
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
+https://www.sqlite.org/serverless.html | SQLite Is Serverless
+https://www.sqlite.org/json1.html | The JSON1 Extension
+
+https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
+https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
+-->
+
+## Used Less Often
+
+Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
+* [Protocol Buffers](https://developers.google.com/protocol-buffers/)
+
+Remote Procedure Call (RPC) Framework (Uses Protocol Buffers)
+* [Remote Procedure Call (RPC) Wikipedia](https://en.wikipedia.org/wiki/Remote_procedure_call)
+* [gRPC Remote Procedure Call (gRPC) Wikipedia](https://en.wikipedia.org/wiki/GRPC)
+
+<!--
+https://developers.google.com/protocol-buffers/docs/overview
+
+https://github.com/protocolbuffers/protobuf | protocolbuffers/protobuf: Protocol Buffers - Google's data interchange format
+https://en.wikipedia.org/wiki/Protocol_Buffers | Protocol Buffers - Wikipedia
+https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protocol Buffers Instead of JSON for Your Next Service - Code Climate
+
+https://grpc.io/
+https://grpc.io/docs/guides/
+-->
+
+## Network Tools and Other Utilities
+
+Bot Tools
+* [aiohttp (Asynchronous HTTP Client/Server for asyncio and Python)](https://docs.aiohttp.org/)
+* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
+* [sans I/O](https://sans-io.readthedocs.io/)
+
+<!--
+https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
+-->
 
 ## Kenneth- Python
 
 Django- DJ Static, DJ Database URL
 * [DJ Static GitHub](https://github.com/heroku-python/dj-static)
 * [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records (SQL for Humans)
+* [Records GitHub](https://github.com/kennethreitz/records)
 
 <!--
 https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
@@ -408,55 +557,13 @@ https://github.com/kennethreitz/pip-purge
 https://github.com/kennethreitz/homebrew-pythons
 -->
 
-
-## Network Tools and Other Utilities
-
-Requests (HTTP for Humans) and Requests HTML
-* [Requests PyPI](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
-* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
-
-Records (SQL for Humans)
-* [Records GitHub](https://github.com/kennethreitz/records)
-
-Utilities- Retrieving Files/Data
-* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
-* [Wget Wikipedia](https://www.gnu.org/software/wget/)
-
-urllib3 (pip and Requests)
-* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
-
-Bot Tools
-* [aiohttp](https://docs.aiohttp.org/)
-* [gidgethub](https://gidgethub.readthedocs.io) and [gidgethub GitHub](https://github.com/brettcannon/gidgethub)
-* [sans I/O](https://sans-io.readthedocs.io/)
+## Networks
 
 <!--
-"Requests is a library to interact with APIs (as a client), while FastAPI is a library to build APIs (as a server)."
-https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
-https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
-
-https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
-
-https://httpie.org/ | HTTPie – command line HTTP client
-https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
-
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://pypi.org/project/requests/ | requests · PyPI
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
-
-https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "📣 urllib3 is one of the most downloaded Python libraries and is the backbone of the Python Requests library and *many* others. ➡ If you want to be apart of the v2 wishlist discussion, here is your chance." / Twitter
+https://en.wikipedia.org/wiki/5G
+https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
 -->
+
 
 ## Auth
 
@@ -464,12 +571,12 @@ https://twitter.com/webology/status/1301916846036267010 | Jeff "wears a mask �
 * [Auth0](https://auth0.com/)
 
 <!--
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
+
 * [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
 
 https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
 https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
-
-https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm
 
 https://en.wikipedia.org/wiki/Single_sign-on
 https://en.wikipedia.org/wiki/SAML_2.0
@@ -513,17 +620,26 @@ https://github.com/auth0/auth0-python | auth0/auth0-python: All information rega
 https://twofactorauth.org/ | 502 Bad Gateway
 https://twofactorauth.org/#banking | Two Factor Auth List
 
-
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-Social Auth
-
 https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
 
 Google Auth
 https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
 -->
 
-## Web Browser, Client/Server
+
+
+## HTTP Versions
+
+* [HTTP/3 Wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
+* [HTTP/2 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
+* [HTTP/2- Differences from HTTP/1.1 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1)
+
+## HTTP, HTTPS, Web Browser, Client/Server
+
+HTTP and HTTPS
+* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
 
 Web Browsers and Servers
 * [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
@@ -532,6 +648,9 @@ Web Browsers and Servers
 
 Servers
 * [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Request and Response Cycle
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
 
 Client and Server-Side
 * [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
@@ -552,11 +671,8 @@ Scripting, Client-Side and Server-Side
 * [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
 * [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
 
-## Networks
-
 <!--
-https://en.wikipedia.org/wiki/5G
-https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
+https://en.wikipedia.org/wiki/User_agent
 -->
 
 ## Async- Other Languages
@@ -632,37 +748,7 @@ Async/Await, Futures, Promises
 * [Futures and Promises Wikipedia](https://en.wikipedia.org/wiki/Futures_and_promises)
 * [Event Loop](https://en.wikipedia.org/wiki/Event_loop)
 
-Benefits
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
-* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
-
 <!--
-https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
-
-See Tom's Talk
-Real time
-non-blocking http requests
-light-weight parallelization
-https://en.wikipedia.org/wiki/Parallel_computing
-explicit i/o
-
-https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-Also, Ajax Polling explained
-
-polling versus webhooks
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
--->
-
-<!--
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-Websockets
-https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
-https://www.tutorialspoint.com/html5/html5_websocket.htm
-
 Concurrency
 https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
@@ -855,6 +941,10 @@ TCP
 * [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 * [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
 
+<!--
+https://simple.wikipedia.org/wiki/Packet_(computing)
+-->
+
 ## How Do It Work
 
 <!--
@@ -911,8 +1001,6 @@ https://en.wikipedia.org/wiki/256-bit | 256-bit - Wikipedia
 https://en.wikipedia.org/wiki/8-bit | 8-bit - Wikipedia
 
 https://en.wikipedia.org/wiki/Decimal_system | Decimal system - Wikipedia
-http://www.asciitable.com/ | Ascii Table - ASCII character codes and html, octal, hex and decimal chart conversion
-https://en.wikipedia.org/wiki/ASCII
 https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
 -->
 
