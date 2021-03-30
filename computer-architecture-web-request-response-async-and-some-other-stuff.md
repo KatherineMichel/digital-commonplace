@@ -196,6 +196,13 @@ urllib3 (pip and Requests)
 * [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
 
 <!--
+import oauth2
+https://pypi.org/project/python-oauth2/
+
+import requests
+import requests_oauthlib
+https://pypi.org/project/requests-oauthlib/
+
 https://docs.python-requests.org/en/master/api/
 https://docs.python-requests.org/en/latest/community/recommended/
 https://docs.python-requests.org/en/master/
