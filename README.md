@@ -522,6 +522,8 @@ https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A 
 
 
 <!--
+https://twitter.com/SahilBloom/status/1373279793353879556 | Sahil Bloom on Twitter: "To outperform, you need serious competitive advantages. But contrary to what you have been told, most of them don't require talent. 10 competitive advantages that you can start developing today:" / Twitter
+
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
 
@@ -2247,60 +2249,6 @@ https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_JS | Object-oriented JavaScript for beginners - Learn web development | MDN
 -->
 
-## Mozilla JavaScript- Document Object Model and Window
-
-Browser Object Model (BOM) and Document Object Model (DOM)
-* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
-* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
-
-Mozilla- Document Object Model
-* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
-* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
-
-<!--
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
-https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
-
-DOM API
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
-https://developer.mozilla.org/en-US/docs/Web/API/Window
-https://developer.mozilla.org/en-US/docs/Web/API/Window#properties
-https://developer.mozilla.org/en-US/docs/Web/API/Window#methods
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document
-https://developer.mozilla.org/en-US/docs/Web/API/Document#properties
-https://developer.mozilla.org/en-US/docs/Web/API/Document#methods
-https://developer.mozilla.org/en-US/docs/Web/API/Document#events
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
-https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/Element
-https://developer.mozilla.org/en-US/docs/Web/API/Element#properties
-https://developer.mozilla.org/en-US/docs/Web/API/Element#properties_included_from_aria
-https://developer.mozilla.org/en-US/docs/Web/API/Element#methods
-
-HTML Elements API
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement
-
-https://developer.mozilla.org/en-US/docs/Web/API/Event
-https://developer.mozilla.org/en-US/docs/Web/API/Element#events
-https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#svg_data_type_interfaces
-
-https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
--->
-
-<!--
-CSS API
-https://developer.mozilla.org/en-US/docs/Web/API/CSS
-
-CSSOM
-https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
--->
-
-
 ## Mozilla JavaScript- Global Attributes
 
 <!--
@@ -2386,6 +2334,58 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 -->
 
+## Mozilla JavaScript- Document Object Model and Window
+
+Browser Object Model (BOM) and Document Object Model (DOM)
+* [Browser Object Model (BOM) Wikipedia](https://en.wikipedia.org/wiki/Browser_Object_Model)
+* [Document Object Model (DOM) Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model), [DOM Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events)
+
+Mozilla- Document Object Model
+* [Mozilla Document Object Model Reference](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+* [Mozilla Document Object Model Examples](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Examples)
+
+<!--
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents#The_document_object_model
+
+DOM API
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model
+https://developer.mozilla.org/en-US/docs/Web/API/Window
+https://developer.mozilla.org/en-US/docs/Web/API/Window#properties
+https://developer.mozilla.org/en-US/docs/Web/API/Window#methods
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Document#properties
+https://developer.mozilla.org/en-US/docs/Web/API/Document#methods
+https://developer.mozilla.org/en-US/docs/Web/API/Document#events
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document/Document
+https://developer.mozilla.org/en-US/docs/Web/API/Node | Node - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element
+https://developer.mozilla.org/en-US/docs/Web/API/Element#properties
+https://developer.mozilla.org/en-US/docs/Web/API/Element#properties_included_from_aria
+https://developer.mozilla.org/en-US/docs/Web/API/Element#methods
+
+HTML Elements API
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement
+
+https://developer.mozilla.org/en-US/docs/Web/API/Event
+https://developer.mozilla.org/en-US/docs/Web/API/Element#events
+https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#svg_data_type_interfaces
+
+https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
+-->
+
+<!--
+CSS API
+https://developer.mozilla.org/en-US/docs/Web/API/CSS
+
+CSSOM
+https://developer.mozilla.org/en-US/docs/Web/API/CSS_Object_Model
+-->
 
 ## Mozilla Javascript- Popular Events
 
@@ -2425,14 +2425,6 @@ Events
 * [Event Handler Wikipedia](https://en.wikipedia.org/wiki/Event_(computing)#Event_handler)
 * [DOM/JavaScript Events Wikipedia](https://en.wikipedia.org/wiki/Document_Object_Model#JavaScript)
 * [DOM Events/HTML Events Wikipedia](https://en.wikipedia.org/wiki/DOM_events#HTML_events)
-
-
-## Mozilla JavaScript- Forms
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
--->
-
 
 ## Mozilla- JavaScript APIs Reference
 
@@ -2647,45 +2639,6 @@ https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test
 https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Line-based_placement | Grids - Learn web development | MDN
 -->
 
-## Mozilla- HTTP, Request and Response Cycle
-
-Mozilla- HTTP- General
-* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
-* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
-* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
-
-Mozilla- HTTP- Specifics
-* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
-* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
-* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
-* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
-* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
-
-Other Stuff
-* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
-     
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/Request | Request - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Response | Response - Web APIs | MDN
-
-https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
-
-https://www.udacity.com/course/http-web-servers--ud303
-https://github.com/udacity/course-ud303
-
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
--->
-
 ## Google Chrome Dev Tools
 
 <!--
@@ -2765,22 +2718,6 @@ https://www.freecodecamp.org/news/a-realworld-comparison-of-front-end-frameworks
 https://www.notion.so/Web-performance-checklist-02fbc975d9bd432993bdadce73de1b17 | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 -->
 
-
-## API
-
-<!--
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://www.thepythoncode.com/article/using-github-api-in-python
-
-https://github.com/realpython/list-of-python-api-wrappers
-
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
-https://github.com/api-evangelist
-https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
-https://github.com/TonnyL/Awesome_APIs
-https://www.programmableweb.com/category/all/apis
--->
 
 ## Data Science and Network Analysis
 
@@ -3144,14 +3081,6 @@ https://developers.facebook.com/docs/instagram/ | Instagram Platform
 https://github.com/facebook/facebook-python-business-sdk | facebook/facebook-python-business-sdk: An SDK built to facilitate application development for Facebook Ads API.
 https://facebook-sdk.readthedocs.io/en/latest/ | Facebook SDK for Python — Facebook SDK for Python 4.0.0-pre documentation
 
-Twitter
-https://developer.twitter.com/en#/ | Developer
-https://developer.twitter.com/en/use-cases/analyze | Analyze – Twitter Developers
-https://developer.twitter.com/en/use-cases/engage | Engage – Twitter Developers
-
-https://developer.twitter.com/en/docs/twitter-api/early-access | What's New with Twitter API v2 | Docs | Twitter Developer
-https://developer.twitter.com/en/portal/register/playground?manualOpen=true | https://developer.twitter.com/en/portal/register/playground?manualOpen=true
-
 Bot
 https://api.slack.com/ | Slack API | Slack
 https://api.slack.com/tutorials | Tutorials | Slack
@@ -3190,17 +3119,7 @@ https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: 
 ## Twitter API
 
 <!--
-Twitter API
-https://github.com/twitterdev | @TwitterDev
-
-
-
-https://blog.twitter.com/developer/en_us/topics/tools/2020/introducing_new_twitter_api.html | Introducing a new and improved Twitter API
-https://blog.twitter.com/developer/en_us/topics/tools/2019/building-the-next-generation-of-the-twitter-api.html | Building the next generation of the Twitter API
 https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
-
-Resources
-https://twittercommunity.com/t/announcing-early-access-to-the-next-generation-of-the-twitter-api/139612
 
 Endpoints and Tweet Object
 https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
@@ -3209,39 +3128,16 @@ https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-d
 https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
 https://developer.twitter.com/en/apps | Twitter Developers
 
-https://developer.twitter.com/en/products/labs | Labs
 https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
-
-https://developer.twitter.com/en/portal/dashboard
-
 
 https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap
 
-https://developer.twitter.com/en/docs
-https://developer.twitter.com/en/docs/getting-started
-https://developer.twitter.com/en/docs/tutorials
-https://developer.twitter.com/en/docs/tutorials/explore-a-users-tweets
-https://developer.twitter.com/en/docs/tutorials/listen-for-important-events
-https://developer.twitter.com/en/docs/tutorials/analyze-past-conversations
-https://developer.twitter.com/en/docs/tutorials/stream-tweets-in-real-time
-
-https://developer.twitter.com/en/docs/twitter-api/enterprise
-
-https://developer.twitter.com/en/docs/twitter-api
 https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
 https://developer.twitter.com/en/docs/twitter-api/api-reference-index
-https://github.com/twitterdev/Twitter-API-v2-sample-code
 
 GitHub Search
 https://api.twitter.com/
 
-https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries
-https://pypi.org/project/requests/
-https://pypi.org/project/requests-oauthlib/
-https://developer.twitter.com/en/docs/twitter-for-websites/tools-and-libraries
-https://developer.twitter.com/en/docs/twitter-ads-api/tools-and-libraries
-https://twitterdev.github.io/twitter-python-ads-sdk/
-https://github.com/twitterdev/twitter-python-ads-sdk
 https://developer.twitter.com/en/docs/tools-and-libraries/using-postman
 
 
@@ -3249,9 +3145,6 @@ Media and Log In
 https://developer.twitter.com/en/docs/twitter-api/v1/media/upload-media/overview | Overview — Twitter Developers
 https://developer.twitter.com/en/docs/twitter-ads-api/creatives/api-reference/media-library | Media Library — Twitter Developers
 https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
-
-Old
-https://developer.twitter.com/en/docs/basics/response-codes | Response codes — Twitter Developers
 -->
 
 ## GitHub API
@@ -3446,48 +3339,8 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
 
-## GitLab
 
-GitLab- Notable Features
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
 
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-Tools and Landscapes
-* [About GitLab](https://about.gitlab.com/)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-
-<!--
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
-
-https://docs.gitlab.com/ee/install/README.html
-
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
-
-gitlab continuous integration and deployment
-https://www.youtube.com/watch?v=1iXFbchozdY
-https://docs.gitlab.com/ce/ci/
-https://docs.gitlab.com/ce/ci/quick_start/README.html
-https://docs.gitlab.com/ce/ci/environments.html
-https://docs.gitlab.com/ee/ci/autodeploy/index.html
-https://docs.gitlab.com/ee/integration/
-https://about.gitlab.com/features/gitlab-ci-cd/
-https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
-https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
-https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
-https://about.gitlab.com/2016/11/22/introducing-review-apps/
--->
 
 ## Useful Files
 
@@ -3729,6 +3582,49 @@ https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: De
 https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
 
 https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
+-->
+
+## GitLab
+
+GitLab- Notable Features
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+Tools and Landscapes
+* [About GitLab](https://about.gitlab.com/)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+<!--
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+https://docs.gitlab.com/ee/install/README.html
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
 -->
 
 ## X Driven Development
