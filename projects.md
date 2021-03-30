@@ -925,8 +925,6 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
 -->
 
 <!--
