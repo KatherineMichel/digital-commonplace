@@ -173,6 +173,8 @@ https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-pyt
 
 https://www.thepythoncode.com/article/using-github-api-in-python
 
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
 https://github.com/realpython/list-of-python-api-wrappers
 
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs for use in software and web development.
@@ -186,18 +188,38 @@ https://www.programmableweb.com/category/all/apis
 ## Requests
 
 Requests (HTTP for Humans) and Requests HTML
-* [Requests PyPI](https://pypi.python.org/pypi/requests), [Requests](https://requests.readthedocs.io/), and [Requests GitHub](https://github.com/requests/requests)
+* [Requests](https://requests.readthedocs.io/)
+* [Requests PyPI](https://pypi.python.org/pypi/requests) and [Requests GitHub](https://github.com/requests/requests)
 * [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
 
+urllib3 (pip and Requests)
+* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
+
 <!--
+https://docs.python-requests.org/en/master/api/
+https://docs.python-requests.org/en/latest/community/recommended/
+https://docs.python-requests.org/en/master/
+https://docs.python-requests.org/en/master/user/quickstart/#response-headers
+
 "Requests is a library to interact with APIs (as a client), while FastAPI is a library to build APIs (as a server)."
 https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
 
 https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
 -->
 
-urllib3 (pip and Requests)
-* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
+## Other HTTP Tools
 
 Utilities- Retrieving Files/Data
 * [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
@@ -208,21 +230,7 @@ https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
 
 https://httpie.org/ | HTTPie – command line HTTP client
 https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
-
-
-Requests
-https://github.com/psf/requests/pull/5171
-https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
-
-Requests
-https://twitter.com/mitsuhiko/status/1174577922172248064
-
-https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
-https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
-
-http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
 -->
-
 
 ## Mozilla- HTTP, Request and Response Cycle
 
@@ -231,17 +239,66 @@ Mozilla- HTTP- General
 * [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
 * [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
 
-Mozilla- HTTP- Specifics
-* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+## Request/Response Cycle
+
+HTTP Request
+* The method
+* The path
+* The version
+* The headers
+* The body
+
+HTTP Response
+* The version
+* The status code
+* The status message
+* The headers
+* The body
+
+## Mozilla- HTTP, Request and Response Cycle
+
+Messages!
 * [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+
+Mozilla- HTTP- Specifics
 * [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+<!--
+* [Mozilla MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
+
+Important
+HTTP Headers
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+https://developer.mozilla.org/en-US/docs/Glossary/General_header
+https://developer.mozilla.org/en-US/docs/Glossary/Request_header
+https://developer.mozilla.org/en-US/docs/Glossary/Response_header
+-->
+
+Request
+* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Mozilla HTTP Request](https://developer.mozilla.org/en-US/docs/Web/API/Request)
+
+<!--
+Comparison chart
+https://www.w3schools.com/tags/ref_httpmethods.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
+-->
+
+Response
+* [Mozilla HTTP Request](https://developer.mozilla.org/en-US/docs/Web/API/Response)
 * [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
 * [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
 
 Other Stuff
 * [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
-* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
-* [Mozilla MIME types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
      
 <!--
 https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
@@ -249,36 +306,39 @@ https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
 https://www.udacity.com/course/http-web-servers--ud303
 https://github.com/udacity/course-ud303
 
-https://developer.mozilla.org/en-US/docs/Web/API/Request | Request - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Response | Response - Web APIs | MDN
-
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
 
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
 
 https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
-https://developer.mozilla.org/en-US/docs/Learn/HTML/Forms
 -->
 
 
 ## Request and Response Cycle, HTTP
 
 Request and Response Cycle- HTTP
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
 * [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+
+Methods
 * [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+
+More
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
 * [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
 * [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
 
 <!--
-https://en.wikipedia.org/wiki/HTTP_message_body
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
 
 https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Common_non-standard_request_fields
 https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
+
+
+https://en.wikipedia.org/wiki/HTTP_message_body
 
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
@@ -289,8 +349,17 @@ https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
 https://en.wikipedia.org/wiki/Server_log
 -->
 
+## Mozilla JavaScript- Forms
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
+https://developer.mozilla.org/en-US/docs/Learn/Forms
+-->
 
 ## HTTP Sessions and Cookies
+
+Mozilla HTTP Sessions
+* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
 
 Sessions
 * [Web Browsing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
@@ -323,6 +392,8 @@ REST (API architecture style; versus SOAP or GraphQL; HTTP is commonly used; HTT
 * [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
 
 <!--
+https://en.wikipedia.org/wiki/Payload_(computing)
+
 https://en.wikipedia.org/wiki/Representational_state_transfer#Relationship_between_URI_and_HTTP_methods
 https://en.wikipedia.org/wiki/Representational_state_transfer#Architectural_constraints | Representational state transfer - Wikipedia
 -->
