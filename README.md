@@ -3118,35 +3118,6 @@ https://github.com/kennethreitz/twitter-scraper | kennethreitz/twitter-scraper: 
 
 ## Twitter API
 
-<!--
-https://blog.twitter.com/developer/en_us/topics/tools/2018/access-the-full-history-of-tweets.html | Introducing the premium full-archive search endpoint
-
-Endpoints and Tweet Object
-https://blog.twitter.com/developer/en_us/topics/tools/2020/a-year-with-twitter-developer-labs.html | A year with Twitter Developer Labs: What we've learned and changed
-
-
-https://developer.twitter.com/en/account/get-started | Get Started — Twitter Developers
-https://developer.twitter.com/en/apps | Twitter Developers
-
-https://developer.twitter.com/en/account/labs | Developer Labs — Twitter Developers
-
-https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap
-
-https://developer.twitter.com/en/docs/api-reference-index | API reference index — Twitter Developers
-https://developer.twitter.com/en/docs/twitter-api/api-reference-index
-
-GitHub Search
-https://api.twitter.com/
-
-https://developer.twitter.com/en/docs/tools-and-libraries/using-postman
-
-
-Media and Log In
-https://developer.twitter.com/en/docs/twitter-api/v1/media/upload-media/overview | Overview — Twitter Developers
-https://developer.twitter.com/en/docs/twitter-ads-api/creatives/api-reference/media-library | Media Library — Twitter Developers
-https://developer.twitter.com/en/docs/authentication/guides/log-in-with-twitter | Log in with Twitter — Twitter Developers
--->
-
 ## GitHub API
 
 * [PyGitHub](https://pygithub.readthedocs.io/)
