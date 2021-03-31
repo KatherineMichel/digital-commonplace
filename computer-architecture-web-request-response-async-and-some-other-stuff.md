@@ -1,6 +1,54 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
+## Innovations
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+
+
+API
+https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
+https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+
+https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://docs.python.org/3/library/sqlite3.html
+
+https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
+
+GraphQL
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+CI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+
+https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
+https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
+
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
+
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
+
+Learn assembly
+https://www.xorpd.net/ | xorpd
+
+
 https://en.wikipedia.org/wiki/Port_(computer_networking) | Port (computer networking) - Wikipedia
 https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports
 https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers | List of TCP and UDP port numbers - Wikipedia
