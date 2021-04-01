@@ -521,8 +521,20 @@ https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A 
 -->
 
 
+
 <!--
 https://twitter.com/SahilBloom/status/1373279793353879556 | Sahil Bloom on Twitter: "To outperform, you need serious competitive advantages. But contrary to what you have been told, most of them don't require talent. 10 competitive advantages that you can start developing today:" / Twitter
+
+
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
+
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
 
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
@@ -605,37 +617,7 @@ https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape
 https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
 
 https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
-
-
-
-## Security
-
-https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
-https://owasp.org/www-project-samm/ | OWASP SAMM
-https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-Important
-https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
-
-
-## Fast AI
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
-
-
-## Innovations
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
 -->
-
-
 
 <!--
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
@@ -677,6 +659,7 @@ https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Prope
 
 
 https://applitools.com/
+https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
 
 Automation framework
 https://robotframework.org/
@@ -685,25 +668,10 @@ App and browser testing
 https://www.browserstack.com/
 
 
-API
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
-https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
-
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-
-https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
-
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
 https://postgis.net/docs/manual-3.0/
 https://postgis.net/docs/manual-3.0/ch06.html
 https://www.gaia-gis.it/fossil/libspatialite/index
+
 
 vscode html css support
 Docs driven dev
@@ -712,34 +680,11 @@ Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protoc
 Pre-mortem and Postmortem
 Unix and bash
 
-GraphQL
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
 
 https://devcenter.heroku.com/articles/platform-api-reference
 https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
 https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
 https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-
-
-CI
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-
-https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
-
-https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
-
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
-Learn assembly
-https://www.xorpd.net/ | xorpd
 
 
 Mac Scrips
@@ -768,6 +713,26 @@ https://podman.io/
 
 https://www.packer.io/ | Packer by HashiCorp
 https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+-->
+
+<!--
+## Security
+
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-samm/ | OWASP SAMM
+https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
+
+Important
+https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
+
+
+## Fast AI
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
 -->
 
 
