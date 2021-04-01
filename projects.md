@@ -1000,7 +1000,6 @@ https://github.com/wesbos/JavaScript30
 https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
-
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
 
 Project 1
@@ -1014,6 +1013,73 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
 -->
 
+
+<!--
+Bootcamp
+https://twitter.com/holtbt?lang=en | Brian Holt (@holtbt) / Twitter
+
+https://github.com/FrontendMasters/learning-roadmap | FrontendMasters/learning-roadmap: The Front-End Developer Learning Roadmap by Frontend Masters
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://frontendmasters.github.io/bootcamp/ | Frontend Masters Bootcamp
+
+JavaScript
+https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html | Dog Viewer
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.html | bootcamp/dog.html at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.css | bootcamp/dog.css at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/gallery/index.html | bootcamp/index.html at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
+
+HTML/CSS
+https://frontendmasters.github.io/bootcamp/static/css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png | css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png (459×433)
+https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/xymQdz?editors=1100 | Exploring floats and clears
+https://codepen.io/jen4web/pen/ZqdZeW | Vertical navigation bar styling
+https://codepen.io/jen4web/pen/ZqdZeW?editors=1100 | Vertical navigation bar styling
+https://codepen.io/jen4web/pen/xymQoM | Vertical navigation bar styling
+https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/wYLOpj | A Pen by Jen Kramer
+https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#margin | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/JmweGL?editors=1100 | Box model discussion
+https://frontendmasters.github.io/bootcamp/css#references | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/bmyQdM?editors=1100 | A Pen by Jen Kramer
+https://frontendmasters.github.io/bootcamp/css | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/2-css/begin/learningcss.html | bootcamp/learningcss.html at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/html | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/images/blog1.jpg | bootcamp/blog1.jpg at master · FrontendMasters/bootcamp
+https://frontendmasters.com/bootcamp/html-forms/ | Learn HTML Forms for Collecting Form Data in Websites in this Course by Jen Kramer
+https://frontendmasters.com/bootcamp/introduction-html/
+
+https://jen4web.substack.com/p/coming-soon | Expand your HTML game in 30 days. - 30 Days of HTML
+https://twitter.com/jen4web/status/1372966459723427848 | Jen Kramer on Twitter: "The top 10 elements in use on web pages in 2020 include div, a, span, li, img, script, p, link, i, and option. None of these elements are included in the #30DaysofHTML challenge. https://t.co/tmBbGOZ1VM" / Twitter
+
+https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
+https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
+
+React
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://reactjs.org/docs/dom-elements.html | DOM Elements – React
+https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
+https://github.com/vercel/next.js | vercel/next.js: The React Framework
+
+Node
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+https://expressjs.com/ | Express - Node.js web application framework
+
+PWA
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/App_structure | Progressive web app structure - Progressive web apps (PWAs) | MDN
+
+Repl.it
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+-->
 
 ## Learning Resources- CSS, HTML, JavaScript
 
@@ -1030,7 +1096,9 @@ https://github.com/KatherineMichel/digital-commonplace/edit/master/projects.md
 
 
 https://developer.twitter.com/en/docs
-https://frontendmasters.com/bootcamp/introduction-html/
+
+Colby
+https://fromdesignto.dev/ | From Design to Development Crash Course - From Design to Development Crash Course
 
 Django Builder
 https://djangobuilder.io/
