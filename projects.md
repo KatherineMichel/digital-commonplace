@@ -24,29 +24,49 @@ https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a 
 -->
 
 
+## HTML, CSS, JavaScript
+
+### Website and Blog Resources
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
 <!--
-https://plone.org/
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
 
-https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
-https://discord.com/invite/xDKGPaW | anthonywritescode
+https://github.com/wowthemesnet/mundana-theme-jekyll
 
-https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-http://inventwithpython.com/beyond/
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
 
+https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
 
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
 
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-
-Digital Ocean- Deployment
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
 
 
@@ -232,97 +252,6 @@ Kojo
 https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
 
 https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
--->
-
-
-### Code Challenges
-
-100 Days of Code
-* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
-* [100 Days of Projects](https://100daysofprojects.carrd.co/)
-* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
-* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
-
-
-<!--
-https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
-
-https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
-https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/input
-https://adventofcode.com/2020/day/2
--->
-
-## Clones and Projects
-
-<!--
-Important!
-https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
--->
-
-<!--
-Non-Python
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-https://github.com/python-telegram-bot/python-telegram-bot
--->
-
-## Great Demos
-
-<!--
-Important
-https://django-news.com/ | Django News
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-
-Django Builder
-https://djangobuilder.io/
-
-https://django.doctor/challenge | Django Doctor - Django code improvement bot
-
-https://github.com/pinax
-https://github.com/pinax/pinax-templates
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
-
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
--->
-
-<!--
-Projects
-
-Every Cheese
-
-Cookiecutter
-https://twitter.com/nthapen/status/1240936897234513921
-https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
-
-https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
-
-Projects
-https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
-https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
-https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
-https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
-https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
-
-https://www.npmjs.com/package/npx | npx - npm
-https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
-
-DRF
-https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
-
-Every Cheese- Third party
-https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 -->
 
 
@@ -1009,31 +938,69 @@ https://twitter.com/amasad/status/1204843691682091008
 -->
 
 
-## Showcases
+## Projects
 
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
 
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
-https://reactnative.dev/showcase | Who's using React Native? · React Native
-https://reactjs.org/community/examples.html
+https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
 
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
 
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-https://web.archive.org/web/20200407235333/https://pwa.rocks/
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
-https://madewithreactnative.com/
+https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
 
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
+
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+Python
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+-->
+
+## Clones and Projects
+
+<!--
+Important!
+https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+-->
+
+<!--
+Non-Python
+
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+https://github.com/python-telegram-bot/python-telegram-bot
 -->
 
 
@@ -1088,6 +1055,34 @@ https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - 
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
+
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+https://reactnative.dev/showcase | Who's using React Native? · React Native
+https://reactjs.org/community/examples.html
+
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
 
 ## Tutorials
 
@@ -1145,47 +1140,23 @@ https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.h
 -->
 
 
-## Projects
+### Code Challenges
 
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+100 Days of Code
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
+* [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
 
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
-https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
+https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
 
-https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
-
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
-
-https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
-
-Node
-https://github.com/sqreen/awesome-nodejs-projects
-
-Python
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/input
+https://adventofcode.com/2020/day/2
 -->
+
 
 ## Python Learning Resources
 
@@ -1224,22 +1195,68 @@ Stack Overflow
 <!--
 https://blog.jetbrains.com/pycharm/
 
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
--->
-
-<!--
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+-->
+
+
+
+## Learning Resources- Python and Django
+
+<!--
+Important
+https://django-news.com/ | Django News
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+Django Builder
+https://djangobuilder.io/
+
+https://django.doctor/challenge | Django Doctor - Django code improvement bot
+
+https://plone.org/
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
+https://discord.com/invite/xDKGPaW | anthonywritescode
+
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+Learn Django
+https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
+
+Django Tutorials
+
+https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
+https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
+https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
 No Starch
 https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+http://inventwithpython.com/beyond/
+
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
 https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
 https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
@@ -1251,38 +1268,56 @@ https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff wit
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
-https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
-
-
-## Learning Resources- Python and Django
-
-<!--
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Learn Django
-https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
-
-Django Tutorials
-
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
-https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
-
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
 https://djangoforprofessionals.com/ | Django for Professionals
 https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 -->
 
+## Great Demos
+
+<!--
+https://github.com/pinax
+https://github.com/pinax/pinax-templates
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
+
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+-->
+
+
+
+<!--
+Projects
+
+Every Cheese
+
+Cookiecutter
+https://twitter.com/nthapen/status/1240936897234513921
+https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
+
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
+
+Projects
+https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
+https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
+https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
+https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
+
+https://www.npmjs.com/package/npx | npx - npm
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
+
+DRF
+https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
+
+Every Cheese- Third party
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
+-->
 
 ## Wes Bos
 
@@ -1319,45 +1354,12 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | U
 
 
 <!--
-Bootcamp
-https://twitter.com/holtbt?lang=en | Brian Holt (@holtbt) / Twitter
+Digital Ocean- Deployment
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
-https://github.com/FrontendMasters/learning-roadmap | FrontendMasters/learning-roadmap: The Front-End Developer Learning Roadmap by Frontend Masters
-
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://frontendmasters.github.io/bootcamp/ | Frontend Masters Bootcamp
-
-JavaScript
-https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html | Dog Viewer
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.html | bootcamp/dog.html at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.css | bootcamp/dog.css at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/gallery/index.html | bootcamp/index.html at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
-
-HTML/CSS
-https://frontendmasters.github.io/bootcamp/static/css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png | css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png (459×433)
-https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/xymQdz?editors=1100 | Exploring floats and clears
-https://codepen.io/jen4web/pen/ZqdZeW | Vertical navigation bar styling
-https://codepen.io/jen4web/pen/ZqdZeW?editors=1100 | Vertical navigation bar styling
-https://codepen.io/jen4web/pen/xymQoM | Vertical navigation bar styling
-https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/wYLOpj | A Pen by Jen Kramer
-https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#margin | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/JmweGL?editors=1100 | Box model discussion
-https://frontendmasters.github.io/bootcamp/css#references | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/bmyQdM?editors=1100 | A Pen by Jen Kramer
-https://frontendmasters.github.io/bootcamp/css | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/2-css/begin/learningcss.html | bootcamp/learningcss.html at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/html | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/images/blog1.jpg | bootcamp/blog1.jpg at master · FrontendMasters/bootcamp
-https://frontendmasters.com/bootcamp/html-forms/ | Learn HTML Forms for Collecting Form Data in Websites in this Course by Jen Kramer
-https://frontendmasters.com/bootcamp/introduction-html/
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
 https://jen4web.substack.com/p/coming-soon | Expand your HTML game in 30 days. - 30 Days of HTML
 https://twitter.com/jen4web/status/1372966459723427848 | Jen Kramer on Twitter: "The top 10 elements in use on web pages in 2020 include div, a, span, li, img, script, p, link, i, and option. None of these elements are included in the #30DaysofHTML challenge. https://t.co/tmBbGOZ1VM" / Twitter
@@ -1400,17 +1402,19 @@ https://fromdesignto.dev/ | From Design to Development Crash Course - From Desig
 Wes Bos
 https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
 
-http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
-http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
-http://csszengarden.com/221/
-
 Style Stage
 https://stylestage.dev/styles/floral-vibes/
 https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
 
+https://web.archive.org/web/20200321065927/http://www.mezzoblue.com:80/zengarden/alldesigns/
+http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
+http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
+http://csszengarden.com/221/
+
 Traversy Media
 https://github.com/bradtraversy/
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+
 
 
 https://tinyprojects.dev/ | Tiny Projects
@@ -1463,6 +1467,7 @@ https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Begin
 https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 
 
+
 ## Frontend Masters
 
 https://frontendmasters.com
@@ -1477,6 +1482,8 @@ https://frontendmasters.com/books/front-end-handbook/2019/ | Front-end Developer
 https://frontendmasters.com/books/front-end-handbook/2018/ | Introduction · Front-End Developer Handbook 2018
 
 
+https://twitter.com/holtbt?lang=en | Brian Holt (@holtbt) / Twitter
+
 https://btholt.github.io/intro-to-web-dev-v2/
 https://github.com/btholt/intro-to-web-dev-v2
 http://btholt.github.io/four-semesters-of-cs/ | Four Semesters of Computer Science in Six Hours
@@ -1488,10 +1495,52 @@ https://github.com/btholt/complete-intro-to-containers
 https://github.com/btholt/complete-intro-to-databases | btholt/complete-intro-to-databases: Complete Intro to Databases, as taught for Frontend Masters! 🌲
 
 
+https://github.com/FrontendMasters/learning-roadmap | FrontendMasters/learning-roadmap: The Front-End Developer Learning Roadmap by Frontend Masters
+
 https://frontendmasters.github.io/bootcamp/
 https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
 https://github.com/FrontendMasters/bootcamp
 http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
+
+
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+https://frontendmasters.github.io/bootcamp/ | Frontend Masters Bootcamp
+
+JavaScript
+https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html | Dog Viewer
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.html | bootcamp/dog.html at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.css | bootcamp/dog.css at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/gallery/index.html | bootcamp/index.html at master · FrontendMasters/bootcamp
+
+
+HTML/CSS
+https://frontendmasters.github.io/bootcamp/static/css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png | css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png (459×433)
+https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/xymQdz?editors=1100 | Exploring floats and clears
+https://codepen.io/jen4web/pen/ZqdZeW | Vertical navigation bar styling
+https://codepen.io/jen4web/pen/ZqdZeW?editors=1100 | Vertical navigation bar styling
+https://codepen.io/jen4web/pen/xymQoM | Vertical navigation bar styling
+https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/wYLOpj | A Pen by Jen Kramer
+https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#margin | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/JmweGL?editors=1100 | Box model discussion
+https://frontendmasters.github.io/bootcamp/css#references | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+https://codepen.io/jen4web/pen/bmyQdM?editors=1100 | A Pen by Jen Kramer
+https://frontendmasters.github.io/bootcamp/css | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/2-css/begin/learningcss.html | bootcamp/learningcss.html at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/html | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/images/blog1.jpg | bootcamp/blog1.jpg at master · FrontendMasters/bootcamp
+https://frontendmasters.com/bootcamp/html-forms/ | Learn HTML Forms for Collecting Form Data in Websites in this Course by Jen Kramer
+https://frontendmasters.com/bootcamp/introduction-html/
+
+
+
 
 https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
 
@@ -1712,51 +1761,6 @@ https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Pre
 https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
 -->
 
-
-## HTML, CSS, JavaScript
-
-### Website and Blog Resources
-
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
-
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
-
-<!--
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
-
-https://github.com/wowthemesnet/mundana-theme-jekyll
-
-https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
-
-https://ghost.org/docs/ | Ghost Docs
-https://demo.ghost.io/
-https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
-https://gatsby.ghost.org/
-https://github.com/TryGhost/gatsby-starter-ghost
-https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
-https://lyra.ghost.io/ | Lyra
-https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
-https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
-https://massively.ghost.io/ | This is Massively
-https://editorial.ghost.io/ | Editorial for Ghost
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
 
 ### Deploy
 
