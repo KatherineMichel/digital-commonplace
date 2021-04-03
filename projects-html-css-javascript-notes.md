@@ -226,6 +226,18 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriente
 ## Mozilla JavaScript- Global Attributes
 
 <!--
+CSS Selectors
+https://www.w3schools.com/cssref/css_selectors.asp
+
+Selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+https://api.jquery.com/category/selectors/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
+
 HTML id "A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page"
 https://www.w3schools.com/html/html_id.asp
 https://www.w3schools.com/tags/att_id.asp
@@ -238,10 +250,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
 https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
+
 Reference
 https://www.w3schools.com/jsref/
 
 Document Object Properties and Methods
+https://developer.mozilla.org/en-US/docs/Web/API/Document
 https://www.w3schools.com/jsref/dom_obj_document.asp
 https://www.w3schools.com/jsref/prop_doc_body.asp
 https://www.w3schools.com/jsref/met_document_getelementbyid.asp
@@ -263,18 +277,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName
 getElementsByName()
 https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName
 
-
-
-CSS Selectors
-https://www.w3schools.com/cssref/css_selectors.asp
-
-Selectors
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
-https://api.jquery.com/category/selectors/
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
 
 
 HTML DOM
@@ -387,15 +389,15 @@ Desktop Events
 * [Mozilla Drag and Drop](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API), [Mozilla Pointer Lock](https://developer.mozilla.org/en-US/docs/Web/API/Pointer_Lock_API)
     
 <!--
-https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Using_Touch_Events | Using Touch Events - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Touch_events | Touch events - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
-
 Events
 https://developer.mozilla.org/en-US/docs/Web/API/Event
 https://developer.mozilla.org/en-US/docs/Web/API/Element#events
 https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
+
+https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Using_Touch_Events | Using Touch Events - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Touch_events | Touch events - Web APIs | MDN
+
+https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
 
 DOM- Event
 https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
