@@ -229,13 +229,15 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriente
 CSS Selectors
 https://www.w3schools.com/cssref/css_selectors.asp
 
-Selectors
+Reference
 https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
-https://api.jquery.com/category/selectors/
-
+https://developer.mozilla.org/en-US/docs/Web/API/Element/querySelector
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
+Selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+https://api.jquery.com/category/selectors/
 
 
 HTML id "A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page"
@@ -252,7 +254,12 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 
 
 Reference
+https://www.w3schools.com/js/
 https://www.w3schools.com/jsref/
+
+https://www.w3schools.com/js/js_htmldom.asp
+https://www.w3schools.com/js/js_validation.asp
+https://www.w3schools.com/js/js_api_intro.asp
 
 Document Object Properties and Methods
 https://developer.mozilla.org/en-US/docs/Web/API/Document
