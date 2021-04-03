@@ -1332,6 +1332,8 @@ https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, 
 https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
 
 
+https://web.dev/discoverable/
+
 ## Next
 
 Brian
@@ -1355,10 +1357,6 @@ https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin 
 
 PWA Topic
 https://github.com/topics/pwa | pwa · GitHub Topics
-
-PWA Pointer Events
-https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
-https://web.dev/discoverable/
 
 PWA Permissions
 https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
@@ -1812,10 +1810,6 @@ https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
 <!--
 ## Tools
 
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
 Accessibility
 https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
 https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
@@ -1825,14 +1819,6 @@ https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/d
 https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-https://github.com/jgthms/minireset.css
-https://htmlreference.io/
-https://github.com/jgthms/html-reference
-https://cssreference.io/
-https://github.com/jgthms/css-reference
-https://jgthms.com/javascript-in-14-minutes/
-https://github.com/jgthms/javascript-in-14-minutes
 
 HTML5 Boilerplate
 https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
