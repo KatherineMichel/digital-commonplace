@@ -1317,6 +1317,55 @@ https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-st
 -->
 
 
+
+<!--
+https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
+
+
+Repl.it
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+
+
+https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
+https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
+
+
+## Next
+
+Brian
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+
+Next themes
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+Good
+https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
+
+## React
+
+React
+https://www.taniarascia.com/getting-started-with-react/
+https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
+
+## PWA
+
+PWA Topic
+https://github.com/topics/pwa | pwa · GitHub Topics
+
+PWA Pointer Events
+https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
+https://web.dev/discoverable/
+
+PWA Permissions
+https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
+https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
+-->
+
+
 ## HTML, CSS, JavaScript
 
 ### Website and Blog Resources
@@ -1760,124 +1809,6 @@ https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
 -->
 
 
-
-<!--
-https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
-
-
-Repl.it
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
-
-
-https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
-https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
-
-
-## Next
-
-Brian
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-
-Next themes
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
-Good
-https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
-
-## React
-
-React
-https://www.taniarascia.com/getting-started-with-react/
-https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
-
-## PWA
-
-PWA Topic
-https://github.com/topics/pwa | pwa · GitHub Topics
-
-PWA Pointer Events
-https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
-https://web.dev/discoverable/
-
-PWA Permissions
-https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
-https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
--->
-
-
-
-<!--
-Style Stage
-https://developer.mozilla.org/en-US/docs/Web/CSS/@import
-https://developer.mozilla.org/en-US/docs/Web/CSS/:root
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
-https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()
-
-JavaScript
-https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html | Dog Viewer
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.html | bootcamp/dog.html at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.css | bootcamp/dog.css at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/gallery/index.html | bootcamp/index.html at master · FrontendMasters/bootcamp
-
-https://github.com/FrontendMasters/bootcamp/tree/master/src/layouts | bootcamp/src/layouts at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
-
-Codepens
-https://codepen.io/jen4web/pen/xymQdz | Exploring floats and clears
-https://codepen.io/jen4web/pen/ZqdZeW | Vertical navigation bar styling
-https://codepen.io/jen4web/pen/xymQoM | Vertical navigation bar styling
-https://codepen.io/jen4web/pen/wYLOpj | A Pen by Jen Kramer
-https://codepen.io/jen4web/pen/JmweGL | Box model discussion
-https://codepen.io/jen4web/pen/bmyQdM | A Pen by Jen Kramer
-https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
-
-HTML/CSS
-https://frontendmasters.github.io/bootcamp/static/css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png | css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png (459×433)
-
-https://frontendmasters.github.io/bootcamp/layout#introducing-flexbox | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#margin | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/css#references | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/css | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/2-css/begin/learningcss.html | bootcamp/learningcss.html at master · FrontendMasters/bootcamp
-
-https://frontendmasters.github.io/bootcamp/html | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/images/blog1.jpg | bootcamp/blog1.jpg at master · FrontendMasters/bootcamp
-https://frontendmasters.com/bootcamp/html-forms/ | Learn HTML Forms for Collecting Form Data in Websites in this Course by Jen Kramer
-https://frontendmasters.com/bootcamp/introduction-html/
-
-
-https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#shorthand | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms#web-fonts | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
-
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
--->
-
-
 <!--
 ## Tools
 
@@ -2142,6 +2073,7 @@ https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/
 https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-51ci | Acing CSS Grid Model in 2021 with 5 Exercises || CSS 2021 🔥 - DEV Community 👩‍💻👨‍💻
 -->
 
+
 <!--
 ## Projects
 
@@ -2169,6 +2101,7 @@ https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises 
 https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
 https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
 -->
+
 
 ## Projects
 
