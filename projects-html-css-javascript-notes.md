@@ -220,11 +220,66 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriente
 ## Mozilla JavaScript- Global Attributes
 
 <!--
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
+HTML id "A class name can be used by multiple HTML elements, while an id name must only be used by one HTML element within the page"
+https://www.w3schools.com/html/html_id.asp
+https://www.w3schools.com/tags/att_id.asp
+https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+
+https://www.w3schools.com/jsref/prop_html_id.asp
+https://developer.mozilla.org/en-US/docs/Web/API/Element/id
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
+
+Reference
+https://www.w3schools.com/jsref/
+
+Document Object Properties and Methods
+https://www.w3schools.com/jsref/dom_obj_document.asp
+https://www.w3schools.com/jsref/prop_doc_body.asp
+https://www.w3schools.com/jsref/met_document_getelementbyid.asp
+https://www.w3schools.com/jsref/met_document_addeventlistener.asp
+https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
+https://www.w3schools.com/jsref/met_doc_getelementsbyname.asp
+https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp
+https://www.w3schools.com/jsref/met_document_queryselector.asp
+https://www.w3schools.com/jsref/met_document_queryselectorall.asp
+
+HTML/JavaScript
+getElementById()
+getElementsByClassName()
+getElementsByTagName()
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById | Document.getElementById() - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName
+
+getElementsByName()
+https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName
+
+
+
+CSS Selectors
+https://www.w3schools.com/cssref/css_selectors.asp
+
+Selectors
+https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
+https://api.jquery.com/category/selectors/
+
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
+https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
 
 
 HTML DOM
+https://www.w3schools.com/jsref/dom_obj_all.asp
+https://www.w3schools.com/jsref/prop_html_innerhtml.asp
+
+HTML DOM Style Object Reference
 https://www.w3schools.com/jsref/dom_obj_style.asp
+https://www.w3schools.com/jsref/prop_style_backgroundcolor.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/style
 
 object.style.height
 https://www.geeksforgeeks.org/html-dom-style-height-property/
@@ -236,15 +291,27 @@ https://www.w3schools.com/Jsref/prop_style_height.asp
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
 
+
+## HTML NodeList Versus Collections
+
 Array-like objects
+
+The NodeList object represents a collection of nodes
 
 "Both an HTMLCollection object and a NodeList object is an array-like list (collection) of objects. Both have a length property defining the number of items in the list (collection)."
 
-## NodeList
+HTMLCollection object
+getElementById()
+getElementsByClassName()
+getElementsByTagName()
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
 
+NodeList object
 "Although NodeList is not an Array, it is possible to iterate over it with forEach(). It can also be converted to a real Array using Array.from()."
 document.querySelectorAll() returns a NodeList
+querySelectorAll(selectors)
 https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
+
 https://developer.mozilla.org/en-US/docs/Web/API/NodeList
 https://developer.mozilla.org/en-US/docs/Web/API/NodeList/item
 https://developer.mozilla.org/en-US/docs/Web/API/NodeList/forEach
@@ -253,53 +320,6 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects
 
 Iterate
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Selectors
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors
-https://api.jquery.com/category/selectors/
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
-
-
-getElementsByName()
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByName
-
-
-## HTML Collections
-
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLCollection
-
-getElementsByClassName()
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByClassName
-
-
-getElementById() method
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById
-
-HTML/JavaScript
-https://www.w3schools.com/html/html_id.asp
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById | Document.getElementById() - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementsByTagName
-
-
-https://www.w3schools.com/jsref/met_document_addeventlistener.asp
-
-https://www.w3schools.com/jsref/met_document_getelementbyid.asp
-https://www.w3schools.com/jsref/met_document_getelementsbyclassname.asp
-https://www.w3schools.com/jsref/met_doc_getelementsbyname.asp
-https://www.w3schools.com/jsref/met_document_getelementsbytagname.asp
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-The NodeList object represents a collection of nodes
-https://www.w3schools.com/jsref/met_document_queryselectorall.asp
-
-
-
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes#attr-id
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/id
-https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/class
 -->
 
 ## Mozilla JavaScript- Document Object Model and Window
@@ -561,50 +581,6 @@ https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
 SVG
 http://svgpocketguide.com/book
 https://github.com/jonitrythall/svgpocketguide/blob/master/svgpocketguide.md
--->
-
-## Box Model, Flow Layout, Grid, Flexbox
-
-<!--
-Examine
-https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Examine_grid_layouts | CSS Grid Inspector: Examine grid layouts - Firefox Developer Tools | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout | CSS layout - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Cascade
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
-
-Box Model
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Introduction_to_the_CSS_box_model
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model
-
-Flow Layout
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout | CSS Flow Layout - CSS: Cascading Style Sheets | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/Block_and_Inline_Layout_in_Normal_Flow
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Writing_Modes
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flow_Layout/In_Flow_and_Out_of_Flow | In Flow and Out of Flow - CSS: Cascading Style Sheets | MDN
-
-Flexbox
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox | Flexbox - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout | CSS Flexible Box Layout - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox | Basic concepts of flexbox - CSS: Cascading Style Sheets | MDN
-
-Flexbox
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ | A Complete Guide to Flexbox | CSS-Tricks
-https://jonitrythall.com/flexbox-cheatsheet | Flexbox Cheatsheet Cheatsheet – Hello, I’m Joni
-https://jonitrythall.com/content/flexboxsheet.pdf | flexboxsheet9
-http://jonibologna.com/content/images/flexboxsheet.pdf
-https://flexboxfroggy.com/
-
-Grid
-https://developer.mozilla.org/en-US/docs/Web/CSS/grid
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout | CSS Grid Layout - CSS | MDN
-https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout | Basic Concepts of grid layout - CSS: Cascading Style Sheets | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids | Grids - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grid_skills | Test your skills: Grid Layout - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Grids#Line-based_placement | Grids - Learn web development | MDN
 -->
 
 ## Google Chrome Dev Tools
