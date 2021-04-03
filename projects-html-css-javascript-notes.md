@@ -166,8 +166,17 @@ Glossaries
 https://developers.google.com/web/tools/chrome-devtools/
 https://developers.google.com/web/tools/chrome-devtools/speed/get-started
 
+Web skills
+https://andreasbm.github.io/web-skills/
 https://github.com/andreasbm/web-skills
-https://andreasbm.github.io/web-skills/?compact | Web Skills
+
+https://github.com/jgthms/minireset.css
+https://htmlreference.io/
+https://github.com/jgthms/html-reference
+https://cssreference.io/
+https://github.com/jgthms/css-reference
+https://jgthms.com/javascript-in-14-minutes/
+https://github.com/jgthms/javascript-in-14-minutes
 
 https://web.dev/ | web.dev  |  web.dev
 
@@ -201,7 +210,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Resources
 
 ## JSON and JavaScript Objects
 
-<!--
+<!-- 
 "Your code interacts with APIs using one or more JavaScript objects, which serve as containers for the data the API uses (contained in object properties), and the functionality the API makes available (contained in object methods)."
 
 JavaScript Objects
@@ -303,11 +312,9 @@ https://www.geeksforgeeks.org/css-height-property/
 https://www.w3schools.com/Jsref/prop_style_height.asp
 
 
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-
-
-
 ## HTML NodeList Versus Collections
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
 Array-like objects
 
@@ -397,19 +404,22 @@ Desktop Events
     
 <!--
 Events
+https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/Event
 https://developer.mozilla.org/en-US/docs/Web/API/Element#events
 https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
+
+Pointer Events
+https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Using_Touch_Events#what_about_pointer_events
+https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
 
 https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Using_Touch_Events | Using Touch Events - Web APIs | MDN
 https://developer.mozilla.org/en-US/docs/Web/API/Touch_events | Touch events - Web APIs | MDN
 
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
 
-DOM- Event
-https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/API/Event
 https://developer.mozilla.org/en-US/docs/Web/API/EventListener
+
 https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent
 https://developer.mozilla.org/en-US/docs/Web/API/MouseEvent
 https://developer.mozilla.org/en-US/docs/Web/API/MessageEvent | MessageEvent - Web APIs | MDN
