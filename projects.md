@@ -2,74 +2,6 @@
 
 ## To Do
 
-### Ongoing Projects
-
-<!--
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
-
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
-
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
-
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
--->
-
-
-## HTML, CSS, JavaScript
-
-### Website and Blog Resources
-
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
-
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
-
-<!--
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
-
-https://github.com/wowthemesnet/mundana-theme-jekyll
-
-https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
-
-https://ghost.org/docs/ | Ghost Docs
-https://demo.ghost.io/
-https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
-https://gatsby.ghost.org/
-https://github.com/TryGhost/gatsby-starter-ghost
-https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
-https://lyra.ghost.io/ | Lyra
-https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
-https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
-https://massively.ghost.io/ | This is Massively
-https://editorial.ghost.io/ | Editorial for Ghost
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
-
-
 <!--
 https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
@@ -255,118 +187,6 @@ https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A 
 -->
 
 
-## Awesome Python and Django
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-
-Awesome Django
-* [Awesome Django](https://github.com/wsvincent/awesome-django)
-* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-## Python and Django
-
-Python
-* [Python](https://www.python.org/)
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-<!--
-Flask
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
--->
-
-## Django Rest Framework
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-<!--
-DRF
-https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
-https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
-https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About Django REST Framework, Part 3: Adding custom endpoints — Lacey Williams Henschel
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
-https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
-https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
--->
-
-## Wagtail
-
-Wagtail
-* [Wagtail](https://wagtail.io/)
-
-<!--
-Django Wagtail
-https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
-
-Wagtail
-https://wagtail.io/blog
-https://github.com/wagtail/wagtail/
-https://wagtail.io/packages/ | Packages | Wagtail CMS
-https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
-https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
-https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
--->
-
-## Python and Django Geo
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
-
-<!--
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
-
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-## More Languages and Frameworks
-
-Scala
-* [Scala](https://www.scala-lang.org/)
-
-<!--
-https://nim-lang.org/
--->
-
 
 ## Python Package Templates
 
@@ -414,6 +234,18 @@ https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-de
 ## Django Tutorials and Templates
 
 <!--
+https://github.com/feldroy | Feldroy
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+-->
+
+<!--
 Django Templates
 
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
@@ -433,16 +265,6 @@ https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: 
 
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
 https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-
-https://github.com/feldroy | Feldroy
-https://github.com/audreyfeldroy/cookiecutter-pypackage
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 
 Django/React Project Tutorials
 https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
@@ -520,6 +342,130 @@ https://github.com/DrkSephy/django-hackathon-starter
 
 React
 https://github.com/nice-boys/product-boilerplate
+-->
+
+### Ongoing Projects
+
+<!--
+https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
+
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
+
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
+
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
+-->
+
+<!--
+## Websites
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
+
+Nice site!
+https://github.com/nodejs/nodejs.dev
+https://github.com/yarnpkg/website
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+-->
+
+<!--
+https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+
+https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+
+SEO
+https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
+
+MongoDB and Elastic
+https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
+https://www.elastic.co/what-is/elk-stack
+
+Aaron
+https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
+https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
+https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
+http://bsonspec.org/ | BSON (Binary JSON) Serialization
+
+Ionic (Vue)
+https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
+https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+
+https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
+https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
+
+https://twitter.com/jason_mayes/status/1367687828306558979 | Jason Mayes on Twitter: "So #Deno just announced plans to natively support #TensorFlowJS! Quote: "We believe #JavaScript, instead of #Python, could act as ideal language for expressing mathematical ideas if proper infrastructure existed" https://t.co/7XR4joxmbR #MadeWithTFJS #JS #TensorFlow #ML #AI #Node https://t.co/V01HWKxPJS" / Twitter
+
+
+
+Chrome API
+https://fugu-tracker.web.app/
+https://twitter.com/feross/status/1369149438560587778 | Feross on Twitter: "The list of powerful APIs that the Chrome team wants to safely expose to web apps via Project Fugu is incredibly exciting: https://t.co/15q80Mq5sI" / Twitter
+
+
+Edge cloud platform
+https://www.fastly.com/
+
+Fast AI
+https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
+
+
+## New-ish
+
+https://openbase.io/
+
+TensorFlow.js 
+
+AWS Serverless
+https://begin.com/ | Begin
+OpenJS Architect
+https://arc.codes/docs/en/guides/get-started/quickstart
+
+https://p5js.org/
+
+https://hasura.io/
+https://twitter.com/sarah_edo/status/1320761774447063040 | Sarah Drasner on Twitter: "💫 I'm quickly becoming a Hasura fangirl (no they didn't ask me to say that), so I wrote up a post on how to get started with GraphQL with Hasura and my favorite metaframework, Nuxt! I made a repo you can explore, too: https://t.co/LX4qZL8dRJ https://t.co/QLVOISn6Z9" / Twitter
+
+https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
+
+Web components/standards
+https://www.fast.design/docs/introduction/ | Introduction | FAST
+
+Deploy/Django
+https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
+
+## JavaScript
+
+https://jasmine.github.io/ | Jasmine Documentation
 -->
 
 
@@ -645,6 +591,131 @@ https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: No
 https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
+-->
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Projects and Demos
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+* [CodePen Projects](http://codepen.io/projects/)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+
+https://blog.repl.it/global | Repl.it - Going Global
+https://repl.it/talk/
+
+https://blog.repl.it/alwayson
+https://repl.it/templates
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+-->
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
+## Competitions, Hackathons, Festivals, Communities
+
+Coding Competitions
+* Kaggle
+* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
+* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
+
+https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel
+
+DevICT Gam Jam
+https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
+https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
+
+https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
+https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
+
+https://www.therelicans.com/therelicans/hack-the-planet-contest-winners-announced-22po | Hack the Planet Contest Winners, Announced! - The Relicans
+https://dev.to/devteam/announcing-the-new-relic-hack-the-planet-contest-on-dev-5d | Announcing the New Relic Hack the Planet Contest on DEV! - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
+
+Game Jam, Game Off
+https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
+https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
+https://2020game.io/ | 2020 Game
+https://dev.to/github/github-game-off-top-picks-from-2020-submissions-where-to-learn-game-dev-4no0 | GitHub Game Off 🎮 Top picks from 2020 submissions & where to learn game dev - DEV Community 👩‍💻👨‍💻
+https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
+https://itch.io/jam/game-off-2017 | Game Off - itch.io
+https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
+https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
+
+JavaScript
+https://js1024.fun/results/2020 | JS1024 Results - 2020
+https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
+https://js13kgames.com/
+
+GitHub Actions
+https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
+https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
+https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
+https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
+
+https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
+https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
+https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
+
+https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
 ## Host, Git, Container, and Database Blogs
@@ -830,7 +901,6 @@ Alibaba
 * [Alibaba Cloud](https://www.alibabacloud.com)
 -->
 
-
 ## Creation Blogs
 
 Product
@@ -861,81 +931,550 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
 -->
 
+### Deploy
 
-## High Performance Trends
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
+* [Vercel Zero Config](https://vercel.com/blog/zero-config)
 
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+<!--
+Digital Ocean- Deployment
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
 
-## Stack
+https://vercel.com/blog/zeit-is-now-vercel
 
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
+* [Vercel now](https://zeit.co/now)
+* [Vercel micro](https://github.com/vercel/micro)
+
+https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+-->
+
+### Goodies
+
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+
+<!--
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+-->
+
+### JavaScript- Using
+
+Node, Express (based on Sinatra), and Passport
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Passport](http://www.passportjs.org/)
+
+Express Tutorials
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+JSX (Syntax Extension; React)
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
+* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+React Frameworks
+* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
+Create React App
+* [Create React App GitHub](https://github.com/facebook/create-react-app)
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!--
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Next (React) and Nuxt (Vue)
+
+JSX in your Markdown documents
+https://twitter.com/mdx_js
+https://mdxjs.com/
+
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+### PWA
+
+Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
+
+### React
+
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://reactjs.org/docs/dom-elements.html | DOM Elements – React
+
+https://vercel.com/solutions/react | React - Solutions – Vercel
+
+https://reactjs.org/community/examples.html | Example Projects – React
+
+React Server Components
+https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
+https://github.com/vercel/next-server-components | vercel/next-server-components: Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
+https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
+https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
+https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
+
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+
+Storybook
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+
+Next.js
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+### WASM
+
+https://www.snowpack.dev/
+https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
+
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+-->
 
 
-## Projects and Demos
+<!--
+HTTP, API, DOM
+https://expressjs.com/en/api.html
 
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
-* [CodePen Projects](http://codepen.io/projects/)
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+<!--
+Node Tutorials
+
+https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+
+### JAMStack
+
+Mojombo (React)
+* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Prisma](https://www.prisma.io/)
+* [Fauna](https://fauna.com/)
+
+CSS
+* [PostCSS](https://postcss.org/)
+* [Emmet](https://emmet.io/)
+
+React and Vue Alternatives
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
+
+Static Site Generators
+* [11ty](https://www.11ty.dev/)
+
+<!--
+Alpine
+https://github.com/alpinejs/alpine
+https://noumenal.es/notes/til/alpine.js/getting-started/
+https://twitter.com/webology/status/1368565406714183695 | Jeff Triplett 😷 on Twitter: "🎉 This is a wonderful example of how to Alpine.js in a project. I have used Alpine.js for a while, but it's rarely past a basic level, so @carltongibson "More complex" example is almost exactly what I needed to get past the basics. Well done." / Twitter
+
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+Stephanie Eckles
+https://11ty.rocks/ | 11ty Rocks!
+https://github.com/5t3ph/11ty-netlify-jumpstart
+https://github.com/5t3ph/stylestage
+
+11ty
+https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
+https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
+-->
+
+### Mobile Optimized- PWA
+
+Create React App
+* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
+
+Progressive Web Apps (PWA)
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
+* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
+* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
+* [Storage for the Web](https://web.dev/storage-for-the-web/)
+* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
+
+Training
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+
+<!--
+PWA
+https://github.com/GoogleChrome/workbox | GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps
+
+Progressive Web Apps
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
+
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/App_structure | Progressive web app structure - Progressive web apps (PWAs) | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+### Mobile Optimized
+
+Facebook- React Native
+* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+Expo- React Native Platform
+* [Expo](https://expo.io)
+* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
+
+Push Notifications
+* [Firebase](https://firebase.googleblog.com/)
+* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase )
+* [OneSignal (used by Expo)](https://onesignal.com/)
+
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Flutter GitHub](https://github.com/flutter/flutter)
+* [Dart](https://dart.dev/)
+
+<!--
+React Native
+https://github.com/facebook/react-native#-building-your-first-react-native-app | facebook/react-native: A framework for building native apps with React.
+https://reactnative.dev/docs/getting-started | Introduction · React Native
+https://reactnative.dev/docs/environment-setup | Setting up the development environment · React Native
+
+Firebase
+https://github.com/firebase/
+https://github.com/firebase/?q=python&type=&language= | Firebase
+
+https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
+https://firebase.google.com/use-cases | Firebase Use Cases
+https://firebase.google.com/docs/database
+https://firebase.google.com/support/release-notes/admin/node | Firebase Admin Node.js SDK Release Notes
+
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
+https://docs.expo.io/guides/using-gatsby/
+https://docs.expo.io/guides/using-preact/
+-->
+
+### CSS
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Bootstrap](https://getbootstrap.com/)
+
+<!--
+Hotwire
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
+https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
+
+Stimulus
+https://github.com/hotwired/stimulus
+https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
+
+Bootstrap
+https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
+
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+Django/Tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+Tailwind Tutorials
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+Tailwind Installation Guides
+https://tailwindcss.com/docs/installation
+https://tailwindcss.com/docs/guides/nextjs
+https://tailwindcss.com/docs/guides/create-react-app
+
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
+
+https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
+https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
+https://tailwindui.com/documentation | Documentation | Tailwind UI
+https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
+https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
+https://play.tailwindcss.com/ | Tailwind Play
+https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
+https://heroicons.com/ | Heroicons
+
+Play Screencast
+https://twitter.com/adamwathan/status/1313826345374416896
+-->
+
+
+<!--
+Tailwind
+https://tailwindcss.com/docs/plugins | Plugins - Tailwind CSS
+https://www.tailwindtoolbox.com/plugins | Tailwind Toolbox - Free Starter Templates
+https://tailwindcss.com/docs/screen-readers | Screen Readers - Tailwind CSS
+
+Tailwind Access
+https://github.com/jack-pallot/tailwindcss-accessibility | jack-pallot/tailwindcss-accessibility: A Tailwind CSS plugin that adds additional functionality to help improve accessibility.
+
+
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
+@tailwindui Figma Kit
+https://twitter.com/itsMeBennyB/status/1361828636391739397 | Benny Bowden 🚀 on Twitter: "Once again, the @tailwindlabs team knocks it out of the park with the @tailwindui Figma Kit! 🥳 Appreciate that you take care to do things the right way. Our dev team isn't going to know what hit them! 😏 https://t.co/zxHo0f5xpm" / Twitter
+
+Tailwind
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+Tailwind UI-PostHTML
+https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
+https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
+
+https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
+
+Tailwind Styleguide
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+-->
+
+
+## HTML, CSS, JavaScript
+
+### Website and Blog Resources
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+<!--
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+https://github.com/wowthemesnet/mundana-theme-jekyll
+
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
+
+https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
+
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+-->
+
+
+## Awesome Python and Django
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Django
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+## Python and Django
 
 Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
+* [Python](https://www.python.org/)
 
-CodePen
-* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
-* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
 
 <!--
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
-
-https://blog.repl.it/global | Repl.it - Going Global
-https://repl.it/talk/
-
-https://blog.repl.it/alwayson
-https://repl.it/templates
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+Flask
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 -->
 
-## GitHub and VS Code Integration
+## Django Rest Framework
 
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
 
 <!--
-https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+DRF
+https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
+https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About Django REST Framework, Part 3: Adding custom endpoints — Lacey Williams Henschel
 
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
 -->
+
+## Wagtail
+
+Wagtail
+* [Wagtail](https://wagtail.io/)
+
+<!--
+Django Wagtail
+https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
+
+Wagtail
+https://wagtail.io/blog
+https://github.com/wagtail/wagtail/
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+-->
+
+## Python and Django Geo
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Python/Django- Internationalization and Localization, Translation
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
+
+<!--
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+## More Languages and Frameworks
+
+Scala
+* [Scala](https://www.scala-lang.org/)
+
+<!--
+https://nim-lang.org/
+-->
+
 
 
 ## Projects
@@ -1004,86 +1543,6 @@ https://github.com/python-telegram-bot/python-telegram-bot
 -->
 
 
-## Competitions, Hackathons, Festivals, Communities
-
-Coding Competitions
-* Kaggle
-* [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
-* [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
-
-<!--
-https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
-
-https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel
-
-DevICT Gam Jam
-https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
-https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
-
-https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
-https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
-
-https://www.therelicans.com/therelicans/hack-the-planet-contest-winners-announced-22po | Hack the Planet Contest Winners, Announced! - The Relicans
-https://dev.to/devteam/announcing-the-new-relic-hack-the-planet-contest-on-dev-5d | Announcing the New Relic Hack the Planet Contest on DEV! - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
-
-Game Jam, Game Off
-https://github.community/t/open-source-friday-game-off-edition/156665 | Open Source Friday: Game Off Edition - Events - GitHub Support Community
-https://www.meetup.com/GitHub-Virtual-Meetup/events/275675253 | Open Source Friday - GitHub Game Off Special | Meetup
-https://2020game.io/ | 2020 Game
-https://dev.to/github/github-game-off-top-picks-from-2020-submissions-where-to-learn-game-dev-4no0 | GitHub Game Off 🎮 Top picks from 2020 submissions & where to learn game dev - DEV Community 👩‍💻👨‍💻
-https://github.com/blog/2451-game-off-our-annual-game-jam-returns-in-november | Game Off, our annual game jam returns in November
-https://itch.io/jam/game-off-2017 | Game Off - itch.io
-https://godotengine.org/article/get-ready-github-gameoff-godot | Godot Engine - Get ready for the GitHub Game Off with Godot
-https://github.blog/2020-08-06-gmtk-game-jam-2020-staff-picks-open-source-games/ | 10 great open source games from GMTK Game Jam 2020 - The GitHub Blog
-
-JavaScript
-https://js1024.fun/results/2020 | JS1024 Results - 2020
-https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | Top 10 games from the JS13K 2020 competition 🕹 - The GitHub Blog
-https://js13kgames.com/
-
-GitHub Actions
-https://githubhackathon.com/ | GitHub Hackathon: Build something new with us
-https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn
-https://github.blog/2019-10-08-github-actions-from-open-source-maintainers/
-https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-github-actions/ | We’re challenging you to create your very own GitHub Actions - The GitHub Blog
-
-https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
-https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
-https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
-
-https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
--->
-
-
-
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-https://reactnative.dev/showcase | Who's using React Native? · React Native
-https://reactjs.org/community/examples.html
-
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-https://web.archive.org/web/20200407235333/https://pwa.rocks/
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
 ## Tutorials
 
 Show Hacker News and IH
@@ -1138,7 +1597,6 @@ https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Open
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
-
 
 ### Code Challenges
 
@@ -1211,9 +1669,17 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 
 
-## Learning Resources- Python and Django
+## Learning Resources
 
 <!--
+General
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+
+
 Important
 https://django-news.com/ | Django News
 https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
@@ -1249,12 +1715,16 @@ https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-enc
 https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
 No Starch
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
 
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 http://inventwithpython.com/beyond/
+
+Looks great
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
 
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
@@ -1292,108 +1762,191 @@ https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
 
 
 <!--
-Projects
-
-Every Cheese
-
-Cookiecutter
-https://twitter.com/nthapen/status/1240936897234513921
-https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
-
-https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
-
-Projects
-https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
-https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
-https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
-https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
-https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
-
-https://www.npmjs.com/package/npx | npx - npm
-https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
-
-DRF
-https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
-
-Every Cheese- Third party
-https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
--->
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
--->
+https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
 
 
-<!--
-Digital Ocean- Deployment
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+Repl.it
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
 
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
-https://jen4web.substack.com/p/coming-soon | Expand your HTML game in 30 days. - 30 Days of HTML
-https://twitter.com/jen4web/status/1372966459723427848 | Jen Kramer on Twitter: "The top 10 elements in use on web pages in 2020 include div, a, span, li, img, script, p, link, i, and option. None of these elements are included in the #30DaysofHTML challenge. https://t.co/tmBbGOZ1VM" / Twitter
 
 https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
 https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
 https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
 https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
 
+
+## Next
+
+Brian
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+
+Next themes
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+Good
+https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
+
+## React
+
 React
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-https://reactjs.org/docs/dom-elements.html | DOM Elements – React
-https://github.com/facebook/create-react-app | facebook/create-react-app: Set up a modern web app by running one command.
-https://github.com/vercel/next.js | vercel/next.js: The React Framework
+https://www.taniarascia.com/getting-started-with-react/
+https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
 
-Node
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-https://expressjs.com/ | Express - Node.js web application framework
+## PWA
 
-PWA
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/App_structure | Progressive web app structure - Progressive web apps (PWAs) | MDN
+PWA Topic
+https://github.com/topics/pwa | pwa · GitHub Topics
 
-Repl.it
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+PWA Pointer Events
+https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
+https://web.dev/discoverable/
+
+PWA Permissions
+https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
+https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
+-->
+
+
+
+<!--
+Style Stage
+https://developer.mozilla.org/en-US/docs/Web/CSS/@import
+https://developer.mozilla.org/en-US/docs/Web/CSS/:root
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties
+https://developer.mozilla.org/en-US/docs/Web/CSS/clamp()
+
+JavaScript
+https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html | Dog Viewer
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.html | bootcamp/dog.html at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.css | bootcamp/dog.css at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/gallery/index.html | bootcamp/index.html at master · FrontendMasters/bootcamp
+
+https://github.com/FrontendMasters/bootcamp/tree/master/src/layouts | bootcamp/src/layouts at master · FrontendMasters/bootcamp
+https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
+
+Codepens
+https://codepen.io/jen4web/pen/xymQdz | Exploring floats and clears
+https://codepen.io/jen4web/pen/ZqdZeW | Vertical navigation bar styling
+https://codepen.io/jen4web/pen/xymQoM | Vertical navigation bar styling
+https://codepen.io/jen4web/pen/wYLOpj | A Pen by Jen Kramer
+https://codepen.io/jen4web/pen/JmweGL | Box model discussion
+https://codepen.io/jen4web/pen/bmyQdM | A Pen by Jen Kramer
+https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
+
+HTML/CSS
+https://frontendmasters.github.io/bootcamp/static/css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png | css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png (459×433)
+
+https://frontendmasters.github.io/bootcamp/layout#introducing-flexbox | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#margin | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/css#references | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/css | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/2-css/begin/learningcss.html | bootcamp/learningcss.html at master · FrontendMasters/bootcamp
+
+https://frontendmasters.github.io/bootcamp/html | Frontend Masters Bootcamp
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/images/blog1.jpg | bootcamp/blog1.jpg at master · FrontendMasters/bootcamp
+https://frontendmasters.com/bootcamp/html-forms/ | Learn HTML Forms for Collecting Form Data in Websites in this Course by Jen Kramer
+https://frontendmasters.com/bootcamp/introduction-html/
+
+
+https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/layout#shorthand | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
+
+https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms#web-fonts | Frontend Masters Bootcamp
+https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
+
+https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
+-->
+
+
+<!--
+## Tools
+
+Web skills
+https://andreasbm.github.io/web-skills/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
+
+Accessibility
+https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
+https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
+
+Design Resources
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+https://github.com/jgthms/minireset.css
+https://htmlreference.io/
+https://github.com/jgthms/html-reference
+https://cssreference.io/
+https://github.com/jgthms/css-reference
+https://jgthms.com/javascript-in-14-minutes/
+https://github.com/jgthms/javascript-in-14-minutes
+
+HTML5 Boilerplate
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+https://moderntemplate.site/ | HTML Template
+-->
+
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
+
+https://reactnative.dev/showcase | Who's using React Native? · React Native
+https://reactjs.org/community/examples.html
+
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
 ## Learning Resources- CSS, HTML, JavaScript
 
 Wes Bos Courses
 * [Wes Bos Courses](https://wesbos.com/courses/) and [Wes Bos GitHub](https://github.com/wesbos)
+* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
+
 * [Beginner JavaScript](https://beginnerjavascript.com/) and [Beginner JavaScript GitHub](https://github.com/wesbos/beginner-javascript/)
 * [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
-* [ES6](https://es6.io/) and [ES6 GitHub](https://github.com/wesbos/es6.io)
 
 <!--
 Colby
@@ -1413,8 +1966,15 @@ http://csszengarden.com/221/
 
 Traversy Media
 https://github.com/bradtraversy/
+https://www.youtube.com/c/TraversyMedia/videos | Traversy Media - YouTube
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
+
+Vanilla JavaScript
+https://github.com/wesbos/JavaScript30
+
+ES6
+https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
 
 
 https://tinyprojects.dev/ | Tiny Projects
@@ -1432,14 +1992,6 @@ https://www.udemy.com/course/50-projects-50-days/ | 50 Projects In 50 Days - HTM
 https://www.udemy.com/course/modern-javascript-from-the-beginning/ | Beginning Modern JavaScript (Includes 10 Real Projects) | Udemy
 https://github.com/bradtraversy/modern_js_udemy_projects | bradtraversy/modern_js_udemy_projects: Project files for Modern JS From The Beginning course
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-
-
-Vanilla JavaScript
-https://github.com/wesbos/JavaScript30
-
-ES6
-https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
-
 
 
 ## Web Design/Dev
@@ -1465,7 +2017,6 @@ https://docs.microsoft.com/en-us/learn/
 
 https://github.com/microsoft/Web-Dev-For-Beginners | microsoft/Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer
 https://github.com/Microsoft/frontend-bootcamp | Microsoft/frontend-bootcamp: Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
-
 
 
 ## Frontend Masters
@@ -1503,75 +2054,8 @@ https://github.com/FrontendMasters/bootcamp
 http://internetfundamentals.com/ | Learn the Foundational Knowledge of How the Internet Works
 
 
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-https://frontendmasters.github.io/bootcamp/ | Frontend Masters Bootcamp
-
-JavaScript
-https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/dog-viewer/dog.html | Dog Viewer
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.html | bootcamp/dog.html at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.css | bootcamp/dog.css at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/gallery/index.html | bootcamp/index.html at master · FrontendMasters/bootcamp
-
-
-HTML/CSS
-https://frontendmasters.github.io/bootcamp/static/css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png | css-shorthand-910e23ebce6520697e839fbcd9a56d67-5a5b3.png (459×433)
-https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/xymQdz?editors=1100 | Exploring floats and clears
-https://codepen.io/jen4web/pen/ZqdZeW | Vertical navigation bar styling
-https://codepen.io/jen4web/pen/ZqdZeW?editors=1100 | Vertical navigation bar styling
-https://codepen.io/jen4web/pen/xymQoM | Vertical navigation bar styling
-https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/wYLOpj | A Pen by Jen Kramer
-https://frontendmasters.github.io/bootcamp/layout#box-model-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#margin | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/JmweGL?editors=1100 | Box model discussion
-https://frontendmasters.github.io/bootcamp/css#references | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://codepen.io/jen4web/pen/bmyQdM?editors=1100 | A Pen by Jen Kramer
-https://frontendmasters.github.io/bootcamp/css | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/2-css/begin/learningcss.html | bootcamp/learningcss.html at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/html | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/images/blog1.jpg | bootcamp/blog1.jpg at master · FrontendMasters/bootcamp
-https://frontendmasters.com/bootcamp/html-forms/ | Learn HTML Forms for Collecting Form Data in Websites in this Course by Jen Kramer
-https://frontendmasters.com/bootcamp/introduction-html/
-
-
-
-
-https://codepen.io/collection/DrmzzL/ | Bootcamp — CSS Exercises - a Collection by Frontend Masters 💻✨ on CodePen
-
-https://github.com/FrontendMasters/bootcamp/tree/master/src/layouts | bootcamp/src/layouts at master · FrontendMasters/bootcamp
-https://frontendmasters.github.io/bootcamp/dogs | Frontend Masters Bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/lessons/dogs.md | bootcamp/dogs.md at master · FrontendMasters/bootcamp
-https://github.com/FrontendMasters/bootcamp/blob/master/static/dog-viewer/dog.js | bootcamp/dog.js at master · FrontendMasters/bootcamp
-
-Frontend- Important
-https://frontendmasters.github.io/bootcamp/interactive | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/dom | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/objects-and-arrays | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/functions-and-scope | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/programming-fundamentals#what-is-code | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/layout#introducing-flexbox | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#understanding-floats-and-clears | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/css#common-css-properties-and-values | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/layout#shorthand | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/layout#styling-navigation-bars-in-a-horizontal-and-vertical-direction | Frontend Masters Bootcamp
-
-https://frontendmasters.github.io/bootcamp/forms | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms#web-fonts | Frontend Masters Bootcamp
-https://frontendmasters.github.io/bootcamp/forms#exercises | Frontend Masters Bootcamp
-
-Frontend Master's Bootcamp
-https://codepen.io/jen4web/pen/xymQdz?editors=1100 | Exploring floats and clears
-
-https://github.com/FrontendMasters/bootcamp/blob/master/static/exercises/1-html/book%20excerpt.txt | bootcamp/book excerpt.txt at master · FrontendMasters/bootcamp
+https://jen4web.substack.com/p/coming-soon | Expand your HTML game in 30 days. - 30 Days of HTML
+https://twitter.com/jen4web/status/1372966459723427848 | Jen Kramer on Twitter: "The top 10 elements in use on web pages in 2020 include div, a, span, li, img, script, p, link, i, and option. None of these elements are included in the #30DaysofHTML challenge. https://t.co/tmBbGOZ1VM" / Twitter
 
 
 https://www.coursera.org/specializations/web-design | Web Design for Everybody: Basics of Web Development & Coding | Coursera
@@ -1583,35 +2067,6 @@ https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The C
 https://twitter.com/chriscoyier/status/1337569425776635904
 https://wordpress.org/themes/twentytwentyone/
 https://css-tricks.com/unconventional-stock-image-sources/
-
-
-
-## Tools
-
-Web skills
-https://andreasbm.github.io/web-skills/
-https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions
-
-Accessibility
-https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
-https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
-
-Design Resources
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-https://github.com/jgthms/minireset.css
-https://htmlreference.io/
-https://github.com/jgthms/html-reference
-https://cssreference.io/
-https://github.com/jgthms/css-reference
-https://jgthms.com/javascript-in-14-minutes/
-https://github.com/jgthms/javascript-in-14-minutes
-
-HTML5 Boilerplate
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 
 ## Games/Gamification
@@ -1761,505 +2216,63 @@ https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode | Pre
 https://github.com/prettier/prettier-vscode/issues/1085 | cannot format doubleQuotes to singleQuote in single javascript file · Issue #1085 · prettier/prettier-vscode
 -->
 
-
-### Deploy
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
-* [Vercel Zero Config](https://vercel.com/blog/zero-config)
-
 <!--
-Netlify
-https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+Projects
 
-https://vercel.com/blog/zeit-is-now-vercel
+Every Cheese
 
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+Cookiecutter
+https://twitter.com/nthapen/status/1240936897234513921
+https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
 
-* [Vercel now](https://zeit.co/now)
-* [Vercel micro](https://github.com/vercel/micro)
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
 
-https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+Projects
+https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
+https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
+https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
+https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
 
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+https://www.npmjs.com/package/npx | npx - npm
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
 
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+DRF
+https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
+
+Every Cheese- Third party
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 -->
 
-### Goodies
-
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+## Wes Bos
 
 <!--
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
 
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
--->
-
-### JavaScript- Using
-
-Node, Express (based on Sinatra), and Passport
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Passport](http://www.passportjs.org/)
-
-Express Tutorials
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React
-* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
-
-JSX (Syntax Extension; React)
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
-* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-
-React Frameworks
-* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-
-Create React App
-* [Create React App GitHub](https://github.com/facebook/create-react-app)
-
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-<!--
-Next (React) and Nuxt (Vue)
-
-JSX in your Markdown documents
-https://twitter.com/mdx_js
-https://mdxjs.com/
-
-https://vercel.com/solutions/react | React - Solutions – Vercel
-
-Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
-
-https://reactjs.org/community/examples.html | Example Projects – React
-
-React Server Components
-https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
-https://github.com/vercel/next-server-components | vercel/next-server-components: Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
-https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
-https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
-https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
-
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-
-Storybook
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-
-Next.js
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-https://www.snowpack.dev/
-https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
-
-https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
--->
-
-
-<!--
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+https://keycode.info/ | JavaScript Event KeyCodes
+https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
+https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
+https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
+hyper terminal - Google Search
+update node and npm - Google Search
 -->
 
 <!--
-Node Tutorials
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://github.com/wesbos/JavaScript30
 
-https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
+https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
+https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
-https://github.com/microsoft/beginners-intro-javascript-node
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
 
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+Project 1
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
+https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
 
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+Not used
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
 
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-
-### JAMStack
-
-Mojombo (React)
-* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
-* [Prisma](https://www.prisma.io/)
-* [Fauna](https://fauna.com/)
-
-CSS
-* [PostCSS](https://postcss.org/)
-* [Emmet](https://emmet.io/)
-
-React and Vue Alternatives
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
-
-Static Site Generators
-* [11ty](https://www.11ty.dev/)
-
-<!--
-Alpine
-https://github.com/alpinejs/alpine
-https://noumenal.es/notes/til/alpine.js/getting-started/
-https://twitter.com/webology/status/1368565406714183695 | Jeff Triplett 😷 on Twitter: "🎉 This is a wonderful example of how to Alpine.js in a project. I have used Alpine.js for a while, but it's rarely past a basic level, so @carltongibson "More complex" example is almost exactly what I needed to get past the basics. Well done." / Twitter
-
-Redwood Example
-https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-Stephanie Eckles
-https://11ty.rocks/ | 11ty Rocks!
-https://github.com/5t3ph/11ty-netlify-jumpstart
-https://github.com/5t3ph/stylestage
-
-11ty
-https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
-https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
--->
-
-### Mobile Optimized
-
-Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Flutter GitHub](https://github.com/flutter/flutter)
-* [Dart](https://dart.dev/)
-
-Create React App
-* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
-
-Facebook- React Native
-* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-
-Expo- React Native Platform
-* [Expo](https://expo.io)
-* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
-
-Push Notifications
-* [Firebase](https://firebase.googleblog.com/)
-* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase )
-* [OneSignal (used by Expo)](https://onesignal.com/)
-
-<!--
-React Native
-https://github.com/facebook/react-native#-building-your-first-react-native-app | facebook/react-native: A framework for building native apps with React.
-https://reactnative.dev/docs/getting-started | Introduction · React Native
-https://reactnative.dev/docs/environment-setup | Setting up the development environment · React Native
-
-Firebase
-https://github.com/firebase/
-https://github.com/firebase/?q=python&type=&language= | Firebase
-
-https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
-https://firebase.google.com/use-cases | Firebase Use Cases
-https://firebase.google.com/docs/database
-https://firebase.google.com/support/release-notes/admin/node | Firebase Admin Node.js SDK Release Notes
-
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
-
-https://docs.expo.io/guides/using-gatsby/
-https://docs.expo.io/guides/using-preact/
--->
-
-Progressive Web Apps (PWA)
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
-* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
-* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
-* [Storage for the Web](https://web.dev/storage-for-the-web/)
-* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
-
-Training
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-
-<!--
-PWA
-https://github.com/GoogleChrome/workbox | GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps
-
-Progressive Web Apps
-https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
-https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
-
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-https://www.pwabuilder.com/ | PWABuilder
-
-Progressive Web app Testing
-[pwmetrics](https://github.com/paulirish/pwmetrics)
-    
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app
--->
-
-### CSS
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-* [Bootstrap](https://getbootstrap.com/)
-
-<!--
-Hotwire
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
-https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
-https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
-
-Stimulus
-https://github.com/hotwired/stimulus
-https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
-
-Bootstrap
-https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
-
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-Django/Tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-Tailwind Tutorials
-https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
-https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
-
-Tailwind Installation Guides
-https://tailwindcss.com/docs/installation
-https://tailwindcss.com/docs/guides/nextjs
-https://tailwindcss.com/docs/guides/create-react-app
-
-https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
-https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
-
-https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
-https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
-https://tailwindui.com/documentation | Documentation | Tailwind UI
-https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
-https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
-https://play.tailwindcss.com/ | Tailwind Play
-https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
-https://heroicons.com/ | Heroicons
-
-Play Screencast
-https://twitter.com/adamwathan/status/1313826345374416896
--->
-
-
-<!--
-Tailwind
-https://tailwindcss.com/docs/plugins | Plugins - Tailwind CSS
-https://www.tailwindtoolbox.com/plugins | Tailwind Toolbox - Free Starter Templates
-https://tailwindcss.com/docs/screen-readers | Screen Readers - Tailwind CSS
-
-Tailwind Access
-https://github.com/jack-pallot/tailwindcss-accessibility | jack-pallot/tailwindcss-accessibility: A Tailwind CSS plugin that adds additional functionality to help improve accessibility.
-
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-@tailwindui Figma Kit
-https://twitter.com/itsMeBennyB/status/1361828636391739397 | Benny Bowden 🚀 on Twitter: "Once again, the @tailwindlabs team knocks it out of the park with the @tailwindui Figma Kit! 🥳 Appreciate that you take care to do things the right way. Our dev team isn't going to know what hit them! 😏 https://t.co/zxHo0f5xpm" / Twitter
-
-Tailwind
-https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
-
-Tailwind UI-PostHTML
-https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
-https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
-
-https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
-
-Tailwind Styleguide
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
--->
-
-
-
-<!--
-## Websites
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-https://github.com/yarnpkg/website
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
-<!--
-https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
-
-https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
-
-SEO
-https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
-
-MongoDB and Elastic
-https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
-https://www.elastic.co/what-is/elk-stack
-
-Aaron
-https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
-https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
-https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
-http://bsonspec.org/ | BSON (Binary JSON) Serialization
-
-Ionic (Vue)
-https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
-https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
-
-https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
-https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
-
-https://twitter.com/jason_mayes/status/1367687828306558979 | Jason Mayes on Twitter: "So #Deno just announced plans to natively support #TensorFlowJS! Quote: "We believe #JavaScript, instead of #Python, could act as ideal language for expressing mathematical ideas if proper infrastructure existed" https://t.co/7XR4joxmbR #MadeWithTFJS #JS #TensorFlow #ML #AI #Node https://t.co/V01HWKxPJS" / Twitter
-
-
-
-Chrome API
-https://fugu-tracker.web.app/
-https://twitter.com/feross/status/1369149438560587778 | Feross on Twitter: "The list of powerful APIs that the Chrome team wants to safely expose to web apps via Project Fugu is incredibly exciting: https://t.co/15q80Mq5sI" / Twitter
-
-
-Edge cloud platform
-https://www.fastly.com/
-
-Fast AI
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-
-
-## New-ish
-
-https://openbase.io/
-
-TensorFlow.js 
-
-AWS Serverless
-https://begin.com/ | Begin
-OpenJS Architect
-https://arc.codes/docs/en/guides/get-started/quickstart
-
-https://p5js.org/
-
-https://hasura.io/
-https://twitter.com/sarah_edo/status/1320761774447063040 | Sarah Drasner on Twitter: "💫 I'm quickly becoming a Hasura fangirl (no they didn't ask me to say that), so I wrote up a post on how to get started with GraphQL with Hasura and my favorite metaframework, Nuxt! I made a repo you can explore, too: https://t.co/LX4qZL8dRJ https://t.co/QLVOISn6Z9" / Twitter
-
-https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
-
-Web components/standards
-https://www.fast.design/docs/introduction/ | Introduction | FAST
-
-Deploy/Django
-https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
-
-## Next
-
-Brian
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-
-Next themes
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
-Good
-https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
-
-
-## JavaScript
-
-https://jasmine.github.io/ | Jasmine Documentation
-
-React
-https://www.taniarascia.com/getting-started-with-react/
-https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
-
-PWA Topic
-https://github.com/topics/pwa | pwa · GitHub Topics
-
-PWA Pointer Events
-https://developers.google.com/web/updates/2016/10/pointer-events | Pointing the Way Forward  |  Web  |  Google Developers
-https://web.dev/discoverable/
-
-PWA Permissions
-https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
-https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
+https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
 -->
