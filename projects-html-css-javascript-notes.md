@@ -211,6 +211,12 @@ https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects
 JSON
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
 
+JSON Tutorial
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#getting_started
+
+Arrays as JSON
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON#arrays_as_json
+
 JavaScript Object versus JSON
 https://medium.com/techtrument/javascript-object-vs-json-117965ea3dea
 
@@ -358,11 +364,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Element#methods
 HTML Elements API
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement
 
-https://developer.mozilla.org/en-US/docs/Web/API/Event
-https://developer.mozilla.org/en-US/docs/Web/API/Element#events
-https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
-
-https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#svg_data_type_interfaces
 
 https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM | Using shadow DOM - Web Components | MDN
 -->
@@ -390,6 +391,11 @@ https://developer.mozilla.org/en-US/docs/Web/API/Touch_events/Using_Touch_Events
 https://developer.mozilla.org/en-US/docs/Web/API/Touch_events | Touch events - Web APIs | MDN
 
 https://developer.mozilla.org/en-US/docs/Web/API/EventTarget
+
+Events
+https://developer.mozilla.org/en-US/docs/Web/API/Event
+https://developer.mozilla.org/en-US/docs/Web/API/Element#events
+https://developer.mozilla.org/en-US/docs/Web/API/Element#handlers
 
 DOM- Event
 https://developer.mozilla.org/en-US/docs/Web/API/UIEvent | UIEvent - Web APIs | MDN
@@ -574,6 +580,8 @@ Mozilla SVG
 * [Mozilla SVG](https://developer.mozilla.org/en-US/docs/Web/SVG)
 
 <!--
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model#svg_data_type_interfaces
+
 https://en.wikipedia.org/wiki/Scalable_Vector_Graphics | Scalable Vector Graphics - Wikipedia
 https://css-tricks.com/creating-ui-components-in-svg/ | Creating UI Components in SVG | CSS-Tricks
 https://css-tricks.com/scale-svg/ | How to Scale SVG | CSS-Tricks
