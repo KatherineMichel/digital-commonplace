@@ -1,5 +1,26 @@
 # Projects
 
+### Ongoing Projects
+
+<!--
+https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
+
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
+
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
+
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
+-->
+
 ## To Do
 
 <!--
@@ -69,41 +90,6 @@ https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test D
 
 ## Anthony Advice
 
-https://www.youtube.com/watch?v=O390_abzo08&feature=emb_logo | why not global pip / virtualenv? (intermediate) anthony explains #079 - YouTube
-
-https://twitter.com/codewithanthony/status/1285974757750353920 | Anthony Sottile on Twitter: "@chaitan94 you may be interested to learn there's other ways of postmortem debugging as well! https://t.co/wbz8AyhmLP" / Twitter
-
-Anthony Advice
-https://www.youtube.com/watch?time_continue=2&v=bfyIrX4_yL8&feature=emb_logo | python packaging: data files (intermediate) anthony explains #071 - YouTube
-https://www.youtube.com/watch?v=GaWs-LenLYE&t=471s | (1) python packaging: basic setup.py and declarative metadata (intermediate) anthony explains #057 - YouTube
-https://www.youtube.com/watch?v=ZpOoRSkm-dQ&feature=emb_logo | what is PATH? (beginner - intermediate) anthony explains #070 - YouTube
-
-typing
-https://www.youtube.com/watch?v=HESA7oukEqE | (1) typing __getitem__ (python / mypy) (intermediate) anthony explains #045 - YouTube
-
-https://www.youtube.com/watch?v=s8Nx2frW4ps | (2) postmortem debugging in python (beginner - intermediate) anthony explains #018 - YouTube
-
-flake8 Plugin
-https://www.youtube.com/watch?v=ot5Z4KQPBL8&feature=emb_logo | (3) a flake8 plugin from scratch (intermediate) anthony explains #025 - YouTube
-https://github.com/asottile/flake8-2020 | asottile/flake8-2020: flake8 plugin which checks for misuse of `sys.version` or `sys.version_info`
-
-https://www.youtube.com/watch?v=sW1qUZ_nSXk&feature=emb_logo | python packaging: src layout (intermediate) anthony explains #048 - YouTube
-
-intro to tox
-https://www.youtube.com/watch?v=75WBE_qbpGk&feature=emb_logo
-https://www.youtube.com/watch?v=Gre2W5z4iLE | releasing a python package to pypi (beginner - intermediate) anthony explains #039 - YouTube
-tox -e py - Google Search
-https://www.youtube.com/watch?v=KKJL8bM4cis | python github actions w/ tox and pre-commit (intermediate) anthony explains #038 - YouTube
-
-https://www.youtube.com/watch?v=-Sgw-6a1HjU | python argparse tutorial (beginner - intermediate) anthony explains #044 - YouTube
-https://www.youtube.com/watch?v=sv46294LoP8 | python cli tested with pytest - (beginner to intermediate) anthony explains #001 - YouTube
-
-https://www.youtube.com/watch?v=MGTX5qI2Jts | virtualenv vs. venv (beginner - intermediate) anthony explains #040 - YouTube
-https://www.youtube.com/watch?v=dTrW8YktDnE | string formatting in python (beginner - intermediate) anthony explains #042 - YouTube
-
-https://www.youtube.com/watch?time_continue=304&v=ObWh1AYClI0&feature=emb_logo | (3) python variable unpackings (beginner - intermediate) anthony explains #031 - YouTube
-https://www.youtube.com/watch?v=2em6MiOpHWk | (2) python curses "hello world" (beginner - intermediate) anthony explains #028 - YouTube
-https://www.youtube.com/watch?v=bItxrNqJ5UQ&feature=youtu.be | git: useful trick for pushing branches (beginner - intermediate) anthony explains #037 - YouTube
 
 ## Jacob
 
@@ -372,28 +358,6 @@ https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "p
 Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
-
-### Ongoing Projects
-
-<!--
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
-
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
-
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
-
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
--->
-
 
 ## High Performance Trends
 
@@ -780,6 +744,17 @@ Stack Overflow
 <!--
 https://blog.jetbrains.com/pycharm/
 
+No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+http://inventwithpython.com/beyond/
+
+Looks great
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
+
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
@@ -800,6 +775,16 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 <!--
 General
+
+https://github.com/KatherineMichel/stanford-code-in-place-section-leader/edit/main/README.md
+
+https://github.com/KatherineMichel/projects/blob/main/to-watch-or-read.md
+https://github.com/KatherineMichel/projects/edit/main/frontend-development-process.md
+
+https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
+https://discord.com/invite/xDKGPaW | anthonywritescode
+
 
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
@@ -822,11 +807,6 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
-https://discord.com/invite/xDKGPaW | anthonywritescode
-
-
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 Learn Django
@@ -834,24 +814,9 @@ https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Dja
 
 Django Tutorials
 
-https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://simpleisbetterthancomplex.com/tutorial/2016/09/19/how-to-create-password-reset-view.html | How to Create a Password Reset View
-https://simpleisbetterthancomplex.com/tutorial/2016/10/31/how-to-handle-github-webhooks-using-django.html
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html
-https://simpleisbetterthancomplex.com/tutorial/2016/08/29/how-to-work-with-ajax-request-with-django.html
 
-No Starch
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-http://inventwithpython.com/beyond/
-
-Looks great
-https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
-https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
 
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
@@ -1152,6 +1117,17 @@ https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | 
 https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
 https://github.com/btholt/gatsby-course-starter | btholt/gatsby-course-starter: a gatsby starter project to help you create educational materials
 
+https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
+https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
+https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
+-->
+
+
+## Projects
+
+<!--
+Traversy
+
 https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
 
 Traversy
@@ -1163,15 +1139,6 @@ https://github.com/bradtraversy/btre_project | bradtraversy/btre_project: Django
 Node
 https://github.com/bradtraversy/vanilla-node-rest-api | bradtraversy/vanilla-node-rest-api: REST API using Node.js without a framework
 
-https://github.com/wesbos/What-The-Flexbox | wesbos/What-The-Flexbox: Exercises for the What The Flexbox video series - available at Flexbox.io
-https://github.com/wesbos/Learn-Node | wesbos/Learn-Node: Starter Files + Stepped Solutions for the Learn Node course
-https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfollower/twit.js at master · wesbos/twitter-unfollower
--->
-
-
-## Projects
-
-<!--
 Django/React
 
 https://github.com/bradtraversy/breaking-bad-cast | bradtraversy/breaking-bad-cast: App to show cast info for breaking bad
