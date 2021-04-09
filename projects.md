@@ -90,6 +90,15 @@ https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test D
 
 ## Anthony Advice
 
+## Nina
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 
 ## Jacob
 
@@ -142,16 +151,6 @@ https://spookylukey.github.io/django-views-the-right-way/detail-view.html
 "It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
 
 https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/ | Everything is an X - lukeplant.me.uk
-
-## Nina
-
-Good Print, hello debugger, DjangoCon
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 
 
 
@@ -484,6 +483,7 @@ https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - 
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
+
 ## Host, Git, Container, and Database Blogs
 
 Hosting Blogs
@@ -645,15 +645,21 @@ The Practical Dev and Hackernoon
 * [Hacker Noon](https://hackernoon.com)
 * [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
 
-Python Articles and Tutorials
-* [The Practical Dev Python](https://dev.to/search?q=python)
+Python Tutorials
 * [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
 * [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
+
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
 * [Hacker Noon Python](https://hackernoon.com/search?query=python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
 <!--
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
+https://hackernoon.com/tagged/python
+
 https://www.nature.com/ | Nature
 
 https://stackshare.io/featured-posts
@@ -661,8 +667,6 @@ https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Deve
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
 
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
@@ -709,16 +713,6 @@ https://adventofcode.com/2020/day/2
 
 ## Python Learning Resources
 
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
-* [Real Python Materials](https://github.com/realpython/materials)
-* [Real Python Courses](https://realpython.com/courses)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
 TestDriven.io and Michael
 * [Test Driven Blog](https://testdriven.io/blog/)
 * [Michael Herman](https://mherman.org/talks)
@@ -728,12 +722,22 @@ Full Stack Python
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Real Python Courses](https://realpython.com/courses)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
 Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
@@ -778,8 +782,10 @@ General
 
 https://github.com/KatherineMichel/stanford-code-in-place-section-leader/edit/main/README.md
 
-https://github.com/KatherineMichel/projects/blob/main/to-watch-or-read.md
 https://github.com/KatherineMichel/projects/edit/main/frontend-development-process.md
+
+https://github.com/KatherineMichel/projects/blob/main/to-watch-or-read.md
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
@@ -801,7 +807,7 @@ https://djangobuilder.io/
 
 https://django.doctor/challenge | Django Doctor - Django code improvement bot
 
-https://plone.org/
+DOM Visualization
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
@@ -809,12 +815,7 @@ https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
-Learn Django
 https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
-
-Django Tutorials
-
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 
@@ -1268,6 +1269,8 @@ Django GitHub
 Flask
 https://github.com/mozilla/flask-elasticsearch-skeleton
 https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+https://plone.org/
 -->
 
 ## Django Rest Framework
