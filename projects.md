@@ -344,27 +344,6 @@ React
 https://github.com/nice-boys/product-boilerplate
 -->
 
-### Ongoing Projects
-
-<!--
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
-
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
-
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
-
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
--->
-
 <!--
 ## Websites
 
@@ -394,204 +373,27 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
-<!--
-https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
-
-https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
-
-SEO
-https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
-
-MongoDB and Elastic
-https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
-https://www.elastic.co/what-is/elk-stack
-
-Aaron
-https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
-https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
-https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
-http://bsonspec.org/ | BSON (Binary JSON) Serialization
-
-Ionic (Vue)
-https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
-https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
-
-https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
-https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
-
-https://twitter.com/jason_mayes/status/1367687828306558979 | Jason Mayes on Twitter: "So #Deno just announced plans to natively support #TensorFlowJS! Quote: "We believe #JavaScript, instead of #Python, could act as ideal language for expressing mathematical ideas if proper infrastructure existed" https://t.co/7XR4joxmbR #MadeWithTFJS #JS #TensorFlow #ML #AI #Node https://t.co/V01HWKxPJS" / Twitter
-
-
-
-Chrome API
-https://fugu-tracker.web.app/
-https://twitter.com/feross/status/1369149438560587778 | Feross on Twitter: "The list of powerful APIs that the Chrome team wants to safely expose to web apps via Project Fugu is incredibly exciting: https://t.co/15q80Mq5sI" / Twitter
-
-
-Edge cloud platform
-https://www.fastly.com/
-
-Fast AI
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-
-
-## New-ish
-
-https://openbase.io/
-
-TensorFlow.js 
-
-AWS Serverless
-https://begin.com/ | Begin
-OpenJS Architect
-https://arc.codes/docs/en/guides/get-started/quickstart
-
-https://p5js.org/
-
-https://hasura.io/
-https://twitter.com/sarah_edo/status/1320761774447063040 | Sarah Drasner on Twitter: "💫 I'm quickly becoming a Hasura fangirl (no they didn't ask me to say that), so I wrote up a post on how to get started with GraphQL with Hasura and my favorite metaframework, Nuxt! I made a repo you can explore, too: https://t.co/LX4qZL8dRJ https://t.co/QLVOISn6Z9" / Twitter
-
-https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
-
-Web components/standards
-https://www.fast.design/docs/introduction/ | Introduction | FAST
-
-Deploy/Django
-https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
-
-## JavaScript
-
-https://jasmine.github.io/ | Jasmine Documentation
--->
-
-
-## VS Code
-
-### Shortcuts
+### Ongoing Projects
 
 <!--
-https://code.visualstudio.com/docs/editor/command-line | The Visual Studio Code command-line options
-https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
+https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
 
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
 
-Snippets
-https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 
-
-Mac
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
-
-Twitter
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-VS Code Mac
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-GitHub
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
-GitHub Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 -->
 
-### Visual Studio Code
-
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-<!--
-https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
-https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
-
-node.js
-https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
-
-C++
-https://code.visualstudio.com/docs/cpp/launch-json-reference
-
-tasks.json
-https://code.visualstudio.com/docs/editor/tasks
-settings
-https://code.visualstudio.com/docs/getstarted/settings
-
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-https://github.com/microsoft/vscode
-https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
-
-Installed
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/environments
-https://code.visualstudio.com/docs/python/tutorial-django
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
-https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
-https://code.visualstudio.com/docs/python/editing#_formatting
-https://pypi.org/project/autopep8/
-https://github.com/psf/black
-https://code.visualstudio.com/docs/python/linting
-https://code.visualstudio.com/docs/python/linting#_specific-linters
-https://code.visualstudio.com/docs/python/debugging
-https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
-https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
-https://code.visualstudio.com/docs/python/testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://docs.python.org/3/library/unittest.html
-https://docs.pytest.org/en/latest/
-https://code.visualstudio.com/docs/python/editing#_refactoring
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-
-https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
--->
-
-### Visual Studio Code
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" )EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://developers.google.com/web/updates/2017/04/headless-chrome
-https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
-
-https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-VC Studio Code
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-
-https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
--->
 
 ## High Performance Trends
 
@@ -771,136 +573,6 @@ https://mongodb.libsyn.com/ | The MongoDB Podcast
 https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
 -->
 
-## Heroku
-
-<!--
-GitHub Actions/Heroku
-https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
--->
-
-Heroku- General
-* [Getting Started on Heroku](https://devcenter.heroku.com/start)
-* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
-
-Heroku- Elements Marketplace
-* [Heroku Elements Marketplace](https://elements.heroku.com)
-* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
-
-Heroku Git Integration
-* [Deploying with Git](https://devcenter.heroku.com/articles/git)
-* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
-* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
-
-Container Registries and Tools
-* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
-* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
-* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
-
-<!--
-https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
-https://elements.heroku.com/addons | Add-ons - Heroku Elements
-https://elements.heroku.com/buttons | Buttons - Heroku Elements
-
-https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
--->
-
-## Workflows
-
-Heroku- Deployment
-* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
-* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
-* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
-* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
-* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
-* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
-* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
-* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
-* [Heroku Scheduler](https://addons.heroku.com/scheduler)
-
-Heroku- App Architecture
-* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
-* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
-
-Heroku Multiple Environments and Site Staging
-* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
-
-<!--
-https://www.npmjs.com/package/git-flow-deploy
-
-https://devcenter.heroku.com/articles/development-configuration
-https://devcenter.heroku.com/articles/github-integration-review-apps
-https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
-
-heroku continuous integration and delivery, using gitflow with heroku
-https://www.heroku.com/flow
-https://blog.heroku.com/heroku-ci-now-available
-https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
-https://www.heroku.com/continuous-integration
-https://www.heroku.com/continuous-delivery
-https://www.heroku.com/continuous-delivery/on-heroku
-https://www.heroku.com/continuous-delivery/how-it-works
-https://www.heroku.com/continuous-delivery/foundations
-https://devcenter.heroku.com/articles/heroku-ci
-https://devcenter.heroku.com/articles/github-integration
-https://devcenter.heroku.com/articles/pipelines
-https://devcenter.heroku.com/articles/pipelines#github-sync
-https://devcenter.heroku.com/articles/git
-
-https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
-https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
-https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
-https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
-
-Release Phase
-https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
--->
-
-<!--
-## Hosting- General
-
-Hosting Blogs
-* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
-* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
-
-Amazon Web Services
-* [Amazon Web Services](http://aws.amazon.com)  
-* [AWS Forum](https://forums.aws.amazon.com)
-* [AWS Articles](https://aws.amazon.com/articles)
-* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
-
-AWS- Developer and Documentation
-* [AWS Products](http://aws.amazon.com/products)
-* [AWS Documentation](http://aws.amazon.com/documentation)
-* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
-* [AWS Developer Tools](https://aws.amazon.com/developertools)  
-* [AWS Tools](http://aws.amazon.com/tools)  
-* [AWS Code](https://aws.amazon.com/code)
-
-AWS Marketplace
-* [AWS Marketplace](https://aws.amazon.com/marketplace) 
-
-AWS- GitHub and Livecoding
-* [AWS Twitch](https://aws.amazon.com/twitch)
-* [AWS Twitch](https://www.twitch.tv/aws)
-* [AWS GitHub](https://github.com/aws)
-
-Google Cloud, App Engine
-* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
-* [Google Cloud Products](https://cloud.google.com/products)  
-* [Google Cloud Solutions](https://cloud.google.com/solutions)  
-* [Google Cloud Developers](https://cloud.google.com/developers)  
-
-Google Cloud, App Engine
-* [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
-* [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
-* [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
-* [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
-
-Alibaba
-* [Alibaba Cloud](https://www.alibabacloud.com)
--->
-
 ## Creation Blogs
 
 Product
@@ -930,598 +602,6 @@ https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Vid
 
 https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
 -->
-
-### Deploy
-
-Hawt- Web
-* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
-* [Netlify Features](https://www.netlify.com/features/)
-* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
-* [Vercel Zero Config](https://vercel.com/blog/zero-config)
-
-<!--
-Digital Ocean- Deployment
-https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
-https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
-
-https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
-
-https://vercel.com/blog/zeit-is-now-vercel
-
-https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
-https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
-https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
-
-* [Vercel now](https://zeit.co/now)
-* [Vercel micro](https://github.com/vercel/micro)
-
-https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
-
-https://www.netlify.com/docs/functions/ | Functions | Netlify
-https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
-https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
--->
-
-### Goodies
-
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
-
-<!--
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
-
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
--->
-
-### JavaScript- Using
-
-Node, Express (based on Sinatra), and Passport
-* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
-* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
-* [Passport](http://www.passportjs.org/)
-
-Express Tutorials
-* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
-* [Express Generator](https://expressjs.com/en/starter/generator.html)
-
-React
-* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
-
-JSX (Syntax Extension; React)
-* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
-* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
-* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
-
-React Frameworks
-* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-
-Create React App
-* [Create React App GitHub](https://github.com/facebook/create-react-app)
-
-Webpack (Bundler)
-* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
-
-<!--
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-
-Next (React) and Nuxt (Vue)
-
-JSX in your Markdown documents
-https://twitter.com/mdx_js
-https://mdxjs.com/
-
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-### PWA
-
-Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
-
-### React
-
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-https://reactjs.org/docs/dom-elements.html | DOM Elements – React
-
-https://vercel.com/solutions/react | React - Solutions – Vercel
-
-https://reactjs.org/community/examples.html | Example Projects – React
-
-React Server Components
-https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
-https://github.com/vercel/next-server-components | vercel/next-server-components: Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
-https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
-https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
-https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
-
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-
-Storybook
-https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
-https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-
-Next.js
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
-
-### WASM
-
-https://www.snowpack.dev/
-https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
-
-https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
--->
-
-
-<!--
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
-
-<!--
-Node Tutorials
-
-https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-
-### JAMStack
-
-Mojombo (React)
-* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
-* [Prisma](https://www.prisma.io/)
-* [Fauna](https://fauna.com/)
-
-CSS
-* [PostCSS](https://postcss.org/)
-* [Emmet](https://emmet.io/)
-
-React and Vue Alternatives
-* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
-* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
-
-Static Site Generators
-* [11ty](https://www.11ty.dev/)
-
-<!--
-Alpine
-https://github.com/alpinejs/alpine
-https://noumenal.es/notes/til/alpine.js/getting-started/
-https://twitter.com/webology/status/1368565406714183695 | Jeff Triplett 😷 on Twitter: "🎉 This is a wonderful example of how to Alpine.js in a project. I have used Alpine.js for a while, but it's rarely past a basic level, so @carltongibson "More complex" example is almost exactly what I needed to get past the basics. Well done." / Twitter
-
-Redwood Example
-https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
-https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
-
-Stephanie Eckles
-https://11ty.rocks/ | 11ty Rocks!
-https://github.com/5t3ph/11ty-netlify-jumpstart
-https://github.com/5t3ph/stylestage
-
-11ty
-https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
-https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
--->
-
-### Mobile Optimized- PWA
-
-Create React App
-* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
-
-Progressive Web Apps (PWA)
-* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
-* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
-* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
-* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
-* [Storage for the Web](https://web.dev/storage-for-the-web/)
-* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
-
-Training
-* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
-
-<!--
-PWA
-https://github.com/GoogleChrome/workbox | GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps
-
-Progressive Web Apps
-https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
-https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
-
-https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
-
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
-https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/App_structure | Progressive web app structure - Progressive web apps (PWAs) | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
-https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
-https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
-
-https://www.pwabuilder.com/ | PWABuilder
-
-Progressive Web app Testing
-[pwmetrics](https://github.com/paulirish/pwmetrics)
-    
-https://github.com/TalAter/awesome-progressive-web-apps
-https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
-http://blog.ionic.io/what-is-a-progressive-web-app
--->
-
-### Mobile Optimized
-
-Facebook- React Native
-* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
-* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
-
-Expo- React Native Platform
-* [Expo](https://expo.io)
-* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
-
-Push Notifications
-* [Firebase](https://firebase.googleblog.com/)
-* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase )
-* [OneSignal (used by Expo)](https://onesignal.com/)
-
-Flutter and Dart (Mobile)
-* [Flutter](https://flutter.dev/) and [Flutter GitHub](https://github.com/flutter/flutter)
-* [Dart](https://dart.dev/)
-
-<!--
-React Native
-https://github.com/facebook/react-native#-building-your-first-react-native-app | facebook/react-native: A framework for building native apps with React.
-https://reactnative.dev/docs/getting-started | Introduction · React Native
-https://reactnative.dev/docs/environment-setup | Setting up the development environment · React Native
-
-Firebase
-https://github.com/firebase/
-https://github.com/firebase/?q=python&type=&language= | Firebase
-
-https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
-https://firebase.google.com/use-cases | Firebase Use Cases
-https://firebase.google.com/docs/database
-https://firebase.google.com/support/release-notes/admin/node | Firebase Admin Node.js SDK Release Notes
-
-https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
-
-https://docs.expo.io/guides/using-gatsby/
-https://docs.expo.io/guides/using-preact/
--->
-
-### CSS
-
-CSS
-* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
-* [Bootstrap](https://getbootstrap.com/)
-
-<!--
-Hotwire
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
-https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
-https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
-
-Stimulus
-https://github.com/hotwired/stimulus
-https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
-
-Bootstrap
-https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
-
-CSS Philosphies
-https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
-https://en.bem.info/ | BEM
-https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
-https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
-https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
-https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
-
-Django/Tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-Tailwind Tutorials
-https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
-https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
-
-Tailwind Installation Guides
-https://tailwindcss.com/docs/installation
-https://tailwindcss.com/docs/guides/nextjs
-https://tailwindcss.com/docs/guides/create-react-app
-
-https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
-https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
-
-https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
-https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
-https://tailwindui.com/documentation | Documentation | Tailwind UI
-https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
-https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
-https://play.tailwindcss.com/ | Tailwind Play
-https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
-https://heroicons.com/ | Heroicons
-
-Play Screencast
-https://twitter.com/adamwathan/status/1313826345374416896
--->
-
-
-<!--
-Tailwind
-https://tailwindcss.com/docs/plugins | Plugins - Tailwind CSS
-https://www.tailwindtoolbox.com/plugins | Tailwind Toolbox - Free Starter Templates
-https://tailwindcss.com/docs/screen-readers | Screen Readers - Tailwind CSS
-
-Tailwind Access
-https://github.com/jack-pallot/tailwindcss-accessibility | jack-pallot/tailwindcss-accessibility: A Tailwind CSS plugin that adds additional functionality to help improve accessibility.
-
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-@tailwindui Figma Kit
-https://twitter.com/itsMeBennyB/status/1361828636391739397 | Benny Bowden 🚀 on Twitter: "Once again, the @tailwindlabs team knocks it out of the park with the @tailwindui Figma Kit! 🥳 Appreciate that you take care to do things the right way. Our dev team isn't going to know what hit them! 😏 https://t.co/zxHo0f5xpm" / Twitter
-
-Tailwind
-https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
-
-Tailwind UI-PostHTML
-https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
-https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
-
-https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
-
-Tailwind Styleguide
-https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
--->
-
-
-
-<!--
-https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
-
-
-Repl.it
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
-
-
-https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
-https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
-
-
-https://web.dev/discoverable/
-
-## Next
-
-Brian
-https://www.youtube.com/watch?v=nJwqX-rfpXw
-
-Next themes
-https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
-
-Good
-https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
-
-## React
-
-React
-https://www.taniarascia.com/getting-started-with-react/
-https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
-
-## PWA
-
-PWA Topic
-https://github.com/topics/pwa | pwa · GitHub Topics
-
-PWA Permissions
-https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
-https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
--->
-
-
-## HTML, CSS, JavaScript
-
-### Website and Blog Resources
-
-GitHub Pages Showcase (Jekyll)
-* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
-
-Jekyll Themes
-* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
-* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
-* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
-* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
-
-<!--
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
-
-https://github.com/wowthemesnet/mundana-theme-jekyll
-
-https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
-
-https://ghost.org/docs/ | Ghost Docs
-https://demo.ghost.io/
-https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
-https://gatsby.ghost.org/
-https://github.com/TryGhost/gatsby-starter-ghost
-https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
-https://lyra.ghost.io/ | Lyra
-https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
-https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
-https://massively.ghost.io/ | This is Massively
-https://editorial.ghost.io/ | Editorial for Ghost
-
-https://sindresorhus.com/apps | Sindre Sorhus
-https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
-https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
-
-https://github.com/fastai/fast_template
-https://twitter.com/jeremyphoward/status/1218662038752202753
-http://fast-template.fast.ai/2020/01/14/welcome.html
-https://twitter.com/jeremyphoward/status/1217909027973124096
-https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
--->
-
-
-## Awesome Python and Django
-
-Awesome Python
-* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
-* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
-* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
-
-Awesome Django
-* [Awesome Django](https://github.com/wsvincent/awesome-django)
-* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
-* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
-* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
-
-## Python and Django
-
-Python
-* [Python](https://www.python.org/)
-
-Django GitHub
-* [Django GitHub](https://github.com/django/django)
-
-<!--
-Flask
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
--->
-
-## Django Rest Framework
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-
-<!--
-DRF
-https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
-https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
-https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About Django REST Framework, Part 3: Adding custom endpoints — Lacey Williams Henschel
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
-https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
-https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
--->
-
-## Wagtail
-
-Wagtail
-* [Wagtail](https://wagtail.io/)
-
-<!--
-Django Wagtail
-https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
-
-Wagtail
-https://wagtail.io/blog
-https://github.com/wagtail/wagtail/
-https://wagtail.io/packages/ | Packages | Wagtail CMS
-https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
-https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
-https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
--->
-
-## Python and Django Geo
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-Python- Python/Django- Internationalization and Localization, Translation
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
-
-<!--
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
-
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-## More Languages and Frameworks
-
-Scala
-* [Scala](https://www.scala-lang.org/)
-
-<!--
-https://nim-lang.org/
--->
-
 
 
 ## Projects
@@ -2194,4 +1274,799 @@ Not used
 https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
+-->
+
+## Awesome Python and Django
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Django
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+## Python and Django
+
+Python
+* [Python](https://www.python.org/)
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
+<!--
+Flask
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+-->
+
+## Django Rest Framework
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+
+<!--
+DRF
+https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
+https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About Django REST Framework, Part 3: Adding custom endpoints — Lacey Williams Henschel
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
+-->
+
+## Wagtail
+
+Wagtail
+* [Wagtail](https://wagtail.io/)
+
+<!--
+Django Wagtail
+https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
+
+Wagtail
+https://wagtail.io/blog
+https://github.com/wagtail/wagtail/
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+-->
+
+## Python and Django Geo
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+Python- Python/Django- Internationalization and Localization, Translation
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
+
+<!--
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+## More Languages and Frameworks
+
+Scala
+* [Scala](https://www.scala-lang.org/)
+
+<!--
+https://nim-lang.org/
+-->
+
+
+<!--
+https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
+
+https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
+
+https://github.com/googleapis/python-api-core | googleapis/python-api-core
+https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
+
+SEO
+https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
+
+MongoDB and Elastic
+https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
+https://www.elastic.co/what-is/elk-stack
+
+Aaron
+https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
+https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
+https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
+http://bsonspec.org/ | BSON (Binary JSON) Serialization
+
+Ionic (Vue)
+https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
+https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+
+https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
+https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
+
+https://twitter.com/jason_mayes/status/1367687828306558979 | Jason Mayes on Twitter: "So #Deno just announced plans to natively support #TensorFlowJS! Quote: "We believe #JavaScript, instead of #Python, could act as ideal language for expressing mathematical ideas if proper infrastructure existed" https://t.co/7XR4joxmbR #MadeWithTFJS #JS #TensorFlow #ML #AI #Node https://t.co/V01HWKxPJS" / Twitter
+
+
+
+Chrome API
+https://fugu-tracker.web.app/
+https://twitter.com/feross/status/1369149438560587778 | Feross on Twitter: "The list of powerful APIs that the Chrome team wants to safely expose to web apps via Project Fugu is incredibly exciting: https://t.co/15q80Mq5sI" / Twitter
+
+
+Edge cloud platform
+https://www.fastly.com/
+
+Fast AI
+https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
+
+
+
+## New-ish
+
+https://openbase.io/
+
+TensorFlow.js 
+
+AWS Serverless
+https://begin.com/ | Begin
+OpenJS Architect
+https://arc.codes/docs/en/guides/get-started/quickstart
+
+https://p5js.org/
+
+https://hasura.io/
+https://twitter.com/sarah_edo/status/1320761774447063040 | Sarah Drasner on Twitter: "💫 I'm quickly becoming a Hasura fangirl (no they didn't ask me to say that), so I wrote up a post on how to get started with GraphQL with Hasura and my favorite metaframework, Nuxt! I made a repo you can explore, too: https://t.co/LX4qZL8dRJ https://t.co/QLVOISn6Z9" / Twitter
+
+https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
+
+Web components/standards
+https://www.fast.design/docs/introduction/ | Introduction | FAST
+
+Deploy/Django
+https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
+
+## JavaScript
+
+https://jasmine.github.io/ | Jasmine Documentation
+-->
+
+## HTML, CSS, JavaScript
+
+### Website and Blog Resources
+
+GitHub Pages Showcase (Jekyll)
+* [GitHub Pages Showcase](https://github.com/showcases/github-pages-examples)
+
+Jekyll Themes
+* [Jekyll Themes](http://jekyllthemes.org) and [Jekyll Themes GitHub](https://github.com/mattvh/jekyllthemes)
+* [Dr. Jekyll Themes](http://drjekyllthemes.github.io) and [Dr. Jekyll Themes GitHub](https://github.com/drjekyllthemes/themes)
+* [Jekyll Sites Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Sites)
+* [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
+
+<!--
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+https://github.com/wowthemesnet/mundana-theme-jekyll
+
+https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
+
+https://ghost.org/docs/ | Ghost Docs
+https://demo.ghost.io/
+https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
+https://gatsby.ghost.org/
+https://github.com/TryGhost/gatsby-starter-ghost
+https://tribeca.ghost.io/ | Tribeca
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+https://lyra.ghost.io/ | Lyra
+https://argon.ghost.io/ | Argon
+https://eleventy.ghost.org/
+https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
+https://massively.ghost.io/ | This is Massively
+https://editorial.ghost.io/ | Editorial for Ghost
+
+https://sindresorhus.com/apps | Sindre Sorhus
+https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
+https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
+
+https://github.com/fastai/fast_template
+https://twitter.com/jeremyphoward/status/1218662038752202753
+http://fast-template.fast.ai/2020/01/14/welcome.html
+https://twitter.com/jeremyphoward/status/1217909027973124096
+https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
+-->
+
+### Deploy
+
+Hawt- Web
+* [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
+* [Netlify Features](https://www.netlify.com/features/)
+* [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
+* [Vercel Zero Config](https://vercel.com/blog/zero-config)
+
+<!--
+Digital Ocean- Deployment
+https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
+https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
+
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+
+https://vercel.com/blog/zeit-is-now-vercel
+
+https://github.com/vercel/pkg | vercel/pkg: Package your Node.js project into an executable
+https://github.com/vercel/ncc | zeit/ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
+https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
+
+* [Vercel now](https://zeit.co/now)
+* [Vercel micro](https://github.com/vercel/micro)
+
+https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
+
+https://www.netlify.com/docs/functions/ | Functions | Netlify
+https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
+https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
+
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+-->
+
+### Goodies
+
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+
+<!--
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+-->
+
+### JavaScript- Using
+
+Node, Express (based on Sinatra), and Passport
+* [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
+* [Express](https://expressjs.com) and [Express GitHub](https://github.com/expressjs/express)
+* [Passport](http://www.passportjs.org/)
+
+Express Tutorials
+* [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
+* [Express Generator](https://expressjs.com/en/starter/generator.html)
+
+React
+* [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+JSX (Syntax Extension; React)
+* [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
+* [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
+* [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
+
+React Frameworks
+* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
+Create React App
+* [Create React App GitHub](https://github.com/facebook/create-react-app)
+
+Webpack (Bundler)
+* [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
+
+<!--
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Next (React) and Nuxt (Vue)
+
+JSX in your Markdown documents
+https://twitter.com/mdx_js
+https://mdxjs.com/
+
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+### PWA
+
+Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
+
+### React
+
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://reactjs.org/docs/dom-elements.html | DOM Elements – React
+
+https://vercel.com/solutions/react | React - Solutions – Vercel
+
+https://reactjs.org/community/examples.html | Example Projects – React
+
+React Server Components
+https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
+https://github.com/vercel/next-server-components | vercel/next-server-components: Experimental demo of React Server Components with Next.js. Deployed serverlessly on Vercel.
+https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I refactored the React Server Components example on top of Next.js and deployed it serverlessly to @vercel. Check out the tech preview demo: https://t.co/wpjEO9iL29" / Twitter
+https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
+https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
+
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+
+Storybook
+https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
+https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+
+Next.js
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+
+### WASM
+
+https://www.snowpack.dev/
+https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
+
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+-->
+
+
+<!--
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+<!--
+Node Tutorials
+
+https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+
+### JAMStack
+
+Mojombo (React)
+* [Redwood](https://redwoodjs.com/) and [Redwood GitHub](https://github.com/redwoodjs/redwood)
+* [Prisma](https://www.prisma.io/)
+* [Fauna](https://fauna.com/)
+
+CSS
+* [PostCSS](https://postcss.org/)
+* [Emmet](https://emmet.io/)
+
+React and Vue Alternatives
+* [Svelte](https://svelte.dev/) and [Svelte GitHub](https://github.com/sveltejs/svelte)
+* [Preact](https://preactjs.com) and [Preact CLI GitHub](https://github.com/preactjs/preact-cli)
+
+Static Site Generators
+* [11ty](https://www.11ty.dev/)
+
+<!--
+Alpine
+https://github.com/alpinejs/alpine
+https://noumenal.es/notes/til/alpine.js/getting-started/
+https://twitter.com/webology/status/1368565406714183695 | Jeff Triplett 😷 on Twitter: "🎉 This is a wonderful example of how to Alpine.js in a project. I have used Alpine.js for a while, but it's rarely past a basic level, so @carltongibson "More complex" example is almost exactly what I needed to get past the basics. Well done." / Twitter
+
+Redwood Example
+https://github.com/redwoodjs/example-blog | redwoodjs/example-blog: Example Blog app written with Redwood
+https://redwoodjs.com/tutorial/authentication | Tutorial - Authentication : RedwoodJS Docs
+
+Stephanie Eckles
+https://11ty.rocks/ | 11ty Rocks!
+https://github.com/5t3ph/11ty-netlify-jumpstart
+https://github.com/5t3ph/stylestage
+
+11ty
+https://github.com/11ty/eleventy-base-blog | 11ty/eleventy-base-blog: A starter repository for a blog web site using the Eleventy static site generator.
+https://github.com/google/eleventy-high-performance-blog | google/eleventy-high-performance-blog: A high performance blog template for the 11ty static site generator.
+-->
+
+### Mobile Optimized- PWA
+
+Create React App
+* ["Making a Progressive Web App"](https://create-react-app.dev/docs/making-a-progressive-web-app/)
+
+Progressive Web Apps (PWA)
+* [Progressive Web App Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_app)
+* [Google Progressive Web Apps](https://web.dev/progressive-web-apps/)
+* ["What are Progressive Web Apps?"](https://web.dev/what-are-pwas/)
+* [Google Progressive Web App Checklist](https://web.dev/pwa-checklist/)
+* [Storage for the Web](https://web.dev/storage-for-the-web/)
+* ["Apply instant loading with the PRPL pattern"](https://web.dev/apply-instant-loading-with-prpl/)
+
+Training
+* [Google Developer Training Progressive Web Apps GitHub](https://github.com/google-developer-training/pwa-training-labs)
+
+<!--
+PWA
+https://github.com/GoogleChrome/workbox | GoogleChrome/workbox: 📦 Workbox: JavaScript libraries for Progressive Web Apps
+
+Progressive Web Apps
+https://github.com/mdn/pwa-examples | mdn/pwa-examples: Examples for progressive web apps.
+https://github.com/googlecodelabs/your-first-pwapp | googlecodelabs/your-first-pwapp: Code associated with Your First Progressive Web App codelab
+
+https://developers.google.com/web/ilt/pwa/ | Progressive Web Apps Training  |  Web  |  Google Developers
+
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps | Progressive web apps | MDN
+https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps/App_structure | Progressive web app structure - Progressive web apps (PWAs) | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive | Progressive web apps - App Center | MDN
+https://developer.mozilla.org/en-US/docs/Web/Apps/Progressive#Tools | Progressive web apps - App Center | MDN
+https://developers.google.com/web/fundamentals/codelabs/your-first-pwapp/ | Your First Progressive Web App  |  Web Fundamentals  |  Google Developers
+
+https://www.pwabuilder.com/ | PWABuilder
+
+Progressive Web app Testing
+[pwmetrics](https://github.com/paulirish/pwmetrics)
+    
+https://github.com/TalAter/awesome-progressive-web-apps
+https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
+http://blog.ionic.io/what-is-a-progressive-web-app
+-->
+
+### Mobile Optimized
+
+Facebook- React Native
+* [Facebook React-Native](https://reactnative.dev/) and [Facebook React-Native GitHub](https://github.com/facebook/react-native)
+* [Facebook React-Native Tutorial](https://facebook.github.io/react-native/docs/tutorial.html)
+
+Expo- React Native Platform
+* [Expo](https://expo.io)
+* [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
+
+Push Notifications
+* [Firebase](https://firebase.googleblog.com/)
+* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase )
+* [OneSignal (used by Expo)](https://onesignal.com/)
+
+Flutter and Dart (Mobile)
+* [Flutter](https://flutter.dev/) and [Flutter GitHub](https://github.com/flutter/flutter)
+* [Dart](https://dart.dev/)
+
+<!--
+React Native
+https://github.com/facebook/react-native#-building-your-first-react-native-app | facebook/react-native: A framework for building native apps with React.
+https://reactnative.dev/docs/getting-started | Introduction · React Native
+https://reactnative.dev/docs/environment-setup | Setting up the development environment · React Native
+
+Firebase
+https://github.com/firebase/
+https://github.com/firebase/?q=python&type=&language= | Firebase
+
+https://firebase.google.com/docs/web/setup | Add Firebase to your JavaScript project
+https://firebase.google.com/use-cases | Firebase Use Cases
+https://firebase.google.com/docs/database
+https://firebase.google.com/support/release-notes/admin/node | Firebase Admin Node.js SDK Release Notes
+
+https://www.freecodecamp.org/news/react-native-firebase-tutorial/ | How to Build a React Native App and Integrate It with Firebase
+
+https://docs.expo.io/guides/using-gatsby/
+https://docs.expo.io/guides/using-preact/
+-->
+
+### CSS
+
+CSS
+* [Tailwind CSS](https://tailwindcss.com/) and [Tailwind Style Guide](https://github.com/garygreen/tsg)
+* [Bootstrap](https://getbootstrap.com/)
+
+<!--
+Hotwire
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
+https://twitter.com/dhh/status/1343581447773429762 | DHH on Twitter: "Talking to Adam also gave me an idea of making the hidden frame reveal easier. And the inspiration that we should put out a Hotwire style guide, deconstructing common UI patterns, and how we'd recommend doing them with drive/frames/streams/stimulus." / Twitter
+
+Stimulus
+https://github.com/hotwired/stimulus
+https://twitter.com/dhh/status/1200880746275098624 | DHH on Twitter: "The skies cleared and the angels sang 😄✌️ https://t.co/gyKbGKuyms" / Twitter
+
+Bootstrap
+https://blog.getbootstrap.com/2020/12/07/bootstrap-5-beta-1/
+
+CSS Philosphies
+https://css-tricks.com/tailwind-versus-bem/ | Tailwind versus BEM | CSS-Tricks
+https://en.bem.info/ | BEM
+https://thoughtbot.com/blog/tailwind-versus-bem | Tailwind versus BEM
+https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
+https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
+https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
+
+Django/Tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+Tailwind Tutorials
+https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
+https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
+
+Tailwind Installation Guides
+https://tailwindcss.com/docs/installation
+https://tailwindcss.com/docs/guides/nextjs
+https://tailwindcss.com/docs/guides/create-react-app
+
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
+
+https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
+https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
+https://tailwindui.com/documentation | Documentation | Tailwind UI
+https://twitter.com/tailwindui | Tailwind UI (@tailwindui) / Twitter
+https://twitter.com/tailwindcss | https://twitter.com/tailwindcss
+https://play.tailwindcss.com/ | Tailwind Play
+https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
+https://heroicons.com/ | Heroicons
+
+Play Screencast
+https://twitter.com/adamwathan/status/1313826345374416896
+-->
+
+
+<!--
+Tailwind
+https://tailwindcss.com/docs/plugins | Plugins - Tailwind CSS
+https://www.tailwindtoolbox.com/plugins | Tailwind Toolbox - Free Starter Templates
+https://tailwindcss.com/docs/screen-readers | Screen Readers - Tailwind CSS
+
+Tailwind Access
+https://github.com/jack-pallot/tailwindcss-accessibility | jack-pallot/tailwindcss-accessibility: A Tailwind CSS plugin that adds additional functionality to help improve accessibility.
+
+
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
+@tailwindui Figma Kit
+https://twitter.com/itsMeBennyB/status/1361828636391739397 | Benny Bowden 🚀 on Twitter: "Once again, the @tailwindlabs team knocks it out of the park with the @tailwindui Figma Kit! 🥳 Appreciate that you take care to do things the right way. Our dev team isn't going to know what hit them! 😏 https://t.co/zxHo0f5xpm" / Twitter
+
+Tailwind
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+Tailwind UI-PostHTML
+https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
+https://twitter.com/adamwathan/status/1347243572903497728 | https://twitter.com/adamwathan/status/1347243572903497728
+
+https://github.com/aniftyco/awesome-tailwindcss | aniftyco/awesome-tailwindcss: 😎 Awesome things related to Tailwind CSS
+
+Tailwind Styleguide
+https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-styleguide: Dynamically construct a visual styleguide for your own custom Tailwind CSS configuration.
+-->
+
+
+
+<!--
+https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
+
+
+Repl.it
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+
+
+https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
+https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
+
+
+https://web.dev/discoverable/
+
+## Next
+
+Brian
+https://www.youtube.com/watch?v=nJwqX-rfpXw
+
+Next themes
+https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Next.js dark mode in 2 lines of code. Support System preference and any other theme with no flashing
+
+Good
+https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
+
+## React
+
+React
+https://www.taniarascia.com/getting-started-with-react/
+https://twitter.com/CreativGriffin/status/1323336271083769864 | Mike || Griffin Creative 🍁 on Twitter: "Found this very simple introduction to #ReactJS in the official website documentation. If you are scared of React or don't know where to start, this is for you. #100daysofcode #webdev #javascript #codenewbie https://t.co/6glb4qbCNk" / Twitter
+
+## PWA
+
+PWA Topic
+https://github.com/topics/pwa | pwa · GitHub Topics
+
+PWA Permissions
+https://developers.google.com/web/fundamentals/push-notifications/permission-ux | Permission UX  |  Web Fundamentals  |  Google Developers
+https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
+-->
+
+
+## Heroku
+
+<!--
+GitHub Actions/Heroku
+https://github.com/actions/heroku | actions/heroku: GitHub Action for interacting with Heroku
+-->
+
+Heroku- General
+* [Getting Started on Heroku](https://devcenter.heroku.com/start)
+* [How Heroku Works](https://devcenter.heroku.com/articles/how-heroku-works)
+
+Heroku- Elements Marketplace
+* [Heroku Elements Marketplace](https://elements.heroku.com)
+* [Heroku Add on Documentation](https://devcenter.heroku.com/categories/add-on-documentation)
+
+Heroku Git Integration
+* [Deploying with Git](https://devcenter.heroku.com/articles/git)
+* [Announcing GitHub Integration](https://blog.heroku.com/archives/2015/2/6/heroku_github_integration) and [GitHub Integration](https://devcenter.heroku.com/articles/github-integration)
+* [Introducing Heroku Button](https://blog.heroku.com/archives/2014/8/7/heroku-button) and [Creating a "Deploy to Heroku" Button](https://devcenter.heroku.com/articles/heroku-button)
+
+Container Registries and Tools
+* [Heroku Container Registry and Runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
+* [Heroku Container Tools GitHub](https://github.com/heroku/heroku-container-tools)
+* [GitLab Container Registry](https://about.gitlab.com/2016/05/23/gitlab-container-registry)
+
+<!--
+https://devcenter.heroku.com/categories/extending-heroku | Extending Heroku | Heroku Dev Center
+https://elements.heroku.com/addons | Add-ons - Heroku Elements
+https://elements.heroku.com/buttons | Buttons - Heroku Elements
+
+https://devcenter.heroku.com/articles/buildpacks#setting-a-buildpack-on-an-application | Buildpacks | Heroku Dev Center
+-->
+
+## Workflows
+
+Heroku- Deployment
+* [Heroku Local](https://devcenter.heroku.com/articles/heroku-local) 
+* [Heroku CLI](https://devcenter.heroku.com/articles/heroku-command-line)
+* [Heroku Procfile](https://devcenter.heroku.com/articles/procfile)
+* [Heroku Configuration and Config Vars](https://devcenter.heroku.com/articles/config-vars)
+* [Heroku Deploy](https://devcenter.heroku.com/categories/deployment) and [Heroku Deploy GitHub](https://github.com/heroku/heroku-deploy)  
+* [Heroku Deploy Hooks](https://devcenter.heroku.com/articles/deploy-hooks)
+* [Heroku Releases](https://devcenter.heroku.com/articles/releases)
+* [Heroku Labs: Pipelines](https://devcenter.heroku.com/articles/labs-pipelines)
+* [Heroku Scheduler](https://addons.heroku.com/scheduler)
+
+Heroku- App Architecture
+* [Architecting Applications for Heroku](https://devcenter.heroku.com/articles/architecting-apps)
+* [Heroku Application Architecture](https://devcenter.heroku.com/categories/application-architecture)
+
+Heroku Multiple Environments and Site Staging
+* [Heroku Multiple Environments](https://devcenter.heroku.com/articles/multiple-environments)  
+
+<!--
+https://www.npmjs.com/package/git-flow-deploy
+
+https://devcenter.heroku.com/articles/development-configuration
+https://devcenter.heroku.com/articles/github-integration-review-apps
+https://devcenter.heroku.com/articles/github-integration-review-apps#how-much-do-review-app-costs
+
+heroku continuous integration and delivery, using gitflow with heroku
+https://www.heroku.com/flow
+https://blog.heroku.com/heroku-ci-now-available
+https://blog.heroku.com/heroku_flow_pipelines_review_apps_and_github_sync
+https://www.heroku.com/continuous-integration
+https://www.heroku.com/continuous-delivery
+https://www.heroku.com/continuous-delivery/on-heroku
+https://www.heroku.com/continuous-delivery/how-it-works
+https://www.heroku.com/continuous-delivery/foundations
+https://devcenter.heroku.com/articles/heroku-ci
+https://devcenter.heroku.com/articles/github-integration
+https://devcenter.heroku.com/articles/pipelines
+https://devcenter.heroku.com/articles/pipelines#github-sync
+https://devcenter.heroku.com/articles/git
+
+https://devcenter.heroku.com/categories/deploying-with-git | Deploying With Git | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-lifecycle | Deployment Lifecycle | Heroku Dev Center
+https://devcenter.heroku.com/categories/deployment-integrations | Deployment Integrations | Heroku Dev Center
+https://devcenter.heroku.com/articles/collab | Getting Started as a Collaborator | Heroku Dev Center
+https://devcenter.heroku.com/articles/collaborating | Collaborating with Other Developers on Your App | Heroku Dev Center
+
+Release Phase
+https://devcenter.heroku.com/articles/release-phase | Release Phase | Heroku Dev Center
+-->
+
+<!--
+## Hosting- General
+
+Hosting Blogs
+* [Amazon Web Services Slideshare](http://www.slideshare.net/AmazonWebServices/presentations)   
+* [AWS YouTube Videos](https://www.youtube.com/user/AmazonWebServices/videos)
+
+Amazon Web Services
+* [Amazon Web Services](http://aws.amazon.com)  
+* [AWS Forum](https://forums.aws.amazon.com)
+* [AWS Articles](https://aws.amazon.com/articles)
+* [AWS Whitepapers](https://aws.amazon.com/whitepapers)
+
+AWS- Developer and Documentation
+* [AWS Products](http://aws.amazon.com/products)
+* [AWS Documentation](http://aws.amazon.com/documentation)
+* [AWS Getting Started](http://aws.amazon.com/documentation/gettingstarted)
+* [AWS Developer Tools](https://aws.amazon.com/developertools)  
+* [AWS Tools](http://aws.amazon.com/tools)  
+* [AWS Code](https://aws.amazon.com/code)
+
+AWS Marketplace
+* [AWS Marketplace](https://aws.amazon.com/marketplace) 
+
+AWS- GitHub and Livecoding
+* [AWS Twitch](https://aws.amazon.com/twitch)
+* [AWS Twitch](https://www.twitch.tv/aws)
+* [AWS GitHub](https://github.com/aws)
+
+Google Cloud, App Engine
+* [Google Cloud](https://cloud.google.com) and [Google Cloud Platform GitHub](https://github.com/GoogleCloudPlatform)
+* [Google Cloud Products](https://cloud.google.com/products)  
+* [Google Cloud Solutions](https://cloud.google.com/solutions)  
+* [Google Cloud Developers](https://cloud.google.com/developers)  
+
+Google Cloud, App Engine
+* [Google Cloud Quotas](https://cloud.google.com/appengine/docs/quotas) 
+* [Google App Engine](https://developers.google.com/appengine) and [Google App Engine Wikipedia](http://en.wikipedia.org/wiki/Google_App_Engine)  
+* [What is Google App Engine?](https://developers.google.com/appengine/docs/whatisgoogleappengine)  
+* [Google App Engine Forum](https://groups.google.com/forum/#!msg/google-appengine/pVZfdeky-ow/TO1SmipM2Y0J)  
+
+Alibaba
+* [Alibaba Cloud](https://www.alibabacloud.com)
 -->
