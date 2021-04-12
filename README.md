@@ -337,6 +337,20 @@ https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Tech
 
 
 <!--
+https://www.coldstart.com/ | The Cold Start Problem
+
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+Important
+https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
+
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+
+Important
+https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
+
+https://opensourcestash.com/ | Open Source Stash
+
 https://twitter.com/SahilBloom/status/1373279793353879556 | Sahil Bloom on Twitter: "To outperform, you need serious competitive advantages. But contrary to what you have been told, most of them don't require talent. 10 competitive advantages that you can start developing today:" / Twitter
 
 
