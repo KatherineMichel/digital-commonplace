@@ -928,6 +928,30 @@ https://www.amazon.com/How-Draw-Cute-Stuff-Everything/dp/1454925647 | How to Dra
 -->
 
 
+## Software Engineering
+
+Software Project Management
+* [Software Project Management Wikipedia](http://en.wikipedia.org/wiki/Software_project_management)
+
+Software Engineering/Development 
+* [Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Software_engineering) 
+* [History of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/History_of_software_engineering) 
+* [Outline of Software Engineering Wikipedia](https://en.wikipedia.org/wiki/Outline_of_software_engineering)
+* [Guide to the Software Engineering Body of Knowledge](http://www.computer.org/web/swebok/v3) and [Guide to the Software Engineering Body of Knowledge Wikipedia](https://en.wikipedia.org/wiki/Software_Engineering_Body_of_Knowledge)
+* [Software Development Wikipedia](http://en.wikipedia.org/wiki/Software_development) 
+
+## Software Life Cycle and Release Management
+
+Interesting!
+Software Development Philosophies and Process
+* [List of Software Development Philosophies Wikipedia](https://en.wikipedia.org/wiki/List_of_software_development_philosophies) 
+* [Software Development Process (Series) Wikipedia](https://en.wikipedia.org/wiki/Software_development_process) 
+
+Life Cycles
+* [Product Life Cycle Management Wikipedia](https://en.wikipedia.org/wiki/Product_life-cycle_management_(marketing))
+* [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+* [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
+
 
 ## Product and Marketing
 
