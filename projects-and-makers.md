@@ -39,6 +39,42 @@ https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and 
 https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
 -->
 
+## Makers
+
+Women Who Inspire Me
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+<!--
+https://github.com/jessfraz/
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+
+https://virus.cafe/ | Virus Cafe
+
+https://twitter.com/hayleydenb/status/1257786499933728768
+
+Cool way to do it
+https://twitter.com/MishManners/status/1240839777437364224
+https://twitter.com/MishManners/status/1239360667703885825
+https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
 
 ## Makers
 
@@ -360,44 +396,88 @@ GitHub Metrics
 https://twitter.com/bitandbang/status/1265679124774952960 | Tierney Cyren on Twitter: "something I constantly want: @github organization metrics. I'd like to see how many issues, PRs, discussions (soon!), commits, releases, unique contributors, stars, and forks exist in an organization." / Twitter
 -->
 
-## Makers
-
-Women Who Inspire Me
-* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
-* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
-* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
-* [Camille Fournier Twitter](https://twitter.com/skamille)
-* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
-* [Jess Frazelle GitHub](https://github.com/jessfraz)
-* [Leigh Honeywell](https://hypatia.ca)
-
-* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
-* [Suz Hinton Twitter](https://twitter.com/noopkat)
+## Probot
 
 <!--
-https://github.com/jessfraz/
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
+Probot and Such
 
-https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+https://github.com/gr2m/create-or-update-pull-request-action
+https://twitter.com/gr2m/status/1224742792280211456
+https://twitter.com/gr2m/status/1200326993838886912 | Gregor on Twitter: "This thanksgiving I'm thankful to @JasonEtco and the GitHub support team who saved my 🍑 big time https://t.co/4MIsYKAzXz" / Twitter
 
-https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+https://github.com/gr2m/twitter-together
 
-https://virus.cafe/ | Virus Cafe
+https://github.com/probot/reminders
 
-https://twitter.com/hayleydenb/status/1257786499933728768
+https://dev.to/gh-campus-experts/create-your-first-github-bot-with-probot-e6o
 
-Cool way to do it
-https://twitter.com/MishManners/status/1240839777437364224
-https://twitter.com/MishManners/status/1239360667703885825
-https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+Probot
+https://probot.github.io/apps/ | Featured Apps | Probot
+https://probot.github.io/docs/hello-world/ | Hello world | Probot
+https://probot.github.io/apps/polls/ | Polls | Probot
+https://probot.github.io/apps/no-response/ | No Response | Probot
+https://github.com/probot/dco | probot/dco: GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
 
-https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+Make semantic-release compatible with GitHub Actions
+https://github.com/semantic-release/semantic-release/issues/1194
+Python Plugin
+https://github.com/semantic-release/git/issues/172#issuecomment-557203217
+
+https://github.com/JasonEtco/build-and-tag-action | JasonEtco/build-and-tag-action: 📦🔖 A GitHub Action for publishing JavaScript Actions
+https://github.com/JasonEtco/actions-toolkit | JasonEtco/actions-toolkit: 🛠 A toolkit for building GitHub Actions in Node.js
+https://github.com/probot/create-probot-app
+https://github.com/probot/actions-adapter | probot/actions-adapter: An adapter that takes a Probot app and makes it compatible with GitHub Actions
+
+https://github.com/JasonEtco/jasonet.co/pull/46/files
 -->
 
-## Probot
+<!--
+Python- Publishing
+
+PyPI GitHub Actions
+https://twitter.com/webKnjaZ/status/1268324832736768000 | Sviatoslove.py🐍 👨‍💻🏡:🇨🇿🇪🇺 @Ansible @RedHat on Twitter: "PyPI publish GHA updates today: - built-in `twine check` - image bump to Python 3.8 - integration of warning annotations - very minor bugfixes https://t.co/2HOkYnVPV7 #PyPI #PyPA #GitHubActions #python" / Twitter
+
+Brett Release
+https://github.com/brettcannon/release-often | brettcannon/release-often: GitHub Action for releasing a Python project to PyPI after every relevant, merged PR
+
+Important
+https://github.com/marketplace/actions/pypi-publish | pypi-publish · Actions · GitHub Marketplace
+https://github.com/pypa/gh-action-pypi-publish/issues/2
+https://github.com/pypa/gh-action-pypi-publish | pypa/gh-action-pypi-publish: GitHub Action to publish a package to PyPI
+https://discuss.python.org/t/official-github-action-for-publishing-to-pypi/1061/2 | Official GitHub Action for publishing to PyPI - Packaging - Discussions on Python.org
+
+Publish to PyPI
+https://github.com/jacobian/pinboard-to-sqlite/blob/master/.github/workflows/publish.yml
+https://github.com/jacobian/lastfm-to-sqlite/blob/master/.github/workflows/test.yml | lastfm-to-sqlite/test.yml at master · jacobian/lastfm-to-sqlite
+-->
+
+<!--
+https://github.com/Songmu/ghch | Songmu/ghch: Generate changelog from git history, tags and merged pull requests
+
+Testing and Release
+
+Conventional Commits
+https://github.com/googleapis/release-please | googleapis/release-please: generate release PRs based on the conventionalcommits.org spec
+
+https://github.com/marketplace?utf8=%E2%9C%93&type=actions&query=semantic
+https://www.conventionalcommits.org/en/v1.0.0-beta.4/
+https://github.com/commitizen/conventional-commit-types/
+https://github.com/commitizen/conventional-commit-types/blob/master/index.json
+https://github.com/probot/semantic-pull-requests | probot/semantic-pull-requests: Ensure your pull requests follow the Conventional Commits spec
+https://github.com/semantic-release/npm
+https://twitter.com/SemanticRelease
+
+Semantic Release and Merge Release
+https://semantic-release.gitbook.io/semantic-release/
+https://github.com/semantic-release
+https://github.com/semantic-release/semantic-release
+
+https://github.com/marketplace/actions/codecov
+
+https://probot.github.io/apps/release-drafter/
+
+https://github.com/mikeal/merge-release | mikeal/merge-release: Automatically release all merges to master on npm.
+-->
 
 ## GitHub Actions and Automation Stuff
 
