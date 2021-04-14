@@ -902,6 +902,21 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
+
+<!--
+GitHub/VS Code
+
+https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
+https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
+https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
+https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
+
+For Fun
+https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
+https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
+https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
+-->
+
 ## Learning Resources- CSS, HTML, JavaScript
 
 Wes Bos Courses
