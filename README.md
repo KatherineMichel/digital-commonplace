@@ -952,6 +952,13 @@ Life Cycles
 * [Systems Development Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
 * [Technology Adoption Life Cycle Wikipedia](https://en.wikipedia.org/wiki/Technology_adoption_life_cycle)
 
+## Software Development Philosophies and Process
+
+Types of Development
+* [Rapid Application Development Wikipedia](http://en.wikipedia.org/wiki/Rapid_application_development) 
+* [Adaptive Software Development Wikipedia](https://en.wikipedia.org/wiki/Adaptive_software_development) 
+* [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
+
 
 ## Product and Marketing
 
