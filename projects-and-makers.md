@@ -41,6 +41,32 @@ https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot
 
 ## Makers
 
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+Women Who Inspire Me- Python
+* [Mariatta GitHub](https://github.com/mariatta)
+* [Lorena Mesa GitHub](https://github.com/lorenanicole)
+* [Jessica Garson GitHub](https://github.com/JessicaGarson)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+
+Women Who Inspire Me- JavaScript
+* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
+
+GitHub
+* [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* [Feross Aboukhadijeh GitHub](https://github.com/feross)
+* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
+
 Women Who Inspire Me
 * [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
 * [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
@@ -75,35 +101,6 @@ https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-sp
 https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
 https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
 -->
-
-## Makers
-
-Django, GitHub, SQL
-* [Jeff Triplett Twitter](https://twitter.com/webology)
-* [Simon Willison](https://static.simonwillison.net)
-
-Women Who Inspire Me- Python
-* [Mariatta GitHub](https://github.com/mariatta)
-* [Lorena Mesa GitHub](https://github.com/lorenanicole)
-* [Jessica Garson GitHub](https://github.com/JessicaGarson)
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
-
-Women Who Inspire Me- JavaScript
-* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
-
-GitHub
-* [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
-* [Steve Winton GitHub](https://github.com/swinton/)
-* [Jason Etco GitHub](https://github.com/JasonEtco/)
-* [Gregor Martynus GitHub](https://github.com/gr2m/)
-* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
-
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* [Feross Aboukhadijeh GitHub](https://github.com/feross)
-* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
-
 
 <!--
 ## Makers and Projects
