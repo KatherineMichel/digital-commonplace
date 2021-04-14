@@ -1,9 +1,10 @@
 # Projects
 
-### Ongoing Projects
+## Ongoing Projects
 
 <!--
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
+https://coderadio.freecodecamp.org/
 
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
@@ -75,30 +76,6 @@ https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask �
 
 https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
 
-
-## Tutorials
-
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-https://learndjango.com/tutorials/django-best-practices-security
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-
-## Anthony Advice
-
-## Nina
-
-Good Print, hello debugger, DjangoCon
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 
 ## Jacob
 
@@ -219,18 +196,6 @@ https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-de
 ## Django Tutorials and Templates
 
 <!--
-https://github.com/feldroy | Feldroy
-https://github.com/audreyfeldroy/cookiecutter-pypackage
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
--->
-
-<!--
 Django Templates
 
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
@@ -320,10 +285,12 @@ https://github.com/gothinkster/flask-realworld-example-app
 React/Node/Mongo
 https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
 
+
 Node/Django
 Hackathon Starters
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://github.com/DrkSephy/django-hackathon-starter
+
 
 React
 https://github.com/nice-boys/product-boilerplate
@@ -484,21 +451,7 @@ https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introd
 -->
 
 
-## Host, Git, Container, and Database Blogs
-
-Hosting Blogs
-* [Amazon Web Services New](https://aws.amazon.com/new)
-* [AWS Blog](https://aws.amazon.com/blogs)
-* [Digital Ocean Blog](https://blog.digitalocean.com/)
-
-Hosting Blogs
-* [Heroku Blog](https://blog.heroku.com)
-
-Heroku Hosting Docs
-* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
-* [Heroku Dev Center](https://devcenter.heroku.com)  
-* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
-* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
+## Creation Blogs
 
 GitHub
 * [GitHub Blog](https://github.blog)  
@@ -507,37 +460,6 @@ GitHub
 
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
-
-Container
-* [Docker Blog](https://www.docker.com/blog/)
-* [Kubernetes Blog](https://kubernetes.io/blog/)
-
-Databases
-* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
-* [CouchDB Blog](https://blog.couchbase.com/)
-* [Elastic Blog](https://www.elastic.co/blog/)
-* [MongoDB Blog](https://www.mongodb.com/blog)
-
-<!--
-https://oo.t9t.io/organizations | Open companies
-
-Couchbase
-https://github.com/couchbase | couchbase
-https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
-
-https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
-https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
-
-Michael Lynn
-
-https://www.mongodb.com/resources
-https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
-https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
-https://mongodb.libsyn.com/ | The MongoDB Podcast
-https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
--->
-
-## Creation Blogs
 
 Product
 * [Twilio Blog](https://www.twilio.com/blog)
@@ -559,6 +481,8 @@ Playgrounds
 * [CodePen Blog](https://blog.codepen.io/)
 
 <!--
+Michael Lynn
+
 Twilio
 https://www.twilio.com/docs/tutorials
 https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
@@ -774,17 +698,37 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
 
+<!--
+## Anthony Advice
+
+## Tutorials
+
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
+https://learndjango.com/tutorials/django-best-practices-security
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+## Nina
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+-->
+
 
 ## Learning Resources
 
 <!--
 General
 
-https://github.com/KatherineMichel/stanford-code-in-place-section-leader/edit/main/README.md
-
-https://github.com/KatherineMichel/projects/edit/main/frontend-development-process.md
-
-https://github.com/KatherineMichel/projects/blob/main/to-watch-or-read.md
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
@@ -850,6 +794,18 @@ https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_de
 
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+-->
+
+<!--
+https://github.com/feldroy | Feldroy
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
 -->
 
 
@@ -1925,6 +1881,54 @@ https://developers.google.com/web/fundamentals/push-notifications/permission-ux 
 https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permissions-6cdd9ab25c27 | Mobile UX Design: The Right Ways to Ask Users for Permissions | by Nick Babich | UX Planet
 -->
 
+
+
+## Container and Database Blogs
+
+Container
+* [Docker Blog](https://www.docker.com/blog/)
+* [Kubernetes Blog](https://kubernetes.io/blog/)
+
+Databases
+* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
+* [CouchDB Blog](https://blog.couchbase.com/)
+* [Elastic Blog](https://www.elastic.co/blog/)
+* [MongoDB Blog](https://www.mongodb.com/blog)
+
+<!--
+https://oo.t9t.io/organizations | Open companies
+
+Couchbase
+https://github.com/couchbase | couchbase
+https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
+
+https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
+https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+
+Michael Lynn
+https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
+
+https://www.mongodb.com/resources
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
+https://mongodb.libsyn.com/ | The MongoDB Podcast
+-->
+
+## Host
+
+Hosting Blogs
+* [Amazon Web Services New](https://aws.amazon.com/new)
+* [AWS Blog](https://aws.amazon.com/blogs)
+* [Digital Ocean Blog](https://blog.digitalocean.com/)
+
+Hosting Blogs
+* [Heroku Blog](https://blog.heroku.com)
+
+Heroku Hosting Docs
+* [Heroku](https://www.heroku.com) and [Heroku GitHub](https://github.com/heroku)  
+* [Heroku Dev Center](https://devcenter.heroku.com)  
+* [Heroku Support by Language](https://devcenter.heroku.com/categories/language-support)
+* [Heroku Reference](https://devcenter.heroku.com/categories/reference)
 
 ## Heroku
 
