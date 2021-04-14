@@ -337,12 +337,20 @@ https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Tech
 
 
 <!--
+https://twitter.com/SahilBloom/status/1373279793353879556 | Sahil Bloom on Twitter: "To outperform, you need serious competitive advantages. But contrary to what you have been told, most of them don't require talent. 10 competitive advantages that you can start developing today:" / Twitter
+
+https://jspaint.app/#local:c15e223514779 | untitled - Paint
+
 https://www.coldstart.com/ | The Cold Start Problem
 
+https://jacobian.org/2018/may/2/engmanager-reading-list/
 https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
 
 Important
 https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 
 https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
 
@@ -351,13 +359,9 @@ https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
 
 https://opensourcestash.com/ | Open Source Stash
 
-https://twitter.com/SahilBloom/status/1373279793353879556 | Sahil Bloom on Twitter: "To outperform, you need serious competitive advantages. But contrary to what you have been told, most of them don't require talent. 10 competitive advantages that you can start developing today:" / Twitter
+https://github.com/mjhea0/awesome-flask
 
 
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
-https://jspaint.app/#local:c15e223514779 | untitled - Paint
 
 
 Docs Audit
@@ -371,10 +375,10 @@ https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on 
 https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
 
 
+
 https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
 
 https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
-
 
 Product Sprint
 https://github.com/google/software-product-sprint | google/software-product-sprint
@@ -386,7 +390,6 @@ https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-
 https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
 https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
 https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
-
 
 Empowered versus feature
 https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
@@ -417,9 +420,9 @@ KJ
 https://diversityorgs.tech/ | DiversityOrgs.Tech
 
 
-https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
-
 https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
+
+https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
 
 Family Tree
 https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
@@ -851,6 +854,8 @@ https://www.oddbird.net/talks/set-your-code-free/
 https://speakerdeck.com/carljm
 https://github.com/carljm/dotfiles
 -->
+
+
 
 <!--
 Brand
