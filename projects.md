@@ -751,6 +751,11 @@ https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_t
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 
 
+DOM Visualization
+
+http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
+
+
 Vector Art
 https://www.adobe.com/creativecloud/illustration/discover/vector-art.html
 
@@ -795,11 +800,14 @@ https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francis
 
 
 
-
 https://dev.to/
 
 https://hackernoon.com/tagged/python | #python stories | Hacker Noon
 https://www.fullstackpython.com/ | Full Stack Python
+
+
+Repl.it
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
 
 Python Application Layouts
 https://realpython.com/python-application-layouts/
@@ -825,18 +833,12 @@ https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/
 Mozilla Django
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site
 
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
 https://simpleisbetterthancomplex.com/
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-
-
-DOM Visualization
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
 
@@ -1915,10 +1917,6 @@ https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-st
 
 <!--
 https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
-
-
-Repl.it
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
 
 
 https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
