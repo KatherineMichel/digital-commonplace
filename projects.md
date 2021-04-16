@@ -6,6 +6,9 @@
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 https://coderadio.freecodecamp.org/
 
+https://www.google.com/search?q=chillhop&oq=chillhop&aqs=chrome..69i57j46i433j0l3j46l2j0j46j0.1411j0j7&sourceid=chrome&ie=UTF-8
+
+
 Site Examples
 https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
 
@@ -22,11 +25,14 @@ https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-ex
 https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 -->
 
-## To Do
-
 <!--
 https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
 
 ## Python and Django
 
@@ -36,11 +42,6 @@ https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python -
 
 Python- Rust Bindings
 https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
-
-Python Debugging
-https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
-https://pypi.org/project/ipdb/
-https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
 
 System Python
 https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
@@ -136,10 +137,6 @@ https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/ | Everything is a
 https://osem.seagl.org/conferences/seagl2020/program/proposals/779
 https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
 
-https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
 https://github.com/phildini/api-driven-django
 
 Kojo
@@ -207,15 +204,6 @@ https://github.com/divio/demosite | divio/demosite: A basic project to serve as 
 https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
 
 
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-
 Django/React Project Tutorials
 https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
 https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
@@ -227,8 +215,6 @@ https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A sc
 Django Templates
 
 https://github.com/sixfeetup/cookiecutter-sixiedjango
-
-https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
 
 https://github.com/caktus/django-project-template
 
@@ -285,13 +271,6 @@ https://github.com/gothinkster/flask-realworld-example-app
 React/Node/Mongo
 https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
 
-
-Node/Django
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://github.com/DrkSephy/django-hackathon-starter
-
-
 React
 https://github.com/nice-boys/product-boilerplate
 -->
@@ -325,6 +304,7 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+
 ## High Performance Trends
 
 List of Engineering Blogs
@@ -343,61 +323,6 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
-## Projects and Demos
-
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
-* [CodePen Projects](http://codepen.io/projects/)
-
-Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
-
-CodePen
-* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
-* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
-
-<!--
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
-
-https://blog.repl.it/global | Repl.it - Going Global
-https://repl.it/talk/
-
-https://blog.repl.it/alwayson
-https://repl.it/templates
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
--->
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
-
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
 
 ## Competitions, Hackathons, Festivals, Communities
 
@@ -449,48 +374,6 @@ https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - 
 
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
-
-
-## Creation Blogs
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-Product
-* [Twilio Blog](https://www.twilio.com/blog)
-
-Deploy
-* [Netlify Blog](https://www.netlify.com/blog/)
-* [Vercel Blog](https://vercel.com/blog)
-
-Web
-* [React Blog](https://reactjs.org/blog/)
-* [Vue News](https://news.vuejs.org/)
-* [Next Blog](https://nextjs.org/blog/)
-* [Redwood News](https://redwoodjs.com/news)
-* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
-
-Playgrounds
-* [Glitch Blog](https://blog.glitch.com/)
-* [Repl.it Blog](https://blog.repl.it/)
-* [CodePen Blog](https://blog.codepen.io/)
-
-<!--
-Michael Lynn
-
-Twilio
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
-https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
-
-https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
--->
-
 
 ## Projects
 
@@ -558,6 +441,120 @@ https://github.com/python-telegram-bot/python-telegram-bot
 -->
 
 
+## Creation Blogs
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+
+Product
+* [Twilio Blog](https://www.twilio.com/blog)
+
+Deploy
+* [Netlify Blog](https://www.netlify.com/blog/)
+* [Vercel Blog](https://vercel.com/blog)
+
+Web
+* [React Blog](https://reactjs.org/blog/)
+* [Vue News](https://news.vuejs.org/)
+* [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
+* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
+
+Playgrounds
+* [Glitch Blog](https://blog.glitch.com/)
+* [Repl.it Blog](https://blog.repl.it/)
+* [CodePen Blog](https://blog.codepen.io/)
+
+<!--
+Michael Lynn
+
+Twilio
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
+
+https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+-->
+
+## Projects and Demos
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+* [CodePen Projects](http://codepen.io/projects/)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+https://codepen.io/trending
+
+GitHub/VS Code
+
+https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
+https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
+https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
+https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
+
+For Fun
+https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
+https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
+https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
+-->
+
+<!--
+https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+
+https://blog.repl.it/global | Repl.it - Going Global
+https://repl.it/talk/
+
+https://blog.repl.it/alwayson
+https://repl.it/templates
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+-->
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
 ## Tutorials
 
 Show Hacker News and IH
@@ -616,6 +613,7 @@ https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Open
 
 https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
+
 
 ### Code Challenges
 
@@ -712,7 +710,12 @@ https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1
 
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
-## Nina
+## Debugging
+
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
 
 Good Print, hello debugger, DjangoCon
 https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
@@ -729,17 +732,73 @@ https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Sk
 <!--
 General
 
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+Todo
+https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
 
-https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
-https://discord.com/invite/xDKGPaW | anthonywritescode
+Product
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
+https://www.atlassian.com/agile/product-management/product-roadmaps | Product Roadmaps | Atlassian
 
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+
+
+Vector Art
+https://www.adobe.com/creativecloud/illustration/discover/vector-art.html
+
+
+https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
+
+
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
 
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+
+
+Aaron
+https://github.com/aaronbassett
+https://github.com/aaronbassett/FARM-starter
+https://twitter.com/aaronbassett/status/1381816315980218370
+
+Michael Lynn
+
+Colby Fayock
+https://github.com/colbyfayock
+https://www.youtube.com/colbz/videos
+
+Elastic
+https://www.elastic.co/downloads?storm=on-premise&elektra=cloud-registration
+
+MongoDB
+https://cloud.mongodb.com/v2/607904366640c756aa269354#setup/onboarding
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+Anthony Explains
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
+https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
+https://discord.com/invite/xDKGPaW | anthonywritescode
+
+Traversy
+https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
+
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+
+
+Roundup
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+
+Django News
+https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 
 
 Important
@@ -755,11 +814,22 @@ DOM Visualization
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
+
+Important
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+
+Mozilla Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site
+
+https://simpleisbetterthancomplex.com/
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 
@@ -775,13 +845,9 @@ https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff wit
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-
 https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 -->
+
 
 ## Great Demos
 
@@ -789,11 +855,28 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 https://github.com/pinax
 https://github.com/pinax/pinax-templates
 
+https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
+
 https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
 https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
 
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+
+Node/Django
+Hackathon Starters
 https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
 https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+https://github.com/DrkSephy/django-hackathon-starter
 -->
 
 <!--
@@ -858,20 +941,6 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
-
-<!--
-GitHub/VS Code
-
-https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
-https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
-https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
-https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
-
-For Fun
-https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
-https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
-https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
--->
 
 ## Learning Resources- CSS, HTML, JavaScript
 
