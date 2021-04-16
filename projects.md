@@ -740,17 +740,8 @@ https://www.atlassian.com/agile/product-management/requirements | Creating a lea
 https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
 https://www.atlassian.com/agile/product-management/product-roadmaps | Product Roadmaps | Atlassian
 
-
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-
-Vector Art
-https://www.adobe.com/creativecloud/illustration/discover/vector-art.html
-
-
-https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
-
 
 https://web.stanford.edu/class/cs253/ | CS253 - Web Security
 
@@ -758,6 +749,12 @@ https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_t
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+
+
+Vector Art
+https://www.adobe.com/creativecloud/illustration/discover/vector-art.html
+
+https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
 
 
 Aaron
@@ -789,10 +786,6 @@ Traversy
 https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
 
 
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-
-
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
@@ -800,6 +793,23 @@ https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | D
 Django News
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 
+
+
+
+https://dev.to/
+
+https://hackernoon.com/tagged/python | #python stories | Hacker Noon
+https://www.fullstackpython.com/ | Full Stack Python
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+
+Important
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+## Django
 
 Important
 https://django-news.com/ | Django News
@@ -810,6 +820,18 @@ https://djangobuilder.io/
 
 https://django.doctor/challenge | Django Doctor - Django code improvement bot
 
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+
+Mozilla Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site
+
+https://simpleisbetterthancomplex.com/
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+
+
 DOM Visualization
 
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
@@ -818,18 +840,6 @@ https://realpython.com/courses/django-portfolio-project/ | Get Started With Djan
 
 https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
 
-Important
-https://python-patterns.guide/ | Python Design Patterns
-
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-
-Mozilla Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site
-
-https://simpleisbetterthancomplex.com/
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 
@@ -844,8 +854,6 @@ https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff wit
 
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 -->
 
 
