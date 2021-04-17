@@ -201,8 +201,6 @@ https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-r
 
 
 <!--
-https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
-
 Tessa
 
 Developer Mindset
