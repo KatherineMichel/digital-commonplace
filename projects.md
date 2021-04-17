@@ -630,7 +630,7 @@ Databases
 
 <!--
 Forum
-https://repl.it/talk/
+https://replit.com/talk/all
 
 Dev Cos
 https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
@@ -684,6 +684,7 @@ https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.
 https://twitter.com/aaronbassett/status/1381816315980218370
 
 Michael Lynn
+https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
 
 Colby Fayock
 https://github.com/colbyfayock
@@ -872,13 +873,23 @@ https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Sk
 <!--
 General
 
-Todo
-https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
+https://github.com/KatherineMichel/projects/blob/main/to-watch-or-read.md
 
-Product
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
-https://www.atlassian.com/agile/product-management/product-roadmaps | Product Roadmaps | Atlassian
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+Articles
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
+
+
+Important
+https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+
+https://github.com/mjhea0/awesome-flask
+
 
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
