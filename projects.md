@@ -441,7 +441,7 @@ https://github.com/python-telegram-bot/python-telegram-bot
 -->
 
 
-## Creation Blogs
+## Git News
 
 GitHub
 * [GitHub Blog](https://github.blog)  
@@ -451,36 +451,70 @@ GitHub
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
 
+<!--
+## GitHub Must Read
 
-Product
-* [Twilio Blog](https://www.twilio.com/blog)
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
 
-Deploy
-* [Netlify Blog](https://www.netlify.com/blog/)
-* [Vercel Blog](https://vercel.com/blog)
-
-Web
-* [React Blog](https://reactjs.org/blog/)
-* [Vue News](https://news.vuejs.org/)
-* [Next Blog](https://nextjs.org/blog/)
-* [Redwood News](https://redwoodjs.com/news)
-* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
-
-Playgrounds
-* [Glitch Blog](https://blog.glitch.com/)
-* [Repl.it Blog](https://blog.repl.it/)
-* [CodePen Blog](https://blog.codepen.io/)
+## News
 
 <!--
-Michael Lynn
+Roundup
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
 
-Twilio
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
-https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
+Django News
+https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 
-https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+Important
+https://django-news.com/ | Django News
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 -->
+
+### Code Challenges
+
+100 Days of Code
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
+* [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
+
+
+<!--
+https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
+
+https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
+https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/input
+https://adventofcode.com/2020/day/2
+-->
+
+
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
+
 
 ## Projects and Demos
 
@@ -503,6 +537,9 @@ CodePen
 https://codepen.io/trending
 
 GitHub/VS Code
+
+Repl.it
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
 
 https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
 https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
@@ -534,28 +571,71 @@ https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 -->
 
-## GitHub and VS Code Integration
 
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+## Creation Blogs
+
+Product
+* [Twilio Blog](https://www.twilio.com/blog)
+
+Deploy
+* [Netlify Blog](https://www.netlify.com/blog/)
+* [Vercel Blog](https://vercel.com/blog)
+
+Web
+* [React Blog](https://reactjs.org/blog/)
+* [Vue News](https://news.vuejs.org/)
+* [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
+* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
+
+Playgrounds
+* [Glitch Blog](https://blog.glitch.com/)
+* [Repl.it Blog](https://blog.repl.it/)
+* [CodePen Blog](https://blog.codepen.io/)
 
 <!--
-https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
 
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+Twilio
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
 
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
+https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
 -->
 
-## Tutorials
+<!--
+Aaron
+https://github.com/aaronbassett
+https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
+https://github.com/aaronbassett/FARM-starter
+https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
+https://twitter.com/aaronbassett/status/1381816315980218370
+
+Michael Lynn
+
+Colby Fayock
+https://github.com/colbyfayock
+https://www.youtube.com/colbz/videos
+
+Dashboards
+https://cloud.mongodb.com/v2/607904366640c756aa269354#setup/onboarding
+https://www.elastic.co/downloads?storm=on-premise&elektra=cloud-registration
+
+Elastic
+https://www.elastic.co/what-is/elk-stack
+
+MongoDB
+https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
+https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
+http://bsonspec.org/ | BSON (Binary JSON) Serialization
+-->
+
+## Articles
 
 Show Hacker News and IH
 * [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
@@ -566,6 +646,13 @@ The Practical Dev and Hackernoon
 * [Hacker Noon](https://hackernoon.com)
 * [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
 
+<!--
+https://www.nature.com/ | Nature
+-->
+
+
+## Tutorials
+
 Python Tutorials
 * [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
 * [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
@@ -573,15 +660,19 @@ Python Tutorials
 Python Articles
 * [The Practical Dev Python](https://dev.to/search?q=python)
 * [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+
 <!--
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
-https://hackernoon.com/tagged/python
-
-https://www.nature.com/ | Nature
+## Trends
 
 https://stackshare.io/featured-posts
 https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
@@ -589,9 +680,9 @@ https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Deve
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+## Must Read
+
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
 
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
 
@@ -600,36 +691,6 @@ https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | Th
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
 
 https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
-
-Dev Cos
-https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
-https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
-https://dev.to/salesforcedevs/
-https://dev.to/heroku/
-
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
--->
-
-
-### Code Challenges
-
-100 Days of Code
-* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
-* [100 Days of Projects](https://100daysofprojects.carrd.co/)
-* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
-* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
-
-
-<!--
-https://github.com/search?p=7&q=django&state=open&type=Issues | Search · django
-
-https://ide.geeksforgeeks.org/ | IDE | GeeksforGeeks | A computer science portal for geeks
-https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/input
-https://adventofcode.com/2020/day/2
 -->
 
 
@@ -645,7 +706,6 @@ Full Stack Python
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
 
 Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
 * [Real Python Materials](https://github.com/realpython/materials)
 * [Real Python Courses](https://realpython.com/courses)
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
@@ -653,6 +713,7 @@ Real Python
 
 Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
+
 
 Simple is Better Than Complex
 * [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
@@ -674,8 +735,23 @@ No Starch
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
 
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
 https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 http://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
 
 Looks great
 https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
@@ -684,31 +760,33 @@ https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitt
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
-
-Python
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-
-https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
 
 <!--
-## Anthony Advice
+Anthony Explains
 
-## Tutorials
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://simpleisbetterthancomplex.com/
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+
+Traversy
+Build a Responsive Website | HTML, CSS Grid, Flexbox & More
+https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
+
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 https://learndjango.com/tutorials/django-best-practices-security
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
 ## Debugging
 
@@ -725,6 +803,7 @@ https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye 
 https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 -->
+
 
 
 ## Learning Resources
@@ -762,66 +841,12 @@ https://www.adobe.com/creativecloud/illustration/discover/vector-art.html
 https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
 
 
-Aaron
-https://github.com/aaronbassett
-https://github.com/aaronbassett/FARM-starter
-https://twitter.com/aaronbassett/status/1381816315980218370
-
-Michael Lynn
-
-Colby Fayock
-https://github.com/colbyfayock
-https://www.youtube.com/colbz/videos
-
-Elastic
-https://www.elastic.co/downloads?storm=on-premise&elektra=cloud-registration
-
-MongoDB
-https://cloud.mongodb.com/v2/607904366640c756aa269354#setup/onboarding
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-Anthony Explains
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w | (4) anthonywritescode - YouTube
-https://www.youtube.com/c/anthonywritescode/videos | anthonywritescode - YouTube
-https://discord.com/invite/xDKGPaW | anthonywritescode
-
-Traversy
-https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
-
-
-Roundup
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-
-Django News
-https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
-
-
-
-https://dev.to/
-
-https://hackernoon.com/tagged/python | #python stories | Hacker Noon
-https://www.fullstackpython.com/ | Full Stack Python
-
-
-Repl.it
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-
 Important
 https://python-patterns.guide/ | Python Design Patterns
 
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
 ## Django
-
-Important
-https://django-news.com/ | Django News
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
 
 Django Builder
 https://djangobuilder.io/
@@ -830,32 +855,15 @@ https://django.doctor/challenge | Django Doctor - Django code improvement bot
 
 https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
 
+
 Mozilla Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Admin_site
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+
+Python
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
 
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-https://simpleisbetterthancomplex.com/
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-https://www.youtube.com/watch?v=PA1AC1vDOfk&feature=emb_logo | How I learned Django so well - YouTube
-
-
-https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 -->
 
 
@@ -1419,16 +1427,6 @@ https://github.com/googlemaps/google-maps-services-python | googlemaps/google-ma
 
 SEO
 https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
-
-MongoDB and Elastic
-https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
-https://www.elastic.co/what-is/elk-stack
-
-Aaron
-https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
-https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
-https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
-http://bsonspec.org/ | BSON (Binary JSON) Serialization
 
 Ionic (Vue)
 https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
