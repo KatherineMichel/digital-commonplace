@@ -459,7 +459,7 @@ https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · Novemb
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
-## News
+## Django and Python News
 
 <!--
 Roundup
@@ -494,27 +494,34 @@ https://adventofcode.com/2020/day/2
 -->
 
 
-## GitHub and VS Code Integration
+## Showcases
 
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
 
 <!--
-https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
 
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
 
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+https://reactnative.dev/showcase | Who's using React Native? · React Native
+https://reactjs.org/community/examples.html
 
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
 
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
-
 
 ## Projects and Demos
 
@@ -534,9 +541,29 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
 https://codepen.io/trending
+-->
+
+
+## Dev Tools
+
+<!--
+https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
 
 GitHub/VS Code
+
+https://blog.repl.it/alwayson
+https://repl.it/templates
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
 
 Repl.it
 https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
@@ -552,23 +579,25 @@ https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
 https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
 -->
 
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
 <!--
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
 
-https://blog.repl.it/global | Repl.it - Going Global
-https://repl.it/talk/
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
 
-https://blog.repl.it/alwayson
-https://repl.it/templates
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
 
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
 
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
 -->
 
 
@@ -593,7 +622,16 @@ Playgrounds
 * [Repl.it Blog](https://blog.repl.it/)
 * [CodePen Blog](https://blog.codepen.io/)
 
+Databases
+* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
+* [CouchDB Blog](https://blog.couchbase.com/)
+* [Elastic Blog](https://www.elastic.co/blog/)
+* [MongoDB Blog](https://www.mongodb.com/blog)
+
 <!--
+Forum
+https://repl.it/talk/
+
 Dev Cos
 https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
 https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
@@ -606,6 +644,25 @@ https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twi
 https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
 
 https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+-->
+
+<!--
+https://oo.t9t.io/organizations | Open companies
+
+Couchbase
+https://github.com/couchbase | couchbase
+https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
+
+https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
+https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+
+Michael Lynn
+https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
+
+https://www.mongodb.com/resources
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
+https://mongodb.libsyn.com/ | The MongoDB Podcast
 -->
 
 <!--
@@ -622,10 +679,6 @@ Colby Fayock
 https://github.com/colbyfayock
 https://www.youtube.com/colbz/videos
 
-Dashboards
-https://cloud.mongodb.com/v2/607904366640c756aa269354#setup/onboarding
-https://www.elastic.co/downloads?storm=on-premise&elektra=cloud-registration
-
 Elastic
 https://www.elastic.co/what-is/elk-stack
 
@@ -634,6 +687,7 @@ https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Data
 https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
 http://bsonspec.org/ | BSON (Binary JSON) Serialization
 -->
+
 
 ## Articles
 
@@ -715,18 +769,15 @@ Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
 
 
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
 Data Science Articles and Tutorials
 * [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
 * [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-Stack Overflow
-* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 <!--
 https://blog.jetbrains.com/pycharm/
@@ -764,20 +815,12 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 
 
 <!--
-Anthony Explains
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://simpleisbetterthancomplex.com/
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-
 Traversy
 Build a Responsive Website | HTML, CSS Grid, Flexbox & More
 https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
 
+
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 Python Application Layouts
 https://realpython.com/python-application-layouts/
@@ -787,6 +830,19 @@ http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 https://learndjango.com/tutorials/django-best-practices-security
+
+
+Anthony Explains
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+Pass by value versus pass by reference
+https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
+http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
 
 ## Debugging
 
@@ -853,17 +909,16 @@ https://djangobuilder.io/
 
 https://django.doctor/challenge | Django Doctor - Django code improvement bot
 
+
 https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
 
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 
 Mozilla Django
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
 
 Python
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 -->
 
 
@@ -927,36 +982,6 @@ HTML5 Boilerplate
 https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
 
 https://moderntemplate.site/ | HTML Template
--->
-
-
-## Showcases
-
-Python- Django- Sites
-* [Django Sites](https://www.djangosites.org/with-source) 
-* [Python 2 Sites](http://python2sites.com)
-
-Built With
-* [React Showcase](https://madewithreactjs.com/)
-* [Made with React](http://madewithreact.com)
-* [React Native Showcase](https://reactnative.dev/showcase.html)
-* [Vue Showcase](https://madewithvuejs.com/)
-
-<!--
-https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-https://web.archive.org/web/20200407235333/https://pwa.rocks/
-
-https://reactnative.dev/showcase | Who's using React Native? · React Native
-https://reactjs.org/community/examples.html
-
-* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
-* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
-
-https://madewithreactnative.com/
-
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
 
@@ -1961,31 +1986,6 @@ https://uxplanet.org/mobile-ux-design-the-right-ways-to-ask-users-for-permission
 Container
 * [Docker Blog](https://www.docker.com/blog/)
 * [Kubernetes Blog](https://kubernetes.io/blog/)
-
-Databases
-* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
-* [CouchDB Blog](https://blog.couchbase.com/)
-* [Elastic Blog](https://www.elastic.co/blog/)
-* [MongoDB Blog](https://www.mongodb.com/blog)
-
-<!--
-https://oo.t9t.io/organizations | Open companies
-
-Couchbase
-https://github.com/couchbase | couchbase
-https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
-
-https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
-https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
-
-Michael Lynn
-https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
-
-https://www.mongodb.com/resources
-https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
-https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
-https://mongodb.libsyn.com/ | The MongoDB Podcast
--->
 
 ## Host
 
