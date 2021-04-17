@@ -1,9 +1,8 @@
 # Python and Django Learning Resources
 
 <!--
-Pass by value versus pass by reference
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-http://purplediane.github.io/python/2017/05/14/variables-and-references.html
+Stack Overflow
+* [Stack Overflow Highest Voted Questions](https://stackoverflow.com/questions)
 
 https://hynek.me/articles/waiting-in-asyncio/ | Waiting in asyncio · Homepage of Hynek Schlawack
 
