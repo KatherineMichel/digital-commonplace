@@ -1,5 +1,63 @@
 # Projects
 
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+https://www.nature.com/ | Nature
+-->
+
+## Git News
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+## GitHub Must Read
+
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
+
+### 100 Something
+
+100 Days of Code
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
+* [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
+
+
+
 ## Ongoing Projects
 
 <!--
@@ -283,6 +341,50 @@ React
 https://github.com/nice-boys/product-boilerplate
 -->
 
+
+## Great Demos
+
+<!--
+https://github.com/pinax
+https://github.com/pinax/pinax-templates
+
+https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
+https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+https://djangoforprofessionals.com/ | Django for Professionals
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+
+Node/Django
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+https://github.com/DrkSephy/django-hackathon-starter
+-->
+
+<!--
+https://github.com/feldroy | Feldroy
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+-->
+
+
 <!--
 ## Websites
 
@@ -311,64 +413,6 @@ https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "p
 Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
-
-
-
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-https://www.nature.com/ | Nature
--->
-
-## Git News
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-## GitHub Must Read
-
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
--->
-
-### 100 Something
-
-100 Days of Code
-* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
-* [100 Days of Projects](https://100daysofprojects.carrd.co/)
-* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
-* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
 
 
 
@@ -529,16 +573,67 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
+
+
+## Learning Resources
+
 <!--
+Anthony Explains
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+General
+
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
+
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+-->
+
+
+
+<!--
+https://github.com/mjhea0/awesome-flask
+
 https://aws.amazon.com/
 https://www.heroku.com/
 https://pypi.org/
+
 https://vercel.com/
+https://vercel.com/docs/cli
+https://vercel.com/solutions/nextjs
+https://vercel.com/solutions/react
+https://vercel.com/new/templates
+
+https://www.netlify.com/
+https://docs.netlify.com/cli/get-started/
+https://www.netlify.com/github-pages-vs-netlify/
+https://en.wikipedia.org/wiki/A/B_testing
+
+https://firebase.google.com/
 
 https://github.com/features/actions
 
+Pages
+https://docs.gitlab.com/ee/user/project/pages/
+
 https://glitch.com/
+
 https://replit.com/
+https://repl.it/templates
+
 https://codepen.io/
 
 https://stylestage.dev/styles/
@@ -601,7 +696,6 @@ https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%
 GitHub/VS Code
 
 https://blog.repl.it/alwayson
-https://repl.it/templates
 https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
 https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
 
@@ -774,9 +868,7 @@ https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on G
 
 https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
 
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-1meo | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-14od | The 7 Most Popular DEV Posts from the Past Week
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-253c | The 7 Most Popular DEV Posts from the Past Week
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
 
 https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 -->
@@ -847,13 +939,7 @@ https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
 
-
 <!--
-Traversy
-Build a Responsive Website | HTML, CSS Grid, Flexbox & More
-https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
-
-
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
 
 Python Application Layouts
@@ -865,16 +951,32 @@ http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
 https://learndjango.com/tutorials/django-best-practices-security
 
-
-Anthony Explains
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
 Pass by value versus pass by reference
 https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
 
 
+Important
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+## Django
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+-->
+
+
+<!--
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 
 ## Debugging
 
@@ -897,103 +999,15 @@ https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 -->
 
-
-
-## Learning Resources
-
 <!--
-General
+## Tools
 
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-Articles
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
-
+Traversy
+Build a Responsive Website | HTML, CSS Grid, Flexbox & More
+https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
 
 Important
 https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
-
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
-https://github.com/mjhea0/awesome-flask
-
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
-
-
-Important
-https://python-patterns.guide/ | Python Design Patterns
-
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-## Django
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
--->
-
-
-## Great Demos
-
-<!--
-https://github.com/pinax
-https://github.com/pinax/pinax-templates
-
-https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-https://djangoforprofessionals.com/ | Django for Professionals
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-Node/Django
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-https://github.com/DrkSephy/django-hackathon-starter
--->
-
-<!--
-https://github.com/feldroy | Feldroy
-https://github.com/audreyfeldroy/cookiecutter-pypackage
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
--->
-
-
-<!--
-## Tools
 
 Accessibility
 https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
