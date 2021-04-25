@@ -3,10 +3,18 @@
 ## Ongoing Projects
 
 <!--
+https://lofi.cafe/
 https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
 https://coderadio.freecodecamp.org/
 
 https://www.google.com/search?q=chillhop&oq=chillhop&aqs=chrome..69i57j46i433j0l3j46l2j0j46j0.1411j0j7&sourceid=chrome&ie=UTF-8
+-->
+
+<!--
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 
 
 Site Examples
@@ -18,11 +26,6 @@ Jekyll Themes
 
 Jekyll
 https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
-
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
 -->
 
 <!--
@@ -847,8 +850,6 @@ https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a funct
 http://purplediane.github.io/python/2017/05/14/variables-and-references.html
 
 
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
 
 ## Debugging
 
@@ -856,6 +857,11 @@ Python Debugging
 https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
 https://pypi.org/project/ipdb/
 https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+
+Debugger
+https://www.youtube.com/watch?v=5AYIe-3cD-s
+https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
 
 Good Print, hello debugger, DjangoCon
 https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
@@ -872,8 +878,6 @@ https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Sk
 
 <!--
 General
-
-https://github.com/KatherineMichel/projects/blob/main/to-watch-or-read.md
 
 https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
 
@@ -902,17 +906,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_t
 https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 
 
-DOM Visualization
-
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
-
-
-Vector Art
-https://www.adobe.com/creativecloud/illustration/discover/vector-art.html
-
-https://docs.emmet.io/cheat-sheet/ | Cheat Sheet
-
-
 Important
 https://python-patterns.guide/ | Python Design Patterns
 
@@ -920,20 +913,13 @@ https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-o
 
 ## Django
 
-Django Builder
-https://djangobuilder.io/
-
-https://django.doctor/challenge | Django Doctor - Django code improvement bot
-
-
+Django Tutorials
 https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-
-Mozilla Django
 https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
-Python
+Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 -->
 
@@ -1521,6 +1507,7 @@ https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django 
 
 https://jasmine.github.io/ | Jasmine Documentation
 -->
+
 
 ## HTML, CSS, JavaScript
 
