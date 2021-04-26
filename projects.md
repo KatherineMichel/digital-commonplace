@@ -609,13 +609,13 @@ https://github.com/mjhea0/awesome-flask
 
 https://aws.amazon.com/
 https://www.heroku.com/
+
 https://pypi.org/
+https://packaging.python.org/tutorials/packaging-projects/
+https://realpython.com/pypi-publish-python-package/
 
 https://vercel.com/
 https://vercel.com/docs/cli
-https://vercel.com/solutions/nextjs
-https://vercel.com/solutions/react
-https://vercel.com/new/templates
 
 https://www.netlify.com/
 https://docs.netlify.com/cli/get-started/
@@ -630,10 +630,21 @@ Pages
 https://docs.gitlab.com/ee/user/project/pages/
 
 https://glitch.com/
+https://help.glitch.com/home/
+https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
+https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
 
-https://replit.com/
-https://repl.it/templates
+Getting Started
+https://help.glitch.com/kb/section/2/
 
+Project Editor
+https://help.glitch.com/kb/section/7/
+
+Sharing
+https://help.glitch.com/kb/section/9/
+-->
+
+<!--
 https://codepen.io/
 
 https://stylestage.dev/styles/
@@ -658,7 +669,7 @@ https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jek
 -->
 
 
-## Projects and Demos
+## Dev Tools, Projects, and Demos
 
 Fun Stuff
 * [Glitch Websites](https://glitch.com/@websites)
@@ -676,16 +687,17 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
+Important
+https://templates.netlify.com/
+
+
+https://vercel.com/new/templates
+https://vercel.com/solutions/nextjs
+https://vercel.com/solutions/react
+
 
 https://codepen.io/trending
--->
 
-
-## Dev Tools
-
-<!--
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
 
 https://glitch.com/culture/website-starter-kit/
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
@@ -693,14 +705,48 @@ https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 https://glitch.dev/ | Using Glitch for Developer Relations
 https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
 
-GitHub/VS Code
 
-https://blog.repl.it/alwayson
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
-Repl.it
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+Collections
+https://help.glitch.com/kb/article/4-what-are-collections/
+Find a Collection
+https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
+
+Glitch Team Faves
+https://glitch.com/@glitch/glitch-team-faves
+
+
+Databases
+https://glitch.com/@storage
+https://glitch.com/~sqlite3-db
+https://glitch.com/~mongodb
+
+Important
+https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
+https://glitch.com/create
+Classic Website
+Node.js
+React Static Site Generator
+Eleventy Static Site Generator
+https://help.glitch.com/kb/article/38-what-types-of-apps-can-i-make-on-glitch/
+
+Starter Project stuff
+https://glitch.com/~glitch-hello-eleventy
+https://help.glitch.com/kb/article/111-what-is-eleventy-11ty-and-how-can-i-use-it-on-glitch/
+https://glitch.com/~glitch-hello-react
+https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and-how-can-i-use-it-on-glitch/
+https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
+https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
+
+
+Important
+https://repl.it/templates
+https://replit.com/@templates/Django-App-Template
+https://replit.com/@templates/Multi-Page-Flask-Template
+https://replit.com/@templates/Create-React-App
+https://replit.com/@templates/react-express-template
+https://replit.com/@templates/Python-Processing-Template
 
 https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
 https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
@@ -711,7 +757,21 @@ For Fun
 https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
 https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
 https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
+
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
 -->
+
+<!--
+https://colab.research.google.com/
+https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+
+GitHub/VS Code
+
+https://blog.repl.it/alwayson
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+-->
+
 
 ## GitHub and VS Code Integration
 
