@@ -573,39 +573,16 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
-
-
-## Learning Resources
-
 <!--
-Anthony Explains
+https://web.dev/discoverable/
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
 
-
-General
-
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-
-https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
-
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
--->
-
-
-
-<!--
 https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
 
 https://aws.amazon.com/
 https://www.heroku.com/
@@ -647,6 +624,32 @@ https://help.glitch.com/kb/section/9/
 -->
 
 <!--
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
+Django/Tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+Tailwind Installation Guides
+https://tailwindcss.com/docs/installation
+
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+https://tailwindcss.com/docs/guides/nextjs
+https://tailwindcss.com/docs/guides/create-react-app
+
+Tailwind Play Screencast
+https://twitter.com/adamwathan/status/1313826345374416896
+-->
+
+<!--
 https://codepen.io/
 
 https://stylestage.dev/styles/
@@ -670,6 +673,42 @@ Jekyll
 https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 -->
 
+<!--
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+<!--
+Node Tutorials
+
+https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
 
 ## Dev Tools, Projects, and Demos
 
@@ -691,7 +730,35 @@ CodePen
 <!--
 https://codepen.io/trending
 
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
 
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://reactjs.org/docs/dom-elements.html | DOM Elements – React
+
+https://reactjs.org/community/examples.html
+
+Easy to Maintain
+npm install react-scripts@latest
+https://create-react-app.dev/
+
+Recommended Toolchains
+https://reactjs.org/docs/create-a-new-react-app.html#recommended-toolchains
+If you’re learning React or creating a new single-page app, use Create React App.
+https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+If you’re building a server-rendered website with Node.js, try Next.js.
+If you’re building a static content-oriented website, try Gatsby.
+https://www.gatsbyjs.com/starters/
+
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
+-->
+
+
+<!--
 Important
 https://templates.netlify.com/
 
@@ -700,7 +767,13 @@ https://vercel.com/new/templates
 https://vercel.com/solutions/nextjs
 https://vercel.com/solutions/react
 
+Next.js
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+-->
 
+<!--
 Example Apps
 
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
@@ -722,7 +795,7 @@ https://glitch.com/@glitch/hardware
 https://glitch.com/@glitch/building-blocks
 https://glitch.com/@glitch/learn-to-code
 
-https://glitch.com/culture/website-starter-kit/
+https://blog.glitch.com/post/website-starter-kit
 https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
 
 https://glitch.dev/ | Using Glitch for Developer Relations
@@ -754,6 +827,19 @@ https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and
 https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
 https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
 
+https://glitch.com/~glitch-hello-node
+https://glitch.com/~glitch-hello-express
+https://glitch.com/~glitch-hello-svelte
+
+https://glitch.com/@slack
+https://glitch.com/@spotify
+https://glitch.com/@twitchdev
+https://glitch.com/@trello
+https://glitch.com/@material
+-->
+
+<!--
+https://blog.repl.it/database | Repl.it - A database for every repl
 
 Important
 https://repl.it/templates
@@ -1046,6 +1132,34 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
 Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+-->
+
+
+## Learning Resources
+
+<!--
+Anthony Explains
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+General
+
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
+
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 -->
 
 
@@ -1460,10 +1574,6 @@ Django GitHub
 * [Django GitHub](https://github.com/django/django)
 
 <!--
-Flask
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
 https://plone.org/
 -->
 
@@ -1663,13 +1773,20 @@ https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
 
+
 ### Deploy
 
-Hawt- Web
+Netlify
 * [Netlify](https://www.netlify.com) and [Netlify GitHub](https://github.com/netlify)
 * [Netlify Features](https://www.netlify.com/features/)
+
+Netlify CMS
+* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+
+Vercel
 * [Vercel](https://vercel.com/) and [Vercel GitHub](https://github.com/vercel)
 * [Vercel Zero Config](https://vercel.com/blog/zero-config)
+
 
 <!--
 Digital Ocean- Deployment
@@ -1696,23 +1813,16 @@ https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
 https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
 -->
 
-### Goodies
 
-* [Netlify CMS](https://www.netlifycms.org/) and [Netlify CMS GitHub](https://github.com/netlify/netlify-cms )
+
+### Jekyll
 
 <!--
-https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
-
-https://blog.repl.it/database | Repl.it - A database for every repl
-
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
-
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
 -->
 
-### JavaScript- Using
+### JavaScript- Node/Express
 
 Node, Express (based on Sinatra), and Passport
 * [Node.js](http://nodejs.org), [Node Docs](https://nodejs.org/en/docs), [Node API](http://nodejs.org/api), [Node Guides](https://nodejs.org/en/docs/guides), and [Node GitHub](https://github.com/nodejs/node)
@@ -1723,50 +1833,51 @@ Express Tutorials
 * [Mozilla Express Tutorial](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs)
 * [Express Generator](https://expressjs.com/en/starter/generator.html)
 
+## JavaScript- React
+
 React
 * [React](https://reactjs.org), [React Docs](https://reactjs.org/docs), [React Glossary](https://reactjs.org/docs/glossary.html), [Facebook React GitHub](https://github.com/facebook/react) 
+
+Create React App (For beginners or SPA)
+* [Create React App GitHub](https://github.com/facebook/create-react-app)
+
+<!--
+https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
+
+https://github.com/react-cosmos/create-react-app-example
+-->
+
+React/Node
+* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
+
+<!--
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+
+https://github.com/nextauthjs/next-auth | nextauthjs/next-auth: Authentication for Next.js
+-->
+
+React/Static
+* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
+
+
+## React Stuff
 
 JSX (Syntax Extension; React)
 * [JSX](https://jsx.github.io) and [JSX GitHub](https://github.com/jsx/JSX)
 * [Facebook JSX](https://facebook.github.io/jsx) and [Facebook JSX in Depth](https://reactjs.org/docs/jsx-in-depth.html)
 * [React Introducing JSX](https://reactjs.org/docs/introducing-jsx.html)
 
-React Frameworks
-* [Next (React)](https://nextjs.org) and [Next (React) GitHub](https://github.com/vercel/next.js)
-* [Gatsby](https://www.gatsbyjs.org/) and [Gatsby GitHub](https://github.com/gatsbyjs/gatsby)
-
-Create React App
-* [Create React App GitHub](https://github.com/facebook/create-react-app)
-
 Webpack (Bundler)
 * [Webpack](https://webpack.js.org), [Webpack Concepts](https://webpack.js.org/concepts), and [Webpack GitHub](https://github.com/webpack/webpack)
 
 <!--
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-
 Next (React) and Nuxt (Vue)
 
 JSX in your Markdown documents
 https://twitter.com/mdx_js
 https://mdxjs.com/
 
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-### PWA
-
-Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
-
 ### React
-
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-https://reactjs.org/docs/dom-elements.html | DOM Elements – React
-
-https://vercel.com/solutions/react | React - Solutions – Vercel
-
-https://reactjs.org/community/examples.html | Example Projects – React
 
 React Server Components
 https://github.com/reactjs/server-components-demo | reactjs/server-components-demo: Demo app of React Server Components.
@@ -1775,16 +1886,9 @@ https://twitter.com/shuding_/status/1343589891335094292 | Shu on Twitter: "I ref
 https://twitter.com/biilmann/status/1341921676947177472 | Matt Biilmann on Twitter: "Been playing around with React server components and put together a demo on Netlify. It's much more barebones than @sugarpirate_'s full demo, and I hope that it'll be a good starting point for others. Demo: https://t.co/WYxhwxGxNb Source code: https://t.co/KCQbNmzZlt" / Twitter
 https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twitter: "I want to recap a few points from our talk about the different kinds of components. All of these points are in the talk and the RFC linked from the post, so I suggest to check them out first for the context! This thread is only a recap. 🧵 https://t.co/nxygJVd7PO" / Twitter
 
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-
 Storybook
 https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-
-Next.js
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
 
 ### WASM
 
@@ -1794,44 +1898,6 @@ https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very c
 
 https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 -->
-
-
-<!--
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
-
-<!--
-Node Tutorials
-
-https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
 
 ### JAMStack
 
@@ -1852,6 +1918,8 @@ Static Site Generators
 * [11ty](https://www.11ty.dev/)
 
 <!--
+https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
+
 Alpine
 https://github.com/alpinejs/alpine
 https://noumenal.es/notes/til/alpine.js/getting-started/
@@ -1913,6 +1981,7 @@ https://www.udacity.com/course/intro-to-progressive-web-apps--ud811
 http://blog.ionic.io/what-is-a-progressive-web-app
 -->
 
+
 ### Mobile Optimized
 
 Facebook- React Native
@@ -1960,6 +2029,11 @@ CSS
 * [Bootstrap](https://getbootstrap.com/)
 
 <!--
+https://github.com/tailwindadmin/admin | tailwindadmin/admin: admin panel template built on tailwind css
+
+https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
+https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
+
 Hotwire
 https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
 https://twitter.com/dhh/status/1341420143239450624 | DHH on Twitter: "Hotwire aka NEW MAGIC is finally here: An alternative approach to building modern web applications without using much JavaScript by sending HTML instead of JSON over the wire. This includes our brand-new Turbo framework and pairs with Stimulus 2.0 😍🎉🥂 https://t.co/Pa4EG8Av5E" / Twitter
@@ -1980,28 +2054,9 @@ https://tailwindcss.com/docs/utility-first | Utility-First - Tailwind CSS
 https://adamwathan.me/css-utility-classes-and-separation-of-concerns/ | CSS Utility Classes and "Separation of Concerns"
 https://bulma.io/ | Bulma: Free, open source, and modern CSS framework based on Flexbox
 
-Django/Tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
 Tailwind Tutorials
 https://www.youtube.com/adamwathan/live | Tailwind Live - YouTube
 https://www.youtube.com/watch?v=u2jiRjyUbwA&feature=youtu.be&t=90 | Rebuilding Allbirds.com with Tailwind CSS - YouTube
-
-Tailwind Installation Guides
-https://tailwindcss.com/docs/installation
-https://tailwindcss.com/docs/guides/nextjs
-https://tailwindcss.com/docs/guides/create-react-app
-
-https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
-https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
 
 https://dribbble.com/shots/10183487-Tailwind-UI | Tailwind UI by Steve Schoger on Dribbble
 https://tailwindui.com/ | Tailwind UI - Official Tailwind CSS Components
@@ -2012,8 +2067,12 @@ https://play.tailwindcss.com/ | Tailwind Play
 https://tailwind.build/ | Tailwind Builder | Create Tailwind templates in minutes
 https://heroicons.com/ | Heroicons
 
-Play Screencast
-https://twitter.com/adamwathan/status/1313826345374416896
+https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
+https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
+
+https://tailwindcss.com/docs/flex | Flex - Tailwind CSS
+https://tailwindcss.com/docs/customizing-colors | Customizing Colors - Tailwind CSS
 -->
 
 
@@ -2026,17 +2085,8 @@ https://tailwindcss.com/docs/screen-readers | Screen Readers - Tailwind CSS
 Tailwind Access
 https://github.com/jack-pallot/tailwindcss-accessibility | jack-pallot/tailwindcss-accessibility: A Tailwind CSS plugin that adds additional functionality to help improve accessibility.
 
-
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
 @tailwindui Figma Kit
 https://twitter.com/itsMeBennyB/status/1361828636391739397 | Benny Bowden 🚀 on Twitter: "Once again, the @tailwindlabs team knocks it out of the park with the @tailwindui Figma Kit! 🥳 Appreciate that you take care to do things the right way. Our dev team isn't going to know what hit them! 😏 https://t.co/zxHo0f5xpm" / Twitter
-
-Tailwind
-https://github.com/tailwindlabs/tailwindcss-typography | tailwindlabs/tailwindcss-typography
-https://github.com/tailwindlabs/headlessui | tailwindlabs/headlessui: Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
-https://github.com/tailwindlabs/headlessui/blob/develop/packages/%40headlessui-react/README.md | headlessui/README.md at develop · tailwindlabs/headlessui
 
 Tailwind UI-PostHTML
 https://github.com/posthtml/posthtml | posthtml/posthtml: PostHTML is a tool to transform HTML/XML with JS plugins
@@ -2051,17 +2101,6 @@ https://github.com/joseph-walker/tailwind-styleguide | joseph-walker/tailwind-st
 
 
 <!--
-https://github.com/ekatzenstein/create-react-app-fullstack#references-and-props | ekatzenstein/create-react-app-fullstack: Use create-react-app as a full-stack tool, with Express and Sequelize (PostgreSQL)
-
-
-https://svelte.dev/blog/sveltekit-beta | SvelteKit is in public beta
-https://twitter.com/webology/status/1371546164080807946 | Jeff Triplett 😷 on Twitter: "👀" / Twitter
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-https://www.netlify.com/blog/2021/03/23/from-semantic-css-to-tailwind-refactoring-the-netlify-ui-codebase/ | From semantic CSS to Tailwind - Refactoring the Netlify UI codebase
-
-
-https://web.dev/discoverable/
-
 ## Next
 
 Brian
@@ -2072,8 +2111,8 @@ https://github.com/pacocoursey/next-themes | pacocoursey/next-themes: Perfect Ne
 
 Good
 https://twitter.com/_ericelliott/status/1268709211103469568 | Eric Elliott on Twitter: "My current favorite app stack: * Next.js deployed on Vercel * React/Redux/Redux-Saga * PWA over native mobile * RITEWay unit tests * TestCafe functional tests * @magic_labs auth * Firebase db" / Twitter
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
 https://twitter.com/_ericelliott/status/1268767132176707584 | Eric Elliott on Twitter: "@DrummerVsDrums @magic_labs Follow the Next.JS getting started guide. Then read https://t.co/BK1yYWQz1k and https://t.co/3sYnpQHgrm" / Twitter
+https://medium.com/javascript-scene/unit-testing-react-components-aeda9a44aae2
 
 ## React
 
