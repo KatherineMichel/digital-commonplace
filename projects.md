@@ -619,6 +619,8 @@ https://vercel.com/docs/cli
 
 https://www.netlify.com/
 https://docs.netlify.com/cli/get-started/
+https://www.netlifycms.org/docs/start-with-a-template/
+
 https://www.netlify.com/github-pages-vs-netlify/
 https://en.wikipedia.org/wiki/A/B_testing
 
@@ -687,6 +689,9 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
+https://codepen.io/trending
+
+
 Important
 https://templates.netlify.com/
 
@@ -696,15 +701,7 @@ https://vercel.com/solutions/nextjs
 https://vercel.com/solutions/react
 
 
-https://codepen.io/trending
-
-
-https://glitch.com/culture/website-starter-kit/
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-
+Example Apps
 
 https://glitch.com/culture/looky-what-we-made | Looky What We Made
 
@@ -716,11 +713,29 @@ https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glit
 Glitch Team Faves
 https://glitch.com/@glitch/glitch-team-faves
 
+https://glitch.com/@glitch/games
+https://glitch.com/@glitch/bots
+https://glitch.com/@glitch/music
+https://glitch.com/@glitch/art
+https://glitch.com/@glitch/tools-for-work
+https://glitch.com/@glitch/hardware
+https://glitch.com/@glitch/building-blocks
+https://glitch.com/@glitch/learn-to-code
+
+https://glitch.com/culture/website-starter-kit/
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+
 
 Databases
 https://glitch.com/@storage
 https://glitch.com/~sqlite3-db
 https://glitch.com/~mongodb
+
+Look through
+https://glitch.com/@glitch
 
 Important
 https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
