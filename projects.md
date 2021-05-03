@@ -30,6 +30,29 @@ The Practical Dev and Hackernoon
 https://www.nature.com/ | Nature
 -->
 
+<!--
+## Trends
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+## Must Read
+
+Montly Repls
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
+https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
+-->
+
 ## Git News
 
 GitHub
@@ -56,6 +79,35 @@ https://github.com/blog/2445-release-radar-november-2017 | Release Radar · Nove
 * [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
 * [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
 
+
+<!--
+## Websites
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
+
+Nice site!
+https://github.com/nodejs/nodejs.dev
+https://github.com/yarnpkg/website
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+-->
 
 
 ## Ongoing Projects
@@ -211,6 +263,7 @@ https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQ
 
 https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
 -->
+
 
 
 ## Python Package Templates
@@ -385,36 +438,6 @@ https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A comm
 -->
 
 
-<!--
-## Websites
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-https://github.com/yarnpkg/website
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
-
 
 ## Coding Challenges
 
@@ -573,16 +596,27 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 -->
 
 
+
 <!--
 https://web.dev/discoverable/
 
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+https://realpython.com/intermediate-python-project-ideas/
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
 
 https://github.com/mjhea0/awesome-flask
 https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
 
 https://aws.amazon.com/
 https://www.heroku.com/
@@ -707,6 +741,34 @@ https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
 
 Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+
+## Learning Resources
+
+<!--
+Anthony Explains
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+General
+
+https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
+
+
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
+
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 -->
 
 
@@ -1008,30 +1070,11 @@ Real Python
 * [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
 
 <!--
+https://dev.to/t/python
+
 https://www.digitalocean.com/community/tags/python
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
-
-## Trends
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-## Must Read
-
-Montly Repls
-https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
-
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 -->
 
 
@@ -1101,12 +1144,6 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 -->
 
 <!--
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
 https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
@@ -1132,34 +1169,6 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
 Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
--->
-
-
-## Learning Resources
-
-<!--
-Anthony Explains
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-General
-
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-
-https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
-
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 -->
 
 
