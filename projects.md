@@ -270,6 +270,9 @@ Docs
 
 https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
+https://github.com/wemake-services/wemake-python-styleguide
+https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
+
 Divio
 https://docs.divio.com/en/latest/introduction/django/
 https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
@@ -308,51 +311,6 @@ React
 https://github.com/nice-boys/product-boilerplate
 -->
 
-
-## Django Tutorials and Templates
-
-<!--
-Django Templates
-
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
-
-https://github.com/sixfeetup/cookiecutter-sixiedjango
-
-https://github.com/caktus/django-project-template
-
-https://github.com/20tab/django-continuous-delivery
-
-https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
-https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
-
-https://github.com/jpadilla/django-project-template
-https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
-https://jpadilla.github.io/django-project-template/
-
-
-Deprecated
-https://github.com/jpadilla/django-rest-framework-jwt
-https://github.com/jpadilla/django-rest-framework-jwt/issues/484
-
-
-https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
-https://wemake-django-template.readthedocs.io/en/latest/
-
-https://github.com/wemake-services/wemake-python-styleguide
-https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
-
-
-Cookiecutter
-https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
-wemake-services/dotenv-linter - Google Search
-https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
-
-https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
--->
-
-
 <!--
 Demos and Boilerplates
 
@@ -368,6 +326,34 @@ https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/
 https://github.com/gothinkster/django-realworld-example-app
 https://thinkster.io/tutorials/django-json-api
 https://github.com/gothinkster/flask-realworld-example-app
+-->
+
+
+## Django Tutorials and Templates
+
+<!--
+Django Templates
+
+Cookiecutter
+https://github.com/sixfeetup/cookiecutter-sixiedjango
+https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
+
+
+https://github.com/caktus/django-project-template
+
+https://github.com/20tab/django-continuous-delivery
+
+https://github.com/jpadilla/django-project-template
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://jpadilla.github.io/django-project-template/
+
+
+https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
+https://wemake-django-template.readthedocs.io/en/latest/
+
+Cookiecutter
+wemake-services/dotenv-linter - Google Search
+https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
 -->
 
 
@@ -395,6 +381,13 @@ https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: 
 
 https://wsvincent.com/books/ | Books - William Vincent
 https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+
+
+DRF
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
 
 Node/Django
 Hackathon Starters
@@ -428,18 +421,29 @@ https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitt
 https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
 
 https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
-
-Not updated in a very long time
-Heroku and Python/Django
-https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
 -->
 
 ## Python Package Templates
 
 <!--
+https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
+
 Python Projects and Packages
 https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
 https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+-->
+
+<!--
+https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
+
+Not updated in a very long time
+Heroku and Python/Django
+https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+
+Deprecated
+https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
+https://github.com/jpadilla/django-rest-framework-jwt
+https://github.com/jpadilla/django-rest-framework-jwt/issues/484
 -->
 
 <!--
