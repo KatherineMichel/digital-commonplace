@@ -1563,6 +1563,24 @@ https://docs.python.org/3/library/sysconfig.html
 https://docs.python.org/3/library/shutil.html
 
 
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+
+
 ## Tutorial
 
 3. An Informal Introduction to Python
@@ -1608,34 +1626,6 @@ https://docs.python.org/3/library/datetime.html
 https://docs.python.org/3/library/calendar.html
 
 
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-https://docs.python.org/3/library/array.html#module-array
-https://docs.python.org/3/library/array.html#array.array
-https://docs.python.org/3/library/collections.html#module-collections
-https://docs.python.org/3/library/collections.html#collections.deque
-https://docs.python.org/3/library/bisect.html#module-bisect
-https://docs.python.org/3/library/heapq.html#module-heapq
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
-
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://requests.readthedocs.io/en/master/
-https://requests.readthedocs.io/en/master/#beloved-features
-
-
-10.5. String Pattern Matching
-https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
 
 10.2. File Wildcards
 https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
@@ -1644,10 +1634,50 @@ https://docs.python.org/3/library/glob.html
 https://docs.python.org/3/library/fnmatch.html
 
 
+https://docs.python.org/3/library/http.html#http-status-codes
+
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/#beloved-features
+
+
+Scraping
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+
+
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+Regular Expression HOWTO
+https://docs.python.org/3/howto/regex.html
+
+6.2. re — Regular expression operations
+https://docs.python.org/3/library/re.html#regular-expression-syntax
+https://docs.python.org/3/library/re.html#module-contents
+https://docs.python.org/3/library/re.html#regular-expression-objects
+https://docs.python.org/3/library/re.html#match-objects
+https://docs.python.org/3/library/re.html#regular-expression-examples
+https://docs.python.org/3/library/re.html#checking-for-a-pair
+https://docs.python.org/3/library/re.html#simulating-scanf
+https://docs.python.org/3/library/re.html#search-vs-match
+https://docs.python.org/3/library/re.html#making-a-phonebook
+https://docs.python.org/3/library/re.html#text-munging
+https://docs.python.org/3/library/re.html#finding-all-adverbs
+https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
+https://docs.python.org/3/library/re.html#raw-string-notation
+https://docs.python.org/3/library/re.html#writing-a-tokenizer
+
+
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+https://www.sqlite.org/index.html
+https://docs.python.org/3/library/sqlite3.html
+
+
 10.12. Batteries Included
 https://docs.python.org/3/library/json.html#module-json
 https://docs.python.org/3/library/csv.html#module-csv
-https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
 14.1. csv — CSV File Reading and Writing
 https://docs.python.org/3/library/csv.html
@@ -1656,8 +1686,6 @@ https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
 https://docs.python.org/3/library/csv.html#reader-objects
 https://docs.python.org/3/library/csv.html#writer-objects
 https://docs.python.org/3/library/csv.html#examples
-
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
 
 21. Internet Protocols and Support
 
@@ -1752,32 +1780,9 @@ https://docs.python.org/3/library/argparse.html#intermixed-parsing
 https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
 
 
-Regular Expression HOWTO
-https://docs.python.org/3/howto/regex.html
-
-6.2. re — Regular expression operations
-https://docs.python.org/3/library/re.html#regular-expression-syntax
-https://docs.python.org/3/library/re.html#module-contents
-https://docs.python.org/3/library/re.html#regular-expression-objects
-https://docs.python.org/3/library/re.html#match-objects
-https://docs.python.org/3/library/re.html#regular-expression-examples
-https://docs.python.org/3/library/re.html#checking-for-a-pair
-https://docs.python.org/3/library/re.html#simulating-scanf
-https://docs.python.org/3/library/re.html#search-vs-match
-https://docs.python.org/3/library/re.html#making-a-phonebook
-https://docs.python.org/3/library/re.html#text-munging
-https://docs.python.org/3/library/re.html#finding-all-adverbs
-https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
-https://docs.python.org/3/library/re.html#raw-string-notation
-https://docs.python.org/3/library/re.html#writing-a-tokenizer
-
-
 Unicode HOWTO
 https://docs.python.org/3/howto/unicode.html
 
-
-https://www.sqlite.org/index.html
-https://docs.python.org/3/library/sqlite3.html
 
 https://docs.python.org/3/library/cgi.html
 https://docs.python.org/3/library/wsgiref.html
@@ -1823,6 +1828,7 @@ https://docs.python.org/3/library/http.server.html
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
 -->
+
 
 
 ## Django System Checks, Error Reporting, Exceptions
