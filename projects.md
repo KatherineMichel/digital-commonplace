@@ -130,6 +130,39 @@ https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a 
 ## Django and Python News
 
 <!--
+## Website and Blog Resources
+
+## Performance
+## Time Complexity and Optimization-Improvement Methods
+## General Big O Rules
+
+## Python- What's New
+## To Read- Python Packaging
+## To Read- Python Release
+-->
+
+<!--
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
+https://docs.djangoproject.com/en/dev/internals/contributing/
+
+https://lwn.net/Articles/819853/
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://www.python.org/dev/peps/pep-0602/
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/devcycle/
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+
+Internals
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+-->
+
+<!--
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
@@ -471,6 +504,8 @@ Coding Competitions
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 
 <!--
+https://www.thebuildies.com/
+
 https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
 
 https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel
@@ -611,114 +646,21 @@ https://foundation.nodejs.org/resources/app-showcase | Application Showcase - No
 
 
 
-<!--
-https://web.dev/discoverable/
-
-https://realpython.com/intermediate-python-project-ideas/
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-
-https://aws.amazon.com/
-https://www.heroku.com/
-
-https://pypi.org/
-https://packaging.python.org/tutorials/packaging-projects/
-https://realpython.com/pypi-publish-python-package/
-
-https://vercel.com/
-https://vercel.com/docs/cli
-
-https://www.netlify.com/
-https://docs.netlify.com/cli/get-started/
-https://www.netlifycms.org/docs/start-with-a-template/
-
-https://www.netlify.com/github-pages-vs-netlify/
-https://en.wikipedia.org/wiki/A/B_testing
-
-https://firebase.google.com/
-
-https://github.com/features/actions
-
-Pages
-https://docs.gitlab.com/ee/user/project/pages/
-
-https://glitch.com/
-https://help.glitch.com/home/
-https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
-https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
-
-Getting Started
-https://help.glitch.com/kb/section/2/
-
-Project Editor
-https://help.glitch.com/kb/section/7/
-
-Sharing
-https://help.glitch.com/kb/section/9/
--->
+## Learning Resources
 
 <!--
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+Anthony Explains
 
-Django/Tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-Tailwind Installation Guides
-https://tailwindcss.com/docs/installation
-
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-https://tailwindcss.com/docs/guides/nextjs
-https://tailwindcss.com/docs/guides/create-react-app
-
-Tailwind Play Screencast
-https://twitter.com/adamwathan/status/1313826345374416896
--->
-
-<!--
-https://codepen.io/
-
-https://stylestage.dev/styles/
-http://www.csszengarden.com/
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 
-HTML5 Boilerplate
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-https://moderntemplate.site/ | HTML Template
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
 
 
-Site Examples
-https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 
-Website for Me
-https://github.com/showcases/github-pages-examples | GitHub Pages examples
-Jekyll Themes
-
-Jekyll
-https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
 -->
 
 <!--
@@ -758,81 +700,130 @@ https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Tod
 -->
 
 
-## Learning Resources
+<!--
+https://blog.jetbrains.com/pycharm/
+
+Important
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+## Django
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+-->
+
 
 <!--
-Anthony Explains
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
 
+Testing
 
-General
+https://docs.djangoproject.com/en/3.2/topics/testing/tools/
 
-https://twitter.com/TheBuildies/status/1335996529266597890 | The Buildies on Twitter: "Who are you going to nominate for #TheBuildies?" / Twitter
-
-
-https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
-
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-
+https://www.selenium.dev/
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
 
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
 -->
-
-
-## Dev Tools, Projects, and Demos
-
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
-
-* [CodePen Projects](http://codepen.io/projects/)
-
-Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
-
-CodePen
-* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
-* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
-https://codepen.io/trending
+## Debugging
 
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
 
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-https://reactjs.org/docs/dom-elements.html | DOM Elements – React
+Debugger
+https://www.youtube.com/watch?v=5AYIe-3cD-s
+https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
 
-https://reactjs.org/community/examples.html
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
 
-Easy to Maintain
-npm install react-scripts@latest
-https://create-react-app.dev/
-
-Recommended Toolchains
-https://reactjs.org/docs/create-a-new-react-app.html#recommended-toolchains
-If you’re learning React or creating a new single-page app, use Create React App.
-https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
-If you’re building a server-rendered website with Node.js, try Next.js.
-If you’re building a static content-oriented website, try Gatsby.
-https://www.gatsbyjs.com/starters/
-
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 -->
 
+
+<!--
+https://web.dev/discoverable/
+
+https://realpython.com/intermediate-python-project-ideas/
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+
+https://pypi.org/
+https://packaging.python.org/tutorials/packaging-projects/
+https://realpython.com/pypi-publish-python-package/
+
+
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+https://aws.amazon.com/
+https://www.heroku.com/
+-->
+
+<!--
+https://vercel.com/
+https://vercel.com/docs/cli
+
+https://www.netlify.com/
+https://docs.netlify.com/cli/get-started/
+https://www.netlifycms.org/docs/start-with-a-template/
+
+https://www.netlify.com/github-pages-vs-netlify/
+https://en.wikipedia.org/wiki/A/B_testing
+
+https://firebase.google.com/
+
+https://github.com/features/actions
+
+Pages
+https://docs.gitlab.com/ee/user/project/pages/
+
+https://glitch.com/
+https://help.glitch.com/home/
+https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
+https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
+
+Getting Started
+https://help.glitch.com/kb/section/2/
+
+Project Editor
+https://help.glitch.com/kb/section/7/
+
+Sharing
+https://help.glitch.com/kb/section/9/
+-->
 
 <!--
 Important
@@ -947,6 +938,28 @@ GitHub/VS Code
 https://blog.repl.it/alwayson
 https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
 https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+-->
+
+
+## Dev Tools, Projects, and Demos
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+* [CodePen Projects](http://codepen.io/projects/)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+https://codepen.io/trending
 -->
 
 
@@ -1080,8 +1093,9 @@ Python Articles
 * [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
 * [Medium Python](https://medium.com/tag/python)
 
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
 <!--
 https://dev.to/t/python
@@ -1094,10 +1108,6 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 
 ## Python Learning Resources
 
-TestDriven.io and Michael
-* [Test Driven Blog](https://testdriven.io/blog/)
-* [Michael Herman](https://mherman.org/talks)
-
 Full Stack Python
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
@@ -1105,26 +1115,43 @@ Full Stack Python
 
 Real Python
 * [Real Python Materials](https://github.com/realpython/materials)
-* [Real Python Courses](https://realpython.com/courses)
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
 Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
 
+Michael
+* [Michael Herman](https://mherman.org/talks)
 
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+<!--
+https://mherman.org/presentations/pytn-2018/#1
+https://mherman.org/presentations/flask-kubernetes/#1
+https://mherman.org/presentations/dockercon-2018/#1
+https://mherman.org/presentations/test-driven-writing/#1
+https://www.crowdcast.io/e/learning
+-->
 
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
+
+## Python Learning Resources- Set Aside
+
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+
 <!--
-https://blog.jetbrains.com/pycharm/
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
 
 No Starch
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
@@ -1157,66 +1184,33 @@ https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
 
-<!--
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-https://learndjango.com/tutorials/hello-world-5-different-ways | Hello, World 5 Different Ways | LearnDjango.com
-https://learndjango.com/tutorials/django-best-practices-security
-
-Pass by value versus pass by reference
-https://treyhunner.com/2020/01/passing-functions-as-arguments/ | Passing a function as an argument to another function in Python - Trey Hunner
-http://purplediane.github.io/python/2017/05/14/variables-and-references.html
-
-
-Important
-https://python-patterns.guide/ | Python Design Patterns
-
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-## Django
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
--->
-
 
 <!--
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+Site Examples
+https://github.com/HackathonHackers/personal-sites | HackathonHackers/personal-sites: List of Hackathon Hackers' personal sites.
 
-## Debugging
+Website for Me
+https://github.com/showcases/github-pages-examples | GitHub Pages examples
+Jekyll Themes
 
-Python Debugging
-https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
-https://pypi.org/project/ipdb/
-https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
-
-
-Debugger
-https://www.youtube.com/watch?v=5AYIe-3cD-s
-https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
-
-Good Print, hello debugger, DjangoCon
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+Jekyll
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
 -->
 
 <!--
-## Tools
-
 Traversy
 Build a Responsive Website | HTML, CSS Grid, Flexbox & More
 https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
+
+https://codepen.io/
+
+https://stylestage.dev/styles/
+http://www.csszengarden.com/
+
+HTML5 Boilerplate
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+https://moderntemplate.site/ | HTML Template
 
 Important
 https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
@@ -1575,6 +1569,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | 
 https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
 -->
 
+
 ## Awesome Python and Django
 
 Awesome Python
@@ -1747,8 +1742,66 @@ https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django 
 
 ## JavaScript
 
+Cypress
+
 https://jasmine.github.io/ | Jasmine Documentation
 -->
+
+<!--
+Tailwind Crash Course
+https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
+
+Django/Tailwind
+https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
+https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
+https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
+https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
+https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
+http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
+https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
+
+https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
+
+Tailwind Installation Guides
+https://tailwindcss.com/docs/installation
+
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+https://tailwindcss.com/docs/guides/nextjs
+https://tailwindcss.com/docs/guides/create-react-app
+
+Tailwind Play Screencast
+https://twitter.com/adamwathan/status/1313826345374416896
+-->
+
+
+<!--
+https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
+
+https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
+https://reactjs.org/docs/dom-elements.html | DOM Elements – React
+
+https://reactjs.org/community/examples.html
+
+Easy to Maintain
+npm install react-scripts@latest
+https://create-react-app.dev/
+
+Recommended Toolchains
+https://reactjs.org/docs/create-a-new-react-app.html#recommended-toolchains
+If you’re learning React or creating a new single-page app, use Create React App.
+https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
+If you’re building a server-rendered website with Node.js, try Next.js.
+If you’re building a static content-oriented website, try Gatsby.
+https://www.gatsbyjs.com/starters/
+
+https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
+
+Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
+https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
+-->
+
 
 
 ## HTML, CSS, JavaScript
