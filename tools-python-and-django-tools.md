@@ -306,29 +306,6 @@ https://pypi.org/project/mypy/
 https://pypi.org/project/mypy-extensions/
 -->
 
-
-## Python- What's New
-
-<!--
-https://blog.python.org/
-https://www.djangoproject.com/weblog/
-
-What's New
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-https://www.python.org/download/pre-releases/
-
-Peps
-https://www.python.org/dev/peps/
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
--->
-
 ## To Read- Python Packaging
 
 Django
@@ -662,7 +639,6 @@ Python Testing Built-In Tools
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
 * [doctest](https://docs.python.org/3/library/doctest.html)
-* [mock](https://docs.python.org/dev/library/unittest.mock.html)
 
 ### pytest and Selenium
 
