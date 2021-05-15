@@ -1349,85 +1349,20 @@ https://docs.python.org/3/library/functools.html#partial-objects
 
 
 
-## Math
+Unix
+https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
+https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
 
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
+https://docs.python.org/3/tutorial/appendix.html#interactive-mode
 
 
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
+https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
+
+
+## Random
+
 9.6. random — Generate pseudo-random numbers
 https://docs.python.org/3/library/random.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
 
 9.6. random — Generate pseudo-random numbers
 See also section
@@ -1441,13 +1376,6 @@ https://docs.python.org/3/library/random.html#notes-on-reproducibility
 tutorials
 https://docs.python.org/3/library/random.html#examples-and-recipes
 
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
 
 
 ## Built-In Functions- Formatting and Printing
@@ -1494,73 +1422,6 @@ Sums start and the items of an iterable from left to right and returns the total
 
 ```sum()```
 
-
-<!--
-Unix
-https://docs.python.org/3/tutorial/appendix.html#executable-python-scripts
-https://docs.python.org/3/tutorial/appendix.html#the-interactive-startup-file
-
-https://docs.python.org/3/tutorial/appendix.html#interactive-mode
-
-
-https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
-
-Path
-https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
-https://docs.python.org/3/library/os.path.html#os.path.join
-https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
-
-File
-https://docs.python.org/3/library/os.html#file-object-creation
-https://docs.python.org/3/library/os.html#os.open
-https://docs.python.org/3/library/functions.html#open
-https://docs.python.org/3/library/fileinput.html#module-fileinput
-https://docs.python.org/3/library/tempfile.html#module-tempfile
-https://docs.python.org/3/library/shutil.html#module-shutil
-
-
-## Platform
-
-https://docs.python.org/3/library/allos.html
-
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
-
-10.1. Operating System Interface
-https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
-
-https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
-
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
-
-11.2. os.path — Common pathname manipulations
-https://docs.python.org/3/library/os.path.html
-
-11.4. stat — Interpreting stat() results
-https://docs.python.org/3/library/stat.html
-https://docs.python.org/3/library/os.html#os.stat
-
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-Interesting (os and os.path versus pathlib)
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
-29.1. sys — System-specific parameters and functions
-https://docs.python.org/3/library/sys.html
-https://docs.python.org/3/library/sys.html#sys.path
-https://docs.python.org/3/library/sys.html#sys.stdin
-https://docs.python.org/3/library/sys.html#sys.stdout
-https://docs.python.org/3/library/sys.html#sys.stderr
-
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
 
 
 11.4. Multi-threading
@@ -1643,31 +1504,8 @@ https://requests.readthedocs.io/en/master/#beloved-features
 Scraping
 https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
 
-
-10.5. String Pattern Matching
-https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
-https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
-https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
-
-Regular Expression HOWTO
-https://docs.python.org/3/howto/regex.html
-
-6.2. re — Regular expression operations
-https://docs.python.org/3/library/re.html#regular-expression-syntax
-https://docs.python.org/3/library/re.html#module-contents
-https://docs.python.org/3/library/re.html#regular-expression-objects
-https://docs.python.org/3/library/re.html#match-objects
-https://docs.python.org/3/library/re.html#regular-expression-examples
-https://docs.python.org/3/library/re.html#checking-for-a-pair
-https://docs.python.org/3/library/re.html#simulating-scanf
-https://docs.python.org/3/library/re.html#search-vs-match
-https://docs.python.org/3/library/re.html#making-a-phonebook
-https://docs.python.org/3/library/re.html#text-munging
-https://docs.python.org/3/library/re.html#finding-all-adverbs
-https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
-https://docs.python.org/3/library/re.html#raw-string-notation
-https://docs.python.org/3/library/re.html#writing-a-tokenizer
-
+## Math
+## Pattern Matching
 
 https://docs.python.org/3/library/sqlite3.html#module-sqlite3
 
@@ -2028,6 +1866,7 @@ https://docs.python.org/3/tutorial/errors.html#user-defined-exceptions
 https://docs.python.org/3/tutorial/errors.html#defining-clean-up-actions
 https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions
 
+
 ## Python Built-In Exceptions Hierarchy
 
 <!--
@@ -2226,10 +2065,13 @@ https://docs.python.org/3/library/traceback.html#traceback-examples
 https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
 
+
 ## Tests
 
 27.3. doctest — Test interactive Python examples
 https://docs.python.org/3/library/doctest.html
+
+<!--
 https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
 https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
 https://docs.python.org/3/library/doctest.html#how-it-works
@@ -2240,9 +2082,11 @@ https://docs.python.org/3/library/doctest.html#what-about-exceptions
 https://docs.python.org/3/library/doctest.html#option-flags
 https://docs.python.org/3/library/doctest.html#directives
 https://docs.python.org/3/library/doctest.html#warnings
+
 https://docs.python.org/3/library/doctest.html#basic-api
 https://docs.python.org/3/library/doctest.html#unittest-api
 https://docs.python.org/3/library/doctest.html#advanced-api
+
 https://docs.python.org/3/library/doctest.html#doctest-objects
 https://docs.python.org/3/library/doctest.html#example-objects
 https://docs.python.org/3/library/doctest.html#doctestfinder-objects
@@ -2251,9 +2095,8 @@ https://docs.python.org/3/library/doctest.html#doctestrunner-objects
 https://docs.python.org/3/library/doctest.html#outputchecker-objects
 https://docs.python.org/3/library/doctest.html#debugging
 https://docs.python.org/3/library/doctest.html#soapbox
+-->
 
-
-https://docs.pytest.org/en/stable/
 
 27.4. unittest — Unit testing framework
 27.5. unittest.mock — mock object library
@@ -2291,6 +2134,7 @@ https://docs.python.org/3/library/unittest.html#setupclass-and-teardownclass
 https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
 https://docs.python.org/3/library/unittest.html#signal-handling
 
+Jeff's advice about mock... ?
 unittest.mock patch
 https://docs.python.org/3/library/unittest.mock.html
 https://docs.python.org/3/library/unittest.mock.html#quick-guide
@@ -2351,3 +2195,173 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-an
 https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
+
+## Pattern Matching
+
+10.5. String Pattern Matching
+https://docs.python.org/3/tutorial/stdlib.html#string-pattern-matching
+https://docs.python.org/3/library/re.html | re — Regular expression operations — Python 3.8.3 documentation
+https://en.wikipedia.org/wiki/Regular_expression | Regular expression - Wikipedia
+
+Regular Expression HOWTO
+https://docs.python.org/3/howto/regex.html
+
+6.2. re — Regular expression operations
+https://docs.python.org/3/library/re.html#regular-expression-syntax
+https://docs.python.org/3/library/re.html#module-contents
+https://docs.python.org/3/library/re.html#regular-expression-objects
+https://docs.python.org/3/library/re.html#match-objects
+https://docs.python.org/3/library/re.html#regular-expression-examples
+https://docs.python.org/3/library/re.html#checking-for-a-pair
+https://docs.python.org/3/library/re.html#simulating-scanf
+https://docs.python.org/3/library/re.html#search-vs-match
+https://docs.python.org/3/library/re.html#making-a-phonebook
+https://docs.python.org/3/library/re.html#text-munging
+https://docs.python.org/3/library/re.html#finding-all-adverbs
+https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-positions
+https://docs.python.org/3/library/re.html#raw-string-notation
+https://docs.python.org/3/library/re.html#writing-a-tokenizer
+
+## Math
+
+3.2. First Steps Towards Programming
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+3.1. Using Python as a Calculator
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+3.1.1. Numbers
+https://docs.python.org/3/tutorial/introduction.html#numbers
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+
+9.7.4. Exceptions
+exception statistics.StatisticsError
+
+
+9. Numeric and Mathematical Modules
+https://docs.python.org/3/library/numeric.html
+9.1. numbers — Numeric abstract base classes
+https://docs.python.org/3/library/numbers.html
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html
+9.3. cmath — Mathematical functions for complex numbers
+https://docs.python.org/3/library/cmath.html
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html
+9.7. statistics — Mathematical statistics functions
+https://docs.python.org/3/library/statistics.html
+
+
+https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
+
+https://docs.python.org/3/library/numbers.html#module-numbers
+https://docs.python.org/3/library/numbers.html#the-numeric-tower
+https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
+https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html#module-math
+https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
+https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/math.html#trigonometric-functions
+https://docs.python.org/3/library/math.html#angular-conversion
+https://docs.python.org/3/library/math.html#hyperbolic-functions
+https://docs.python.org/3/library/math.html#special-functions
+https://docs.python.org/3/library/math.html#constants
+
+https://docs.python.org/3/library/cmath.html#module-cmath
+https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
+https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/cmath.html#trigonometric-functions
+https://docs.python.org/3/library/cmath.html#hyperbolic-functions
+https://docs.python.org/3/library/cmath.html#classification-functions
+https://docs.python.org/3/library/cmath.html#constants
+
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html#module-decimal
+https://docs.python.org/3/library/decimal.html#quick-start-tutorial
+https://docs.python.org/3/library/decimal.html#decimal-objects
+https://docs.python.org/3/library/decimal.html#logical-operands
+https://docs.python.org/3/library/decimal.html#context-objects
+https://docs.python.org/3/library/decimal.html#constants
+https://docs.python.org/3/library/decimal.html#rounding-modes
+https://docs.python.org/3/library/decimal.html#signals
+https://docs.python.org/3/library/decimal.html#floating-point-notes
+https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
+https://docs.python.org/3/library/decimal.html#special-values
+https://docs.python.org/3/library/decimal.html#working-with-threads
+https://docs.python.org/3/library/decimal.html#recipes
+https://docs.python.org/3/library/decimal.html#decimal-faq
+
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html#module-fractions
+
+https://docs.python.org/3/library/statistics.html#module-statistics
+https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
+https://docs.python.org/3/library/statistics.html#measures-of-spread
+https://docs.python.org/3/library/statistics.html#function-details
+https://docs.python.org/3/library/statistics.html#exceptions
+
+9.3. cmath — Mathematical functions for complex numbers
+
+## OS, Path, File
+
+Path
+https://docs.python.org/3/library/filesys.html | File and Directory Access — Python 3.8.6 documentation
+https://docs.python.org/3/library/os.path.html#os.path.join
+https://docs.python.org/3/library/pathlib.html#pathlib.Path.replace | pathlib — Object-oriented filesystem paths — Python 3.8.5 documentation
+
+File
+https://docs.python.org/3/library/os.html#file-object-creation
+https://docs.python.org/3/library/os.html#os.open
+https://docs.python.org/3/library/functions.html#open
+https://docs.python.org/3/library/fileinput.html#module-fileinput
+https://docs.python.org/3/library/tempfile.html#module-tempfile
+https://docs.python.org/3/library/shutil.html#module-shutil
+
+## Platform
+
+https://docs.python.org/3/library/allos.html
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+
+10.1. Operating System Interface
+https://docs.python.org/3/tutorial/stdlib.html#operating-system-interface
+
+https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+
+11.2. os.path — Common pathname manipulations
+https://docs.python.org/3/library/os.path.html
+
+11.4. stat — Interpreting stat() results
+https://docs.python.org/3/library/stat.html
+https://docs.python.org/3/library/os.html#os.stat
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+Interesting (os and os.path versus pathlib)
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+29.1. sys — System-specific parameters and functions
+https://docs.python.org/3/library/sys.html
+https://docs.python.org/3/library/sys.html#sys.path
+https://docs.python.org/3/library/sys.html#sys.stdin
+https://docs.python.org/3/library/sys.html#sys.stdout
+https://docs.python.org/3/library/sys.html#sys.stderr
+
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
