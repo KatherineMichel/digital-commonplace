@@ -22,15 +22,9 @@ Anthony Explains
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-
 https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
-
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
 -->
+
 
 <!--
 HTTP, API, DOM
@@ -48,6 +42,7 @@ DNS
 https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
 https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
 -->
+
 
 <!--
 Node Tutorials
@@ -72,9 +67,6 @@ https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Tod
 <!--
 https://blog.jetbrains.com/pycharm/
 
-Important
-https://python-patterns.guide/ | Python Design Patterns
-
 https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
 
 ## Django
@@ -89,22 +81,13 @@ Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 -->
 
-
 <!--
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
-
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
 Testing
-
-https://docs.djangoproject.com/en/3.2/topics/testing/tools/
 
 https://www.selenium.dev/
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
 -->
 
 <!--
@@ -158,6 +141,7 @@ https://realpython.com/pypi-publish-python-package/
 https://www.heroku.com/
 https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
 -->
+
 
 
 <!--
