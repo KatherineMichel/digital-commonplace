@@ -1,5 +1,611 @@
 # Projects
 
+<!--
+https://lofi.cafe/
+https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
+https://coderadio.freecodecamp.org/
+
+https://www.google.com/search?q=chillhop&oq=chillhop&aqs=chrome..69i57j46i433j0l3j46l2j0j46j0.1411j0j7&sourceid=chrome&ie=UTF-8
+-->
+
+<!--
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
+-->
+
+## Learning Resources
+
+<!--
+Anthony Explains
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
+
+
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
+-->
+
+<!--
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+<!--
+Node Tutorials
+
+https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
+
+<!--
+https://blog.jetbrains.com/pycharm/
+
+Important
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
+
+## Django
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+-->
+
+
+<!--
+https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
+
+Important!
+https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
+
+Testing
+
+https://docs.djangoproject.com/en/3.2/topics/testing/tools/
+
+https://www.selenium.dev/
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+-->
+
+<!--
+## Debugging
+
+Python Debugging
+https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
+https://pypi.org/project/ipdb/
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+Debugger
+https://www.youtube.com/watch?v=5AYIe-3cD-s
+https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+-->
+
+
+<!--
+https://web.dev/discoverable/
+
+https://realpython.com/intermediate-python-project-ideas/
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+
+
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+
+https://pypi.org/
+https://packaging.python.org/tutorials/packaging-projects/
+https://realpython.com/pypi-publish-python-package/
+
+
+https://www.heroku.com/
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+-->
+
+
+<!--
+https://vercel.com/
+https://vercel.com/docs/cli
+
+https://www.netlify.com/
+https://docs.netlify.com/cli/get-started/
+https://www.netlifycms.org/docs/start-with-a-template/
+
+https://www.netlify.com/github-pages-vs-netlify/
+https://en.wikipedia.org/wiki/A/B_testing
+
+https://firebase.google.com/
+
+https://github.com/features/actions
+
+Pages
+https://docs.gitlab.com/ee/user/project/pages/
+
+https://glitch.com/
+https://help.glitch.com/home/
+https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
+https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
+
+Getting Started
+https://help.glitch.com/kb/section/2/
+
+Project Editor
+https://help.glitch.com/kb/section/7/
+
+Sharing
+https://help.glitch.com/kb/section/9/
+-->
+
+<!--
+Important
+https://templates.netlify.com/
+
+
+https://vercel.com/new/templates
+https://vercel.com/solutions/nextjs
+https://vercel.com/solutions/react
+
+Next.js
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+-->
+
+<!--
+Example Apps
+
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+Collections
+https://help.glitch.com/kb/article/4-what-are-collections/
+Find a Collection
+https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
+
+Glitch Team Faves
+https://glitch.com/@glitch/glitch-team-faves
+
+https://glitch.com/@glitch/games
+https://glitch.com/@glitch/bots
+https://glitch.com/@glitch/music
+https://glitch.com/@glitch/art
+https://glitch.com/@glitch/tools-for-work
+https://glitch.com/@glitch/hardware
+https://glitch.com/@glitch/building-blocks
+https://glitch.com/@glitch/learn-to-code
+
+https://blog.glitch.com/post/website-starter-kit
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+
+
+Databases
+https://glitch.com/@storage
+https://glitch.com/~sqlite3-db
+https://glitch.com/~mongodb
+
+Look through
+https://glitch.com/@glitch
+
+Important
+https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
+https://glitch.com/create
+Classic Website
+Node.js
+React Static Site Generator
+Eleventy Static Site Generator
+https://help.glitch.com/kb/article/38-what-types-of-apps-can-i-make-on-glitch/
+
+Starter Project stuff
+https://glitch.com/~glitch-hello-eleventy
+https://help.glitch.com/kb/article/111-what-is-eleventy-11ty-and-how-can-i-use-it-on-glitch/
+https://glitch.com/~glitch-hello-react
+https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and-how-can-i-use-it-on-glitch/
+https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
+https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
+
+https://glitch.com/~glitch-hello-node
+https://glitch.com/~glitch-hello-express
+https://glitch.com/~glitch-hello-svelte
+
+https://glitch.com/@slack
+https://glitch.com/@spotify
+https://glitch.com/@twitchdev
+https://glitch.com/@trello
+https://glitch.com/@material
+-->
+
+<!--
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+Important
+https://repl.it/templates
+https://replit.com/@templates/Django-App-Template
+https://replit.com/@templates/Multi-Page-Flask-Template
+https://replit.com/@templates/Create-React-App
+https://replit.com/@templates/react-express-template
+https://replit.com/@templates/Python-Processing-Template
+
+https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
+https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
+https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
+https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
+
+For Fun
+https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
+https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
+https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
+
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+-->
+
+<!--
+https://colab.research.google.com/
+https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+
+GitHub/VS Code
+
+https://blog.repl.it/alwayson
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+-->
+
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+https://www.nature.com/ | Nature
+-->
+
+<!--
+## Trends
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+## Must Read
+
+Montly Repls
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
+https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
+-->
+
+### 100 Something
+
+100 Days of Code
+* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
+* [100 Days of Projects](https://100daysofprojects.carrd.co/)
+* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
+* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
+
+
+<!--
+## Websites
+
+Practical Dev
+https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
+
+ForEm
+https://www.forem.com/ | For empowering community
+https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
+https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
+
+Nice site!
+https://github.com/nodejs/nodejs.dev
+https://github.com/yarnpkg/website
+
+https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
+https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
+https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
+
+https://github.com/digitalocean/hacktoberfest
+https://github.com/jamstack/jamstack.org
+
+https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
+
+Node
+https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
+-->
+
+
+## Some Python/Django Stuff
+
+<!--
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
+
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+
+## Python and Django
+
+Ana
+https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
+https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
+
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+System Python
+https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
+https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
+
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+
+
+https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
+
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+Python 3.9
+https://twitter.com/PrasoonPratham/status/1313392420038483968
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+
+## Django Tools and Approaches
+
+https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
+
+https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
+
+https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
+
+Class-based Sites
+https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
+
+https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
+
+
+## Jacob
+
+https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
+
+https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
+https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
+
+## Adam
+
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+https://twitter.com/AdamChainz/status/1324680039250776070 | Adam Johnson on Twitter: "Django uses descriptors to power its database field "magic". @raymondh 's new guide to descriptors in the Python 3.9 docs is a great source for understanding how they work! https://t.co/3ZsHUB0KTA" / Twitter
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+
+https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
+
+Security 
+https://adamj.eu/tech/2020/04/08/django-security-headers-hall-of-fame/
+
+Memory Leaks
+https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
+https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
+
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
+https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
+
+https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
+https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+## Luke
+
+https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
+
+https://github.com/spookylukey/django-views-the-right-way/tree/master/code
+https://spookylukey.github.io/django-views-the-right-way/
+https://spookylukey.github.io/django-views-the-right-way/detail-view.html
+"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
+
+https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/ | Everything is an X - lukeplant.me.uk
+
+
+
+## Python and Django Stuff
+
+https://osem.seagl.org/conferences/seagl2020/program/proposals/779
+https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
+
+https://github.com/phildini/api-driven-django
+
+Kojo
+https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
+
+https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
+-->
+
+
+
+## Django and Python News
+
+<!--
+https://blog.python.org/
+https://www.djangoproject.com/weblog/
+
+What's New
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+
+https://www.python.org/download/pre-releases/
+
+Peps
+https://www.python.org/dev/peps/
+
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
+-->
+
+
+<!--
+http://wsvincent.com/how-to-contribute-to-django-docs/
+
+https://docs.djangoproject.com/en/dev/internals/contributing/
+
+
+The PEPs of Python 3.9
+https://lwn.net/Articles/819853/
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+Annual Release Schedule
+https://www.python.org/dev/peps/pep-0602/
+https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
+https://devguide.python.org/devcycle/
+https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
+
+Internals
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+-->
+
+<!--
+Roundup
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+
+Django News
+https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
+
+Important
+https://django-news.com/ | Django News
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+-->
+
+## Git News
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+## GitHub Must Read
+
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
+
+
 ## Data Science and Network Analysis
 
 Python- Statistics Stack- SciPy 
@@ -592,304 +1198,6 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 -->
 
 
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
-
-## Stack
-
-* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
-
-Stack
-* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
-* [SiteStacks](https://sitestacks.com)
-* [Built With](http://builtwith.com) 
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-https://www.nature.com/ | Nature
--->
-
-<!--
-## Trends
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-## Must Read
-
-Montly Repls
-https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
-
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
--->
-
-## Git News
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-## GitHub Must Read
-
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
--->
-
-### 100 Something
-
-100 Days of Code
-* [100 Days of Code](http://www.100daysofcode.com) and [100 Days of Code GitHub](https://github.com/CodeBrauer/100daysofcode)
-* [100 Days of Projects](https://100daysofprojects.carrd.co/)
-* [Florin Pop- 100 Days, 100 Projects Challenge](https://www.florin-pop.com/blog/2019/09/100-days-100-projects/)
-* [#PushEveryDay](https://twitter.com/hashtag/PushEveryDay)
-
-
-<!--
-## Websites
-
-Practical Dev
-https://twitter.com/webology/status/1276320150590029826 | Jeff says, "wear a mask" 😷 on Twitter: "These are great tips which I hadn't seen previously. @ThePracticalDev went from one of my favorite websites to almost completely useable with their recent feed changes. I hope these tips help take the edge off for you too." / Twitter
-
-ForEm
-https://www.forem.com/ | For empowering community
-https://dev.to/devteam/for-empowering-community-2k6h | For Empowering Community - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/announcing-forem-dev-5b38 | Announcing forem.dev - DEV Community 👩‍💻👨‍💻
-https://twitter.com/bendhalpern/status/1318907532312780801 | Ben Halpern 🌱 on Twitter: "It's very exciting to see @forem powering the new https://t.co/OjQpLKoNMw platform. It looks gorgeous in @snyksec purple 😍 https://t.co/dEiaXNvgDg" / Twitter
-
-Nice site!
-https://github.com/nodejs/nodejs.dev
-https://github.com/yarnpkg/website
-
-https://github.com/thepracticaldev/dev.to | thepracticaldev/dev.to: Where programmers share ideas and help each other grow
-https://github.com/tootsuite/mastodon | tootsuite/mastodon: A GNU Social-compatible microblogging server
-https://github.com/code-dot-org/code-dot-org | code-dot-org/code-dot-org: The code powering code.org and studio.code.org
-
-https://github.com/digitalocean/hacktoberfest
-https://github.com/jamstack/jamstack.org
-
-https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "proof of concept" for using Next.js as the next iteration of the frontend for egghead.io.
-
-Node
-https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
-
-## Ongoing Projects
-
-<!--
-https://lofi.cafe/
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-https://coderadio.freecodecamp.org/
-
-https://www.google.com/search?q=chillhop&oq=chillhop&aqs=chrome..69i57j46i433j0l3j46l2j0j46j0.1411j0j7&sourceid=chrome&ie=UTF-8
--->
-
-<!--
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
--->
-
-## Django and Python News
-
-<!--
-## Website and Blog Resources
-
-## Performance
-## Time Complexity and Optimization-Improvement Methods
-## General Big O Rules
-
-## Python- What's New
-## To Read- Python Packaging
-## To Read- Python Release
--->
-
-<!--
-http://wsvincent.com/how-to-contribute-to-django-docs/
-
-https://docs.djangoproject.com/en/dev/internals/contributing/
-
-https://lwn.net/Articles/819853/
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://www.python.org/dev/peps/pep-0602/
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle/
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-
-Internals
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
--->
-
-<!--
-Roundup
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-
-Django News
-https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
-
-Important
-https://django-news.com/ | Django News
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
--->
-
-<!--
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
-
-https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-
-## Python and Django
-
-Ana
-https://twitter.com/AnaLeticiaGIS/status/1338351377563615232/photo/1 | Ana Leticia📍 (@AnaLeticiaGIS) / Twitter
-https://talkpython.fm/episodes/show/295/gis-python | Episode #295 GIS + Python - [Talk Python To Me Podcast]
-
-Python- Rust Bindings
-https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
-
-System Python
-https://twitter.com/webology/status/1357408062093598720 | Jeff Triplett 😷 on Twitter: "It's all separation of concerns. macOS's system Python is for macOS. Not for you. Homebrew Python is for Homebrew. Not for you. Projects like pyenv and asdf were built for you. ⤵" / Twitter
-https://twitter.com/simonw/status/1357415971477024768 | Simon Willison on Twitter: "This clearly explains why my Python virtual environments keep breaking. I've got used to running "pipenv --rm" followed by "pipenv shell" to fix each of them every few weeks" / Twitter
-
-
-PEPs Graph
-https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
-
-
-https://packaging.python.org/guides/publishing-package-distribution-releases-using-github-actions-ci-cd-workflows/ | Publishing package distribution releases using GitHub Actions CI/CD workflows — Python Packaging User Guide
-
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-Python 3.9
-https://twitter.com/PrasoonPratham/status/1313392420038483968
-
-https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
-
-
-## Django Tools and Approaches
-
-https://dev.to/adamghill/add-some-magic-to-your-django-website-l8k | Add Some Magic to Your Django Website - DEV Community 👩‍💻👨‍💻
-
-https://medium.com/zeitcode/django-middlewares-and-the-request-response-cycle-fcbf8efb903f | Django Middlewares and the Request/Response Cycle – zeitcode – Medium
-
-https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
-
-Class-based Sites
-https://twitter.com/webology/status/1301252584024440833 | Jeff "wears a mask 😷 and votes 🗳" Triplett on Twitter: "Indeed ⤵" / Twitter
-
-https://www.brennantymrak.com/articles/django-class-based-views-diagrams | Django Class Based Views
-
-
-## Jacob
-
-https://www.slideshare.net/jacobian/the-best-and-worst-of-django/33-Django_is_wrong_Im_sorry | The Best (and Worst) of Django
-
-https://jacobian.github.io/pycon2017/#/ | https://jacobian.github.io/pycon2017/#/
-https://www.youtube.com/watch?v=7kwnjoAJ2HQ&feature=youtu.be | (2) Jacob Kaplan Moss Let's build a web framework! PyCon 2017 - YouTube
-
-## Adam
-
-https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
-https://twitter.com/AdamChainz/status/1324680039250776070 | Adam Johnson on Twitter: "Django uses descriptors to power its database field "magic". @raymondh 's new guide to descriptors in the Python 3.9 docs is a great source for understanding how they work! https://t.co/3ZsHUB0KTA" / Twitter
-
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
-https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
-https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
-
-https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
-
-Security 
-https://adamj.eu/tech/2020/04/08/django-security-headers-hall-of-fame/
-
-Memory Leaks
-https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
-https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
-
-https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
-https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
-https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
-
-https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
-https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
-https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
-
-https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
-https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
-https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
-
-## Luke
-
-https://twitter.com/spookylukey/status/1329838115310227460 | Luke Plant on Twitter: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / Twitter
-https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
-https://lukeplant.me.uk/blog/posts/less-powerful-languages/ | We need less powerful languages - lukeplant.me.uk
-
-https://github.com/spookylukey/django-views-the-right-way/tree/master/code
-https://spookylukey.github.io/django-views-the-right-way/
-https://spookylukey.github.io/django-views-the-right-way/detail-view.html
-"It furthered suffered from the fact that all the methods had access to self, and therefore to the HTTP request object via self.request. This meant there was no clear separation of request processing from anything else — the layers had all merged. This happens very easily with classes like this, because you never have to explicitly pass the request parameter around to make it available, it’s implicitly available via self."
-
-https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/ | Everything is an X - lukeplant.me.uk
-
-
-
-## Python and Django Stuff
-
-https://osem.seagl.org/conferences/seagl2020/program/proposals/779
-https://twitter.com/chrisjrn/status/1311333513816190976 | Christopher Neugebauer 🇦🇺🏳️‍🌈 on Twitter: "Someone asked me exactly why System Python exists if you're not meant to actually use it. To answer their question, I'm giving a brand new talk on this year's extremely online @SeaGL: "Environments". It's a 20-minute history of deployment environments and why they've changed!" / Twitter
-
-https://github.com/phildini/api-driven-django
-
-Kojo
-https://www.youtube.com/watch?v=tgRqbP4i54U&list=PLt4L3V8wVnF4Z74tYJeFgTihj57gzQl4-&index=43
-
-https://github.com/arocks/django-app-in-a-file | arocks/django-app-in-a-file: A "Coming Soon" page written in one file with Django
--->
-
-
 <!--
 Docs
 
@@ -1234,301 +1542,6 @@ https://reactjs.org/community/examples.html
 https://madewithreactnative.com/
 
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
--->
-
-
-
-## Learning Resources
-
-<!--
-Anthony Explains
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
-
-
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
--->
-
-<!--
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
-
-<!--
-Node Tutorials
-
-https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-
-<!--
-https://blog.jetbrains.com/pycharm/
-
-Important
-https://python-patterns.guide/ | Python Design Patterns
-
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-## Django
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
--->
-
-
-<!--
-https://github.com/coodict/javascript-in-one-pic | coodict/javascript-in-one-pic: Learn javascript in one picture.
-
-Important!
-https://www.bigocheatsheet.com/ | Big-O Algorithm Complexity Cheat Sheet (Know Thy Complexities!) @ericdrowell
-
-Testing
-
-https://docs.djangoproject.com/en/3.2/topics/testing/tools/
-
-https://www.selenium.dev/
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
-
--->
-
-<!--
-## Debugging
-
-Python Debugging
-https://docs.python.org/3/library/pdb.html | pdb — The Python Debugger — Python 3.9.1 documentation
-https://pypi.org/project/ipdb/
-https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
-
-Debugger
-https://www.youtube.com/watch?v=5AYIe-3cD-s
-https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
-
-Good Print, hello debugger, DjangoCon
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
--->
-
-
-<!--
-https://web.dev/discoverable/
-
-https://realpython.com/intermediate-python-project-ideas/
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
-
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-
-https://pypi.org/
-https://packaging.python.org/tutorials/packaging-projects/
-https://realpython.com/pypi-publish-python-package/
-
-
-https://www.heroku.com/
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
--->
-
-
-<!--
-https://vercel.com/
-https://vercel.com/docs/cli
-
-https://www.netlify.com/
-https://docs.netlify.com/cli/get-started/
-https://www.netlifycms.org/docs/start-with-a-template/
-
-https://www.netlify.com/github-pages-vs-netlify/
-https://en.wikipedia.org/wiki/A/B_testing
-
-https://firebase.google.com/
-
-https://github.com/features/actions
-
-Pages
-https://docs.gitlab.com/ee/user/project/pages/
-
-https://glitch.com/
-https://help.glitch.com/home/
-https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
-https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
-
-Getting Started
-https://help.glitch.com/kb/section/2/
-
-Project Editor
-https://help.glitch.com/kb/section/7/
-
-Sharing
-https://help.glitch.com/kb/section/9/
--->
-
-<!--
-Important
-https://templates.netlify.com/
-
-
-https://vercel.com/new/templates
-https://vercel.com/solutions/nextjs
-https://vercel.com/solutions/react
-
-Next.js
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
--->
-
-<!--
-Example Apps
-
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-Collections
-https://help.glitch.com/kb/article/4-what-are-collections/
-Find a Collection
-https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
-
-Glitch Team Faves
-https://glitch.com/@glitch/glitch-team-faves
-
-https://glitch.com/@glitch/games
-https://glitch.com/@glitch/bots
-https://glitch.com/@glitch/music
-https://glitch.com/@glitch/art
-https://glitch.com/@glitch/tools-for-work
-https://glitch.com/@glitch/hardware
-https://glitch.com/@glitch/building-blocks
-https://glitch.com/@glitch/learn-to-code
-
-https://blog.glitch.com/post/website-starter-kit
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-
-
-Databases
-https://glitch.com/@storage
-https://glitch.com/~sqlite3-db
-https://glitch.com/~mongodb
-
-Look through
-https://glitch.com/@glitch
-
-Important
-https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
-https://glitch.com/create
-Classic Website
-Node.js
-React Static Site Generator
-Eleventy Static Site Generator
-https://help.glitch.com/kb/article/38-what-types-of-apps-can-i-make-on-glitch/
-
-Starter Project stuff
-https://glitch.com/~glitch-hello-eleventy
-https://help.glitch.com/kb/article/111-what-is-eleventy-11ty-and-how-can-i-use-it-on-glitch/
-https://glitch.com/~glitch-hello-react
-https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and-how-can-i-use-it-on-glitch/
-https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
-https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
-
-https://glitch.com/~glitch-hello-node
-https://glitch.com/~glitch-hello-express
-https://glitch.com/~glitch-hello-svelte
-
-https://glitch.com/@slack
-https://glitch.com/@spotify
-https://glitch.com/@twitchdev
-https://glitch.com/@trello
-https://glitch.com/@material
--->
-
-<!--
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-Important
-https://repl.it/templates
-https://replit.com/@templates/Django-App-Template
-https://replit.com/@templates/Multi-Page-Flask-Template
-https://replit.com/@templates/Create-React-App
-https://replit.com/@templates/react-express-template
-https://replit.com/@templates/Python-Processing-Template
-
-https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
-https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
-https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
-https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
-
-For Fun
-https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
-https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
-https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
-
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
--->
-
-<!--
-https://colab.research.google.com/
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
-
-GitHub/VS Code
-
-https://blog.repl.it/alwayson
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
 -->
 
 
