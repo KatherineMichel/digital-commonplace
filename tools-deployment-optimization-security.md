@@ -276,9 +276,12 @@ https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operation
 
 ## General Big O Rules
 
+Concepts- Time and Space Complexity
+* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
+* [Space Complexity Wikipedia](https://en.wikipedia.org/wiki/Space_complexity)
+
 Big O Notation
 * [Big O Notation Order of Common Functions Wikipedia](https://en.wikipedia.org/wiki/Big_O_notation#Orders_of_common_functions)
-* [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
 * [Best, Worst, and Average Case Wikipedia](https://en.wikipedia.org/wiki/Best,_worst_and_average_case)
 * [Computational Complexity of Mathematical Operations Wikipedia](https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations)
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
@@ -294,11 +297,12 @@ Big O Notation- Terminology
 * [Order of Magnitude Wikipedia](https://en.wikipedia.org/wiki/Order_of_magnitude)
 
 <!--
+https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf
+
 https://en.wikipedia.org/wiki/Asymptotic_analysis
 
 https://simple.wikipedia.org/wiki/Space-time_tradeoff | Space-time tradeoff - Simple English Wikipedia, the free encyclopedia
 https://www.geeksforgeeks.org/g-fact-86/ | What does 'Space Complexity' mean? - GeeksforGeeks
-https://en.wikipedia.org/wiki/Space_complexity | Space complexity - Wikipedia
 
 https://www.youtube.com/watch?v=duvZ-2UK0fc
 
@@ -484,4 +488,3 @@ Snyk
 https://snyk.io/ | Open Source Security Platform | Snyk
 https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
 -->
-
