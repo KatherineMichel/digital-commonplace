@@ -1,6 +1,38 @@
 # Software Lifecycle and Release Management
 
 <!--
+Hynek Schlawack
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+
+Kyle Knapp
+Important talk
+https://www.youtube.com/watch?v=iKAaNaVpJFM | Automating Code Quality: Next Level - YouTube
+https://2018.pygotham.org/talks/automating-code-quality-next-level/
+
+https://pyvideo.org/speaker/kyle-knapp.html
+https://www.youtube.com/watch?v=G1lDk_WKXvY | Kyle Knapp - Automating Code Quality - PyCon 2018 - YouTube
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality
+https://pyvideo.org/pycon-us-2018/automating-code-quality.html
+PyGotham
+
+Thea's talk
+https://www.youtube.com/watch?v=-BHverY7IwU
+
+Carl Meyer: Set your code free
+https://www.youtube.com/watch?v=nHWRN5gCPSI&feature=player_embedded
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst
+https://www.oddbird.net/talks/set-your-code-free/
+
+https://speakerdeck.com/carljm
+https://github.com/carljm/dotfiles
+-->
+
+<!--
 ## Release management
 
 release-bot
@@ -126,6 +158,7 @@ https://discuss.encode.io/ | Encode
 <!--
 https://github.com/nedbat/coveragepy/issues/
 -->
+
 
 ### Hynek Schlawack
 
