@@ -35,17 +35,10 @@ https://docs.python.org/3/library/pdb.html#debugger-commands
 https://docs.python.org/3/library/traceback.html
 -->
 
-
-## Useful
-
-https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
-https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+<!--
+Code in Place
 
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
-https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
-https://en.wikipedia.org/wiki/Recursion
-https://realpython.com/python-thinking-recursively/
 
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
 https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
@@ -53,14 +46,26 @@ https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
 https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
 
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
-negative indexes python - Google Search
-
 https://en.wikipedia.org/wiki/Control_flow
 https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
 https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+-->
 
+
+## Useful
+
+https://docs.python.org/3/library/functions.html
+
+Built-in functions
+https://docs.python.org/3/library/functions.html#built-in-funcs
+
+
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+negative indexes python - Google Search
 
 https://ide.geeksforgeeks.org/
 https://en.wikipedia.org/wiki/Standard_52-card_deck
@@ -69,8 +74,6 @@ https://en.wikipedia.org/wiki/Standard_52-card_deck
 https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
 https://docs.python.org/3/reference/expressions.html#operator-precedence
 
-Built-in functions
-https://docs.python.org/3/library/functions.html#built-in-funcs
 
 Popular string methods
 https://www.w3schools.com/python/python_ref_string.asp
@@ -118,16 +121,15 @@ Concepts- Problem Solving
 * [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
 * Dynamic Programming
 
-Concepts- Time and Space Complexity
-* Big O [Time Complexity Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
-* Big O [Space Complexity Wikipedia](https://en.wikipedia.org/wiki/Space_complexity)
+<!--
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://realpython.com/python-thinking-recursively/
+-->
 
 Concepts- Bits
 * [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
 
-http://bigocheatsheet.com/
-https://en.wikipedia.org/wiki/Big_O_notation
-https://github.com/ro31337/bigoposter/blob/master/bigoposter.pdf
 
 Problem Solving Flowchart
 
@@ -1378,51 +1380,6 @@ https://docs.python.org/3/library/random.html#examples-and-recipes
 
 
 
-## Built-In Functions- Formatting and Printing
-
-Convert a value to a “formatted” representation, as controlled by format_spec. 
-```format()```
-
-Return a string containing a printable representation of an object. 
-```repr()```
-
-
-## Built-In Functions- Numbers
-
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
-
-Return x to the power y; if z is present, return x to the power y, modulo z
-
-```pow()```
-
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
-
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
-
-## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
-
-Return the largest item in an iterable or the largest of two or more arguments.
-
-```max()```
-
-Return the smallest item in an iterable or the smallest of two or more arguments.
-
-```min()```
-
-## Built-In Functions- Length and Sum- Addressed in Sequences Section
-
-Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
-
-```len()```
-
-Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
-
-```sum()```
-
-
 
 11.4. Multi-threading
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
@@ -2196,6 +2153,7 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-wi
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
+
 ## Pattern Matching
 
 10.5. String Pattern Matching
@@ -2308,6 +2266,7 @@ https://docs.python.org/3/library/statistics.html#exceptions
 
 9.3. cmath — Mathematical functions for complex numbers
 
+
 ## OS, Path, File
 
 Path
@@ -2365,3 +2324,47 @@ https://docs.python.org/3/library/sysconfig.html
 
 11.10. shutil — High-level file operations
 https://docs.python.org/3/library/shutil.html
+
+
+## Built-In Functions- Formatting and Printing
+
+Convert a value to a “formatted” representation, as controlled by format_spec. 
+```format()```
+
+Return a string containing a printable representation of an object. 
+```repr()```
+
+## Built-In Functions- Numbers
+
+Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
+```divmod()```
+
+Return x to the power y; if z is present, return x to the power y, modulo z
+
+```pow()```
+
+Return number rounded to ndigits precision after the decimal point. 
+```round()```
+
+Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
+```abs()```
+
+## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
+
+Return the largest item in an iterable or the largest of two or more arguments.
+
+```max()```
+
+Return the smallest item in an iterable or the smallest of two or more arguments.
+
+```min()```
+
+## Built-In Functions- Length and Sum- Addressed in Sequences Section
+
+Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
+
+```len()```
+
+Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
+
+```sum()```
