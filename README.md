@@ -583,6 +583,7 @@ https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️
 https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
 
 Feross
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
 https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
