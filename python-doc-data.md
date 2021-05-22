@@ -18,6 +18,232 @@ https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path
 -->
 
 
+## Tutorial
+
+3. An Informal Introduction to Python
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+https://docs.python.org/3/tutorial/introduction.html#numbers
+https://docs.python.org/3/tutorial/introduction.html#strings
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+Fibonacci series 
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
+
+f-string
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
+https://docs.python.org/3/glossary.html#term-f-string
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
+
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
+
+
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+https://docs.python.org/3/library/fnmatch.html
+
+
+https://docs.python.org/3/library/http.html#http-status-codes
+
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/#beloved-features
+
+
+Scraping
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+
+## Math
+## Pattern Matching
+
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+https://www.sqlite.org/index.html
+https://docs.python.org/3/library/sqlite3.html
+
+
+10.12. Batteries Included
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+
+14.1. csv — CSV File Reading and Writing
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/csv.html#module-contents
+https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
+https://docs.python.org/3/library/csv.html#reader-objects
+https://docs.python.org/3/library/csv.html#writer-objects
+https://docs.python.org/3/library/csv.html#examples
+
+21. Internet Protocols and Support
+
+19.2. json — JSON encoder and decoder
+20.2. json — JSON encoder and decoder
+7.2.2. Saving structured data with json
+https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
+
+https://docs.python.org/3/library/json.html
+
+https://docs.python.org/3/library/json.html#basic-usage
+https://docs.python.org/3/library/json.html#encoders-and-decoders
+https://docs.python.org/3/library/json.html#exceptions
+https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
+https://docs.python.org/3/library/json.html#character-encodings
+https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
+https://docs.python.org/3/library/json.html#repeated-names-within-an-object
+https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
+https://docs.python.org/3/library/json.html#implementation-limitations
+https://docs.python.org/3/library/json.html#module-json.tool
+https://docs.python.org/3/library/json.html#command-line-options
+
+12.4. marshal — Internal Python object serialization
+https://docs.python.org/3/library/marshal.html
+
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
+
+22.1. webbrowser — Convenient Web-browser controller
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
+
+https://docs.python.org/3/howto/argparse.html
+"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
+
+Alternative
+16.5. getopt — C-style parser for command line options
+https://docs.python.org/3/library/getopt.html
+
+16.4. argparse — Parser for command-line options, arguments and sub-commands
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/argparse.html#example
+https://docs.python.org/3/library/argparse.html#creating-a-parser
+https://docs.python.org/3/library/argparse.html#adding-arguments
+https://docs.python.org/3/library/argparse.html#parsing-arguments
+https://docs.python.org/3/library/argparse.html#argumentparser-objects
+https://docs.python.org/3/library/argparse.html#prog
+https://docs.python.org/3/library/argparse.html#usage
+https://docs.python.org/3/library/argparse.html#description
+https://docs.python.org/3/library/argparse.html#epilog
+https://docs.python.org/3/library/argparse.html#parents
+https://docs.python.org/3/library/argparse.html#formatter-class
+https://docs.python.org/3/library/argparse.html#prefix-chars
+https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
+https://docs.python.org/3/library/argparse.html#argument-default
+https://docs.python.org/3/library/argparse.html#allow-abbrev
+https://docs.python.org/3/library/argparse.html#conflict-handler
+https://docs.python.org/3/library/argparse.html#add-help
+https://docs.python.org/3/library/argparse.html#the-add-argument-method
+https://docs.python.org/3/library/argparse.html#name-or-flags
+https://docs.python.org/3/library/argparse.html#action
+https://docs.python.org/3/library/argparse.html#nargs
+https://docs.python.org/3/library/argparse.html#const
+https://docs.python.org/3/library/argparse.html#default
+https://docs.python.org/3/library/argparse.html#type
+https://docs.python.org/3/library/argparse.html#choices
+https://docs.python.org/3/library/argparse.html#required
+https://docs.python.org/3/library/argparse.html#help
+https://docs.python.org/3/library/argparse.html#metavar
+https://docs.python.org/3/library/argparse.html#dest
+https://docs.python.org/3/library/argparse.html#action-classes
+https://docs.python.org/3/library/argparse.html#the-parse-args-method
+https://docs.python.org/3/library/argparse.html#option-value-syntax
+https://docs.python.org/3/library/argparse.html#invalid-arguments
+https://docs.python.org/3/library/argparse.html#arguments-containing
+https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
+https://docs.python.org/3/library/argparse.html#beyond-sys-argv
+https://docs.python.org/3/library/argparse.html#the-namespace-object
+https://docs.python.org/3/library/argparse.html#other-utilities
+https://docs.python.org/3/library/argparse.html#sub-commands
+https://docs.python.org/3/library/argparse.html#filetype-objects
+https://docs.python.org/3/library/argparse.html#argument-groups
+https://docs.python.org/3/library/argparse.html#mutual-exclusion
+https://docs.python.org/3/library/argparse.html#parser-defaults
+https://docs.python.org/3/library/argparse.html#printing-help
+https://docs.python.org/3/library/argparse.html#partial-parsing
+https://docs.python.org/3/library/argparse.html#customizing-file-parsing
+https://docs.python.org/3/library/argparse.html#exiting-methods
+https://docs.python.org/3/library/argparse.html#intermixed-parsing
+https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
+
+
+Unicode HOWTO
+https://docs.python.org/3/howto/unicode.html
+
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/wsgiref.html
+
+22.5. urllib — URL handling modules
+
+https://docs.python.org/3/library/urllib.html
+
+
+26.1. typing — Support for type hints
+https://docs.python.org/3/library/typing.html
+
+
+14. File Formats
+https://docs.python.org/3/library/fileformats.html
+
+6. Text Processing Services
+https://docs.python.org/3/library/text.html
+
+21. Structured Markup Processing Tools
+21.1. html — HyperText Markup Language support
+21.2. html.parser — Simple HTML and XHTML parser
+21.3. html.entities — Definitions of HTML general entities
+
+20. Structured Markup Processing Tools
+https://docs.python.org/3/library/markup.html
+20.1. html — HyperText Markup Language support
+https://docs.python.org/3/library/html.html
+
+https://docs.python.org/3/library/html.parser.html
+https://docs.python.org/3/library/html.parser.html#example-html-parser-application
+https://docs.python.org/3/library/html.parser.html#htmlparser-methods
+https://docs.python.org/3/library/html.parser.html#examples
+https://docs.python.org/3/library/html.entities.html
+
+
+22.22. http.server — HTTP servers
+22.23. http.cookies — HTTP state management
+22.24. http.cookiejar — Cookie handling for HTTP clients
+
+Not recommended for production
+https://docs.python.org/3/library/http.server.html
+https://docs.python.org/3/library/http.cookies.html
+https://docs.python.org/3/library/http.cookiejar.html
+-->
+
+
 <!--
 ## Utilities
 
@@ -34,6 +260,437 @@ https://docs.python.org/3/library/pdb.html#debugger-commands
 29.9. traceback — Print or retrieve a stack traceback
 https://docs.python.org/3/library/traceback.html
 -->
+
+
+## Django System Checks, Error Reporting, Exceptions
+
+* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
+* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
+* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
+
+<!--
+https://docs.djangoproject.com/en/2.1/topics/testing/tools/#transactiontestcase
+
+Django Core Exceptions
+AppRegistryNotReady, 1014
+ObjectDoesNotExist, 1015 
+EmptyResultSet, 1015 
+FieldDoesNotExist, 1015 
+MultipleObjectsReturned, 1015 
+SuspiciousOperation, 1015 
+PermissionDenied, 1016 
+ViewDoesNotExist, 1016 
+MiddlewareNotUsed, 1016 
+ImproperlyConfigured, 1016 
+FieldError, 1016 
+ValidationError, 1016 
+NON_FIELD_ERRORS
+
+URL Resolver exceptions
+Resolver404
+NoReverseMatch, 1017 
+
+Database Exceptions
+
+Http Exceptions
+UnreadablePostError, 1018 
+
+Transaction Exceptions
+TransactionManagementError, 1018 
+
+Testing Framework Exceptions
+RedirectCycleError
+
+Python Exceptions
+
+
+## Django Errors and Exceptions
+
+DoesNotExist
+Model.DoesNotExist, 1155
+TemplateDoesNotExist, 276 
+
+Django Errors
+PageNotAnInteger, 507 
+ContextPopException, 1376 
+EmptyPage, 507 
+
+Errors
+IntegrityError, 1017 
+InterfaceError, 1017 
+InternalError, 1017 
+models.ProtectedError, 1017 
+OperationalError, 1017 
+NotSupportedError, 1017 
+CommandError, 545 
+DatabaseError, 1017 
+DataError, 1017 
+Error, 1017 
+client.RedirectCycleError, 1018  
+ProgrammingError, 1017 
+TemplateSyntaxError, 276 
+-->
+   
+## Exceptions
+
+Two kinds of errors
+* syntax errors
+* logical errors
+
+Traceback
+* 1: file name, line number, module (if applicable)
+* 2: line, ^ (caret) where the error is
+* 3: type of error and description
+     
+Example
+
+```python
+$ python program.py
+  File "program.py", line 3, in <module>
+print 'Hello world! ^
+SyntaxError: EOL while scanning string literal
+```
+
+### Error Reporting Versus Failing Silently
+
+Two ways to deal with user errors (you decide whether error should be reported to user)
+* report error
+* let error fail silently (program continues to run without reporting error to user)
+
+### Failing Silently
+
+Use the pass statement to fail silently
+
+```python
+try:
+    something
+except:
+    pass
+```
+
+### Raising an Exception
+
+Use it when you think an error might occur while your program is running. 
+1. try block: code that will run that might cause an exception
+2. except block: code that should run in response if a particular type of exception occurs
+3. else block: code that should only run if try block was successful
+
+```python
+try:
+    something
+except:
+    raise Error
+```
+
+Don’t use bare except blocks (use ```Exception``` instead)
+
+```python
+try:
+    something
+except:
+    do something else
+```
+
+try-except statement
+
+```python
+try:
+    something
+except Exception:
+    do something else
+```
+
+try-except-else statement
+
+```python
+try:
+    something
+except Exception:
+    do something else
+else:
+    do something else
+```
+
+Print the exception
+
+```python
+try:
+    something
+except Exception as e:
+    print(e, type(e))
+```
+
+<!--
+8.4. The try statement
+https://docs.python.org/3/reference/compound_stmts.html#try
+https://docs.python.org/3/reference/compound_stmts.html#except
+https://docs.python.org/3/reference/compound_stmts.html#finally
+
+from
+https://docs.python.org/3/reference/simple_stmts.html#from
+
+7.8. The raise statement
+https://docs.python.org/3/reference/simple_stmts.html#raise
+-->
+
+## Exceptions and Errors
+
+Repeat
+16.1.1. Error Handling
+https://docs.python.org/3/tutorial/appendix.html#error-handling
+
+8. Errors and Exceptions
+8.1. Syntax Errors
+8.2. Exceptions
+8.3. Handling Exceptions
+8.4. Raising Exceptions
+8.5. User-defined Exceptions
+8.6. Defining Clean-up Actions
+8.7. Predefined Clean-up Actions
+
+* [errors](https://docs.python.org/3/tutorial/errors.html)
+
+https://docs.python.org/3/tutorial/errors.html#errors-and-exceptions
+https://docs.python.org/3/tutorial/errors.html#syntax-errors
+https://docs.python.org/3/tutorial/errors.html#exceptions
+https://docs.python.org/3/tutorial/errors.html#handling-exceptions
+https://docs.python.org/3/tutorial/errors.html#raising-exceptions
+https://docs.python.org/3/tutorial/errors.html#user-defined-exceptions
+https://docs.python.org/3/tutorial/errors.html#defining-clean-up-actions
+https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions
+
+
+## Python Built-In Exceptions Hierarchy
+
+<!--
+The most common exceptions?
+
+https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
+https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
+https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
+-->
+
+5. Built-in Exceptions
+5.1. Base classes
+5.2. Concrete exceptions
+5.3. Warnings
+5.4. Exception hierarchy
+
+* [exceptions](https://docs.python.org/3/library/exceptions.html)
+
+https://docs.python.org/3/library/exceptions.html#base-classes
+https://docs.python.org/3/library/exceptions.html#concrete-exceptions
+
+https://docs.python.org/3/library/exceptions.html#os-exceptions
+
+
+Django raises built-in Python exceptions when appropriate.
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
+
+5.4. Exception hierarchy
+https://docs.python.org/3/library/exceptions.html#exception-hierarchy
+
+BaseException
+  +-- Exception
+      +-- StopIteration
+      +-- StopAsyncIteration
+      
+ +-- SystemExit
+ +-- KeyboardInterrupt
+ +-- GeneratorExit
+ 
+      +-- ImportError
+      |    +-- ModuleNotFoundError
+      
+      +-- SyntaxError
+      |    +-- IndentationError
+      |         +-- TabError
+      
+      +-- NameError
+      |    +-- UnboundLocalError
+      
+      +-- TypeError
+      +-- ValueError
+      |    +-- UnicodeError
+      |         +-- UnicodeDecodeError
+      |         +-- UnicodeEncodeError
+      |         +-- UnicodeTranslateError
+      
+      +-- AttributeError 
+      
+      +-- LookupError
+      |    +-- IndexError
+      |    +-- KeyError
+      
+      +-- ArithmeticError
+      |    +-- FloatingPointError
+      |    +-- OverflowError
+      |    +-- ZeroDivisionError
+      
+      +-- EOFError
+      
+      +-- AssertionError
+              
+      +-- ReferenceError
+      
+      +-- OSError
+      |    +-- BlockingIOError
+      |    +-- ChildProcessError
+      |    +-- ConnectionError
+      |    |    +-- BrokenPipeError
+      |    |    +-- ConnectionAbortedError
+      |    |    +-- ConnectionRefusedError
+      |    |    +-- ConnectionResetError
+      |    +-- FileExistsError
+      |    +-- FileNotFoundError
+      |    +-- InterruptedError
+      |    +-- IsADirectoryError
+      |    +-- NotADirectoryError
+      |    +-- PermissionError
+      |    +-- ProcessLookupError
+      |    +-- TimeoutError    
+      
+      +-- SystemError
+      
+      +-- RuntimeError
+      |    +-- NotImplementedError
+      |    +-- RecursionError
+      
+      +-- MemoryError     
+      +-- BufferError
+               
+Python Warnings
+
+      +-- Warning
+
+           +-- SyntaxWarning
+           +-- UserWarning
+           +-- ImportWarning
+	   
+           +-- UnicodeWarning
+           +-- BytesWarning
+	   
+           +-- RuntimeWarning
+           +-- ResourceWarning
+	   
+           +-- FutureWarning	   
+           +-- DeprecationWarning
+           +-- PendingDeprecationWarning
+        
+## Warnings
+
+https://docs.python.org/3/library/exceptions.html#warnings
+
+Python Warnings
+* [warnings](https://docs.python.org/3/library/warnings.html)
+
+30.5. warnings — Warning control
+https://docs.python.org/3/library/warnings.html#warning-categories
+https://docs.python.org/3/library/warnings.html#the-warnings-filter
+https://docs.python.org/3/library/warnings.html#describing-warning-filters
+https://docs.python.org/3/library/warnings.html#default-warning-filter
+https://docs.python.org/3/library/warnings.html#overriding-the-default-filter
+https://docs.python.org/3/library/warnings.html#temporarily-suppressing-warnings
+https://docs.python.org/3/library/warnings.html#testing-warnings
+https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-of-dependencies
+https://docs.python.org/3/library/warnings.html#available-functions
+https://docs.python.org/3/library/warnings.html#available-context-managers
+
+## Performance
+
+36.11. resource — Resource usage information
+https://docs.python.org/3/library/resource.html
+https://docs.python.org/3/library/resource.html#resource-limits
+https://docs.python.org/3/library/resource.html#resource-usage
+
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+
+28.4. The Python Profilers
+28.5. timeit — Measure execution time of small code snippets
+28.6. trace — Trace or track Python statement execution
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/trace.html
+
+https://docs.python.org/3/library/profile.html#module-profile
+https://docs.python.org/3/library/timeit.html#module-timeit
+https://docs.python.org/3/library/profile.html#module-pstats
+
+
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
+https://docs.python.org/3/library/profile.html#module-cProfile
+https://docs.python.org/3/library/profile.html#the-stats-class
+https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
+https://docs.python.org/3/library/profile.html#limitations
+https://docs.python.org/3/library/profile.html#calibration
+https://docs.python.org/3/library/profile.html#using-a-custom-timer
+
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/timeit.html#basic-examples
+https://docs.python.org/3/library/timeit.html#python-interface
+https://docs.python.org/3/library/timeit.html#command-line-interface
+https://docs.python.org/3/library/timeit.html#examples
+
+https://docs.python.org/3/library/trace.html
+https://docs.python.org/3/library/trace.html#command-line-usage
+https://docs.python.org/3/library/trace.html#main-options
+https://docs.python.org/3/library/trace.html#modifiers
+https://docs.python.org/3/library/trace.html#filters
+https://docs.python.org/3/library/trace.html#programmatic-interface
+
+29.9. traceback — Print or retrieve a stack traceback
+https://docs.python.org/3/library/traceback.html
+https://docs.python.org/3/library/traceback.html#tracebackexception-objects
+https://docs.python.org/3/library/traceback.html#stacksummary-objects
+https://docs.python.org/3/library/traceback.html#framesummary-objects
+https://docs.python.org/3/library/traceback.html#traceback-examples
+
+## Logging
+
+11.5. Logging
+https://docs.python.org/3/tutorial/stdlib2.html#logging
+https://docs.python.org/3/library/logging.html#module-logging
+
+
+## Tests
+
+27.3. doctest — Test interactive Python examples
+https://docs.python.org/3/library/doctest.html
+
+<!--
+https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
+https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
+https://docs.python.org/3/library/doctest.html#how-it-works
+https://docs.python.org/3/library/doctest.html#which-docstrings-are-examined
+https://docs.python.org/3/library/doctest.html#how-are-docstring-examples-recognized
+https://docs.python.org/3/library/doctest.html#what-s-the-execution-context
+https://docs.python.org/3/library/doctest.html#what-about-exceptions
+https://docs.python.org/3/library/doctest.html#option-flags
+https://docs.python.org/3/library/doctest.html#directives
+https://docs.python.org/3/library/doctest.html#warnings
+
+https://docs.python.org/3/library/doctest.html#basic-api
+https://docs.python.org/3/library/doctest.html#unittest-api
+https://docs.python.org/3/library/doctest.html#advanced-api
+
+https://docs.python.org/3/library/doctest.html#doctest-objects
+https://docs.python.org/3/library/doctest.html#example-objects
+https://docs.python.org/3/library/doctest.html#doctestfinder-objects
+https://docs.python.org/3/library/doctest.html#doctestparser-objects
+https://docs.python.org/3/library/doctest.html#doctestrunner-objects
+https://docs.python.org/3/library/doctest.html#outputchecker-objects
+https://docs.python.org/3/library/doctest.html#debugging
+https://docs.python.org/3/library/doctest.html#soapbox
+-->
+
+
 
 <!--
 Code in Place
@@ -89,6 +746,29 @@ https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
 
 https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
 
+Concepts- Problem Solving
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
+* Dynamic Programming
+
+
+
+<!--
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://realpython.com/python-thinking-recursively/
+-->
+
+Concepts- Bits
+* [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
+
+Problem Solving Flowchart
+
+https://docs.python.org/3/library/itertools.html
+https://docs.python.org/3/library/collections.html
+
+
+
+## Data Structures and Algorithms
 
 Data Structures- Linear
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
@@ -116,25 +796,6 @@ Algorithms- Sort
 Concepts- Memory (Stack vs. Heap)
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-
-Concepts- Problem Solving
-* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
-* Dynamic Programming
-
-<!--
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
-https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
-https://realpython.com/python-thinking-recursively/
--->
-
-Concepts- Bits
-* [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
-
-
-Problem Solving Flowchart
-
-https://docs.python.org/3/library/itertools.html
-https://docs.python.org/3/library/collections.html
 
 
 ## Lists as Stack or Queue
@@ -1361,25 +2022,6 @@ https://docs.python.org/3/tutorial/appendix.html#interactive-mode
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
 
-## Random
-
-9.6. random — Generate pseudo-random numbers
-https://docs.python.org/3/library/random.html
-
-9.6. random — Generate pseudo-random numbers
-See also section
-https://docs.python.org/3/library/random.html#module-random
-https://docs.python.org/3/library/random.html#bookkeeping-functions
-https://docs.python.org/3/library/random.html#functions-for-integers
-https://docs.python.org/3/library/random.html#functions-for-sequences
-https://docs.python.org/3/library/random.html#real-valued-distributions
-https://docs.python.org/3/library/random.html#alternative-generator
-https://docs.python.org/3/library/random.html#notes-on-reproducibility
-tutorials
-https://docs.python.org/3/library/random.html#examples-and-recipes
-
-
-
 
 11.4. Multi-threading
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
@@ -1399,760 +2041,23 @@ https://docs.python.org/3/library/heapq.html#module-heapq
 https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
 
-## Tutorial
 
-3. An Informal Introduction to Python
-https://docs.python.org/3/tutorial/introduction.html
-https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-https://docs.python.org/3/tutorial/introduction.html#numbers
-https://docs.python.org/3/tutorial/introduction.html#strings
-https://docs.python.org/3/library/stdtypes.html#textseq
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-Fibonacci series 
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-https://docs.python.org/3/library/functions.html#repr
-https://docs.python.org/3/library/pprint.html#module-pprint
-
-f-string
-https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
-https://docs.python.org/3/glossary.html#term-f-string
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
-
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
-
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
-
-
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-11.7. glob — Unix style pathname pattern expansion
-https://docs.python.org/3/library/glob.html
-https://docs.python.org/3/library/fnmatch.html
-
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://requests.readthedocs.io/en/master/
-https://requests.readthedocs.io/en/master/#beloved-features
-
-
-Scraping
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
-
-## Math
-## Pattern Matching
-
-https://docs.python.org/3/library/sqlite3.html#module-sqlite3
-
-https://www.sqlite.org/index.html
-https://docs.python.org/3/library/sqlite3.html
-
-
-10.12. Batteries Included
-https://docs.python.org/3/library/json.html#module-json
-https://docs.python.org/3/library/csv.html#module-csv
-
-14.1. csv — CSV File Reading and Writing
-https://docs.python.org/3/library/csv.html
-https://docs.python.org/3/library/csv.html#module-contents
-https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
-https://docs.python.org/3/library/csv.html#reader-objects
-https://docs.python.org/3/library/csv.html#writer-objects
-https://docs.python.org/3/library/csv.html#examples
-
-21. Internet Protocols and Support
-
-19.2. json — JSON encoder and decoder
-20.2. json — JSON encoder and decoder
-7.2.2. Saving structured data with json
-https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
-
-https://docs.python.org/3/library/json.html
-
-https://docs.python.org/3/library/json.html#basic-usage
-https://docs.python.org/3/library/json.html#encoders-and-decoders
-https://docs.python.org/3/library/json.html#exceptions
-https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
-https://docs.python.org/3/library/json.html#character-encodings
-https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
-https://docs.python.org/3/library/json.html#repeated-names-within-an-object
-https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
-https://docs.python.org/3/library/json.html#implementation-limitations
-https://docs.python.org/3/library/json.html#module-json.tool
-https://docs.python.org/3/library/json.html#command-line-options
-
-12.4. marshal — Internal Python object serialization
-https://docs.python.org/3/library/marshal.html
-
-
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#sys.argv
-
-22.1. webbrowser — Convenient Web-browser controller
-https://docs.python.org/3/library/webbrowser.html
-https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
-
-https://docs.python.org/3/howto/argparse.html
-"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
-
-Alternative
-16.5. getopt — C-style parser for command line options
-https://docs.python.org/3/library/getopt.html
-
-16.4. argparse — Parser for command-line options, arguments and sub-commands
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/argparse.html#example
-https://docs.python.org/3/library/argparse.html#creating-a-parser
-https://docs.python.org/3/library/argparse.html#adding-arguments
-https://docs.python.org/3/library/argparse.html#parsing-arguments
-https://docs.python.org/3/library/argparse.html#argumentparser-objects
-https://docs.python.org/3/library/argparse.html#prog
-https://docs.python.org/3/library/argparse.html#usage
-https://docs.python.org/3/library/argparse.html#description
-https://docs.python.org/3/library/argparse.html#epilog
-https://docs.python.org/3/library/argparse.html#parents
-https://docs.python.org/3/library/argparse.html#formatter-class
-https://docs.python.org/3/library/argparse.html#prefix-chars
-https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
-https://docs.python.org/3/library/argparse.html#argument-default
-https://docs.python.org/3/library/argparse.html#allow-abbrev
-https://docs.python.org/3/library/argparse.html#conflict-handler
-https://docs.python.org/3/library/argparse.html#add-help
-https://docs.python.org/3/library/argparse.html#the-add-argument-method
-https://docs.python.org/3/library/argparse.html#name-or-flags
-https://docs.python.org/3/library/argparse.html#action
-https://docs.python.org/3/library/argparse.html#nargs
-https://docs.python.org/3/library/argparse.html#const
-https://docs.python.org/3/library/argparse.html#default
-https://docs.python.org/3/library/argparse.html#type
-https://docs.python.org/3/library/argparse.html#choices
-https://docs.python.org/3/library/argparse.html#required
-https://docs.python.org/3/library/argparse.html#help
-https://docs.python.org/3/library/argparse.html#metavar
-https://docs.python.org/3/library/argparse.html#dest
-https://docs.python.org/3/library/argparse.html#action-classes
-https://docs.python.org/3/library/argparse.html#the-parse-args-method
-https://docs.python.org/3/library/argparse.html#option-value-syntax
-https://docs.python.org/3/library/argparse.html#invalid-arguments
-https://docs.python.org/3/library/argparse.html#arguments-containing
-https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
-https://docs.python.org/3/library/argparse.html#beyond-sys-argv
-https://docs.python.org/3/library/argparse.html#the-namespace-object
-https://docs.python.org/3/library/argparse.html#other-utilities
-https://docs.python.org/3/library/argparse.html#sub-commands
-https://docs.python.org/3/library/argparse.html#filetype-objects
-https://docs.python.org/3/library/argparse.html#argument-groups
-https://docs.python.org/3/library/argparse.html#mutual-exclusion
-https://docs.python.org/3/library/argparse.html#parser-defaults
-https://docs.python.org/3/library/argparse.html#printing-help
-https://docs.python.org/3/library/argparse.html#partial-parsing
-https://docs.python.org/3/library/argparse.html#customizing-file-parsing
-https://docs.python.org/3/library/argparse.html#exiting-methods
-https://docs.python.org/3/library/argparse.html#intermixed-parsing
-https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
-
-
-Unicode HOWTO
-https://docs.python.org/3/howto/unicode.html
-
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/wsgiref.html
-
-22.5. urllib — URL handling modules
-
-https://docs.python.org/3/library/urllib.html
-
-
-26.1. typing — Support for type hints
-https://docs.python.org/3/library/typing.html
-
-
-14. File Formats
-https://docs.python.org/3/library/fileformats.html
-
-6. Text Processing Services
-https://docs.python.org/3/library/text.html
-
-21. Structured Markup Processing Tools
-21.1. html — HyperText Markup Language support
-21.2. html.parser — Simple HTML and XHTML parser
-21.3. html.entities — Definitions of HTML general entities
-
-20. Structured Markup Processing Tools
-https://docs.python.org/3/library/markup.html
-20.1. html — HyperText Markup Language support
-https://docs.python.org/3/library/html.html
-
-https://docs.python.org/3/library/html.parser.html
-https://docs.python.org/3/library/html.parser.html#example-html-parser-application
-https://docs.python.org/3/library/html.parser.html#htmlparser-methods
-https://docs.python.org/3/library/html.parser.html#examples
-https://docs.python.org/3/library/html.entities.html
-
-
-22.22. http.server — HTTP servers
-22.23. http.cookies — HTTP state management
-22.24. http.cookiejar — Cookie handling for HTTP clients
-
-Not recommended for production
-https://docs.python.org/3/library/http.server.html
-https://docs.python.org/3/library/http.cookies.html
-https://docs.python.org/3/library/http.cookiejar.html
--->
-
-
-
-## Django System Checks, Error Reporting, Exceptions
-
-* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
-* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
-* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
-
-<!--
-https://docs.djangoproject.com/en/2.1/topics/testing/tools/#transactiontestcase
-
-Django Core Exceptions
-AppRegistryNotReady, 1014
-ObjectDoesNotExist, 1015 
-EmptyResultSet, 1015 
-FieldDoesNotExist, 1015 
-MultipleObjectsReturned, 1015 
-SuspiciousOperation, 1015 
-PermissionDenied, 1016 
-ViewDoesNotExist, 1016 
-MiddlewareNotUsed, 1016 
-ImproperlyConfigured, 1016 
-FieldError, 1016 
-ValidationError, 1016 
-NON_FIELD_ERRORS
-
-URL Resolver exceptions
-Resolver404
-NoReverseMatch, 1017 
-
-Database Exceptions
-
-Http Exceptions
-UnreadablePostError, 1018 
-
-Transaction Exceptions
-TransactionManagementError, 1018 
-
-Testing Framework Exceptions
-RedirectCycleError
-
-Python Exceptions
-
-
-## Django Errors and Exceptions
-
-DoesNotExist
-Model.DoesNotExist, 1155
-TemplateDoesNotExist, 276 
-
-Django Errors
-PageNotAnInteger, 507 
-ContextPopException, 1376 
-EmptyPage, 507 
-
-Errors
-IntegrityError, 1017 
-InterfaceError, 1017 
-InternalError, 1017 
-models.ProtectedError, 1017 
-OperationalError, 1017 
-NotSupportedError, 1017 
-CommandError, 545 
-DatabaseError, 1017 
-DataError, 1017 
-Error, 1017 
-client.RedirectCycleError, 1018  
-ProgrammingError, 1017 
-TemplateSyntaxError, 276 
--->
-   
-## Exceptions
-
-Two kinds of errors
-* syntax errors
-* logical errors
-
-Traceback
-* 1: file name, line number, module (if applicable)
-* 2: line, ^ (caret) where the error is
-* 3: type of error and description
-     
-Example
-
-```python
-$ python program.py
-  File "program.py", line 3, in <module>
-print 'Hello world! ^
-SyntaxError: EOL while scanning string literal
-```
-
-### Error Reporting Versus Failing Silently
-
-Two ways to deal with user errors (you decide whether error should be reported to user)
-* report error
-* let error fail silently (program continues to run without reporting error to user)
-
-### Failing Silently
-
-Use the pass statement to fail silently
-
-```python
-try:
-    something
-except:
-    pass
-```
-
-### Raising an Exception
-
-Use it when you think an error might occur while your program is running. 
-1. try block: code that will run that might cause an exception
-2. except block: code that should run in response if a particular type of exception occurs
-3. else block: code that should only run if try block was successful
-
-```python
-try:
-    something
-except:
-    raise Error
-```
-
-Don’t use bare except blocks (use ```Exception``` instead)
-
-```python
-try:
-    something
-except:
-    do something else
-```
-
-try-except statement
-
-```python
-try:
-    something
-except Exception:
-    do something else
-```
-
-try-except-else statement
-
-```python
-try:
-    something
-except Exception:
-    do something else
-else:
-    do something else
-```
-
-Print the exception
-
-```python
-try:
-    something
-except Exception as e:
-    print(e, type(e))
-```
-
-<!--
-8.4. The try statement
-https://docs.python.org/3/reference/compound_stmts.html#try
-https://docs.python.org/3/reference/compound_stmts.html#except
-https://docs.python.org/3/reference/compound_stmts.html#finally
-
-from
-https://docs.python.org/3/reference/simple_stmts.html#from
-
-7.8. The raise statement
-https://docs.python.org/3/reference/simple_stmts.html#raise
--->
-
-## Exceptions and Errors
-
-Repeat
-16.1.1. Error Handling
-https://docs.python.org/3/tutorial/appendix.html#error-handling
-
-8. Errors and Exceptions
-8.1. Syntax Errors
-8.2. Exceptions
-8.3. Handling Exceptions
-8.4. Raising Exceptions
-8.5. User-defined Exceptions
-8.6. Defining Clean-up Actions
-8.7. Predefined Clean-up Actions
-
-* [errors](https://docs.python.org/3/tutorial/errors.html)
-
-https://docs.python.org/3/tutorial/errors.html#errors-and-exceptions
-https://docs.python.org/3/tutorial/errors.html#syntax-errors
-https://docs.python.org/3/tutorial/errors.html#exceptions
-https://docs.python.org/3/tutorial/errors.html#handling-exceptions
-https://docs.python.org/3/tutorial/errors.html#raising-exceptions
-https://docs.python.org/3/tutorial/errors.html#user-defined-exceptions
-https://docs.python.org/3/tutorial/errors.html#defining-clean-up-actions
-https://docs.python.org/3/tutorial/errors.html#predefined-clean-up-actions
-
-
-## Python Built-In Exceptions Hierarchy
-
-<!--
-The most common exceptions?
-
-https://docs.python.org/3/library/exceptions.html#KeyboardInterrupt
-https://docs.python.org/3/library/exceptions.html#TypeError | Built-in Exceptions — Python 3.8.3 documentation
-https://docs.python.org/3/library/exceptions.html#NameError | Built-in Exceptions — Python 3.8.3 documentation
-https://docs.python.org/3/library/exceptions.html#ValueError | Built-in Exceptions — Python 3.8.3 documentation
--->
-
-5. Built-in Exceptions
-5.1. Base classes
-5.2. Concrete exceptions
-5.3. Warnings
-5.4. Exception hierarchy
-
-* [exceptions](https://docs.python.org/3/library/exceptions.html)
-
-https://docs.python.org/3/library/exceptions.html#base-classes
-https://docs.python.org/3/library/exceptions.html#concrete-exceptions
-
-https://docs.python.org/3/library/exceptions.html#os-exceptions
-
-
-Django raises built-in Python exceptions when appropriate.
-https://docs.python.org/3/library/exceptions.html#built-in-exceptions
-
-5.4. Exception hierarchy
-https://docs.python.org/3/library/exceptions.html#exception-hierarchy
-
-BaseException
-  +-- Exception
-      +-- StopIteration
-      +-- StopAsyncIteration
-      
- +-- SystemExit
- +-- KeyboardInterrupt
- +-- GeneratorExit
- 
-      +-- ImportError
-      |    +-- ModuleNotFoundError
-      
-      +-- SyntaxError
-      |    +-- IndentationError
-      |         +-- TabError
-      
-      +-- NameError
-      |    +-- UnboundLocalError
-      
-      +-- TypeError
-      +-- ValueError
-      |    +-- UnicodeError
-      |         +-- UnicodeDecodeError
-      |         +-- UnicodeEncodeError
-      |         +-- UnicodeTranslateError
-      
-      +-- AttributeError 
-      
-      +-- LookupError
-      |    +-- IndexError
-      |    +-- KeyError
-      
-      +-- ArithmeticError
-      |    +-- FloatingPointError
-      |    +-- OverflowError
-      |    +-- ZeroDivisionError
-      
-      +-- EOFError
-      
-      +-- AssertionError
-              
-      +-- ReferenceError
-      
-      +-- OSError
-      |    +-- BlockingIOError
-      |    +-- ChildProcessError
-      |    +-- ConnectionError
-      |    |    +-- BrokenPipeError
-      |    |    +-- ConnectionAbortedError
-      |    |    +-- ConnectionRefusedError
-      |    |    +-- ConnectionResetError
-      |    +-- FileExistsError
-      |    +-- FileNotFoundError
-      |    +-- InterruptedError
-      |    +-- IsADirectoryError
-      |    +-- NotADirectoryError
-      |    +-- PermissionError
-      |    +-- ProcessLookupError
-      |    +-- TimeoutError    
-      
-      +-- SystemError
-      
-      +-- RuntimeError
-      |    +-- NotImplementedError
-      |    +-- RecursionError
-      
-      +-- MemoryError     
-      +-- BufferError
-               
-Python Warnings
-
-      +-- Warning
-
-           +-- SyntaxWarning
-           +-- UserWarning
-           +-- ImportWarning
-	   
-           +-- UnicodeWarning
-           +-- BytesWarning
-	   
-           +-- RuntimeWarning
-           +-- ResourceWarning
-	   
-           +-- FutureWarning	   
-           +-- DeprecationWarning
-           +-- PendingDeprecationWarning
-        
-## Warnings
-
-https://docs.python.org/3/library/exceptions.html#warnings
-
-Python Warnings
-* [warnings](https://docs.python.org/3/library/warnings.html)
-
-30.5. warnings — Warning control
-https://docs.python.org/3/library/warnings.html#warning-categories
-https://docs.python.org/3/library/warnings.html#the-warnings-filter
-https://docs.python.org/3/library/warnings.html#describing-warning-filters
-https://docs.python.org/3/library/warnings.html#default-warning-filter
-https://docs.python.org/3/library/warnings.html#overriding-the-default-filter
-https://docs.python.org/3/library/warnings.html#temporarily-suppressing-warnings
-https://docs.python.org/3/library/warnings.html#testing-warnings
-https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-of-dependencies
-https://docs.python.org/3/library/warnings.html#available-functions
-https://docs.python.org/3/library/warnings.html#available-context-managers
-
-## Performance
-
-36.11. resource — Resource usage information
-https://docs.python.org/3/library/resource.html
-https://docs.python.org/3/library/resource.html#resource-limits
-https://docs.python.org/3/library/resource.html#resource-usage
-
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-
-28.4. The Python Profilers
-28.5. timeit — Measure execution time of small code snippets
-28.6. trace — Trace or track Python statement execution
-https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/timeit.html
-https://docs.python.org/3/library/trace.html
-
-https://docs.python.org/3/library/profile.html#module-profile
-https://docs.python.org/3/library/timeit.html#module-timeit
-https://docs.python.org/3/library/profile.html#module-pstats
-
-
-https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-https://docs.python.org/3/library/profile.html#module-cProfile
-https://docs.python.org/3/library/profile.html#the-stats-class
-https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
-https://docs.python.org/3/library/profile.html#limitations
-https://docs.python.org/3/library/profile.html#calibration
-https://docs.python.org/3/library/profile.html#using-a-custom-timer
-
-https://docs.python.org/3/library/timeit.html
-https://docs.python.org/3/library/timeit.html#basic-examples
-https://docs.python.org/3/library/timeit.html#python-interface
-https://docs.python.org/3/library/timeit.html#command-line-interface
-https://docs.python.org/3/library/timeit.html#examples
-
-https://docs.python.org/3/library/trace.html
-https://docs.python.org/3/library/trace.html#command-line-usage
-https://docs.python.org/3/library/trace.html#main-options
-https://docs.python.org/3/library/trace.html#modifiers
-https://docs.python.org/3/library/trace.html#filters
-https://docs.python.org/3/library/trace.html#programmatic-interface
-
-29.9. traceback — Print or retrieve a stack traceback
-https://docs.python.org/3/library/traceback.html
-https://docs.python.org/3/library/traceback.html#tracebackexception-objects
-https://docs.python.org/3/library/traceback.html#stacksummary-objects
-https://docs.python.org/3/library/traceback.html#framesummary-objects
-https://docs.python.org/3/library/traceback.html#traceback-examples
-
-## Logging
-
-11.5. Logging
-https://docs.python.org/3/tutorial/stdlib2.html#logging
-https://docs.python.org/3/library/logging.html#module-logging
-
-
-## Tests
-
-27.3. doctest — Test interactive Python examples
-https://docs.python.org/3/library/doctest.html
-
-<!--
-https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
-https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
-https://docs.python.org/3/library/doctest.html#how-it-works
-https://docs.python.org/3/library/doctest.html#which-docstrings-are-examined
-https://docs.python.org/3/library/doctest.html#how-are-docstring-examples-recognized
-https://docs.python.org/3/library/doctest.html#what-s-the-execution-context
-https://docs.python.org/3/library/doctest.html#what-about-exceptions
-https://docs.python.org/3/library/doctest.html#option-flags
-https://docs.python.org/3/library/doctest.html#directives
-https://docs.python.org/3/library/doctest.html#warnings
-
-https://docs.python.org/3/library/doctest.html#basic-api
-https://docs.python.org/3/library/doctest.html#unittest-api
-https://docs.python.org/3/library/doctest.html#advanced-api
-
-https://docs.python.org/3/library/doctest.html#doctest-objects
-https://docs.python.org/3/library/doctest.html#example-objects
-https://docs.python.org/3/library/doctest.html#doctestfinder-objects
-https://docs.python.org/3/library/doctest.html#doctestparser-objects
-https://docs.python.org/3/library/doctest.html#doctestrunner-objects
-https://docs.python.org/3/library/doctest.html#outputchecker-objects
-https://docs.python.org/3/library/doctest.html#debugging
-https://docs.python.org/3/library/doctest.html#soapbox
--->
-
-
-27.4. unittest — Unit testing framework
-27.5. unittest.mock — mock object library
-27.6. unittest.mock — getting started
-27.8. test — Regression tests package for Python
-27.9. test.support — Utilities for the Python test suite
-27.10. test.support.script_helper — Utilities for the Python execution tests
-
-https://docs.python.org/3/library/unittest.html#unittest.TestCase
-
-7.3. The assert statement
-https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
-AssertionError
-
-Where is this?
-https://docs.python.org/3/library/unittest.html#assert-methods
-
-https://docs.python.org/3/library/unittest.html#test-discovery
-
-https://docs.python.org/3/library/unittest.html
-https://docs.python.org/3/library/unittest.html#basic-example
-https://docs.python.org/3/library/unittest.html#command-line-interface
-https://docs.python.org/3/library/unittest.html#command-line-options
-https://docs.python.org/3/library/unittest.html#organizing-test-code
-https://docs.python.org/3/library/unittest.html#re-using-old-test-code
-https://docs.python.org/3/library/unittest.html#skipping-tests-and-expected-failures
-https://docs.python.org/3/library/unittest.html#distinguishing-test-iterations-using-subtests
-https://docs.python.org/3/library/unittest.html#classes-and-functions
-https://docs.python.org/3/library/unittest.html#test-cases
-https://docs.python.org/3/library/unittest.html#deprecated-aliases
-https://docs.python.org/3/library/unittest.html#grouping-tests
-https://docs.python.org/3/library/unittest.html#loading-and-running-tests
-https://docs.python.org/3/library/unittest.html#class-and-module-fixtures
-https://docs.python.org/3/library/unittest.html#setupclass-and-teardownclass
-https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
-https://docs.python.org/3/library/unittest.html#signal-handling
-
-Jeff's advice about mock... ?
-unittest.mock patch
-https://docs.python.org/3/library/unittest.mock.html
-https://docs.python.org/3/library/unittest.mock.html#quick-guide
-https://docs.python.org/3/library/unittest.mock.html#the-mock-class
-https://docs.python.org/3/library/unittest.mock.html#calling
-https://docs.python.org/3/library/unittest.mock.html#deleting-attributes
-https://docs.python.org/3/library/unittest.mock.html#mock-names-and-the-name-attribute
-https://docs.python.org/3/library/unittest.mock.html#attaching-mocks-as-attributes
-https://docs.python.org/3/library/unittest.mock.html#the-patchers
-https://docs.python.org/3/library/unittest.mock.html#patch
-https://docs.python.org/3/library/unittest.mock.html#patch-object
-https://docs.python.org/3/library/unittest.mock.html#patch-dict
-https://docs.python.org/3/library/unittest.mock.html#patch-multiple
-https://docs.python.org/3/library/unittest.mock.html#patch-methods-start-and-stop
-https://docs.python.org/3/library/unittest.mock.html#patch-builtins
-https://docs.python.org/3/library/unittest.mock.html#test-prefix
-https://docs.python.org/3/library/unittest.mock.html#nesting-patch-decorators
-https://docs.python.org/3/library/unittest.mock.html#where-to-patch
-https://docs.python.org/3/library/unittest.mock.html#patching-descriptors-and-proxy-objects
-https://docs.python.org/3/library/unittest.mock.html#magicmock-and-magic-method-support
-https://docs.python.org/3/library/unittest.mock.html#mocking-magic-methods
-https://docs.python.org/3/library/unittest.mock.html#magic-mock
-https://docs.python.org/3/library/unittest.mock.html#helpers
-https://docs.python.org/3/library/unittest.mock.html#sentinel
-https://docs.python.org/3/library/unittest.mock.html#default
-https://docs.python.org/3/library/unittest.mock.html#call
-https://docs.python.org/3/library/unittest.mock.html#create-autospec
-https://docs.python.org/3/library/unittest.mock.html#any
-https://docs.python.org/3/library/unittest.mock.html#filter-dir
-https://docs.python.org/3/library/unittest.mock.html#mock-open
-https://docs.python.org/3/library/unittest.mock.html#autospeccing
-https://docs.python.org/3/library/unittest.mock.html#sealing-mocks
-
-https://docs.python.org/3/library/unittest.mock-examples.html
-https://docs.python.org/3/library/unittest.mock-examples.html#unittest-mock-getting-started
-https://docs.python.org/3/library/unittest.mock-examples.html#using-mock
-https://docs.python.org/3/library/unittest.mock-examples.html#mock-patching-methods
-https://docs.python.org/3/library/unittest.mock-examples.html#mock-for-method-calls-on-an-object
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-classes
-https://docs.python.org/3/library/unittest.mock-examples.html#naming-your-mocks
-https://docs.python.org/3/library/unittest.mock-examples.html#tracking-all-calls
-https://docs.python.org/3/library/unittest.mock-examples.html#setting-return-values-and-attributes
-https://docs.python.org/3/library/unittest.mock-examples.html#raising-exceptions-with-mocks
-https://docs.python.org/3/library/unittest.mock-examples.html#side-effect-functions-and-iterables
-https://docs.python.org/3/library/unittest.mock-examples.html#creating-a-mock-from-an-existing-object
-https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
-https://docs.python.org/3/library/unittest.mock-examples.html#further-examples
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-chained-calls
-https://docs.python.org/3/library/unittest.mock-examples.html#partial-mocking
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-generator-method
-https://docs.python.org/3/library/unittest.mock-examples.html#applying-the-same-patch-to-every-test-method
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-unbound-methods
-https://docs.python.org/3/library/unittest.mock-examples.html#checking-multiple-calls-with-mock
-https://docs.python.org/3/library/unittest.mock-examples.html#coping-with-mutable-arguments
-https://docs.python.org/3/library/unittest.mock-examples.html#nesting-patches
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-dictionary-with-magicmock
-https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-and-their-attributes
-https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
-https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
-https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
-
+## Random
+
+9.6. random — Generate pseudo-random numbers
+https://docs.python.org/3/library/random.html
+
+9.6. random — Generate pseudo-random numbers
+See also section
+https://docs.python.org/3/library/random.html#module-random
+https://docs.python.org/3/library/random.html#bookkeeping-functions
+https://docs.python.org/3/library/random.html#functions-for-integers
+https://docs.python.org/3/library/random.html#functions-for-sequences
+https://docs.python.org/3/library/random.html#real-valued-distributions
+https://docs.python.org/3/library/random.html#alternative-generator
+https://docs.python.org/3/library/random.html#notes-on-reproducibility
+tutorials
+https://docs.python.org/3/library/random.html#examples-and-recipes
 
 ## Pattern Matching
 
@@ -2325,6 +2230,105 @@ https://docs.python.org/3/library/sysconfig.html
 11.10. shutil — High-level file operations
 https://docs.python.org/3/library/shutil.html
 
+## Testing
+
+27.4. unittest — Unit testing framework
+27.5. unittest.mock — mock object library
+27.6. unittest.mock — getting started
+27.8. test — Regression tests package for Python
+27.9. test.support — Utilities for the Python test suite
+27.10. test.support.script_helper — Utilities for the Python execution tests
+
+https://docs.python.org/3/library/unittest.html#unittest.TestCase
+
+7.3. The assert statement
+https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
+AssertionError
+
+Where is this?
+https://docs.python.org/3/library/unittest.html#assert-methods
+
+https://docs.python.org/3/library/unittest.html#test-discovery
+
+https://docs.python.org/3/library/unittest.html
+https://docs.python.org/3/library/unittest.html#basic-example
+https://docs.python.org/3/library/unittest.html#command-line-interface
+https://docs.python.org/3/library/unittest.html#command-line-options
+https://docs.python.org/3/library/unittest.html#organizing-test-code
+https://docs.python.org/3/library/unittest.html#re-using-old-test-code
+https://docs.python.org/3/library/unittest.html#skipping-tests-and-expected-failures
+https://docs.python.org/3/library/unittest.html#distinguishing-test-iterations-using-subtests
+https://docs.python.org/3/library/unittest.html#classes-and-functions
+https://docs.python.org/3/library/unittest.html#test-cases
+https://docs.python.org/3/library/unittest.html#deprecated-aliases
+https://docs.python.org/3/library/unittest.html#grouping-tests
+https://docs.python.org/3/library/unittest.html#loading-and-running-tests
+https://docs.python.org/3/library/unittest.html#class-and-module-fixtures
+https://docs.python.org/3/library/unittest.html#setupclass-and-teardownclass
+https://docs.python.org/3/library/unittest.html#setupmodule-and-teardownmodule
+https://docs.python.org/3/library/unittest.html#signal-handling
+
+Jeff's advice about mock... ?
+unittest.mock patch
+https://docs.python.org/3/library/unittest.mock.html
+https://docs.python.org/3/library/unittest.mock.html#quick-guide
+https://docs.python.org/3/library/unittest.mock.html#the-mock-class
+https://docs.python.org/3/library/unittest.mock.html#calling
+https://docs.python.org/3/library/unittest.mock.html#deleting-attributes
+https://docs.python.org/3/library/unittest.mock.html#mock-names-and-the-name-attribute
+https://docs.python.org/3/library/unittest.mock.html#attaching-mocks-as-attributes
+https://docs.python.org/3/library/unittest.mock.html#the-patchers
+https://docs.python.org/3/library/unittest.mock.html#patch
+https://docs.python.org/3/library/unittest.mock.html#patch-object
+https://docs.python.org/3/library/unittest.mock.html#patch-dict
+https://docs.python.org/3/library/unittest.mock.html#patch-multiple
+https://docs.python.org/3/library/unittest.mock.html#patch-methods-start-and-stop
+https://docs.python.org/3/library/unittest.mock.html#patch-builtins
+https://docs.python.org/3/library/unittest.mock.html#test-prefix
+https://docs.python.org/3/library/unittest.mock.html#nesting-patch-decorators
+https://docs.python.org/3/library/unittest.mock.html#where-to-patch
+https://docs.python.org/3/library/unittest.mock.html#patching-descriptors-and-proxy-objects
+https://docs.python.org/3/library/unittest.mock.html#magicmock-and-magic-method-support
+https://docs.python.org/3/library/unittest.mock.html#mocking-magic-methods
+https://docs.python.org/3/library/unittest.mock.html#magic-mock
+https://docs.python.org/3/library/unittest.mock.html#helpers
+https://docs.python.org/3/library/unittest.mock.html#sentinel
+https://docs.python.org/3/library/unittest.mock.html#default
+https://docs.python.org/3/library/unittest.mock.html#call
+https://docs.python.org/3/library/unittest.mock.html#create-autospec
+https://docs.python.org/3/library/unittest.mock.html#any
+https://docs.python.org/3/library/unittest.mock.html#filter-dir
+https://docs.python.org/3/library/unittest.mock.html#mock-open
+https://docs.python.org/3/library/unittest.mock.html#autospeccing
+https://docs.python.org/3/library/unittest.mock.html#sealing-mocks
+
+https://docs.python.org/3/library/unittest.mock-examples.html
+https://docs.python.org/3/library/unittest.mock-examples.html#unittest-mock-getting-started
+https://docs.python.org/3/library/unittest.mock-examples.html#using-mock
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-patching-methods
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-for-method-calls-on-an-object
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-classes
+https://docs.python.org/3/library/unittest.mock-examples.html#naming-your-mocks
+https://docs.python.org/3/library/unittest.mock-examples.html#tracking-all-calls
+https://docs.python.org/3/library/unittest.mock-examples.html#setting-return-values-and-attributes
+https://docs.python.org/3/library/unittest.mock-examples.html#raising-exceptions-with-mocks
+https://docs.python.org/3/library/unittest.mock-examples.html#side-effect-functions-and-iterables
+https://docs.python.org/3/library/unittest.mock-examples.html#creating-a-mock-from-an-existing-object
+https://docs.python.org/3/library/unittest.mock-examples.html#patch-decorators
+https://docs.python.org/3/library/unittest.mock-examples.html#further-examples
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-chained-calls
+https://docs.python.org/3/library/unittest.mock-examples.html#partial-mocking
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-generator-method
+https://docs.python.org/3/library/unittest.mock-examples.html#applying-the-same-patch-to-every-test-method
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-unbound-methods
+https://docs.python.org/3/library/unittest.mock-examples.html#checking-multiple-calls-with-mock
+https://docs.python.org/3/library/unittest.mock-examples.html#coping-with-mutable-arguments
+https://docs.python.org/3/library/unittest.mock-examples.html#nesting-patches
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-a-dictionary-with-magicmock
+https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-and-their-attributes
+https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
+https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
+https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
 ## Built-In Functions- Formatting and Printing
 
