@@ -158,13 +158,16 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javasc
 
 ## Python Testing
 
-Python and Django Debugging
-* [bdb](https://docs.python.org/3/library/bdb.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-
 Python Testing Built-In Tools
 * [unittest](https://docs.python.org/3/library/unittest.html)
 * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+
+
+Python Debugger
+* [bdb](https://docs.python.org/3/library/bdb.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+
+doctest
 * [doctest](https://docs.python.org/3/library/doctest.html)
 
 ## pytest
@@ -188,10 +191,9 @@ https://docs.pytest.org/en/latest/ | pytest: helps you write better programs —
 
 https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
 https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
 
 https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
-
-https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
 https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
 
 https://docs.pytest.org/en/latest/example/parametrize.html
@@ -214,10 +216,12 @@ Django Test Plus
 * [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 
 <!--
-https://pytest-django.readthedocs.io/en/latest/
 https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
 
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
+
+Important
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
 
 https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
 
@@ -307,11 +311,6 @@ Python- Django- Debug Toolbar and Panel
 * [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
 * [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
-<!--
-Important
-https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
--->
 
 ## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
 
