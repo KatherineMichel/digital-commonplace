@@ -120,14 +120,25 @@ https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring S
 
 https://testdriven.io/ | Test Driven Development Courses
 
+Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
+
+Django/pytest
+https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
+
 Brian Okken
 http://pythontesting.net/start-here/
 -->
 
 
 <!--
-Assert
+Exceptions
+https://docs.python.org/3/library/exceptions.html | Built-in Exceptions — Python 3.9.5 documentation
 
+Assert
 https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
 -->
 
@@ -156,7 +167,15 @@ https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
 -->
 
-## Python Testing
+## Flask Testing
+
+<!--
+Flask
+https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+-->
+
+## Python Testing- unittest
 
 Python Testing Built-In Tools
 * [unittest](https://docs.python.org/3/library/unittest.html)
@@ -182,9 +201,6 @@ https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework m
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 
 https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
-
-Flask
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
 
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
