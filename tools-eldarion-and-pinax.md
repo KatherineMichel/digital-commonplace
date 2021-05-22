@@ -116,7 +116,7 @@ Not used- but could be?
 https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
 
 https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+
 https://pypi.org/project/flake8-black/ | flake8-black · PyPI
 -->
 
