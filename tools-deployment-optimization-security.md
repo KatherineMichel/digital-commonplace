@@ -176,6 +176,7 @@ Diagnostic tools
 Tools matrix
 https://www.integralist.co.uk/posts/profiling-python/
 
+
 27.4. The Python Profilers
 https://docs.python.org/3/library/profile.html#module-pstats
 https://docs.python.org/3/library/profile.html#pstats.Stats
@@ -201,6 +202,7 @@ http://scipy.github.io/old-wiki/pages/PerformancePython
 
 https://docs.python.org/3/library/sys.html#sys.setcheckinterval
 -->
+
 
 ## Time Complexity and Optimization- Improvement Methods
 
