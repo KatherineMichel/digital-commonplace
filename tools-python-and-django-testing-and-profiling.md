@@ -1,5 +1,70 @@
 # Tools- Python and Django Testing and Profiling
 
+<!--
+tox
+https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
+
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
+
+https://pypi.org/project/pep8/ | pep8 · PyPI
+https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
+https://pypi.org/project/flake8/ | flake8 · PyPI
+
+Test plugins
+https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
+https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
+https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
+
+https://boto3.readthedocs.io/en/latest/index.html
+
+state behavior versus behavior verification
+https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
+
+"Write integration tests for all pieces of code where you either serialize or deserialize data. This happens more often than you might think. Think about:
+
+Calls to your services' REST API
+Reading from and writing to databases
+Calling other application's APIs
+Reading from and writing to queues
+Writing to the filesystem"
+-->
+
+
+<!--
+http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://www.hillelwayne.com/talks/beyond-unit-tests/
+https://www.youtube.com/watch?v=MYucYon2-lk
+
+https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
+
+DjangoCon Keynote by Ana
+-->
+
+<!--
+https://pythontesting.net/framework/pytest/pytest-introduction/
+
+https://pythontesting.net/agile/test-first-programming/
+http://www.extremeprogramming.org/rules/testfirst.html
+https://martinfowler.com/bliki/SelfTestingCode.html
+https://martinfowler.com/bliki/TestDrivenDevelopment.html
+https://learntdd.in/concepts.html
+
+https://en.wikipedia.org/wiki/Scenario_testing
+https://martinfowler.com/articles/mocksArentStubs.html
+https://thoughtbot.com/blog/i-mock-your-fixtures-too
+-->
+
+<!--
+https://hynek.me/articles/document-your-tests/
+
+Django Testing
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+-->
+
+
 ## Big O Notation
 
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
@@ -47,8 +112,11 @@ Sites
 * [Automation Panda](https://automationpanda.com)
 https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
 https://automationpanda.com/python/
+https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
 https://automationpanda.com/bdd/
 https://automationpanda.com/tag/development/
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
 
 https://testdriven.io/ | Test Driven Development Courses
 
@@ -104,10 +172,12 @@ Python Testing Built-In Tools
 pytest 
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
-Django Test Plus
-* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
-
 <!--
+https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+
+
+https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
+
 https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
 
 Flask
@@ -140,8 +210,13 @@ https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on T
 Django
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
+Django Test Plus
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
 <!--
 https://pytest-django.readthedocs.io/en/latest/
+https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
+
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 
 https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
@@ -177,6 +252,11 @@ Other Tools
 
 https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
 https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+
+https://factoryboy.readthedocs.io/en/latest/ | factory_boy — Factory Boy latest documentation
+https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
+https://faker.readthedocs.io/en/master/ | Welcome to Faker’s documentation! — Faker 4.1.2 documentation
+https://pypi.org/project/django-faker/ | django-faker · PyPI
 -->
 
 ## Selenium
@@ -214,3 +294,29 @@ https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Test
 
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 -->
+
+## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
+
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Pylint Django
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
+
+Python- Django- Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+Important
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+-->
+
+## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
+
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
+
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
