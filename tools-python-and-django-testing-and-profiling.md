@@ -151,6 +151,9 @@ Django Testing- Official
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
 <!--
+Django raises built-in Python exceptions when appropriate.
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
+
 https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
 
@@ -235,6 +238,11 @@ Django
 
 Django Test Plus
 * [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
+<!--
+DRF Testing
+https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
+-->
 
 <!--
 https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
