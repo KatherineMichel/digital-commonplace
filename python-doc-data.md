@@ -269,6 +269,9 @@ https://docs.python.org/3/library/traceback.html
 * [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
 
 <!--
+Python Build-in Exceptions
+https://docs.djangoproject.com/en/dev/ref/exceptions/#python-exceptions
+
 https://docs.djangoproject.com/en/2.1/topics/testing/tools/#transactiontestcase
 
 Django Core Exceptions
