@@ -131,6 +131,9 @@ https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures fo
 
 Brian Okken
 http://pythontesting.net/start-here/
+
+Recommended!
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
 -->
 
 
@@ -203,13 +206,15 @@ pytest
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
-https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-
+pytest-selenium (plugin)
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
 
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 
 https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
 
+
+https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
@@ -231,6 +236,20 @@ https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twit
 https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
 -->
 
+<!--
+pytest
+
+pytest Books
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://www.packtpub.com/web-development/pytest-quick-start-guide
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Test Anything Protocol
+https://en.wikipedia.org/wiki/Test_Anything_Protocol
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+-->
+
 ## Django Testing
 
 Django
@@ -245,26 +264,23 @@ https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST
 -->
 
 <!--
-https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
+django-selenium
+https://pypi.org/project/django-selenium/
 
+
+pytest-django (plugin)
+https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 
-Important
-https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
-
+pytest fixture
+django-test-plus
 https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
 
-pytest Books
-https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
-https://www.packtpub.com/web-development/pytest-quick-start-guide
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
-
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
-
-Test Anything Protocol
-https://en.wikipedia.org/wiki/Test_Anything_Protocol
-https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+django-test-plus
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
 -->
+
 
 <!--
 Automation Panda
