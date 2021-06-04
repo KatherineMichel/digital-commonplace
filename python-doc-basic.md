@@ -530,6 +530,66 @@ MACRO_CASE
 CONSTANT_NAME
 ```
 
+## Modules
+
+* Store functions in a seperate file (called a module)
+* Store module in same directory as your main program
+* Import the functions you need into the file containing your main program
+
+## UTF-8 and ASCII encodings
+
+For special language characters, put this at top of file to avoid ASCII encodings errors
+
+```python
+# -*- coding: utf-8 -*-
+```
+
+https://en.wikipedia.org/wiki/ASCII
+https://en.wikipedia.org/wiki/Unicode
+https://en.wikipedia.org/wiki/UTF-8
+
+## Import
+
+Import an entire module (every function in the module is available in the program file)
+
+```python
+import module
+
+module.function()
+```
+
+Selective import (only imported function is available in the program file)
+
+```python
+from module import function
+
+function()
+```
+
+Give a module an alias
+
+```python
+import module as alias
+
+alias.function()
+```
+
+Give a function an alias
+
+```python
+from module import function as alias
+
+alias()
+```
+
+Import all functions from a module (anti-pattern)
+
+```python
+from module import *
+
+function()
+```
+
 ## Example Module File
 
 Attribution
@@ -614,65 +674,91 @@ class Class:
         action
 ```
 
-## Modules
+## Math
 
-* Store functions in a seperate file (called a module)
-* Store module in same directory as your main program
-* Import the functions you need into the file containing your main program
+3.2. First Steps Towards Programming
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
 
-## UTF-8 and ASCII encodings
+3.1. Using Python as a Calculator
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+3.1.1. Numbers
+https://docs.python.org/3/tutorial/introduction.html#numbers
 
-For special language characters, put this at top of file to avoid ASCII encodings errors
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
 
-```python
-# -*- coding: utf-8 -*-
-```
+9.7.4. Exceptions
+exception statistics.StatisticsError
 
-https://en.wikipedia.org/wiki/ASCII
-https://en.wikipedia.org/wiki/Unicode
-https://en.wikipedia.org/wiki/UTF-8
 
-## Import
+9. Numeric and Mathematical Modules
+https://docs.python.org/3/library/numeric.html
+9.1. numbers — Numeric abstract base classes
+https://docs.python.org/3/library/numbers.html
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html
+9.3. cmath — Mathematical functions for complex numbers
+https://docs.python.org/3/library/cmath.html
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html
+9.7. statistics — Mathematical statistics functions
+https://docs.python.org/3/library/statistics.html
 
-Import an entire module (every function in the module is available in the program file)
 
-```python
-import module
+https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
 
-module.function()
-```
+https://docs.python.org/3/library/numbers.html#module-numbers
+https://docs.python.org/3/library/numbers.html#the-numeric-tower
+https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
+https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
 
-Selective import (only imported function is available in the program file)
+9.2. math — Mathematical functions
+https://docs.python.org/3/library/math.html#module-math
+https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
+https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/math.html#trigonometric-functions
+https://docs.python.org/3/library/math.html#angular-conversion
+https://docs.python.org/3/library/math.html#hyperbolic-functions
+https://docs.python.org/3/library/math.html#special-functions
+https://docs.python.org/3/library/math.html#constants
 
-```python
-from module import function
+https://docs.python.org/3/library/cmath.html#module-cmath
+https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
+https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
+https://docs.python.org/3/library/cmath.html#trigonometric-functions
+https://docs.python.org/3/library/cmath.html#hyperbolic-functions
+https://docs.python.org/3/library/cmath.html#classification-functions
+https://docs.python.org/3/library/cmath.html#constants
 
-function()
-```
+9.4. decimal — Decimal fixed point and floating point arithmetic
+https://docs.python.org/3/library/decimal.html#module-decimal
+https://docs.python.org/3/library/decimal.html#quick-start-tutorial
+https://docs.python.org/3/library/decimal.html#decimal-objects
+https://docs.python.org/3/library/decimal.html#logical-operands
+https://docs.python.org/3/library/decimal.html#context-objects
+https://docs.python.org/3/library/decimal.html#constants
+https://docs.python.org/3/library/decimal.html#rounding-modes
+https://docs.python.org/3/library/decimal.html#signals
+https://docs.python.org/3/library/decimal.html#floating-point-notes
+https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
+https://docs.python.org/3/library/decimal.html#special-values
+https://docs.python.org/3/library/decimal.html#working-with-threads
+https://docs.python.org/3/library/decimal.html#recipes
+https://docs.python.org/3/library/decimal.html#decimal-faq
 
-Give a module an alias
+9.5. fractions — Rational numbers
+https://docs.python.org/3/library/fractions.html#module-fractions
 
-```python
-import module as alias
+https://docs.python.org/3/library/statistics.html#module-statistics
+https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
+https://docs.python.org/3/library/statistics.html#measures-of-spread
+https://docs.python.org/3/library/statistics.html#function-details
+https://docs.python.org/3/library/statistics.html#exceptions
 
-alias.function()
-```
-
-Give a function an alias
-
-```python
-from module import function as alias
-
-alias()
-```
-
-Import all functions from a module (anti-pattern)
-
-```python
-from module import *
-
-function()
-```
+9.3. cmath — Mathematical functions for complex numbers
 
 
 ## Python Code Block Examples
@@ -830,6 +916,17 @@ for condition:
 else:
     action
 ```
+
+### pass Statements
+
+Nothing happens when the pass statement executes.
+
+null operation
+4.5. pass Statements
+https://docs.python.org/3/tutorial/controlflow.html#pass-statements
+7.4. The pass statement
+https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
+
 
 
 ## Common Built-In Data Type and Data Structure Conversions (Casting)
