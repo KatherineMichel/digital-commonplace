@@ -674,6 +674,413 @@ from module import *
 function()
 ```
 
+
+## Python Code Block Examples
+
+<!--
+See also: exceptions and pass statement
+-->
+
+Python structuring
+* colons
+* indentation (a.k.a. nesting)
+
+## Colons
+
+Python structures that end blocks with a colon (:)
+* function statement
+* class statement
+* if-elif-else statement (branching)
+* for-else statement (loop)
+* while-else statement (loop)
+* with statement
+
+* try-except-else statement
+
+Python structures that don't end blocks with a colon (:)
+* range/list comprehension functions
+       
+## Control Flow Statement Examples
+
+### Control Flow and Sequences
+
+for statement and sequence
+
+```python
+for item in items:
+    action
+```
+
+while statement and sequence
+
+```python
+while item in items:
+    action
+```
+
+
+try-except-else statement
+
+```python
+```
+  	 
+	
+## Python and Django Control Flow
+
+3 Types of Control structures
+* true or false branch evaluation (if statement)
+* repeating while a condition is True (while loop)
+* sequential processing (for loop)
+
+https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
+
+
+## Compound or complex statements
+
+```python
+header: 
+   suite
+header:
+   suite 
+header:
+   suite
+```
+
+
+## if Statements
+
+Conditional test
+* evaluates statements one by one until one is found to be True (Boolean operation)
+* that statement is executed (no other part of if statement is executed or evaluated)
+* if all statements are False, else statement, if present, is executed
+
+Number of statements
+* can have as many elif statement as needed
+* else statement is always optional
+
+https://docs.python.org/3/tutorial/controlflow.html#if-statements
+https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
+
+if statement
+
+```python
+if condition true:
+    action
+```
+
+if-else statement
+
+```python
+if condition true:
+    action
+else:
+    action
+```
+
+if-elif-else statement
+
+```python
+if condition true:
+    action
+elif condition true:
+    action
+else:
+    action
+```
+
+## while Statements
+
+Conditional test
+* repeats a block of code while the condition is True (Boolean operation)
+* if the condition does not become False, the loop runs indefinitely as an infinite loop.
+* if the while statements becomes False, the else statement, if present, is executed
+
+https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
+
+while statement
+
+```python
+while condition true:
+    action
+```
+
+while-else statement
+
+```python
+while condition true:
+    action
+else:
+    action
+```
+
+## for Statements
+
+What it does
+* iterates over the items of any sequence in the order in which they appear in the sequence
+* when all iteration has been completed, the else statement, if present, is executed
+
+https://docs.python.org/3/tutorial/controlflow.html#for-statements
+https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
+
+for-else statement
+
+```python
+for condition:
+    action
+else:
+    action
+```
+
+
+## Common Built-In Data Type and Data Structure Conversions (Casting)
+
+Return an integer object constructed from a number or string x, or return 0 if no arguments are given. 
+
+```int()```
+
+Return a floating point number constructed from a number or string x.
+
+```float()```
+
+Return a Boolean value, i.e. one of True or False. 
+
+```bool()```
+
+Return a complex number with the value real + imag*1j or convert a string or number to a complex number. 
+
+```complex()```	
+
+Return a str version of object. 
+
+```str()```
+    
+Rather than being a function, list is actually a mutable sequence type.
+
+```list()```
+
+Create a new dictionary. 
+
+```dict()```
+
+Rather than being a function, tuple is actually an immutable sequence type
+
+```tuple()```
+
+Rather than being a function, range is actually an immutable sequence type, 
+
+```range()```
+
+Return a new set object, optionally with elements taken from iterable. 
+
+```set()```
+
+
+## Object-Oriented Programming
+
+### Built-In Object Methods
+
+Return a new featureless object. object is a base for all classes. It has the methods that are common to all instances of Python classes. 
+
+```object()```
+
+Return a proxy object that delegates method calls to a parent or sibling class of type. This is useful for accessing inherited methods that have been overridden in a class. 
+
+```super()```
+
+https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
+
+### Class and Object `Is` Functions
+
+Return true if the object argument is an instance of the classinfo argument, or of a (direct, indirect or virtual) subclass thereof. 
+
+```isinstance()```
+
+https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
+
+Return true if class is a subclass (direct, indirect or virtual) of classinfo. 
+
+```issubclass()```
+
+### Attributes and Properties
+
+Object attributes
+
+```delattr()```
+```getattr()```
+```__getattribute__()```
+```hasattr()```
+```setattr()```
+
+https://en.wikipedia.org/wiki/Mutator_method
+https://docs.python.org/3/library/functions.html#setattr
+https://docs.python.org/3/library/functions.html#getattr
+https://docs.python.org/3/library/functions.html#hasattr
+https://docs.python.org/3/library/functions.html#delattr
+https://en.wikipedia.org/wiki/Property_(programming)
+
+Return a property attribute.
+```property()```
+
+
+## dir() and builtins
+
+Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
+
+```dir()```
+
+dir() does not list the names of built-in functions and variables. Tthey are defined in the standard module builtins.
+
+```python
+>>> import builtins
+>>> dir(builtins)
+```
+
+6.3. The dir() Function
+https://docs.python.org/3/tutorial/modules.html#the-dir-function
+https://docs.python.org/3/library/functions.html#dir
+
+Return True if the object argument appears callable, False if not. 
+```callable()```
+
+
+## Type, Identity, Hash Value
+
+With one argument, return the type of an object. 
+
+```type()```
+
+https://docs.python.org/3/library/functions.html#type
+
+Return the “identity” of an object. 
+
+```id()```
+
+https://docs.python.org/3/library/functions.html#id
+
+Return the hash value of the object (if it has one). Hash values are integers. 
+
+```hash()```
+
+https://docs.python.org/3/library/functions.html#hash
+https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
+
+## Print Data Structure and Ascertain Data Type
+
+```python
+print(data_structure)
+print(type(data_structure))
+```
+
+## Built-In Functions- Formatting and Printing
+
+Convert a value to a “formatted” representation, as controlled by format_spec. 
+```format()```
+
+Return a string containing a printable representation of an object. 
+```repr()```
+
+## Built-In Functions- Numbers
+
+Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
+```divmod()```
+
+Return x to the power y; if z is present, return x to the power y, modulo z
+
+```pow()```
+
+Return number rounded to ndigits precision after the decimal point. 
+```round()```
+
+Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
+```abs()```
+
+## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
+
+Return the largest item in an iterable or the largest of two or more arguments.
+
+```max()```
+
+Return the smallest item in an iterable or the smallest of two or more arguments.
+
+```min()```
+
+## Built-In Functions- Length and Sum- Addressed in Sequences Section
+
+Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
+
+```len()```
+
+Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
+
+```sum()```
+
+## Less Common Built-In Function
+
+### Built-In Functions- Modules
+
+This function is invoked by the import statement. It can be replaced (by importing the builtins module and assigning to builtins.__import__) in order to change semantics of the import statement, but doing so is strongly discouraged
+```__import__()```
+
+### Built-In Functions- Scope
+
+Return a dictionary representing the current global symbol table. 
+```globals()```
+
+Update and return a dictionary representing the current local symbol table. 
+```locals()```
+
+### Data Type and Data Structure Conversions (Casting)
+
+Return a new frozenset object, optionally with elements taken from iterable. frozenset is a built-in class. 
+
+```frozenset()```
+
+Return a new “bytes” object, which is an immutable sequence of integers in the range 0 <= x < 256. 
+
+```bytes()```
+
+Return a new array of bytes. The bytearray class is a mutable sequence of integers in the range 0 <= x < 256. 
+
+```bytearray()```
+
+Return a “memory view” object created from the given argument. 
+
+```memoryview()```
+
+### Built-In Functions- ```eval()``` and ```exec()```
+
+```eval()```
+
+This function supports dynamic execution of Python code. 
+```exec()```
+
+Compile the source into a code or AST object. 
+```compile()```
+
+### Various	
+
+Return the __dict__ attribute for a module, class, instance, or any other object with a __dict__ attribute.
+```vars()```
+
+Convert an integer number to a binary string prefixed with “0b”. 
+```bin()```
+
+As repr(), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by repr() 
+```ascii()```
+
+Return the string representing a character whose Unicode code point is the integer i. 
+```chr()```
+
+Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. 
+```hex()```
+
+Convert an integer number to an octal string prefixed with “0o”. 
+```oct()```
+
+Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
+```ord()```
+
+
 ## Operators and Delimiters
 
 2.5. Operators
@@ -861,211 +1268,6 @@ lambda
 return
 yield
 ```
-
-## Common Built-In Data Type and Data Structure Conversions (Casting)
-
-Return an integer object constructed from a number or string x, or return 0 if no arguments are given. 
-
-```int()```
-
-Return a floating point number constructed from a number or string x.
-
-```float()```
-
-Return a Boolean value, i.e. one of True or False. 
-
-```bool()```
-
-Return a complex number with the value real + imag*1j or convert a string or number to a complex number. 
-
-```complex()```	
-
-Return a str version of object. 
-
-```str()```
-    
-Rather than being a function, list is actually a mutable sequence type.
-
-```list()```
-
-Create a new dictionary. 
-
-```dict()```
-
-Rather than being a function, tuple is actually an immutable sequence type
-
-```tuple()```
-
-Rather than being a function, range is actually an immutable sequence type, 
-
-```range()```
-
-Return a new set object, optionally with elements taken from iterable. 
-
-```set()```
-
-
-## Object-Oriented Programming
-
-### Built-In Object Methods
-
-Return a new featureless object. object is a base for all classes. It has the methods that are common to all instances of Python classes. 
-
-```object()```
-
-Return a proxy object that delegates method calls to a parent or sibling class of type. This is useful for accessing inherited methods that have been overridden in a class. 
-
-```super()```
-
-https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
-
-### Class and Object `Is` Functions
-
-Return true if the object argument is an instance of the classinfo argument, or of a (direct, indirect or virtual) subclass thereof. 
-
-```isinstance()```
-
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-Return true if class is a subclass (direct, indirect or virtual) of classinfo. 
-
-```issubclass()```
-
-### Attributes and Properties
-
-Object attributes
-
-```delattr()```
-```getattr()```
-```__getattribute__()```
-```hasattr()```
-```setattr()```
-
-https://en.wikipedia.org/wiki/Mutator_method
-https://docs.python.org/3/library/functions.html#setattr
-https://docs.python.org/3/library/functions.html#getattr
-https://docs.python.org/3/library/functions.html#hasattr
-https://docs.python.org/3/library/functions.html#delattr
-https://en.wikipedia.org/wiki/Property_(programming)
-
-Return a property attribute.
-```property()```
-
-
-## dir() and builtins
-
-Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
-
-```dir()```
-
-dir() does not list the names of built-in functions and variables. Tthey are defined in the standard module builtins.
-
-```python
->>> import builtins
->>> dir(builtins)
-```
-
-6.3. The dir() Function
-https://docs.python.org/3/tutorial/modules.html#the-dir-function
-https://docs.python.org/3/library/functions.html#dir
-
-Return True if the object argument appears callable, False if not. 
-```callable()```
-
-
-## Type, Identity, Hash Value
-
-With one argument, return the type of an object. 
-
-```type()```
-
-https://docs.python.org/3/library/functions.html#type
-
-Return the “identity” of an object. 
-
-```id()```
-
-https://docs.python.org/3/library/functions.html#id
-
-Return the hash value of the object (if it has one). Hash values are integers. 
-
-```hash()```
-
-https://docs.python.org/3/library/functions.html#hash
-https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
-
-## Print Data Structure and Ascertain Data Type
-
-```python
-print(data_structure)
-print(type(data_structure))
-```
-
-## Less Common Built-In Function
-
-### Built-In Functions- Modules
-
-This function is invoked by the import statement. It can be replaced (by importing the builtins module and assigning to builtins.__import__) in order to change semantics of the import statement, but doing so is strongly discouraged
-```__import__()```
-
-### Built-In Functions- Scope
-
-Return a dictionary representing the current global symbol table. 
-```globals()```
-
-Update and return a dictionary representing the current local symbol table. 
-```locals()```
-
-### Data Type and Data Structure Conversions (Casting)
-
-Return a new frozenset object, optionally with elements taken from iterable. frozenset is a built-in class. 
-
-```frozenset()```
-
-Return a new “bytes” object, which is an immutable sequence of integers in the range 0 <= x < 256. 
-
-```bytes()```
-
-Return a new array of bytes. The bytearray class is a mutable sequence of integers in the range 0 <= x < 256. 
-
-```bytearray()```
-
-Return a “memory view” object created from the given argument. 
-
-```memoryview()```
-
-### Built-In Functions- ```eval()``` and ```exec()```
-
-```eval()```
-
-This function supports dynamic execution of Python code. 
-```exec()```
-
-Compile the source into a code or AST object. 
-```compile()```
-
-### Various	
-
-Return the __dict__ attribute for a module, class, instance, or any other object with a __dict__ attribute.
-```vars()```
-
-Convert an integer number to a binary string prefixed with “0b”. 
-```bin()```
-
-As repr(), return a string containing a printable representation of an object, but escape the non-ASCII characters in the string returned by repr() 
-```ascii()```
-
-Return the string representing a character whose Unicode code point is the integer i. 
-```chr()```
-
-Convert an integer number to a lowercase hexadecimal string prefixed with “0x”. 
-```hex()```
-
-Convert an integer number to an octal string prefixed with “0o”. 
-```oct()```
-
-Given a string representing one Unicode character, return an integer representing the Unicode code point of that character. 
-```ord()```
 
 ## Input
 
