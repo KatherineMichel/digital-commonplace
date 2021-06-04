@@ -1262,6 +1262,7 @@ https://docs.python.org/3/reference/expressions.html#conditional-expressions
 5.8. Comparing Sequences and Other Types
 https://docs.python.org/3/tutorial/datastructures.html#comparing-sequences-and-other-types
 
+
 ## Negation (Null Object, ```None```, ```NotImplemented```)
 
 https://docs.python.org/3/reference/datamodel.html#the-standard-type-hierarchy
@@ -1275,144 +1276,12 @@ https://docs.python.org/3/library/constants.html#None
 NotImplemented
 
 
-
-## Python Code Block Examples
-
-<!--
-See also: exceptions and pass statement
--->
-
-Python structuring
-* colons
-* indentation (a.k.a. nesting)
-
-## Colons
-
-Python structures that end blocks with a colon (:)
-* function statement
-* class statement
-* if-elif-else statement (branching)
-* for-else statement (loop)
-* while-else statement (loop)
-* with statement
-
-* try-except-else statement
-
-Python structures that don't end blocks with a colon (:)
-* range/list comprehension functions
-       
-## Control Flow Statement Examples
-
-### Control Flow and Sequences
-
-for statement and sequence
-
-```python
-for item in items:
-    action
-```
-
-while statement and sequence
-
-```python
-while item in items:
-    action
-```
-
-
-try-except-else statement
-
-```python
-```
-  	 
-	
-## Python and Django Control Flow
-
-3 Types of Control structures
-* true or false branch evaluation (if statement)
-* repeating while a condition is True (while loop)
-* sequential processing (for loop)
-
 https://docs.python.org/3/tutorial/controlflow.html | 4. More Control Flow Tools — Python 3.8.2 documentation
-
-
-## Compound or complex statements
-
-```python
-header: 
-   suite
-header:
-   suite 
-header:
-   suite
-```
-
-
-## if Statements
-
-Conditional test
-* evaluates statements one by one until one is found to be True (Boolean operation)
-* that statement is executed (no other part of if statement is executed or evaluated)
-* if all statements are False, else statement, if present, is executed
-
-Number of statements
-* can have as many elif statement as needed
-* else statement is always optional
-
 https://docs.python.org/3/tutorial/controlflow.html#if-statements
 https://docs.python.org/3/reference/compound_stmts.html#the-if-statement
-
-if statement
-
-```python
-if condition true:
-    action
-```
-
-if-else statement
-
-```python
-if condition true:
-    action
-else:
-    action
-```
-
-if-elif-else statement
-
-```python
-if condition true:
-    action
-elif condition true:
-    action
-else:
-    action
-```
-
-## while Statements
-
-Conditional test
-* repeats a block of code while the condition is True (Boolean operation)
-* if the condition does not become False, the loop runs indefinitely as an infinite loop.
-* if the while statements becomes False, the else statement, if present, is executed
-
 https://docs.python.org/3/reference/compound_stmts.html#the-while-statement | 8. Compound statements — Python 3.8.2 documentation
-
-while statement
-
-```python
-while condition true:
-    action
-```
-
-while-else statement
-
-```python
-while condition true:
-    action
-else:
-    action
-```
+https://docs.python.org/3/tutorial/controlflow.html#for-statements
+https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
 
 
 ## Iterators
@@ -1432,23 +1301,6 @@ https://docs.python.org/3/library/stdtypes.html#iterator-types
 https://docs.python.org/3/tutorial/datastructures.html#looping-techniques
 
 
-## for Statements
-
-What it does
-* iterates over the items of any sequence in the order in which they appear in the sequence
-* when all iteration has been completed, the else statement, if present, is executed
-
-https://docs.python.org/3/tutorial/controlflow.html#for-statements
-https://docs.python.org/3/reference/compound_stmts.html#the-for-statement
-
-for-else statement
-
-```python
-for condition:
-    action
-else:
-    action
-```
 
 ## range() Function (for Statement for Numbers)
 
@@ -1492,16 +1344,6 @@ https://docs.python.org/3/reference/simple_stmts.html#the-break-statement
 
 7.10. The continue statement
 https://docs.python.org/3/reference/simple_stmts.html#the-continue-statement
-
-### pass Statements
-
-Nothing happens when the pass statement executes.
-
-null operation
-4.5. pass Statements
-https://docs.python.org/3/tutorial/controlflow.html#pass-statements
-7.4. The pass statement
-https://docs.python.org/3/reference/simple_stmts.html#the-pass-statement
 
 
 
@@ -2089,92 +1931,6 @@ https://docs.python.org/3/library/re.html#finding-all-adverbs-and-their-position
 https://docs.python.org/3/library/re.html#raw-string-notation
 https://docs.python.org/3/library/re.html#writing-a-tokenizer
 
-## Math
-
-3.2. First Steps Towards Programming
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-3.1. Using Python as a Calculator
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-3.1.1. Numbers
-https://docs.python.org/3/tutorial/introduction.html#numbers
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-
-9.7.4. Exceptions
-exception statistics.StatisticsError
-
-
-9. Numeric and Mathematical Modules
-https://docs.python.org/3/library/numeric.html
-9.1. numbers — Numeric abstract base classes
-https://docs.python.org/3/library/numbers.html
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html
-9.3. cmath — Mathematical functions for complex numbers
-https://docs.python.org/3/library/cmath.html
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html
-9.7. statistics — Mathematical statistics functions
-https://docs.python.org/3/library/statistics.html
-
-
-https://docs.python.org/3/library/numeric.html#numeric-and-mathematical-modules
-
-https://docs.python.org/3/library/numbers.html#module-numbers
-https://docs.python.org/3/library/numbers.html#the-numeric-tower
-https://docs.python.org/3/library/numbers.html#notes-for-type-implementors
-https://docs.python.org/3/library/numbers.html#adding-more-numeric-abcs
-https://docs.python.org/3/library/numbers.html#implementing-the-arithmetic-operations
-
-9.2. math — Mathematical functions
-https://docs.python.org/3/library/math.html#module-math
-https://docs.python.org/3/library/math.html#number-theoretic-and-representation-functions
-https://docs.python.org/3/library/math.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/math.html#trigonometric-functions
-https://docs.python.org/3/library/math.html#angular-conversion
-https://docs.python.org/3/library/math.html#hyperbolic-functions
-https://docs.python.org/3/library/math.html#special-functions
-https://docs.python.org/3/library/math.html#constants
-
-https://docs.python.org/3/library/cmath.html#module-cmath
-https://docs.python.org/3/library/cmath.html#conversions-to-and-from-polar-coordinates
-https://docs.python.org/3/library/cmath.html#power-and-logarithmic-functions
-https://docs.python.org/3/library/cmath.html#trigonometric-functions
-https://docs.python.org/3/library/cmath.html#hyperbolic-functions
-https://docs.python.org/3/library/cmath.html#classification-functions
-https://docs.python.org/3/library/cmath.html#constants
-
-9.4. decimal — Decimal fixed point and floating point arithmetic
-https://docs.python.org/3/library/decimal.html#module-decimal
-https://docs.python.org/3/library/decimal.html#quick-start-tutorial
-https://docs.python.org/3/library/decimal.html#decimal-objects
-https://docs.python.org/3/library/decimal.html#logical-operands
-https://docs.python.org/3/library/decimal.html#context-objects
-https://docs.python.org/3/library/decimal.html#constants
-https://docs.python.org/3/library/decimal.html#rounding-modes
-https://docs.python.org/3/library/decimal.html#signals
-https://docs.python.org/3/library/decimal.html#floating-point-notes
-https://docs.python.org/3/library/decimal.html#mitigating-round-off-error-with-increased-precision
-https://docs.python.org/3/library/decimal.html#special-values
-https://docs.python.org/3/library/decimal.html#working-with-threads
-https://docs.python.org/3/library/decimal.html#recipes
-https://docs.python.org/3/library/decimal.html#decimal-faq
-
-9.5. fractions — Rational numbers
-https://docs.python.org/3/library/fractions.html#module-fractions
-
-https://docs.python.org/3/library/statistics.html#module-statistics
-https://docs.python.org/3/library/statistics.html#averages-and-measures-of-central-location
-https://docs.python.org/3/library/statistics.html#measures-of-spread
-https://docs.python.org/3/library/statistics.html#function-details
-https://docs.python.org/3/library/statistics.html#exceptions
-
-9.3. cmath — Mathematical functions for complex numbers
-
 
 ## OS, Path, File
 
@@ -2333,46 +2089,3 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mock-subclasses-an
 https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-with-patch-dict
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
-
-## Built-In Functions- Formatting and Printing
-
-Convert a value to a “formatted” representation, as controlled by format_spec. 
-```format()```
-
-Return a string containing a printable representation of an object. 
-```repr()```
-
-## Built-In Functions- Numbers
-
-Take two (non complex) numbers as arguments and return a pair of numbers consisting of their quotient and remainder when using integer division. 
-```divmod()```
-
-Return x to the power y; if z is present, return x to the power y, modulo z
-
-```pow()```
-
-Return number rounded to ndigits precision after the decimal point. 
-```round()```
-
-Return the absolute value of a number. The argument may be an integer or a floating point number. If the argument is a complex number, its magnitude is returned.
-```abs()```
-
-## Built-In Functions- Data Sequence/Iterator- Addressed in Sequences Section
-
-Return the largest item in an iterable or the largest of two or more arguments.
-
-```max()```
-
-Return the smallest item in an iterable or the smallest of two or more arguments.
-
-```min()```
-
-## Built-In Functions- Length and Sum- Addressed in Sequences Section
-
-Return the length (the number of items) of an object. The argument may be a sequence (such as a string, bytes, tuple, list, or range) or a collection (such as a dictionary, set, or frozen set).
-
-```len()```
-
-Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
-
-```sum()```
