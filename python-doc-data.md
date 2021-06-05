@@ -538,6 +538,15 @@ https://docs.python.org/3/library/doctest.html#soapbox
 -->
 
 
+## Testing
+
+pytest
+https://docs.pytest.org/en/6.2.x/
+
+Assert
+https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt
+https://www.tutorialspoint.com/python/assertions_in_python.htm
+
 ## Debugging and Profiling
 
 https://pypi.org/project/ipdb/ | ipdb · PyPI
@@ -546,10 +555,12 @@ https://pypi.org/project/ipdb/ | ipdb · PyPI
 28.3. pdb — The Python Debugger
 28.1. bdb — Debugger framework
 
+Nina
+https://twitter.com/nnja/status/1157475244916928513/photo/1
+
 https://docs.python.org/3/library/debug.html
 
 https://docs.python.org/3/library/pdb.html#debugger-commands
-
 
 ## Performance
 
@@ -579,7 +590,10 @@ https://docs.python.org/3/library/timeit.html
 
 https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
 https://docs.python.org/3/library/profile.html#instant-user-s-manual
+
+cProfile
 https://docs.python.org/3/library/profile.html#module-cProfile
+
 https://docs.python.org/3/library/profile.html#the-stats-class
 https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
 https://docs.python.org/3/library/profile.html#limitations
