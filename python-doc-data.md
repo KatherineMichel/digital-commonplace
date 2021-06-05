@@ -331,8 +331,41 @@ https://docs.python.org/3/library/http.cookiejar.html
 -->
 
 
+
+## Tests
+
+27.3. doctest — Test interactive Python examples
+https://docs.python.org/3/library/doctest.html
+
 <!--
-## Utilities
+https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
+https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
+https://docs.python.org/3/library/doctest.html#how-it-works
+https://docs.python.org/3/library/doctest.html#which-docstrings-are-examined
+https://docs.python.org/3/library/doctest.html#how-are-docstring-examples-recognized
+https://docs.python.org/3/library/doctest.html#what-s-the-execution-context
+https://docs.python.org/3/library/doctest.html#what-about-exceptions
+https://docs.python.org/3/library/doctest.html#option-flags
+https://docs.python.org/3/library/doctest.html#directives
+https://docs.python.org/3/library/doctest.html#warnings
+
+https://docs.python.org/3/library/doctest.html#basic-api
+https://docs.python.org/3/library/doctest.html#unittest-api
+https://docs.python.org/3/library/doctest.html#advanced-api
+
+https://docs.python.org/3/library/doctest.html#doctest-objects
+https://docs.python.org/3/library/doctest.html#example-objects
+https://docs.python.org/3/library/doctest.html#doctestfinder-objects
+https://docs.python.org/3/library/doctest.html#doctestparser-objects
+https://docs.python.org/3/library/doctest.html#doctestrunner-objects
+https://docs.python.org/3/library/doctest.html#outputchecker-objects
+https://docs.python.org/3/library/doctest.html#debugging
+https://docs.python.org/3/library/doctest.html#soapbox
+-->
+
+
+<!--
+## Debugging and Profiling
 
 https://pypi.org/project/ipdb/ | ipdb · PyPI
 
@@ -346,6 +379,44 @@ https://docs.python.org/3/library/pdb.html#debugger-commands
 
 29.9. traceback — Print or retrieve a stack traceback
 https://docs.python.org/3/library/traceback.html
+
+28.2. faulthandler — Dump the Python traceback
+28.4. The Python Profilers
+28.5. timeit — Measure execution time of small code snippets
+28.6. trace — Trace or track Python statement execution
+28.7. tracemalloc — Trace memory allocations
+
+https://docs.python.org/3/library/faulthandler.html
+https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback
+https://docs.python.org/3/library/faulthandler.html#fault-handler-state
+https://docs.python.org/3/library/faulthandler.html#dumping-the-tracebacks-after-a-timeout
+https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback-on-a-user-signal
+https://docs.python.org/3/library/faulthandler.html#issue-with-file-descriptors
+https://docs.python.org/3/library/faulthandler.html#example
+
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/timeit.html
+https://docs.python.org/3/library/trace.html
+
+29.9. traceback — Print or retrieve a stack traceback
+https://docs.python.org/3/library/traceback.html
+
+https://docs.python.org/3/library/tracemalloc.html
+https://docs.python.org/3/library/tracemalloc.html#examples
+https://docs.python.org/3/library/tracemalloc.html#display-the-top-10
+https://docs.python.org/3/library/tracemalloc.html#compute-differences
+https://docs.python.org/3/library/tracemalloc.html#get-the-traceback-of-a-memory-block
+https://docs.python.org/3/library/tracemalloc.html#pretty-top
+https://docs.python.org/3/library/tracemalloc.html#api
+https://docs.python.org/3/library/tracemalloc.html#functions
+https://docs.python.org/3/library/tracemalloc.html#domainfilter
+https://docs.python.org/3/library/tracemalloc.html#filter
+https://docs.python.org/3/library/tracemalloc.html#frame
+https://docs.python.org/3/library/tracemalloc.html#snapshot
+https://docs.python.org/3/library/tracemalloc.html#statistic
+https://docs.python.org/3/library/tracemalloc.html#statisticdiff
+https://docs.python.org/3/library/tracemalloc.html#trace
+https://docs.python.org/3/library/tracemalloc.html#traceback
 -->
 
 
@@ -743,43 +814,69 @@ https://docs.python.org/3/library/traceback.html#stacksummary-objects
 https://docs.python.org/3/library/traceback.html#framesummary-objects
 https://docs.python.org/3/library/traceback.html#traceback-examples
 
+
 ## Logging
 
 11.5. Logging
 https://docs.python.org/3/tutorial/stdlib2.html#logging
 https://docs.python.org/3/library/logging.html#module-logging
 
+    	   
+## Logging
 
-## Tests
+Logging HOWTO
+https://docs.python.org/3/howto/logging.html
 
-27.3. doctest — Test interactive Python examples
-https://docs.python.org/3/library/doctest.html
+Logging Cookbook
+https://docs.python.org/3/howto/logging-cookbook.html
 
-<!--
-https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-docstrings
-https://docs.python.org/3/library/doctest.html#simple-usage-checking-examples-in-a-text-file
-https://docs.python.org/3/library/doctest.html#how-it-works
-https://docs.python.org/3/library/doctest.html#which-docstrings-are-examined
-https://docs.python.org/3/library/doctest.html#how-are-docstring-examples-recognized
-https://docs.python.org/3/library/doctest.html#what-s-the-execution-context
-https://docs.python.org/3/library/doctest.html#what-about-exceptions
-https://docs.python.org/3/library/doctest.html#option-flags
-https://docs.python.org/3/library/doctest.html#directives
-https://docs.python.org/3/library/doctest.html#warnings
+11.5. Logging
+https://docs.python.org/3/tutorial/stdlib2.html#logging
 
-https://docs.python.org/3/library/doctest.html#basic-api
-https://docs.python.org/3/library/doctest.html#unittest-api
-https://docs.python.org/3/library/doctest.html#advanced-api
+https://docs.python.org/3/library/logging.html
+https://docs.python.org/3/library/logging.html#logger-objects
+https://docs.python.org/3/library/logging.html#logging-levels
+https://docs.python.org/3/library/logging.html#handler-objects
+https://docs.python.org/3/library/logging.html#formatter-objects
+https://docs.python.org/3/library/logging.html#filter-objects
+https://docs.python.org/3/library/logging.html#logrecord-objects
+https://docs.python.org/3/library/logging.html#logrecord-attributes
+https://docs.python.org/3/library/logging.html#loggeradapter-objects
+https://docs.python.org/3/library/logging.html#thread-safety
+https://docs.python.org/3/library/logging.html#module-level-functions
+https://docs.python.org/3/library/logging.html#module-level-attributes
+https://docs.python.org/3/library/logging.html#integration-with-the-warnings-module
 
-https://docs.python.org/3/library/doctest.html#doctest-objects
-https://docs.python.org/3/library/doctest.html#example-objects
-https://docs.python.org/3/library/doctest.html#doctestfinder-objects
-https://docs.python.org/3/library/doctest.html#doctestparser-objects
-https://docs.python.org/3/library/doctest.html#doctestrunner-objects
-https://docs.python.org/3/library/doctest.html#outputchecker-objects
-https://docs.python.org/3/library/doctest.html#debugging
-https://docs.python.org/3/library/doctest.html#soapbox
--->
+https://docs.python.org/3/library/logging.config.html
+https://docs.python.org/3/library/logging.config.html#configuration-functions
+https://docs.python.org/3/library/logging.config.html#configuration-dictionary-schema
+https://docs.python.org/3/library/logging.config.html#dictionary-schema-details
+https://docs.python.org/3/library/logging.config.html#incremental-configuration
+https://docs.python.org/3/library/logging.config.html#object-connections
+https://docs.python.org/3/library/logging.config.html#user-defined-objects
+https://docs.python.org/3/library/logging.config.html#access-to-external-objects
+https://docs.python.org/3/library/logging.config.html#access-to-internal-objects
+https://docs.python.org/3/library/logging.config.html#import-resolution-and-custom-importers
+https://docs.python.org/3/library/logging.config.html#configuration-file-format
+
+https://docs.python.org/3/library/logging.handlers.html
+https://docs.python.org/3/library/logging.handlers.html#streamhandler
+https://docs.python.org/3/library/logging.handlers.html#filehandler
+https://docs.python.org/3/library/logging.handlers.html#nullhandler
+https://docs.python.org/3/library/logging.handlers.html#watchedfilehandler
+https://docs.python.org/3/library/logging.handlers.html#baserotatinghandler
+https://docs.python.org/3/library/logging.handlers.html#rotatingfilehandler
+https://docs.python.org/3/library/logging.handlers.html#timedrotatingfilehandler
+https://docs.python.org/3/library/logging.handlers.html#sockethandler
+https://docs.python.org/3/library/logging.handlers.html#datagramhandler
+https://docs.python.org/3/library/logging.handlers.html#sysloghandler
+https://docs.python.org/3/library/logging.handlers.html#nteventloghandler
+https://docs.python.org/3/library/logging.handlers.html#smtphandler
+https://docs.python.org/3/library/logging.handlers.html#memoryhandler
+https://docs.python.org/3/library/logging.handlers.html#httphandler
+https://docs.python.org/3/library/logging.handlers.html#queuehandler
+https://docs.python.org/3/library/logging.handlers.html#queuelistener
+
 
 
 ## I/O
@@ -2444,6 +2541,60 @@ https://docs.python.org/3/library/sysconfig.html
 
 11.10. shutil — High-level file operations
 https://docs.python.org/3/library/shutil.html
+
+## Extra
+
+16.14. platform — Access to underlying platform’s identifying data
+https://docs.python.org/3/library/platform.html
+https://docs.python.org/3/library/platform.html#cross-platform
+https://docs.python.org/3/library/platform.html#java-platform
+https://docs.python.org/3/library/platform.html#windows-platform
+https://docs.python.org/3/library/platform.html#mac-os-platform
+
+16.1. os — Miscellaneous operating system interfaces
+https://docs.python.org/3/library/os.html
+https://docs.python.org/3/library/os.html#file-names-command-line-arguments-and-environment-variables
+https://docs.python.org/3/library/os.html#process-parameters
+https://docs.python.org/3/library/os.html#file-object-creation
+https://docs.python.org/3/library/os.html#file-descriptor-operations
+https://docs.python.org/3/library/os.html#querying-the-size-of-a-terminal
+https://docs.python.org/3/library/os.html#inheritance-of-file-descriptors
+https://docs.python.org/3/library/os.html#files-and-directories
+https://docs.python.org/3/library/os.html#linux-extended-attributes
+https://docs.python.org/3/library/os.html#process-management
+https://docs.python.org/3/library/os.html#interface-to-the-scheduler
+https://docs.python.org/3/library/os.html#miscellaneous-system-information
+https://docs.python.org/3/library/os.html#random-numbers
+
+30.2. sysconfig — Provide access to Python’s configuration information
+https://docs.python.org/3/library/sysconfig.html
+https://docs.python.org/3/library/sysconfig.html#configuration-variables
+https://docs.python.org/3/library/sysconfig.html#installation-paths
+https://docs.python.org/3/library/sysconfig.html#other-functions
+https://docs.python.org/3/library/sysconfig.html#using-sysconfig-as-a-script
+
+11.1. pathlib — Object-oriented filesystem paths
+https://docs.python.org/3/library/pathlib.html
+
+https://docs.python.org/3/library/pathlib.html#basic-use
+https://docs.python.org/3/library/pathlib.html#pure-paths
+https://docs.python.org/3/library/pathlib.html#general-properties
+https://docs.python.org/3/library/pathlib.html#operators
+https://docs.python.org/3/library/pathlib.html#accessing-individual-parts
+https://docs.python.org/3/library/pathlib.html#methods-and-properties
+https://docs.python.org/3/library/pathlib.html#concrete-paths
+https://docs.python.org/3/library/pathlib.html#methods
+chart
+https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
+
+11.10. shutil — High-level file operations
+https://docs.python.org/3/library/shutil.html
+https://docs.python.org/3/library/shutil.html#directory-and-files-operations
+https://docs.python.org/3/library/shutil.html#copytree-example
+https://docs.python.org/3/library/shutil.html#rmtree-example
+https://docs.python.org/3/library/shutil.html#archiving-operations
+https://docs.python.org/3/library/shutil.html#archiving-example
+https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
 
 ## Testing
 
