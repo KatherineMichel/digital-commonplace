@@ -883,6 +883,96 @@ https://docs.python.org/3/library/logging.handlers.html#queuelistener
 
 16.2. io — Core tools for working with streams
 https://docs.python.org/3/library/io.html
+
+## Concurrent Execution
+
+18. contextvars — Context Variables
+18.1. Context Variables
+18.2. Manual Context Management
+18.3. asyncio support
+
+https://docs.python.org/3/library/contextvars.html
+
+## Async
+
+17. Concurrent Execution
+17.1. threading — Thread-based parallelism
+17.2. multiprocessing — Process-based parallelism
+17.3. The concurrent package
+17.4. concurrent.futures — Launching parallel tasks
+17.5. subprocess — Subprocess management
+17.6. sched — Event scheduler
+17.7. queue — A synchronized queue class
+17.8. _thread — Low-level threading API
+17.9. _dummy_thread — Drop-in replacement for the _thread module
+17.10. dummy_threading — Drop-in replacement for the threading module
+
+19. Interprocess Communication and Networking
+19.1. socket — Low-level networking interface
+19.2. ssl — TLS/SSL wrapper for socket objects
+19.3. select — Waiting for I/O completion
+19.4. selectors — High-level I/O multiplexing
+19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
+19.6. asyncore — Asynchronous socket handler
+19.7. asynchat — Asynchronous socket command/response handler
+19.8. signal — Set handlers for asynchronous events
+19.9. mmap — Memory-mapped file support
+
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+
+https://docs.python.org/3/library/concurrency.html
+
+https://docs.python.org/3/library/threading.html
+https://docs.python.org/3/library/multiprocessing.html
+https://docs.python.org/3/library/concurrent.html
+https://docs.python.org/3/library/concurrent.futures.html
+https://docs.python.org/3/library/subprocess.html
+
+https://docs.python.org/3/library/sched.html
+
+https://docs.python.org/3/library/queue.html
+
+https://docs.python.org/3/library/_thread.html
+https://docs.python.org/3/library/_dummy_thread.html
+https://docs.python.org/3/library/dummy_threading.html
+
+https://docs.python.org/3/library/ipc.html
+
+Sockets
+
+18.1. socket — Low-level networking interface
+18.2. ssl — TLS/SSL wrapper for socket objects
+https://docs.python.org/3/library/ssl.html
+
+19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
+19.6. asyncore — Asynchronous socket handler
+19.7. asynchat — Asynchronous socket command/response handler
+19.8. signal — Set handlers for asynchronous events
+
+https://docs.python.org/3/library/asyncio.html
+https://docs.python.org/3/library/asyncore.html
+https://docs.python.org/3/library/asynchat.html
+https://docs.python.org/3/library/signal.html
+
+## Sockets
+
+Socket Programming HOWTO
+https://docs.python.org/3/howto/sockets.html
+
+19.1. socket — Low-level networking interface
+https://docs.python.org/3/library/socket.html
+
+22.21. socketserver — A framework for network servers
+https://docs.python.org/3/library/socketserver.html
+
+19.2. ssl — TLS/SSL wrapper for socket objects
+https://docs.python.org/3/library/ssl.html
+
+
+## I/O
+
+16.2. io — Core tools for working with streams
+https://docs.python.org/3/library/io.html
 https://docs.python.org/3/library/io.html#overview
 https://docs.python.org/3/library/io.html#text-i-o
 https://docs.python.org/3/library/io.html#binary-i-o
