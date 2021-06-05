@@ -1,42 +1,5 @@
 # Python Doc Notes
 
-## Best Practices and Common Tools
-
-<!--
-https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
-
-https://twitter.com/aaronchall/status/1114713624453554176
-
-https://docs.python.org/3/library/python.html
-
-https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
-frame object - Google Search
-https://docs.python.org/3/library/inspect.html#the-interpreter-stack
-
-https://docs.python.org/3/c-api/
-https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
-https://docs.python.org/3.8/extending/extending.html
-
-https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
-
-https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
-
-https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
-
-https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
-https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
--->
-
-Internal Use
-https://docs.python.org/3/library/test.html
-https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
-https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
-https://docs.python.org/3/library/test.html#module-test.support
-https://docs.python.org/3/library/test.html#module-test.support.script_helper
-
-
-
 10.9. Data Compression
 https://docs.python.org/3/tutorial/stdlib.html#data-compression
 
@@ -61,6 +24,13 @@ https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib 
 
 
 ## Internals
+
+Internal Use
+https://docs.python.org/3/library/test.html
+https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
+https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
+https://docs.python.org/3/library/test.html#module-test.support
+https://docs.python.org/3/library/test.html#module-test.support.script_helper
 
 16.16. ctypes — A foreign function library for Python
 
@@ -317,78 +287,6 @@ https://docs.python.org/3/library/pydoc.html
 
 
 <!--
-## Formatting
-
-8.12. reprlib — Alternate repr() implementation
-https://docs.python.org/3/library/reprlib.html
-https://docs.python.org/3/library/reprlib.html#repr-objects
-https://docs.python.org/3/library/reprlib.html#subclassing-repr-objects
-
-https://docs.python.org/3/tutorial/inputoutput.html#manual-string-formatting
-
-7.1.1. Old string formatting
-https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
-https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
-https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
-
-f-string
-
-8.11. pprint — Data pretty printer
-https://docs.python.org/3/library/pprint.html
-https://docs.python.org/3/library/pprint.html#prettyprinter-objects
-https://docs.python.org/3/library/pprint.html#example
-
-7.1. Fancier Output Formatting
-https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-11.2. Templating
-https://docs.python.org/3/tutorial/stdlib2.html#templating
-11.3. Working with Binary Data Record Layouts
-https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
-
-34.1. formatter — Generic output formatting
-https://docs.python.org/3/library/formatter.html
-https://docs.python.org/3/library/formatter.html#the-formatter-interface
-https://docs.python.org/3/library/formatter.html#formatter-implementations
-https://docs.python.org/3/library/formatter.html#the-writer-interface
-https://docs.python.org/3/library/formatter.html#writer-implementations
-
-
-7. Input and Output
-https://docs.python.org/3/tutorial/inputoutput.html
-https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
-https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
-https://docs.python.org/3/library/functions.html#open
-
-11.3. fileinput — Iterate over lines from multiple input streams
-11.5. filecmp — File and Directory Comparisons
-11.6. tempfile — Generate temporary files and directories
-11.8. fnmatch — Unix filename pattern matching
-11.9. linecache — Random access to text lines
-11.11. macpath — Mac OS 9 path manipulation functions
-
-https://docs.python.org/3/library/filesys.html
-
-https://docs.python.org/3/library/fileinput.html
-
-https://docs.python.org/3/library/filecmp.html
-https://docs.python.org/3/library/filecmp.html#the-dircmp-class
-https://docs.python.org/3/library/tempfile.html
-https://docs.python.org/3/library/tempfile.html#examples
-https://docs.python.org/3/library/tempfile.html#deprecated-functions-and-variables
-
-https://docs.python.org/3/library/fnmatch.html
-https://docs.python.org/3/library/linecache.html
-
-https://docs.python.org/3/library/macpath.html
-
-
-
 ## Dataclasses
 
 https://docs.python.org/3/library/dataclasses.html#module-level-decorators-classes-and-functions
@@ -686,50 +584,36 @@ https://docs.python.org/3/library/locale.html#access-to-message-catalogs
 
 
 20.1. email — An email and MIME handling package
+https://en.wikipedia.org/wiki/MIME
 
 22.13. ftplib — FTP protocol client
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
 22.14. poplib — POP3 protocol client
+https://en.wikipedia.org/wiki/Post_Office_Protocol
 22.15. imaplib — IMAP4 protocol client
+https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
 22.16. nntplib — NNTP protocol client
+https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol
 22.17. smtplib — SMTP protocol client
 22.18. smtpd — SMTP Server
+https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
 22.19. telnetlib — Telnet client
+https://en.wikipedia.org/wiki/Telnet
 22.20. uuid — UUID objects according to RFC 4122
+https://en.wikipedia.org/wiki/Universally_unique_identifier
 
 20.5. mimetypes — Map filenames to MIME types
+https://en.wikipedia.org/wiki/Media_type
 20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
+https://en.wikipedia.org/wiki/Base64
 7.2. codecs — Codec registry and base classes
-
+https://en.wikipedia.org/wiki/Codec
 
 14. File Formats
-14.2. configparser — Configuration file parser
-14.3. netrc — netrc file processing
-14.4. xdrlib — Encode and decode XDR data
 14.5. plistlib — Generate and parse Mac OS X .plist files
-
-https://docs.python.org/3/library/configparser.html
-https://docs.python.org/3/library/configparser.html#quick-start
-https://docs.python.org/3/library/configparser.html#supported-datatypes
-https://docs.python.org/3/library/configparser.html#fallback-values
-https://docs.python.org/3/library/configparser.html#supported-ini-file-structure
-https://docs.python.org/3/library/configparser.html#interpolation-of-values
-https://docs.python.org/3/library/configparser.html#mapping-protocol-access
-https://docs.python.org/3/library/configparser.html#customizing-parser-behaviour
-https://docs.python.org/3/library/configparser.html#legacy-api-examples
-https://docs.python.org/3/library/configparser.html#configparser-objects
-https://docs.python.org/3/library/configparser.html#rawconfigparser-objects
-https://docs.python.org/3/library/configparser.html#exceptions
-
-https://docs.python.org/3/library/netrc.html
-https://docs.python.org/3/library/netrc.html#netrc-objects
-
-https://docs.python.org/3/library/xdrlib.html
-https://docs.python.org/3/library/xdrlib.html#packer-objects
-https://docs.python.org/3/library/xdrlib.html#unpacker-objects
-https://docs.python.org/3/library/xdrlib.html#exceptions
-
 https://docs.python.org/3/library/plistlib.html
 https://docs.python.org/3/library/plistlib.html#examples
+
 
 7. Binary Data Services
 7.1. struct — Interpret bytes as packed binary data
@@ -742,7 +626,6 @@ https://docs.python.org/3/library/struct.html#byte-order-size-and-alignment
 https://docs.python.org/3/library/struct.html#format-characters
 https://docs.python.org/3/library/struct.html#examples
 https://docs.python.org/3/library/struct.html#classes
-
 
 25. Program Frameworks
 25.2. cmd — Support for line-oriented command interpreters
@@ -758,6 +641,9 @@ https://docs.python.org/3/library/shlex.html#parsing-rules
 https://docs.python.org/3/library/shlex.html#improved-compatibility-with-shells
 
 
+
+11.11. macpath — Mac OS 9 path manipulation functions
+https://docs.python.org/3/library/macpath.html
 
 
 16.10. curses — Terminal handling for character-cell displays
@@ -965,6 +851,31 @@ https://docs.python.org/3/library/readline.html#completion
 https://docs.python.org/3/library/readline.html#example
 https://docs.python.org/3/library/rlcompleter.html
 https://docs.python.org/3/library/rlcompleter.html#completer-objects
+
+7. Input and Output
+https://docs.python.org/3/tutorial/inputoutput.html
+https://docs.python.org/3/tutorial/inputoutput.html#methods-of-file-objects
+https://docs.python.org/3/tutorial/inputoutput.html#reading-and-writing-files
+https://docs.python.org/3/library/functions.html#open
+
+11.3. fileinput — Iterate over lines from multiple input streams
+11.5. filecmp — File and Directory Comparisons
+11.6. tempfile — Generate temporary files and directories
+11.8. fnmatch — Unix filename pattern matching
+11.9. linecache — Random access to text lines
+
+https://docs.python.org/3/library/filesys.html
+
+https://docs.python.org/3/library/fileinput.html
+
+https://docs.python.org/3/library/filecmp.html
+https://docs.python.org/3/library/filecmp.html#the-dircmp-class
+https://docs.python.org/3/library/tempfile.html
+https://docs.python.org/3/library/tempfile.html#examples
+https://docs.python.org/3/library/tempfile.html#deprecated-functions-and-variables
+
+https://docs.python.org/3/library/fnmatch.html
+https://docs.python.org/3/library/linecache.html
 
 12. Data Persistence
 12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
@@ -1201,6 +1112,32 @@ https://docs.python.org/3/library/zipapp.html#creating-standalone-applications-w
 https://docs.python.org/3/library/zipapp.html#making-a-windows-executable
 https://docs.python.org/3/library/zipapp.html#caveats
 https://docs.python.org/3/library/zipapp.html#the-python-zip-application-archive-format
+
+14. File Formats
+14.2. configparser — Configuration file parser
+14.3. netrc — netrc file processing
+14.4. xdrlib — Encode and decode XDR data
+
+https://docs.python.org/3/library/configparser.html
+https://docs.python.org/3/library/configparser.html#quick-start
+https://docs.python.org/3/library/configparser.html#supported-datatypes
+https://docs.python.org/3/library/configparser.html#fallback-values
+https://docs.python.org/3/library/configparser.html#supported-ini-file-structure
+https://docs.python.org/3/library/configparser.html#interpolation-of-values
+https://docs.python.org/3/library/configparser.html#mapping-protocol-access
+https://docs.python.org/3/library/configparser.html#customizing-parser-behaviour
+https://docs.python.org/3/library/configparser.html#legacy-api-examples
+https://docs.python.org/3/library/configparser.html#configparser-objects
+https://docs.python.org/3/library/configparser.html#rawconfigparser-objects
+https://docs.python.org/3/library/configparser.html#exceptions
+
+https://docs.python.org/3/library/netrc.html
+https://docs.python.org/3/library/netrc.html#netrc-objects
+
+https://docs.python.org/3/library/xdrlib.html
+https://docs.python.org/3/library/xdrlib.html#packer-objects
+https://docs.python.org/3/library/xdrlib.html#unpacker-objects
+https://docs.python.org/3/library/xdrlib.html#exceptions
 
 https://docs.python.org/3/library/email.html
 https://docs.python.org/3/library/email.message.html#module-email.message
