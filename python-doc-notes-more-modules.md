@@ -1,5 +1,11 @@
 # Python Doc Notes
 
+<!--
+## Python and Django Testing
+
+27.2. pydoc — Documentation generator and online help system
+https://docs.python.org/3/library/pydoc.html
+
 10.9. Data Compression
 https://docs.python.org/3/tutorial/stdlib.html#data-compression
 
@@ -22,271 +28,6 @@ https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib 
 
 
 
-
-## Internals
-
-Internal Use
-https://docs.python.org/3/library/test.html
-https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
-https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
-https://docs.python.org/3/library/test.html#module-test.support
-https://docs.python.org/3/library/test.html#module-test.support.script_helper
-
-16.16. ctypes — A foreign function library for Python
-
-"ctypes is a foreign function library for Python. It provides C compatible data types, and allows calling functions in DLLs or shared libraries. It can be used to wrap these libraries in pure Python."
-https://docs.python.org/3/library/ctypes.html
-https://docs.python.org/3/library/ctypes.html#ctypes-tutorial
-https://docs.python.org/3/library/ctypes.html#loading-dynamic-link-libraries
-https://docs.python.org/3/library/ctypes.html#accessing-functions-from-loaded-dlls
-https://docs.python.org/3/library/ctypes.html#calling-functions
-https://docs.python.org/3/library/ctypes.html#fundamental-data-types
-https://docs.python.org/3/library/ctypes.html#calling-functions-continued
-https://docs.python.org/3/library/ctypes.html#calling-functions-with-your-own-custom-data-types
-https://docs.python.org/3/library/ctypes.html#specifying-the-required-argument-types-function-prototypes
-https://docs.python.org/3/library/ctypes.html#return-types
-https://docs.python.org/3/library/ctypes.html#passing-pointers-or-passing-parameters-by-reference
-https://docs.python.org/3/library/ctypes.html#structures-and-unions
-https://docs.python.org/3/library/ctypes.html#structure-union-alignment-and-byte-order
-https://docs.python.org/3/library/ctypes.html#bit-fields-in-structures-and-unions
-https://docs.python.org/3/library/ctypes.html#arrays
-https://docs.python.org/3/library/ctypes.html#pointers
-https://docs.python.org/3/library/ctypes.html#type-conversions
-https://docs.python.org/3/library/ctypes.html#incomplete-types
-https://docs.python.org/3/library/ctypes.html#callback-functions
-https://docs.python.org/3/library/ctypes.html#accessing-values-exported-from-dlls
-https://docs.python.org/3/library/ctypes.html#surprises
-https://docs.python.org/3/library/ctypes.html#variable-sized-data-types
-https://docs.python.org/3/library/ctypes.html#ctypes-reference
-https://docs.python.org/3/library/ctypes.html#finding-shared-libraries
-https://docs.python.org/3/library/ctypes.html#loading-shared-libraries
-https://docs.python.org/3/library/ctypes.html#foreign-functions
-https://docs.python.org/3/library/ctypes.html#function-prototypes
-https://docs.python.org/3/library/ctypes.html#utility-functions
-https://docs.python.org/3/library/ctypes.html#data-types
-https://docs.python.org/3/library/ctypes.html#ctypes-fundamental-data-types-2
-
-https://docs.python.org/3/library/ctypes.html#structured-data-types
-https://docs.python.org/3/library/ctypes.html#arrays-and-pointers
-
-
-## Interpreter
-
-2. Using the Python Interpreter
-2.1. Invoking the Interpreter
-2.1.1. Argument Passing
-2.1.2. Interactive Mode
-2.2. The Interpreter and Its Environment
-2.2.1. Source Code Encoding
-
-https://docs.python.org/3/tutorial/interpreter.html
-https://docs.python.org/3/tutorial/interpreter.html#invoking-the-interpreter
-https://docs.python.org/3/tutorial/interpreter.html#argument-passing
-https://docs.python.org/3/using/cmdline.html#using-on-general
-
-https://docs.python.org/3/tutorial/interpreter.html#interactive-mode
-https://docs.python.org/3/tutorial/interpreter.html#the-interpreter-and-its-environment
-https://docs.python.org/3/tutorial/interpreter.html#source-code-encoding
-
-14. Interactive Input Editing and History Substitution
-https://docs.python.org/3/tutorial/interactive.html#interactive-input-editing-and-history-substitution
-14.1. Tab Completion and History Editing
-https://docs.python.org/3/tutorial/interactive.html#tab-completion-and-history-editing
-14.2. Alternatives to the Interactive Interpreter
-https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interactive-interpreter
-
-
-31. Custom Python Interpreters
-31.1. code — Interpreter base classes
-31.2. codeop — Compile Python code
-
-Not There
-https://docs.python.org/3/library/custominterp.html#custom-python-interpreters
-https://docs.python.org/3/library/code.html#module-code
-https://docs.python.org/3/library/code.html#interactive-interpreter-objects
-https://docs.python.org/3/library/code.html#interactive-console-objects
-https://docs.python.org/3/library/codeop.html#module-codeop
-
-
-## Packages and Importing
-
-29.4. __main__ — Top-level script environment
-5.7. Special considerations for __main__
-https://docs.python.org/3/library/__main__.html
-https://docs.python.org/3/reference/import.html#special-considerations-for-main
-
-https://docs.python.org/3/installing/index.html
-
-https://docs.python.org/3/distributing/index.html
-
-Old
-29.1. distutils — Building and installing Python modules
-https://docs.python.org/3/library/distutils.html
-
-https://docs.python.org/3/reference/simple_stmts.html#the-import-statement
-https://docs.python.org/3/tutorial/modules.html
-https://docs.python.org/3/tutorial/modules.html#packages
-https://docs.python.org/3/library/modules.html
-https://docs.python.org/3/library/distribution.html
-
-https://docs.python.org/3/tutorial/modules.html#modules
-https://docs.python.org/3/tutorial/modules.html#more-on-modules
-https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts
-https://docs.python.org/3/tutorial/modules.html#the-module-search-path
-https://docs.python.org/3/tutorial/modules.html#compiled-python-files
-https://docs.python.org/3/tutorial/modules.html#packages
-https://docs.python.org/3/tutorial/modules.html#importing-from-a-package
-https://docs.python.org/3/tutorial/modules.html#intra-package-references
-https://docs.python.org/3/tutorial/modules.html#packages-in-multiple-directories
-
-https://docs.python.org/3/reference/import.html
-https://docs.python.org/3/reference/import.html#importlib
-https://docs.python.org/3/reference/import.html#packages
-
-https://docs.python.org/3/reference/import.html#regular-packages
-https://docs.python.org/3/reference/import.html#namespace-packages
-
-https://docs.python.org/3/reference/import.html#searching
-
-https://docs.python.org/3/reference/import.html#the-module-cache
-https://docs.python.org/3/reference/import.html#finders-and-loaders
-https://docs.python.org/3/reference/import.html#import-hooks
-https://docs.python.org/3/reference/import.html#the-meta-path
-
-https://docs.python.org/3/reference/import.html#loading
-
-https://docs.python.org/3/reference/import.html#loaders
-https://docs.python.org/3/reference/import.html#submodules
-https://docs.python.org/3/reference/import.html#module-spec
-https://docs.python.org/3/reference/import.html#import-related-module-attributes
-https://docs.python.org/3/reference/import.html#module-path
-https://docs.python.org/3/reference/import.html#module-reprs
-https://docs.python.org/3/reference/import.html#cached-bytecode-invalidation
-
-https://docs.python.org/3/reference/import.html#the-path-based-finder
-
-https://docs.python.org/3/reference/import.html#path-entry-finders
-https://docs.python.org/3/reference/import.html#path-entry-finder-protocol
-
-https://docs.python.org/3/reference/import.html#replacing-the-standard-import-system
-https://docs.python.org/3/reference/import.html#special-considerations-for-main
-
-https://docs.python.org/3/reference/import.html#main-spec
-
-5.8. Open issues
-https://docs.python.org/3/reference/import.html#open-issues
-5.9. References
-https://docs.python.org/3/reference/import.html#references
-
-https://docs.python.org/3/library/importlib.html
-https://docs.python.org/3/library/importlib.html#introduction
-https://docs.python.org/3/library/importlib.html#functions
-https://docs.python.org/3/library/importlib.html#module-importlib.abc
-https://docs.python.org/3/library/importlib.html#module-importlib.resources
-https://docs.python.org/3/library/importlib.html#module-importlib.machinery
-https://docs.python.org/3/library/importlib.html#module-importlib.util
-https://docs.python.org/3/library/importlib.html#examples
-https://docs.python.org/3/library/importlib.html#importing-programmatically
-https://docs.python.org/3/library/importlib.html#checking-if-a-module-can-be-imported
-https://docs.python.org/3/library/importlib.html#importing-a-source-file-directly
-https://docs.python.org/3/library/importlib.html#setting-up-an-importer
-https://docs.python.org/3/library/importlib.html#approximating-importlib-import-module
-
-9. Top-level components
-9.1. Complete Python programs
-9.2. File input
-9.3. Interactive input
-9.4. Expression input
-
-https://docs.python.org/3/reference/toplevel_components.html
-https://docs.python.org/3/reference/toplevel_components.html#complete-python-programs
-https://docs.python.org/3/reference/toplevel_components.html#file-input
-https://docs.python.org/3/reference/toplevel_components.html#interactive-input
-https://docs.python.org/3/reference/toplevel_components.html#expression-input
-
-32. Importing Modules
-32.2. pkgutil — Package extension utility
-32.3. modulefinder — Find modules used by a script
-32.4. runpy — Locating and executing Python modules
-32.5. importlib — The implementation of import
-
-https://docs.python.org/3/library/pkgutil.html
-https://docs.python.org/3/library/modulefinder.html
-https://docs.python.org/3/library/modulefinder.html#example-usage-of-modulefinder
-https://docs.python.org/3/library/runpy.html
-
-32.1. zipimport — Import modules from Zip archives
-https://docs.python.org/3/library/zipimport.html
-https://docs.python.org/3/library/zipimport.html#zipimporter-objects
-https://docs.python.org/3/library/zipimport.html#examples
-
-
-pip
-29.2. ensurepip — Bootstrapping the pip installer
-https://docs.python.org/3/library/ensurepip.html
-https://docs.python.org/3/library/ensurepip.html#command-line-interface
-https://docs.python.org/3/library/ensurepip.html#module-api
-
-
-## virtualenv
-
-12. Virtual Environments and Packages
-12.1. Introduction
-12.2. Creating Virtual Environments
-12.3. Managing Packages with pip
-
-29.3. venv — Creation of virtual environments
-
-https://docs.python.org/3/library/venv.html
-
-https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages
-https://docs.python.org/3/tutorial/venv.html#introduction
-https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
-https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
-
-https://docs.python.org/3/library/venv.html#api
-https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
-
-
-## General Stuff
-
-30.11. __future__ — Future statement definitions
-https://docs.python.org/3/library/__future__.html
-https://docs.python.org/3/reference/simple_stmts.html#future-statements
-
-https://docs.python.org/3/reference/executionmodel.html
-https://docs.python.org/3/library/functions.html#eval
-https://docs.python.org/3/library/functions.html#exec
-
-https://docs.python.org/3/reference/executionmodel.html#structure-of-a-program
-https://docs.python.org/3/reference/executionmodel.html#naming-and-binding
-
-https://docs.python.org/3/reference/executionmodel.html#binding-of-names
-https://docs.python.org/3/reference/executionmodel.html#resolution-of-names
-https://docs.python.org/3/reference/executionmodel.html#builtins-and-restricted-execution
-https://docs.python.org/3/library/__main__.html#module-__main__
-
-https://docs.python.org/3/reference/executionmodel.html#interaction-with-dynamic-features
-
-https://docs.python.org/3/reference/executionmodel.html#exceptions
-
-
-https://docs.python.org/3/library/stdtypes.html#the-ellipsis-object
-
-4.7.6. Documentation Strings
-https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
-
-
-## Python and Django Testing
-
-27.2. pydoc — Documentation generator and online help system
-https://docs.python.org/3/library/pydoc.html
--->
-
-
-
-
-<!--
 ## Dataclasses
 
 "This module provides a decorator and functions for automatically adding generated special methods such as __init__() and __repr__() to user-defined classes. It was originally described in PEP 557."
@@ -607,10 +348,263 @@ https://docs.python.org/3/library/shlex.html#module-shlex
 https://docs.python.org/3/library/shlex.html#shlex-objects
 https://docs.python.org/3/library/shlex.html#parsing-rules
 https://docs.python.org/3/library/shlex.html#improved-compatibility-with-shells
+-->
+
+## Internals
+
+Internal Use
+https://docs.python.org/3/library/test.html
+https://docs.python.org/3/library/test.html#writing-unit-tests-for-the-test-package
+https://docs.python.org/3/library/test.html#running-tests-using-the-command-line-interface
+https://docs.python.org/3/library/test.html#module-test.support
+https://docs.python.org/3/library/test.html#module-test.support.script_helper
+
+16.16. ctypes — A foreign function library for Python
+
+"ctypes is a foreign function library for Python. It provides C compatible data types, and allows calling functions in DLLs or shared libraries. It can be used to wrap these libraries in pure Python."
+https://docs.python.org/3/library/ctypes.html
+https://docs.python.org/3/library/ctypes.html#ctypes-tutorial
+https://docs.python.org/3/library/ctypes.html#loading-dynamic-link-libraries
+https://docs.python.org/3/library/ctypes.html#accessing-functions-from-loaded-dlls
+https://docs.python.org/3/library/ctypes.html#calling-functions
+https://docs.python.org/3/library/ctypes.html#fundamental-data-types
+https://docs.python.org/3/library/ctypes.html#calling-functions-continued
+https://docs.python.org/3/library/ctypes.html#calling-functions-with-your-own-custom-data-types
+https://docs.python.org/3/library/ctypes.html#specifying-the-required-argument-types-function-prototypes
+https://docs.python.org/3/library/ctypes.html#return-types
+https://docs.python.org/3/library/ctypes.html#passing-pointers-or-passing-parameters-by-reference
+https://docs.python.org/3/library/ctypes.html#structures-and-unions
+https://docs.python.org/3/library/ctypes.html#structure-union-alignment-and-byte-order
+https://docs.python.org/3/library/ctypes.html#bit-fields-in-structures-and-unions
+https://docs.python.org/3/library/ctypes.html#arrays
+https://docs.python.org/3/library/ctypes.html#pointers
+https://docs.python.org/3/library/ctypes.html#type-conversions
+https://docs.python.org/3/library/ctypes.html#incomplete-types
+https://docs.python.org/3/library/ctypes.html#callback-functions
+https://docs.python.org/3/library/ctypes.html#accessing-values-exported-from-dlls
+https://docs.python.org/3/library/ctypes.html#surprises
+https://docs.python.org/3/library/ctypes.html#variable-sized-data-types
+https://docs.python.org/3/library/ctypes.html#ctypes-reference
+https://docs.python.org/3/library/ctypes.html#finding-shared-libraries
+https://docs.python.org/3/library/ctypes.html#loading-shared-libraries
+https://docs.python.org/3/library/ctypes.html#foreign-functions
+https://docs.python.org/3/library/ctypes.html#function-prototypes
+https://docs.python.org/3/library/ctypes.html#utility-functions
+https://docs.python.org/3/library/ctypes.html#data-types
+https://docs.python.org/3/library/ctypes.html#ctypes-fundamental-data-types-2
+
+https://docs.python.org/3/library/ctypes.html#structured-data-types
+https://docs.python.org/3/library/ctypes.html#arrays-and-pointers
 
 
+## Interpreter
+
+2. Using the Python Interpreter
+2.1. Invoking the Interpreter
+2.1.1. Argument Passing
+2.1.2. Interactive Mode
+2.2. The Interpreter and Its Environment
+2.2.1. Source Code Encoding
+
+https://docs.python.org/3/tutorial/interpreter.html
+https://docs.python.org/3/tutorial/interpreter.html#invoking-the-interpreter
+https://docs.python.org/3/tutorial/interpreter.html#argument-passing
+https://docs.python.org/3/using/cmdline.html#using-on-general
+
+https://docs.python.org/3/tutorial/interpreter.html#interactive-mode
+https://docs.python.org/3/tutorial/interpreter.html#the-interpreter-and-its-environment
+https://docs.python.org/3/tutorial/interpreter.html#source-code-encoding
+
+14. Interactive Input Editing and History Substitution
+https://docs.python.org/3/tutorial/interactive.html#interactive-input-editing-and-history-substitution
+14.1. Tab Completion and History Editing
+https://docs.python.org/3/tutorial/interactive.html#tab-completion-and-history-editing
+14.2. Alternatives to the Interactive Interpreter
+https://docs.python.org/3/tutorial/interactive.html#alternatives-to-the-interactive-interpreter
 
 
+31. Custom Python Interpreters
+31.1. code — Interpreter base classes
+31.2. codeop — Compile Python code
+
+Not There
+https://docs.python.org/3/library/custominterp.html#custom-python-interpreters
+https://docs.python.org/3/library/code.html#module-code
+https://docs.python.org/3/library/code.html#interactive-interpreter-objects
+https://docs.python.org/3/library/code.html#interactive-console-objects
+https://docs.python.org/3/library/codeop.html#module-codeop
+
+
+## Packages and Importing
+
+29.4. __main__ — Top-level script environment
+5.7. Special considerations for __main__
+https://docs.python.org/3/library/__main__.html
+https://docs.python.org/3/reference/import.html#special-considerations-for-main
+
+https://docs.python.org/3/installing/index.html
+
+https://docs.python.org/3/distributing/index.html
+
+Old
+29.1. distutils — Building and installing Python modules
+https://docs.python.org/3/library/distutils.html
+
+https://docs.python.org/3/reference/simple_stmts.html#the-import-statement
+https://docs.python.org/3/tutorial/modules.html
+https://docs.python.org/3/tutorial/modules.html#packages
+https://docs.python.org/3/library/modules.html
+https://docs.python.org/3/library/distribution.html
+
+https://docs.python.org/3/tutorial/modules.html#modules
+https://docs.python.org/3/tutorial/modules.html#more-on-modules
+https://docs.python.org/3/tutorial/modules.html#executing-modules-as-scripts
+https://docs.python.org/3/tutorial/modules.html#the-module-search-path
+https://docs.python.org/3/tutorial/modules.html#compiled-python-files
+https://docs.python.org/3/tutorial/modules.html#packages
+https://docs.python.org/3/tutorial/modules.html#importing-from-a-package
+https://docs.python.org/3/tutorial/modules.html#intra-package-references
+https://docs.python.org/3/tutorial/modules.html#packages-in-multiple-directories
+
+https://docs.python.org/3/reference/import.html
+https://docs.python.org/3/reference/import.html#importlib
+https://docs.python.org/3/reference/import.html#packages
+
+https://docs.python.org/3/reference/import.html#regular-packages
+https://docs.python.org/3/reference/import.html#namespace-packages
+
+https://docs.python.org/3/reference/import.html#searching
+
+https://docs.python.org/3/reference/import.html#the-module-cache
+https://docs.python.org/3/reference/import.html#finders-and-loaders
+https://docs.python.org/3/reference/import.html#import-hooks
+https://docs.python.org/3/reference/import.html#the-meta-path
+
+https://docs.python.org/3/reference/import.html#loading
+
+https://docs.python.org/3/reference/import.html#loaders
+https://docs.python.org/3/reference/import.html#submodules
+https://docs.python.org/3/reference/import.html#module-spec
+https://docs.python.org/3/reference/import.html#import-related-module-attributes
+https://docs.python.org/3/reference/import.html#module-path
+https://docs.python.org/3/reference/import.html#module-reprs
+https://docs.python.org/3/reference/import.html#cached-bytecode-invalidation
+
+https://docs.python.org/3/reference/import.html#the-path-based-finder
+
+https://docs.python.org/3/reference/import.html#path-entry-finders
+https://docs.python.org/3/reference/import.html#path-entry-finder-protocol
+
+https://docs.python.org/3/reference/import.html#replacing-the-standard-import-system
+https://docs.python.org/3/reference/import.html#special-considerations-for-main
+
+https://docs.python.org/3/reference/import.html#main-spec
+
+5.8. Open issues
+https://docs.python.org/3/reference/import.html#open-issues
+5.9. References
+https://docs.python.org/3/reference/import.html#references
+
+https://docs.python.org/3/library/importlib.html
+https://docs.python.org/3/library/importlib.html#introduction
+https://docs.python.org/3/library/importlib.html#functions
+https://docs.python.org/3/library/importlib.html#module-importlib.abc
+https://docs.python.org/3/library/importlib.html#module-importlib.resources
+https://docs.python.org/3/library/importlib.html#module-importlib.machinery
+https://docs.python.org/3/library/importlib.html#module-importlib.util
+https://docs.python.org/3/library/importlib.html#examples
+https://docs.python.org/3/library/importlib.html#importing-programmatically
+https://docs.python.org/3/library/importlib.html#checking-if-a-module-can-be-imported
+https://docs.python.org/3/library/importlib.html#importing-a-source-file-directly
+https://docs.python.org/3/library/importlib.html#setting-up-an-importer
+https://docs.python.org/3/library/importlib.html#approximating-importlib-import-module
+
+9. Top-level components
+9.1. Complete Python programs
+9.2. File input
+9.3. Interactive input
+9.4. Expression input
+
+https://docs.python.org/3/reference/toplevel_components.html
+https://docs.python.org/3/reference/toplevel_components.html#complete-python-programs
+https://docs.python.org/3/reference/toplevel_components.html#file-input
+https://docs.python.org/3/reference/toplevel_components.html#interactive-input
+https://docs.python.org/3/reference/toplevel_components.html#expression-input
+
+32. Importing Modules
+32.2. pkgutil — Package extension utility
+32.3. modulefinder — Find modules used by a script
+32.4. runpy — Locating and executing Python modules
+32.5. importlib — The implementation of import
+
+https://docs.python.org/3/library/pkgutil.html
+https://docs.python.org/3/library/modulefinder.html
+https://docs.python.org/3/library/modulefinder.html#example-usage-of-modulefinder
+https://docs.python.org/3/library/runpy.html
+
+32.1. zipimport — Import modules from Zip archives
+https://docs.python.org/3/library/zipimport.html
+https://docs.python.org/3/library/zipimport.html#zipimporter-objects
+https://docs.python.org/3/library/zipimport.html#examples
+
+
+pip
+29.2. ensurepip — Bootstrapping the pip installer
+https://docs.python.org/3/library/ensurepip.html
+https://docs.python.org/3/library/ensurepip.html#command-line-interface
+https://docs.python.org/3/library/ensurepip.html#module-api
+
+
+## virtualenv
+
+12. Virtual Environments and Packages
+12.1. Introduction
+12.2. Creating Virtual Environments
+12.3. Managing Packages with pip
+
+29.3. venv — Creation of virtual environments
+
+https://docs.python.org/3/library/venv.html
+
+https://docs.python.org/3/tutorial/venv.html#virtual-environments-and-packages
+https://docs.python.org/3/tutorial/venv.html#introduction
+https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments
+https://docs.python.org/3/tutorial/venv.html#managing-packages-with-pip
+
+https://docs.python.org/3/library/venv.html#api
+https://docs.python.org/3/library/venv.html#an-example-of-extending-envbuilder
+
+
+## General Stuff
+
+30.11. __future__ — Future statement definitions
+https://docs.python.org/3/library/__future__.html
+https://docs.python.org/3/reference/simple_stmts.html#future-statements
+
+https://docs.python.org/3/reference/executionmodel.html
+https://docs.python.org/3/library/functions.html#eval
+https://docs.python.org/3/library/functions.html#exec
+
+https://docs.python.org/3/reference/executionmodel.html#structure-of-a-program
+https://docs.python.org/3/reference/executionmodel.html#naming-and-binding
+
+https://docs.python.org/3/reference/executionmodel.html#binding-of-names
+https://docs.python.org/3/reference/executionmodel.html#resolution-of-names
+https://docs.python.org/3/reference/executionmodel.html#builtins-and-restricted-execution
+https://docs.python.org/3/library/__main__.html#module-__main__
+
+https://docs.python.org/3/reference/executionmodel.html#interaction-with-dynamic-features
+
+https://docs.python.org/3/reference/executionmodel.html#exceptions
+
+
+https://docs.python.org/3/library/stdtypes.html#the-ellipsis-object
+
+4.7.6. Documentation Strings
+https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
+-->
+
+<!--
 11.11. macpath — Mac OS 9 path manipulation functions
 https://docs.python.org/3/library/macpath.html
 
