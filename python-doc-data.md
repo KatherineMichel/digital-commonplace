@@ -39,6 +39,12 @@ https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
 negative indexes python - Google Search
 
 https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+
+https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
+https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
+
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 -->
 
 
@@ -57,9 +63,6 @@ https://docs.python.org/3/library/inspect.html#the-interpreter-stack
 https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
 
 https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
-
-https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
-https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
 -->
 
 
@@ -72,8 +75,6 @@ Built-in functions
 https://docs.python.org/3/library/functions.html#built-in-funcs
 
 
-https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
-https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
 
 https://ide.geeksforgeeks.org/
 https://en.wikipedia.org/wiki/Standard_52-card_deck
