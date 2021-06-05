@@ -309,6 +309,36 @@ zlib		Low-level interface to compression and decompression routines compatible w
 
 ## The Python General Index and Module Index- Priority
 
+## General Links
+
+https://docs.python.org/3/glossary.html
+
+https://docs.python.org/3/contents.html
+
+https://docs.python.org/2/howto/doanddont.html
+
+https://docs.python.org/3/reference/index.html
+https://docs.python.org/3/reference/introduction.html
+
+https://docs.python.org/3/library
+https://docs.python.org/3/library/index.html
+https://docs.python.org/3/library/intro.html
+
+13. What Now?
+https://docs.python.org/3/tutorial/whatnow.html#what-now
+
+1. Whetting Your Appetite
+https://docs.python.org/3/tutorial/appetite.html
+
+https://docs.python.org/3/tutorial/appendix.html
+https://docs.python.org/3/tutorial/appendix.html#appendix
+
+https://docs.python.org/3/tutorial/stdlib.html
+10. Brief Tour of the Standard Library
+https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
+11. Brief Tour of the Standard Library — Part II
+https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
+
 ## The Python General Index and Module Index
 
 https://docs.python.org/3/genindex.html
