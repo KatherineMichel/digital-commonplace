@@ -289,6 +289,8 @@ https://docs.python.org/3/library/pydoc.html
 <!--
 ## Dataclasses
 
+"This module provides a decorator and functions for automatically adding generated special methods such as __init__() and __repr__() to user-defined classes. It was originally described in PEP 557."
+https://docs.python.org/3/library/dataclasses.html
 https://docs.python.org/3/library/dataclasses.html#module-level-decorators-classes-and-functions
 https://docs.python.org/3/library/dataclasses.html#post-init-processing
 https://docs.python.org/3/library/dataclasses.html#class-variables
@@ -351,6 +353,12 @@ https://docs.python.org/3/library/site.html#readline-configuration
 https://docs.python.org/3/library/site.html#module-contents
 
 
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+https://docs.python.org/3/library/string.html#module-string
+https://docs.python.org/3/library/string.html#string.Template
+
+
 22.11. http — HTTP modules
 22.12. http.client — HTTP protocol client
 
@@ -362,11 +370,6 @@ https://docs.python.org/3/library/http.client.html#httpconnection-objects
 https://docs.python.org/3/library/http.client.html#httpresponse-objects
 https://docs.python.org/3/library/http.client.html#examples
 https://docs.python.org/3/library/http.client.html#httpmessage-objects
-
-11.2. Templating
-https://docs.python.org/3/tutorial/stdlib2.html#templating
-https://docs.python.org/3/library/string.html#module-string
-https://docs.python.org/3/library/string.html#string.Template
 
 
 22.23. http.cookies — HTTP state management
@@ -582,25 +585,10 @@ https://docs.python.org/3/library/locale.html#access-to-message-catalogs
 
 
 
+Protocols
 
 20.1. email — An email and MIME handling package
 https://en.wikipedia.org/wiki/MIME
-
-22.13. ftplib — FTP protocol client
-https://en.wikipedia.org/wiki/File_Transfer_Protocol
-22.14. poplib — POP3 protocol client
-https://en.wikipedia.org/wiki/Post_Office_Protocol
-22.15. imaplib — IMAP4 protocol client
-https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
-22.16. nntplib — NNTP protocol client
-https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol
-22.17. smtplib — SMTP protocol client
-22.18. smtpd — SMTP Server
-https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
-22.19. telnetlib — Telnet client
-https://en.wikipedia.org/wiki/Telnet
-22.20. uuid — UUID objects according to RFC 4122
-https://en.wikipedia.org/wiki/Universally_unique_identifier
 
 20.5. mimetypes — Map filenames to MIME types
 https://en.wikipedia.org/wiki/Media_type
@@ -614,31 +602,12 @@ https://en.wikipedia.org/wiki/Codec
 https://docs.python.org/3/library/plistlib.html
 https://docs.python.org/3/library/plistlib.html#examples
 
-
-7. Binary Data Services
-7.1. struct — Interpret bytes as packed binary data
-
-https://docs.python.org/3/library/binary.html
-https://docs.python.org/3/library/struct.html
-https://docs.python.org/3/library/struct.html#functions-and-exceptions
-https://docs.python.org/3/library/struct.html#format-strings
-https://docs.python.org/3/library/struct.html#byte-order-size-and-alignment
-https://docs.python.org/3/library/struct.html#format-characters
-https://docs.python.org/3/library/struct.html#examples
-https://docs.python.org/3/library/struct.html#classes
-
-25. Program Frameworks
-25.2. cmd — Support for line-oriented command interpreters
 25.3. shlex — Simple lexical analysis
-
-https://docs.python.org/3/library/cmd.html#module-cmd
-https://docs.python.org/3/library/cmd.html#cmd-objects
-https://docs.python.org/3/library/cmd.html#cmd-example
-
 https://docs.python.org/3/library/shlex.html#module-shlex
 https://docs.python.org/3/library/shlex.html#shlex-objects
 https://docs.python.org/3/library/shlex.html#parsing-rules
 https://docs.python.org/3/library/shlex.html#improved-compatibility-with-shells
+
 
 
 
@@ -1017,6 +986,25 @@ https://docs.python.org/3/library/syslog.html
 https://docs.python.org/3/library/syslog.html#examples
 https://docs.python.org/3/library/syslog.html#simple-example
 
+7. Binary Data Services
+7.1. struct — Interpret bytes as packed binary data
+
+https://docs.python.org/3/library/binary.html
+https://docs.python.org/3/library/struct.html
+https://docs.python.org/3/library/struct.html#functions-and-exceptions
+https://docs.python.org/3/library/struct.html#format-strings
+https://docs.python.org/3/library/struct.html#byte-order-size-and-alignment
+https://docs.python.org/3/library/struct.html#format-characters
+https://docs.python.org/3/library/struct.html#examples
+https://docs.python.org/3/library/struct.html#classes
+
+25. Program Frameworks
+25.2. cmd — Support for line-oriented command interpreters
+
+https://docs.python.org/3/library/cmd.html#module-cmd
+https://docs.python.org/3/library/cmd.html#cmd-objects
+https://docs.python.org/3/library/cmd.html#cmd-example
+
 12. Data Persistence
 12.1. pickle — Python object serialization
 
@@ -1161,13 +1149,20 @@ https://docs.python.org/3/library/email.util.html
 https://docs.python.org/3/library/email.iterators.html
 
 22.13. ftplib — FTP protocol client
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
 22.14. poplib — POP3 protocol client
+https://en.wikipedia.org/wiki/Post_Office_Protocol
 22.15. imaplib — IMAP4 protocol client
+https://en.wikipedia.org/wiki/Internet_Message_Access_Protocol
 22.16. nntplib — NNTP protocol client
+https://en.wikipedia.org/wiki/Network_News_Transfer_Protocol
 22.17. smtplib — SMTP protocol client
 22.18. smtpd — SMTP Server
+https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
 22.19. telnetlib — Telnet client
+https://en.wikipedia.org/wiki/Telnet
 22.20. uuid — UUID objects according to RFC 4122
+https://en.wikipedia.org/wiki/Universally_unique_identifier
 
 20.3. mailcap — Mailcap file handling
 20.4. mailbox — Manipulate mailboxes in various formats
