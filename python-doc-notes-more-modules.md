@@ -36,38 +36,6 @@ https://docs.python.org/3/library/test.html#module-test.support
 https://docs.python.org/3/library/test.html#module-test.support.script_helper
 
 
-## General Links
-
-https://docs.python.org/3/glossary.html
-
-https://docs.python.org/3/contents.html
-https://docs.python.org/3/genindex.html
-https://docs.python.org/3/py-modindex.html
-
-https://docs.python.org/2/howto/doanddont.html
-
-https://docs.python.org/3/reference/index.html
-https://docs.python.org/3/reference/introduction.html
-
-https://docs.python.org/3/library
-https://docs.python.org/3/library/index.html
-https://docs.python.org/3/library/intro.html
-
-13. What Now?
-https://docs.python.org/3/tutorial/whatnow.html#what-now
-
-1. Whetting Your Appetite
-https://docs.python.org/3/tutorial/appetite.html
-
-https://docs.python.org/3/tutorial/appendix.html
-https://docs.python.org/3/tutorial/appendix.html#appendix
-
-https://docs.python.org/3/tutorial/stdlib.html
-10. Brief Tour of the Standard Library
-https://docs.python.org/3/tutorial/stdlib.html#brief-tour-of-the-standard-library
-11. Brief Tour of the Standard Library — Part II
-https://docs.python.org/3/tutorial/stdlib2.html#brief-tour-of-the-standard-library-part-ii
-
 
 10.9. Data Compression
 https://docs.python.org/3/tutorial/stdlib.html#data-compression
@@ -397,6 +365,7 @@ https://docs.python.org/3/library/doctest.html
 -->
 
 
+
 <!--
 ## Debugging and Profiling
 
@@ -616,56 +585,7 @@ https://docs.python.org/3/library/dataclasses.html#mutable-default-values
 https://docs.python.org/3/library/dataclasses.html#exceptions
 
 
-## Utilities
 
-22.2. cgi — Common Gateway Interface support
-22.3. cgitb — Traceback manager for CGI scripts
-22.4. wsgiref — WSGI Utilities and Reference Implementation
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/cgi.html#introduction
-https://docs.python.org/3/library/cgi.html#using-the-cgi-module
-https://docs.python.org/3/library/cgi.html#higher-level-interface
-https://docs.python.org/3/library/cgi.html#functions
-https://docs.python.org/3/library/cgi.html#caring-about-security
-https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
-https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
-https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
-https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
-
-https://docs.python.org/3/library/cgitb.html
-
-https://docs.python.org/3/library/wsgiref.html
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
-https://docs.python.org/3/library/wsgiref.html#examples
-
-12. Data Persistence
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
 
 16.14. platform — Access to underlying platform’s identifying data
 https://docs.python.org/3/library/platform.html
@@ -719,6 +639,7 @@ https://docs.python.org/3/library/shutil.html#archiving-operations
 https://docs.python.org/3/library/shutil.html#archiving-example
 https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
 
+
 22.11. http — HTTP modules
 22.12. http.client — HTTP protocol client
 
@@ -744,6 +665,7 @@ https://docs.python.org/3/library/pipes.html#template-objects
 14. File Formats
 14.5. plistlib — Generate and parse Mac OS X .plist files
 https://docs.python.org/3/library/plistlib.html
+
 
 16.3. time — Time access and conversions
 https://docs.python.org/3/library/time.html
@@ -839,6 +761,7 @@ https://docs.python.org/3/library/http.cookiejar.html#cookiepolicy-objects
 https://docs.python.org/3/library/http.cookiejar.html#defaultcookiepolicy-objects
 https://docs.python.org/3/library/http.cookiejar.html#cookie-objects
 https://docs.python.org/3/library/http.cookiejar.html#examples
+
 
 20.1. email — An email and MIME handling package
 
@@ -971,48 +894,6 @@ https://docs.python.org/3/library/types.html#coroutine-utility-functions
 
 
 
-## 2 to 3- Deprecated
-
-Automated Python 2 to 3 code translation
-https://docs.python.org/3/library/2to3.html
-https://docs.python.org/3/library/2to3.html#using-2to3
-https://docs.python.org/3/library/2to3.html#fixers
-https://docs.python.org/3/library/2to3.html#module-lib2to3
-
-
-## Tkinter
-
-26. Graphical User Interfaces with Tk
-26.1. tkinter — Python interface to Tcl/Tk
-26.2. tkinter.ttk — Tk themed widgets
-26.3. tkinter.tix — Extension widgets for Tk
-26.4. tkinter.scrolledtext — Scrolled Text Widget
-
-https://docs.python.org/3/library/tkinter.html
-https://docs.python.org/3/library/tk.html#graphical-user-interfaces-with-tk
-
-25.1. turtle — Turtle graphics
-
-https://docs.python.org/3/library/turtle.html
-
-
-
-15. Cryptographic Services
-15.1. hashlib — Secure hashes and message digests
-15.2. hmac — Keyed-Hashing for Message Authentication
-
-https://docs.python.org/3/library/crypto.html
-https://docs.python.org/3/library/hashlib.html
-https://docs.python.org/3/library/hashlib.html#hash-algorithms
-https://docs.python.org/3/library/hashlib.html#shake-variable-length-digests
-https://docs.python.org/3/library/hashlib.html#key-derivation
-https://docs.python.org/3/library/hashlib.html#blake2
-https://docs.python.org/3/library/hashlib.html#creating-hash-objects
-https://docs.python.org/3/library/hashlib.html#constants
-https://docs.python.org/3/library/hashlib.html#examples
-https://docs.python.org/3/library/hashlib.html#credits
-https://docs.python.org/3/library/hmac.html
-
 20.5. mimetypes — Map filenames to MIME types
 20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
 https://docs.python.org/3/library/mimetypes.html
@@ -1042,26 +923,6 @@ https://docs.python.org/3/library/codecs.html#module-encodings.idna
 https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
 https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
 
-22.28. ipaddress — IPv4/IPv6 manipulation library
-https://docs.python.org/3/library/ipaddress.html
-https://docs.python.org/3/library/ipaddress.html#convenience-factory-functions
-https://docs.python.org/3/library/ipaddress.html#ip-addresses
-https://docs.python.org/3/library/ipaddress.html#address-objects
-https://docs.python.org/3/library/ipaddress.html#conversion-to-strings-and-integers
-https://docs.python.org/3/library/ipaddress.html#operators
-https://docs.python.org/3/library/ipaddress.html#comparison-operators
-https://docs.python.org/3/library/ipaddress.html#arithmetic-operators
-https://docs.python.org/3/library/ipaddress.html#ip-network-definitions
-https://docs.python.org/3/library/ipaddress.html#prefix-net-mask-and-host-mask
-https://docs.python.org/3/library/ipaddress.html#network-objects
-https://docs.python.org/3/library/ipaddress.html#id1
-https://docs.python.org/3/library/ipaddress.html#logical-operators
-https://docs.python.org/3/library/ipaddress.html#iteration
-https://docs.python.org/3/library/ipaddress.html#interface-objects
-https://docs.python.org/3/library/ipaddress.html#id2
-https://docs.python.org/3/library/ipaddress.html#id3
-https://docs.python.org/3/library/ipaddress.html#other-module-level-functions
-https://docs.python.org/3/library/ipaddress.html#custom-exceptions
 
 ## Less Common Utilities?
 
@@ -1138,6 +999,7 @@ https://docs.python.org/3/library/xml.etree.elementtree.html#xmlparser-objects
 https://docs.python.org/3/library/xml.etree.elementtree.html#xmlpullparser-objects
 https://docs.python.org/3/library/xml.etree.elementtree.html#exceptions
 
+"xml.dom — The Document Object Model API"
 https://docs.python.org/3/library/xml.dom.html
 https://docs.python.org/3/library/xml.dom.html#module-contents
 https://docs.python.org/3/library/xml.dom.html#objects-in-the-dom
@@ -1163,6 +1025,7 @@ https://docs.python.org/3/library/xml.dom.minidom.html#minidom-and-the-dom-stand
 https://docs.python.org/3/library/xml.dom.pulldom.html
 https://docs.python.org/3/library/xml.dom.pulldom.html#domeventstream-objects
 
+"The xml.sax package provides a number of modules which implement the Simple API for XML (SAX) interface for Python. The package itself provides the SAX exceptions and the convenience functions which will be most used by users of the SAX API."
 https://docs.python.org/3/library/xml.sax.html
 https://docs.python.org/3/library/xml.sax.html#saxexception-objects
 https://docs.python.org/3/library/xml.sax.handler.html
@@ -1190,6 +1053,7 @@ https://docs.python.org/3/library/pyexpat.html#module-xml.parsers.expat.errors
 22.26. xmlrpc.client — XML-RPC client access
 22.27. xmlrpc.server — Basic XML-RPC servers
 
+"XML-RPC is a Remote Procedure Call method that uses XML passed via HTTP as a transport. With it, a client can call methods with parameters on a remote server (the server is named by a URI) and get back structured data."
 https://docs.python.org/3/library/xmlrpc.html
 https://docs.python.org/3/library/xmlrpc.client.html
 https://docs.python.org/3/library/xmlrpc.client.html#serverproxy-objects
@@ -1209,8 +1073,8 @@ https://docs.python.org/3/library/xmlrpc.server.html#documenting-xmlrpc-server
 https://docs.python.org/3/library/xmlrpc.server.html#docxmlrpcserver-objects
 https://docs.python.org/3/library/xmlrpc.server.html#doccgixmlrpcrequesthandler
 
+
 12. Data Persistence
-12.1. pickle — Python object serialization
 12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
 
 https://docs.python.org/3/library/sqlite3.html
@@ -1232,82 +1096,9 @@ https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead
 https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
 https://docs.python.org/3/library/sqlite3.html#common-issues
 
+
 https://docs.python.org/3/library/sqlite3.html#multithreading
 
-https://docs.python.org/3/library/pickle.html
-
-https://docs.python.org/3/library/pickle.html#relationship-to-other-python-modules
-https://docs.python.org/3/library/pickle.html#comparison-with-marshal
-https://docs.python.org/3/library/pickle.html#comparison-with-json
-https://docs.python.org/3/library/pickle.html#data-stream-format
-https://docs.python.org/3/library/pickle.html#module-interface
-https://docs.python.org/3/library/pickle.html#what-can-be-pickled-and-unpickled
-https://docs.python.org/3/library/pickle.html#pickling-class-instances
-https://docs.python.org/3/library/pickle.html#persistence-of-external-objects
-https://docs.python.org/3/library/pickle.html#dispatch-tables
-https://docs.python.org/3/library/pickle.html#handling-stateful-objects
-https://docs.python.org/3/library/pickle.html#restricting-globals
-https://docs.python.org/3/library/pickle.html#performance
-https://docs.python.org/3/library/pickle.html#examples
-
-https://docs.python.org/3/library/pickletools.html
-https://docs.python.org/3/library/pickletools.html#command-line-usage
-https://docs.python.org/3/library/pickletools.html#command-line-options
-https://docs.python.org/3/library/pickletools.html#programmatic-interface
-
-13. Data Compression and Archiving
-13.1. zlib — Compression compatible with gzip
-13.2. gzip — Support for gzip files
-13.3. bz2 — Support for bzip2 compression
-13.4. lzma — Compression using the LZMA algorithm
-13.5. zipfile — Work with ZIP archives
-13.6. tarfile — Read and write tar archive files
-
-https://docs.python.org/3/library/zlib.html
-
-https://docs.python.org/3/library/gzip.html
-https://docs.python.org/3/library/gzip.html#examples-of-usage
-
-https://docs.python.org/3/library/bz2.html
-https://docs.python.org/3/library/bz2.html#de-compression-of-files
-https://docs.python.org/3/library/bz2.html#incremental-de-compression
-https://docs.python.org/3/library/bz2.html#one-shot-de-compression
-
-https://docs.python.org/3/library/lzma.html
-https://docs.python.org/3/library/lzma.html#reading-and-writing-compressed-files
-https://docs.python.org/3/library/lzma.html#compressing-and-decompressing-data-in-memory
-https://docs.python.org/3/library/lzma.html#miscellaneous
-https://docs.python.org/3/library/lzma.html#specifying-custom-filter-chains
-https://docs.python.org/3/library/lzma.html#examples
-
-https://docs.python.org/3/library/zipfile.html
-https://docs.python.org/3/library/zipfile.html#zipfile-objects
-https://docs.python.org/3/library/zipfile.html#pyzipfile-objects
-https://docs.python.org/3/library/zipfile.html#zipinfo-objects
-https://docs.python.org/3/library/zipfile.html#command-line-interface
-https://docs.python.org/3/library/zipfile.html#command-line-options
-
-https://docs.python.org/3/library/tarfile.html
-https://docs.python.org/3/library/tarfile.html#tarfile-objects
-https://docs.python.org/3/library/tarfile.html#tarinfo-objects
-https://docs.python.org/3/library/tarfile.html#command-line-interface
-https://docs.python.org/3/library/tarfile.html#command-line-options
-https://docs.python.org/3/library/tarfile.html#examples
-https://docs.python.org/3/library/tarfile.html#supported-tar-formats
-https://docs.python.org/3/library/tarfile.html#unicode-issues
-
-29.4. zipapp — Manage executable python zip archives
-
-https://docs.python.org/3/library/zipapp.html
-https://docs.python.org/3/library/zipapp.html#basic-example
-https://docs.python.org/3/library/zipapp.html#command-line-interface
-https://docs.python.org/3/library/zipapp.html#python-api
-https://docs.python.org/3/library/zipapp.html#examples
-https://docs.python.org/3/library/zipapp.html#specifying-the-interpreter
-https://docs.python.org/3/library/zipapp.html#creating-standalone-applications-with-zipapp
-https://docs.python.org/3/library/zipapp.html#making-a-windows-executable
-https://docs.python.org/3/library/zipapp.html#caveats
-https://docs.python.org/3/library/zipapp.html#the-python-zip-application-archive-format
 
 23. Multimedia Services
 23.1. audioop — Manipulate raw audio data
@@ -1379,6 +1170,7 @@ https://docs.python.org/3/library/readline.html#completion
 https://docs.python.org/3/library/readline.html#example
 https://docs.python.org/3/library/rlcompleter.html
 https://docs.python.org/3/library/rlcompleter.html#completer-objects
+
 
 36. Unix Specific Services
 36.1. posix — The most common POSIX system calls
@@ -1492,26 +1284,10 @@ https://docs.python.org/3/library/dbm.html#module-dbm.ndbm
 https://docs.python.org/3/library/dbm.html#module-dbm.dumb
 
 16.9. getpass — Portable password input
-16.10. curses — Terminal handling for character-cell displays
-16.11. curses.textpad — Text input widget for curses programs
-16.12. curses.ascii — Utilities for ASCII characters
-16.13. curses.panel — A panel stack extension for curses
+
 16.15. errno — Standard errno system symbols
 
 https://docs.python.org/3/library/getpass.html
-
-https://docs.python.org/3/library/curses.html
-https://docs.python.org/3/library/curses.html#functions
-https://docs.python.org/3/library/curses.html#window-objects
-https://docs.python.org/3/library/curses.html#constants
-https://docs.python.org/3/library/curses.html#module-curses.textpad
-https://docs.python.org/3/library/curses.html#textbox-objects
-
-https://docs.python.org/3/library/curses.ascii.html
-
-https://docs.python.org/3/library/curses.panel.html
-https://docs.python.org/3/library/curses.panel.html#functions
-https://docs.python.org/3/library/curses.panel.html#panel-objects
 
 https://docs.python.org/3/library/errno.html
 
@@ -1533,69 +1309,27 @@ https://docs.python.org/3/library/selectors.html#examples
 
 https://docs.python.org/3/library/mmap.html
 
-35. MS Windows Specific Services
-35.1. msilib — Read and write Microsoft Installer files
-35.2. msvcrt — Useful routines from the MS VC++ runtime
-35.3. winreg — Windows registry access
-35.4. winsound — Sound-playing interface for Windows
 
-https://docs.python.org/3/library/msilib.html
-https://docs.python.org/3/library/msilib.html#database-objects
-https://docs.python.org/3/library/msilib.html#view-objects
-https://docs.python.org/3/library/msilib.html#summary-information-objects
-https://docs.python.org/3/library/msilib.html#record-objects
-https://docs.python.org/3/library/msilib.html#errors
-https://docs.python.org/3/library/msilib.html#cab-objects
-https://docs.python.org/3/library/msilib.html#directory-objects
-https://docs.python.org/3/library/msilib.html#features
-https://docs.python.org/3/library/msilib.html#gui-classes
-https://docs.python.org/3/library/msilib.html#precomputed-tables
-https://docs.python.org/3/library/msvcrt.html
-https://docs.python.org/3/library/msvcrt.html#file-operations
-https://docs.python.org/3/library/msvcrt.html#console-i-o
-https://docs.python.org/3/library/msvcrt.html#other-functions
-https://docs.python.org/3/library/winreg.html
-https://docs.python.org/3/library/winreg.html#functions
-https://docs.python.org/3/library/winreg.html#constants
-https://docs.python.org/3/library/winreg.html#hkey-constants
-https://docs.python.org/3/library/winreg.html#access-rights
-https://docs.python.org/3/library/winreg.html#bit-specific
-https://docs.python.org/3/library/winreg.html#value-types
-https://docs.python.org/3/library/winreg.html#registry-handle-objects
-https://docs.python.org/3/library/winsound.html
 
-26.5. IDLE
-26.6. Other Graphical User Interface Packages
+16.10. curses — Terminal handling for character-cell displays
+16.11. curses.textpad — Text input widget for curses programs
+16.12. curses.ascii — Utilities for ASCII characters
+16.13. curses.panel — A panel stack extension for curses
 
-https://docs.python.org/3/library/idle.html
-https://docs.python.org/3/library/idle.html#menus
-https://docs.python.org/3/library/idle.html#file-menu-shell-and-editor
-https://docs.python.org/3/library/idle.html#edit-menu-shell-and-editor
-https://docs.python.org/3/library/idle.html#format-menu-editor-window-only
-https://docs.python.org/3/library/idle.html#run-menu-editor-window-only
-https://docs.python.org/3/library/idle.html#shell-menu-shell-window-only
-https://docs.python.org/3/library/idle.html#debug-menu-shell-window-only
-https://docs.python.org/3/library/idle.html#options-menu-shell-and-editor
-https://docs.python.org/3/library/idle.html#window-menu-shell-and-editor
-https://docs.python.org/3/library/idle.html#help-menu-shell-and-editor
-https://docs.python.org/3/library/idle.html#context-menus
-https://docs.python.org/3/library/idle.html#editing-and-navigation
-https://docs.python.org/3/library/idle.html#automatic-indentation
-https://docs.python.org/3/library/idle.html#completions
-https://docs.python.org/3/library/idle.html#calltips
-https://docs.python.org/3/library/idle.html#python-shell-window
-https://docs.python.org/3/library/idle.html#text-colors
-https://docs.python.org/3/library/idle.html#startup-and-code-execution
-https://docs.python.org/3/library/idle.html#command-line-usage
-https://docs.python.org/3/library/idle.html#startup-failure
-https://docs.python.org/3/library/idle.html#idle-console-differences
-https://docs.python.org/3/library/idle.html#developing-tkinter-applications
-https://docs.python.org/3/library/idle.html#running-without-a-subprocess
-https://docs.python.org/3/library/idle.html#help-and-preferences
-https://docs.python.org/3/library/idle.html#additional-help-sources
-https://docs.python.org/3/library/idle.html#setting-preferences
-https://docs.python.org/3/library/idle.html#extensions
-https://docs.python.org/3/library/othergui.html#other-graphical-user-interface-packages
+https://docs.python.org/3/library/curses.html
+https://docs.python.org/3/library/curses.html#functions
+https://docs.python.org/3/library/curses.html#window-objects
+https://docs.python.org/3/library/curses.html#constants
+https://docs.python.org/3/library/curses.html#module-curses.textpad
+https://docs.python.org/3/library/curses.html#textbox-objects
+
+https://docs.python.org/3/library/curses.ascii.html
+
+https://docs.python.org/3/library/curses.panel.html
+https://docs.python.org/3/library/curses.panel.html#functions
+https://docs.python.org/3/library/curses.panel.html#panel-objects
+
+## Tkinter
 
 26. Graphical User Interfaces with Tk
 26.1. tkinter — Python interface to Tcl/Tk
@@ -1603,6 +1337,7 @@ https://docs.python.org/3/library/othergui.html#other-graphical-user-interface-p
 26.3. tkinter.tix — Extension widgets for Tk
 26.4. tkinter.scrolledtext — Scrolled Text Widget
 
+https://docs.python.org/3/library/tkinter.html
 https://docs.python.org/3/library/tk.html#graphical-user-interfaces-with-tk
 https://docs.python.org/3/library/tkinter.html#module-tkinter
 https://docs.python.org/3/library/tkinter.html#tkinter-modules
@@ -1710,3 +1445,217 @@ https://docs.python.org/3/library/turtle.html#how-to-configure-screen-and-turtle
 https://docs.python.org/3/library/turtle.html#module-turtledemo
 https://docs.python.org/3/library/turtle.html#changes-since-python-2-6
 https://docs.python.org/3/library/turtle.html#changes-since-python-3-0
+
+15. Cryptographic Services
+15.1. hashlib — Secure hashes and message digests
+15.2. hmac — Keyed-Hashing for Message Authentication
+
+https://docs.python.org/3/library/crypto.html
+https://docs.python.org/3/library/hashlib.html
+https://docs.python.org/3/library/hashlib.html#hash-algorithms
+https://docs.python.org/3/library/hashlib.html#shake-variable-length-digests
+https://docs.python.org/3/library/hashlib.html#key-derivation
+https://docs.python.org/3/library/hashlib.html#blake2
+https://docs.python.org/3/library/hashlib.html#creating-hash-objects
+https://docs.python.org/3/library/hashlib.html#constants
+https://docs.python.org/3/library/hashlib.html#examples
+https://docs.python.org/3/library/hashlib.html#credits
+https://docs.python.org/3/library/hmac.html
+
+12. Data Persistence
+12.1. pickle — Python object serialization
+
+https://docs.python.org/3/library/pickle.html
+
+https://docs.python.org/3/library/pickle.html#relationship-to-other-python-modules
+https://docs.python.org/3/library/pickle.html#comparison-with-marshal
+https://docs.python.org/3/library/pickle.html#comparison-with-json
+https://docs.python.org/3/library/pickle.html#data-stream-format
+https://docs.python.org/3/library/pickle.html#module-interface
+https://docs.python.org/3/library/pickle.html#what-can-be-pickled-and-unpickled
+https://docs.python.org/3/library/pickle.html#pickling-class-instances
+https://docs.python.org/3/library/pickle.html#persistence-of-external-objects
+https://docs.python.org/3/library/pickle.html#dispatch-tables
+https://docs.python.org/3/library/pickle.html#handling-stateful-objects
+https://docs.python.org/3/library/pickle.html#restricting-globals
+https://docs.python.org/3/library/pickle.html#performance
+https://docs.python.org/3/library/pickle.html#examples
+
+https://docs.python.org/3/library/pickletools.html
+https://docs.python.org/3/library/pickletools.html#command-line-usage
+https://docs.python.org/3/library/pickletools.html#command-line-options
+https://docs.python.org/3/library/pickletools.html#programmatic-interface
+
+13. Data Compression and Archiving
+13.1. zlib — Compression compatible with gzip
+13.2. gzip — Support for gzip files
+13.3. bz2 — Support for bzip2 compression
+13.4. lzma — Compression using the LZMA algorithm
+13.5. zipfile — Work with ZIP archives
+13.6. tarfile — Read and write tar archive files
+
+https://docs.python.org/3/library/zlib.html
+
+https://docs.python.org/3/library/gzip.html
+https://docs.python.org/3/library/gzip.html#examples-of-usage
+
+https://docs.python.org/3/library/bz2.html
+https://docs.python.org/3/library/bz2.html#de-compression-of-files
+https://docs.python.org/3/library/bz2.html#incremental-de-compression
+https://docs.python.org/3/library/bz2.html#one-shot-de-compression
+
+https://docs.python.org/3/library/lzma.html
+https://docs.python.org/3/library/lzma.html#reading-and-writing-compressed-files
+https://docs.python.org/3/library/lzma.html#compressing-and-decompressing-data-in-memory
+https://docs.python.org/3/library/lzma.html#miscellaneous
+https://docs.python.org/3/library/lzma.html#specifying-custom-filter-chains
+https://docs.python.org/3/library/lzma.html#examples
+
+https://docs.python.org/3/library/zipfile.html
+https://docs.python.org/3/library/zipfile.html#zipfile-objects
+https://docs.python.org/3/library/zipfile.html#pyzipfile-objects
+https://docs.python.org/3/library/zipfile.html#zipinfo-objects
+https://docs.python.org/3/library/zipfile.html#command-line-interface
+https://docs.python.org/3/library/zipfile.html#command-line-options
+
+https://docs.python.org/3/library/tarfile.html
+https://docs.python.org/3/library/tarfile.html#tarfile-objects
+https://docs.python.org/3/library/tarfile.html#tarinfo-objects
+https://docs.python.org/3/library/tarfile.html#command-line-interface
+https://docs.python.org/3/library/tarfile.html#command-line-options
+https://docs.python.org/3/library/tarfile.html#examples
+https://docs.python.org/3/library/tarfile.html#supported-tar-formats
+https://docs.python.org/3/library/tarfile.html#unicode-issues
+
+29.4. zipapp — Manage executable python zip archives
+
+https://docs.python.org/3/library/zipapp.html
+https://docs.python.org/3/library/zipapp.html#basic-example
+https://docs.python.org/3/library/zipapp.html#command-line-interface
+https://docs.python.org/3/library/zipapp.html#python-api
+https://docs.python.org/3/library/zipapp.html#examples
+https://docs.python.org/3/library/zipapp.html#specifying-the-interpreter
+https://docs.python.org/3/library/zipapp.html#creating-standalone-applications-with-zipapp
+https://docs.python.org/3/library/zipapp.html#making-a-windows-executable
+https://docs.python.org/3/library/zipapp.html#caveats
+https://docs.python.org/3/library/zipapp.html#the-python-zip-application-archive-format
+
+## Utilities
+
+22.2. cgi — Common Gateway Interface support
+22.3. cgitb — Traceback manager for CGI scripts
+22.4. wsgiref — WSGI Utilities and Reference Implementation
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/cgi.html#introduction
+https://docs.python.org/3/library/cgi.html#using-the-cgi-module
+https://docs.python.org/3/library/cgi.html#higher-level-interface
+https://docs.python.org/3/library/cgi.html#functions
+https://docs.python.org/3/library/cgi.html#caring-about-security
+https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
+https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
+https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
+https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
+
+https://docs.python.org/3/library/cgitb.html
+
+https://docs.python.org/3/library/wsgiref.html
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
+https://docs.python.org/3/library/wsgiref.html#examples
+
+22.28. ipaddress — IPv4/IPv6 manipulation library
+https://docs.python.org/3/library/ipaddress.html
+https://docs.python.org/3/library/ipaddress.html#convenience-factory-functions
+https://docs.python.org/3/library/ipaddress.html#ip-addresses
+https://docs.python.org/3/library/ipaddress.html#address-objects
+https://docs.python.org/3/library/ipaddress.html#conversion-to-strings-and-integers
+https://docs.python.org/3/library/ipaddress.html#operators
+https://docs.python.org/3/library/ipaddress.html#comparison-operators
+https://docs.python.org/3/library/ipaddress.html#arithmetic-operators
+https://docs.python.org/3/library/ipaddress.html#ip-network-definitions
+https://docs.python.org/3/library/ipaddress.html#prefix-net-mask-and-host-mask
+https://docs.python.org/3/library/ipaddress.html#network-objects
+https://docs.python.org/3/library/ipaddress.html#id1
+https://docs.python.org/3/library/ipaddress.html#logical-operators
+https://docs.python.org/3/library/ipaddress.html#iteration
+https://docs.python.org/3/library/ipaddress.html#interface-objects
+https://docs.python.org/3/library/ipaddress.html#id2
+https://docs.python.org/3/library/ipaddress.html#id3
+https://docs.python.org/3/library/ipaddress.html#other-module-level-functions
+https://docs.python.org/3/library/ipaddress.html#custom-exceptions
+
+35. MS Windows Specific Services
+35.1. msilib — Read and write Microsoft Installer files
+35.2. msvcrt — Useful routines from the MS VC++ runtime
+35.3. winreg — Windows registry access
+35.4. winsound — Sound-playing interface for Windows
+
+https://docs.python.org/3/library/msilib.html
+https://docs.python.org/3/library/msilib.html#database-objects
+https://docs.python.org/3/library/msilib.html#view-objects
+https://docs.python.org/3/library/msilib.html#summary-information-objects
+https://docs.python.org/3/library/msilib.html#record-objects
+https://docs.python.org/3/library/msilib.html#errors
+https://docs.python.org/3/library/msilib.html#cab-objects
+https://docs.python.org/3/library/msilib.html#directory-objects
+https://docs.python.org/3/library/msilib.html#features
+https://docs.python.org/3/library/msilib.html#gui-classes
+https://docs.python.org/3/library/msilib.html#precomputed-tables
+https://docs.python.org/3/library/msvcrt.html
+https://docs.python.org/3/library/msvcrt.html#file-operations
+https://docs.python.org/3/library/msvcrt.html#console-i-o
+https://docs.python.org/3/library/msvcrt.html#other-functions
+https://docs.python.org/3/library/winreg.html
+https://docs.python.org/3/library/winreg.html#functions
+https://docs.python.org/3/library/winreg.html#constants
+https://docs.python.org/3/library/winreg.html#hkey-constants
+https://docs.python.org/3/library/winreg.html#access-rights
+https://docs.python.org/3/library/winreg.html#bit-specific
+https://docs.python.org/3/library/winreg.html#value-types
+https://docs.python.org/3/library/winreg.html#registry-handle-objects
+https://docs.python.org/3/library/winsound.html
+
+26.5. IDLE
+26.6. Other Graphical User Interface Packages
+
+https://docs.python.org/3/library/idle.html
+https://docs.python.org/3/library/idle.html#menus
+https://docs.python.org/3/library/idle.html#file-menu-shell-and-editor
+https://docs.python.org/3/library/idle.html#edit-menu-shell-and-editor
+https://docs.python.org/3/library/idle.html#format-menu-editor-window-only
+https://docs.python.org/3/library/idle.html#run-menu-editor-window-only
+https://docs.python.org/3/library/idle.html#shell-menu-shell-window-only
+https://docs.python.org/3/library/idle.html#debug-menu-shell-window-only
+https://docs.python.org/3/library/idle.html#options-menu-shell-and-editor
+https://docs.python.org/3/library/idle.html#window-menu-shell-and-editor
+https://docs.python.org/3/library/idle.html#help-menu-shell-and-editor
+https://docs.python.org/3/library/idle.html#context-menus
+https://docs.python.org/3/library/idle.html#editing-and-navigation
+https://docs.python.org/3/library/idle.html#automatic-indentation
+https://docs.python.org/3/library/idle.html#completions
+https://docs.python.org/3/library/idle.html#calltips
+https://docs.python.org/3/library/idle.html#python-shell-window
+https://docs.python.org/3/library/idle.html#text-colors
+https://docs.python.org/3/library/idle.html#startup-and-code-execution
+https://docs.python.org/3/library/idle.html#command-line-usage
+https://docs.python.org/3/library/idle.html#startup-failure
+https://docs.python.org/3/library/idle.html#idle-console-differences
+https://docs.python.org/3/library/idle.html#developing-tkinter-applications
+https://docs.python.org/3/library/idle.html#running-without-a-subprocess
+https://docs.python.org/3/library/idle.html#help-and-preferences
+https://docs.python.org/3/library/idle.html#additional-help-sources
+https://docs.python.org/3/library/idle.html#setting-preferences
+https://docs.python.org/3/library/idle.html#extensions
+https://docs.python.org/3/library/othergui.html#other-graphical-user-interface-packages
+
+## 2 to 3- Deprecated
+
+Automated Python 2 to 3 code translation
+https://docs.python.org/3/library/2to3.html
+https://docs.python.org/3/library/2to3.html#using-2to3
+https://docs.python.org/3/library/2to3.html#fixers
+https://docs.python.org/3/library/2to3.html#module-lib2to3
