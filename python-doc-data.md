@@ -17,6 +17,112 @@ File path
 https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path protocol | Python.org
 -->
 
+<!--
+Code in Place
+
+https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+
+https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
+https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+
+https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
+https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+
+https://en.wikipedia.org/wiki/Control_flow
+https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
+https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
+
+https://en.wikipedia.org/wiki/Scope_(computer_science) | Scope (computer science) - Wikipedia
+
+https://en.wikipedia.org/wiki/Increment_and_decrement_operators
+https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
+negative indexes python - Google Search
+
+https://en.wikipedia.org/wiki/Pseudorandomness | Pseudorandomness - Wikipedia
+-->
+
+
+
+
+<!--
+https://twitter.com/aaronchall/status/1114713624453554176
+
+https://docs.python.org/3/library/python.html
+
+https://en.wikipedia.org/wiki/Call_stack | Call stack - Wikipedia
+frame object - Google Search
+https://docs.python.org/3/library/inspect.html#the-interpreter-stack
+
+
+https://www.python.org/dev/peps/pep-0484/ | PEP 484 -- Type Hints | Python.org
+
+https://docs.python.org/3.8/library/types.html | types — Dynamic type creation and names for built-in types — Python 3.8.3 documentation
+
+https://en.wikipedia.org/wiki/Namespace | Namespace - Wikipedia
+https://en.wikipedia.org/wiki/Metaclass | Metaclass - Wikipedia
+-->
+
+
+<!--
+## Useful
+
+https://docs.python.org/3/library/functions.html
+
+Built-in functions
+https://docs.python.org/3/library/functions.html#built-in-funcs
+
+
+https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
+https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
+
+https://ide.geeksforgeeks.org/
+https://en.wikipedia.org/wiki/Standard_52-card_deck
+
+
+https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
+https://docs.python.org/3/reference/expressions.html#operator-precedence
+
+
+Popular string methods
+https://www.w3schools.com/python/python_ref_string.asp
+Popular list methods
+https://www.w3schools.com/python/python_ref_list.asp
+
+https://docs.python.org/3/library/stdtypes.html
+https://docs.python.org/3/tutorial/datastructures.html
+https://docs.python.org/3/library/stdtypes.html#string-methods
+https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
+
+https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
+
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
+
+Concepts- Problem Solving
+* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
+* Dynamic Programming
+
+https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
+https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
+https://realpython.com/python-thinking-recursively/
+
+
+Concepts- Bits
+* [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
+
+Problem Solving Flowchart
+
+https://docs.python.org/3/library/itertools.html
+https://docs.python.org/3/library/collections.html
+-->
+
+
+## Internals
+
+https://docs.python.org/3/c-api/
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.8.3 documentation
+https://docs.python.org/3.8/extending/extending.html
+
+https://www.python.org/dev/peps/pep-0384/ | PEP 384 -- Defining a Stable ABI | Python.org
 
 ## Internals
 
@@ -138,6 +244,7 @@ https://docs.python.org/3/library/math.html | math — Mathematical functions �
 https://docs.python.org/3/library/math.html#math.floor
 https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
 
+
 10.8. Dates and Times
 https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
 https://docs.python.org/3/library/datetime.html#module-datetime
@@ -148,6 +255,24 @@ https://docs.python.org/3/library/time.html
 https://docs.python.org/3/library/datetime.html
 8.2. calendar — General calendar-related functions
 https://docs.python.org/3/library/calendar.html
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+https://docs.python.org/3/library/time.html#functions
+https://docs.python.org/3/library/time.html#clock-id-constants
+https://docs.python.org/3/library/time.html#timezone-constants
+
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+https://docs.python.org/3/library/datetime.html#available-types
+https://docs.python.org/3/library/datetime.html#timedelta-objects
+https://docs.python.org/3/library/datetime.html#date-objects
+https://docs.python.org/3/library/datetime.html#datetime-objects
+https://docs.python.org/3/library/datetime.html#time-objects
+https://docs.python.org/3/library/datetime.html#tzinfo-objects
+https://docs.python.org/3/library/datetime.html#timezone-objects
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+
 
 
 
@@ -879,6 +1004,25 @@ https://docs.python.org/3/library/logging.handlers.html#queuelistener
 
 
 
+19.3. select — Waiting for I/O completion
+19.4. selectors — High-level I/O multiplexing
+19.9. mmap — Memory-mapped file support
+
+https://docs.python.org/3/library/select.html
+https://docs.python.org/3/library/select.html#dev-poll-polling-objects
+https://docs.python.org/3/library/select.html#edge-and-level-trigger-polling-epoll-objects
+https://docs.python.org/3/library/select.html#polling-objects
+https://docs.python.org/3/library/select.html#kqueue-objects
+https://docs.python.org/3/library/select.html#kevent-objects
+
+https://docs.python.org/3/library/selectors.html
+https://docs.python.org/3/library/selectors.html#introduction
+https://docs.python.org/3/library/selectors.html#classes
+https://docs.python.org/3/library/selectors.html#examples
+
+https://docs.python.org/3/library/mmap.html
+
+
 ## I/O
 
 16.2. io — Core tools for working with streams
@@ -1336,81 +1480,47 @@ https://docs.python.org/3/library/ssl.html#tls-1-3
 https://docs.python.org/3/library/ssl.html#libressl-support
 
 
+## Formatting
 
+8.12. reprlib — Alternate repr() implementation
+https://docs.python.org/3/library/reprlib.html
+https://docs.python.org/3/library/reprlib.html#repr-objects
+https://docs.python.org/3/library/reprlib.html#subclassing-repr-objects
 
-<!--
-Code in Place
+https://docs.python.org/3/tutorial/inputoutput.html#manual-string-formatting
 
-https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
+7.1.1. Old string formatting
+https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
+https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
+https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
 
-https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
-https://en.wikipedia.org/wiki/Postcondition | Postcondition - Wikipedia
+f-string
 
-https://en.wikipedia.org/wiki/Off-by-one_error | Off-by-one error - Wikipedia
-https://en.wikipedia.org/wiki/Off-by-one_error#Fencepost_error | Off-by-one error - Wikipedia
+8.11. pprint — Data pretty printer
+https://docs.python.org/3/library/pprint.html
+https://docs.python.org/3/library/pprint.html#prettyprinter-objects
+https://docs.python.org/3/library/pprint.html#example
 
-https://en.wikipedia.org/wiki/Control_flow
-https://en.wikipedia.org/wiki/Conditional_(computer_programming) | Conditional (computer programming) - Wikipedia
-https://en.wikipedia.org/wiki/Conditional_(computer_programming)#If%E2%80%93then(%E2%80%93else) | Conditional (computer programming) - Wikipedia
--->
+7.1. Fancier Output Formatting
+https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
 
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
 
-## Useful
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+11.3. Working with Binary Data Record Layouts
+https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
 
-https://docs.python.org/3/library/functions.html
+34.1. formatter — Generic output formatting
+https://docs.python.org/3/library/formatter.html
+https://docs.python.org/3/library/formatter.html#the-formatter-interface
+https://docs.python.org/3/library/formatter.html#formatter-implementations
+https://docs.python.org/3/library/formatter.html#the-writer-interface
+https://docs.python.org/3/library/formatter.html#writer-implementations
 
-Built-in functions
-https://docs.python.org/3/library/functions.html#built-in-funcs
-
-
-https://en.wikipedia.org/wiki/Backward_compatibility | Backward compatibility - Wikipedia
-https://en.wikipedia.org/wiki/Self-documenting_code | Self-documenting code - Wikipedia
-
-https://en.wikipedia.org/wiki/Increment_and_decrement_operators
-https://en.wikipedia.org/wiki/Concatenation | Concatenation - Wikipedia
-negative indexes python - Google Search
-
-https://ide.geeksforgeeks.org/
-https://en.wikipedia.org/wiki/Standard_52-card_deck
-
-
-https://www.python.org/dev/peps/pep-0008/ | PEP 8 -- Style Guide for Python Code | Python.org
-https://docs.python.org/3/reference/expressions.html#operator-precedence
-
-
-Popular string methods
-https://www.w3schools.com/python/python_ref_string.asp
-Popular list methods
-https://www.w3schools.com/python/python_ref_list.asp
-
-https://docs.python.org/3/library/stdtypes.html
-https://docs.python.org/3/tutorial/datastructures.html
-https://docs.python.org/3/library/stdtypes.html#string-methods
-https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
-
-https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
-
-https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
-
-Concepts- Problem Solving
-* [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
-* Dynamic Programming
-
-
-
-<!--
-https://en.wikipedia.org/wiki/Recursive_definition | Recursive definition - Wikipedia
-https://www.geeksforgeeks.org/recursion/ | Recursion - GeeksforGeeks
-https://realpython.com/python-thinking-recursively/
--->
-
-Concepts- Bits
-* [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
-
-Problem Solving Flowchart
-
-https://docs.python.org/3/library/itertools.html
-https://docs.python.org/3/library/collections.html
 
 
 
