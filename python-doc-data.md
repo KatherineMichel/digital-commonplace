@@ -20,6 +20,8 @@ https://www.python.org/dev/peps/pep-0519/ | PEP 519 -- Adding a file system path
 <!--
 Code in Place
 
+https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
+
 https://en.wikipedia.org/wiki/Decomposition | Decomposition - Wikipedia
 
 https://en.wikipedia.org/wiki/Precondition | Precondition - Wikipedia
@@ -96,8 +98,6 @@ https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range
 
 https://www.geeksforgeeks.org/difference-between-list-and-array-in-python
 
-https://codeinplace2020.github.io/faqs/7-Functions.pdf | 7-Functions
-
 Concepts- Problem Solving
 * [Recursion Wikipedia](https://en.wikipedia.org/wiki/Recursion)
 * Dynamic Programming
@@ -111,9 +111,6 @@ Concepts- Bits
 * [Bit Manipulation Wikipedia](https://en.wikipedia.org/wiki/Bit_manipulation)
 
 Problem Solving Flowchart
-
-https://docs.python.org/3/library/itertools.html
-https://docs.python.org/3/library/collections.html
 -->
 
 
@@ -455,6 +452,52 @@ https://docs.python.org/3/library/http.server.html
 https://docs.python.org/3/library/http.cookies.html
 https://docs.python.org/3/library/http.cookiejar.html
 -->
+
+
+
+
+
+
+## Formatting
+
+8.12. reprlib — Alternate repr() implementation
+https://docs.python.org/3/library/reprlib.html
+https://docs.python.org/3/library/reprlib.html#repr-objects
+https://docs.python.org/3/library/reprlib.html#subclassing-repr-objects
+
+https://docs.python.org/3/tutorial/inputoutput.html#manual-string-formatting
+
+7.1.1. Old string formatting
+https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
+https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
+https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
+
+f-string
+
+8.11. pprint — Data pretty printer
+https://docs.python.org/3/library/pprint.html
+https://docs.python.org/3/library/pprint.html#prettyprinter-objects
+https://docs.python.org/3/library/pprint.html#example
+
+7.1. Fancier Output Formatting
+https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+11.3. Working with Binary Data Record Layouts
+https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
+
+34.1. formatter — Generic output formatting
+https://docs.python.org/3/library/formatter.html
+https://docs.python.org/3/library/formatter.html#the-formatter-interface
+https://docs.python.org/3/library/formatter.html#formatter-implementations
+https://docs.python.org/3/library/formatter.html#the-writer-interface
+https://docs.python.org/3/library/formatter.html#writer-implementations
 
 
 
@@ -1481,50 +1524,6 @@ https://docs.python.org/3/library/ssl.html#tls-1-3
 https://docs.python.org/3/library/ssl.html#libressl-support
 
 
-## Formatting
-
-8.12. reprlib — Alternate repr() implementation
-https://docs.python.org/3/library/reprlib.html
-https://docs.python.org/3/library/reprlib.html#repr-objects
-https://docs.python.org/3/library/reprlib.html#subclassing-repr-objects
-
-https://docs.python.org/3/tutorial/inputoutput.html#manual-string-formatting
-
-7.1.1. Old string formatting
-https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
-https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
-https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
-
-f-string
-
-8.11. pprint — Data pretty printer
-https://docs.python.org/3/library/pprint.html
-https://docs.python.org/3/library/pprint.html#prettyprinter-objects
-https://docs.python.org/3/library/pprint.html#example
-
-7.1. Fancier Output Formatting
-https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-11.2. Templating
-https://docs.python.org/3/tutorial/stdlib2.html#templating
-11.3. Working with Binary Data Record Layouts
-https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
-
-34.1. formatter — Generic output formatting
-https://docs.python.org/3/library/formatter.html
-https://docs.python.org/3/library/formatter.html#the-formatter-interface
-https://docs.python.org/3/library/formatter.html#formatter-implementations
-https://docs.python.org/3/library/formatter.html#the-writer-interface
-https://docs.python.org/3/library/formatter.html#writer-implementations
-
-
-
-
 ## Data Structures and Algorithms
 
 Data Structures- Linear
@@ -1657,94 +1656,9 @@ https://docs.python.org/3/library/stdtypes.html#numeric-types-int-float-complex
 4.7. Text Sequence Type — str
 https://docs.python.org/3/library/stdtypes.html#text-sequence-type-str
 
-## Mutability
-
-* Mutable- individual item can be changed
-* Immutable- individual item cannot be changed
-* Sequence- 
-* Non-Sequence-
-* Iterable-
-
-After change
-* mutable data structure will have same id
-* immutable data structure will have new id
-
-## Sequences and Iterables
-
-* List (mutable, sequence, iterable)
-* String (immutable, sequence, iterable)
-* Tuple (immutable, sequence, iterable)
-* Dict (mutable, non-sequence, iterable)
-* Set (mutable, non-sequence, iterable)
-
-## Data Types and Structures- Primitives 
-
 Methods
 https://docs.python.org/3/library/stdtypes.html#additional-methods-on-integer-types
 https://docs.python.org/3/library/stdtypes.html#additional-methods-on-float
-
-Primitive (a.k.a. atomic data types)
-* integer (numeric)
-* float (numeric)
-* string (sequence, "This is a string.", 'This is also a string.')
-* boolean
-* complex number (numeric)
-
-## Data Types and Structures- User Defined
-
-User Defined
-* list []
-* tuple () or (item,) (singleton)
-* range
-* set {}
-* dictionary {}
-
-## Data Types Categorized by Mutable or Immutable, Sequence or Non-Sequence
-
-<!--
-Sequence/looping
-lists: item
-strings: character
--->
-
-Immutable Sequence Types- Common
-* string (text sequence type, primitive)
-
-Mutable Sequence Types- Common
-* list
-
-Mutable Non-Sequence Types
-* dictionary (built-in mapping/hash table)
-* set
-
-Set Types
-* set
-* frozenset (immutable and hashable)
-
-Immutable Sequence Types- Less Common
-* tuple
-
-Sequence Types
-* range (immutable)
-
-Other Data Structures
-* hashes
-
-## Linear and Non-Linear
-
-Linear (Sequential) Data Structures
-* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
-
-Linear Data Structure Examples (left to right, top to bottom)
-* list (including linked list, doubly linked list), stack, queue, deque, array
-
-List (Sequence) Linear and Non-Linear Implementations
-* Linear: stack and queue
-* Non-Linear: graph and tree
-
-Queue Implementations
-* Queue Using Linked List
-* Queue Using Stack
 
 
 ## Sequences
