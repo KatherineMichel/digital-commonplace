@@ -315,6 +315,7 @@ https://docs.python.org/3/library/pydoc.html
 
 
 
+
 <!--
 ## Formatting
 
@@ -387,33 +388,6 @@ https://docs.python.org/3/library/linecache.html
 https://docs.python.org/3/library/macpath.html
 
 
-24. Internationalization
-24.1. gettext — Multilingual internationalization services
-24.2. locale — Internationalization services
-
-https://docs.python.org/3/library/i18n.html
-https://docs.python.org/3/library/gettext.html
-
-https://docs.python.org/3/library/gettext.html#gnu-gettext-api
-https://docs.python.org/3/library/gettext.html#class-based-api
-https://docs.python.org/3/library/gettext.html#the-nulltranslations-class
-https://docs.python.org/3/library/gettext.html#the-gnutranslations-class
-https://docs.python.org/3/library/gettext.html#solaris-message-catalog-support
-https://docs.python.org/3/library/gettext.html#the-catalog-constructor
-https://docs.python.org/3/library/gettext.html#internationalizing-your-programs-and-modules
-https://docs.python.org/3/library/gettext.html#localizing-your-module
-https://docs.python.org/3/library/gettext.html#localizing-your-application
-https://docs.python.org/3/library/gettext.html#changing-languages-on-the-fly
-https://docs.python.org/3/library/gettext.html#deferred-translations
-https://docs.python.org/3/library/gettext.html#acknowledgements
-
-23.2. locale — Internationalization services
-https://docs.python.org/3/library/locale.html
-
-https://docs.python.org/3/library/locale.html#background-details-hints-tips-and-caveats
-https://docs.python.org/3/library/locale.html#for-extension-writers-and-programs-that-embed-python
-https://docs.python.org/3/library/locale.html#access-to-message-catalogs
-
 
 ## Dataclasses
 
@@ -427,6 +401,56 @@ https://docs.python.org/3/library/dataclasses.html#default-factory-functions
 https://docs.python.org/3/library/dataclasses.html#mutable-default-values
 https://docs.python.org/3/library/dataclasses.html#exceptions
 
+
+## Typing and Types
+
+26.1. typing — Support for type hints
+https://docs.python.org/3/library/typing.html
+https://docs.python.org/3/library/typing.html#type-aliases
+https://docs.python.org/3/library/typing.html#newtype
+https://docs.python.org/3/library/typing.html#callable
+https://docs.python.org/3/library/typing.html#generics
+https://docs.python.org/3/library/typing.html#user-defined-generic-types
+https://docs.python.org/3/library/typing.html#the-any-type
+https://docs.python.org/3/library/typing.html#classes-functions-and-decorators
+
+8.8. weakref — Weak references
+https://docs.python.org/3/library/weakref.html
+https://docs.python.org/3/library/weakref.html#weak-reference-objects
+https://docs.python.org/3/library/weakref.html#example
+https://docs.python.org/3/library/weakref.html#finalizer-objects
+https://docs.python.org/3/library/weakref.html#comparing-finalizers-with-del-methods
+
+https://docs.python.org/3/glossary.html#term-garbage-collection
+
+11.6. Weak References
+https://docs.python.org/3/tutorial/stdlib2.html#weak-references
+
+8.9. types — Dynamic type creation and names for built-in types
+https://docs.python.org/3/library/types.html
+https://docs.python.org/3/library/types.html#dynamic-type-creation
+https://docs.python.org/3/library/types.html#standard-interpreter-types
+https://docs.python.org/3/library/types.html#additional-utility-classes-and-functions
+https://docs.python.org/3/library/types.html#coroutine-utility-functions
+
+
+
+
+Template
+36.10. pipes — Interface to shell pipelines
+https://docs.python.org/3/library/pipes.html
+https://docs.python.org/3/library/pipes.html#template-objects
+
+14. File Formats
+14.5. plistlib — Generate and parse Mac OS X .plist files
+https://docs.python.org/3/library/plistlib.html
+
+
+
+30.14. site — Site-specific configuration hook
+https://docs.python.org/3/library/site.html
+https://docs.python.org/3/library/site.html#readline-configuration
+https://docs.python.org/3/library/site.html#module-contents
 
 
 22.11. http — HTTP modules
@@ -446,33 +470,21 @@ https://docs.python.org/3/tutorial/stdlib2.html#templating
 https://docs.python.org/3/library/string.html#module-string
 https://docs.python.org/3/library/string.html#string.Template
 
-Template
-36.10. pipes — Interface to shell pipelines
-https://docs.python.org/3/library/pipes.html
-https://docs.python.org/3/library/pipes.html#template-objects
 
-14. File Formats
-14.5. plistlib — Generate and parse Mac OS X .plist files
-https://docs.python.org/3/library/plistlib.html
+22.23. http.cookies — HTTP state management
+22.24. http.cookiejar — Cookie handling for HTTP clients
 
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-https://docs.python.org/3/library/time.html#functions
-https://docs.python.org/3/library/time.html#clock-id-constants
-https://docs.python.org/3/library/time.html#timezone-constants
-
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-https://docs.python.org/3/library/datetime.html#available-types
-https://docs.python.org/3/library/datetime.html#timedelta-objects
-https://docs.python.org/3/library/datetime.html#date-objects
-https://docs.python.org/3/library/datetime.html#datetime-objects
-https://docs.python.org/3/library/datetime.html#time-objects
-https://docs.python.org/3/library/datetime.html#tzinfo-objects
-https://docs.python.org/3/library/datetime.html#timezone-objects
-https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
-
+https://docs.python.org/3/library/http.cookies.html
+https://docs.python.org/3/library/http.cookies.html#cookie-objects
+https://docs.python.org/3/library/http.cookies.html#morsel-objects
+https://docs.python.org/3/library/http.cookies.html#example
+https://docs.python.org/3/library/http.cookiejar.html
+https://docs.python.org/3/library/http.cookiejar.html#cookiejar-and-filecookiejar-objects
+https://docs.python.org/3/library/http.cookiejar.html#filecookiejar-subclasses-and-co-operation-with-web-browsers
+https://docs.python.org/3/library/http.cookiejar.html#cookiepolicy-objects
+https://docs.python.org/3/library/http.cookiejar.html#defaultcookiepolicy-objects
+https://docs.python.org/3/library/http.cookiejar.html#cookie-objects
+https://docs.python.org/3/library/http.cookiejar.html#examples
 
 https://stackoverflow.com/questions/2018026/what-are-the-differences-between-the-urllib-urllib2-urllib3-and-requests-modul
 
@@ -530,81 +542,6 @@ https://docs.python.org/3/library/urllib.parse.html#url-quoting
 
 https://docs.python.org/3/library/urllib.error.html#module-urllib.error
 https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
-
-
-30.14. site — Site-specific configuration hook
-https://docs.python.org/3/library/site.html
-https://docs.python.org/3/library/site.html#readline-configuration
-https://docs.python.org/3/library/site.html#module-contents
-
-
-22.23. http.cookies — HTTP state management
-22.24. http.cookiejar — Cookie handling for HTTP clients
-
-https://docs.python.org/3/library/http.cookies.html
-https://docs.python.org/3/library/http.cookies.html#cookie-objects
-https://docs.python.org/3/library/http.cookies.html#morsel-objects
-https://docs.python.org/3/library/http.cookies.html#example
-https://docs.python.org/3/library/http.cookiejar.html
-https://docs.python.org/3/library/http.cookiejar.html#cookiejar-and-filecookiejar-objects
-https://docs.python.org/3/library/http.cookiejar.html#filecookiejar-subclasses-and-co-operation-with-web-browsers
-https://docs.python.org/3/library/http.cookiejar.html#cookiepolicy-objects
-https://docs.python.org/3/library/http.cookiejar.html#defaultcookiepolicy-objects
-https://docs.python.org/3/library/http.cookiejar.html#cookie-objects
-https://docs.python.org/3/library/http.cookiejar.html#examples
-
-
-20.1. email — An email and MIME handling package
-
-22.13. ftplib — FTP protocol client
-22.14. poplib — POP3 protocol client
-22.15. imaplib — IMAP4 protocol client
-22.16. nntplib — NNTP protocol client
-22.17. smtplib — SMTP protocol client
-22.18. smtpd — SMTP Server
-22.19. telnetlib — Telnet client
-22.20. uuid — UUID objects according to RFC 4122
-
-
-
-
-## Typing and Types
-
-26.1. typing — Support for type hints
-https://docs.python.org/3/library/typing.html
-https://docs.python.org/3/library/typing.html#type-aliases
-https://docs.python.org/3/library/typing.html#newtype
-https://docs.python.org/3/library/typing.html#callable
-https://docs.python.org/3/library/typing.html#generics
-https://docs.python.org/3/library/typing.html#user-defined-generic-types
-https://docs.python.org/3/library/typing.html#the-any-type
-https://docs.python.org/3/library/typing.html#classes-functions-and-decorators
-
-8.8. weakref — Weak references
-https://docs.python.org/3/library/weakref.html
-https://docs.python.org/3/library/weakref.html#weak-reference-objects
-https://docs.python.org/3/library/weakref.html#example
-https://docs.python.org/3/library/weakref.html#finalizer-objects
-https://docs.python.org/3/library/weakref.html#comparing-finalizers-with-del-methods
-
-https://docs.python.org/3/glossary.html#term-garbage-collection
-
-11.6. Weak References
-https://docs.python.org/3/tutorial/stdlib2.html#weak-references
-
-8.9. types — Dynamic type creation and names for built-in types
-https://docs.python.org/3/library/types.html
-https://docs.python.org/3/library/types.html#dynamic-type-creation
-https://docs.python.org/3/library/types.html#standard-interpreter-types
-https://docs.python.org/3/library/types.html#additional-utility-classes-and-functions
-https://docs.python.org/3/library/types.html#coroutine-utility-functions
-
-20.5. mimetypes — Map filenames to MIME types
-20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
-7.2. codecs — Codec registry and base classes
-
-
-## Less Common Utilities?
 
 21.4. XML Processing Modules
 21.5. xml.etree.ElementTree — The ElementTree XML API
@@ -718,116 +655,51 @@ https://docs.python.org/3/library/xmlrpc.server.html#docxmlrpcserver-objects
 https://docs.python.org/3/library/xmlrpc.server.html#doccgixmlrpcrequesthandler
 
 
+24. Internationalization
+24.1. gettext — Multilingual internationalization services
+24.2. locale — Internationalization services
+
+https://docs.python.org/3/library/i18n.html
+https://docs.python.org/3/library/gettext.html
+
+https://docs.python.org/3/library/gettext.html#gnu-gettext-api
+https://docs.python.org/3/library/gettext.html#class-based-api
+https://docs.python.org/3/library/gettext.html#the-nulltranslations-class
+https://docs.python.org/3/library/gettext.html#the-gnutranslations-class
+https://docs.python.org/3/library/gettext.html#solaris-message-catalog-support
+https://docs.python.org/3/library/gettext.html#the-catalog-constructor
+https://docs.python.org/3/library/gettext.html#internationalizing-your-programs-and-modules
+https://docs.python.org/3/library/gettext.html#localizing-your-module
+https://docs.python.org/3/library/gettext.html#localizing-your-application
+https://docs.python.org/3/library/gettext.html#changing-languages-on-the-fly
+https://docs.python.org/3/library/gettext.html#deferred-translations
+https://docs.python.org/3/library/gettext.html#acknowledgements
+
+23.2. locale — Internationalization services
+https://docs.python.org/3/library/locale.html
+
+https://docs.python.org/3/library/locale.html#background-details-hints-tips-and-caveats
+https://docs.python.org/3/library/locale.html#for-extension-writers-and-programs-that-embed-python
+https://docs.python.org/3/library/locale.html#access-to-message-catalogs
 
 
-23. Multimedia Services
-23.1. audioop — Manipulate raw audio data
-23.2. aifc — Read and write AIFF and AIFC files
-23.3. sunau — Read and write Sun AU files
-23.4. wave — Read and write WAV files
-23.5. chunk — Read IFF chunked data
-23.6. colorsys — Conversions between color systems
-23.7. imghdr — Determine the type of an image
-23.8. sndhdr — Determine type of sound file
-23.9. ossaudiodev — Access to OSS-compatible audio devices
-
-https://docs.python.org/3/library/audioop.html
-https://docs.python.org/3/library/aifc.html
-https://docs.python.org/3/library/sunau.html
-https://docs.python.org/3/library/sunau.html#au-read-objects
-https://docs.python.org/3/library/sunau.html#au-write-objects
-https://docs.python.org/3/library/wave.html
-https://docs.python.org/3/library/wave.html#wave-read-objects
-https://docs.python.org/3/library/wave.html#wave-write-objects
-https://docs.python.org/3/library/chunk.html
-https://docs.python.org/3/library/colorsys.html
-https://docs.python.org/3/library/imghdr.html
-https://docs.python.org/3/library/sndhdr.html
-https://docs.python.org/3/library/ossaudiodev.html
-https://docs.python.org/3/library/ossaudiodev.html#audio-device-objects
-https://docs.python.org/3/library/ossaudiodev.html#mixer-device-objects
-
-20. Internet Data Handling
-20.7. binhex — Encode and decode binhex4 files
-20.8. binascii — Convert between binary and ASCII
-20.9. quopri — Encode and decode MIME quoted-printable data
-20.10. uu — Encode and decode uuencode files
-
-https://docs.python.org/3/library/binhex.html
-https://docs.python.org/3/library/binhex.html#notes
-https://docs.python.org/3/library/binascii.html
-https://docs.python.org/3/library/quopri.html
-https://docs.python.org/3/library/uu.html
-
-30.9. atexit — Exit handlers
-https://docs.python.org/3/library/atexit.html
-
-6. Text Processing Services
-
-6.3. difflib — Helpers for computing deltas
-6.4. textwrap — Text wrapping and filling
-6.5. unicodedata — Unicode Database
-6.6. stringprep — Internet String Preparation
-6.7. readline — GNU readline interface
-6.8. rlcompleter — Completion function for GNU readline
-
-https://docs.python.org/3/library/difflib.html
-https://docs.python.org/3/library/difflib.html#sequencematcher-objects
-https://docs.python.org/3/library/difflib.html#sequencematcher-examples
-https://docs.python.org/3/library/difflib.html#differ-objects
-https://docs.python.org/3/library/difflib.html#differ-example
-https://docs.python.org/3/library/difflib.html#a-command-line-interface-to-difflib
-https://docs.python.org/3/library/textwrap.html
-https://docs.python.org/3/library/unicodedata.html
-https://docs.python.org/3/library/stringprep.html
-https://docs.python.org/3/library/readline.html
-https://docs.python.org/3/library/readline.html#init-file
-https://docs.python.org/3/library/readline.html#line-buffer
-https://docs.python.org/3/library/readline.html#history-file
-https://docs.python.org/3/library/readline.html#history-list
-https://docs.python.org/3/library/readline.html#startup-hooks
-https://docs.python.org/3/library/readline.html#completion
-https://docs.python.org/3/library/readline.html#example
-https://docs.python.org/3/library/rlcompleter.html
-https://docs.python.org/3/library/rlcompleter.html#completer-objects
 
 
-36. Unix Specific Services
-36.1. posix — The most common POSIX system calls
-36.2. pwd — The password database
-36.3. spwd — The shadow password database
-36.4. grp — The group database
-36.5. crypt — Function to check Unix passwords
-36.6. termios — POSIX style tty control
-36.7. tty — Terminal control functions
-36.8. pty — Pseudo-terminal utilities
-36.9. fcntl — The fcntl and ioctl system calls
+20.1. email — An email and MIME handling package
 
-36.12. nis — Interface to Sun’s NIS (Yellow Pages)
-36.13. syslog — Unix syslog library routines
+22.13. ftplib — FTP protocol client
+22.14. poplib — POP3 protocol client
+22.15. imaplib — IMAP4 protocol client
+22.16. nntplib — NNTP protocol client
+22.17. smtplib — SMTP protocol client
+22.18. smtpd — SMTP Server
+22.19. telnetlib — Telnet client
+22.20. uuid — UUID objects according to RFC 4122
 
-https://docs.python.org/3/library/posix.html
-https://docs.python.org/3/library/posix.html#large-file-support
-https://docs.python.org/3/library/posix.html#notable-module-contents
-https://docs.python.org/3/library/pwd.html
-https://docs.python.org/3/library/spwd.html
-https://docs.python.org/3/library/grp.html
-https://docs.python.org/3/library/crypt.html
-https://docs.python.org/3/library/crypt.html#hashing-methods
-https://docs.python.org/3/library/crypt.html#module-attributes
-https://docs.python.org/3/library/crypt.html#module-functions
-https://docs.python.org/3/library/crypt.html#examples
-https://docs.python.org/3/library/termios.html
-https://docs.python.org/3/library/termios.html#example
-https://docs.python.org/3/library/tty.html
-https://docs.python.org/3/library/pty.html
-https://docs.python.org/3/library/pty.html#example
-https://docs.python.org/3/library/fcntl.html
-	   
-https://docs.python.org/3/library/nis.html
-https://docs.python.org/3/library/syslog.html
-https://docs.python.org/3/library/syslog.html#examples
-https://docs.python.org/3/library/syslog.html#simple-example
+20.5. mimetypes — Map filenames to MIME types
+20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
+7.2. codecs — Codec registry and base classes
+
 
 14. File Formats
 14.2. configparser — Configuration file parser
@@ -871,6 +743,7 @@ https://docs.python.org/3/library/struct.html#format-characters
 https://docs.python.org/3/library/struct.html#examples
 https://docs.python.org/3/library/struct.html#classes
 
+
 25. Program Frameworks
 25.2. cmd — Support for line-oriented command interpreters
 25.3. shlex — Simple lexical analysis
@@ -884,50 +757,6 @@ https://docs.python.org/3/library/shlex.html#shlex-objects
 https://docs.python.org/3/library/shlex.html#parsing-rules
 https://docs.python.org/3/library/shlex.html#improved-compatibility-with-shells
 
-12. Data Persistence
-12.2. copyreg — Register pickle support functions
-12.3. shelve — Python object persistence
-12.5. dbm — Interfaces to Unix “databases”
-
-https://docs.python.org/3/library/persistence.html
-
-https://docs.python.org/3/library/copyreg.html
-https://docs.python.org/3/library/copyreg.html#example
-
-https://docs.python.org/3/library/shelve.html
-https://docs.python.org/3/library/shelve.html#restrictions
-https://docs.python.org/3/library/shelve.html#example
-
-https://docs.python.org/3/library/dbm.html
-https://docs.python.org/3/library/dbm.html#module-dbm.gnu
-https://docs.python.org/3/library/dbm.html#module-dbm.ndbm
-https://docs.python.org/3/library/dbm.html#module-dbm.dumb
-
-16.9. getpass — Portable password input
-
-16.15. errno — Standard errno system symbols
-
-https://docs.python.org/3/library/getpass.html
-
-https://docs.python.org/3/library/errno.html
-
-19.3. select — Waiting for I/O completion
-19.4. selectors — High-level I/O multiplexing
-19.9. mmap — Memory-mapped file support
-
-https://docs.python.org/3/library/select.html
-https://docs.python.org/3/library/select.html#dev-poll-polling-objects
-https://docs.python.org/3/library/select.html#edge-and-level-trigger-polling-epoll-objects
-https://docs.python.org/3/library/select.html#polling-objects
-https://docs.python.org/3/library/select.html#kqueue-objects
-https://docs.python.org/3/library/select.html#kevent-objects
-
-https://docs.python.org/3/library/selectors.html
-https://docs.python.org/3/library/selectors.html#introduction
-https://docs.python.org/3/library/selectors.html#classes
-https://docs.python.org/3/library/selectors.html#examples
-
-https://docs.python.org/3/library/mmap.html
 
 
 
@@ -1066,6 +895,149 @@ https://docs.python.org/3/library/turtle.html#module-turtledemo
 https://docs.python.org/3/library/turtle.html#changes-since-python-2-6
 https://docs.python.org/3/library/turtle.html#changes-since-python-3-0
 
+23. Multimedia Services
+23.1. audioop — Manipulate raw audio data
+23.2. aifc — Read and write AIFF and AIFC files
+23.3. sunau — Read and write Sun AU files
+23.4. wave — Read and write WAV files
+23.5. chunk — Read IFF chunked data
+23.6. colorsys — Conversions between color systems
+23.7. imghdr — Determine the type of an image
+23.8. sndhdr — Determine type of sound file
+23.9. ossaudiodev — Access to OSS-compatible audio devices
+
+https://docs.python.org/3/library/audioop.html
+https://docs.python.org/3/library/aifc.html
+https://docs.python.org/3/library/sunau.html
+https://docs.python.org/3/library/sunau.html#au-read-objects
+https://docs.python.org/3/library/sunau.html#au-write-objects
+https://docs.python.org/3/library/wave.html
+https://docs.python.org/3/library/wave.html#wave-read-objects
+https://docs.python.org/3/library/wave.html#wave-write-objects
+https://docs.python.org/3/library/chunk.html
+https://docs.python.org/3/library/colorsys.html
+https://docs.python.org/3/library/imghdr.html
+https://docs.python.org/3/library/sndhdr.html
+https://docs.python.org/3/library/ossaudiodev.html
+https://docs.python.org/3/library/ossaudiodev.html#audio-device-objects
+https://docs.python.org/3/library/ossaudiodev.html#mixer-device-objects
+
+20. Internet Data Handling
+20.7. binhex — Encode and decode binhex4 files
+20.8. binascii — Convert between binary and ASCII
+20.9. quopri — Encode and decode MIME quoted-printable data
+20.10. uu — Encode and decode uuencode files
+
+https://docs.python.org/3/library/binhex.html
+https://docs.python.org/3/library/binhex.html#notes
+https://docs.python.org/3/library/binascii.html
+https://docs.python.org/3/library/quopri.html
+https://docs.python.org/3/library/uu.html
+
+30.9. atexit — Exit handlers
+https://docs.python.org/3/library/atexit.html
+
+6. Text Processing Services
+
+6.3. difflib — Helpers for computing deltas
+6.4. textwrap — Text wrapping and filling
+6.5. unicodedata — Unicode Database
+6.6. stringprep — Internet String Preparation
+6.7. readline — GNU readline interface
+6.8. rlcompleter — Completion function for GNU readline
+
+https://docs.python.org/3/library/difflib.html
+https://docs.python.org/3/library/difflib.html#sequencematcher-objects
+https://docs.python.org/3/library/difflib.html#sequencematcher-examples
+https://docs.python.org/3/library/difflib.html#differ-objects
+https://docs.python.org/3/library/difflib.html#differ-example
+https://docs.python.org/3/library/difflib.html#a-command-line-interface-to-difflib
+https://docs.python.org/3/library/textwrap.html
+https://docs.python.org/3/library/unicodedata.html
+https://docs.python.org/3/library/stringprep.html
+https://docs.python.org/3/library/readline.html
+https://docs.python.org/3/library/readline.html#init-file
+https://docs.python.org/3/library/readline.html#line-buffer
+https://docs.python.org/3/library/readline.html#history-file
+https://docs.python.org/3/library/readline.html#history-list
+https://docs.python.org/3/library/readline.html#startup-hooks
+https://docs.python.org/3/library/readline.html#completion
+https://docs.python.org/3/library/readline.html#example
+https://docs.python.org/3/library/rlcompleter.html
+https://docs.python.org/3/library/rlcompleter.html#completer-objects
+
+12. Data Persistence
+12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
+https://docs.python.org/3/library/sqlite3.html#connection-objects
+https://docs.python.org/3/library/sqlite3.html#cursor-objects
+https://docs.python.org/3/library/sqlite3.html#row-objects
+https://docs.python.org/3/library/sqlite3.html#exceptions
+https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
+https://docs.python.org/3/library/sqlite3.html#introduction
+https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
+https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
+https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
+https://docs.python.org/3/library/sqlite3.html#controlling-transactions
+https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
+https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
+https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
+https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
+https://docs.python.org/3/library/sqlite3.html#common-issues
+
+https://docs.python.org/3/library/sqlite3.html#multithreading
+
+## Utilities
+
+22.2. cgi — Common Gateway Interface support
+22.3. cgitb — Traceback manager for CGI scripts
+22.4. wsgiref — WSGI Utilities and Reference Implementation
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/cgi.html#introduction
+https://docs.python.org/3/library/cgi.html#using-the-cgi-module
+https://docs.python.org/3/library/cgi.html#higher-level-interface
+https://docs.python.org/3/library/cgi.html#functions
+https://docs.python.org/3/library/cgi.html#caring-about-security
+https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
+https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
+https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
+https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
+
+https://docs.python.org/3/library/cgitb.html
+
+https://docs.python.org/3/library/wsgiref.html
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
+https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
+https://docs.python.org/3/library/wsgiref.html#examples
+
+22.28. ipaddress — IPv4/IPv6 manipulation library
+https://docs.python.org/3/library/ipaddress.html
+https://docs.python.org/3/library/ipaddress.html#convenience-factory-functions
+https://docs.python.org/3/library/ipaddress.html#ip-addresses
+https://docs.python.org/3/library/ipaddress.html#address-objects
+https://docs.python.org/3/library/ipaddress.html#conversion-to-strings-and-integers
+https://docs.python.org/3/library/ipaddress.html#operators
+https://docs.python.org/3/library/ipaddress.html#comparison-operators
+https://docs.python.org/3/library/ipaddress.html#arithmetic-operators
+https://docs.python.org/3/library/ipaddress.html#ip-network-definitions
+https://docs.python.org/3/library/ipaddress.html#prefix-net-mask-and-host-mask
+https://docs.python.org/3/library/ipaddress.html#network-objects
+https://docs.python.org/3/library/ipaddress.html#id1
+https://docs.python.org/3/library/ipaddress.html#logical-operators
+https://docs.python.org/3/library/ipaddress.html#iteration
+https://docs.python.org/3/library/ipaddress.html#interface-objects
+https://docs.python.org/3/library/ipaddress.html#id2
+https://docs.python.org/3/library/ipaddress.html#id3
+https://docs.python.org/3/library/ipaddress.html#other-module-level-functions
+https://docs.python.org/3/library/ipaddress.html#custom-exceptions
+
 15.3. secrets — Generate secure random numbers for managing secrets
 https://docs.python.org/3/library/secrets.html
 
@@ -1091,6 +1063,49 @@ https://docs.python.org/3/library/hashlib.html#examples
 https://docs.python.org/3/library/hashlib.html#credits
 https://docs.python.org/3/library/hmac.html
 
+16.9. getpass — Portable password input
+16.15. errno — Standard errno system symbols
+
+https://docs.python.org/3/library/getpass.html
+https://docs.python.org/3/library/errno.html
+
+36. Unix Specific Services
+36.1. posix — The most common POSIX system calls
+36.2. pwd — The password database
+36.3. spwd — The shadow password database
+36.4. grp — The group database
+36.5. crypt — Function to check Unix passwords
+36.6. termios — POSIX style tty control
+36.7. tty — Terminal control functions
+36.8. pty — Pseudo-terminal utilities
+36.9. fcntl — The fcntl and ioctl system calls
+
+36.12. nis — Interface to Sun’s NIS (Yellow Pages)
+36.13. syslog — Unix syslog library routines
+
+https://docs.python.org/3/library/posix.html
+https://docs.python.org/3/library/posix.html#large-file-support
+https://docs.python.org/3/library/posix.html#notable-module-contents
+https://docs.python.org/3/library/pwd.html
+https://docs.python.org/3/library/spwd.html
+https://docs.python.org/3/library/grp.html
+https://docs.python.org/3/library/crypt.html
+https://docs.python.org/3/library/crypt.html#hashing-methods
+https://docs.python.org/3/library/crypt.html#module-attributes
+https://docs.python.org/3/library/crypt.html#module-functions
+https://docs.python.org/3/library/crypt.html#examples
+https://docs.python.org/3/library/termios.html
+https://docs.python.org/3/library/termios.html#example
+https://docs.python.org/3/library/tty.html
+https://docs.python.org/3/library/pty.html
+https://docs.python.org/3/library/pty.html#example
+https://docs.python.org/3/library/fcntl.html
+	   
+https://docs.python.org/3/library/nis.html
+https://docs.python.org/3/library/syslog.html
+https://docs.python.org/3/library/syslog.html#examples
+https://docs.python.org/3/library/syslog.html#simple-example
+
 12. Data Persistence
 12.1. pickle — Python object serialization
 
@@ -1114,6 +1129,24 @@ https://docs.python.org/3/library/pickletools.html
 https://docs.python.org/3/library/pickletools.html#command-line-usage
 https://docs.python.org/3/library/pickletools.html#command-line-options
 https://docs.python.org/3/library/pickletools.html#programmatic-interface
+
+12. Data Persistence
+https://docs.python.org/3/library/persistence.html
+
+12.2. copyreg — Register pickle support functions
+https://docs.python.org/3/library/copyreg.html
+https://docs.python.org/3/library/copyreg.html#example
+
+12.3. shelve — Python object persistence
+https://docs.python.org/3/library/shelve.html
+https://docs.python.org/3/library/shelve.html#restrictions
+https://docs.python.org/3/library/shelve.html#example
+
+12.5. dbm — Interfaces to Unix “databases”
+https://docs.python.org/3/library/dbm.html
+https://docs.python.org/3/library/dbm.html#module-dbm.gnu
+https://docs.python.org/3/library/dbm.html#module-dbm.ndbm
+https://docs.python.org/3/library/dbm.html#module-dbm.dumb
 
 13. Data Compression and Archiving
 13.1. zlib — Compression compatible with gzip
@@ -1285,78 +1318,6 @@ https://docs.python.org/3/library/codecs.html#text-transforms
 https://docs.python.org/3/library/codecs.html#module-encodings.idna
 https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
 https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
-
-12. Data Persistence
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
-
-## Utilities
-
-22.2. cgi — Common Gateway Interface support
-22.3. cgitb — Traceback manager for CGI scripts
-22.4. wsgiref — WSGI Utilities and Reference Implementation
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/cgi.html#introduction
-https://docs.python.org/3/library/cgi.html#using-the-cgi-module
-https://docs.python.org/3/library/cgi.html#higher-level-interface
-https://docs.python.org/3/library/cgi.html#functions
-https://docs.python.org/3/library/cgi.html#caring-about-security
-https://docs.python.org/3/library/cgi.html#installing-your-cgi-script-on-a-unix-system
-https://docs.python.org/3/library/cgi.html#testing-your-cgi-script
-https://docs.python.org/3/library/cgi.html#debugging-cgi-scripts
-https://docs.python.org/3/library/cgi.html#common-problems-and-solutions
-
-https://docs.python.org/3/library/cgitb.html
-
-https://docs.python.org/3/library/wsgiref.html
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.util
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.headers
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.simple_server
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.validate
-https://docs.python.org/3/library/wsgiref.html#module-wsgiref.handlers
-https://docs.python.org/3/library/wsgiref.html#examples
-
-22.28. ipaddress — IPv4/IPv6 manipulation library
-https://docs.python.org/3/library/ipaddress.html
-https://docs.python.org/3/library/ipaddress.html#convenience-factory-functions
-https://docs.python.org/3/library/ipaddress.html#ip-addresses
-https://docs.python.org/3/library/ipaddress.html#address-objects
-https://docs.python.org/3/library/ipaddress.html#conversion-to-strings-and-integers
-https://docs.python.org/3/library/ipaddress.html#operators
-https://docs.python.org/3/library/ipaddress.html#comparison-operators
-https://docs.python.org/3/library/ipaddress.html#arithmetic-operators
-https://docs.python.org/3/library/ipaddress.html#ip-network-definitions
-https://docs.python.org/3/library/ipaddress.html#prefix-net-mask-and-host-mask
-https://docs.python.org/3/library/ipaddress.html#network-objects
-https://docs.python.org/3/library/ipaddress.html#id1
-https://docs.python.org/3/library/ipaddress.html#logical-operators
-https://docs.python.org/3/library/ipaddress.html#iteration
-https://docs.python.org/3/library/ipaddress.html#interface-objects
-https://docs.python.org/3/library/ipaddress.html#id2
-https://docs.python.org/3/library/ipaddress.html#id3
-https://docs.python.org/3/library/ipaddress.html#other-module-level-functions
-https://docs.python.org/3/library/ipaddress.html#custom-exceptions
 
 35. MS Windows Specific Services
 35.1. msilib — Read and write Microsoft Installer files
