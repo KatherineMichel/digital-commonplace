@@ -76,7 +76,6 @@ https://docs.python.org/3/library/types.html#coroutine-utility-functions
 
 
 
-
 Template
 36.10. pipes — Interface to shell pipelines
 https://docs.python.org/3/library/pipes.html
@@ -101,17 +100,10 @@ https://docs.python.org/3/library/string.html#string.Template
 
 
 22.11. http — HTTP modules
-22.12. http.client — HTTP protocol client
 
 https://docs.python.org/3/library/http.html
 
-"This module defines classes which implement the client side of the HTTP and HTTPS protocols. It is normally not used directly — the module urllib.request uses it to handle URLs that use HTTP and HTTPS."
-https://docs.python.org/3/library/http.client.html
-https://docs.python.org/3/library/http.client.html#httpconnection-objects
-https://docs.python.org/3/library/http.client.html#httpresponse-objects
-https://docs.python.org/3/library/http.client.html#examples
-https://docs.python.org/3/library/http.client.html#httpmessage-objects
-
+https://docs.python.org/3/library/http.server.html#module-http.server
 
 22.23. http.cookies — HTTP state management
 22.24. http.cookiejar — Cookie handling for HTTP clients
@@ -127,6 +119,16 @@ https://docs.python.org/3/library/http.cookiejar.html#cookiepolicy-objects
 https://docs.python.org/3/library/http.cookiejar.html#defaultcookiepolicy-objects
 https://docs.python.org/3/library/http.cookiejar.html#cookie-objects
 https://docs.python.org/3/library/http.cookiejar.html#examples
+
+22.12. http.client — HTTP protocol client
+
+"This module defines classes which implement the client side of the HTTP and HTTPS protocols. It is normally not used directly — the module urllib.request uses it to handle URLs that use HTTP and HTTPS."
+https://docs.python.org/3/library/http.client.html
+https://docs.python.org/3/library/http.client.html#httpconnection-objects
+https://docs.python.org/3/library/http.client.html#httpresponse-objects
+https://docs.python.org/3/library/http.client.html#examples
+https://docs.python.org/3/library/http.client.html#httpmessage-objects
+
 
 https://stackoverflow.com/questions/2018026/what-are-the-differences-between-the-urllib-urllib2-urllib3-and-requests-modul
 
@@ -342,6 +344,7 @@ https://en.wikipedia.org/wiki/Codec
 14.5. plistlib — Generate and parse Mac OS X .plist files
 https://docs.python.org/3/library/plistlib.html
 https://docs.python.org/3/library/plistlib.html#examples
+https://en.wikipedia.org/wiki/Property_list
 
 25.3. shlex — Simple lexical analysis
 https://docs.python.org/3/library/shlex.html#module-shlex
