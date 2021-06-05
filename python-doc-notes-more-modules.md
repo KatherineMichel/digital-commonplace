@@ -57,95 +57,47 @@ https://docs.python.org/3/tutorial/stdlib.html#internet-access
 urllib
 https://docs.python.org/2/library/urllib.html#urllib.urlretrieve | 20.5. urllib — Open arbitrary resources by URL — Python 2.7.18 documentation
 
-## I/O
 
-16.2. io — Core tools for working with streams
-https://docs.python.org/3/library/io.html
 
-## Concurrent Execution
 
-18. contextvars — Context Variables
-18.1. Context Variables
-18.2. Manual Context Management
-18.3. asyncio support
+## Internals
 
-https://docs.python.org/3/library/contextvars.html
+16.16. ctypes — A foreign function library for Python
 
-## Async
+"ctypes is a foreign function library for Python. It provides C compatible data types, and allows calling functions in DLLs or shared libraries. It can be used to wrap these libraries in pure Python."
+https://docs.python.org/3/library/ctypes.html
+https://docs.python.org/3/library/ctypes.html#ctypes-tutorial
+https://docs.python.org/3/library/ctypes.html#loading-dynamic-link-libraries
+https://docs.python.org/3/library/ctypes.html#accessing-functions-from-loaded-dlls
+https://docs.python.org/3/library/ctypes.html#calling-functions
+https://docs.python.org/3/library/ctypes.html#fundamental-data-types
+https://docs.python.org/3/library/ctypes.html#calling-functions-continued
+https://docs.python.org/3/library/ctypes.html#calling-functions-with-your-own-custom-data-types
+https://docs.python.org/3/library/ctypes.html#specifying-the-required-argument-types-function-prototypes
+https://docs.python.org/3/library/ctypes.html#return-types
+https://docs.python.org/3/library/ctypes.html#passing-pointers-or-passing-parameters-by-reference
+https://docs.python.org/3/library/ctypes.html#structures-and-unions
+https://docs.python.org/3/library/ctypes.html#structure-union-alignment-and-byte-order
+https://docs.python.org/3/library/ctypes.html#bit-fields-in-structures-and-unions
+https://docs.python.org/3/library/ctypes.html#arrays
+https://docs.python.org/3/library/ctypes.html#pointers
+https://docs.python.org/3/library/ctypes.html#type-conversions
+https://docs.python.org/3/library/ctypes.html#incomplete-types
+https://docs.python.org/3/library/ctypes.html#callback-functions
+https://docs.python.org/3/library/ctypes.html#accessing-values-exported-from-dlls
+https://docs.python.org/3/library/ctypes.html#surprises
+https://docs.python.org/3/library/ctypes.html#variable-sized-data-types
+https://docs.python.org/3/library/ctypes.html#ctypes-reference
+https://docs.python.org/3/library/ctypes.html#finding-shared-libraries
+https://docs.python.org/3/library/ctypes.html#loading-shared-libraries
+https://docs.python.org/3/library/ctypes.html#foreign-functions
+https://docs.python.org/3/library/ctypes.html#function-prototypes
+https://docs.python.org/3/library/ctypes.html#utility-functions
+https://docs.python.org/3/library/ctypes.html#data-types
+https://docs.python.org/3/library/ctypes.html#ctypes-fundamental-data-types-2
 
-17. Concurrent Execution
-17.1. threading — Thread-based parallelism
-17.2. multiprocessing — Process-based parallelism
-17.3. The concurrent package
-17.4. concurrent.futures — Launching parallel tasks
-17.5. subprocess — Subprocess management
-17.6. sched — Event scheduler
-17.7. queue — A synchronized queue class
-17.8. _thread — Low-level threading API
-17.9. _dummy_thread — Drop-in replacement for the _thread module
-17.10. dummy_threading — Drop-in replacement for the threading module
-
-19. Interprocess Communication and Networking
-19.1. socket — Low-level networking interface
-19.2. ssl — TLS/SSL wrapper for socket objects
-19.3. select — Waiting for I/O completion
-19.4. selectors — High-level I/O multiplexing
-19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-19.6. asyncore — Asynchronous socket handler
-19.7. asynchat — Asynchronous socket command/response handler
-19.8. signal — Set handlers for asynchronous events
-19.9. mmap — Memory-mapped file support
-
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-
-https://docs.python.org/3/library/concurrency.html
-
-https://docs.python.org/3/library/threading.html
-https://docs.python.org/3/library/multiprocessing.html
-https://docs.python.org/3/library/concurrent.html
-https://docs.python.org/3/library/concurrent.futures.html
-https://docs.python.org/3/library/subprocess.html
-
-https://docs.python.org/3/library/sched.html
-
-https://docs.python.org/3/library/queue.html
-
-https://docs.python.org/3/library/_thread.html
-https://docs.python.org/3/library/_dummy_thread.html
-https://docs.python.org/3/library/dummy_threading.html
-
-https://docs.python.org/3/library/ipc.html
-
-Sockets
-
-18.1. socket — Low-level networking interface
-18.2. ssl — TLS/SSL wrapper for socket objects
-https://docs.python.org/3/library/ssl.html
-
-19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-19.6. asyncore — Asynchronous socket handler
-19.7. asynchat — Asynchronous socket command/response handler
-19.8. signal — Set handlers for asynchronous events
-
-https://docs.python.org/3/library/asyncio.html
-https://docs.python.org/3/library/asyncore.html
-https://docs.python.org/3/library/asynchat.html
-https://docs.python.org/3/library/signal.html
-
-## Sockets
-
-Socket Programming HOWTO
-https://docs.python.org/3/howto/sockets.html
-
-19.1. socket — Low-level networking interface
-https://docs.python.org/3/library/socket.html
-
-22.21. socketserver — A framework for network servers
-https://docs.python.org/3/library/socketserver.html
-
-19.2. ssl — TLS/SSL wrapper for socket objects
-https://docs.python.org/3/library/ssl.html
-
+https://docs.python.org/3/library/ctypes.html#structured-data-types
+https://docs.python.org/3/library/ctypes.html#arrays-and-pointers
 
 
 ## Interpreter
@@ -359,120 +311,11 @@ https://docs.python.org/3/tutorial/controlflow.html#documentation-strings
 
 27.2. pydoc — Documentation generator and online help system
 https://docs.python.org/3/library/pydoc.html
-
-27.3. doctest — Test interactive Python examples
-https://docs.python.org/3/library/doctest.html
 -->
 
 
 
 <!--
-## Debugging and Profiling
-
-https://pypi.org/project/ipdb/ | ipdb · PyPI
-
-28. Debugging and Profiling
-28.3. pdb — The Python Debugger
-28.1. bdb — Debugger framework
-28.2. faulthandler — Dump the Python traceback
-28.4. The Python Profilers
-28.5. timeit — Measure execution time of small code snippets
-28.6. trace — Trace or track Python statement execution
-28.7. tracemalloc — Trace memory allocations
-
-https://docs.python.org/3/library/debug.html
-
-https://docs.python.org/3/library/pdb.html#debugger-commands
-
-https://docs.python.org/3/library/faulthandler.html
-https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback
-https://docs.python.org/3/library/faulthandler.html#fault-handler-state
-https://docs.python.org/3/library/faulthandler.html#dumping-the-tracebacks-after-a-timeout
-https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback-on-a-user-signal
-https://docs.python.org/3/library/faulthandler.html#issue-with-file-descriptors
-https://docs.python.org/3/library/faulthandler.html#example
-
-https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/timeit.html
-https://docs.python.org/3/library/trace.html
-
-29.9. traceback — Print or retrieve a stack traceback
-https://docs.python.org/3/library/traceback.html
-
-https://docs.python.org/3/library/tracemalloc.html
-https://docs.python.org/3/library/tracemalloc.html#examples
-https://docs.python.org/3/library/tracemalloc.html#display-the-top-10
-https://docs.python.org/3/library/tracemalloc.html#compute-differences
-https://docs.python.org/3/library/tracemalloc.html#get-the-traceback-of-a-memory-block
-https://docs.python.org/3/library/tracemalloc.html#pretty-top
-https://docs.python.org/3/library/tracemalloc.html#api
-https://docs.python.org/3/library/tracemalloc.html#functions
-https://docs.python.org/3/library/tracemalloc.html#domainfilter
-https://docs.python.org/3/library/tracemalloc.html#filter
-https://docs.python.org/3/library/tracemalloc.html#frame
-https://docs.python.org/3/library/tracemalloc.html#snapshot
-https://docs.python.org/3/library/tracemalloc.html#statistic
-https://docs.python.org/3/library/tracemalloc.html#statisticdiff
-https://docs.python.org/3/library/tracemalloc.html#trace
-https://docs.python.org/3/library/tracemalloc.html#traceback
-
-    	   
-## Logging
-
-Logging HOWTO
-https://docs.python.org/3/howto/logging.html
-
-Logging Cookbook
-https://docs.python.org/3/howto/logging-cookbook.html
-
-11.5. Logging
-https://docs.python.org/3/tutorial/stdlib2.html#logging
-
-https://docs.python.org/3/library/logging.html
-https://docs.python.org/3/library/logging.html#logger-objects
-https://docs.python.org/3/library/logging.html#logging-levels
-https://docs.python.org/3/library/logging.html#handler-objects
-https://docs.python.org/3/library/logging.html#formatter-objects
-https://docs.python.org/3/library/logging.html#filter-objects
-https://docs.python.org/3/library/logging.html#logrecord-objects
-https://docs.python.org/3/library/logging.html#logrecord-attributes
-https://docs.python.org/3/library/logging.html#loggeradapter-objects
-https://docs.python.org/3/library/logging.html#thread-safety
-https://docs.python.org/3/library/logging.html#module-level-functions
-https://docs.python.org/3/library/logging.html#module-level-attributes
-https://docs.python.org/3/library/logging.html#integration-with-the-warnings-module
-
-https://docs.python.org/3/library/logging.config.html
-https://docs.python.org/3/library/logging.config.html#configuration-functions
-https://docs.python.org/3/library/logging.config.html#configuration-dictionary-schema
-https://docs.python.org/3/library/logging.config.html#dictionary-schema-details
-https://docs.python.org/3/library/logging.config.html#incremental-configuration
-https://docs.python.org/3/library/logging.config.html#object-connections
-https://docs.python.org/3/library/logging.config.html#user-defined-objects
-https://docs.python.org/3/library/logging.config.html#access-to-external-objects
-https://docs.python.org/3/library/logging.config.html#access-to-internal-objects
-https://docs.python.org/3/library/logging.config.html#import-resolution-and-custom-importers
-https://docs.python.org/3/library/logging.config.html#configuration-file-format
-
-https://docs.python.org/3/library/logging.handlers.html
-https://docs.python.org/3/library/logging.handlers.html#streamhandler
-https://docs.python.org/3/library/logging.handlers.html#filehandler
-https://docs.python.org/3/library/logging.handlers.html#nullhandler
-https://docs.python.org/3/library/logging.handlers.html#watchedfilehandler
-https://docs.python.org/3/library/logging.handlers.html#baserotatinghandler
-https://docs.python.org/3/library/logging.handlers.html#rotatingfilehandler
-https://docs.python.org/3/library/logging.handlers.html#timedrotatingfilehandler
-https://docs.python.org/3/library/logging.handlers.html#sockethandler
-https://docs.python.org/3/library/logging.handlers.html#datagramhandler
-https://docs.python.org/3/library/logging.handlers.html#sysloghandler
-https://docs.python.org/3/library/logging.handlers.html#nteventloghandler
-https://docs.python.org/3/library/logging.handlers.html#smtphandler
-https://docs.python.org/3/library/logging.handlers.html#memoryhandler
-https://docs.python.org/3/library/logging.handlers.html#httphandler
-https://docs.python.org/3/library/logging.handlers.html#queuehandler
-https://docs.python.org/3/library/logging.handlers.html#queuelistener
-
-
 ## Formatting
 
 8.12. reprlib — Alternate repr() implementation
@@ -586,60 +429,6 @@ https://docs.python.org/3/library/dataclasses.html#exceptions
 
 
 
-
-16.14. platform — Access to underlying platform’s identifying data
-https://docs.python.org/3/library/platform.html
-https://docs.python.org/3/library/platform.html#cross-platform
-https://docs.python.org/3/library/platform.html#java-platform
-https://docs.python.org/3/library/platform.html#windows-platform
-https://docs.python.org/3/library/platform.html#mac-os-platform
-
-16.1. os — Miscellaneous operating system interfaces
-https://docs.python.org/3/library/os.html
-https://docs.python.org/3/library/os.html#file-names-command-line-arguments-and-environment-variables
-https://docs.python.org/3/library/os.html#process-parameters
-https://docs.python.org/3/library/os.html#file-object-creation
-https://docs.python.org/3/library/os.html#file-descriptor-operations
-https://docs.python.org/3/library/os.html#querying-the-size-of-a-terminal
-https://docs.python.org/3/library/os.html#inheritance-of-file-descriptors
-https://docs.python.org/3/library/os.html#files-and-directories
-https://docs.python.org/3/library/os.html#linux-extended-attributes
-https://docs.python.org/3/library/os.html#process-management
-https://docs.python.org/3/library/os.html#interface-to-the-scheduler
-https://docs.python.org/3/library/os.html#miscellaneous-system-information
-https://docs.python.org/3/library/os.html#random-numbers
-
-30.2. sysconfig — Provide access to Python’s configuration information
-https://docs.python.org/3/library/sysconfig.html
-https://docs.python.org/3/library/sysconfig.html#configuration-variables
-https://docs.python.org/3/library/sysconfig.html#installation-paths
-https://docs.python.org/3/library/sysconfig.html#other-functions
-https://docs.python.org/3/library/sysconfig.html#using-sysconfig-as-a-script
-
-11.1. pathlib — Object-oriented filesystem paths
-https://docs.python.org/3/library/pathlib.html
-
-https://docs.python.org/3/library/pathlib.html#basic-use
-https://docs.python.org/3/library/pathlib.html#pure-paths
-https://docs.python.org/3/library/pathlib.html#general-properties
-https://docs.python.org/3/library/pathlib.html#operators
-https://docs.python.org/3/library/pathlib.html#accessing-individual-parts
-https://docs.python.org/3/library/pathlib.html#methods-and-properties
-https://docs.python.org/3/library/pathlib.html#concrete-paths
-https://docs.python.org/3/library/pathlib.html#methods
-chart
-https://docs.python.org/3/library/pathlib.html#correspondence-to-tools-in-the-os-module
-
-11.10. shutil — High-level file operations
-https://docs.python.org/3/library/shutil.html
-https://docs.python.org/3/library/shutil.html#directory-and-files-operations
-https://docs.python.org/3/library/shutil.html#copytree-example
-https://docs.python.org/3/library/shutil.html#rmtree-example
-https://docs.python.org/3/library/shutil.html#archiving-operations
-https://docs.python.org/3/library/shutil.html#archiving-example
-https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
-
-
 22.11. http — HTTP modules
 22.12. http.client — HTTP protocol client
 
@@ -742,10 +531,12 @@ https://docs.python.org/3/library/urllib.parse.html#url-quoting
 https://docs.python.org/3/library/urllib.error.html#module-urllib.error
 https://docs.python.org/3/library/urllib.robotparser.html#module-urllib.robotparser
 
+
 30.14. site — Site-specific configuration hook
 https://docs.python.org/3/library/site.html
 https://docs.python.org/3/library/site.html#readline-configuration
 https://docs.python.org/3/library/site.html#module-contents
+
 
 22.23. http.cookies — HTTP state management
 22.24. http.cookiejar — Cookie handling for HTTP clients
@@ -765,27 +556,6 @@ https://docs.python.org/3/library/http.cookiejar.html#examples
 
 20.1. email — An email and MIME handling package
 
-https://docs.python.org/3/library/email.html
-https://docs.python.org/3/library/email.message.html#module-email.message
-https://docs.python.org/3/library/email.parser.html
-https://docs.python.org/3/library/email.parser.html#feedparser-api
-https://docs.python.org/3/library/email.parser.html#parser-api
-https://docs.python.org/3/library/email.parser.html#additional-notes
-https://docs.python.org/3/library/email.generator.html
-https://docs.python.org/3/library/email.policy.html
-https://docs.python.org/3/library/email.errors.html
-https://docs.python.org/3/library/email.headerregistry.html
-https://docs.python.org/3/library/email.contentmanager.html
-https://docs.python.org/3/library/email.contentmanager.html
-https://docs.python.org/3/library/email.examples.html#email-examples
-https://docs.python.org/3/library/email.compat32-message.html
-https://docs.python.org/3/library/email.mime.html
-https://docs.python.org/3/library/email.header.html
-https://docs.python.org/3/library/email.charset.html
-https://docs.python.org/3/library/email.encoders.html
-https://docs.python.org/3/library/email.util.html
-https://docs.python.org/3/library/email.iterators.html
-
 22.13. ftplib — FTP protocol client
 22.14. poplib — POP3 protocol client
 22.15. imaplib — IMAP4 protocol client
@@ -795,70 +565,7 @@ https://docs.python.org/3/library/email.iterators.html
 22.19. telnetlib — Telnet client
 22.20. uuid — UUID objects according to RFC 4122
 
-https://docs.python.org/3/library/ftplib.html
-https://docs.python.org/3/library/ftplib.html#ftp-objects
-https://docs.python.org/3/library/ftplib.html#ftp-tls-objects
 
-https://docs.python.org/3/library/poplib.html
-https://docs.python.org/3/library/poplib.html#pop3-objects
-https://docs.python.org/3/library/poplib.html#pop3-example
-
-https://docs.python.org/3/library/imaplib.html
-https://docs.python.org/3/library/imaplib.html#imap4-objects
-https://docs.python.org/3/library/imaplib.html#imap4-example
-
-https://docs.python.org/3/library/nntplib.html
-https://docs.python.org/3/library/nntplib.html#nntp-objects
-https://docs.python.org/3/library/nntplib.html#attributes
-https://docs.python.org/3/library/nntplib.html#methods
-https://docs.python.org/3/library/nntplib.html#utility-functions
-
-https://docs.python.org/3/library/smtplib.html
-https://docs.python.org/3/library/smtplib.html#smtp-objects
-https://docs.python.org/3/library/smtplib.html#smtp-example
-https://docs.python.org/3/library/smtpd.html
-https://docs.python.org/3/library/smtpd.html#smtpserver-objects
-https://docs.python.org/3/library/smtpd.html#debuggingserver-objects
-https://docs.python.org/3/library/smtpd.html#pureproxy-objects
-https://docs.python.org/3/library/smtpd.html#mailmanproxy-objects
-https://docs.python.org/3/library/smtpd.html#smtpchannel-objects
-
-https://docs.python.org/3/library/telnetlib.html
-https://docs.python.org/3/library/telnetlib.html#telnet-objects
-https://docs.python.org/3/library/telnetlib.html#telnet-example
-
-https://docs.python.org/3/library/uuid.html
-https://docs.python.org/3/library/uuid.html#example
-
-20.3. mailcap — Mailcap file handling
-20.4. mailbox — Manipulate mailboxes in various formats
-
-https://docs.python.org/3/library/mailcap.html
-
-https://docs.python.org/3/library/mailbox.html
-https://docs.python.org/3/library/mailbox.html#mailbox-objects
-https://docs.python.org/3/library/mailbox.html#maildir
-https://docs.python.org/3/library/mailbox.html#mbox
-https://docs.python.org/3/library/mailbox.html#mh
-https://docs.python.org/3/library/mailbox.html#babyl
-https://docs.python.org/3/library/mailbox.html#mmdf
-https://docs.python.org/3/library/mailbox.html#message-objects
-https://docs.python.org/3/library/mailbox.html#maildirmessage
-https://docs.python.org/3/library/mailbox.html#mboxmessage
-https://docs.python.org/3/library/mailbox.html#babylmessage
-https://docs.python.org/3/library/mailbox.html#mmdfmessage
-https://docs.python.org/3/library/mailbox.html#exceptions
-https://docs.python.org/3/library/mailbox.html#examples
-
-
-15.3. secrets — Generate secure random numbers for managing secrets
-https://docs.python.org/3/library/secrets.html
-
-https://docs.python.org/3/library/secrets.html#random-numbers
-https://docs.python.org/3/library/secrets.html#generating-tokens
-https://docs.python.org/3/library/secrets.html#how-many-bytes-should-tokens-use
-https://docs.python.org/3/library/secrets.html#other-functions
-https://docs.python.org/3/library/secrets.html#recipes-and-best-practices
 
 
 ## Typing and Types
@@ -892,75 +599,12 @@ https://docs.python.org/3/library/types.html#standard-interpreter-types
 https://docs.python.org/3/library/types.html#additional-utility-classes-and-functions
 https://docs.python.org/3/library/types.html#coroutine-utility-functions
 
-
-
 20.5. mimetypes — Map filenames to MIME types
 20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
-https://docs.python.org/3/library/mimetypes.html
-https://docs.python.org/3/library/mimetypes.html#mimetypes-objects
-https://docs.python.org/3/library/base64.html
-
 7.2. codecs — Codec registry and base classes
-https://docs.python.org/3/library/codecs.html
-https://docs.python.org/3/library/codecs.html#codec-base-classes
-https://docs.python.org/3/library/codecs.html#error-handlers
-https://docs.python.org/3/library/codecs.html#stateless-encoding-and-decoding
-https://docs.python.org/3/library/codecs.html#incremental-encoding-and-decoding
-https://docs.python.org/3/library/codecs.html#incrementalencoder-objects
-https://docs.python.org/3/library/codecs.html#incrementaldecoder-objects
-https://docs.python.org/3/library/codecs.html#stream-encoding-and-decoding
-https://docs.python.org/3/library/codecs.html#streamwriter-objects
-https://docs.python.org/3/library/codecs.html#streamreader-objects
-https://docs.python.org/3/library/codecs.html#streamreaderwriter-objects
-https://docs.python.org/3/library/codecs.html#streamrecoder-objects
-https://docs.python.org/3/library/codecs.html#encodings-and-unicode
-https://docs.python.org/3/library/codecs.html#standard-encodings
-https://docs.python.org/3/library/codecs.html#python-specific-encodings
-https://docs.python.org/3/library/codecs.html#text-encodings
-https://docs.python.org/3/library/codecs.html#binary-transforms
-https://docs.python.org/3/library/codecs.html#text-transforms
-https://docs.python.org/3/library/codecs.html#module-encodings.idna
-https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
-https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
 
 
 ## Less Common Utilities?
-
-16.16. ctypes — A foreign function library for Python
-
-https://docs.python.org/3/library/ctypes.html
-https://docs.python.org/3/library/ctypes.html#ctypes-tutorial
-https://docs.python.org/3/library/ctypes.html#loading-dynamic-link-libraries
-https://docs.python.org/3/library/ctypes.html#accessing-functions-from-loaded-dlls
-https://docs.python.org/3/library/ctypes.html#calling-functions
-https://docs.python.org/3/library/ctypes.html#fundamental-data-types
-https://docs.python.org/3/library/ctypes.html#calling-functions-continued
-https://docs.python.org/3/library/ctypes.html#calling-functions-with-your-own-custom-data-types
-https://docs.python.org/3/library/ctypes.html#specifying-the-required-argument-types-function-prototypes
-https://docs.python.org/3/library/ctypes.html#return-types
-https://docs.python.org/3/library/ctypes.html#passing-pointers-or-passing-parameters-by-reference
-https://docs.python.org/3/library/ctypes.html#structures-and-unions
-https://docs.python.org/3/library/ctypes.html#structure-union-alignment-and-byte-order
-https://docs.python.org/3/library/ctypes.html#bit-fields-in-structures-and-unions
-https://docs.python.org/3/library/ctypes.html#arrays
-https://docs.python.org/3/library/ctypes.html#pointers
-https://docs.python.org/3/library/ctypes.html#type-conversions
-https://docs.python.org/3/library/ctypes.html#incomplete-types
-https://docs.python.org/3/library/ctypes.html#callback-functions
-https://docs.python.org/3/library/ctypes.html#accessing-values-exported-from-dlls
-https://docs.python.org/3/library/ctypes.html#surprises
-https://docs.python.org/3/library/ctypes.html#variable-sized-data-types
-https://docs.python.org/3/library/ctypes.html#ctypes-reference
-https://docs.python.org/3/library/ctypes.html#finding-shared-libraries
-https://docs.python.org/3/library/ctypes.html#loading-shared-libraries
-https://docs.python.org/3/library/ctypes.html#foreign-functions
-https://docs.python.org/3/library/ctypes.html#function-prototypes
-https://docs.python.org/3/library/ctypes.html#utility-functions
-https://docs.python.org/3/library/ctypes.html#data-types
-https://docs.python.org/3/library/ctypes.html#ctypes-fundamental-data-types-2
-
-https://docs.python.org/3/library/ctypes.html#structured-data-types
-https://docs.python.org/3/library/ctypes.html#arrays-and-pointers
 
 21.4. XML Processing Modules
 21.5. xml.etree.ElementTree — The ElementTree XML API
@@ -1074,30 +718,6 @@ https://docs.python.org/3/library/xmlrpc.server.html#docxmlrpcserver-objects
 https://docs.python.org/3/library/xmlrpc.server.html#doccgixmlrpcrequesthandler
 
 
-12. Data Persistence
-12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
-
-https://docs.python.org/3/library/sqlite3.html
-
-https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
-https://docs.python.org/3/library/sqlite3.html#connection-objects
-https://docs.python.org/3/library/sqlite3.html#cursor-objects
-https://docs.python.org/3/library/sqlite3.html#row-objects
-https://docs.python.org/3/library/sqlite3.html#exceptions
-https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
-https://docs.python.org/3/library/sqlite3.html#introduction
-https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
-https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
-https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
-https://docs.python.org/3/library/sqlite3.html#controlling-transactions
-https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
-https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
-https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
-https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
-https://docs.python.org/3/library/sqlite3.html#common-issues
-
-
-https://docs.python.org/3/library/sqlite3.html#multithreading
 
 
 23. Multimedia Services
@@ -1446,6 +1066,15 @@ https://docs.python.org/3/library/turtle.html#module-turtledemo
 https://docs.python.org/3/library/turtle.html#changes-since-python-2-6
 https://docs.python.org/3/library/turtle.html#changes-since-python-3-0
 
+15.3. secrets — Generate secure random numbers for managing secrets
+https://docs.python.org/3/library/secrets.html
+
+https://docs.python.org/3/library/secrets.html#random-numbers
+https://docs.python.org/3/library/secrets.html#generating-tokens
+https://docs.python.org/3/library/secrets.html#how-many-bytes-should-tokens-use
+https://docs.python.org/3/library/secrets.html#other-functions
+https://docs.python.org/3/library/secrets.html#recipes-and-best-practices
+
 15. Cryptographic Services
 15.1. hashlib — Secure hashes and message digests
 15.2. hmac — Keyed-Hashing for Message Authentication
@@ -1539,6 +1168,147 @@ https://docs.python.org/3/library/zipapp.html#creating-standalone-applications-w
 https://docs.python.org/3/library/zipapp.html#making-a-windows-executable
 https://docs.python.org/3/library/zipapp.html#caveats
 https://docs.python.org/3/library/zipapp.html#the-python-zip-application-archive-format
+
+https://docs.python.org/3/library/email.html
+https://docs.python.org/3/library/email.message.html#module-email.message
+https://docs.python.org/3/library/email.parser.html
+https://docs.python.org/3/library/email.parser.html#feedparser-api
+https://docs.python.org/3/library/email.parser.html#parser-api
+https://docs.python.org/3/library/email.parser.html#additional-notes
+https://docs.python.org/3/library/email.generator.html
+https://docs.python.org/3/library/email.policy.html
+https://docs.python.org/3/library/email.errors.html
+https://docs.python.org/3/library/email.headerregistry.html
+https://docs.python.org/3/library/email.contentmanager.html
+https://docs.python.org/3/library/email.contentmanager.html
+https://docs.python.org/3/library/email.examples.html#email-examples
+https://docs.python.org/3/library/email.compat32-message.html
+https://docs.python.org/3/library/email.mime.html
+https://docs.python.org/3/library/email.header.html
+https://docs.python.org/3/library/email.charset.html
+https://docs.python.org/3/library/email.encoders.html
+https://docs.python.org/3/library/email.util.html
+https://docs.python.org/3/library/email.iterators.html
+
+22.13. ftplib — FTP protocol client
+22.14. poplib — POP3 protocol client
+22.15. imaplib — IMAP4 protocol client
+22.16. nntplib — NNTP protocol client
+22.17. smtplib — SMTP protocol client
+22.18. smtpd — SMTP Server
+22.19. telnetlib — Telnet client
+22.20. uuid — UUID objects according to RFC 4122
+
+20.3. mailcap — Mailcap file handling
+20.4. mailbox — Manipulate mailboxes in various formats
+
+https://docs.python.org/3/library/ftplib.html
+https://docs.python.org/3/library/ftplib.html#ftp-objects
+https://docs.python.org/3/library/ftplib.html#ftp-tls-objects
+
+https://docs.python.org/3/library/poplib.html
+https://docs.python.org/3/library/poplib.html#pop3-objects
+https://docs.python.org/3/library/poplib.html#pop3-example
+
+https://docs.python.org/3/library/imaplib.html
+https://docs.python.org/3/library/imaplib.html#imap4-objects
+https://docs.python.org/3/library/imaplib.html#imap4-example
+
+https://docs.python.org/3/library/nntplib.html
+https://docs.python.org/3/library/nntplib.html#nntp-objects
+https://docs.python.org/3/library/nntplib.html#attributes
+https://docs.python.org/3/library/nntplib.html#methods
+https://docs.python.org/3/library/nntplib.html#utility-functions
+
+https://docs.python.org/3/library/smtplib.html
+https://docs.python.org/3/library/smtplib.html#smtp-objects
+https://docs.python.org/3/library/smtplib.html#smtp-example
+https://docs.python.org/3/library/smtpd.html
+https://docs.python.org/3/library/smtpd.html#smtpserver-objects
+https://docs.python.org/3/library/smtpd.html#debuggingserver-objects
+https://docs.python.org/3/library/smtpd.html#pureproxy-objects
+https://docs.python.org/3/library/smtpd.html#mailmanproxy-objects
+https://docs.python.org/3/library/smtpd.html#smtpchannel-objects
+
+https://docs.python.org/3/library/telnetlib.html
+https://docs.python.org/3/library/telnetlib.html#telnet-objects
+https://docs.python.org/3/library/telnetlib.html#telnet-example
+
+https://docs.python.org/3/library/uuid.html
+https://docs.python.org/3/library/uuid.html#example
+
+20.3. mailcap — Mailcap file handling
+20.4. mailbox — Manipulate mailboxes in various formats
+
+https://docs.python.org/3/library/mailcap.html
+
+https://docs.python.org/3/library/mailbox.html
+https://docs.python.org/3/library/mailbox.html#mailbox-objects
+https://docs.python.org/3/library/mailbox.html#maildir
+https://docs.python.org/3/library/mailbox.html#mbox
+https://docs.python.org/3/library/mailbox.html#mh
+https://docs.python.org/3/library/mailbox.html#babyl
+https://docs.python.org/3/library/mailbox.html#mmdf
+https://docs.python.org/3/library/mailbox.html#message-objects
+https://docs.python.org/3/library/mailbox.html#maildirmessage
+https://docs.python.org/3/library/mailbox.html#mboxmessage
+https://docs.python.org/3/library/mailbox.html#babylmessage
+https://docs.python.org/3/library/mailbox.html#mmdfmessage
+https://docs.python.org/3/library/mailbox.html#exceptions
+https://docs.python.org/3/library/mailbox.html#examples
+
+20.5. mimetypes — Map filenames to MIME types
+20.6. base64 — Base16, Base32, Base64, Base85 Data Encodings
+https://docs.python.org/3/library/mimetypes.html
+https://docs.python.org/3/library/mimetypes.html#mimetypes-objects
+https://docs.python.org/3/library/base64.html
+
+7.2. codecs — Codec registry and base classes
+https://docs.python.org/3/library/codecs.html
+https://docs.python.org/3/library/codecs.html#codec-base-classes
+https://docs.python.org/3/library/codecs.html#error-handlers
+https://docs.python.org/3/library/codecs.html#stateless-encoding-and-decoding
+https://docs.python.org/3/library/codecs.html#incremental-encoding-and-decoding
+https://docs.python.org/3/library/codecs.html#incrementalencoder-objects
+https://docs.python.org/3/library/codecs.html#incrementaldecoder-objects
+https://docs.python.org/3/library/codecs.html#stream-encoding-and-decoding
+https://docs.python.org/3/library/codecs.html#streamwriter-objects
+https://docs.python.org/3/library/codecs.html#streamreader-objects
+https://docs.python.org/3/library/codecs.html#streamreaderwriter-objects
+https://docs.python.org/3/library/codecs.html#streamrecoder-objects
+https://docs.python.org/3/library/codecs.html#encodings-and-unicode
+https://docs.python.org/3/library/codecs.html#standard-encodings
+https://docs.python.org/3/library/codecs.html#python-specific-encodings
+https://docs.python.org/3/library/codecs.html#text-encodings
+https://docs.python.org/3/library/codecs.html#binary-transforms
+https://docs.python.org/3/library/codecs.html#text-transforms
+https://docs.python.org/3/library/codecs.html#module-encodings.idna
+https://docs.python.org/3/library/codecs.html#module-encodings.mbcs
+https://docs.python.org/3/library/codecs.html#module-encodings.utf_8_sig
+
+12. Data Persistence
+12.6. sqlite3 — DB-API 2.0 interface for SQLite databases
+
+https://docs.python.org/3/library/sqlite3.html
+
+https://docs.python.org/3/library/sqlite3.html#module-functions-and-constants
+https://docs.python.org/3/library/sqlite3.html#connection-objects
+https://docs.python.org/3/library/sqlite3.html#cursor-objects
+https://docs.python.org/3/library/sqlite3.html#row-objects
+https://docs.python.org/3/library/sqlite3.html#exceptions
+https://docs.python.org/3/library/sqlite3.html#sqlite-and-python-types
+https://docs.python.org/3/library/sqlite3.html#introduction
+https://docs.python.org/3/library/sqlite3.html#using-adapters-to-store-additional-python-types-in-sqlite-databases
+https://docs.python.org/3/library/sqlite3.html#converting-sqlite-values-to-custom-python-types
+https://docs.python.org/3/library/sqlite3.html#default-adapters-and-converters
+https://docs.python.org/3/library/sqlite3.html#controlling-transactions
+https://docs.python.org/3/library/sqlite3.html#using-sqlite3-efficiently
+https://docs.python.org/3/library/sqlite3.html#using-shortcut-methods
+https://docs.python.org/3/library/sqlite3.html#accessing-columns-by-name-instead-of-by-index
+https://docs.python.org/3/library/sqlite3.html#using-the-connection-as-a-context-manager
+https://docs.python.org/3/library/sqlite3.html#common-issues
+
+https://docs.python.org/3/library/sqlite3.html#multithreading
 
 ## Utilities
 
