@@ -638,6 +638,93 @@ class NewClass(object): #CapWords
 # Newline at end of file
 ```
 
+## Data Types
+
+## Mutability
+
+* Mutable- individual item can be changed
+* Immutable- individual item cannot be changed
+* Sequence- 
+* Non-Sequence-
+* Iterable-
+
+After change
+* mutable data structure will have same id
+* immutable data structure will have new id
+
+## Sequences and Iterables
+
+* List (mutable, sequence, iterable)
+* String (immutable, sequence, iterable)
+* Tuple (immutable, sequence, iterable)
+* Dict (mutable, non-sequence, iterable)
+* Set (mutable, non-sequence, iterable)
+
+## Data Types and Structures- Primitives 
+
+Primitive (a.k.a. atomic data types)
+* integer (numeric)
+* float (numeric)
+* string (sequence, "This is a string.", 'This is also a string.')
+* boolean
+* complex number (numeric)
+
+## Data Types and Structures- User Defined
+
+User Defined
+* list []
+* tuple () or (item,) (singleton)
+* range
+* set {}
+* dictionary {}
+
+## Data Types Categorized by Mutable or Immutable, Sequence or Non-Sequence
+
+<!--
+Sequence/looping
+lists: item
+strings: character
+-->
+
+Immutable Sequence Types- Common
+* string (text sequence type, primitive)
+
+Mutable Sequence Types- Common
+* list
+
+Mutable Non-Sequence Types
+* dictionary (built-in mapping/hash table)
+* set
+
+Set Types
+* set
+* frozenset (immutable and hashable)
+
+Immutable Sequence Types- Less Common
+* tuple
+
+Sequence Types
+* range (immutable)
+
+Other Data Structures
+* hashes
+
+## Linear and Non-Linear
+
+Linear (Sequential) Data Structures
+* [Linear Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures#Linear_data_structures)
+
+Linear Data Structure Examples (left to right, top to bottom)
+* list (including linked list, doubly linked list), stack, queue, deque, array
+
+List (Sequence) Linear and Non-Linear Implementations
+* Linear: stack and queue
+* Non-Linear: graph and tree
+
+Queue Implementations
+* Queue Using Linked List
+* Queue Using Stack
+
 ## Class or Function Syntax
 
 <!--
