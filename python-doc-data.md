@@ -542,6 +542,7 @@ https://docs.python.org/3/library/doctest.html#soapbox
 
 pytest
 https://docs.pytest.org/en/6.2.x/
+https://django-debug-toolbar.readthedocs.io/en/latest/
 
 Assert
 https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt
@@ -576,6 +577,7 @@ https://docs.python.org/3/tutorial/stdlib.html#quality-control
 https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
 
 Big O Notation
+https://www.bigocheatsheet.com/
 https://en.wikipedia.org/wiki/Big_O_notation
 
 28.4. The Python Profilers
@@ -588,11 +590,11 @@ https://docs.python.org/3/library/profile.html#module-pstats
 
 https://docs.python.org/3/library/timeit.html
 
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-
 cProfile
 https://docs.python.org/3/library/profile.html#module-cProfile
+
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
 
 https://docs.python.org/3/library/profile.html#the-stats-class
 https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
