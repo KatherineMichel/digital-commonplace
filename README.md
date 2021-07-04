@@ -90,90 +90,13 @@ https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twi
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 
-## Portfolio Ideas
-
-https://www.buymeacoffee.com/ | Buy Me a Coffee
-
-https://www.wix.com/logo/maker
-
-Matt- Resume
-http://www.codingacrossamerica.com/ | Coding Across America
-http://www.mattmakai.com/matt-makai-resume.pdf | matt-makai-resume.pdf
-https://github.com/mattmakai/mattmakai.com/tree/gh-pages/source/resume | mattmakai.com/source/resume at gh-pages · mattmakai/mattmakai.com
-
-https://developer.mozilla.org/en-US/docs/MDN/Contribute | Contributing to MDN - The MDN project | MDN
-
-Talks
-https://twitter.com/di_codes/status/1363288819584303105 | Dustin Ingram on Twitter: "@glasnt @laceynwilliams @simonw My secret for writing up talks is to use https://t.co/uSR23MPM6W to record a transcript of me giving the talk, and then edit that into the writeup!" / Twitter
-
-Brian Douglas... environment
-https://www.youtube.com/watch?v=SGtoR5s8fgE
-https://www.youtube.com/watch?v=-CEVBPZDid0
-
-Great Talk
-https://twitter.com/idangazit/status/1334183632122966018 | Idan Gazit on Twitter: "🚨Starting at 09:30a Pacific! OCTO Speaker Series #5 with @ashevat, who led global devrel at Google, Slack, and Twitch — followed by Q&amp;A with @jasoncwarner I'm hoping for some 🔥 takes on the Slackquisition" / Twitter
-
-https://a16z.com/author/balaji-srinivasan/#1 | Balaji Srinivasan - Andreessen Horowitz
-
-https://twitter.com/juliaferraioli | julia ferraioli (@juliaferraioli) / Twitter
-
-Neat layout
-http://blog.mocoso.co.uk/talks/2015/01/12/telling-stories-through-your-commits/ | Telling stories through your commits
-
-Spanish
-https://spanish.yourdictionary.com/spanish-language/learning-spanish/technology-terms-in-spanish.html | Technology Terms in Spanish
-
-Frontend Bootcamp teacher Jenn... great at it
-
-Awesome
-https://www.twilio.com/blog/10-lessons-learned-maintaining-open-source-community | 10 Lessons I Learned From Maintaining An Open Source Community For 4 Years - Twilio
-
-Awesome talk
-https://speakerdeck.com/bdougie/manage-your-project-like-a-pro/?slide=46 | Manage Your Project Like a Pro - Speaker Deck
-
-https://dev.to/agazaboklicka/kanban-board-the-way-to-organize-your-work-even-outside-the-agile-project | Kanban board: the way to organize your work even outside the agile project.
-
-This is great!
-https://medium.com/@dburka/open-source-identity-design-for-simple-4025c6d48acc | Open-source identity design for Simple – Daniel Burka – Medium
-https://www.simple.org/ | Home Simple
-
-As CTO
-https://twitter.com/kvogt/status/1299372980611371010 | https://twitter.com/kvogt/status/1299372980611371010
-
-https://medium.com/@joshelman/make-your-product-onboarding-better-by-trying-it-yourself-cd56f4fb0742 | Make your Product Onboarding Better by Trying It Yourself | by Josh Elman | Sep, 2020 | Medium
-
-Developer Experience
-https://dev.to/samjarman/the-best-practices-for-a-great-developer-experience-dx-b3a | The Best Practices for a Great Developer Experience (DX)
-
-Community engineering
-https://prezi.com/9h3ooxqg6c24/what-is-community-engineering/?webgl=0
-https://github.com/blog/2397-making-it-easier-to-grow-communities-on-github
-
-Sprints
-OS/PSF
-https://discuss.python.org/t/howto-engage-python-contributors-in-the-long-term/771/19 | Howto engage Python contributors in the long term? - Users - Discussions on Python.org
-https://github.com/pycon-mentored-sprints/community-handbook | pycon-mentored-sprints/community-handbook: 📝 Field notes for running sprints!
-
-Reminds me of Jessica Rose
-https://github.com/daneden/design-systems-office-hours-playbook | daneden/design-systems-office-hours-playbook: A playbook for running Design Systems office hours or attending them as a Design System representative. Use this as a template for making your own company Design Systems office hours playbook!
-
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-Collapsible markdown
-https://gist.github.com/joyrexus/16041f2426450e73f5df9391f7f7ae5f
-
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://github.com/HangarOrg/
-https://github.com/HangarOrg/sphinx-netlify-cicd
-
 
 ## People and Places
 
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
 
 https://freestateforge.com/map
+https://twitter.com/FreeStateForge/status/1398424918933520386 | Free State Forge on Twitter: "A lot has changed in the last year &amp; Free State Forge would like to know how KS/KC tech startups have weathered the storm. If you know of a regional startup that has closed or launched in the last 12 months, we'd like to hear about it. https://t.co/PcDc3Wgjii https://t.co/WpynxhrNbX" / Twitter
 
 https://twitter.com/i/lists/1216283681167265792 | @Scobleizer/Top Shelf in Tech (1) on Twitter / Twitter
 
@@ -300,6 +223,40 @@ https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter:
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
 
+https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
+https://github.com/LambdaSchool | Lambda School, Inc.
+-->
+
+
+
+<!--
+https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
+
+Family Tree
+https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
+
+Todo
+https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
+
+https://www.coldstart.com/ | The Cold Start Problem
+
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
+-->
+
+<!--
+https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
+
+https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
+https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
+
 https://home.cern/topics/birth-web | The birth of the web | CERN
 https://home.cern/science/computing/birth-web | The birth of the Web | CERN
 https://www.w3.org/DesignIssues/Architecture.html
@@ -313,51 +270,129 @@ https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM 
 https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
 https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
 
-https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
-https://github.com/LambdaSchool | Lambda School, Inc.
-
 Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
-
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
 
+
+
+
 <!--
+## Trends
+
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+
+Project
+https://bloggingfordevs.com/trends/how-it-works/ | Blogging for Devs Trends: How It Works
+
+Trends
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+
 Important
-https://www.facebook.com/events/423530692228364/ | Engineering Expo 2021 | Facebook
-
-DevICT
-https://flinthillsgroup.com/fhg-ranks-top-5-mobile-app-development-companies-in-kansas/ | FHG Ranks Top 5 Mobile App Development Companies In Kansas
+https://dev.to/ | DEV Community 👩‍💻👨‍💻
 
 
-https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
+Portfolio
+https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
 
-Family Tree
-https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
-
-Todo
-https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
-
-https://twitter.com/SahilBloom/status/1373279793353879556 | Sahil Bloom on Twitter: "To outperform, you need serious competitive advantages. But contrary to what you have been told, most of them don't require talent. 10 competitive advantages that you can start developing today:" / Twitter
-
-https://www.coldstart.com/ | The Cold Start Problem
-
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
-
-https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
+https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 
-https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
 
 
-https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
 
-https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
-https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
+https://github.com/features/codespaces | Codespaces
+
+Important- VS Code in browser
+https://github1s.com/django/django/blob/HEAD/README.rst | README.rst — django/django — GitHub1s
+
+https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes | Git - Working with Remotes
+
+https://clig.dev/ | Command Line Interface Guidelines
+
+Important
+https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
+https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
+https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
+https://gist.github.com/ | Create a new Gist
+https://www.reddit.com/r/learnpython/ | Python Education
+
+
+https://www.youtube.com/watch?v=4Z-pMC3WMg4 | Tips for Making Developer Content with Ali Spittel - Twitter Spaces vs Clubhouse? - YouTube
+https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to egghead like a pro.
+
+Important
+https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
+
+
+
+Django News
+https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
+https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
+
+https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
+
+
+Makers
+https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
+https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
+https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
+
+
+pyweek
+https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
+
+APIs
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+GIS
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
+
+Important
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+
+Papers
+https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://twitter.com/an_open_mind/status/1314541192458260482
+-->
+
+
+<!--
+## Management
+
+SCQA framework
+https://www.heavybit.com/library/video/executive-communication/
+https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
+
+https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
+
 
 ## Product
 
@@ -367,6 +402,39 @@ https://www.atlassian.com/agile/product-management/requirements | Creating a lea
 https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
 https://www.atlassian.com/agile/product-management/product-roadmaps | Product Roadmaps | Atlassian
 
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
+https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
+
+
+## Testing
+
+TestAutomationU
+https://twitter.com/ameter/status/1383626060609191940 | Ariel Meter on Twitter: "This course by @techgirl1908 is a MUST for every Test Lead. It will teach you how to stop an “I-want-everything-automated-with -X-tool” stakeholder and make all the right questions for a successful Automation strategy." / Twitter
+https://twitter.com/techgirl1908/status/1382709959788523520 | Angie Jones on Twitter: "Stoked to announce we've just added a new Learning Path to @TestAutomationU: API Python🐍 And with that, a brand new course, API Testing in Python taught by @automationhacks🎉 All courses FREE as always❤️ Learning Path: https://t.co/oEMJH2AaJm Course: https://t.co/R6QS54Ac8I https://t.co/hmbzGwfaqh" / Twitter
+https://angiejones.tech/free-java-course-test-automation/ | My FREE Java Course - Angie Jones
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+https://eyes.applitools.com/app/test-results/00000251785171536301/?accountId=V09Xrww-9EGBGP0uZjJ6bw~~ | Applitools Eyes
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+
+Applitools
+https://twitter.com/techgirl1908/status/1389327137690296322 | Angie Jones on Twitter: "LOL, ok so no one else says they didn't know... Python: https://t.co/K9Hi8R4xHl JS: https://t.co/xItuVb9MAh Java:https://t.co/eQ9rqO1Dp5 All free! 🤗" / Twitter
+
+https://applitools.com/
+https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
+
+Automation framework
+https://robotframework.org/
+
+App and browser testing
+https://www.browserstack.com/
+
+
+## UX/UI
 
 https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
 
@@ -382,11 +450,6 @@ https://github.com/google/software-product-sprint | google/software-product-spri
 Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
 
-Empowered versus feature
-https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
-https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
 
 ## Interesting
 
@@ -398,14 +461,23 @@ Interesting
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
-https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+SRE
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+Google Cloud
+https://github.com/gregsramblings/google-cloud-4-words | gregsramblings/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet
+https://twitter.com/gregsramblings/status/1366841332312907780 | Greg Wilson on Twitter: "All 220+ Google Cloud products, services, and tools described in 4 words or less — https://t.co/b1xxsBHN86 including @GoogleCloudTech, @Firebase, @GMapsPlatform, and @WorkspaceDevs. Blog post below! https://t.co/QGG37pfGH8" / Twitter
 
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+AWS
+https://www.awsgeek.com
 
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
+* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
+https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+
+
 
 https://free-for.dev/#/ | Free for developers
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -427,17 +499,11 @@ https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@Joaqu
 -->
 
 
+
+
 <!--
-https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ | Token authentication requirements for Git operations - The GitHub Blog
-
-Important
-https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
-
 Jeff
 https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
 
 
 https://opensourcestash.com/ | Open Source Stash
@@ -448,14 +514,6 @@ https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/sta
 KJ
 https://diversityorgs.tech/ | DiversityOrgs.Tech
 
-https://twitter.com/AllenDowney/status/1201542590421585922 | Allen Downey on Twitter: "I'm developing an introductory data science curriculum. Would you like to play along? Try out this do-it-yourself, choose-your-own-adventure mini-project that explores the relationship between political alignment and other attitudes and beliefs. https://t.co/CZHCnzQr3y" / Twitter
-
-https://twitter.com/jessicahische/status/1343614261277282306
-
-https://twitter.com/DawnWagesSays/status/1354516296004751360 | budget for mutual aid & OSS contribs on Twitter: "Are there careers in tech that would equate to an Accessibility and Accommodations Specialist outside of tech? I’m thinking something in HR or maybe Accessibility Evangelist or SME for accessibility tools?" / Twitter
-https://www.neuroinclusion.io/ | neuroinclusion.io
-
-https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
 
 
 https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
@@ -465,14 +523,6 @@ http://meowni.ca/posts/emoji-emoji-emoji/
 
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-AWS
-https://www.awsgeek.com
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
 
 
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
@@ -483,6 +533,7 @@ Good advice
 http://www.catb.org/~esr/faqs/hacker-howto.html
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
@@ -497,20 +548,6 @@ Mac
 https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
 
 
-https://applitools.com/
-https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
-
-Automation framework
-https://robotframework.org/
-
-App and browser testing
-https://www.browserstack.com/
-
-
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
 
 vscode html css support
 Docs driven dev
@@ -520,12 +557,6 @@ Pre-mortem and Postmortem
 Unix and bash
 
 
-https://devcenter.heroku.com/articles/platform-api-reference
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
-
-
 Mac Scrips
 https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
 
@@ -533,6 +564,8 @@ https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home direc
 
 
 ## Automation and Container
+
+https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
 
 Terraform
 
@@ -552,6 +585,11 @@ https://podman.io/
 
 https://www.packer.io/ | Packer by HashiCorp
 https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
+
+https://devcenter.heroku.com/articles/platform-api-reference
+https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
+https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
+https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
 -->
 
 <!--
@@ -650,81 +688,6 @@ https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twi
 https://twitter.com/andrewgodwin/status/1147272951118483457
 -->
 
-
-<!--
-Brand
-http://www.fast.ai/2017/12/18/personal-brand/ | Making Peace with Personal Branding · fast.ai
-
-
-Presentation advice
-https://twitter.com/jen4web/status/1343561729888956418 | https://twitter.com/jen4web/status/1343561729888956418
-
-https://github.com/TryGhost/Ghost
-https://www.theverge.com/2021/1/8/22219468/substack-theme-options-multipub-crm-lists | Substack is adding theming options to change the look of newsletters - The Verge
-
-YouTube
-https://www.canva.com/design/DAERl1ljA6k/AeJUXC8wabSiQXQIyAcIVA/edit?utm_source=onboarding | Untitled design - YouTube Thumbnail
-https://www.canva.com/create/youtube-thumbnails/ | Free Online Youtube Thumbnail Maker: Design Your Own - Canva
-https://www.canva.com/sizes/youtube/ | YouTube size guide - Canva's Design Wiki
-https://creatoracademy.youtube.com/page/lesson/thumbnails | Make effective thumbnails and titles - YouTube
-https://spark.adobe.com/make/youtube-thumbnail-maker/ | Free YouTube Thumbnail Maker with Online Templates | Adobe Spark
-
-Blog posts- SEO
-https://ahrefs.com/vs | Ahrefs vs. SEMrush vs. Moz: What the Industry Thinks
-https://www.semrush.com/ | Semrush - Online Visibility Management Platform
-https://moz.com/ | Moz - SEO Software for Smarter Marketing
-
-## Demos and Other Content
-
-Gif
-https://www.google.com/search?q=how+to+make+an+art+gif&oq=how+to+make+an+art+gif&aqs=chrome..69i57j0i22i30l5.5463j1j7&sourceid=chrome&ie=UTF-8 | how to make an art gif - Google Search
-
-Demo
-https://twitter.com/sriramk/status/1280559398763413504 | Sriram Krishnan on Twitter: "This is a fantastic demo from @plibin You immediately “get” it" / Twitter
-https://www.producthunt.com/posts/mmhmm | mmhmm - Bring yourself and your personality into your video chats | Product Hunt
-
-Record a Video/Gif
-
-http://gifmaker.me/
-OSX/Gif
-https://gist.github.com/dergachev/4627207
-https://mobile.twitter.com/AlSweigart/status/1249858205649260544
-
-Demos
-http://en.wikipedia.org/wiki/Vlog
-Presentations on demand
-https://twitter.com/bryanl/status/1295389406866677760
-
-## OBS Set Up
-
-https://dev.to/erikaheidi/how-to-use-obs-studio-to-record-or-stream-live-presentations-474j | How to Use OBS Studio to Record or Stream Live Presentations - DEV Community 👩‍💻👨‍💻
-
-FOSDEM Broadcasting Guidance 
-https://github.com/FOSDEM/video/wiki/FOSDEM-2021-video-email-to-speakers | FOSDEM 2021 video email to speakers · FOSDEM/video Wiki
-https://github.com/blackbeard334/fosdem21-emulator-devroom-cfp/blob/main/SPEAKERS_GUIDE.MD | fosdem21-emulator-devroom-cfp/SPEAKERS_GUIDE.MD at main · blackbeard334/fosdem21-emulator-devroom-cfp
-
-OBS
-Chrome... Advanced settings... hardware acceleration?
-chrome://settings/system | Settings
-https://photography.tutsplus.com/tutorials/obs-for-screen-recording-video-and-output-settings--cms-28542#:~:text=It%20can%20either%20be%20the%20same%20as%20the%20base%20resolution,(1280x720)%2C%20for%20example. | How to Get Best-Quality Screen Recording Video in OBS Studio
-
-Royalty Free Music
-https://www.pretzel.rocks/
-https://incompetech.com/music/
-
-zoom backgrounds - Google Search
-obs use a background - Google Search
-
-Broadcasting
-https://streamlabs.com/ | The Best Free Live Streaming Software on Windows and Mac | Streamlabs
-https://obsproject.com/ | Open Broadcaster Software®️ | OBS
-https://obsproject.com/welcome | Welcome | OBS
-https://obsproject.com/forum/resources/ | Resources | OBS Forums
-https://obsproject.com/forum/threads/whats-the-point-in-profiles.24079/ | Question / Help - Whats The Point In Profiles? | OBS Forums
-
-Presentations
-https://www.amazon.com/How-Draw-Cute-Stuff-Everything/dp/1454925647 | How to Draw Cute Stuff: Draw Anything and Everything in the Cutest Style Ever! (Volume 1): Nguyen, Angela: 9781454925644: Amazon.com: Books
--->
 
 ## Productivity Tools
 
@@ -2441,6 +2404,7 @@ https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbrevi
 
 Technology radar
 https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
 
 
