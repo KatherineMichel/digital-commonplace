@@ -1096,11 +1096,6 @@ https://docs.python.org/3/library/io.html#reentrancy
 11.4. Multi-threading
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
 https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
-
-
-
 
 https://docs.python.org/3/library/sched.html
 https://docs.python.org/3/library/sched.html#scheduler-objects
@@ -1109,7 +1104,6 @@ https://docs.python.org/3/library/queue.html
 https://docs.python.org/3/library/queue.html#queue-objects
 https://docs.python.org/3/library/queue.html#simplequeue-objects
 
-https://docs.python.org/3/library/concurrency.html
 
 
 ## Async
@@ -1123,7 +1117,6 @@ https://docs.python.org/3/library/ipc.html
 https://docs.python.org/3/library/socket.html
 https://docs.python.org/3/library/concurrency.html
 https://docs.python.org/3/library/threading.html
-https://docs.python.org/3/library/queue.html
 
 General
 18. Interprocess Communication and Networking
