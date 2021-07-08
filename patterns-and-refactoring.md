@@ -479,13 +479,13 @@ Behavioral Patterns
 * [Interpreter Pattern Wikipedia](https://en.wikipedia.org/wiki/Interpreter_pattern)
 * [Mediator Pattern Wikipedia](https://en.wikipedia.org/wiki/Mediator_pattern)
 * [Memento Pattern Wikipedia](https://en.wikipedia.org/wiki/Memento_pattern)
-* [State Pattern Wikipedia](https://en.wikipedia.org/wiki/State_pattern)
 * [Strategy Pattern Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
 * [Template Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
 * [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern)
 
 Behavioral Patterns- Familiar
 * [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
+* [State Pattern Wikipedia](https://en.wikipedia.org/wiki/State_pattern)
 * [Chain-of-Responsibility Pattern (handler, similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
 Behavioral Patterns- Built into Python
