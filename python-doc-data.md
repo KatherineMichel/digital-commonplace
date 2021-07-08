@@ -209,303 +209,6 @@ https://docs.python.org/3/library/compileall.html#command-line-use
 https://docs.python.org/3/library/compileall.html#public-functions
 
 
-## Tutorial
-
-3. An Informal Introduction to Python
-https://docs.python.org/3/tutorial/introduction.html
-https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
-https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
-https://docs.python.org/3/tutorial/introduction.html#numbers
-https://docs.python.org/3/tutorial/introduction.html#strings
-https://docs.python.org/3/library/stdtypes.html#textseq
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-Fibonacci series 
-https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
-
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-https://docs.python.org/3/library/functions.html#repr
-https://docs.python.org/3/library/pprint.html#module-pprint
-
-f-string
-https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
-https://docs.python.org/3/glossary.html#term-f-string
-https://docs.python.org/3/reference/lexical_analysis.html#f-strings
-https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
-
-
-10.6. Mathematics
-https://docs.python.org/3/tutorial/stdlib.html#mathematics
-https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
-https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
-https://docs.python.org/3/library/math.html#math.floor
-https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
-
-
-10.8. Dates and Times
-https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
-https://docs.python.org/3/library/datetime.html#module-datetime
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-8.2. calendar — General calendar-related functions
-https://docs.python.org/3/library/calendar.html
-
-16.3. time — Time access and conversions
-https://docs.python.org/3/library/time.html
-https://docs.python.org/3/library/time.html#functions
-https://docs.python.org/3/library/time.html#clock-id-constants
-https://docs.python.org/3/library/time.html#timezone-constants
-
-8.1. datetime — Basic date and time types
-https://docs.python.org/3/library/datetime.html
-https://docs.python.org/3/library/datetime.html#available-types
-https://docs.python.org/3/library/datetime.html#timedelta-objects
-https://docs.python.org/3/library/datetime.html#date-objects
-https://docs.python.org/3/library/datetime.html#datetime-objects
-https://docs.python.org/3/library/datetime.html#time-objects
-https://docs.python.org/3/library/datetime.html#tzinfo-objects
-https://docs.python.org/3/library/datetime.html#timezone-objects
-https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
-
-
-
-10.2. File Wildcards
-https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
-11.7. glob — Unix style pathname pattern expansion
-https://docs.python.org/3/library/glob.html
-https://docs.python.org/3/library/fnmatch.html
-
-
-https://docs.python.org/3/library/http.html#http-status-codes
-
-https://requests.readthedocs.io/en/master/
-https://requests.readthedocs.io/en/master/#beloved-features
-
-
-Scraping
-https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
-
-## Math
-## Pattern Matching
-
-
-## Database
-
-https://docs.python.org/3/library/sqlite3.html#module-sqlite3
-
-https://www.sqlite.org/index.html
-https://docs.python.org/3/library/sqlite3.html
-
-
-## Structured Data 
-
-10.12. Batteries Included
-https://docs.python.org/3/library/json.html#module-json
-https://docs.python.org/3/library/csv.html#module-csv
-
-14.1. csv — CSV File Reading and Writing
-https://docs.python.org/3/library/csv.html
-https://docs.python.org/3/library/csv.html#module-contents
-https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
-https://docs.python.org/3/library/csv.html#reader-objects
-https://docs.python.org/3/library/csv.html#writer-objects
-https://docs.python.org/3/library/csv.html#examples
-
-21. Internet Protocols and Support
-
-19.2. json — JSON encoder and decoder
-20.2. json — JSON encoder and decoder
-7.2.2. Saving structured data with json
-https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
-
-https://docs.python.org/3/library/json.html
-
-https://docs.python.org/3/library/json.html#basic-usage
-https://docs.python.org/3/library/json.html#encoders-and-decoders
-https://docs.python.org/3/library/json.html#exceptions
-https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
-https://docs.python.org/3/library/json.html#character-encodings
-https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
-https://docs.python.org/3/library/json.html#repeated-names-within-an-object
-https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
-https://docs.python.org/3/library/json.html#implementation-limitations
-https://docs.python.org/3/library/json.html#module-json.tool
-https://docs.python.org/3/library/json.html#command-line-options
-
-12.4. marshal — Internal Python object serialization
-https://docs.python.org/3/library/marshal.html
-
-
-
-10.3. Command Line Arguments
-https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
-https://docs.python.org/3/library/sys.html#sys.argv
-
-22.1. webbrowser — Convenient Web-browser controller
-https://docs.python.org/3/library/webbrowser.html
-https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
-
-https://docs.python.org/3/howto/argparse.html
-"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
-
-Alternative
-16.5. getopt — C-style parser for command line options
-https://docs.python.org/3/library/getopt.html
-
-16.4. argparse — Parser for command-line options, arguments and sub-commands
-https://docs.python.org/3/library/argparse.html
-https://docs.python.org/3/library/argparse.html#example
-https://docs.python.org/3/library/argparse.html#creating-a-parser
-https://docs.python.org/3/library/argparse.html#adding-arguments
-https://docs.python.org/3/library/argparse.html#parsing-arguments
-https://docs.python.org/3/library/argparse.html#argumentparser-objects
-https://docs.python.org/3/library/argparse.html#prog
-https://docs.python.org/3/library/argparse.html#usage
-https://docs.python.org/3/library/argparse.html#description
-https://docs.python.org/3/library/argparse.html#epilog
-https://docs.python.org/3/library/argparse.html#parents
-https://docs.python.org/3/library/argparse.html#formatter-class
-https://docs.python.org/3/library/argparse.html#prefix-chars
-https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
-https://docs.python.org/3/library/argparse.html#argument-default
-https://docs.python.org/3/library/argparse.html#allow-abbrev
-https://docs.python.org/3/library/argparse.html#conflict-handler
-https://docs.python.org/3/library/argparse.html#add-help
-https://docs.python.org/3/library/argparse.html#the-add-argument-method
-https://docs.python.org/3/library/argparse.html#name-or-flags
-https://docs.python.org/3/library/argparse.html#action
-https://docs.python.org/3/library/argparse.html#nargs
-https://docs.python.org/3/library/argparse.html#const
-https://docs.python.org/3/library/argparse.html#default
-https://docs.python.org/3/library/argparse.html#type
-https://docs.python.org/3/library/argparse.html#choices
-https://docs.python.org/3/library/argparse.html#required
-https://docs.python.org/3/library/argparse.html#help
-https://docs.python.org/3/library/argparse.html#metavar
-https://docs.python.org/3/library/argparse.html#dest
-https://docs.python.org/3/library/argparse.html#action-classes
-https://docs.python.org/3/library/argparse.html#the-parse-args-method
-https://docs.python.org/3/library/argparse.html#option-value-syntax
-https://docs.python.org/3/library/argparse.html#invalid-arguments
-https://docs.python.org/3/library/argparse.html#arguments-containing
-https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
-https://docs.python.org/3/library/argparse.html#beyond-sys-argv
-https://docs.python.org/3/library/argparse.html#the-namespace-object
-https://docs.python.org/3/library/argparse.html#other-utilities
-https://docs.python.org/3/library/argparse.html#sub-commands
-https://docs.python.org/3/library/argparse.html#filetype-objects
-https://docs.python.org/3/library/argparse.html#argument-groups
-https://docs.python.org/3/library/argparse.html#mutual-exclusion
-https://docs.python.org/3/library/argparse.html#parser-defaults
-https://docs.python.org/3/library/argparse.html#printing-help
-https://docs.python.org/3/library/argparse.html#partial-parsing
-https://docs.python.org/3/library/argparse.html#customizing-file-parsing
-https://docs.python.org/3/library/argparse.html#exiting-methods
-https://docs.python.org/3/library/argparse.html#intermixed-parsing
-https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
-
-
-Unicode HOWTO
-https://docs.python.org/3/howto/unicode.html
-
-
-https://docs.python.org/3/library/cgi.html
-https://docs.python.org/3/library/wsgiref.html
-
-22.5. urllib — URL handling modules
-
-https://docs.python.org/3/library/urllib.html
-
-
-26.1. typing — Support for type hints
-https://docs.python.org/3/library/typing.html
-
-
-14. File Formats
-https://docs.python.org/3/library/fileformats.html
-
-6. Text Processing Services
-https://docs.python.org/3/library/text.html
-
-21. Structured Markup Processing Tools
-21.1. html — HyperText Markup Language support
-21.2. html.parser — Simple HTML and XHTML parser
-21.3. html.entities — Definitions of HTML general entities
-
-20. Structured Markup Processing Tools
-https://docs.python.org/3/library/markup.html
-20.1. html — HyperText Markup Language support
-https://docs.python.org/3/library/html.html
-
-https://docs.python.org/3/library/html.parser.html
-https://docs.python.org/3/library/html.parser.html#example-html-parser-application
-https://docs.python.org/3/library/html.parser.html#htmlparser-methods
-https://docs.python.org/3/library/html.parser.html#examples
-https://docs.python.org/3/library/html.entities.html
-
-
-22.22. http.server — HTTP servers
-22.23. http.cookies — HTTP state management
-22.24. http.cookiejar — Cookie handling for HTTP clients
-
-Not recommended for production
-https://docs.python.org/3/library/http.server.html
-https://docs.python.org/3/library/http.cookies.html
-https://docs.python.org/3/library/http.cookiejar.html
--->
-
-
-
-
-
-
-## Formatting
-
-8.12. reprlib — Alternate repr() implementation
-https://docs.python.org/3/library/reprlib.html
-https://docs.python.org/3/library/reprlib.html#repr-objects
-https://docs.python.org/3/library/reprlib.html#subclassing-repr-objects
-
-https://docs.python.org/3/tutorial/inputoutput.html#manual-string-formatting
-
-7.1.1. Old string formatting
-https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
-https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
-https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
-
-f-string
-
-8.11. pprint — Data pretty printer
-https://docs.python.org/3/library/pprint.html
-https://docs.python.org/3/library/pprint.html#prettyprinter-objects
-https://docs.python.org/3/library/pprint.html#example
-
-7.1. Fancier Output Formatting
-https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
-
-11.1. Output Formatting
-https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
-10.4. Error Output Redirection and Program Termination
-https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
-
-11.2. Templating
-https://docs.python.org/3/tutorial/stdlib2.html#templating
-11.3. Working with Binary Data Record Layouts
-https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
-
-34.1. formatter — Generic output formatting
-https://docs.python.org/3/library/formatter.html
-https://docs.python.org/3/library/formatter.html#the-formatter-interface
-https://docs.python.org/3/library/formatter.html#formatter-implementations
-https://docs.python.org/3/library/formatter.html#the-writer-interface
-https://docs.python.org/3/library/formatter.html#writer-implementations
-
-
-
 ## Tests
 
 27.3. doctest — Test interactive Python examples
@@ -2423,6 +2126,299 @@ https://docs.python.org/3/tutorial/appendix.html#interactive-mode
 
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
 
+
+
+## Tutorial
+
+3. An Informal Introduction to Python
+https://docs.python.org/3/tutorial/introduction.html
+https://docs.python.org/3/tutorial/introduction.html#an-informal-introduction-to-python
+https://docs.python.org/3/tutorial/introduction.html#using-python-as-a-calculator
+https://docs.python.org/3/tutorial/introduction.html#numbers
+https://docs.python.org/3/tutorial/introduction.html#strings
+https://docs.python.org/3/library/stdtypes.html#textseq
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+Fibonacci series 
+https://docs.python.org/3/tutorial/introduction.html#first-steps-towards-programming
+
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+https://docs.python.org/3/library/functions.html#repr
+https://docs.python.org/3/library/pprint.html#module-pprint
+
+f-string
+https://docs.python.org/3/whatsnew/3.6.html#whatsnew36-pep498
+https://docs.python.org/3/glossary.html#term-f-string
+https://docs.python.org/3/reference/lexical_analysis.html#f-strings
+https://docs.python.org/3/tutorial/inputoutput.html#formatted-string-literals
+
+
+10.6. Mathematics
+https://docs.python.org/3/tutorial/stdlib.html#mathematics
+https://docs.python.org/3/library/random.html | random — Generate pseudo-random numbers — Python 3.9.0a5 documentation
+https://docs.python.org/3/library/math.html | math — Mathematical functions — Python 3.8.2 documentation
+https://docs.python.org/3/library/math.html#math.floor
+https://docs.python.org/3/library/fractions.html | fractions — Rational numbers — Python 3.8.3 documentation
+
+
+10.8. Dates and Times
+https://docs.python.org/3/tutorial/stdlib.html#dates-and-times
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+8.2. calendar — General calendar-related functions
+https://docs.python.org/3/library/calendar.html
+
+16.3. time — Time access and conversions
+https://docs.python.org/3/library/time.html
+https://docs.python.org/3/library/time.html#functions
+https://docs.python.org/3/library/time.html#clock-id-constants
+https://docs.python.org/3/library/time.html#timezone-constants
+
+8.1. datetime — Basic date and time types
+https://docs.python.org/3/library/datetime.html
+https://docs.python.org/3/library/datetime.html#available-types
+https://docs.python.org/3/library/datetime.html#timedelta-objects
+https://docs.python.org/3/library/datetime.html#date-objects
+https://docs.python.org/3/library/datetime.html#datetime-objects
+https://docs.python.org/3/library/datetime.html#time-objects
+https://docs.python.org/3/library/datetime.html#tzinfo-objects
+https://docs.python.org/3/library/datetime.html#timezone-objects
+https://docs.python.org/3/library/datetime.html#strftime-and-strptime-behavior
+
+
+
+10.2. File Wildcards
+https://docs.python.org/3/tutorial/stdlib.html#file-wildcards
+11.7. glob — Unix style pathname pattern expansion
+https://docs.python.org/3/library/glob.html
+https://docs.python.org/3/library/fnmatch.html
+
+
+https://docs.python.org/3/library/http.html#http-status-codes
+
+https://requests.readthedocs.io/en/master/
+https://requests.readthedocs.io/en/master/#beloved-features
+
+
+Scraping
+https://docs.python.org/3.8/library/xml.etree.elementtree.html#xml.etree.ElementTree.Element.findall | xml.etree.ElementTree — The ElementTree XML API — Python 3.8.3 documentation
+
+## Math
+## Pattern Matching
+
+
+## Database
+
+https://docs.python.org/3/library/sqlite3.html#module-sqlite3
+
+https://www.sqlite.org/index.html
+https://docs.python.org/3/library/sqlite3.html
+
+
+## Structured Data 
+
+10.12. Batteries Included
+https://docs.python.org/3/library/json.html#module-json
+https://docs.python.org/3/library/csv.html#module-csv
+
+14.1. csv — CSV File Reading and Writing
+https://docs.python.org/3/library/csv.html
+https://docs.python.org/3/library/csv.html#module-contents
+https://docs.python.org/3/library/csv.html#dialects-and-formatting-parameters
+https://docs.python.org/3/library/csv.html#reader-objects
+https://docs.python.org/3/library/csv.html#writer-objects
+https://docs.python.org/3/library/csv.html#examples
+
+21. Internet Protocols and Support
+
+19.2. json — JSON encoder and decoder
+20.2. json — JSON encoder and decoder
+7.2.2. Saving structured data with json
+https://docs.python.org/3/tutorial/inputoutput.html#saving-structured-data-with-json
+
+https://docs.python.org/3/library/json.html
+
+https://docs.python.org/3/library/json.html#basic-usage
+https://docs.python.org/3/library/json.html#encoders-and-decoders
+https://docs.python.org/3/library/json.html#exceptions
+https://docs.python.org/3/library/json.html#standard-compliance-and-interoperability
+https://docs.python.org/3/library/json.html#character-encodings
+https://docs.python.org/3/library/json.html#infinite-and-nan-number-values
+https://docs.python.org/3/library/json.html#repeated-names-within-an-object
+https://docs.python.org/3/library/json.html#top-level-non-object-non-array-values
+https://docs.python.org/3/library/json.html#implementation-limitations
+https://docs.python.org/3/library/json.html#module-json.tool
+https://docs.python.org/3/library/json.html#command-line-options
+
+12.4. marshal — Internal Python object serialization
+https://docs.python.org/3/library/marshal.html
+
+
+
+10.3. Command Line Arguments
+https://docs.python.org/3/tutorial/stdlib.html#command-line-arguments
+https://docs.python.org/3/library/sys.html#sys.argv
+
+22.1. webbrowser — Convenient Web-browser controller
+https://docs.python.org/3/library/webbrowser.html
+https://docs.python.org/3/library/webbrowser.html#browser-controller-objects
+
+https://docs.python.org/3/howto/argparse.html
+"The program defines what arguments it requires, and argparse will figure out how to parse those out of sys.argv. The argparse module also automatically generates help and usage messages and issues errors when users give the program invalid arguments."
+
+Alternative
+16.5. getopt — C-style parser for command line options
+https://docs.python.org/3/library/getopt.html
+
+16.4. argparse — Parser for command-line options, arguments and sub-commands
+https://docs.python.org/3/library/argparse.html
+https://docs.python.org/3/library/argparse.html#example
+https://docs.python.org/3/library/argparse.html#creating-a-parser
+https://docs.python.org/3/library/argparse.html#adding-arguments
+https://docs.python.org/3/library/argparse.html#parsing-arguments
+https://docs.python.org/3/library/argparse.html#argumentparser-objects
+https://docs.python.org/3/library/argparse.html#prog
+https://docs.python.org/3/library/argparse.html#usage
+https://docs.python.org/3/library/argparse.html#description
+https://docs.python.org/3/library/argparse.html#epilog
+https://docs.python.org/3/library/argparse.html#parents
+https://docs.python.org/3/library/argparse.html#formatter-class
+https://docs.python.org/3/library/argparse.html#prefix-chars
+https://docs.python.org/3/library/argparse.html#fromfile-prefix-chars
+https://docs.python.org/3/library/argparse.html#argument-default
+https://docs.python.org/3/library/argparse.html#allow-abbrev
+https://docs.python.org/3/library/argparse.html#conflict-handler
+https://docs.python.org/3/library/argparse.html#add-help
+https://docs.python.org/3/library/argparse.html#the-add-argument-method
+https://docs.python.org/3/library/argparse.html#name-or-flags
+https://docs.python.org/3/library/argparse.html#action
+https://docs.python.org/3/library/argparse.html#nargs
+https://docs.python.org/3/library/argparse.html#const
+https://docs.python.org/3/library/argparse.html#default
+https://docs.python.org/3/library/argparse.html#type
+https://docs.python.org/3/library/argparse.html#choices
+https://docs.python.org/3/library/argparse.html#required
+https://docs.python.org/3/library/argparse.html#help
+https://docs.python.org/3/library/argparse.html#metavar
+https://docs.python.org/3/library/argparse.html#dest
+https://docs.python.org/3/library/argparse.html#action-classes
+https://docs.python.org/3/library/argparse.html#the-parse-args-method
+https://docs.python.org/3/library/argparse.html#option-value-syntax
+https://docs.python.org/3/library/argparse.html#invalid-arguments
+https://docs.python.org/3/library/argparse.html#arguments-containing
+https://docs.python.org/3/library/argparse.html#argument-abbreviations-prefix-matching
+https://docs.python.org/3/library/argparse.html#beyond-sys-argv
+https://docs.python.org/3/library/argparse.html#the-namespace-object
+https://docs.python.org/3/library/argparse.html#other-utilities
+https://docs.python.org/3/library/argparse.html#sub-commands
+https://docs.python.org/3/library/argparse.html#filetype-objects
+https://docs.python.org/3/library/argparse.html#argument-groups
+https://docs.python.org/3/library/argparse.html#mutual-exclusion
+https://docs.python.org/3/library/argparse.html#parser-defaults
+https://docs.python.org/3/library/argparse.html#printing-help
+https://docs.python.org/3/library/argparse.html#partial-parsing
+https://docs.python.org/3/library/argparse.html#customizing-file-parsing
+https://docs.python.org/3/library/argparse.html#exiting-methods
+https://docs.python.org/3/library/argparse.html#intermixed-parsing
+https://docs.python.org/3/library/argparse.html#upgrading-optparse-code
+
+
+Unicode HOWTO
+https://docs.python.org/3/howto/unicode.html
+
+
+https://docs.python.org/3/library/cgi.html
+https://docs.python.org/3/library/wsgiref.html
+
+22.5. urllib — URL handling modules
+
+https://docs.python.org/3/library/urllib.html
+
+
+26.1. typing — Support for type hints
+https://docs.python.org/3/library/typing.html
+
+
+14. File Formats
+https://docs.python.org/3/library/fileformats.html
+
+6. Text Processing Services
+https://docs.python.org/3/library/text.html
+
+21. Structured Markup Processing Tools
+21.1. html — HyperText Markup Language support
+21.2. html.parser — Simple HTML and XHTML parser
+21.3. html.entities — Definitions of HTML general entities
+
+20. Structured Markup Processing Tools
+https://docs.python.org/3/library/markup.html
+20.1. html — HyperText Markup Language support
+https://docs.python.org/3/library/html.html
+
+https://docs.python.org/3/library/html.parser.html
+https://docs.python.org/3/library/html.parser.html#example-html-parser-application
+https://docs.python.org/3/library/html.parser.html#htmlparser-methods
+https://docs.python.org/3/library/html.parser.html#examples
+https://docs.python.org/3/library/html.entities.html
+
+
+22.22. http.server — HTTP servers
+22.23. http.cookies — HTTP state management
+22.24. http.cookiejar — Cookie handling for HTTP clients
+
+Not recommended for production
+https://docs.python.org/3/library/http.server.html
+https://docs.python.org/3/library/http.cookies.html
+https://docs.python.org/3/library/http.cookiejar.html
+-->
+
+
+
+## Formatting
+
+8.12. reprlib — Alternate repr() implementation
+https://docs.python.org/3/library/reprlib.html
+https://docs.python.org/3/library/reprlib.html#repr-objects
+https://docs.python.org/3/library/reprlib.html#subclassing-repr-objects
+
+https://docs.python.org/3/tutorial/inputoutput.html#manual-string-formatting
+
+7.1.1. Old string formatting
+https://docs.python.org/3/tutorial/inputoutput.html#the-string-format-method
+https://docs.python.org/3/tutorial/inputoutput.html#old-string-formatting
+https://docs.python.org/3/library/stdtypes.html#printf-style-string-formatting
+
+f-string
+
+8.11. pprint — Data pretty printer
+https://docs.python.org/3/library/pprint.html
+https://docs.python.org/3/library/pprint.html#prettyprinter-objects
+https://docs.python.org/3/library/pprint.html#example
+
+7.1. Fancier Output Formatting
+https://docs.python.org/3/tutorial/inputoutput.html#fancier-output-formatting
+
+11.1. Output Formatting
+https://docs.python.org/3/tutorial/stdlib2.html#output-formatting
+10.4. Error Output Redirection and Program Termination
+https://docs.python.org/3/tutorial/stdlib.html#error-output-redirection-and-program-termination
+
+11.2. Templating
+https://docs.python.org/3/tutorial/stdlib2.html#templating
+11.3. Working with Binary Data Record Layouts
+https://docs.python.org/3/tutorial/stdlib2.html#working-with-binary-data-record-layouts
+
+34.1. formatter — Generic output formatting
+https://docs.python.org/3/library/formatter.html
+https://docs.python.org/3/library/formatter.html#the-formatter-interface
+https://docs.python.org/3/library/formatter.html#formatter-implementations
+https://docs.python.org/3/library/formatter.html#the-writer-interface
+https://docs.python.org/3/library/formatter.html#writer-implementations
 
 
 ## Random
