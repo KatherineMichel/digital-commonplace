@@ -1034,11 +1034,6 @@ https://docs.python.org/3/library/selectors.html#examples
 https://docs.python.org/3/library/mmap.html
 
 
-## I/O
-
-16.2. io — Core tools for working with streams
-https://docs.python.org/3/library/io.html
-
 ## Concurrent Execution
 
 18. contextvars — Context Variables
@@ -1047,49 +1042,13 @@ https://docs.python.org/3/library/io.html
 18.3. asyncio support
 
 https://docs.python.org/3/library/contextvars.html
-
-## Async
-
-17. Concurrent Execution
-17.1. threading — Thread-based parallelism
-17.2. multiprocessing — Process-based parallelism
-17.3. The concurrent package
-17.4. concurrent.futures — Launching parallel tasks
-17.5. subprocess — Subprocess management
-17.6. sched — Event scheduler
-17.7. queue — A synchronized queue class
-17.8. _thread — Low-level threading API
-17.9. _dummy_thread — Drop-in replacement for the _thread module
-17.10. dummy_threading — Drop-in replacement for the threading module
-
-19. Interprocess Communication and Networking
-19.1. socket — Low-level networking interface
-19.2. ssl — TLS/SSL wrapper for socket objects
-19.3. select — Waiting for I/O completion
-19.4. selectors — High-level I/O multiplexing
-19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-19.6. asyncore — Asynchronous socket handler
-19.7. asynchat — Asynchronous socket command/response handler
-19.8. signal — Set handlers for asynchronous events
-19.9. mmap — Memory-mapped file support
-
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-
-Sockets
-
-19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-19.6. asyncore — Asynchronous socket handler
-19.7. asynchat — Asynchronous socket command/response handler
-19.8. signal — Set handlers for asynchronous events
-
-https://docs.python.org/3/library/asyncio.html
-https://docs.python.org/3/library/asyncore.html
-https://docs.python.org/3/library/asynchat.html
-https://docs.python.org/3/library/signal.html
-
-
+https://docs.python.org/3/library/contextvars.html#context-variables
+https://docs.python.org/3/library/contextvars.html#manual-context-management
+https://docs.python.org/3/library/contextvars.html#asyncio-support
 
 ## I/O
+
+"Streams are high-level async/await-ready primitives to work with network connections. Streams allow sending and receiving data without using callbacks or low-level protocols and transports."
 
 16.2. io — Core tools for working with streams
 https://docs.python.org/3/library/io.html
@@ -1110,126 +1069,9 @@ https://docs.python.org/3/library/io.html#id3
 https://docs.python.org/3/library/io.html#multi-threading
 https://docs.python.org/3/library/io.html#reentrancy
 
-## Concurrent Execution
-
-18. contextvars — Context Variables
-18.1. Context Variables
-18.2. Manual Context Management
-18.3. asyncio support
-
-https://docs.python.org/3/library/contextvars.html
-https://docs.python.org/3/library/contextvars.html#context-variables
-https://docs.python.org/3/library/contextvars.html#manual-context-management
-https://docs.python.org/3/library/contextvars.html#asyncio-support
-
-17.6. sched — Event scheduler
-17.7. queue — A synchronized queue class
-
-17.8. _thread — Low-level threading API
-17.9. _dummy_thread — Drop-in replacement for the _thread module
-17.10. dummy_threading — Drop-in replacement for the threading module
-
-17. Concurrent Execution
-17.1. threading — Thread-based parallelism
-17.2. multiprocessing — Process-based parallelism
-17.3. The concurrent package
-17.4. concurrent.futures — Launching parallel tasks
-17.5. subprocess — Subprocess management
-
-https://docs.python.org/3/library/sched.html
-https://docs.python.org/3/library/sched.html#scheduler-objects
-
-https://docs.python.org/3/library/queue.html
-https://docs.python.org/3/library/queue.html#queue-objects
-https://docs.python.org/3/library/queue.html#simplequeue-objects
-
-https://docs.python.org/3/library/concurrency.html
-
-
-## Threading
-
-https://docs.python.org/3/library/threading.html
-https://docs.python.org/3/library/threading.html#thread-local-data
-https://docs.python.org/3/library/threading.html#thread-objects
-https://docs.python.org/3/library/threading.html#lock-objects
-https://docs.python.org/3/library/threading.html#rlock-objects
-https://docs.python.org/3/library/threading.html#condition-objects
-https://docs.python.org/3/library/threading.html#semaphore-objects
-https://docs.python.org/3/library/threading.html#semaphore-example
-https://docs.python.org/3/library/threading.html#event-objects
-https://docs.python.org/3/library/threading.html#timer-objects
-https://docs.python.org/3/library/threading.html#barrier-objects
-https://docs.python.org/3/library/threading.html#using-locks-conditions-and-semaphores-in-the-with-statement
-
-## Multiprocessing
-
-https://docs.python.org/3/library/multiprocessing.html
-https://docs.python.org/3/library/multiprocessing.html#introduction
-https://docs.python.org/3/library/multiprocessing.html#the-process-class
-https://docs.python.org/3/library/multiprocessing.html#contexts-and-start-methods
-https://docs.python.org/3/library/multiprocessing.html#exchanging-objects-between-processes
-https://docs.python.org/3/library/multiprocessing.html#synchronization-between-processes
-https://docs.python.org/3/library/multiprocessing.html#sharing-state-between-processes
-https://docs.python.org/3/library/multiprocessing.html#using-a-pool-of-workers
-https://docs.python.org/3/library/multiprocessing.html#reference
-https://docs.python.org/3/library/multiprocessing.html#process-and-exceptions
-https://docs.python.org/3/library/multiprocessing.html#pipes-and-queues
-https://docs.python.org/3/library/multiprocessing.html#miscellaneous
-https://docs.python.org/3/library/multiprocessing.html#connection-objects
-https://docs.python.org/3/library/multiprocessing.html#synchronization-primitives
-https://docs.python.org/3/library/multiprocessing.html#shared-ctypes-objects
-https://docs.python.org/3/library/multiprocessing.html#managers
-https://docs.python.org/3/library/multiprocessing.html#proxy-objects
-https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.pool
-https://docs.python.org/3/library/multiprocessing.html#authentication-keys
-https://docs.python.org/3/library/multiprocessing.html#logging
-https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.dummy
-https://docs.python.org/3/library/multiprocessing.html#programming-guidelines
-https://docs.python.org/3/library/multiprocessing.html#all-start-methods
-https://docs.python.org/3/library/multiprocessing.html#the-spawn-and-forkserver-start-methods
-https://docs.python.org/3/library/multiprocessing.html#examples
-
-## Concurrent
-
-https://docs.python.org/3/library/concurrent.html
-
-https://docs.python.org/3/library/concurrent.futures.html
-https://docs.python.org/3/library/concurrent.futures.html#executor-objects
-https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor
-https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor-example
-https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor
-https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor-example
-https://docs.python.org/3/library/concurrent.futures.html#future-objects
-https://docs.python.org/3/library/concurrent.futures.html#module-functions
-https://docs.python.org/3/library/concurrent.futures.html#exception-classes
-
-## Sub Process
-
-https://docs.python.org/3/library/subprocess.html
-https://docs.python.org/3/library/subprocess.html#using-the-subprocess-module
-https://docs.python.org/3/library/subprocess.html#frequently-used-arguments
-https://docs.python.org/3/library/subprocess.html#popen-constructor
-https://docs.python.org/3/library/subprocess.html#exceptions
-https://docs.python.org/3/library/subprocess.html#security-considerations
-https://docs.python.org/3/library/subprocess.html#popen-objects
-https://docs.python.org/3/library/subprocess.html#windows-popen-helpers
-https://docs.python.org/3/library/subprocess.html#windows-constants
-https://docs.python.org/3/library/subprocess.html#older-high-level-api
-https://docs.python.org/3/library/subprocess.html#replacing-older-functions-with-the-subprocess-module
-https://docs.python.org/3/library/subprocess.html#replacing-bin-sh-shell-backquote
-https://docs.python.org/3/library/subprocess.html#replacing-shell-pipeline
-https://docs.python.org/3/library/subprocess.html#replacing-os-system
-https://docs.python.org/3/library/subprocess.html#replacing-the-os-spawn-family
-https://docs.python.org/3/library/subprocess.html#replacing-os-popen-os-popen2-os-popen3
-https://docs.python.org/3/library/subprocess.html#replacing-functions-from-the-popen2-module
-https://docs.python.org/3/library/subprocess.html#legacy-shell-invocation-functions
-https://docs.python.org/3/library/subprocess.html#notes
-https://docs.python.org/3/library/subprocess.html#converting-an-argument-sequence-to-a-string-on-windows
-
 
 ## Async
 
-<!--
 17. Concurrent Execution
 17.1. threading — Thread-based parallelism
 17.2. multiprocessing — Process-based parallelism
@@ -1247,12 +1089,30 @@ https://docs.python.org/3/library/subprocess.html#converting-an-argument-sequenc
 19.2. ssl — TLS/SSL wrapper for socket objects
 19.3. select — Waiting for I/O completion
 19.4. selectors — High-level I/O multiplexing
-19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-19.6. asyncore — Asynchronous socket handler
-19.7. asynchat — Asynchronous socket command/response handler
-19.8. signal — Set handlers for asynchronous events
+
 19.9. mmap — Memory-mapped file support
--->
+
+
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+https://docs.python.org/3/library/queue.html#module-queue
+https://docs.python.org/3/library/queue.html#queue.Queue
+
+
+
+
+https://docs.python.org/3/library/sched.html
+https://docs.python.org/3/library/sched.html#scheduler-objects
+
+https://docs.python.org/3/library/queue.html
+https://docs.python.org/3/library/queue.html#queue-objects
+https://docs.python.org/3/library/queue.html#simplequeue-objects
+
+https://docs.python.org/3/library/concurrency.html
+
+
+## Async
 
 https://docs.python.org/3/library/asyncio.html
 https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
@@ -1293,6 +1153,8 @@ https://docs.python.org/3/library/dummy_threading.html
 https://docs.python.org/3/library/_thread.html
 17.10. _dummy_thread — Drop-in replacement for the _thread module
 https://docs.python.org/3/library/_dummy_thread.html
+
+
 
 ## Async
 
@@ -1464,6 +1326,87 @@ https://docs.python.org/3/library/ssl.html#tls-1-3
 https://docs.python.org/3/library/ssl.html#libressl-support
 
 
+## Threading
+
+https://docs.python.org/3/library/threading.html
+https://docs.python.org/3/library/threading.html#thread-local-data
+https://docs.python.org/3/library/threading.html#thread-objects
+https://docs.python.org/3/library/threading.html#lock-objects
+https://docs.python.org/3/library/threading.html#rlock-objects
+https://docs.python.org/3/library/threading.html#condition-objects
+https://docs.python.org/3/library/threading.html#semaphore-objects
+https://docs.python.org/3/library/threading.html#semaphore-example
+https://docs.python.org/3/library/threading.html#event-objects
+https://docs.python.org/3/library/threading.html#timer-objects
+https://docs.python.org/3/library/threading.html#barrier-objects
+https://docs.python.org/3/library/threading.html#using-locks-conditions-and-semaphores-in-the-with-statement
+
+## Multiprocessing
+
+https://docs.python.org/3/library/multiprocessing.html
+https://docs.python.org/3/library/multiprocessing.html#introduction
+https://docs.python.org/3/library/multiprocessing.html#the-process-class
+https://docs.python.org/3/library/multiprocessing.html#contexts-and-start-methods
+https://docs.python.org/3/library/multiprocessing.html#exchanging-objects-between-processes
+https://docs.python.org/3/library/multiprocessing.html#synchronization-between-processes
+https://docs.python.org/3/library/multiprocessing.html#sharing-state-between-processes
+https://docs.python.org/3/library/multiprocessing.html#using-a-pool-of-workers
+https://docs.python.org/3/library/multiprocessing.html#reference
+https://docs.python.org/3/library/multiprocessing.html#process-and-exceptions
+https://docs.python.org/3/library/multiprocessing.html#pipes-and-queues
+https://docs.python.org/3/library/multiprocessing.html#miscellaneous
+https://docs.python.org/3/library/multiprocessing.html#connection-objects
+https://docs.python.org/3/library/multiprocessing.html#synchronization-primitives
+https://docs.python.org/3/library/multiprocessing.html#shared-ctypes-objects
+https://docs.python.org/3/library/multiprocessing.html#managers
+https://docs.python.org/3/library/multiprocessing.html#proxy-objects
+https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.pool
+https://docs.python.org/3/library/multiprocessing.html#authentication-keys
+https://docs.python.org/3/library/multiprocessing.html#logging
+https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.dummy
+https://docs.python.org/3/library/multiprocessing.html#programming-guidelines
+https://docs.python.org/3/library/multiprocessing.html#all-start-methods
+https://docs.python.org/3/library/multiprocessing.html#the-spawn-and-forkserver-start-methods
+https://docs.python.org/3/library/multiprocessing.html#examples
+
+## Concurrent
+
+https://docs.python.org/3/library/concurrent.html
+
+https://docs.python.org/3/library/concurrent.futures.html
+https://docs.python.org/3/library/concurrent.futures.html#executor-objects
+https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor
+https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor-example
+https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor
+https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor-example
+https://docs.python.org/3/library/concurrent.futures.html#future-objects
+https://docs.python.org/3/library/concurrent.futures.html#module-functions
+https://docs.python.org/3/library/concurrent.futures.html#exception-classes
+
+## Sub Process
+
+https://docs.python.org/3/library/subprocess.html
+https://docs.python.org/3/library/subprocess.html#using-the-subprocess-module
+https://docs.python.org/3/library/subprocess.html#frequently-used-arguments
+https://docs.python.org/3/library/subprocess.html#popen-constructor
+https://docs.python.org/3/library/subprocess.html#exceptions
+https://docs.python.org/3/library/subprocess.html#security-considerations
+https://docs.python.org/3/library/subprocess.html#popen-objects
+https://docs.python.org/3/library/subprocess.html#windows-popen-helpers
+https://docs.python.org/3/library/subprocess.html#windows-constants
+https://docs.python.org/3/library/subprocess.html#older-high-level-api
+https://docs.python.org/3/library/subprocess.html#replacing-older-functions-with-the-subprocess-module
+https://docs.python.org/3/library/subprocess.html#replacing-bin-sh-shell-backquote
+https://docs.python.org/3/library/subprocess.html#replacing-shell-pipeline
+https://docs.python.org/3/library/subprocess.html#replacing-os-system
+https://docs.python.org/3/library/subprocess.html#replacing-the-os-spawn-family
+https://docs.python.org/3/library/subprocess.html#replacing-os-popen-os-popen2-os-popen3
+https://docs.python.org/3/library/subprocess.html#replacing-functions-from-the-popen2-module
+https://docs.python.org/3/library/subprocess.html#legacy-shell-invocation-functions
+https://docs.python.org/3/library/subprocess.html#notes
+https://docs.python.org/3/library/subprocess.html#converting-an-argument-sequence-to-a-string-on-windows
+
+
 ## Data Structures and Algorithms
 
 Data Structures- Linear
@@ -1493,6 +1436,19 @@ Concepts- Memory (Stack vs. Heap)
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
+
+<!--
+11.7. Tools for Working with Lists
+https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
+https://docs.python.org/3/library/array.html#module-array
+https://docs.python.org/3/library/array.html#array.array
+https://docs.python.org/3/library/collections.html#module-collections
+https://docs.python.org/3/library/collections.html#collections.deque
+https://docs.python.org/3/library/bisect.html#module-bisect
+https://docs.python.org/3/library/heapq.html#module-heapq
+11.8. Decimal Floating Point Arithmetic
+https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
+-->
 
 ## Lists as Stack or Queue
 
@@ -2473,25 +2429,6 @@ https://docs.python.org/3/tutorial/appendix.html#interactive-mode
 
 
 https://docs.python.org/3/tutorial/appendix.html#the-customization-modules
-
-
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-https://docs.python.org/3/library/queue.html#module-queue
-https://docs.python.org/3/library/queue.html#queue.Queue
-
-11.7. Tools for Working with Lists
-https://docs.python.org/3/tutorial/stdlib2.html#tools-for-working-with-lists
-https://docs.python.org/3/library/array.html#module-array
-https://docs.python.org/3/library/array.html#array.array
-https://docs.python.org/3/library/collections.html#module-collections
-https://docs.python.org/3/library/collections.html#collections.deque
-https://docs.python.org/3/library/bisect.html#module-bisect
-https://docs.python.org/3/library/heapq.html#module-heapq
-11.8. Decimal Floating Point Arithmetic
-https://docs.python.org/3/tutorial/stdlib2.html#decimal-floating-point-arithmetic
 
 
 
