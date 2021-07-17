@@ -3,6 +3,22 @@
 ## General Notes
 
 <!--
+https://docs.python.org/3/library/functions.html#chr | Built-in Functions — Python 3.9.5 documentation
+https://docs.python.org/3/library/functions.html#ord | Built-in Functions — Python 3.9.5 documentation
+
+https://www.w3schools.com/python/ref_func_sorted.asp | Python sorted() Function
+https://www.google.com/search?q=sort+versus+sorted&oq=sort+versus+sorted&aqs=chrome..69i57j0i10l7j0i10i22i30.3847j0j7&sourceid=chrome&ie=UTF-8 | sort versus sorted - Google Search
+
+https://stackoverflow.com/questions/373419/whats-the-difference-between-passing-by-reference-vs-passing-by-value | language agnostic - What's the difference between passing by reference vs. passing by value? - Stack Overflow
+
+https://www.w3schools.com/python/ref_func_max.asp | Python max() Function
+
+dir()
+https://www.youtube.com/watch?v=LxCdn18eGng&feature=emb_logo
+
+https://twitter.com/FlippingMyBits/status/1403441743270322178 | Flipping Bits on Twitter: "One line to reverse them all (all of the lists, that is) #pythonprogramming #Python #pythonlearning https://t.co/sVsTLG0kQ7" / Twitter
+
+
 https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
 
 os and pathlib
