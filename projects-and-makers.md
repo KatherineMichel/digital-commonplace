@@ -34,21 +34,9 @@ https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitte
 https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
 https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
 
-Carlton Weeknotes
-https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
-https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
-https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
-https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
-
 Simon Automation
 https://twitter.com/simonw/status/1331380727754067969 | Simon Willison on Twitter: "Today I was reminded of how insanely performant ripgrep is - I wanted to search across all of my checked out Git repos (~500 folders) so I ran rg '\.config\(' -g '*.py' in the parent directory and it gave me results across all 500 projects in ~2.5 seconds" / Twitter
 
-Weeknotes Methodology
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-https://twitter.com/simonw/status/1250652889938186240
-https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
-https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
-https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
 
 Simon's Blog
 https://simonwillison.net/
