@@ -176,18 +176,6 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 -->
 
-<!--
-## Fun Open Source Stuff
-
-Kenneth
-https://github.com/erikbern/git-of-theseus | erikbern/git-of-theseus: Analyze how a Git repo grows over time
-
-https://esoteric.codes/blog/stack-trace-art | Stack Trace Art - esoteric.codes
-http://thehumbleprogrammer.com/stack-trace-art/ | Stack Trace Art
-
-Checkbox Art/ASCII Art
-https://twitter.com/realpython/status/1004811256560324608 | Real Python on Twitter: "Create beautiful ASCII art with just three lines of Python... import ascii output = ascii.loadFromUrl("https://t.co/B9glpiP0G2") print(output) (Thanks for this Dave Graton) #python #computerscience #DataScience #pythontips #pythontricks… https://t.co/pJAN2dvyjb"
--->
 
 <!--
 ## Learning
@@ -276,11 +264,53 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
+Jeff
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
+
+
+https://opensourcestash.com/ | Open Source Stash
+
+Wow
+https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
+
+KJ
+https://diversityorgs.tech/ | DiversityOrgs.Tech
+
+https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
+
+http://meowni.ca/posts/emoji-emoji-emoji/
+-->
+
+
+
+<!--
+Portfolio
+https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
+
+https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
+https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
+
+
 https://www.youtube.com/watch?v=4Z-pMC3WMg4 | Tips for Making Developer Content with Ali Spittel - Twitter Spaces vs Clubhouse? - YouTube
 https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to egghead like a pro.
 
 Important
 https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
+
+
+https://free-for.dev/#/ | Free for developers
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
+https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
 
 
 ## Trends
@@ -310,40 +340,10 @@ https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉
 
 https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
 
-
-Portfolio
-https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
-
-https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
-https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
-
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
-https://github.com/features/codespaces | Codespaces
-
-Important- VS Code in browser
-https://github1s.com/django/django/blob/HEAD/README.rst | README.rst — django/django — GitHub1s
-
-https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes | Git - Working with Remotes
-
-https://clig.dev/ | Command Line Interface Guidelines
-
-Important
-https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
-https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
-https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
-https://gist.github.com/ | Create a new Gist
-https://www.reddit.com/r/learnpython/ | Python Education
+Papers
+https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://twitter.com/an_open_mind/status/1314541192458260482
 
 
 Makers
@@ -368,12 +368,39 @@ https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tuto
 Important
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
 
-Papers
-https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
-https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
-https://twitter.com/an_open_mind/status/1314541192458260482
+
+https://clig.dev/ | Command Line Interface Guidelines
+
+Important
+https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
+https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
+https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
+https://gist.github.com/ | Create a new Gist
+https://www.reddit.com/r/learnpython/ | Python Education
 -->
 
+<!--
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+
+https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://github.com/webpro/programming-principles
+
+https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+-->
 
 <!--
 ## Management
@@ -390,8 +417,9 @@ https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engine
 
 https://github.com/joelparkerhenderson/ground_rules
 https://github.com/joelparkerhenderson/ground_rules#see-also
+-->
 
-
+<!--
 ## Product
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
@@ -407,8 +435,9 @@ https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon
 https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
 
 https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
+-->
 
-
+<!--
 ## Testing
 
 Testing
@@ -436,8 +465,9 @@ https://robotframework.org/
 
 App and browser testing
 https://www.browserstack.com/
+-->
 
-
+<!--
 ## UX/UI
 
 https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
@@ -453,8 +483,9 @@ https://github.com/google/software-product-sprint | google/software-product-spri
 
 Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+-->
 
-
+<!--
 ## Interesting
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
@@ -470,25 +501,10 @@ https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
-
-Google Cloud
-https://github.com/gregsramblings/google-cloud-4-words | gregsramblings/google-cloud-4-words: The Google Cloud Developer's Cheat Sheet
-https://twitter.com/gregsramblings/status/1366841332312907780 | Greg Wilson on Twitter: "All 220+ Google Cloud products, services, and tools described in 4 words or less — https://t.co/b1xxsBHN86 including @GoogleCloudTech, @Firebase, @GMapsPlatform, and @WorkspaceDevs. Blog post below! https://t.co/QGG37pfGH8" / Twitter
-
-AWS
-https://www.awsgeek.com
-
-* [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/)
-https://github.com/awslabs/aws-well-architected-labs | awslabs/aws-well-architected-labs: Documentation and code to help you learn, measure, and build using architectural best practices.
+-->
 
 
-
-https://free-for.dev/#/ | Free for developers
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
-https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
-
+<!--
 ## Docs
 
 Docs Audit
@@ -502,102 +518,19 @@ https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on 
 https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
 -->
 
-
-
-
-<!--
-Jeff
-https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
-
-
-https://opensourcestash.com/ | Open Source Stash
-
-Wow
-https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
-
-KJ
-https://diversityorgs.tech/ | DiversityOrgs.Tech
-
-
-
-https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
-
-http://meowni.ca/posts/emoji-emoji-emoji/
-
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-
-
-https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://github.com/webpro/programming-principles
-
-https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
-
-https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
-
-
-Mac
-https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/PropertyLists/Introduction/Introduction.html | Introduction to Property Lists
-
-
-
-vscode html css support
-Docs driven dev
-Divio Docs, GitHub Docs
-Requests, AJAX, JSON, XML, XPath, GraphQL, SQLite, Schema Org, Open Graph Protocol Schema, Open Search, Microformats
-Pre-mortem and Postmortem
-Unix and bash
-
-
-Mac Scrips
-https://github.com/munki/macadmin-scripts | munki/macadmin-scripts: Scripts of possible interest to macOS admins
-
-https://github.com/flipperpa/home/ | FlipperPA/home: An example of my home directory.
-
-
-## Automation and Container
-
-https://imacrayon.com/words/dotfiles/ | A Clean Start With Dotfiles | I'm a crayon
-
-Terraform
-
-VS Code/Container
-https://code.visualstudio.com/docs/containers/quickstart-python | Build and run a Python app in a container
-
-https://github.com/jessfraz/dockerfiles
-
-Container
-https://www.docker.com/get-started | Get Started with Docker | Docker
-https://docs.docker.com/compose/django/ | Quickstart: Compose and Django | Docker Documentation
-https://docs.docker.com/engine/reference/builder/ | | Docker Documentation
-
-* [Docker for Mac](https://docs.docker.com/docker-for-mac)
-
-https://podman.io/
-
-https://www.packer.io/ | Packer by HashiCorp
-https://github.com/hashicorp/packer | hashicorp/packer: Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
-
-https://devcenter.heroku.com/articles/platform-api-reference
-https://blog.heroku.com/json-schema-document-debug-apis | Saved by the Schema: Using JSON Schema to Document, Test, and Debug APIs | Heroku
-https://devcenter.heroku.com/articles/logging#view-logs | Logging | Heroku Dev Center
-https://blog.heroku.com/see_python_see_python_go_go_python_go | See Python, See Python Go, Go Python Go | Heroku
--->
-
 <!--
 ## Security
+
+Feross
+https://www.youtube.com/watch?v=XTcqlOFhpPI
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
+
+Feross
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
+https://twitter.com/feross/status/1242173582169407488
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 
 https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
 https://owasp.org/www-project-samm/ | OWASP SAMM
@@ -614,82 +547,6 @@ https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | f
 
 https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
 https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
--->
-
-
-
-<!--
-Feross
-https://www.youtube.com/watch?v=XTcqlOFhpPI
-https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
-
-Feross
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-https://twitter.com/feross/status/1242173582169407488
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-
-
-Julia Evans
-
-https://twitter.com/b0rk/status/986424989648936960 | 🔎Julia Evans🔍 on Twitter: "floating point… "
-https://twitter.com/b0rk/status/1002941079610683392 | 🔎Julia Evans🔍 on Twitter: "a “further reading” page for the end of my command line tools zine… "
-
-https://wizardzines.com/comics/ | https://wizardzines.com/comics/
-https://twitter.com/b0rk
-https://github.com/jvns/
-
-https://jvns.ca/blog/2015/02/17/how-i-learned-to-program-in-10-years/ | How I learned to program in 10 years - Julia Evans
-https://jvns.ca/blog/2019/09/13/a-year-explaining-computer-things/ | Taking a year to explain computer things - Julia Evans
-
-Collections
-https://jvns.ca/blog/2019/10/21/print-collection-of-my-first-7-zines/ | Your Linux Toolbox: a box set of my free zines - Julia Evans
-http://jvns.ca/blog/2016/11/27/more-linux-drawings/
-
-Non-code
-https://twitter.com/b0rk/status/917252215752019968 | 🔎Julia Evans🔍 on Twitter: "how to be a wizard programmer… "
-https://jvns.ca/blog/2018/02/10/positive-constructive-feedback/ | Writing performance reviews with positive constructive feedback - Julia Evans
-https://jvns.ca/teach-tech-with-cartoons/ | How to teach technical concepts with cartoons - Julia Evans
-https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
-https://twitter.com/b0rk/status/1280873423988719619 | Julia Evans on Twitter: "how to give good feedback https://t.co/sEY2bMG3NF" / Twitter
-https://jvns.ca/blog/2017/09/03/telling-people-what-you-re-working-on/ | Telling people what you're working on - Julia Evans
-https://jvns.ca/blog/2017/03/20/blogging-principles/ | Blogging principles I use - Julia Evans
-https://jvns.ca/blog/2013/12/27/guys-guys-guys/
-
-Refactoring
-https://twitter.com/b0rk/status/954070493887377409 | ⚡Julia Evans⚡ on Twitter: "refactoring strategy right now: 1. write a doc explaining the code structure 2. think "hmm, this is confusing" 3. refactor code to make it l… https://t.co/xxXpLl1EGg"
-
-Containers
-https://wizardzines.com/zines/containers/ | How Containers Work!
-
-JavaScript
-https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/ | A little bit of plain Javascript can do a lot
-
-Browser
-https://twitter.com/b0rk/status/1303331003876999168 | 🔎Julia Evans🔍 on Twitter: "browser default stylesheets https://t.co/5PIjMpqddr" / Twitter
-
-https://github.com/jvns/shell-examples | jvns/shell-examples
-
-Bash
-https://twitter.com/b0rk/status/1000208860060307456 | 🔎Julia Evans🔍 on Twitter: "a few bash tricks… "
-https://wizardzines.com/comics/parameter-expansion/ | bash parameter expansion
-https://wizardzines.com/comics/bash-if-statements/
-https://wizardzines.com/comics/bash-errors/
-https://twitter.com/simonw/status/1314384418170003456
-
-/proc
-https://twitter.com/b0rk/status/981159808832286720
-
-Perf
-https://jvns.ca/perf-cheat-sheet.pdf | perf-cheat-sheet.pdf
-
-Debugging
-https://twitter.com/b0rk/status/1144011000208863239 | 🔎Julia Evans🔍 on Twitter: "amazing debugger features… "
-https://twitter.com/b0rk/status/1145350304583622656 | 🔎Julia Evans🔍 on Twitter: "how I got better at debugging… "
-https://jvns.ca/blog/2019/06/23/a-few-debugging-resources/ | What does debugging a program look like? - Julia Evans
-https://twitter.com/b0rk/status/1143509975492374528 | 🔎Julia Evans🔍 on Twitter: "more assumptions to check while debugging (see https://t.co/nhLOmiVkJJ for more like this)… "
-https://twitter.com/andrewgodwin/status/1147272951118483457
 -->
 
 
