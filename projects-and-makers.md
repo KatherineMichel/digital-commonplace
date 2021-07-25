@@ -1,6 +1,16 @@
 # Makers and Projects
 
 <!--
+Git Scraping/Flat Data
+https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
+https://twitter.com/github/status/1394767308212502528 | GitHub on Twitter: "Take a peek into lightweight data workflows from the future. 🔮 The Developer Experience research team in GitHub’s Office of the CTO has released Flat Data!" / Twitter
+https://twitter.com/simonw/status/1394729289346519041 | Simon Willison on Twitter: "This is so exciting! Git scraping is now an officially supported pattern at GitHub, and they've released a flurry of neat new tools that help people take advantage of the technique" / Twitter
+https://github.com/marketplace/actions/flat-data | Flat Data · Actions · GitHub Marketplace
+https://twitter.com/Wattenberger/status/1395008085782061056 | Amelia Wattenberger 🍓 華曼如 on Twitter: "not to play favorites, but this is 💯% my favorite part of the new Flat Data workflow. And one that can be used all on its own! Add "flat" to any https://t.co/166YAljBjc repo url and browse through any csv/json file, with helpful bits like filter, sort, sticky col, diffs, etc!" / Twitter
+https://twitter.com/kachkaev/status/1395141903633506312 | Alexander Kachkaev on Twitter: "@githubOCTO Using git to manage data is a really powerful approach! I used it to track changes in a recent #OpenStreetMap mapping party for 40+ days. Generating nightly json snapshots of ≈50K buildings made it easy to analyse results! Vises for data I stored in git: https://t.co/3iysPbQ4WI https://t.co/9Yo49bDh4e" / Twitter
+Important
+https://twitter.com/aborruso/status/1395407403802365953 | Andrea Borruso on Twitter: "Using bash as postprocess script for GitHub's Flat Data actions cc @githubOCTO 🌟🌟 Flat Data 🌟🌟 Thank you to @pierrotsmnrd for its inspirational python way https://t.co/oPqThFyYcH" / Twitter
+
 https://twitter.com/simonw/status/1343307038734962690 | Simon Willison on Twitter: "@jasoncwarner @datasetteproj The Mozilla example is interesting because they don't have to do a full deploy for a content change - they effectively mirror their SQLite database file to all of their frontend machines and have a cron that updates it on a schedule https://t.co/rhWWta6Gh8" / Twitter
 
 Simon
