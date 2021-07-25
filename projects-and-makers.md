@@ -1,6 +1,11 @@
 # Makers and Projects
 
 <!--
+Makers
+https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
+https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
+https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
+
 Jeff
 https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
 
@@ -160,16 +165,6 @@ https://twitter.com/simonw/status/1306636974204174336 | Simon Willison on Twitte
 
 Git Scraping
 https://twitter.com/simonw/status/1314654153646383104
--->
-
-<!--
-## People
-
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 -->
 
 ## Streaming
