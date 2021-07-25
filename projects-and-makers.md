@@ -8,7 +8,6 @@ https://twitter.com/carltongibson/status/1317088305910026244 | Carlton Gibson ðŸ
 https://twitter.com/simonw/status/1332309496824172544 | Simon Willison on Twitter: "These are really nice - and this notebook lets you interactively adjust things like colors and line-widths for the different counties and zip codes" / Twitter
 
 
-
 NYT JSON
 https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
 https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
