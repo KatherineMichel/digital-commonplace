@@ -285,6 +285,55 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+
+<!--
+## People
+
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+
+## Trends
+
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+
+Project
+https://bloggingfordevs.com/trends/how-it-works/ | Blogging for Devs Trends: How It Works
+
+Trends
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+
+Important
+https://dev.to/ | DEV Community 👩‍💻👨‍💻
+
+
+Django News
+https://django-news.com/ | Django News
+https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
+https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
+
+https://www.djangoproject.com/community/ | Django Community | Django
+https://django-jobs.cog.gs/ | Django Jobs
+
+https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
+
+Papers
+https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://twitter.com/an_open_mind/status/1314541192458260482
+-->
+
+
 ## Django and Python News
 
 <!--
