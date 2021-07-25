@@ -25,6 +25,8 @@ Madelene Campos: Understanding Django
 https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
 
 https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+https://www.reddit.com/r/learnpython/ | Python Education
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
 
 https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
 -->
@@ -201,10 +203,6 @@ https://www.nature.com/ | Nature
 -->
 
 <!--
-https://www.reddit.com/r/learnpython/ | Python Education
-
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
 ## Trends
 
 https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
@@ -560,6 +558,7 @@ Databases
 * [Elastic Blog](https://www.elastic.co/blog/)
 * [MongoDB Blog](https://www.mongodb.com/blog)
 
+
 <!--
 Forum
 https://replit.com/talk/all
@@ -606,8 +605,6 @@ http://bsonspec.org/ | BSON (Binary JSON) Serialization
 -->
 
 <!--
-People
-
 Aaron
 https://github.com/aaronbassett
 https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
@@ -623,6 +620,90 @@ https://github.com/colbyfayock
 https://www.youtube.com/colbz/videos
 -->
 
+## Makers
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+Women Who Inspire Me- Python
+* [Mariatta GitHub](https://github.com/mariatta)
+* [Lorena Mesa GitHub](https://github.com/lorenanicole)
+* [Jessica Garson GitHub](https://github.com/JessicaGarson)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+
+Women Who Inspire Me- JavaScript
+* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
+
+GitHub
+* [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* [Feross Aboukhadijeh GitHub](https://github.com/feross)
+* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
+
+Women Who Inspire Me
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+<!--
+Makers
+https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
+https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
+https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
+
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+
+https://github.com/tj
+https://github.com/mikeal
+-->
+
+## People
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+People
+* [GitHub Trending Developers](https://github.com/trending/developers)
+
+<!--
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://adventofcode.com/2020/leaderboard
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+-->
 
 ## Dev Tools, Projects, and Demos
 
