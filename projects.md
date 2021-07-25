@@ -2201,6 +2201,7 @@ SpatiaLite (Spatial Database Extender for SQLite)
 * [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
 * [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
 
+
 ## More Languages and Frameworks
 
 Scala
@@ -2209,129 +2210,6 @@ Scala
 <!--
 https://nim-lang.org/
 -->
-
-
-<!--
-https://beeware.org/project/projects/tools/briefcase/ | Briefcase— BeeWare
-
-https://twitter.com/ChrisWiegman/status/1346141329751994368 | Chris Wiegman on Twitter: "This is a big deal. It was one thing to compete with other hosts while monopolizing the brand name. Now it looks like they're about to compete with the agencies and devs that have made WordPress what it is over the years." / Twitter
-
-https://github.com/googleapis/python-api-core | googleapis/python-api-core
-https://github.com/googlemaps/google-maps-services-python | googlemaps/google-maps-services-python: Python client library for Google Maps API Web Services
-
-SEO
-https://developers.google.com/search/docs/guides/search-gallery | Explore the Search Gallery & Rich Results  |  Google Search Central
-
-Ionic (Vue)
-https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
-https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
-
-https://twitter.com/sanity_io | Sanity.io (@sanity_io) / Twitter
-https://twitter.com/Cypress_io | Cypress.io (@Cypress_io) / Twitter
-
-https://twitter.com/jason_mayes/status/1367687828306558979 | Jason Mayes on Twitter: "So #Deno just announced plans to natively support #TensorFlowJS! Quote: "We believe #JavaScript, instead of #Python, could act as ideal language for expressing mathematical ideas if proper infrastructure existed" https://t.co/7XR4joxmbR #MadeWithTFJS #JS #TensorFlow #ML #AI #Node https://t.co/V01HWKxPJS" / Twitter
-
-
-
-Chrome API
-https://fugu-tracker.web.app/
-https://twitter.com/feross/status/1369149438560587778 | Feross on Twitter: "The list of powerful APIs that the Chrome team wants to safely expose to web apps via Project Fugu is incredibly exciting: https://t.co/15q80Mq5sI" / Twitter
-
-
-Edge cloud platform
-https://www.fastly.com/
-
-Fast AI
-https://github.com/fastai/ghapi | fastai/ghapi: A delightful and complete interface to GitHub's amazing API
-
-
-
-## New-ish
-
-https://openbase.io/
-
-TensorFlow.js 
-
-AWS Serverless
-https://begin.com/ | Begin
-OpenJS Architect
-https://arc.codes/docs/en/guides/get-started/quickstart
-
-https://p5js.org/
-
-https://hasura.io/
-https://twitter.com/sarah_edo/status/1320761774447063040 | Sarah Drasner on Twitter: "💫 I'm quickly becoming a Hasura fangirl (no they didn't ask me to say that), so I wrote up a post on how to get started with GraphQL with Hasura and my favorite metaframework, Nuxt! I made a repo you can explore, too: https://t.co/LX4qZL8dRJ https://t.co/QLVOISn6Z9" / Twitter
-
-https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
-
-Web components/standards
-https://www.fast.design/docs/introduction/ | Introduction | FAST
-
-Deploy/Django
-https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
-
-## JavaScript
-
-Cypress
-
-https://jasmine.github.io/ | Jasmine Documentation
--->
-
-<!--
-Tailwind Crash Course
-https://www.youtube.com/watch?v=UBOj6rqRUME&t=1186s
-
-Django/Tailwind
-https://pypi.org/user/timonweb/ | Profile of timonweb · PyPI
-https://pypi.org/project/django-tailwind/ | django-tailwind · PyPI
-https://github.com/timonweb/django-tailwind | timonweb/django-tailwind: Django + Tailwind CSS = ❤
-https://timonweb.com/django/django-tailwind-css/ | Django + Tailwind CSS = ❤️ ⚡ | TimOnWeb
-https://zanderle.com/musings/2020/12/how-to-use-tailwind-with-django/ | How to Use Tailwind With Django | Musings — zanderle
-http://wsvincent.com/learn-tailwind-css-beginners-guide/ | Learn Tailwind CSS - A Beginners Guide - William Vincent
-https://www.mattlayman.com/blog/2020/tailwind-django-heroku/ | How To Set Up Tailwind CSS In Django On Heroku · Matt Layman
-
-https://github.com/django-crispy-forms/crispy-tailwind | django-crispy-forms/crispy-tailwind: A Tailwind template pack for django-crispy-forms
-
-Tailwind Installation Guides
-https://tailwindcss.com/docs/installation
-
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-https://tailwindcss.com/docs/guides/nextjs
-https://tailwindcss.com/docs/guides/create-react-app
-
-Tailwind Play Screencast
-https://twitter.com/adamwathan/status/1313826345374416896
--->
-
-
-<!--
-https://github.com/react-bootstrap/react-bootstrap | react-bootstrap/react-bootstrap: Bootstrap components built with React
-
-https://reactjs.org/tutorial/tutorial.html | Tutorial: Intro to React – React
-https://reactjs.org/docs/dom-elements.html | DOM Elements – React
-
-https://reactjs.org/community/examples.html
-
-Easy to Maintain
-npm install react-scripts@latest
-https://create-react-app.dev/
-
-Recommended Toolchains
-https://reactjs.org/docs/create-a-new-react-app.html#recommended-toolchains
-If you’re learning React or creating a new single-page app, use Create React App.
-https://reactjs.org/docs/create-a-new-react-app.html#create-react-app
-If you’re building a server-rendered website with Node.js, try Next.js.
-If you’re building a static content-oriented website, try Gatsby.
-https://www.gatsbyjs.com/starters/
-
-https://github.com/facebook/create-react-app#popular-alternatives | facebook/create-react-app: Set up a modern web app by running one command.
-
-Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/ | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/making-a-progressive-web-app/#why-opt-in | Making a Progressive Web App | Create React App
-https://create-react-app.dev/docs/custom-templates/ | Custom Templates | Create React App
--->
-
 
 
 ## HTML, CSS, JavaScript
