@@ -306,6 +306,9 @@ Wes Bos React Courses
 * [React for Beginners](https://reactforbeginners.com/)
 
 <!--
+Dan
+https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
+
 https://github.com/wesbos/React-For-Beginners-Starter-Files | wesbos/React-For-Beginners-Starter-Files: Starter files for learning React.js with React for Beginners
 https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
 https://github.com/wesbos/Advanced-React | wesbos/Advanced-React: Starter Files and Solutions for Full Stack Advanced React and GraphQL
