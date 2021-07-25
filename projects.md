@@ -1,24 +1,7 @@
 # Projects
 
-## Learning Resources
 
 <!--
-Anthony Explains
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
--->
-
-<!--
-http://js4ds.org/ | JavaScript for Data Science
-
-pyweek
-https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
-
-APIs
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
 https://postgis.net/docs/manual-3.0/
 https://postgis.net/docs/manual-3.0/ch06.html
 https://www.gaia-gis.it/fossil/libspatialite/index
@@ -29,8 +12,14 @@ https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tuto
 
 Important
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+-->
 
-https://clig.dev/ | Command Line Interface Guidelines
+
+<!--
+http://js4ds.org/ | JavaScript for Data Science
+
+APIs
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
 
 Madelene Campos: Understanding Django
@@ -39,6 +28,9 @@ https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpb
 Games
 http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
 https://www.renpy.org/ | The Ren'Py Visual Novel Engine
+
+pyweek
+https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
 
 Al
 https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
@@ -82,120 +74,8 @@ https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on T
 https://carpentries.org/
 
 
-
-Feross
-https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
-
-Wes
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://twitter.com/wesbos/status/1399762874382311430 | Wes Bos on Twitter: "Today I'm launching my Beginner JavaScript text guide! These notes are totally free and have been modeled after the content in my Beginner JavaScript course. This is a huge resource I've been working on for over a year and I'm so excied to share it! https://t.co/PBlhpjIKlE https://t.co/QxckjuLnh8" / Twitter
-https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
-
-Frontend Masters
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-Important
-https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
-
-Important
-https://web.dev/learn/css/ | Learn CSS
-https://beginnerwebdev.com/ | Beginner Web Dev
-
-https://domevents.dev/ | DOM Events
-https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
-
-MIT Course
-https://twitter.com/mgechev/status/1391973892948996098 | Minko Gechev on Twitter: "🔥 A free, practical course by the MIT that will teach you: ‣ How to use the shell &amp; script it ‣ Using vim ‣ Version control with git ‣ Debugging and profiling ‣ Metaprogramming ‣ Security ‣ More! https://t.co/oLIZ031QXb https://t.co/bTfLwoely4" / Twitter
-https://missing.csail.mit.edu/ | The Missing Semester of Your CS Education · the missing semester of your cs education
-
 https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
 -->
-
-<!--
-HTTP, API, DOM
-https://expressjs.com/en/api.html
-
-https://nodejs.org/api/http.html
-https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
-
-https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
-https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
-https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
-https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
-
-DNS
-https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
-https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
--->
-
-<!--
-Node Tutorials
-
-https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
-
-https://github.com/microsoft/beginners-intro-javascript-node
-
-https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
-
-https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
-
-https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
-
-Node bot
-https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
--->
-
-
-<!--
-https://blog.jetbrains.com/pycharm/
-
-https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-of-python-style: Goes beyond PEP8 to discuss what makes Python code feel great. A Strunk & White for Python.
-
-## Django
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
--->
-
-
-<!--
-https://web.dev/discoverable/
-
-https://realpython.com/intermediate-python-project-ideas/
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-
-
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-
-https://pypi.org/
-https://packaging.python.org/tutorials/packaging-projects/
-https://realpython.com/pypi-publish-python-package/
-
-
-https://www.heroku.com/
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
--->
-
-
 
 
 <!--
@@ -800,6 +680,7 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
+https://codepen.io/
 https://codepen.io/trending
 -->
 
@@ -1146,7 +1027,7 @@ Terminal String Styling
 * [Pygments](https://pygments.org/) and [Pygments GitHub](https://github.com/pygments/pygments/)
 
 <!--
-https://clig.dev/
+https://clig.dev/ | Command Line Interface Guidelines
 https://github.com/cli-guidelines/cli-guidelines
 
 https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -1781,14 +1662,25 @@ https://github.com/channels-frontend/django_redux
 
 
 <!--
-Traversy
-Build a Responsive Website | HTML, CSS Grid, Flexbox & More
-https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
+Important
+https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
 
-https://codepen.io/
+Wes
+https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
+https://twitter.com/wesbos/status/1399762874382311430 | Wes Bos on Twitter: "Today I'm launching my Beginner JavaScript text guide! These notes are totally free and have been modeled after the content in my Beginner JavaScript course. This is a huge resource I've been working on for over a year and I'm so excied to share it! https://t.co/PBlhpjIKlE https://t.co/QxckjuLnh8" / Twitter
 
-https://stylestage.dev/styles/
-http://www.csszengarden.com/
+Important
+https://web.dev/learn/css/ | Learn CSS
+https://beginnerwebdev.com/ | Beginner Web Dev
+
+https://domevents.dev/ | DOM Events
+https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
+
+MIT Course
+https://twitter.com/mgechev/status/1391973892948996098 | Minko Gechev on Twitter: "🔥 A free, practical course by the MIT that will teach you: ‣ How to use the shell &amp; script it ‣ Using vim ‣ Version control with git ‣ Debugging and profiling ‣ Metaprogramming ‣ Security ‣ More! https://t.co/oLIZ031QXb https://t.co/bTfLwoely4" / Twitter
+https://missing.csail.mit.edu/ | The Missing Semester of Your CS Education · the missing semester of your cs education
+
+
 
 HTML5 Boilerplate
 https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1825,6 +1717,9 @@ https://fromdesignto.dev/ | From Design to Development Crash Course - From Desig
 Wes Bos
 https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
 
+https://stylestage.dev/styles/
+http://www.csszengarden.com/
+
 Style Stage
 https://stylestage.dev/styles/floral-vibes/
 https://www.youtube.com/c/LearnHowToMakeaWebsitewithSteph/videos
@@ -1842,6 +1737,7 @@ https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 Vanilla JavaScript
 https://github.com/wesbos/JavaScript30
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
 
 ES6
 https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
@@ -2036,6 +1932,9 @@ https://github.com/wesbos/twitter-unfollower/blob/master/twit.js | twitter-unfol
 <!--
 Traversy
 
+Build a Responsive Website | HTML, CSS Grid, Flexbox & More
+https://www.youtube.com/watch?v=p0bGHP-PXD4&t=332s
+
 https://www.youtube.com/watch?v=mTz0GXj8NN0&feature=emb_logo | (2) Next.js Crash Course 2021 - YouTube
 
 Traversy
@@ -2132,9 +2031,6 @@ update node and npm - Google Search
 -->
 
 <!--
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://github.com/wesbos/JavaScript30
-
 https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
 https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
 
