@@ -218,33 +218,94 @@ https://github.com/LambdaSchool | Lambda School, Inc.
 
 
 <!--
-https://waitbutwhy.com/2015/02/delicious-visual-map-history.html | Delicious Visual Map of History — Wait But Why
-
-Family Tree
-https://reactionwheel.blogspot.com/2012/04/venture-capital-family-tree.html?m=1 | Reaction Wheel: Venture Capital Family Tree
-
 Todo
 https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
 
 https://www.coldstart.com/ | The Cold Start Problem
 
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
 
-https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV7K/ref=sr_1_1?crid=NP7RH28VTXWD&dchild=1&keywords=innovation+stack&qid=1617295594&sprefix=innovation+stack,aps,173&sr=8-1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time (Audible Audio Edition): Jim McKelvey, Jim McKelvey, Penguin Audio: Audible Audiobooks
 
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
 
-https://www.spacex.com/media/starship_users_guide_v1.pdf | Starship Users Guide
+TLA+
+https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
+https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
+
+
+https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
+
+Docs
+https://twitter.com/evildmp/status/1022043729195159552 | Daniele Procida on Twitter: "Slides as used in my #EuroPython "Let's get your documentation right" workshop yesterday: https://t.co/KTs8UFDTOu See also https://t.co/U7aCoFermL" / Twitter
+https://www.dropbox.com/s/9c7slv6ets15so4/Get%20your%20documentation%20right.pdf?dl=0 | Get your documentation right.pdf
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://diataxis.fr/ | Home - Diátaxis
+https://speakerdeck.com/evildmp/documentation-driven-development?slide=15 | Documentation-driven development - Speaker Deck
+https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/edit# | Diátaxis workshop 16th June 2021 - Google Docs
+
+
+Madelene Campos: Understanding Django
+https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
+
+
+Games
+http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
+https://www.renpy.org/ | The Ren'Py Visual Novel Engine
+
+Al
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://automatetheboringstuff.com/2e/chapter0/ | Automate the Boring Stuff with Python
+
+Python Projects
+http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
+
+Eric
+https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
+https://ehmatthes.github.io/pcc_2e/regular_index/ | Home - Python Crash Course, 2nd Edition
+
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+https://www.programmer-books.com/python-projects-pdf/ | Python Projects [PDF] - Programmer Books
+
+HackInScience
+https://www.hackinscience.org/ | HackInScience — Python Exercises
+https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
+
+https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+
+https://www.reddit.com/r/learnpython/ | Python Education
+
+
+https://opensourcestash.com/ | Open Source Stash
+https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
+
+http://meowni.ca/posts/emoji-emoji-emoji/
 -->
 
 <!--
-https://www.inc.com/larry-kim/how-google-s-ceo-only-buys-companies-that-pass-his-crazy-toothbrush-test.html | Why Google's Larry Page Only Buys Companies That Pass His Crazy Toothbrush Test | Inc.com
+https://free-for.dev/#/ | Free for developers
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
-https://twitter.com/george__mack/status/1345850446141919233 | George Mack on Twitter: "Walt Disney drew the media empire was trying to build. In 1957. It's amazing. Drawing out the connections of systems is a powerful clear thinking exercise. (H/T @web) https://t.co/nMwVjXXF3W" / Twitter
-https://twitter.com/RichLightShed/status/1346263390977732608 | Rich Greenfield, LightShed on Twitter: "This might be the most important visual for the future of Hollywood -- the definition of success in Hollywood is changing rapidly incredible chart from the team at @AntennaData" / 
+https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
 
+https://github.com/ranman/make-a-demo | ranman/make-a-demo: This is a collection of tools, techniques, posts, and ideas for making compelling demos.
+https://github.com/terkelg/awesome-creative-coding | terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+https://github.com/toplap/awesome-livecoding | toplap/awesome-livecoding: All things livecoding
+Livestream
+https://twitter.com/jamesqquick/status/1415297731946496002 | James Q Quick on Twitter: "Do you do coding live streams? Leave your links below 👇" / Twitter
+
+
+https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
+https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+
+https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
+https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
+-->
+
+
+
+<!--
 https://home.cern/topics/birth-web | The birth of the web | CERN
 https://home.cern/science/computing/birth-web | The birth of the Web | CERN
 https://www.w3.org/DesignIssues/Architecture.html
@@ -264,53 +325,24 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
-Jeff
-https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
-
-
-https://opensourcestash.com/ | Open Source Stash
-
-Wow
-https://twitter.com/boo/status/1339802896804630529 | https://twitter.com/boo/status/1339802896804630529
-
-KJ
-https://diversityorgs.tech/ | DiversityOrgs.Tech
-
-https://www.sitepoint.com/organize-large-react-application/ | How to Organize a Large React Application and Make It Scale - SitePoint
-
-http://meowni.ca/posts/emoji-emoji-emoji/
--->
-
-
-
-<!--
 Portfolio
 https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
-
-https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
-https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
-
 
 https://www.youtube.com/watch?v=4Z-pMC3WMg4 | Tips for Making Developer Content with Ali Spittel - Twitter Spaces vs Clubhouse? - YouTube
 https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to egghead like a pro.
 
 Important
 https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
+-->
 
+<!--
+## People
 
-https://free-for.dev/#/ | Free for developers
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
 
-https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
-https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
 
 ## Trends
@@ -335,8 +367,12 @@ https://dev.to/ | DEV Community 👩‍💻👨‍💻
 
 
 Django News
+https://django-news.com/ | Django News
 https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
 https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
+
+https://www.djangoproject.com/community/ | Django Community | Django
+https://django-jobs.cog.gs/ | Django Jobs
 
 https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
 
@@ -346,10 +382,6 @@ https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
 https://twitter.com/an_open_mind/status/1314541192458260482
 
 
-Makers
-https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
-https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
-https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
 
 pyweek
 https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
@@ -368,15 +400,26 @@ https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tuto
 Important
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
 
-
 https://clig.dev/ | Command Line Interface Guidelines
+
+
 
 Important
 https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
 https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
-https://www.reddit.com/r/learnpython/ | Python Education
+
+
+Checklists
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
 -->
 
 <!--
@@ -403,6 +446,11 @@ https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-the
 -->
 
 <!--
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+
 ## Management
 
 SCQA framework
