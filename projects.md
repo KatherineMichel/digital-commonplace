@@ -16,8 +16,6 @@ https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-proj
 
 
 <!--
-https://web.dev/discoverable/
-
 http://js4ds.org/ | JavaScript for Data Science
 
 APIs
@@ -27,53 +25,9 @@ https://github.com/public-apis/public-apis | public-apis/public-apis: A collecti
 Madelene Campos: Understanding Django
 https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
 
-Games
-http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
-https://www.renpy.org/ | The Ren'Py Visual Novel Engine
-
-pyweek
-https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
-
-Al
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-https://automatetheboringstuff.com/2e/chapter0/ | Automate the Boring Stuff with Python
-
-Python Projects
-http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
-http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
-
-Eric
-https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
-https://ehmatthes.github.io/pcc_2e/regular_index/ | Home - Python Crash Course, 2nd Edition
-
-Impractical Python Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-https://www.programmer-books.com/python-projects-pdf/ | Python Projects [PDF] - Programmer Books
-
-HackInScience
-https://www.hackinscience.org/ | HackInScience — Python Exercises
-https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
 
 https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
 
-https://www.reddit.com/r/learnpython/ | Python Education
-
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-
-Carpentries
-https://carpentries.org/blog/2021/06/director-of-community-development-transition/ | Director of Community Development and Engagement Transition
-https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/15-scrapy/ | Web scraping using Python and Scrapy – UCSB Library Library Carpentry
-
-https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
-
-https://carpentries.github.io/instructor-training/ | Instructor Training
-http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
-https://carpentries.org/community-lessons/ | Community Developed Lessons
-https://github.com/carpentries-incubator/ | carpentries-incubator
-
-https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-https://carpentries.org/
 
 
 https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
@@ -181,8 +135,9 @@ https://twitter.com/an_open_mind/status/1314541192458260482
 ## Django and Python News
 
 <!--
+https://blog.jetbrains.com/pycharm/
+
 https://blog.python.org/
-https://www.djangoproject.com/weblog/
 
 What's New
 https://docs.python.org/3/whatsnew/index.html
@@ -201,30 +156,6 @@ https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-mi
 -->
 
 <!--
-http://wsvincent.com/how-to-contribute-to-django-docs/
-
-https://docs.djangoproject.com/en/dev/internals/contributing/
-
-
-The PEPs of Python 3.9
-https://lwn.net/Articles/819853/
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-Annual Release Schedule
-https://www.python.org/dev/peps/pep-0602/
-https://devguide.python.org/ | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/#contributing | Python Developer’s Guide — Python Developer's Guide
-https://devguide.python.org/devcycle/
-https://devguide.python.org/#status-of-python-branches | Python Developer’s Guide — Python Developer's Guide
-
-Internals
-https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
-https://realpython.com/products/cpython-internals-book/
-https://realpython.com/lessons/cpython-book-download/
-https://realpython.com/cpython-internals/resources/
--->
-
-<!--
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
@@ -237,6 +168,7 @@ https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Tw
 https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 
+https://www.djangoproject.com/weblog/
 https://www.djangoproject.com/community/ | Django Community | Django
 
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
@@ -273,6 +205,10 @@ https://www.nature.com/ | Nature
 -->
 
 <!--
+https://www.reddit.com/r/learnpython/ | Python Education
+
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
+
 ## Trends
 
 https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
@@ -364,35 +300,55 @@ David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 
-## Python Learning Resources- Set Aside
+<!--
+New
 
-TestDriven.io
-* [Test Driven Blog](https://testdriven.io/blog/)
+Games
+http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
+https://www.renpy.org/ | The Ren'Py Visual Novel Engine
 
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
-* [Real Python Courses](https://realpython.com/courses)
+pyweek
+https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
 
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+Al
+https://automatetheboringstuff.com/2e/chapter0/ | Automate the Boring Stuff with Python
+
+Python Projects
+http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
+
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+https://www.programmer-books.com/python-projects-pdf/ | Python Projects [PDF] - Programmer Books
+
+HackInScience
+https://www.hackinscience.org/ | HackInScience — Python Exercises
+https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
+-->
 
 
 <!--
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
 
-No Starch
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+Al
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
 
 https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
 http://inventwithpython.com/beyond/
 https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
+
+No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+Eric
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
 
 https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
@@ -402,16 +358,23 @@ https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Cras
 https://github.com/rmpr/atbswp
 https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
 
-
-Looks great
-https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
-https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
-
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
 
+
+## Python Learning Resources- Set Aside
+
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
 
 ## High Performance Trends
 
@@ -421,6 +384,7 @@ List of Engineering Blogs
 
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
+
 
 ## Stack
 
@@ -1664,6 +1628,24 @@ https://github.com/channels-frontend/django_redux
 
 
 <!--
+https://web.dev/discoverable/
+
+
+Carpentries
+https://carpentries.org/blog/2021/06/director-of-community-development-transition/ | Director of Community Development and Engagement Transition
+https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/15-scrapy/ | Web scraping using Python and Scrapy – UCSB Library Library Carpentry
+
+https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
+
+https://carpentries.github.io/instructor-training/ | Instructor Training
+http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
+https://carpentries.org/community-lessons/ | Community Developed Lessons
+https://github.com/carpentries-incubator/ | carpentries-incubator
+
+https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+https://carpentries.org/
+
+
 Important
 https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
 
