@@ -31,6 +31,88 @@ https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s �
 https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
 -->
 
+<!--
+Django Official Docs
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
+https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
+
+
+Packaging
+https://pypi.org/
+https://packaging.python.org/tutorials/packaging-projects/
+https://realpython.com/pypi-publish-python-package/
+
+https://realpython.com/intermediate-python-project-ideas/
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+## Django
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+## Flask
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+Flask
+https://www.google.com/search?q=flask+database+models&oq=flask+database+model&aqs=chrome.0.0j69i57j0i22i30l2.2824j0j7&sourceid=chrome&ie=UTF-8 | flask database models - Google Search
+-->
+
+<!--
+HTTP, API, DOM
+https://expressjs.com/en/api.html
+
+https://nodejs.org/api/http.html
+https://nodejs.org/en/docs/guides/anatomy-of-an-http-transaction/
+
+https://nodejs.org/api/events.html | Events | Node.js v11.10.0 Documentation
+https://nodejs.org/en/docs/guides/dont-block-the-event-loop/ | Don't Block the Event Loop (or the Worker Pool) | Node.js
+https://nodejs.org/en/docs/guides/blocking-vs-non-blocking/ | Overview of Blocking vs Non-Blocking | Node.js
+https://nodejs.org/en/docs/guides/event-loop-timers-and-nexttick/ | The Node.js Event Loop, Timers, and process.nextTick() | Node.js
+
+DNS
+https://nodejs.org/api/dns.html | DNS | Node.js v14.12.0 Documentation
+https://www.w3schools.com/nodejs/ref_dns.asp | Node.js DNS Module
+-->
+
+<!--
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Node Tutorials
+
+https://training.linuxfoundation.org/announcements/free-introduction-to-node-js-online-training-now-available/ | Free Introduction to Node.js Online Training Now Available - Linux Foundation - Training
+
+https://github.com/microsoft/beginners-intro-javascript-node
+
+https://docs.microsoft.com/en-gb/learn/paths/build-javascript-applications-nodejs/ | Build JavaScript applications with Node.js - Learn | Microsoft Docs
+
+https://developer.mozilla.org/en-US/docs/Glossary/Node.js | Node.js - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs | Express web framework (Node.js/JavaScript) - Learn web development | MDN
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction | Express/Node introduction - Learn web development | MDN
+
+https://www.freecodecamp.org/news/what-exactly-is-node-js-ae36e97449f5/
+
+Node bot
+https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
+-->
+
 
 <!--
 Music 
