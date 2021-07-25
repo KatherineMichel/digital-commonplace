@@ -277,6 +277,7 @@ https://twitter.com/hashtag/MustHaveDevTools?src=hash | (9) #MustHaveDevTools ha
 https://free-for.dev/#/ | Free for developers
 https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
+https://awesomeopensource.com/projects/django | The Top 1,024 Django Open Source Projects
 https://opensourcestash.com/ | Open Source Stash
 https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
 -->
