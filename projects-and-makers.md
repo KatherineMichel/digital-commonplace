@@ -1,16 +1,47 @@
 # Makers and Projects
 
 <!--
-Makers
-https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
-https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
-https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
-
 Jeff
 https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
 
 KJ
 https://diversityorgs.tech/ | DiversityOrgs.Tech
+
+https://github.com/jessfraz/
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+
+https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
+
+https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
+-->
+
+<!--
+## Projects
+
+https://github.com/probot/probot
+https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
+
+https://github.com/mscoutermarsh/profile-tweet
+https://www.amazon.com/gp/product/B00Q8QKGJ0
+
+Feross
+https://virus.cafe/ | Virus Cafe
+
+https://twitter.com/hayleydenb/status/1257786499933728768
+
+Cool way to do it
+https://twitter.com/MishManners/status/1240839777437364224
+https://twitter.com/MishManners/status/1239360667703885825
+https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
+
+https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
+https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
+https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
+-->
+
+<!--
+Simon
 
 Git Scraping/Flat Data
 https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
@@ -193,234 +224,6 @@ https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This 
 https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
 https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
 -->
-
-## Makers
-
-Django, GitHub, SQL
-* [Jeff Triplett Twitter](https://twitter.com/webology)
-* [Simon Willison](https://static.simonwillison.net)
-
-Women Who Inspire Me- Python
-* [Mariatta GitHub](https://github.com/mariatta)
-* [Lorena Mesa GitHub](https://github.com/lorenanicole)
-* [Jessica Garson GitHub](https://github.com/JessicaGarson)
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
-
-Women Who Inspire Me- JavaScript
-* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
-
-GitHub
-* [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
-* [Steve Winton GitHub](https://github.com/swinton/)
-* [Jason Etco GitHub](https://github.com/JasonEtco/)
-* [Gregor Martynus GitHub](https://github.com/gr2m/)
-* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
-
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* [Feross Aboukhadijeh GitHub](https://github.com/feross)
-* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
-
-Women Who Inspire Me
-* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
-* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
-* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
-* [Camille Fournier Twitter](https://twitter.com/skamille)
-* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
-* [Jess Frazelle GitHub](https://github.com/jessfraz)
-* [Leigh Honeywell](https://hypatia.ca)
-
-* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
-* [Suz Hinton Twitter](https://twitter.com/noopkat)
-
-<!--
-https://github.com/jessfraz/
-https://twitter.com/jessfraz
-https://blog.jessfraz.com/
-
-https://github.com/FrontendMasters/teacher-bios | FrontendMasters/teacher-bios: Biographies of Frontend Masters' Teachers
-
-https://twitter.com/chrispiech/likes | Tweets liked by chrispiech (@chrispiech) / Twitter
-
-https://virus.cafe/ | Virus Cafe
-
-https://twitter.com/hayleydenb/status/1257786499933728768
-
-Cool way to do it
-https://twitter.com/MishManners/status/1240839777437364224
-https://twitter.com/MishManners/status/1239360667703885825
-https://hackathonqueen.com/2020/03/25/work-from-home-effectively-tips-and-tricks-to-stay-productive/
-
-https://electronicssimoninthelakes.wordpress.com/2020/08/17/the-clock-project-speaking-calendar
-https://electronicssimoninthelakes.wordpress.com/2020/03/20/gps-uk-os-grid-reference
-https://electronicssimoninthelakes.wordpress.com/2020/03/18/condensation-demisting-heater-monitor
--->
-
-<!--
-## Makers and Projects
-
-https://dev.to/gr2m/ | Gregor Martynus - DEV
-https://github.com/gr2m/
-https://github.com/probot/probot
-https://probot.github.io/ | Probot | GitHub Apps to automate and improve your workflow
-
-Dan
-https://twitter.com/dan_abramov | Dan Abramov (@dan_abramov) / Twitter
-
-https://github.com/mscoutermarsh/profile-tweet
-https://www.amazon.com/gp/product/B00Q8QKGJ0
-
-https://mikecoutermarsh.com/ | Mike Coutermarsh
-https://jasonet.co/ | Jason Etcovitch · jasonet.co
-
-https://github.com/tj
-https://github.com/mikeal
--->
-
-<!--
-Jane
-https://usesthis.com/interviews/jane.manchun.wong/ | Uses This / Jane Manchun Wong
-
-Ideas
-https://github.com/gr2m/ideas | gr2m/ideas: a place for my side project ideas. Come build them with me :)
-
-Octokit
-https://github.com/octokit/rest.js/blob/master/HOW_IT_WORKS.md | rest.js/HOW_IT_WORKS.md at master · octokit/rest.js
-https://github.com/octokit/fixtures/blob/master/.github/workflows/update.yml | fixtures/update.yml at master · octokit/fixtures
-https://github.com/octokit/?q=project&type=&language= | Octokit
-
-### Community
-
-https://cmxhub.com/ | Home | CMX
-https://awards.cmxhub.com/ | CMX
-https://leaddev.com/
-
-Lead Dev
-https://leaddev.com/debugging-engineering-velocity-and-leading-high-performing-teams
-https://leaddev.com/primer-engineering-delivery-metrics | A primer on engineering delivery metrics | LeadDev
-https://leaddev.com/mentoring-coaching-feedback/engineering-management-101-evaluating-your-teams-performance | Engineering management 101: evaluating your team’s performance | LeadDev
-https://leaddev.com/diversity-inclusion/writing-accessible-code | Writing accessible code | LeadDev
-
-https://tessakriesel.com
-https://devocate.com/
-https://www.thedevelopermindset.com/
-
-https://twitter.com/ashevat
-https://medium.com/@ashevat | Amir Shevat – Medium
-https://twitter.com/ashevat/lists/memberships | List memberships for @ashevat / Twitter
-
-Roadmap
-https://medium.com/@ashevat/amir-4-4-release-notes-aka-44-0404-2020-1504a3d6b929
--->
-
-<!--
-https://www.devrelcon.net/
-https://2018.devrelawards.com/
-
-https://devrel.net/strategy-and-metrics/introducing-aaarrrp-devrel-strategy
-https://www.slideshare.net/leggetter/an-introduction-to-aaarrrp-a-framework-for-defining-your-developer-relations-strategy-and-how-you-can-use-it-devrelcon-beijing-2017
-
-DevRel List
-https://twitter.com/kinlane/status/1296884761307185152 | https://twitter.com/kinlane/status/1296884761307185152
-https://twitter.com/i/lists/1293027363723214848/members
-https://github.com/guyroyse?tab=repositories | guyroyse (Guy Royse) / Repositories
-
-https://developer.microsoft.com/en-us/advocates/
-https://github.com/MicrosoftDocs/cloud-developer-advocates | MicrosoftDocs/cloud-developer-advocates
-
-http://developer-evangelism.com/handbook.php | Developer Evangelist Handbook
-
-* ["The Core Competencies of Developer Relations"](https://medium.com/google-developers/the-core-competencies-of-developer-relations-f3e1c04c0f5b)
-
-GitLab
-https://about.gitlab.com/handbook/marketing/community-relations/evangelist-program/
-
-https://github.com/MurtzaM/Developer-Evangelist-Interview-Questions
-https://github.com/kjaymiller/Developer-Advocate-Manifesto | kjaymiller/Developer-Advocate-Manifesto: Take the Manifesto by forking it and including the badge on your website.
-
-https://github.com/do-community/devrel-manifesto | GitHub - do-community/devrel-manifesto: The DevRel team's manifesto, for the rest of the world.
-
-https://github.com/cassidoo/talks/blob/master/speaker-rider.md | talks/speaker-rider.md at master · cassidoo/talks
--->
-
-
-<!--
-Tessa
-
-Developer Mindset
-https://web.archive.org/web/20201101020540/https://community.thedevelopermindset.com/c/introductions | Intros & Chatter | The Developer Mindset
-https://web.archive.org/web/*/https://community.thedevelopermindset.com/c/* | Wayback Machine
-
-https://tessakriesel.com/category/presentations/ | Presentations Archives | Tessa Kriesel
-
-https://devocate.com/work-with-us/
-https://devocate.com/blog/
-https://devocate.com/blog/developer-intel/open-source-vs-enterprise-developers/
-
-https://community.thedevelopermindset.com/c/roadmap | Roadmap | The Developer Mindset Community
-https://devocate.com/blog/ways-to-accomplish-developer-audience-goals-the-trello-board/ | Accomplishing developer audience goals » Devocate
-https://devocate.com/blog/accomplishing-goals/ways-to-accomplish-developer-audience-goals-the-trello-board/
-https://devocate.com/blog/developer-intel/developer-personas-driven-by-motivation/
-https://devocate.com/blog/developer-feedback/pillars-of-a-solid-developer-feedback-program/
-https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example | Developer Research Example | The Developer Mindset Community
-https://web.archive.org/web/20201119221035/https://community.thedevelopermindset.com/c/developer-mindset/developer-research-example
-https://devocate.com/blog/teamwork/managing-up-to-achieve-developer-community-success/
-
-https://devocate.com/blog/engaging-with-developers/why-your-new-software-needs-a-developer-community-before-marketing/ | Why Your New Software Needs a Developer Community Before Marketing
-
-https://www.tessakriesel.com/breaking-down-gender-discrimination-womentech-global-awards-2020/ | Breaking Down Gender Discrimination, Keynote at WomenTech Global Awards 2020
-
-https://www.tessakriesel.com/devocate-the-developer-advocacy-growth-platform/ | So, I'm founding a SaaS startup
-https://twitter.com/tessak22/status/1309153696853368832 | Tessa Kriesel on Twitter: "The Developer Mindset is a content hub &amp; corresponding community full of insightful information about how developers think &amp; advice on how to engage with them. Learn more about my recent launch in this dorky video. 🤪 https://t.co/guXhhxt9Ut" / Twitter
-
-
-Amir Shevat
-https://cmxhub.com/video-amir-shevat-slacks-developer-relations-strategy/ | [Video] Amir Shevat: Slack's Developer Relations Strategy
-https://www.youtube.com/watch?v=ycKPJ_27cYo&feature=emb_logo | (2) OCTO Speaker Series #5 Amir Shevat - YouTube
-https://github.com/github/githubOCTO/discussions/8 | OCTO Speaker Series #5: Amir Shevat · Discussion #8 · github/githubOCTO
-
-https://twitter.com/githubOCTO/status/1301264737657708544 | https://twitter.com/githubOCTO/status/1301264737657708544
-
-Books
-https://www.amazon.com/Designing-Bots-Creating-Conversational-Experiences/dp/1491974826 | Designing Bots: Creating Conversational Experiences: Shevat, Amir: 9781491974827: Amazon.com: Books
-https://www.amazon.com/gp/product/B07GY6F2LH/ref=dbs_a_def_rwt_bibl_vppi_i0
-
-https://en.wikipedia.org/wiki/Community_building | Community building - Wikipedia
-hero theme - Google Search
--->
-
-
-## People
-
-Product Hunt Maker Leader Boards
-* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
-* [Top 500 Hunters](http://500hunters.com)
-* [Maker Rank](https://makerrank.co)
-* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
-
-People
-* [GitHub Trending Developers](https://github.com/trending/developers)
-
-<!--
-https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
-https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
-
-https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
-
-https://adventofcode.com/2020/leaderboard
-
-https://repl.it/leaders | Repl.it - Leaderboard
-
-https://github.com/maintainers | Open Source Maintainers on GitHub
-https://maintainers.github.com/
-https://github.com/orgs/maintainers/people
-
-https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
-
-https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
--->
-
 
 ## Projects
 
