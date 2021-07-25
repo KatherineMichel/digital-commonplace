@@ -218,6 +218,10 @@ https://github.com/LambdaSchool | Lambda School, Inc.
 
 
 <!--
+https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
+
+http://js4ds.org/ | JavaScript for Data Science
+
 Todo
 https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
 
@@ -230,6 +234,12 @@ https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV
 TLA+
 https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
 https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
+
+Code Tour
+https://twitter.com/DynamicWebPaige/status/1400113390920486917 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "😍 Epic! I'm so excited to see #CodeTour being used as a guide, to familiarize potential open-source contributors with project codebases. @captainsafia: you have inspired me to attempt the same for a machine learning repo.🙂 Any preferences on scikit-learn, TF, or JAX, Twitter? https://t.co/BwWpHxxfxR" / Twitter
+
+Awk/Sed
+https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf | The_AWK_Programming_Language.pdf
 
 
 https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
@@ -246,6 +256,10 @@ https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/
 Madelene Campos: Understanding Django
 https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
 
+
+https://github.com/jgthms/goodies | jgthms/goodies: Collection of GitHub repos, blogs and websites to learn cool things
+
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
 
 Games
 http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
@@ -274,6 +288,36 @@ https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh o
 https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
 
 https://www.reddit.com/r/learnpython/ | Python Education
+
+Carpentries
+https://carpentries.org/blog/2021/06/director-of-community-development-transition/ | Director of Community Development and Engagement Transition
+https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/15-scrapy/ | Web scraping using Python and Scrapy – UCSB Library Library Carpentry
+
+Feross
+https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
+
+Wes
+https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
+https://twitter.com/wesbos/status/1399762874382311430 | Wes Bos on Twitter: "Today I'm launching my Beginner JavaScript text guide! These notes are totally free and have been modeled after the content in my Beginner JavaScript course. This is a huge resource I've been working on for over a year and I'm so excied to share it! https://t.co/PBlhpjIKlE https://t.co/QxckjuLnh8" / Twitter
+https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
+
+Frontend Masters
+https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
+Important
+https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
+
+Important
+https://web.dev/learn/css/ | Learn CSS
+https://beginnerwebdev.com/ | Beginner Web Dev
+
+https://domevents.dev/ | DOM Events
+https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
+
+MIT Course
+https://twitter.com/mgechev/status/1391973892948996098 | Minko Gechev on Twitter: "🔥 A free, practical course by the MIT that will teach you: ‣ How to use the shell &amp; script it ‣ Using vim ‣ Version control with git ‣ Debugging and profiling ‣ Metaprogramming ‣ Security ‣ More! https://t.co/oLIZ031QXb https://t.co/bTfLwoely4" / Twitter
+https://missing.csail.mit.edu/ | The Missing Semester of Your CS Education · the missing semester of your cs education
+
+https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
 
 
 https://opensourcestash.com/ | Open Source Stash
