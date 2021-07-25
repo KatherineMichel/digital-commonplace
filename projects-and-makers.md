@@ -1,6 +1,12 @@
 # Makers and Projects
 
 <!--
+Jeff
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
+
+KJ
+https://diversityorgs.tech/ | DiversityOrgs.Tech
+
 Git Scraping/Flat Data
 https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
 https://twitter.com/github/status/1394767308212502528 | GitHub on Twitter: "Take a peek into lightweight data workflows from the future. 🔮 The Developer Experience research team in GitHub’s Office of the CTO has released Flat Data!" / Twitter
