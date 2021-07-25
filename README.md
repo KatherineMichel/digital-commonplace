@@ -54,6 +54,9 @@ https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitte
 
 ## Learning
 
+Todo
+https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
+
 Prioritization/Learning Strategies
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic
@@ -176,199 +179,17 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 -->
 
-
 <!--
-## Learning
-
-https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
-
-Important
-https://discord.com/invite/t7bHjYQ | Commit Your Code!
-
-CodeBuddies
-https://app.slack.com/client/T04AQ6GEY/D01A4NKEGKF | Slack | CodeBuddies Welcome | CodeBuddies
-https://github.com/codebuddies | CodeBuddies Community
-https://codebuddies.org/about | CodeBuddies | About
-
-https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
-
-https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
-
-https://carpentries.github.io/instructor-training/ | Instructor Training
-http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
-https://carpentries.org/community-lessons/ | Community Developed Lessons
-https://github.com/carpentries-incubator/ | carpentries-incubator
-
-https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-https://carpentries.org/
-
-
-https://computationalthinking.mit.edu/Fall20/
-
-https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
-https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
-https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
-https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
-
-https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
-https://github.com/LambdaSchool | Lambda School, Inc.
--->
-
-
-
-<!--
-https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
-
-http://js4ds.org/ | JavaScript for Data Science
-
-Todo
-https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Learn Complex Things Quickly: A Guide
-
-https://www.coldstart.com/ | The Cold Start Problem
-
-
-https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV7K/ref=sr_1_1?crid=NP7RH28VTXWD&dchild=1&keywords=innovation+stack&qid=1617295594&sprefix=innovation+stack,aps,173&sr=8-1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time (Audible Audio Edition): Jim McKelvey, Jim McKelvey, Penguin Audio: Audible Audiobooks
-
-
-TLA+
-https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
-https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
-
-Code Tour
-https://twitter.com/DynamicWebPaige/status/1400113390920486917 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "😍 Epic! I'm so excited to see #CodeTour being used as a guide, to familiarize potential open-source contributors with project codebases. @captainsafia: you have inspired me to attempt the same for a machine learning repo.🙂 Any preferences on scikit-learn, TF, or JAX, Twitter? https://t.co/BwWpHxxfxR" / Twitter
-
-Awk/Sed
-https://ia802309.us.archive.org/25/items/pdfy-MgN0H1joIoDVoIC7/The_AWK_Programming_Language.pdf | The_AWK_Programming_Language.pdf
-
-
-https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
-
-Docs
-https://twitter.com/evildmp/status/1022043729195159552 | Daniele Procida on Twitter: "Slides as used in my #EuroPython "Let's get your documentation right" workshop yesterday: https://t.co/KTs8UFDTOu See also https://t.co/U7aCoFermL" / Twitter
-https://www.dropbox.com/s/9c7slv6ets15so4/Get%20your%20documentation%20right.pdf?dl=0 | Get your documentation right.pdf
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://diataxis.fr/ | Home - Diátaxis
-https://speakerdeck.com/evildmp/documentation-driven-development?slide=15 | Documentation-driven development - Speaker Deck
-https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/edit# | Diátaxis workshop 16th June 2021 - Google Docs
-
-
-Madelene Campos: Understanding Django
-https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
-
-
-https://github.com/jgthms/goodies | jgthms/goodies: Collection of GitHub repos, blogs and websites to learn cool things
-
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-Games
-http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
-https://www.renpy.org/ | The Ren'Py Visual Novel Engine
-
-Al
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-https://automatetheboringstuff.com/2e/chapter0/ | Automate the Boring Stuff with Python
-
-Python Projects
-http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
-http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
-
-Eric
-https://nostarch.com/pythoncrashcourse2e | Python Crash Course, 2nd Edition | No Starch Press
-https://ehmatthes.github.io/pcc_2e/regular_index/ | Home - Python Crash Course, 2nd Edition
-
-Impractical Python Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-https://www.programmer-books.com/python-projects-pdf/ | Python Projects [PDF] - Programmer Books
-
-HackInScience
-https://www.hackinscience.org/ | HackInScience — Python Exercises
-https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
-
-https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
-
-https://www.reddit.com/r/learnpython/ | Python Education
-
-Carpentries
-https://carpentries.org/blog/2021/06/director-of-community-development-transition/ | Director of Community Development and Engagement Transition
-https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/15-scrapy/ | Web scraping using Python and Scrapy – UCSB Library Library Carpentry
-
-Feross
-https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
-
-Wes
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-https://twitter.com/wesbos/status/1399762874382311430 | Wes Bos on Twitter: "Today I'm launching my Beginner JavaScript text guide! These notes are totally free and have been modeled after the content in my Beginner JavaScript course. This is a huge resource I've been working on for over a year and I'm so excied to share it! https://t.co/PBlhpjIKlE https://t.co/QxckjuLnh8" / Twitter
-https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
-
-Frontend Masters
-https://frontendmasters.com/bootcamp/ | Learn Web Development Free (HTML, CSS and JavaScript) through the Frontend Masters Online Bootcamp
-Important
-https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
-
-Important
-https://web.dev/learn/css/ | Learn CSS
-https://beginnerwebdev.com/ | Beginner Web Dev
-
-https://domevents.dev/ | DOM Events
-https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
-
-MIT Course
-https://twitter.com/mgechev/status/1391973892948996098 | Minko Gechev on Twitter: "🔥 A free, practical course by the MIT that will teach you: ‣ How to use the shell &amp; script it ‣ Using vim ‣ Version control with git ‣ Debugging and profiling ‣ Metaprogramming ‣ Security ‣ More! https://t.co/oLIZ031QXb https://t.co/bTfLwoely4" / Twitter
-https://missing.csail.mit.edu/ | The Missing Semester of Your CS Education · the missing semester of your cs education
-
-https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
-
-
-https://opensourcestash.com/ | Open Source Stash
-https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
-
-http://meowni.ca/posts/emoji-emoji-emoji/
--->
-
-<!--
-https://free-for.dev/#/ | Free for developers
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
-
 https://github.com/ranman/make-a-demo | ranman/make-a-demo: This is a collection of tools, techniques, posts, and ideas for making compelling demos.
 https://github.com/terkelg/awesome-creative-coding | terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 https://github.com/toplap/awesome-livecoding | toplap/awesome-livecoding: All things livecoding
 Livestream
 https://twitter.com/jamesqquick/status/1415297731946496002 | James Q Quick on Twitter: "Do you do coding live streams? Leave your links below 👇" / Twitter
 
-
 https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
 https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
 
 
-https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
-https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
--->
-
-
-
-<!--
-https://home.cern/topics/birth-web | The birth of the web | CERN
-https://home.cern/science/computing/birth-web | The birth of the Web | CERN
-https://www.w3.org/DesignIssues/Architecture.html
-https://css-tricks.com/chapter-1-birth/
-
-http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
-https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
-https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
-https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
-
-https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
-https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
-
-Interesting
-https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
--->
-
-
-<!--
 Portfolio
 https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
 
@@ -377,6 +198,9 @@ https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to e
 
 Important
 https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
+
+Code Tour
+https://twitter.com/DynamicWebPaige/status/1400113390920486917 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "😍 Epic! I'm so excited to see #CodeTour being used as a guide, to familiarize potential open-source contributors with project codebases. @captainsafia: you have inspired me to attempt the same for a machine learning repo.🙂 Any preferences on scikit-learn, TF, or JAX, Twitter? https://t.co/BwWpHxxfxR" / Twitter
 -->
 
 <!--
@@ -424,29 +248,80 @@ Papers
 https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
 https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
 https://twitter.com/an_open_mind/status/1314541192458260482
+-->
 
-
-
-pyweek
-https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
-
-APIs
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-GIS
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
+<!--
+## Learning
 
 Important
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+https://discord.com/invite/t7bHjYQ | Commit Your Code!
 
-https://clig.dev/ | Command Line Interface Guidelines
+https://realpython.com/account/purchases/ | Your Purchases – Real Python
 
 
+https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
+
+https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
+https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
+
+CodeBuddies
+https://app.slack.com/client/T04AQ6GEY/D01A4NKEGKF | Slack | CodeBuddies Welcome | CodeBuddies
+https://github.com/codebuddies | CodeBuddies Community
+https://codebuddies.org/about | CodeBuddies | About
+
+https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
+https://github.com/LambdaSchool | Lambda School, Inc.
+-->
+
+<!--
+https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
+https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
+
+https://home.cern/topics/birth-web | The birth of the web | CERN
+https://home.cern/science/computing/birth-web | The birth of the Web | CERN
+https://www.w3.org/DesignIssues/Architecture.html
+https://css-tricks.com/chapter-1-birth/
+
+http://knosof.co.uk/ESEUR/ESEUR.pdf | Evidence-based Software Engineering: based on the publicly available data
+https://github.com/github/archive-program/blob/master/TheTechTree.md | archive-program/TheTechTree.md at master · github/archive-program
+https://cacm.acm.org/blogs/blog-cacm/248022-what-everyone-knows-and-what-no-one-knows/fulltext | What Everyone Knows and What No One Knows | blog@CACM | Communications of the ACM
+https://web.archive.org/web/20171015082005/http://www.acm.org/about/class | ACM Computing Classification System ToC — Association for Computing Machinery
+
+https://twitter.com/acemarke/status/1326346538252111872 | Mark Erikson on Twitter: "Linking my own posts for #DevDiscuss , because I think they're going to help folks. I'm working on a "How Web Apps Work" series for folks new to web dev: https://t.co/FE1Zy8cxbk https://t.co/a182GKeGZx https://t.co/mJ2oDBxcvG Got a couple more posts to write real soon too." / Twitter
+https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitter: "Just published the 5th post in my "How Web Apps Work" series, on "AJAX, APIs, and Data Transfer". Covers: - JSON - AJAX and request libs - Websockets - Other HTTP streaming methods - CORS - REST, RPC, and GraphQL APIs - Cookies and localStorage https://t.co/LwFemiJAS3" / Twitter
+
+Interesting
+https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
+-->
+
+<!--
+Docs
+
+https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
+
+https://twitter.com/evildmp/status/1022043729195159552 | Daniele Procida on Twitter: "Slides as used in my #EuroPython "Let's get your documentation right" workshop yesterday: https://t.co/KTs8UFDTOu See also https://t.co/U7aCoFermL" / Twitter
+https://www.dropbox.com/s/9c7slv6ets15so4/Get%20your%20documentation%20right.pdf?dl=0 | Get your documentation right.pdf
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://diataxis.fr/ | Home - Diátaxis
+https://speakerdeck.com/evildmp/documentation-driven-development?slide=15 | Documentation-driven development - Speaker Deck
+https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/edit# | Diátaxis workshop 16th June 2021 - Google Docs
+-->
+
+<!--
+https://github.com/jgthms/goodies | jgthms/goodies: Collection of GitHub repos, blogs and websites to learn cool things
+
+https://github.com/255kb/stack-on-a-budget | 255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+https://twitter.com/hashtag/MustHaveDevTools?src=hash | (9) #MustHaveDevTools hashtag on Twitter
+
+https://free-for.dev/#/ | Free for developers
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+https://opensourcestash.com/ | Open Source Stash
+https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
+-->
+
+<!--
+https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
 
 Important
 https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
@@ -454,23 +329,33 @@ https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Hel
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
 
-
 Checklists
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
 https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
 
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
 -->
 
 <!--
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+TLA+
+https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
+https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
 
 
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+
+https://computationalthinking.mit.edu/Fall20/
+
+https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
+https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
+https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
+
 
 https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
 
@@ -485,6 +370,8 @@ https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern 
 https://github.com/webpro/programming-principles
 
 https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
 -->
@@ -512,6 +399,8 @@ https://github.com/joelparkerhenderson/ground_rules#see-also
 -->
 
 <!--
+https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV7K/ref=sr_1_1?crid=NP7RH28VTXWD&dchild=1&keywords=innovation+stack&qid=1617295594&sprefix=innovation+stack,aps,173&sr=8-1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time (Audible Audio Edition): Jim McKelvey, Jim McKelvey, Penguin Audio: Audible Audiobooks
+
 ## Product
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
@@ -2609,6 +2498,8 @@ https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box |
 ## Chicken or Egg Problem
 
 <!--
+https://www.coldstart.com/ | The Cold Start Problem
+
 https://twitter.com/gregisenberg/status/1271084004326940673 | Greg Isenberg on Twitter: "Building "the anti-product" is often a successful way to build compelling products How do you build the: - The anti-Instagram - The anti-YouTube - The anti-Amazon - The anti-Netflix - etc You'll be surprised with what you come up with" / Twitter
 
 https://news.ycombinator.com/item?id=14602595 | What works in e-commerce – A meta-analysis of 6700 online experiments [pdf] | Hacker News
