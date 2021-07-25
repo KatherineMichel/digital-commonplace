@@ -227,6 +227,14 @@ https://github.com/LambdaSchool | Lambda School, Inc.
 -->
 
 <!--
+Anthony Explains
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+-->
+
+<!--
+https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
+
 https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
 https://docs.google.com/spreadsheets/d/1M_LFJ6DxBmlkuQuipVwA9qBWRMm6Z7M1zJ1EONe6K-I/edit#gid=2068363245 | DTC PUBLIC: Developer-Led Landscape - Google Sheets
 
@@ -456,15 +464,13 @@ https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@Joaqu
 ## Security
 
 Feross
-https://www.youtube.com/watch?v=XTcqlOFhpPI
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
+https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
 
-Feross
 https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-https://twitter.com/feross/status/1242173582169407488
 https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
 
 https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
 https://owasp.org/www-project-samm/ | OWASP SAMM
