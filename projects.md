@@ -16,6 +16,8 @@ https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-proj
 
 
 <!--
+https://web.dev/discoverable/
+
 http://js4ds.org/ | JavaScript for Data Science
 
 APIs
