@@ -21,6 +21,7 @@ http://js4ds.org/ | JavaScript for Data Science
 APIs
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
+
 Madelene Campos: Understanding Django
 https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
 
@@ -30,6 +31,7 @@ https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s �
 
 https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
 -->
+
 
 <!--
 Django Official Docs
@@ -61,6 +63,7 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
 Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
 
 ## Flask
 
@@ -173,7 +176,13 @@ https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 o
 -->
 
 
+
 <!--
+pyweek
+https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
+
+
+
 ## People
 
 Carlton Weeknotes
@@ -271,6 +280,7 @@ https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · Decemb
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
+
 
 ## Articles
 
@@ -376,9 +386,6 @@ David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
 <!--
-pyweek
-https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
-
 Games
 http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
 https://www.renpy.org/ | The Ren'Py Visual Novel Engine
