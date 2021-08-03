@@ -179,29 +179,6 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 -->
 
-<!--
-https://github.com/ranman/make-a-demo | ranman/make-a-demo: This is a collection of tools, techniques, posts, and ideas for making compelling demos.
-https://github.com/terkelg/awesome-creative-coding | terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-https://github.com/toplap/awesome-livecoding | toplap/awesome-livecoding: All things livecoding
-Livestream
-https://twitter.com/jamesqquick/status/1415297731946496002 | James Q Quick on Twitter: "Do you do coding live streams? Leave your links below 👇" / Twitter
-
-https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
-https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-
-Portfolio
-https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
-
-https://www.youtube.com/watch?v=4Z-pMC3WMg4 | Tips for Making Developer Content with Ali Spittel - Twitter Spaces vs Clubhouse? - YouTube
-https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to egghead like a pro.
-
-Important
-https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
-
-Code Tour
-https://twitter.com/DynamicWebPaige/status/1400113390920486917 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "😍 Epic! I'm so excited to see #CodeTour being used as a guide, to familiarize potential open-source contributors with project codebases. @captainsafia: you have inspired me to attempt the same for a machine learning repo.🙂 Any preferences on scikit-learn, TF, or JAX, Twitter? https://t.co/BwWpHxxfxR" / Twitter
--->
 
 <!--
 ## Learning
@@ -253,33 +230,6 @@ https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitte
 
 Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
--->
-
-<!--
-Docs
-
-https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
-
-https://twitter.com/evildmp/status/1022043729195159552 | Daniele Procida on Twitter: "Slides as used in my #EuroPython "Let's get your documentation right" workshop yesterday: https://t.co/KTs8UFDTOu See also https://t.co/U7aCoFermL" / Twitter
-https://www.dropbox.com/s/9c7slv6ets15so4/Get%20your%20documentation%20right.pdf?dl=0 | Get your documentation right.pdf
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://diataxis.fr/ | Home - Diátaxis
-https://speakerdeck.com/evildmp/documentation-driven-development?slide=15 | Documentation-driven development - Speaker Deck
-https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/edit# | Diátaxis workshop 16th June 2021 - Google Docs
--->
-
-<!--
-https://github.com/jgthms/goodies | jgthms/goodies: Collection of GitHub repos, blogs and websites to learn cool things
-
-https://github.com/255kb/stack-on-a-budget | 255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
-https://twitter.com/hashtag/MustHaveDevTools?src=hash | (9) #MustHaveDevTools hashtag on Twitter
-
-https://free-for.dev/#/ | Free for developers
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-https://awesomeopensource.com/projects/django | The Top 1,024 Django Open Source Projects
-https://opensourcestash.com/ | Open Source Stash
-https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
 -->
 
 <!--
@@ -446,19 +396,25 @@ https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliabili
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 -->
 
-
 <!--
-## Docs
+Docs
+
+https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
+
+https://twitter.com/evildmp/status/1022043729195159552 | Daniele Procida on Twitter: "Slides as used in my #EuroPython "Let's get your documentation right" workshop yesterday: https://t.co/KTs8UFDTOu See also https://t.co/U7aCoFermL" / Twitter
+https://www.dropbox.com/s/9c7slv6ets15so4/Get%20your%20documentation%20right.pdf?dl=0 | Get your documentation right.pdf
+https://documentation.divio.com/ | The documentation system — Documentation system documentation
+https://diataxis.fr/ | Home - Diátaxis
+https://speakerdeck.com/evildmp/documentation-driven-development?slide=15 | Documentation-driven development - Speaker Deck
+https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/edit# | Diátaxis workshop 16th June 2021 - Google Docs
+
+https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
+https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
 
 Docs Audit
 https://twitter.com/GoogleOSS/status/1367882772916953098 | Google Open Source on Twitter: "📂 Are you struggling to understand what docs your open source project has, what docs your project needs, and how to bridge that gap? Check out this new documentation content maturity checklist and guide from @ddbeck, open sourced by Google → https://t.co/Yt3ObDc8sx https://t.co/YG1yVKcJm3" / Twitter
 https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · google/opendocs · GitHub
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
-
-Docs
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
-https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
 -->
 
 <!--
@@ -490,6 +446,45 @@ https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-dem
 https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
 -->
 
+
+
+<!--
+https://github.com/jgthms/goodies | jgthms/goodies: Collection of GitHub repos, blogs and websites to learn cool things
+
+https://github.com/255kb/stack-on-a-budget | 255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
+https://twitter.com/hashtag/MustHaveDevTools?src=hash | (9) #MustHaveDevTools hashtag on Twitter
+
+https://free-for.dev/#/ | Free for developers
+https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+
+https://awesomeopensource.com/projects/django | The Top 1,024 Django Open Source Projects
+https://opensourcestash.com/ | Open Source Stash
+https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
+-->
+
+<!--
+https://github.com/ranman/make-a-demo | ranman/make-a-demo: This is a collection of tools, techniques, posts, and ideas for making compelling demos.
+https://github.com/terkelg/awesome-creative-coding | terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
+https://github.com/toplap/awesome-livecoding | toplap/awesome-livecoding: All things livecoding
+Livestream
+https://twitter.com/jamesqquick/status/1415297731946496002 | James Q Quick on Twitter: "Do you do coding live streams? Leave your links below 👇" / Twitter
+
+https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
+https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+
+
+Portfolio
+https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
+
+https://www.youtube.com/watch?v=4Z-pMC3WMg4 | Tips for Making Developer Content with Ali Spittel - Twitter Spaces vs Clubhouse? - YouTube
+https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to egghead like a pro.
+
+Important
+https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
+
+Code Tour
+https://twitter.com/DynamicWebPaige/status/1400113390920486917 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "😍 Epic! I'm so excited to see #CodeTour being used as a guide, to familiarize potential open-source contributors with project codebases. @captainsafia: you have inspired me to attempt the same for a machine learning repo.🙂 Any preferences on scikit-learn, TF, or JAX, Twitter? https://t.co/BwWpHxxfxR" / Twitter
+-->
 
 ## Productivity Tools
 
@@ -654,6 +649,20 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 -->
 
 
+## Launch
+
+<!--
+https://github.com/github/docs
+
+Launch Story
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+-->
+
 ## Project Management and Roadmaps
 
 * [GitHub Roadmap](https://github.com/github/roadmap)
@@ -689,19 +698,7 @@ https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion 
 https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
 -->
 
-## Launch
 
-<!--
-https://github.com/github/docs
-
-Launch Story
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-Rapid dev
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
--->
 
 ## Case Studies
 
