@@ -1,83 +1,5 @@
 # Projects
 
-
-<!--
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-GIS
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
-
-Important
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
--->
-
-
-<!--
-http://js4ds.org/ | JavaScript for Data Science
-
-APIs
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
-
-Madelene Campos: Understanding Django
-https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
-
-https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
-https://www.reddit.com/r/learnpython/ | Python Education
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
--->
-
-
-<!--
-Django Official Docs
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
-
-https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
-https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
-
-
-Packaging
-https://pypi.org/
-https://packaging.python.org/tutorials/packaging-projects/
-https://realpython.com/pypi-publish-python-package/
-
-https://realpython.com/intermediate-python-project-ideas/
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-## Django
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-
-## Flask
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-Flask
-https://www.google.com/search?q=flask+database+models&oq=flask+database+model&aqs=chrome.0.0j69i57j0i22i30l2.2824j0j7&sourceid=chrome&ie=UTF-8 | flask database models - Google Search
--->
-
 <!--
 HTTP, API, DOM
 https://expressjs.com/en/api.html
@@ -175,15 +97,34 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+<!--
+GIS
 
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+GIS
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
+
+Important
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+-->
 
 <!--
 pyweek
 https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
 
+Games
+http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
+https://www.renpy.org/ | The Ren'Py Visual Novel Engine
+-->
 
-
+<!--
 ## People
+
+https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
 
 Carlton Weeknotes
 https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
@@ -197,27 +138,73 @@ https://twitter.com/simonw/status/1250652889938186240
 https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
 https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
 https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
+-->
 
 
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
 
 
-Project
-https://bloggingfordevs.com/trends/how-it-works/ | Blogging for Devs Trends: How It Works
+
+<!--
+http://js4ds.org/ | JavaScript for Data Science
+
+APIs
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
 
-https://django-jobs.cog.gs/ | Django Jobs
+Madelene Campos: Understanding Django
+https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
 
-https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
+https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+https://www.reddit.com/r/learnpython/ | Python Education
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
 
-Papers
-https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
-https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
-https://twitter.com/an_open_mind/status/1314541192458260482
+https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
+-->
+
+
+<!--
+Django Official Docs
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
+https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
+
+
+Packaging
+https://pypi.org/
+https://packaging.python.org/tutorials/packaging-projects/
+https://realpython.com/pypi-publish-python-package/
+
+https://realpython.com/intermediate-python-project-ideas/
+https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
+
+Python Application Layouts
+https://realpython.com/python-application-layouts/
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+## Django
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+
+## Flask
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+Flask
+https://www.google.com/search?q=flask+database+models&oq=flask+database+model&aqs=chrome.0.0j69i57j0i22i30l2.2824j0j7&sourceid=chrome&ie=UTF-8 | flask database models - Google Search
 -->
 
 
@@ -245,6 +232,12 @@ https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-mi
 -->
 
 <!--
+https://www.djangoproject.com/weblog/
+https://www.djangoproject.com/community/ | Django Community | Django
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
@@ -256,12 +249,8 @@ https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
 https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
 https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
-
-https://www.djangoproject.com/weblog/
-https://www.djangoproject.com/community/ | Django Community | Django
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 -->
+
 
 ## Git News
 
@@ -281,6 +270,43 @@ https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · Novemb
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
+
+
+<!--
+## Projects
+
+Trends
+https://github.com/trending/python?since=monthly | Trending Python repositories on GitHub this month
+
+Papers
+https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://twitter.com/an_open_mind/status/1314541192458260482
+
+Montly Repls
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
+
+People
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+
+Article Roundups
+
+https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+
+Posts and comments
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
+https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Underrated Articles on Dev.to from Last Week - DEV Community 👩‍💻👨‍💻
+
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+-->
 
 ## Articles
 
@@ -311,20 +337,8 @@ https://stackshare.io/featured-posts
 https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
 
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-## Must Read
-
-Montly Repls
-https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
-
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
-
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 -->
+
 
 ## Tutorials
 
@@ -385,11 +399,8 @@ https://www.crowdcast.io/e/learning
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
-<!--
-Games
-http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
-https://www.renpy.org/ | The Ren'Py Visual Novel Engine
 
+<!--
 HackInScience
 https://www.hackinscience.org/ | HackInScience — Python Exercises
 https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
@@ -525,6 +536,10 @@ Coding Competitions
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
 
 <!--
+Figma Maker Week
+https://twitter.com/hnshah/status/1393338480583843840 | Hiten Shah on Twitter: "This is really cool..." / Twitter
+
+
 https://www.thebuildies.com/
 
 https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
@@ -711,19 +726,18 @@ https://www.youtube.com/colbz/videos
 
 ## Makers
 
+Women Who Inspire Me- JavaScript
+* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
+
 Django, GitHub, SQL
 * [Jeff Triplett Twitter](https://twitter.com/webology)
 * [Simon Willison](https://static.simonwillison.net)
 
-Women Who Inspire Me- Python
-* [Mariatta GitHub](https://github.com/mariatta)
-* [Lorena Mesa GitHub](https://github.com/lorenanicole)
-* [Jessica Garson GitHub](https://github.com/JessicaGarson)
-* [Nina Zakharenko Twitter](https://twitter.com/nnja)
-
-Women Who Inspire Me- JavaScript
-* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
-* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* [Feross Aboukhadijeh GitHub](https://github.com/feross)
+* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
 
 GitHub
 * [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
@@ -732,10 +746,11 @@ GitHub
 * [Gregor Martynus GitHub](https://github.com/gr2m/)
 * [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
 
-Product
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* [Feross Aboukhadijeh GitHub](https://github.com/feross)
-* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
+Women Who Inspire Me- Python
+* [Mariatta GitHub](https://github.com/mariatta)
+* [Lorena Mesa GitHub](https://github.com/lorenanicole)
+* [Jessica Garson GitHub](https://github.com/JessicaGarson)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
 
 Women Who Inspire Me
 * [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
