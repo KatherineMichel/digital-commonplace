@@ -98,6 +98,11 @@ https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 o
 -->
 
 <!--
+APIs
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+-->
+
+<!--
 GIS
 
 https://postgis.net/docs/manual-3.0/
@@ -121,34 +126,11 @@ http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
 https://www.renpy.org/ | The Ren'Py Visual Novel Engine
 -->
 
-<!--
-## People
-
-https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
-
-Carlton Weeknotes
-https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
-https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
-https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
-https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
-
-Weeknotes Methodology
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-https://twitter.com/simonw/status/1250652889938186240
-https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
-https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
-https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
--->
-
-
 
 
 
 <!--
 http://js4ds.org/ | JavaScript for Data Science
-
-APIs
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
 
 Madelene Campos: Understanding Django
@@ -241,7 +223,10 @@ https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+-->
 
+
+<!--
 Django News
 Important
 https://django-news.com/ | Django News
@@ -249,6 +234,23 @@ https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
 https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
 https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
+
+## People
+
+https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
+
+Carlton Weeknotes
+https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
+https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
+https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
+https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
+
+Weeknotes Methodology
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+https://twitter.com/simonw/status/1250652889938186240
+https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
+https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
+https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
 -->
 
 
@@ -404,16 +406,15 @@ David Beazley
 HackInScience
 https://www.hackinscience.org/ | HackInScience — Python Exercises
 https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
-
-
-Impractical Python Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-https://www.programmer-books.com/python-projects-pdf/ | Python Projects [PDF] - Programmer Books
 -->
 
 
 <!--
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
 
 
 Al
@@ -539,24 +540,29 @@ Coding Competitions
 Figma Maker Week
 https://twitter.com/hnshah/status/1393338480583843840 | Hiten Shah on Twitter: "This is really cool..." / Twitter
 
-
 https://www.thebuildies.com/
 
-https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
-
+Hashnode/Vercel
 https://townhall.hashnode.com/announcing-hashnode-hackathon-powered-by-vercel
 
+Yahoo
+https://yahoo.github.io/hacktogether/ | Yahoo Hack Together
+
+Digital Ocean
 https://github.com/digitalocean/hacktoberfest | digitalocean/hacktoberfest: Hacktoberfest!
 https://blog.digitalocean.com/recapping-hacktoberfest-6/ | Recapping Hacktoberfest #6 and Looking to Next Year
 
+New Relic
 https://www.therelicans.com/therelicans/hack-the-planet-contest-winners-announced-22po | Hack the Planet Contest Winners, Announced! - The Relicans
 https://dev.to/devteam/announcing-the-new-relic-hack-the-planet-contest-on-dev-5d | Announcing the New Relic Hack the Planet Contest on DEV! - DEV Community 👩‍💻👨‍💻
 https://dev.to/devteam/announcing-the-digitalocean-app-platform-hackathon-on-dev-2i1k
 
+repl.it
 https://repl.it/talk/announcements/Programming-Language-Jam-Let-the-hacking-begin/49105 | Repl.it - Programming Language Jam -- Let the hacking begin!
 https://blog.repl.it/langjam | Repl.it - The Programming Language Jam & Grant
 https://repl.it/talk/challenge/Discord-Bot-Competition-Results/9035 | Repl.it - Discord Bot Competition Results
 
+GitHub
 https://github.blog/2019-09-26-introducing-the-codesearchnet-challenge/ | Introducing the CodeSearchNet challenge - The GitHub Blog
 -->
 
@@ -634,6 +640,7 @@ https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶�
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
+
 
 ## Creation Blogs
 
