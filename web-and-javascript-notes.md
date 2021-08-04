@@ -395,8 +395,8 @@ JavaScript Libraries/Frameworks
 * [List of JavaScript Libraries Wikipedia](https://en.wikipedia.org/wiki/List_of_JavaScript_libraries)
 * [Comparison of JavaScript Frameworks Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_JavaScript_frameworks)
 
-* [GitHub Trending: JavaScript](https://github.com/trending/javascript)
-* [GitHub Topic: JavaScript](https://github.com/topics/javascript)
+* [GitHub Trending JavaScript](https://github.com/trending/javascript)
+* [GitHub Topic JavaScript](https://github.com/topics/javascript)
 
 JavaScript Articles
 * [JavaScript Scene](https://medium.com/javascript-scene)
