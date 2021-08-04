@@ -545,7 +545,6 @@ https://chrome.google.com/webstore/detail/speech-recognition-anywhe/kdnnmhpmcakd
 -->
 
 
-
 ## Software Engineering
 
 Software Project Management
@@ -2121,91 +2120,6 @@ Agency
 <!--
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
 -->
-
-## To Look At
-
-Nuzzel
-* [Nuzzel](http://nuzzel.com)
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Trending Python](https://github.com/trending/python)
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best), 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-
-Other Aggregators
-* [Lobsters](https://lobste.rs)
-* [Indie Hackers](https://www.indiehackers.com)
-
-Python
-* [Pythonic News](https://news.python.sc/)
-
-Product Hunt
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-Articles
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-<!--
-https://thenewstack.io
-
-https://womenmake.com/ | Women Make
-
-https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
-
-https://hn.algolia.com/?q=ask+hn
-
-https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
-
-
-https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
-
-https://substack.com/discover | Substack
-
-https://twitter.com/explore/tabs/for-you | Explore / Twitter
-https://www.youtube.com/feed/trending | Trending - YouTube
-
-Staff pick
-https://vimeo.com/channels/bestofthemonth
-https://vimeo.com/channels/staffpicks
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
--->
-
 
 ## Digital Commonplace and Knowledge Base
 
