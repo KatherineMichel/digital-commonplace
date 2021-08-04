@@ -350,13 +350,6 @@ https://store.lerner.co.il/python-for-non-programmers-live | Python for non-prog
 
 ## Python Trending, Forums, and Articles
 
-Python Trending, Topics, Forums
-* [GitHub Trending: Python](https://github.com/trending/python)
-* [GitHub Topic: Python](https://github.com/topics/python)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
-
-
 Tutorials
 * [Code Tuts+](https://code.tutsplus.com)
 * [Site Point](https://www.sitepoint.com)
