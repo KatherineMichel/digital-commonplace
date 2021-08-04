@@ -199,295 +199,6 @@ https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for 
 -->
 
 
-## Django and Python News
-
-<!--
-https://blog.jetbrains.com/pycharm/
-
-https://blog.python.org/
-
-What's New
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-https://www.python.org/download/pre-releases/
-
-Peps
-https://www.python.org/dev/peps/
-
-https://www.djangoproject.com/weblog/
-https://www.djangoproject.com/community/ | Django Community | Django
-
-
-https://twitter.com/Jo_Jablonski | Joanna Jablonski (@Jo_Jablonski) / Twitter
-
-Python Language Summit
-https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-python.html | Python Software Foundation News: The 2021 Python Language Summit: The Python Documentation Work Group
-https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-what.html | Python Software Foundation News: The 2021 Python Language Summit: What Should I Work on as a Core Dev?
-https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-fuzzing.html | Python Software Foundation News: The 2021 Python Language Summit: Fuzzing and Testing Python With Properties
-https://mariatta.ca/language_summit_data/ | Python Language Summit 2021 - Sign Up Data
-https://twitter.com/mariatta/status/1372245619637592065 | Mariatta 🤦 on Twitter: "Interesting development... We received a whole bunch of new sign ups and topic proposals to the Python Language Summit in the past 2 days alone 😲 📈 Details: https://t.co/ZiwqximE9Y Stats: https://t.co/X5ZcPYXPFP" / Twitter
-
-Docs Workgroup
-https://twitter.com/VictorStinner/status/1387073592345640960 | Victor Stinner 🐍 on Twitter: "New Docs Workgroup: https://t.co/hkGrRZ7yOr The purpose of this working group is to support the larger efforts of improving and maintaining CPython's Documentation through documentation curation, internationalization, and special projects. @WillingCarol @mariatta @sizeof @nedbat" / Twitter
-https://mail.python.org/archives/list/python-dev@python.org/message/LELGQN3HMOJXWD4QCPBL5EZVFAFX7SGC/ | Mailman 3 [Python-Dev] Announcing the CPython Docs Workgroup - Python-Dev - python.org
--->
-
-<!--
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
-
-Roundup
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
--->
-
-
-<!--
-Django News
-Important
-https://django-news.com/ | Django News
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
-https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
-https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
-
-## People
-
-https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
-
-Carlton Weeknotes
-https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
-https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
-https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
-https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
-
-Weeknotes Methodology
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-https://twitter.com/simonw/status/1250652889938186240
-https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
-https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
-https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
--->
-
-
-## Git News
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-## GitHub Must Read
-
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
--->
-
-
-
-<!--
-## Projects
-
-Trends
-https://github.com/trending/python?since=monthly | Trending Python repositories on GitHub this month
-
-Papers
-https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
-https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
-https://twitter.com/an_open_mind/status/1314541192458260482
-
-Montly Repls
-https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
-
-
-People
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-
-Article Roundups
-
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
-
-Posts and comments
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
-https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Underrated Articles on Dev.to from Last Week - DEV Community 👩‍💻👨‍💻
-
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
--->
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-https://www.nature.com/ | Nature
--->
-
-<!--
-## Trends
-
-https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-
-## Tutorials
-
-Show Hacker News and IH
-* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
-* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
-
-Python Tutorials
-* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
-* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
-
-Python Articles
-* [The Practical Dev Python](https://dev.to/search?q=python)
-* [Hacker Noon Python](https://hackernoon.com/search?query=python)
-* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
-
-<!--
-https://dev.to/t/python
-
-https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
-
-
-## Python Learning Resources
-
-Full Stack Python
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Real Python
-* [Real Python Materials](https://github.com/realpython/materials)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
-Trey Hunner
-* [Trey Hunner](https://treyhunner.com/)
-
-Michael
-* [Michael Herman](https://mherman.org/talks)
-
-<!--
-https://mherman.org/presentations/pytn-2018/#1
-https://mherman.org/presentations/flask-kubernetes/#1
-https://mherman.org/presentations/dockercon-2018/#1
-https://mherman.org/presentations/test-driven-writing/#1
-https://www.crowdcast.io/e/learning
--->
-
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-
-<!--
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-
-https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
-https://www.reddit.com/r/learnpython/ | Python Education
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-
-HackInScience
-https://www.hackinscience.org/ | HackInScience — Python Exercises
-https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
-
-
-Impractical Python Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-
-
-Al
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
-https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-http://inventwithpython.com/beyond/
-https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-
-
-No Starch
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-
-Eric
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
--->
-
-
-## Python Learning Resources- Set Aside
-
-TestDriven.io
-* [Test Driven Blog](https://testdriven.io/blog/)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
-* [Real Python Courses](https://realpython.com/courses)
-
 ## High Performance Trends
 
 List of Engineering Blogs
@@ -496,7 +207,6 @@ List of Engineering Blogs
 
 Python Success Stories
 * [Python Success Stories](https://www.python.org/success-stories)
-
 
 ## Stack
 
@@ -534,6 +244,48 @@ https://reactjs.org/community/examples.html
 https://madewithreactnative.com/
 
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
+## Projects
+
+Projects
+* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
+
+App Ideas
+* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
+* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
+* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
+* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
+* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+
+<!--
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
+
+https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
+
+https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
+
+https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
+
+Node
+https://github.com/sqreen/awesome-nodejs-projects
+
+Python
+https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
+
+https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
+
+https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
+
+https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
+
+https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
 
 ### 100 Something
@@ -624,48 +376,197 @@ https://github.blog/2020-10-11-top-ten-games-from-the-js13k-2020-competition/ | 
 https://js13kgames.com/
 -->
 
-## Projects
+## GitHub and VS Code Integration
 
-Projects
-* [Project-Based Learning Wikipedia](https://en.wikipedia.org/wiki/Project-based_learning)
-
-App Ideas
-* [Awesome Python Applications GitHub](https://github.com/mahmoud/awesome-python-applications)
-* [Free Code Camp: "Want to build something fun? Here’s a list of sample web app ideas."](https://medium.freecodecamp.org/want-to-build-something-fun-heres-a-list-of-sample-web-app-ideas-b991bce0ed9a)
-* [Projects GitHub](https://github.com/karan/Projects) and [Project Solutions GitHub](https://github.com/karan/Projects-Solutions)
-* [Built Your Own X GitHub](https://github.com/danistefanovic/build-your-own-x)
-* [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
 
 <!--
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
 
-https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
 
-https://github.com/melanierichards/just-build-websites | melanierichards/just-build-websites: Some ideas for websites you can build!
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
 
-https://nedbatchelder.com/text/kindling.html | Ned Batchelder: Kindling projects
+GitHub/Zeit
+https://zeit.co/github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
 
-https://www.upgrad.com/blog/python-projects-ideas-topics-beginners/ | 42 Exciting Python Project Ideas & Topics for Beginners [2020] | upGrad blog
-
-Node
-https://github.com/sqreen/awesome-nodejs-projects
-
-Python
-https://github.com/kyclark/tiny_python_projects | kyclark/tiny_python_projects: Learning Python through test-driven development of games and puzzles
-
-https://github.com/NirantK/awesome-project-ideas | NirantK/awesome-project-ideas: Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#for-those-who-want-to-start-a-small-project-but-cant-find-the-ideas | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-https://github.com/vicky002/1000_Projects | vicky002/1000_Projects: Mega List of practical projects that one can solve in any programming language!
-
-https://dev.to/mibzman/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-https://dev.to/samborick/100-project-ideas-oda | 100+ Project Ideas - DEV Community 👩‍💻👨‍💻
-
-https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶𝗻 💻🚀 on Twitter: "Top Beginner Projects for New Programmer. &gt; Calculator App &gt; Rock Paper Scissors Game &gt; To-do List App &gt; Tic Tac Toe Game &gt; BMI App &gt; Snake Game What Other Projects Can Help Beginners? #100DaysOfCode" / Twitter
-
-https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
 -->
 
+
+<!--
+https://vercel.com/
+https://vercel.com/docs/cli
+
+https://www.netlify.com/
+https://docs.netlify.com/cli/get-started/
+https://www.netlifycms.org/docs/start-with-a-template/
+
+https://www.netlify.com/github-pages-vs-netlify/
+https://en.wikipedia.org/wiki/A/B_testing
+
+https://firebase.google.com/
+
+https://github.com/features/actions
+
+Pages
+https://docs.gitlab.com/ee/user/project/pages/
+
+https://glitch.com/
+https://help.glitch.com/home/
+https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
+https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
+
+Getting Started
+https://help.glitch.com/kb/section/2/
+
+Project Editor
+https://help.glitch.com/kb/section/7/
+
+Sharing
+https://help.glitch.com/kb/section/9/
+-->
+
+<!--
+Important
+https://templates.netlify.com/
+
+
+https://vercel.com/new/templates
+https://vercel.com/solutions/nextjs
+https://vercel.com/solutions/react
+
+Next.js
+https://github.com/nextjs-starters/nextjs-starters
+https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
+https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+-->
+
+<!--
+Example Apps
+
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+
+Collections
+https://help.glitch.com/kb/article/4-what-are-collections/
+Find a Collection
+https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
+
+Glitch Team Faves
+https://glitch.com/@glitch/glitch-team-faves
+
+https://glitch.com/@glitch/games
+https://glitch.com/@glitch/bots
+https://glitch.com/@glitch/music
+https://glitch.com/@glitch/art
+https://glitch.com/@glitch/tools-for-work
+https://glitch.com/@glitch/hardware
+https://glitch.com/@glitch/building-blocks
+https://glitch.com/@glitch/learn-to-code
+
+https://blog.glitch.com/post/website-starter-kit
+https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+
+
+Databases
+https://glitch.com/@storage
+https://glitch.com/~sqlite3-db
+https://glitch.com/~mongodb
+
+Look through
+https://glitch.com/@glitch
+
+Important
+https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
+https://glitch.com/create
+Classic Website
+Node.js
+React Static Site Generator
+Eleventy Static Site Generator
+https://help.glitch.com/kb/article/38-what-types-of-apps-can-i-make-on-glitch/
+
+Starter Project stuff
+https://glitch.com/~glitch-hello-eleventy
+https://help.glitch.com/kb/article/111-what-is-eleventy-11ty-and-how-can-i-use-it-on-glitch/
+https://glitch.com/~glitch-hello-react
+https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and-how-can-i-use-it-on-glitch/
+https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
+https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
+
+https://glitch.com/~glitch-hello-node
+https://glitch.com/~glitch-hello-express
+https://glitch.com/~glitch-hello-svelte
+
+https://glitch.com/@slack
+https://glitch.com/@spotify
+https://glitch.com/@twitchdev
+https://glitch.com/@trello
+https://glitch.com/@material
+-->
+
+<!--
+https://blog.repl.it/database | Repl.it - A database for every repl
+
+Important
+https://repl.it/templates
+https://replit.com/@templates/Django-App-Template
+https://replit.com/@templates/Multi-Page-Flask-Template
+https://replit.com/@templates/Create-React-App
+https://replit.com/@templates/react-express-template
+https://replit.com/@templates/Python-Processing-Template
+
+https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
+https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
+https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
+https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
+
+For Fun
+https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
+https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
+https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
+
+https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+-->
+
+<!--
+https://colab.research.google.com/
+https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
+
+GitHub/VS Code
+
+https://blog.repl.it/alwayson
+https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
+https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
+-->
+
+## Dev Tools, Projects, and Demos
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+* [CodePen Projects](http://codepen.io/projects/)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+https://codepen.io/
+https://codepen.io/trending
+-->
 
 ## Creation Blogs
 
@@ -841,198 +742,384 @@ https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Fol
 https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
 -->
 
-## Dev Tools, Projects, and Demos
 
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
+## Git News
 
-* [CodePen Projects](http://codepen.io/projects/)
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
-Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
-
-CodePen
-* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
-* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
 
 <!--
-https://codepen.io/
-https://codepen.io/trending
+## GitHub Must Read
+
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
+
+## To Look At
+
+<!--
+Nuzzel
+* [Nuzzel](http://nuzzel.com)
+
+Nuzzel Custom Feeds
+* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
+* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
+-->
+
+Interesting Links
+* [GitHub Trending](https://github.com/trending)
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Python Stuff
+* [Pythonic News](https://news.python.sc/)
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
+* [Reddit Python](https://www.reddit.com/r/Python)
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best), 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+Articles
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+<!--
+https://thenewstack.io
+
+https://womenmake.com/ | Women Make
+
+https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
+
+https://hn.algolia.com/?q=ask+hn
+
+https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
+
+
+https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
+
+https://substack.com/discover | Substack
+
+https://twitter.com/explore/tabs/for-you | Explore / Twitter
+https://www.youtube.com/feed/trending | Trending - YouTube
+
+Staff pick
+https://vimeo.com/channels/bestofthemonth
+https://vimeo.com/channels/staffpicks
+
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
 
 
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
 
 <!--
-https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+## Projects
 
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+Trends
+https://github.com/trending/python?since=monthly | Trending Python repositories on GitHub this month
 
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+Papers
+https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://twitter.com/an_open_mind/status/1314541192458260482
 
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+Montly Repls
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
 
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+
+
+People
+
+https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
+
+https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
+
+
+Article Roundups
+
+https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
+
+Posts and comments
+https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
+https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Underrated Articles on Dev.to from Last Week - DEV Community 👩‍💻👨‍💻
+
+https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+https://www.nature.com/ | Nature
+-->
+
+<!--
+## Trends
+
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+
+## Tutorials
+
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
+
+Python Tutorials
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
+
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+
+<!--
+https://dev.to/t/python
+
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+-->
+
+
+## Django and Python News
+
+<!--
+https://blog.jetbrains.com/pycharm/
+
+https://blog.python.org/
+
+Peps
+https://www.python.org/dev/peps/
+
+https://www.djangoproject.com/weblog/
+https://www.djangoproject.com/community/ | Django Community | Django
+
+
+https://twitter.com/Jo_Jablonski | Joanna Jablonski (@Jo_Jablonski) / Twitter
+
+Python Language Summit
+https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-python.html | Python Software Foundation News: The 2021 Python Language Summit: The Python Documentation Work Group
+https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-what.html | Python Software Foundation News: The 2021 Python Language Summit: What Should I Work on as a Core Dev?
+https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-fuzzing.html | Python Software Foundation News: The 2021 Python Language Summit: Fuzzing and Testing Python With Properties
+https://mariatta.ca/language_summit_data/ | Python Language Summit 2021 - Sign Up Data
+https://twitter.com/mariatta/status/1372245619637592065 | Mariatta 🤦 on Twitter: "Interesting development... We received a whole bunch of new sign ups and topic proposals to the Python Language Summit in the past 2 days alone 😲 📈 Details: https://t.co/ZiwqximE9Y Stats: https://t.co/X5ZcPYXPFP" / Twitter
+
+Docs Workgroup
+https://twitter.com/VictorStinner/status/1387073592345640960 | Victor Stinner 🐍 on Twitter: "New Docs Workgroup: https://t.co/hkGrRZ7yOr The purpose of this working group is to support the larger efforts of improving and maintaining CPython's Documentation through documentation curation, internationalization, and special projects. @WillingCarol @mariatta @sizeof @nedbat" / Twitter
+https://mail.python.org/archives/list/python-dev@python.org/message/LELGQN3HMOJXWD4QCPBL5EZVFAFX7SGC/ | Mailman 3 [Python-Dev] Announcing the CPython Docs Workgroup - Python-Dev - python.org
+-->
+
+<!--
+What's New
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+
+https://www.python.org/download/pre-releases/
+
+
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
+
+Roundup
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
 -->
 
 
 <!--
-https://vercel.com/
-https://vercel.com/docs/cli
-
-https://www.netlify.com/
-https://docs.netlify.com/cli/get-started/
-https://www.netlifycms.org/docs/start-with-a-template/
-
-https://www.netlify.com/github-pages-vs-netlify/
-https://en.wikipedia.org/wiki/A/B_testing
-
-https://firebase.google.com/
-
-https://github.com/features/actions
-
-Pages
-https://docs.gitlab.com/ee/user/project/pages/
-
-https://glitch.com/
-https://help.glitch.com/home/
-https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
-https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
-
-Getting Started
-https://help.glitch.com/kb/section/2/
-
-Project Editor
-https://help.glitch.com/kb/section/7/
-
-Sharing
-https://help.glitch.com/kb/section/9/
--->
-
-<!--
+Django News
 Important
-https://templates.netlify.com/
+https://django-news.com/ | Django News
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
+https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
+https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 
+## People
 
-https://vercel.com/new/templates
-https://vercel.com/solutions/nextjs
-https://vercel.com/solutions/react
+https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
 
-Next.js
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
+Carlton Weeknotes
+https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
+https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
+https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
+https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
+
+Weeknotes Methodology
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+https://twitter.com/simonw/status/1250652889938186240
+https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
+https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
+https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
 -->
+
+
+## Python Learning Resources
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Real Python
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+Michael
+* [Michael Herman](https://mherman.org/talks)
 
 <!--
-Example Apps
-
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-Collections
-https://help.glitch.com/kb/article/4-what-are-collections/
-Find a Collection
-https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
-
-Glitch Team Faves
-https://glitch.com/@glitch/glitch-team-faves
-
-https://glitch.com/@glitch/games
-https://glitch.com/@glitch/bots
-https://glitch.com/@glitch/music
-https://glitch.com/@glitch/art
-https://glitch.com/@glitch/tools-for-work
-https://glitch.com/@glitch/hardware
-https://glitch.com/@glitch/building-blocks
-https://glitch.com/@glitch/learn-to-code
-
-https://blog.glitch.com/post/website-starter-kit
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-
-
-Databases
-https://glitch.com/@storage
-https://glitch.com/~sqlite3-db
-https://glitch.com/~mongodb
-
-Look through
-https://glitch.com/@glitch
-
-Important
-https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
-https://glitch.com/create
-Classic Website
-Node.js
-React Static Site Generator
-Eleventy Static Site Generator
-https://help.glitch.com/kb/article/38-what-types-of-apps-can-i-make-on-glitch/
-
-Starter Project stuff
-https://glitch.com/~glitch-hello-eleventy
-https://help.glitch.com/kb/article/111-what-is-eleventy-11ty-and-how-can-i-use-it-on-glitch/
-https://glitch.com/~glitch-hello-react
-https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and-how-can-i-use-it-on-glitch/
-https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
-https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
-
-https://glitch.com/~glitch-hello-node
-https://glitch.com/~glitch-hello-express
-https://glitch.com/~glitch-hello-svelte
-
-https://glitch.com/@slack
-https://glitch.com/@spotify
-https://glitch.com/@twitchdev
-https://glitch.com/@trello
-https://glitch.com/@material
+https://mherman.org/presentations/pytn-2018/#1
+https://mherman.org/presentations/flask-kubernetes/#1
+https://mherman.org/presentations/dockercon-2018/#1
+https://mherman.org/presentations/test-driven-writing/#1
+https://www.crowdcast.io/e/learning
 -->
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
 
 <!--
-https://blog.repl.it/database | Repl.it - A database for every repl
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
-Important
-https://repl.it/templates
-https://replit.com/@templates/Django-App-Template
-https://replit.com/@templates/Multi-Page-Flask-Template
-https://replit.com/@templates/Create-React-App
-https://replit.com/@templates/react-express-template
-https://replit.com/@templates/Python-Processing-Template
 
-https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
-https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
-https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
-https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
+https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+https://www.reddit.com/r/learnpython/ | Python Education
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
 
-For Fun
-https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
-https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
-https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
 
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
+HackInScience
+https://www.hackinscience.org/ | HackInScience — Python Exercises
+https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
+
+
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+
+
+Al
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+http://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
+
+No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+Eric
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
 
-<!--
-https://colab.research.google.com/
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
 
-GitHub/VS Code
+## Python Learning Resources- Set Aside
 
-https://blog.repl.it/alwayson
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
--->
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
 
 
 ## Data Science and Network Analysis
