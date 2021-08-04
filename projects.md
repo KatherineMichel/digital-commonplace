@@ -97,9 +97,20 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+
 <!--
 APIs
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+http://contrafabulists.com/
+-->
+
+<!--
+Music
+
+https://foxdot.org/ | FoxDot | Home
+
+https://github.com/luvsound/pippi | luvsound/pippi: computer music with python
 -->
 
 <!--
@@ -118,14 +129,35 @@ https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-proj
 -->
 
 <!--
+https://www.pygame.org/news | https://www.pygame.org/news
+https://mail.python.org/archives/list/python-announce-list@python.org/thread/EL6WL7FX6ODT5IEUB4XUSGLKFQEKLGGS/ | Mailman 3 pygame 2 - Python-announce-list - python.org
+
 pyweek
 https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
 
 Games
 http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
 https://www.renpy.org/ | The Ren'Py Visual Novel Engine
+
+PyGaming
+https://pythongaming.rocks/
+https://www.digitalocean.com/community/tech_talks/python-gaming-rocks
+https://www.libsdl.org/
+
+@pursuedpybear
+https://twitter.com/moshezadka/status/1250200809377132545 | Moshe Zadka on Twitter: "@yellowspoongirl Oooooooh welcome to my wheelhouse. After you get through the basics with Python, @pursuedpybear is a learning-optimized gaming framework, and we *looooove* helping people getting started making games. For websites, @djangoproject or https://t.co/3WsvxyT4Hn My DMs are open" / Twitter
+https://twitter.com/pathunstrom/status/1250273413513400326 | PyPer Thunstrom on Twitter: "So, after work today, spend my programming time on finishing up some tasks for @pursuedpybear. That included adding new documentation for the GameEngine. https://t.co/PVShXGAfGN (Dedicating this effort to @moshezadka who made it clear we really needed them.)" / Twitter
 -->
 
+<!--
+Micro
+
+https://twitter.com/johnedgarpark/status/1420489501202206721 | John Edgar Park on Twitter: "ADABOX 019 UNBOXING LIVE on Ask an Engineer TONIGHT! 7/28/21 @adafruit YouTube channel 5pm Pacific / 8pm Eastern https://t.co/CcCGb5Oo78" / Twitter
+
+http://microbit.org/guide/python/ | MicroPython | micro:bit
+
+https://www.cnx-software.com/2021/01/21/raspberry-pi-pico-board-features-rp2040-dual-core-cortex-m0-mcu/ | $4 Raspberry Pi Pico board features RP2040 dual-core Cortex-M0+ MCU
+-->
 
 
 
@@ -133,16 +165,12 @@ https://www.renpy.org/ | The Ren'Py Visual Novel Engine
 http://js4ds.org/ | JavaScript for Data Science
 
 
+https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
+
+
 Madelene Campos: Understanding Django
 https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
-
-https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
-https://www.reddit.com/r/learnpython/ | Python Education
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
 -->
-
 
 <!--
 Django Official Docs
@@ -175,18 +203,6 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
 
-
-## Flask
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-Flask
-https://www.google.com/search?q=flask+database+models&oq=flask+database+model&aqs=chrome.0.0j69i57j0i22i30l2.2824j0j7&sourceid=chrome&ie=UTF-8 | flask database models - Google Search
 -->
 
 
@@ -403,14 +419,17 @@ David Beazley
 
 
 <!--
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+
+https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+https://www.reddit.com/r/learnpython/ | Python Education
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
+
+
 HackInScience
 https://www.hackinscience.org/ | HackInScience — Python Exercises
 https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
--->
-
-
-<!--
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 
 
 Impractical Python Projects
