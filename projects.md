@@ -170,16 +170,6 @@ https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?ut
 
 Madelene Campos: Understanding Django
 https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
--->
-
-<!--
-Django Official Docs
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
-
-https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
-https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
-
-
 
 https://realpython.com/intermediate-python-project-ideas/
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
@@ -198,7 +188,14 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 
 Python OOP
 https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+-->
 
+<!--
+Django Official Docs
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
+https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
 -->
 
 
