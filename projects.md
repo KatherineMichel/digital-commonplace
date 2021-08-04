@@ -180,10 +180,6 @@ https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.
 https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
 
 
-Packaging
-https://pypi.org/
-https://packaging.python.org/tutorials/packaging-projects/
-https://realpython.com/pypi-publish-python-package/
 
 https://realpython.com/intermediate-python-project-ideas/
 https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
@@ -224,17 +220,30 @@ https://www.python.org/download/pre-releases/
 Peps
 https://www.python.org/dev/peps/
 
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
--->
-
-<!--
 https://www.djangoproject.com/weblog/
 https://www.djangoproject.com/community/ | Django Community | Django
 
+
+https://twitter.com/Jo_Jablonski | Joanna Jablonski (@Jo_Jablonski) / Twitter
+
+Python Language Summit
+https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-python.html | Python Software Foundation News: The 2021 Python Language Summit: The Python Documentation Work Group
+https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-what.html | Python Software Foundation News: The 2021 Python Language Summit: What Should I Work on as a Core Dev?
+https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-fuzzing.html | Python Software Foundation News: The 2021 Python Language Summit: Fuzzing and Testing Python With Properties
+https://mariatta.ca/language_summit_data/ | Python Language Summit 2021 - Sign Up Data
+https://twitter.com/mariatta/status/1372245619637592065 | Mariatta 🤦 on Twitter: "Interesting development... We received a whole bunch of new sign ups and topic proposals to the Python Language Summit in the past 2 days alone 😲 📈 Details: https://t.co/ZiwqximE9Y Stats: https://t.co/X5ZcPYXPFP" / Twitter
+
+Docs Workgroup
+https://twitter.com/VictorStinner/status/1387073592345640960 | Victor Stinner 🐍 on Twitter: "New Docs Workgroup: https://t.co/hkGrRZ7yOr The purpose of this working group is to support the larger efforts of improving and maintaining CPython's Documentation through documentation curation, internationalization, and special projects. @WillingCarol @mariatta @sizeof @nedbat" / Twitter
+https://mail.python.org/archives/list/python-dev@python.org/message/LELGQN3HMOJXWD4QCPBL5EZVFAFX7SGC/ | Mailman 3 [Python-Dev] Announcing the CPython Docs Workgroup - Python-Dev - python.org
+-->
+
+<!--
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 
+Python Features
+https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
+https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
 
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
