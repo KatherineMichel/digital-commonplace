@@ -519,6 +519,7 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
+
 ## Showcases
 
 Python- Django- Sites
@@ -572,6 +573,11 @@ https://codepen.io/trending
 
 ## Creation Blogs
 
+Playgrounds
+* [Glitch Blog](https://blog.glitch.com/)
+* [Repl.it Blog](https://blog.repl.it/)
+* [CodePen Blog](https://blog.codepen.io/)
+
 Product
 * [Twilio Blog](https://www.twilio.com/blog)
 
@@ -585,11 +591,6 @@ Web
 * [Next Blog](https://nextjs.org/blog/)
 * [Redwood News](https://redwoodjs.com/news)
 * [Gatsby Blog](https://www.gatsbyjs.com/blog/)
-
-Playgrounds
-* [Glitch Blog](https://blog.glitch.com/)
-* [Repl.it Blog](https://blog.repl.it/)
-* [CodePen Blog](https://blog.codepen.io/)
 
 Databases
 * [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
@@ -747,6 +748,23 @@ https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as
 
 
 
+## Git News
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+## GitHub Must Read
+
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
 
 ## To Look At
 
@@ -839,6 +857,9 @@ https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Tech
 
 
 <!--
+Projects
+https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
+
 ## Projects
 
 Trends
@@ -872,24 +893,6 @@ https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Co
 https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Underrated Articles on Dev.to from Last Week - DEV Community 👩‍💻👨‍💻
 
 https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
--->
-
-## Git News
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-## GitHub Must Read
-
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
 ## Articles
