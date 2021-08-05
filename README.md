@@ -94,23 +94,6 @@ https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learni
 
 
 
-## People and Places
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-https://freestateforge.com/map
-https://twitter.com/FreeStateForge/status/1398424918933520386 | Free State Forge on Twitter: "A lot has changed in the last year &amp; Free State Forge would like to know how KS/KC tech startups have weathered the storm. If you know of a regional startup that has closed or launched in the last 12 months, we'd like to hear about it. https://t.co/PcDc3Wgjii https://t.co/WpynxhrNbX" / Twitter
-
-https://twitter.com/i/lists/1216283681167265792 | @Scobleizer/Top Shelf in Tech (1) on Twitter / Twitter
-
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
 
 
 ## Opportunities and Ideas
@@ -185,8 +168,6 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 
 Important
 https://discord.com/invite/t7bHjYQ | Commit Your Code!
-
-https://realpython.com/account/purchases/ | Your Purchases – Real Python
 
 
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
@@ -460,30 +441,6 @@ https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of Sa
 https://awesomeopensource.com/projects/django | The Top 1,024 Django Open Source Projects
 https://opensourcestash.com/ | Open Source Stash
 https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
--->
-
-<!--
-https://github.com/ranman/make-a-demo | ranman/make-a-demo: This is a collection of tools, techniques, posts, and ideas for making compelling demos.
-https://github.com/terkelg/awesome-creative-coding | terkelg/awesome-creative-coding: Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
-https://github.com/toplap/awesome-livecoding | toplap/awesome-livecoding: All things livecoding
-Livestream
-https://twitter.com/jamesqquick/status/1415297731946496002 | James Q Quick on Twitter: "Do you do coding live streams? Leave your links below 👇" / Twitter
-
-https://github.com/rubymorillo/pocket-marketing-tech-list | rubymorillo/pocket-marketing-tech-list: A small but formidable list of marketing tools for developers driving their own digital marketing efforts
-https://github.com/thedaviddias/Front-End-Checklist?utm=twitter/GithubProjects | thedaviddias/Front-End-Checklist: 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-
-
-Portfolio
-https://twitter.com/oliverjumpertz/status/1395689074594287625 | Oliver Jumpertz on Twitter: "Build your portfolio. 3 working projects, with documentation and CI/CD. That's enough. Those projects are your business card. They tell every potential employer or contractor who you are and what they can expect from you." / Twitter
-
-https://www.youtube.com/watch?v=4Z-pMC3WMg4 | Tips for Making Developer Content with Ali Spittel - Twitter Spaces vs Clubhouse? - YouTube
-https://howtoegghead.com/instructor/ | egghead instructor guide | Learn how to egghead like a pro.
-
-Important
-https://cfptemplate.com/getting-started?v=1.0 | CFP Template - CFP Template
-
-Code Tour
-https://twitter.com/DynamicWebPaige/status/1400113390920486917 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "😍 Epic! I'm so excited to see #CodeTour being used as a guide, to familiarize potential open-source contributors with project codebases. @captainsafia: you have inspired me to attempt the same for a machine learning repo.🙂 Any preferences on scikit-learn, TF, or JAX, Twitter? https://t.co/BwWpHxxfxR" / Twitter
 -->
 
 ## Productivity Tools
