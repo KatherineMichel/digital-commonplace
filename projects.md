@@ -1301,11 +1301,19 @@ Terminal String Styling
 * [Pygments](https://pygments.org/) and [Pygments GitHub](https://github.com/pygments/pygments/)
 
 <!--
+django-click
+https://github.com/GaretJax/django-click
+https://twitter.com/webology/status/1404796870938042371 | ✨ Jeff Triplett ✨ on Twitter: "✨ django-click is one of my go tos for every project that needs management commands. 🤔 Has anyone found or started on a django-typer project? (Typer is built on Click btw) https://t.co/IFpTGDDRVA" / Twitter
+
 https://clig.dev/ | Command Line Interface Guidelines
 https://github.com/cli-guidelines/cli-guidelines
 
 https://github.com/willmcgugan/rich | willmcgugan/rich: Rich is a Python library for rich text and beautiful formatting in the terminal.
 https://twitter.com/webology/status/1339967069186633731 | Jeff Triplett 😷 on Twitter: "🤔 I think I'm going to start installing rich by default in my projects. I write a ton of cli apps and I frequently feel limited by output colors and styles. ✨ Just saying this out loud in case you haven't heard of rich yet." / Twitter
+
+Recs
+https://twitter.com/webology/status/1371105789453160449 | Jeff Triplett 😷 on Twitter: "Typer is my go-to which makes Click better, which I didn't think was possible. Rich is really promising. I need to use it more." / Twitter
+https://twitter.com/simonw/status/1290005334271000577 | Simon Willison on Twitter: "Rich is so beautiful it makes me actively want to find an interactive CLI project to work on" / Twitter
 
 https://realpython.com/comparing-python-command-line-parsing-libraries-argparse-docopt-click/
 
@@ -1315,6 +1323,8 @@ Click
 https://github.com/click-contrib | click-contrib
 
 https://github.com/google/python-fire
+
+https://blog.qt.io/blog/2018/06/13/qt-python-5-11-released/ | Qt for Python 5.11 released - Qt Blog
 -->
 
 ## Images
