@@ -108,24 +108,6 @@ https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-in
 https://github.com/matteofigus/awesome-speaking
 Vicky's resources
 
-https://slidesgo.com/editors-choice
-https://www.canva.com/presentations/templates/
-
-https://pro.pixton.com/business/ | Pixton PRO | Business Comic & Storyboard Creator
-
-https://i.imgur.com/WRuJV6rl.png | WRuJV6rl.png (640×494)
-
-Vicky
-https://docs.google.com/presentation/d/1Hfa6a0nDoRgG_G84_dqfOzE1Fa_whcmWdmHk7_cGtnE/edit#slide=id.g8c2435d182_0_11
-https://www.meetup.com/Code-for-Philly/events/273595264/ | Technical Blogging with Vicki Boykis | Meetup
-https://drive.google.com/file/d/1KADdmnjeC14d3fIaP7sWDAMj9ZzDksf1/view
-https://slidesgo.com/
-https://www.flaticon.com/
-https://www.freepik.com/
-https://stories.forpeople.studio/
-
-https://vercel.com/virtual-event-starter-kit | Virtual Event Starter Kit – Vercel
-
 
 ## Community
 
@@ -166,28 +148,13 @@ https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And
 <!--
 ## Learning
 
-Important
-https://discord.com/invite/t7bHjYQ | Commit Your Code!
-
-
 https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
 
 https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
 https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
 
-CodeBuddies
-https://app.slack.com/client/T04AQ6GEY/D01A4NKEGKF | Slack | CodeBuddies Welcome | CodeBuddies
-https://github.com/codebuddies | CodeBuddies Community
-https://codebuddies.org/about | CodeBuddies | About
-
 https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
 https://github.com/LambdaSchool | Lambda School, Inc.
--->
-
-<!--
-Anthony Explains
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 -->
 
 <!--
@@ -229,6 +196,7 @@ https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-b
 
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
 -->
+
 
 <!--
 TLA+
