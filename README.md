@@ -93,9 +93,6 @@ https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twi
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 
-
-
-
 ## Opportunities and Ideas
 
 ### Talks
@@ -144,18 +141,6 @@ https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert.
 https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 -->
 
-
-<!--
-## Learning
-
-https://ocw.mit.edu/index.htm | MIT OpenCourseWare | Free Online Course Materials
-
-https://www.udemy.com/home/my-courses/learning/ | Online Courses - Anytime, Anywhere | Udemy
-https://admissions.udacity.com/apply/learn_with_udacity | Admissions - Udacity
-
-https://github.com/LambdaSchool/Computer-Architecture | LambdaSchool/Computer-Architecture: Computer Architecture
-https://github.com/LambdaSchool | Lambda School, Inc.
--->
 
 <!--
 https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
