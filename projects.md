@@ -87,6 +87,285 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+
+## Clones and Projects
+
+<!--
+Important!
+https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+
+https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+-->
+
+<!--
+Non-Python
+
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+https://github.com/python-telegram-bot/python-telegram-bot
+-->
+
+<!--
+Docs
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+https://github.com/wemake-services/wemake-python-styleguide
+https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
+
+Divio
+https://docs.divio.com/en/latest/introduction/django/
+https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
+https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
+-->
+
+## Django + React/Node Tutorials and Templates
+
+<!--
+Django + React/Node
+
+https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
+
+https://github.com/divio/react-boilerplate
+https://github.com/divio/node-boilerplate
+
+https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
+https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
+
+
+Django/React Project Tutorials
+https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
+https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
+https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
+https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
+
+https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
+
+
+Starters and Boilerplates
+
+React/Node/Mongo
+https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
+
+React
+https://github.com/nice-boys/product-boilerplate
+-->
+
+<!--
+Demos and Boilerplates
+
+https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
+
+Frontend
+https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
+https://github.com/reck1ess/next-realworld-example-app
+https://github.com/gothinkster/web-components-realworld-example-app
+
+Backend
+https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
+https://github.com/gothinkster/django-realworld-example-app
+https://thinkster.io/tutorials/django-json-api
+https://github.com/gothinkster/flask-realworld-example-app
+-->
+
+
+## Django Tutorials and Templates
+
+<!--
+Django Templates
+
+Cookiecutter
+https://github.com/sixfeetup/cookiecutter-sixiedjango
+https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
+
+
+https://github.com/caktus/django-project-template
+
+https://github.com/20tab/django-continuous-delivery
+
+https://github.com/jpadilla/django-project-template
+https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
+https://jpadilla.github.io/django-project-template/
+
+
+https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
+https://wemake-django-template.readthedocs.io/en/latest/
+
+Cookiecutter
+wemake-services/dotenv-linter - Google Search
+https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
+-->
+
+
+## Great Demos
+
+<!--
+https://github.com/pinax
+https://github.com/pinax/pinax-templates
+
+https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
+https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
+
+https://djangoforprofessionals.com/ | Django for Professionals
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+
+
+DRF
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
+
+Node/Django
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+https://github.com/DrkSephy/django-hackathon-starter
+-->
+
+<!--
+https://github.com/feldroy | Feldroy
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+-->
+
+
+## Deployment
+
+<!--
+Heroku and Node
+https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
+
+Important
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
+
+https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
+
+https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
+-->
+
+## Python Package Templates
+
+<!--
+https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
+
+Python Projects and Packages
+https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
+https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
+-->
+
+<!--
+https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
+
+Not updated in a very long time
+Heroku and Python/Django
+https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
+
+Deprecated
+https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
+https://github.com/jpadilla/django-rest-framework-jwt
+https://github.com/jpadilla/django-rest-framework-jwt/issues/484
+-->
+
+<!--
+Channels stuff
+https://github.com/fcurella/django-channels-react-redux
+https://github.com/channels-frontend/django_redux
+-->
+
+
+
+<!--
+https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+https://www.reddit.com/r/learnpython/ | Python Education
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
+
+
+HackInScience
+https://www.hackinscience.org/ | HackInScience — Python Exercises
+https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
+
+
+Carpentries
+https://carpentries.org/blog/2021/06/director-of-community-development-transition/ | Director of Community Development and Engagement Transition
+https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/15-scrapy/ | Web scraping using Python and Scrapy – UCSB Library Library Carpentry
+
+https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
+
+https://carpentries.github.io/instructor-training/ | Instructor Training
+http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
+https://carpentries.org/community-lessons/ | Community Developed Lessons
+https://github.com/carpentries-incubator/ | carpentries-incubator
+
+https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
+https://carpentries.org/
+
+
+
+HTML5 Boilerplate
+https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
+
+https://moderntemplate.site/ | HTML Template
+
+Important
+https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
+
+
+## Accessibility
+
+Accessibility
+https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
+https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
+
+## Design Resources
+
+https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+## Games/Gamification
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
+https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
+http://imgur.com/gallery/fM9yn
+https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
+https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
+
+http://gameprogrammingpatterns.com/contents.html
+https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
+-->
+
+
 ## Django and Python News
 
 <!--
@@ -150,6 +429,7 @@ https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · Decemb
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
+
 
 ## GitHub and VS Code Integration
 
@@ -483,24 +763,32 @@ Stack
 
 ## Dev Tools, Projects, and Demos
 
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub Trending Python
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+
 Fun Stuff
 * [Glitch Websites](https://glitch.com/@websites)
-
-* [CodePen Projects](http://codepen.io/projects/)
 
 Python
 * [Glitch Python](https://glitch.com/@python)
 * [CodePen Python](https://codepen.io/tag/python)
 
 CodePen
+* [CodePen Projects](http://codepen.io/projects/)
+* [CodePen Trending](https://codepen.io/trending)
 * [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
 * [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
 * [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
-https://codepen.io/
-https://codepen.io/trending
+Montly Repls
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
 -->
 
 ## Showcases
@@ -568,10 +856,6 @@ The Practical Dev and Hackernoon
 * PracticalDev)
 * [Hacker Noon](https://hackernoon.com)
 * [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-https://www.nature.com/ | Nature
--->
 
 <!--
 ## Trends
@@ -774,7 +1058,6 @@ Nuzzel
 -->
 
 Interesting Links
-* [GitHub Trending](https://github.com/trending)
 * [YCombinator](https://news.ycombinator.com/)
 * [Lobsters](https://lobste.rs/)
 * [Indie Hackers](https://www.indiehackers.com)
@@ -785,8 +1068,6 @@ Products
 
 Python Stuff
 * [Pythonic News](https://news.python.sc/)
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Topic Python](https://github.com/topics/python)
 * [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
 * [Reddit Python](https://www.reddit.com/r/Python)
 
@@ -835,20 +1116,9 @@ https://substack.com/discover | Substack
 https://twitter.com/explore/tabs/for-you | Explore / Twitter
 https://www.youtube.com/feed/trending | Trending - YouTube
 
-
 Staff pick
 https://vimeo.com/channels/bestofthemonth
 https://vimeo.com/channels/staffpicks
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 -->
 
 
@@ -856,21 +1126,6 @@ https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Tech
 <!--
 Projects
 https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-## Projects
-
-Trends
-https://github.com/trending/python?since=monthly | Trending Python repositories on GitHub this month
-
-Papers
-https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
-https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
-https://twitter.com/an_open_mind/status/1314541192458260482
-
-Montly Repls
-https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
-
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
 
 
 People
@@ -886,10 +1141,19 @@ https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500
 
 Posts and comments
 https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Underrated Articles on Dev.to from Last Week - DEV Community 👩‍💻👨‍💻
+https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
 
 https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
+
+
+Papers
+https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
+https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
+https://twitter.com/an_open_mind/status/1314541192458260482
+
+
+https://www.nature.com/ | Nature
 -->
 
 
@@ -1541,248 +1805,7 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 
 
 
-
-## Clones and Projects
-
 <!--
-Important!
-https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
--->
-
-<!--
-Non-Python
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-https://github.com/python-telegram-bot/python-telegram-bot
--->
-
-<!--
-Docs
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-https://github.com/wemake-services/wemake-python-styleguide
-https://github.com/wemake-services/wemake-python-styleguide#what-we-are-about
-
-Divio
-https://docs.divio.com/en/latest/introduction/django/
-https://github.com/divio/demosite | divio/demosite: A basic project to serve as a demonstration for https://docs.divio.com/en/latest/how-to/django-create-deploy/
-https://docs.divio.com/en/latest/how-to/local-cli/#local-cli
--->
-
-## Django + React/Node Tutorials and Templates
-
-<!--
-Django + React/Node
-
-https://github.com/vintasoftware/django-react-boilerplate | vintasoftware/django-react-boilerplate: Django, React, Bootstrap 4 with Python 3 and webpack project boilerplate
-
-https://github.com/divio/react-boilerplate
-https://github.com/divio/node-boilerplate
-
-https://www.youtube.com/watch?v=hwHRI59iGlw&t=1563s | DjangoCon 2019 - Creating a containerized Django + React + PostgreSQL... by Dan Taylor - YouTube
-https://github.com/qubitron/django-react-devcontainer | qubitron/django-react-devcontainer: Tutorial + sample code for setting up a django + react +postgres development container
-
-
-Django/React Project Tutorials
-https://www.udemy.com/course/build-an-e-commerce-website-with-django-and-react/learn/lecture/16261412#overview | Build an E-commerce website with Django and React | Udemy
-https://github.com/justdjango/DjReact/blob/master/src/routes.js | DjReact/routes.js at master · justdjango/DjReact
-https://github.com/justdjango/django-react-boilerplate | justdjango/django-react-boilerplate: A Django and React user authentication project boilerplate.
-https://github.com/justdjango/teach-me-django | justdjango/teach-me-django: A school system with online assignments. Built with React and the Django Rest Framework
-
-https://github.com/justdjango/django-ecommerce | justdjango/django-ecommerce: An e-commerce website built with Django
-
-
-Starters and Boilerplates
-
-React/Node/Mongo
-https://github.com/homedepot/hackathon-starter | homedepot/hackathon-starter: Hackathon starter repository which provides a baseline react/node/mongo app with integrations
-
-React
-https://github.com/nice-boys/product-boilerplate
--->
-
-<!--
-Demos and Boilerplates
-
-https://github.com/gothinkster/realworld | gothinkster/realworld: "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅
-
-Frontend
-https://github.com/gothinkster/react-redux-realworld-example-app | gothinkster/react-redux-realworld-example-app: Exemplary real world application built with React + Redux
-https://github.com/reck1ess/next-realworld-example-app
-https://github.com/gothinkster/web-components-realworld-example-app
-
-Backend
-https://github.com/gothinkster/node-express-realworld-example-app | gothinkster/node-express-realworld-example-app
-https://github.com/gothinkster/django-realworld-example-app
-https://thinkster.io/tutorials/django-json-api
-https://github.com/gothinkster/flask-realworld-example-app
--->
-
-
-## Django Tutorials and Templates
-
-<!--
-Django Templates
-
-Cookiecutter
-https://github.com/sixfeetup/cookiecutter-sixiedjango
-https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
-
-
-https://github.com/caktus/django-project-template
-
-https://github.com/20tab/django-continuous-delivery
-
-https://github.com/jpadilla/django-project-template
-https://github.com/jpadilla/django-project-template/blob/master/project_name/settings.py
-https://jpadilla.github.io/django-project-template/
-
-
-https://github.com/wemake-services/wemake-django-template | wemake-services/wemake-django-template: Bleeding edge django template focused on code quality and security.
-https://wemake-django-template.readthedocs.io/en/latest/
-
-Cookiecutter
-wemake-services/dotenv-linter - Google Search
-https://github.com/wemake-services/django-test-migrations | wemake-services/django-test-migrations: Test django schema and data migrations, including migrations' order
--->
-
-
-## Great Demos
-
-<!--
-https://github.com/pinax
-https://github.com/pinax/pinax-templates
-
-https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
-
-https://djangoforprofessionals.com/ | Django for Professionals
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-
-
-DRF
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
-
-Node/Django
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-https://github.com/DrkSephy/django-hackathon-starter
--->
-
-<!--
-https://github.com/feldroy | Feldroy
-https://github.com/audreyfeldroy/cookiecutter-pypackage
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
--->
-
-
-## Deployment
-
-<!--
-Heroku and Node
-https://github.com/heroku/node-js-getting-started | heroku/node-js-getting-started: Getting Started with Node on Heroku
-
-Important
-https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
-https://twitter.com/ehmatthes/status/1319040337491464193 | Eric Matthes on Twitter: "This simplified Heroku buildpack should now support Pipenv-based projects as well as projects using requirements.txt. If you have a small to medium size project without a significantly customized deployment process, I'd love to know if it works for you. https://t.co/ZN6YVKcAj4" / Twitter
-
-https://github.com/laymonage/django-template-heroku | laymonage/django-template-heroku: Simple Django project template ready for Heroku deployment for Web Design and Programming course at Fasilkom UI.
-
-https://github.com/heroku/heroku-buildpack-python | heroku/heroku-buildpack-python: The official Heroku buildpack for Python apps.
--->
-
-## Python Package Templates
-
-<!--
-https://github.com/wemake-services/wemake-python-package | wemake-services/wemake-python-package: Bleeding edge cookiecutter template to create new python packages
-
-Python Projects and Packages
-https://github.com/brettcannon/python-project-template | brettcannon/python-project-template
-https://github.com/TezRomacH/python-package-template | TezRomacH/python-package-template: Your next Python package needs a bleeding-edge project structure.
--->
-
-<!--
-https://github.com/upday/python-project-template | upday/python-project-template: Template for Python projects
-
-Not updated in a very long time
-Heroku and Python/Django
-https://github.com/heroku/heroku-django-template | heroku/heroku-django-template: A Django 2.0 base template featuring all recommended best practices for deployment on Heroku and local development.
-
-Deprecated
-https://github.com/tiagoarasilva/django-boilerplate | tiagoarasilva/django-boilerplate: Django boilerplate for Django 1.11.XXX and Python 3 with a login system and Rest Framework integrated
-https://github.com/jpadilla/django-rest-framework-jwt
-https://github.com/jpadilla/django-rest-framework-jwt/issues/484
--->
-
-<!--
-Channels stuff
-https://github.com/fcurella/django-channels-react-redux
-https://github.com/channels-frontend/django_redux
--->
-
-
-
-<!--
-https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
-https://www.reddit.com/r/learnpython/ | Python Education
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-
-HackInScience
-https://www.hackinscience.org/ | HackInScience — Python Exercises
-https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
-
-
-Carpentries
-https://carpentries.org/blog/2021/06/director-of-community-development-transition/ | Director of Community Development and Engagement Transition
-https://ucsbcarpentry.github.io/2020-06-03-UCSB-LibCarp/15-scrapy/ | Web scraping using Python and Scrapy – UCSB Library Library Carpentry
-
-https://twitter.com/simonw/status/1308987105092263938 | Simon Willison on Twitter: "Today was all about educational psychology - how people learn, how to motivate (and avoid demotivating) learners, how to make sure your teaching is actually working" / Twitter
-
-https://carpentries.github.io/instructor-training/ | Instructor Training
-http://carpentries-incubator.github.io/python-testing/ | Python Testing and Continuous Integration
-https://carpentries.org/community-lessons/ | Community Developed Lessons
-https://github.com/carpentries-incubator/ | carpentries-incubator
-
-https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
-https://carpentries.org/
-
-
-https://web.dev/discoverable/
-
 Important
 https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
 
@@ -1792,50 +1815,12 @@ https://twitter.com/wesbos/status/1399762874382311430 | Wes Bos on Twitter: "Tod
 
 Important
 https://web.dev/learn/css/ | Learn CSS
+https://web.dev/discoverable/
 https://beginnerwebdev.com/ | Beginner Web Dev
 
 https://domevents.dev/ | DOM Events
 https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
-
-
-
-HTML5 Boilerplate
-https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
-
-https://moderntemplate.site/ | HTML Template
-
-Important
-https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
-
-
-## Accessibility
-
-Accessibility
-https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
-https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
-
-## Design Resources
-
-https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
-
-## Games/Gamification
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
-
-https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
-http://imgur.com/gallery/fM9yn
-https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
-https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
-
-http://gameprogrammingpatterns.com/contents.html
-https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
-
 
 ## Learning Resources- CSS, HTML, JavaScript
 
