@@ -1,6 +1,13 @@
 # Projects
 
 <!--
+Git Remote
+https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
+https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
+https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
+-->
+
+<!--
 HTTP, API, DOM
 https://expressjs.com/en/api.html
 
@@ -38,23 +45,6 @@ Node bot
 https://twitter.com/dshaw/status/1287832645347418112 | Dan Shaw on Twitter: "Today is @nodebotsday. 🤖 #beepboop" / Twitter
 -->
 
-
-<!--
-Music 
-
-https://lofi.cafe/
-https://www.youtube.com/watch?v=OlDvC8v6o7k | 24/7 freeCodeCamp radio - chill tunes you can code to (no ads) - YouTube
-https://coderadio.freecodecamp.org/
-
-https://www.google.com/search?q=chillhop&oq=chillhop&aqs=chrome..69i57j46i433j0l3j46l2j0j46j0.1411j0j7&sourceid=chrome&ie=UTF-8
--->
-
-<!--
-Git Remote
-https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
-https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
-https://docs.github.com/en/github/using-git/changing-a-remotes-url | Changing a remote's URL - GitHub Docs
--->
 
 <!--
 Site Examples
@@ -95,107 +85,6 @@ https://github.com/eggheadio/egghead-next | eggheadio/egghead-next: This is a "p
 
 Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
--->
-
-
-<!--
-APIs
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
-http://contrafabulists.com/
--->
-
-<!--
-Music
-
-https://foxdot.org/ | FoxDot | Home
-
-https://github.com/luvsound/pippi | luvsound/pippi: computer music with python
--->
-
-<!--
-GIS
-
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-GIS
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
-
-Important
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
--->
-
-<!--
-https://www.pygame.org/news | https://www.pygame.org/news
-https://mail.python.org/archives/list/python-announce-list@python.org/thread/EL6WL7FX6ODT5IEUB4XUSGLKFQEKLGGS/ | Mailman 3 pygame 2 - Python-announce-list - python.org
-
-pyweek
-https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
-
-Games
-http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
-https://www.renpy.org/ | The Ren'Py Visual Novel Engine
-
-PyGaming
-https://pythongaming.rocks/
-https://www.digitalocean.com/community/tech_talks/python-gaming-rocks
-https://www.libsdl.org/
-
-@pursuedpybear
-https://twitter.com/moshezadka/status/1250200809377132545 | Moshe Zadka on Twitter: "@yellowspoongirl Oooooooh welcome to my wheelhouse. After you get through the basics with Python, @pursuedpybear is a learning-optimized gaming framework, and we *looooove* helping people getting started making games. For websites, @djangoproject or https://t.co/3WsvxyT4Hn My DMs are open" / Twitter
-https://twitter.com/pathunstrom/status/1250273413513400326 | PyPer Thunstrom on Twitter: "So, after work today, spend my programming time on finishing up some tasks for @pursuedpybear. That included adding new documentation for the GameEngine. https://t.co/PVShXGAfGN (Dedicating this effort to @moshezadka who made it clear we really needed them.)" / Twitter
--->
-
-<!--
-Micro
-
-https://twitter.com/johnedgarpark/status/1420489501202206721 | John Edgar Park on Twitter: "ADABOX 019 UNBOXING LIVE on Ask an Engineer TONIGHT! 7/28/21 @adafruit YouTube channel 5pm Pacific / 8pm Eastern https://t.co/CcCGb5Oo78" / Twitter
-
-http://microbit.org/guide/python/ | MicroPython | micro:bit
-
-https://www.cnx-software.com/2021/01/21/raspberry-pi-pico-board-features-rp2040-dual-core-cortex-m0-mcu/ | $4 Raspberry Pi Pico board features RP2040 dual-core Cortex-M0+ MCU
--->
-
-
-
-<!--
-http://js4ds.org/ | JavaScript for Data Science
-
-
-https://ai-summary.com/summary-140-python-projects-with-source-code-48b6d07a/?utm_medium=social-organic&utm_source=twitter | 140 Python Projects With Source Code - AI Summary
-
-
-Madelene Campos: Understanding Django
-https://www.meetup.com/Miami-PyLadies/events/278851115/?rv=ea1_v2&_xtd=gatlbWFpbF9jbGlja9oAJGMxODFjNTdkLTk4NzEtNDQ2YS04ZDUyLTIwZDI3YmQxZDdlYQ&utm_campaign=event-announce&utm_medium=email&utm_source=promo
-
-https://realpython.com/intermediate-python-project-ideas/
-https://realpython.com/courses/django-portfolio-project/ | Get Started With Django: Build a Portfolio App – Real Python
-
-Python Application Layouts
-https://realpython.com/python-application-layouts/
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-## Django
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
--->
-
-<!--
-Django Official Docs
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
-
-https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
-https://code.djangoproject.com/ticket/32501#comment:1 | #32501 (Add support for INSERT...RETURNING on SQLite 3.35+) – Django
 -->
 
 
@@ -436,6 +325,14 @@ Coding Competitions
 * Kaggle
 * [Hackathons Wikipedia](https://en.wikipedia.org/wiki/Hackathon)
 * [Competitive Programming Wikipedia](https://en.wikipedia.org/wiki/Competitive_programming)
+
+<!--
+https://www.pygame.org/news | https://www.pygame.org/news
+https://mail.python.org/archives/list/python-announce-list@python.org/thread/EL6WL7FX6ODT5IEUB4XUSGLKFQEKLGGS/ | Mailman 3 pygame 2 - Python-announce-list - python.org
+
+pyweek
+https://twitter.com/webology/status/1408052573454704640 | ✨ Jeff Triplett ✨ on Twitter: "👾 Assuming there is a @pyweek this September, I think I can actually take a week and build something this fall. Kind of excited about that possibility." / Twitter
+-->
 
 <!--
 Figma Maker Week
@@ -957,6 +854,7 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
 
+
 ## Django and Python News
 
 <!--
@@ -964,67 +862,35 @@ https://blog.jetbrains.com/pycharm/
 
 https://blog.python.org/
 
+https://www.python.org/download/pre-releases/
+
 Peps
 https://www.python.org/dev/peps/
 
 https://www.djangoproject.com/weblog/
 https://www.djangoproject.com/community/ | Django Community | Django
 
-
-https://twitter.com/Jo_Jablonski | Joanna Jablonski (@Jo_Jablonski) / Twitter
-
-Python Language Summit
-https://pyfound.blogspot.com/2021/05/the-2021-python-language-summit-python.html | Python Software Foundation News: The 2021 Python Language Summit: The Python Documentation Work Group
-https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-what.html | Python Software Foundation News: The 2021 Python Language Summit: What Should I Work on as a Core Dev?
-https://pyfound.blogspot.com/2021/06/the-2021-python-language-summit-fuzzing.html | Python Software Foundation News: The 2021 Python Language Summit: Fuzzing and Testing Python With Properties
-https://mariatta.ca/language_summit_data/ | Python Language Summit 2021 - Sign Up Data
-https://twitter.com/mariatta/status/1372245619637592065 | Mariatta 🤦 on Twitter: "Interesting development... We received a whole bunch of new sign ups and topic proposals to the Python Language Summit in the past 2 days alone 😲 📈 Details: https://t.co/ZiwqximE9Y Stats: https://t.co/X5ZcPYXPFP" / Twitter
-
-Docs Workgroup
-https://twitter.com/VictorStinner/status/1387073592345640960 | Victor Stinner 🐍 on Twitter: "New Docs Workgroup: https://t.co/hkGrRZ7yOr The purpose of this working group is to support the larger efforts of improving and maintaining CPython's Documentation through documentation curation, internationalization, and special projects. @WillingCarol @mariatta @sizeof @nedbat" / Twitter
-https://mail.python.org/archives/list/python-dev@python.org/message/LELGQN3HMOJXWD4QCPBL5EZVFAFX7SGC/ | Mailman 3 [Python-Dev] Announcing the CPython Docs Workgroup - Python-Dev - python.org
--->
-
-<!--
 What's New
 https://docs.python.org/3/whatsnew/index.html
 https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 https://www.python.org/downloads/release/python-390a5/
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 
-https://www.python.org/download/pre-releases/
-
-
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-Python Features
-https://ao.gl/python-4-new-features-planned/ | Python 4 New Features Planned - Learn Software Engineering @ao.gl
-https://www.infoworld.com/article/3566382/4-powerful-features-python-is-still-missing.html | 4 powerful features Python is still missing | InfoWorld
-
 Roundup
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 -->
-
 
 <!--
 Django News
 Important
 https://django-news.com/ | Django News
 https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-https://twitter.com/djangonewsbot/status/1399818148610723848 | Django News on Twitter: "🎉 The Django News Newsletter Issue 77: Django IRC moves to https://t.co/duvZwplDkZ DjangoCon Europe, understanding sessions, nginx, simpler migrations in deployment, and more. https://t.co/d3TowpkaMD" / Twitter
-https://twitter.com/webology/status/1395765350889885696 | Jeff Triplett 😷💉💉💯 on Twitter: "🎉 The Django News Newsletter Issue 76: Django 4.x Technical Board Election Results Django models tutorial, disabling FloC, using Django Check, monitoring Django apps, and more. https://t.co/YYXlj6fhfJ" / Twitter
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 
-## People
-
-https://twitter.com/webology/status/1389216959527542792 | Jeff Triplett 😷💉💉⏳ on Twitter: "Even when these are short they are so packed full of amazing information. 1. New Django security release coming Tuesday(ish) 2. Nice Alpine.js resource website. 3. Carlton is speaking at DjangoCon Europe 4. GSoC update Solid. 💯" / Twitter
-
 Carlton Weeknotes
-https://noumenal.es/posts/weeknotes-2021-wk-4/x4/ | Weeknotes 2021 WK 4
-https://noumenal.es/posts/weeknotes-2020-wk-44/5P/
-https://noumenal.es/posts/weeknotes-2020-wk-51/mB/ | Weeknotes 2020 WK 51
-https://noumenal.es/posts/weeknotes-2020-wk37/3k/ | noum.nl
+https://noumenal.es/posts/
 
 Weeknotes Methodology
 https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
@@ -1130,81 +996,31 @@ Real Python
 * [Real Python Courses](https://realpython.com/courses)
 
 
-## Data Science and Network Analysis
-
-Python- Statistics Stack- SciPy 
-* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
-
-Python- Statistics Stack- iPython and Jupyter
-* [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
-* [Jupyter](http://jupyter.org)
-
-Python- Statistics Stack- NumPy 
-* [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
-* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
 
 <!--
-"Ecosystem"
-https://numpy.org/
--->
+GIS
 
-Python- Statistics Stack- Scikit-Learn
-* [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
-* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
-* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+GIS
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
+
+Important
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+-->
 
 <!--
-https://scikit-image.org/
-https://scikit-image.org/docs/stable/auto_examples/
+Music
+
+https://foxdot.org/ | FoxDot | Home
+
+https://github.com/luvsound/pippi | luvsound/pippi: computer music with python
 -->
 
-Python- Statistics Stack- Pandas
-* [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
 
-<!--
-Input/output
-Pickling
-Flat file
-Clipboard
-Excel
-JSON
-HTML
-HDFStore: PyTables (HDF5)
-Feather
-Parquet
-ORC
-SAS
-SPSS
-SQL
-Google BigQuery
-STATA
--->
-
-Python- Statistics Stack- MatPlotLib
-* [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
-* [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
-* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html) 
-* [MatPlotLib Examples](http://matplotlib.org/examples/index.html) 
-* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)
-
-Python- Statistics Stack- SymPy (Symbolic Mathematics)
-* [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
-
-Python- Statistics Stack- StatsModel
-* [StatsModel](http://www.statsmodels.org/stable/index.html) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
-* [StatsModel Gallery](http://www.statsmodels.org/stable/examples/index.html)  
-
-Python- Statistics Stack- GGPlot
-* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
-
-Python- Network Analysis- NetworkX
-* [NetworkX GitHub](https://github.com/networkx/networkx)
-
-<!--
-Discrete event simuation framework
-https://simpy.readthedocs.io/en/latest/
-https://github.com/robclewley/pydstool
--->
 
 ## Web Scraping
 
@@ -1281,6 +1097,129 @@ https://www.w3schools.com/python/ref_string_title.asp | Python String title() Me
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe | <iframe>: The Inline Frame element - HTML: HyperText Markup Language | MDN
 -->
 
+## Images
+
+Pillow
+* [Pillow (PIL Fork)](https://pillow.readthedocs.io/)
+
+ML
+* [PyImageSearch (Computer Vision, Deep Learning, and OpenCV)](https://www.pyimagesearch.com/)
+
+<!--
+https://opencv.org/
+https://github.com/opencv/opencv | opencv/opencv: Open Source Computer Vision Library
+
+Pillow
+https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
+https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
+-->
+
+## Games
+
+* [PyGame](https://www.pygame.org/)
+
+<!--
+https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
+
+https://wiki.python.org/moin/PythonGameLibraries | PythonGameLibraries - Python Wiki
+
+https://github.com/ppb/pursuedpybear | ppb/pursuedpybear: A python game engine.
+-->
+
+<!--
+Games
+http://inventwithpython.com/pygame/ | Making Games with Python & Pygame
+https://www.renpy.org/ | The Ren'Py Visual Novel Engine
+
+PyGaming
+https://pythongaming.rocks/
+https://www.digitalocean.com/community/tech_talks/python-gaming-rocks
+https://www.libsdl.org/
+
+@pursuedpybear
+https://twitter.com/moshezadka/status/1250200809377132545 | Moshe Zadka on Twitter: "@yellowspoongirl Oooooooh welcome to my wheelhouse. After you get through the basics with Python, @pursuedpybear is a learning-optimized gaming framework, and we *looooove* helping people getting started making games. For websites, @djangoproject or https://t.co/3WsvxyT4Hn My DMs are open" / Twitter
+https://twitter.com/pathunstrom/status/1250273413513400326 | PyPer Thunstrom on Twitter: "So, after work today, spend my programming time on finishing up some tasks for @pursuedpybear. That included adding new documentation for the GameEngine. https://t.co/PVShXGAfGN (Dedicating this effort to @moshezadka who made it clear we really needed them.)" / Twitter
+-->
+
+## Data Science and Network Analysis
+
+Python- Statistics Stack- SciPy 
+* [SciPy](http://www.scipy.org) and [SciPy GitHub](https://github.com/scipy/scipy)   
+
+Python- Statistics Stack- iPython and Jupyter
+* [iPython](http://ipython.org) and [iPython GitHub](https://github.com/ipython/ipython)  
+* [Jupyter](http://jupyter.org)
+
+Python- Statistics Stack- NumPy 
+* [NumPy](http://www.numpy.org) and [NumPy GitHub](https://github.com/numpy/numpy)  
+* [NumPy Reference](http://docs.scipy.org/doc/numpy/reference) 
+
+<!--
+"Ecosystem"
+https://numpy.org/
+-->
+
+Python- Statistics Stack- Scikit-Learn
+* [Scikit-Learn](http://scikit-learn.org/stable) and [Scikit-Learn GitHub](https://github.com/scikit-learn/scikit-learn)
+* [Scikit-Learn User Guide](http://scikit-learn.org/stable/user_guide.html)  
+* [Scikit-Learn Examples](http://scikit-learn.org/stable/auto_examples/index.html)
+
+<!--
+https://scikit-image.org/
+https://scikit-image.org/docs/stable/auto_examples/
+-->
+
+Python- Statistics Stack- Pandas
+* [Pandas](http://pandas.pydata.org), [Pandas GitHub](https://github.com/pandas-dev/pandas), and [Pandas Docs](http://pandas.pydata.org/pandas-docs/stable) 
+
+<!--
+Input/output
+Pickling
+Flat file
+Clipboard
+Excel
+JSON
+HTML
+HDFStore: PyTables (HDF5)
+Feather
+Parquet
+ORC
+SAS
+SPSS
+SQL
+Google BigQuery
+STATA
+-->
+
+Python- Statistics Stack- MatPlotLib
+* [MatPlotLib](http://matplotlib.org) and [MatPlotLib GitHub](https://github.com/matplotlib/matplotlib) 
+* [MatPlotLib Gallery](http://matplotlib.org/gallery.html) 
+* [MatPlotLib Screenshots](http://matplotlib.org/users/screenshots.html) 
+* [MatPlotLib Examples](http://matplotlib.org/examples/index.html) 
+* [MatPlotLib Artist Guide](http://matplotlib.org/users/artists.html)
+
+Python- Statistics Stack- SymPy (Symbolic Mathematics)
+* [SymPy](http://sympy.org/en/index.html) and [SymPy GitHub](https://github.com/sympy/sympy)  
+
+Python- Statistics Stack- StatsModel
+* [StatsModel](http://www.statsmodels.org/stable/index.html) and [StatsModel GitHub](https://github.com/statsmodels/statsmodels)  
+* [StatsModel Gallery](http://www.statsmodels.org/stable/examples/index.html)  
+
+Python- Statistics Stack- GGPlot
+* [GGPlot](http://ggplot.yhathq.com) and [GGPlot GitHub](https://github.com/yhat/ggplot)  
+
+Python- Network Analysis- NetworkX
+* [NetworkX GitHub](https://github.com/networkx/networkx)
+
+<!--
+Discrete event simuation framework
+https://simpy.readthedocs.io/en/latest/
+https://github.com/robclewley/pydstool
+-->
+
 ## Command Line
 
 Standard Library
@@ -1327,43 +1266,11 @@ https://github.com/google/python-fire
 https://blog.qt.io/blog/2018/06/13/qt-python-5-11-released/ | Qt for Python 5.11 released - Qt Blog
 -->
 
-## Images
-
-Pillow
-* [Pillow (PIL Fork)](https://pillow.readthedocs.io/)
-
-ML
-* [PyImageSearch (Computer Vision, Deep Learning, and OpenCV)](https://www.pyimagesearch.com/)
-
-<!--
-https://opencv.org/
-https://github.com/opencv/opencv | opencv/opencv: Open Source Computer Vision Library
-
-Pillow
-https://pillow.readthedocs.io/en/stable/handbook/tutorial.html | Tutorial — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/stable/reference/Image.html | Image Module — Pillow (PIL Fork) 7.1.2 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/Image.html | Image Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/5.1.x/reference/ImageFilter.html | ImageFilter Module — Pillow (PIL Fork) 5.1.0 documentation
-https://pillow.readthedocs.io/en/3.1.x/reference/Image.html#functions | Image Module — Pillow (PIL Fork) 3.1.2 documentation
--->
-
 ## Graphical User Interface (GUI)
 
 <!--
 Popular Libraries
 https://wiki.python.org/moin/PyQt
--->
-
-## Games
-
-* [PyGame](https://www.pygame.org/)
-
-<!--
-https://github.com/moshez/txpursuedpybear/tree/draft | moshez/txpursuedpybear at draft
-
-https://wiki.python.org/moin/PythonGameLibraries | PythonGameLibraries - Python Wiki
-
-https://github.com/ppb/pursuedpybear | ppb/pursuedpybear: A python game engine.
 -->
 
 ## Bots
@@ -1489,6 +1396,10 @@ https://github.com/producthunt/producthunt-chrome-extension | producthunt/produc
 <!--
 ## API
 
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+http://contrafabulists.com/
+
 https://github.com/googleapis/google-api-python-client | googleapis/google-api-python-client: 🐍 The official Python client library for Google's discovery based APIs.
 
 https://developers.google.com/gmail/api/v1/reference | API Reference  |  Gmail API  |  Google Developers
@@ -1560,6 +1471,7 @@ https://help.github.com/en/actions/language-and-framework-guides/using-python-wi
 
 https://docs.github.com/en/actions/creating-actions/creating-a-composite-run-steps-action | Creating a composite run steps action - GitHub Docs
 -->
+
 
 ## GitHub Actions Tools
 
@@ -1730,6 +1642,8 @@ https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
+
+
 
 
 ## Clones and Projects
@@ -1978,10 +1892,6 @@ https://beginnerwebdev.com/ | Beginner Web Dev
 https://domevents.dev/ | DOM Events
 https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
 
-MIT Course
-https://twitter.com/mgechev/status/1391973892948996098 | Minko Gechev on Twitter: "🔥 A free, practical course by the MIT that will teach you: ‣ How to use the shell &amp; script it ‣ Using vim ‣ Version control with git ‣ Debugging and profiling ‣ Metaprogramming ‣ Security ‣ More! https://t.co/oLIZ031QXb https://t.co/bTfLwoely4" / Twitter
-https://missing.csail.mit.edu/ | The Missing Semester of Your CS Education · the missing semester of your cs education
-
 
 
 HTML5 Boilerplate
@@ -1992,16 +1902,35 @@ https://moderntemplate.site/ | HTML Template
 Important
 https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
 
+
+## Accessibility
+
 Accessibility
 https://twitter.com/5t3ph/status/1364053377978613762 | Stephanie Eckles on Twitter: "It's past time to anticipate and address accessibility in your demos and tutorials. ⬇️ At *minimum* include: - semantic HTML - passing contrast, incl for states - keyboard access of controls - visible focus - also passing contrast When applicable: - img alt - control labels" / Twitter
 https://twitter.com/5t3ph/status/1370224136639905792 | Stephanie Eckles on Twitter: "CSS architecture starts with accessible HTML." / Twitter
 
-Design Resources
+## Design Resources
+
 https://github.com/bradtraversy/design-resources-for-developers | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 https://github.com/bradtraversy/design-resources-for-developers#design-inspiration | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 https://github.com/bradtraversy/design-resources-for-developers#design-systems--style-guides | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
 https://github.com/bradtraversy/design-resources-for-developers#html--css-templates | bradtraversy/design-resources-for-developers: Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more
+
+## Games/Gamification
+
+https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
+
+https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
+
+https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
+http://imgur.com/gallery/fM9yn
+https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
+https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
+
+http://gameprogrammingpatterns.com/contents.html
+https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
+
 
 ## Learning Resources- CSS, HTML, JavaScript
 
@@ -2013,12 +1942,6 @@ Wes Bos Courses
 * [JavaScript 30](https://javascript30.com/) and [JavaScript 30 GitHub](https://github.com/wesbos/JavaScript30)
 
 <!--
-Colby
-https://fromdesignto.dev/ | From Design to Development Crash Course - From Design to Development Crash Course
-
-Wes Bos
-https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
-
 https://stylestage.dev/styles/
 http://www.csszengarden.com/
 
@@ -2031,11 +1954,19 @@ http://csszengarden.com/148/ | CSS Zen Garden: The Beauty of CSS Design
 http://www.csszengarden.com/210/ | CSS Zen Garden: The Beauty of CSS Design
 http://csszengarden.com/221/
 
+
 Traversy Media
 https://github.com/bradtraversy/
 https://www.youtube.com/c/TraversyMedia/videos | Traversy Media - YouTube
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
+
+Colby
+https://fromdesignto.dev/ | From Design to Development Crash Course - From Design to Development Crash Course
+
+
+Wes Bos
+https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
 
 Vanilla JavaScript
 https://github.com/wesbos/JavaScript30
@@ -2135,21 +2066,6 @@ https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/ | The C
 https://twitter.com/chriscoyier/status/1337569425776635904
 https://wordpress.org/themes/twentytwentyone/
 https://css-tricks.com/unconventional-stock-image-sources/
-
-
-## Games/Gamification
-
-https://www.riotgames.com/en/urf-academy/curriculum-guide | Curriculum Guide | Riot Games
-
-https://www.gamified.uk/2017/04/03/periodic-table-gamification-elements/ | The Periodic Table of Gamification Elements - Gamified UK - #Gamification Expert
-
-https://medium.com/@amyjokim/what-makes-games-compelling-fee59ed14a02
-http://imgur.com/gallery/fM9yn
-https://twitter.com/webology/status/947520180976082945 | Jeff Triplett ✨🎄 on Twitter: "If you are into game programming or want to get into game programming, this thread is a goldmine. I kept reading and bookmarking for well ov… https://t.co/vaZSY4D6Q3"
-https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Twitter: "The Game Programming Resources thread! 2017 marks my 20th anniversary of game programming, so I’ve decided to start a curated thread with s… https://t.co/DS1yz4XcGb"
-
-http://gameprogrammingpatterns.com/contents.html
-https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
 
 
@@ -2211,14 +2127,11 @@ https://dev.to/joyshaheb/acing-css-grid-model-in-2021-with-5-exercises-css-2021-
 -->
 
 
+
 <!--
 ## Projects
 
-https://www.youtube.com/watch?v=IrZ58M8BgcA&feature=emb_logo | Automate My Closet with Python (Code With Me) - YouTube
-
 https://www.freecodecamp.org/news/the-html-handbook/ | The HTML Handbook
-https://www.freecodecamp.org/news/learn-javascript-by-building-7-games-video-course/ | Learn JavaScript by building 7 games
-https://www.freecodecamp.org/news/learn-javascript-by-creating-a-tetris-game/ | Learn JavaScript by creating a Tetris game
 
 https://github.com/btholt/node-example-app | btholt/node-example-app: The hello world of Node.js apps
 https://github.com/btholt/gatsby-course-starter | btholt/gatsby-course-starter: a gatsby starter project to help you create educational materials
@@ -2318,37 +2231,6 @@ https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Auth
 Every Cheese- Third party
 https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 -->
-
-## Wes Bos
-
-<!--
-https://courses.wesbos.com/account | Courses Dashboard | Wes Bos
-
-https://keycode.info/ | JavaScript Event KeyCodes
-https://github.com/wesbos/eslint-config-wesbos | wesbos/eslint-config-wesbos: No-Sweat™ Eslint and Prettier Setup - with or without VS Code
-https://eslint.org/demo | ESLint Demo - ESLint - Pluggable JavaScript linter
-https://commandlinepoweruser.com/ | Command Line Power User — A free video series for web developers on learning a modern command line workflow with ZSH, Z and related tools.
-hyper terminal - Google Search
-update node and npm - Google Search
--->
-
-<!--
-https://www.w3schools.com/jsref/met_document_queryselector.asp | HTML DOM querySelector() Method
-https://developer.mozilla.org/en-US/docs/Web/API/Element/classList | Element.classList - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement/currentTime | HTMLMediaElement.currentTime - Web APIs | MDN
-
-Project 1
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLMediaElement | HTMLMediaElement - Web APIs | MDN
-https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio | <audio>: The Embed Audio element - HTML: Hypertext Markup Language | MDN
-https://wiki.mozilla.org/Audio_Data_API | Audio Data API - MozillaWiki
-
-Not used
-https://developer.mozilla.org/en-US/docs/Web/API/HTMLOrForeignElement/dataset | HTMLOrForeignElement.dataset - Web APIs | MDN
-
-https://developer.mozilla.org/en-US/docs/Web/CSS/Using_CSS_custom_properties | Using CSS custom properties (variables) - CSS: Cascading Style Sheets | MDN
--->
-
 
 ## Awesome Python and Django
 
