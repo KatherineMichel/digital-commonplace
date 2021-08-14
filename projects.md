@@ -319,6 +319,7 @@ https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶�
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
 
+
 ## Competitions, Hackathons, Festivals, Communities
 
 Coding Competitions
@@ -644,7 +645,6 @@ https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as
 -->
 
 
-
 ## Git News
 
 GitHub
@@ -668,10 +668,6 @@ https://github.com/blog/2445-release-radar-november-2017 | Release Radar · Nove
 <!--
 Nuzzel
 * [Nuzzel](http://nuzzel.com)
-
-Nuzzel Custom Feeds
-* [Jonathan Abrams Other Feeds](https://nuzzel.com/abrams/feeds)
-* [Marc Andreessen](http://nuzzel.com/pmarca), [Industry](http://nuzzel.com/pmarca/industry), [Press](http://nuzzel.com/pmarca/press), [Finance](http://nuzzel.com/pmarca/finance), and [Sharp](http://nuzzel.com/pmarca/sharp)
 -->
 
 Interesting Links
@@ -735,6 +731,7 @@ https://substack.com/discover | Substack
 
 https://twitter.com/explore/tabs/for-you | Explore / Twitter
 https://www.youtube.com/feed/trending | Trending - YouTube
+
 
 Staff pick
 https://vimeo.com/channels/bestofthemonth
