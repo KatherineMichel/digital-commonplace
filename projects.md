@@ -87,6 +87,69 @@ Node
 https://twitter.com/bitandbang/status/1292922232658894850 | Tierney Cyren 🍑 on Twitter: "For a while, @nodejs has been working on redesigning our website. We started with IA, moved to design, and are now in the building phase. We're using @GatsbyJS, @reactjs, and @typescript. Tiny thread 🧵" / Twitter
 -->
 
+## Django and Python News
+
+<!--
+https://blog.jetbrains.com/pycharm/
+
+https://blog.python.org/
+
+https://www.python.org/download/pre-releases/
+
+Peps
+https://www.python.org/dev/peps/
+
+https://www.djangoproject.com/weblog/
+https://www.djangoproject.com/community/ | Django Community | Django
+
+What's New
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://www.python.org/downloads/release/python-390a5/
+https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
+
+Roundup
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+-->
+
+<!--
+Django News
+Important
+https://django-news.com/ | Django News
+https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
+
+Carlton and Simon Weeknotes
+https://noumenal.es/posts/
+https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
+
+
+Weeknotes Methodology
+https://twitter.com/simonw/status/1250652889938186240
+https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
+https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
+https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
+-->
+
+## Git News
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Engineering](https://githubengineering.com) 
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+## GitHub Must Read
+
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
+https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
 
 ## GitHub and VS Code Integration
 
@@ -399,6 +462,7 @@ https://js13kgames.com/
 -->
 
 
+
 ## High Performance Trends
 
 List of Engineering Blogs
@@ -417,6 +481,27 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
+## Dev Tools, Projects, and Demos
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+* [CodePen Projects](http://codepen.io/projects/)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+https://codepen.io/
+https://codepen.io/trending
+-->
 
 ## Showcases
 
@@ -447,26 +532,64 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
-## Dev Tools, Projects, and Demos
+## Tutorials
 
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
 
-* [CodePen Projects](http://codepen.io/projects/)
+Python Tutorials
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
 
-Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
 
-CodePen
-* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
-* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
 <!--
-https://codepen.io/
-https://codepen.io/trending
+https://dev.to/t/python
+
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+https://www.nature.com/ | Nature
+-->
+
+<!--
+## Trends
+
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 -->
 
 ## Creation Blogs
@@ -613,7 +736,6 @@ https://github.com/tj
 https://github.com/mikeal
 -->
 
-
 ## People
 
 Product Hunt Maker Leader Boards
@@ -642,25 +764,6 @@ https://github.com/orgs/maintainers/people
 https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
 
 https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
--->
-
-
-## Git News
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-## GitHub Must Read
-
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
 ## To Look At
@@ -788,210 +891,6 @@ https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Unde
 
 https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
 -->
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-https://www.nature.com/ | Nature
--->
-
-<!--
-## Trends
-
-https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-
-## Tutorials
-
-Show Hacker News and IH
-* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
-* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
-
-Python Tutorials
-* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
-* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
-
-Python Articles
-* [The Practical Dev Python](https://dev.to/search?q=python)
-* [Hacker Noon Python](https://hackernoon.com/search?query=python)
-* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
-
-<!--
-https://dev.to/t/python
-
-https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
-
-
-
-## Django and Python News
-
-<!--
-https://blog.jetbrains.com/pycharm/
-
-https://blog.python.org/
-
-https://www.python.org/download/pre-releases/
-
-Peps
-https://www.python.org/dev/peps/
-
-https://www.djangoproject.com/weblog/
-https://www.djangoproject.com/community/ | Django Community | Django
-
-What's New
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://www.python.org/downloads/release/python-390a5/
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
-
-Roundup
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
--->
-
-<!--
-Django News
-Important
-https://django-news.com/ | Django News
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
-
-Carlton Weeknotes
-https://noumenal.es/posts/
-
-Weeknotes Methodology
-https://simonwillison.net/tags/weeknotes/ | Simon Willison on weeknotes
-https://twitter.com/simonw/status/1250652889938186240
-https://twitter.com/simonw/status/1283981000851087360 | Simon Willison on Twitter: "@KatiMichel Write it up all at once - usually takes me about an hour. I use Dogsheep to show me all of my git commits across all of my projects (and my releases and suchlike) which makes it much easier to figure out what I've been working on https://t.co/JNu3GFwoXS" / Twitter
-https://twitter.com/simonw/status/1283986152060366849 | Simon Willison on Twitter: "@KatiMichel I've also got a SQL query that generates the markdown for a list of TILs since last week https://t.co/CbzgYG5PwZ" / Twitter
-https://til.simonwillison.net/til?sql=select+%27*+%5B%27+%7C%7C+title+%7C%7C+%27%5D%28%27+%7C%7C+url+%7C%7C+%27%29%27+as+md+from+til+where+created_utc+%3E%3D+%3Ap0+order+by+created_utc+limit+101&p0=2020-07-06 | til: select '* [' || title || '](' || url || ')' as md from til where created_utc >= :p0 order by created_utc limit 101
--->
-
-
-## Python Learning Resources
-
-Full Stack Python
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Real Python
-* [Real Python Materials](https://github.com/realpython/materials)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
-Trey Hunner
-* [Trey Hunner](https://treyhunner.com/)
-
-Michael
-* [Michael Herman](https://mherman.org/talks)
-
-<!--
-https://mherman.org/presentations/pytn-2018/#1
-https://mherman.org/presentations/flask-kubernetes/#1
-https://mherman.org/presentations/dockercon-2018/#1
-https://mherman.org/presentations/test-driven-writing/#1
-https://www.crowdcast.io/e/learning
--->
-
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-
-<!--
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-
-https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
-https://www.reddit.com/r/learnpython/ | Python Education
-https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
-
-
-HackInScience
-https://www.hackinscience.org/ | HackInScience — Python Exercises
-https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
-
-
-Impractical Python Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-
-
-Al
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
-https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-http://inventwithpython.com/beyond/
-https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-
-
-No Starch
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-
-Eric
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
--->
-
-
-## Python Learning Resources- Set Aside
-
-TestDriven.io
-* [Test Driven Blog](https://testdriven.io/blog/)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
-* [Real Python Courses](https://realpython.com/courses)
-
 
 
 <!--
@@ -1857,7 +1756,14 @@ https://github.com/channels-frontend/django_redux
 
 
 <!--
-https://web.dev/discoverable/
+https://learnxinyminutes.com/docs/python/ | Learn Python in Y Minutes
+https://www.reddit.com/r/learnpython/ | Python Education
+https://twitter.com/aaronchall/status/1114713624453554176 | Aaron Hall ♡'s 🐍, 𝜆, & 🇺🇸 on Twitter: "Here I explain not just what `@` does (all possible uses of the syntax in Python) but I also demonstrate how to discover all these kinds of details on your own: https://t.co/srzY3B7uti" / Twitter
+
+
+HackInScience
+https://www.hackinscience.org/ | HackInScience — Python Exercises
+https://twitter.com/GaganGulyani/status/1348268505800482819 | Gagan Deep Singh on Twitter: "Completely Free and Open-Source platform for learning Python 🐍🔥 Hackinscience is an interactive Python exercise platform (a bit of more info in thread) Link -&gt; https://t.co/lKP3WFYqQh https://t.co/OVjyIvatGS" / Twitter
 
 
 Carpentries
@@ -1874,6 +1780,8 @@ https://github.com/carpentries-incubator/ | carpentries-incubator
 https://twitter.com/WillingCarol/status/1337195052087476225 | Carol Willing on Twitter: "@strangequarklet The Carpentries open-source materials; SciPy/PyCon/PyData tutorials available for free on YouTube; tutorials in the Python libraries (the docs for many projects have improved greatly); @katyhuff/@scopatz book; @fastdotai; work by @math_rachel, @rctatman, Sarah Guido and more." / Twitter
 https://carpentries.org/
 
+
+https://web.dev/discoverable/
 
 Important
 https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
@@ -2228,6 +2136,92 @@ https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Auth
 Every Cheese- Third party
 https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
 -->
+
+
+
+
+## Python Learning Resources
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Real Python
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+Michael
+* [Michael Herman](https://mherman.org/talks)
+
+<!--
+https://mherman.org/presentations/pytn-2018/#1
+https://mherman.org/presentations/flask-kubernetes/#1
+https://mherman.org/presentations/dockercon-2018/#1
+https://mherman.org/presentations/test-driven-writing/#1
+https://www.crowdcast.io/e/learning
+-->
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+
+<!--
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+
+
+Al
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+http://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
+
+No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+Eric
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+-->
+
+## Python Learning Resources- Set Aside
+
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
 
 ## Awesome Python and Django
 
