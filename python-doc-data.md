@@ -226,23 +226,32 @@ https://docs.python.org/3/library/compileall.html#command-line-use
 https://docs.python.org/3/library/compileall.html#public-functions
 
 
+
 ## Testing
 
-27.4. unittest — Unit testing framework
-27.5. unittest.mock — mock object library
-27.6. unittest.mock — getting started
-27.8. test — Regression tests package for Python
-27.9. test.support — Utilities for the Python test suite
-27.10. test.support.script_helper — Utilities for the Python execution tests
+pytest
+https://docs.pytest.org/en/6.2.x/
+https://django-debug-toolbar.readthedocs.io/en/latest/
 
-https://docs.python.org/3/library/unittest.html#unittest.TestCase
+Assert
+https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt
+https://www.tutorialspoint.com/python/assertions_in_python.htm
 
-7.3. The assert statement
-https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
-AssertionError
+## Debugging
 
-Where is this?
-https://docs.python.org/3/library/unittest.html#assert-methods
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+
+28. Debugging and Profiling
+28.3. pdb — The Python Debugger
+28.1. bdb — Debugger framework
+
+Nina
+https://twitter.com/nnja/status/1157475244916928513/photo/1
+
+https://docs.python.org/3/library/debug.html
+
+https://docs.python.org/3/library/pdb.html#debugger-commands
+
 
 ## Testing
 
@@ -344,52 +353,6 @@ https://docs.python.org/3/library/unittest.mock-examples.html#mocking-imports-wi
 https://docs.python.org/3/library/unittest.mock-examples.html#tracking-order-of-calls-and-less-verbose-call-assertions
 https://docs.python.org/3/library/unittest.mock-examples.html#more-complex-argument-matching
 
-## Logging
-
-https://docs.python.org/3/library/logging.html
-https://docs.python.org/3/library/logging.html#logger-objects
-https://docs.python.org/3/library/logging.html#logging-levels
-https://docs.python.org/3/library/logging.html#handler-objects
-https://docs.python.org/3/library/logging.html#formatter-objects
-https://docs.python.org/3/library/logging.html#filter-objects
-https://docs.python.org/3/library/logging.html#logrecord-objects
-https://docs.python.org/3/library/logging.html#logrecord-attributes
-https://docs.python.org/3/library/logging.html#loggeradapter-objects
-https://docs.python.org/3/library/logging.html#thread-safety
-https://docs.python.org/3/library/logging.html#module-level-functions
-https://docs.python.org/3/library/logging.html#module-level-attributes
-https://docs.python.org/3/library/logging.html#integration-with-the-warnings-module
-
-https://docs.python.org/3/library/logging.config.html
-https://docs.python.org/3/library/logging.config.html#configuration-functions
-https://docs.python.org/3/library/logging.config.html#configuration-dictionary-schema
-https://docs.python.org/3/library/logging.config.html#dictionary-schema-details
-https://docs.python.org/3/library/logging.config.html#incremental-configuration
-https://docs.python.org/3/library/logging.config.html#object-connections
-https://docs.python.org/3/library/logging.config.html#user-defined-objects
-https://docs.python.org/3/library/logging.config.html#access-to-external-objects
-https://docs.python.org/3/library/logging.config.html#access-to-internal-objects
-https://docs.python.org/3/library/logging.config.html#import-resolution-and-custom-importers
-https://docs.python.org/3/library/logging.config.html#configuration-file-format
-
-https://docs.python.org/3/library/logging.handlers.html
-https://docs.python.org/3/library/logging.handlers.html#streamhandler
-https://docs.python.org/3/library/logging.handlers.html#filehandler
-https://docs.python.org/3/library/logging.handlers.html#nullhandler
-https://docs.python.org/3/library/logging.handlers.html#watchedfilehandler
-https://docs.python.org/3/library/logging.handlers.html#baserotatinghandler
-https://docs.python.org/3/library/logging.handlers.html#rotatingfilehandler
-https://docs.python.org/3/library/logging.handlers.html#timedrotatingfilehandler
-https://docs.python.org/3/library/logging.handlers.html#sockethandler
-https://docs.python.org/3/library/logging.handlers.html#datagramhandler
-https://docs.python.org/3/library/logging.handlers.html#sysloghandler
-https://docs.python.org/3/library/logging.handlers.html#nteventloghandler
-https://docs.python.org/3/library/logging.handlers.html#smtphandler
-https://docs.python.org/3/library/logging.handlers.html#memoryhandler
-https://docs.python.org/3/library/logging.handlers.html#httphandler
-https://docs.python.org/3/library/logging.handlers.html#queuehandler
-https://docs.python.org/3/library/logging.handlers.html#queuelistener
-
 
 ## Tests
 
@@ -421,144 +384,6 @@ https://docs.python.org/3/library/doctest.html#outputchecker-objects
 https://docs.python.org/3/library/doctest.html#debugging
 https://docs.python.org/3/library/doctest.html#soapbox
 -->
-
-
-## Testing
-
-pytest
-https://docs.pytest.org/en/6.2.x/
-https://django-debug-toolbar.readthedocs.io/en/latest/
-
-Assert
-https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt
-https://www.tutorialspoint.com/python/assertions_in_python.htm
-
-## Debugging and Profiling
-
-https://pypi.org/project/ipdb/ | ipdb · PyPI
-
-28. Debugging and Profiling
-28.3. pdb — The Python Debugger
-28.1. bdb — Debugger framework
-
-Nina
-https://twitter.com/nnja/status/1157475244916928513/photo/1
-
-https://docs.python.org/3/library/debug.html
-
-https://docs.python.org/3/library/pdb.html#debugger-commands
-
-## Performance
-
-36.11. resource — Resource usage information
-https://docs.python.org/3/library/resource.html
-https://docs.python.org/3/library/resource.html#resource-limits
-https://docs.python.org/3/library/resource.html#resource-usage
-
-10.11. Quality Control
-https://docs.python.org/3/tutorial/stdlib.html#quality-control
-
-10.10. Performance Measurement
-https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
-
-Big O Notation
-https://www.bigocheatsheet.com/
-https://en.wikipedia.org/wiki/Big_O_notation
-
-28.4. The Python Profilers
-28.5. timeit — Measure execution time of small code snippets
-28.6. trace — Trace or track Python statement execution
-
-"cProfile and profile provide deterministic profiling of Python programs. A profile is a set of statistics that describes how often and for how long various parts of the program executed. These statistics can be formatted into reports via the pstats module."
-https://docs.python.org/3/library/profile.html
-https://docs.python.org/3/library/profile.html#module-pstats
-
-https://docs.python.org/3/library/timeit.html
-
-cProfile
-https://docs.python.org/3/library/profile.html#module-cProfile
-
-https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
-https://docs.python.org/3/library/profile.html#instant-user-s-manual
-
-https://docs.python.org/3/library/profile.html#the-stats-class
-https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
-https://docs.python.org/3/library/profile.html#limitations
-https://docs.python.org/3/library/profile.html#calibration
-https://docs.python.org/3/library/profile.html#using-a-custom-timer
-
-https://docs.python.org/3/library/timeit.html#basic-examples
-https://docs.python.org/3/library/timeit.html#python-interface
-https://docs.python.org/3/library/timeit.html#command-line-interface
-https://docs.python.org/3/library/timeit.html#examples
-
-"trace — Trace or track Python statement execution"
-https://docs.python.org/3/library/trace.html
-
-https://docs.python.org/3/library/trace.html#command-line-usage
-https://docs.python.org/3/library/trace.html#main-options
-https://docs.python.org/3/library/trace.html#modifiers
-https://docs.python.org/3/library/trace.html#filters
-https://docs.python.org/3/library/trace.html#programmatic-interface
-
-29.9. traceback — Print or retrieve a stack traceback
-https://docs.python.org/3/library/traceback.html
-https://docs.python.org/3/library/traceback.html#tracebackexception-objects
-https://docs.python.org/3/library/traceback.html#stacksummary-objects
-https://docs.python.org/3/library/traceback.html#framesummary-objects
-https://docs.python.org/3/library/traceback.html#traceback-examples
-
-<!--
-28.2. faulthandler — Dump the Python traceback
-28.7. tracemalloc — Trace memory allocations
-
-https://docs.python.org/3/library/faulthandler.html
-https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback
-https://docs.python.org/3/library/faulthandler.html#fault-handler-state
-https://docs.python.org/3/library/faulthandler.html#dumping-the-tracebacks-after-a-timeout
-https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback-on-a-user-signal
-https://docs.python.org/3/library/faulthandler.html#issue-with-file-descriptors
-https://docs.python.org/3/library/faulthandler.html#example
-
-https://docs.python.org/3/library/tracemalloc.html
-https://docs.python.org/3/library/tracemalloc.html#examples
-https://docs.python.org/3/library/tracemalloc.html#display-the-top-10
-https://docs.python.org/3/library/tracemalloc.html#compute-differences
-https://docs.python.org/3/library/tracemalloc.html#get-the-traceback-of-a-memory-block
-https://docs.python.org/3/library/tracemalloc.html#pretty-top
-https://docs.python.org/3/library/tracemalloc.html#api
-https://docs.python.org/3/library/tracemalloc.html#functions
-https://docs.python.org/3/library/tracemalloc.html#domainfilter
-https://docs.python.org/3/library/tracemalloc.html#filter
-https://docs.python.org/3/library/tracemalloc.html#frame
-https://docs.python.org/3/library/tracemalloc.html#snapshot
-https://docs.python.org/3/library/tracemalloc.html#statistic
-https://docs.python.org/3/library/tracemalloc.html#statisticdiff
-https://docs.python.org/3/library/tracemalloc.html#trace
-https://docs.python.org/3/library/tracemalloc.html#traceback
--->
-
-## Logging
-
-11.5. Logging
-https://docs.python.org/3/tutorial/stdlib2.html#logging
-
-    	   
-## Logging
-
-Logging HOWTO
-https://docs.python.org/3/howto/logging.html
-
-Logging Cookbook
-https://docs.python.org/3/howto/logging-cookbook.html
-
-11.5. Logging
-https://docs.python.org/3/tutorial/stdlib2.html#logging
-
-https://docs.python.org/3/library/logging.html
-https://docs.python.org/3/library/logging.config.html
-https://docs.python.org/3/library/logging.handlers.html
-
 
 ## Django System Checks, Error Reporting, Exceptions
 
@@ -879,6 +704,7 @@ Python Warnings
            +-- DeprecationWarning
            +-- PendingDeprecationWarning
         
+	
 ## Warnings
 
 https://docs.python.org/3/library/exceptions.html#warnings
@@ -898,7 +724,155 @@ https://docs.python.org/3/library/warnings.html#updating-code-for-new-versions-o
 https://docs.python.org/3/library/warnings.html#available-functions
 https://docs.python.org/3/library/warnings.html#available-context-managers
 
+## Logging
 
+Logging HOWTO
+https://docs.python.org/3/howto/logging.html
+
+Logging Cookbook
+https://docs.python.org/3/howto/logging-cookbook.html
+
+11.5. Logging
+https://docs.python.org/3/tutorial/stdlib2.html#logging
+
+https://docs.python.org/3/library/logging.html
+https://docs.python.org/3/library/logging.html#logger-objects
+https://docs.python.org/3/library/logging.html#logging-levels
+https://docs.python.org/3/library/logging.html#handler-objects
+https://docs.python.org/3/library/logging.html#formatter-objects
+https://docs.python.org/3/library/logging.html#filter-objects
+https://docs.python.org/3/library/logging.html#logrecord-objects
+https://docs.python.org/3/library/logging.html#logrecord-attributes
+https://docs.python.org/3/library/logging.html#loggeradapter-objects
+https://docs.python.org/3/library/logging.html#thread-safety
+https://docs.python.org/3/library/logging.html#module-level-functions
+https://docs.python.org/3/library/logging.html#module-level-attributes
+https://docs.python.org/3/library/logging.html#integration-with-the-warnings-module
+
+https://docs.python.org/3/library/logging.config.html
+https://docs.python.org/3/library/logging.config.html#configuration-functions
+https://docs.python.org/3/library/logging.config.html#configuration-dictionary-schema
+https://docs.python.org/3/library/logging.config.html#dictionary-schema-details
+https://docs.python.org/3/library/logging.config.html#incremental-configuration
+https://docs.python.org/3/library/logging.config.html#object-connections
+https://docs.python.org/3/library/logging.config.html#user-defined-objects
+https://docs.python.org/3/library/logging.config.html#access-to-external-objects
+https://docs.python.org/3/library/logging.config.html#access-to-internal-objects
+https://docs.python.org/3/library/logging.config.html#import-resolution-and-custom-importers
+https://docs.python.org/3/library/logging.config.html#configuration-file-format
+
+https://docs.python.org/3/library/logging.handlers.html
+https://docs.python.org/3/library/logging.handlers.html#streamhandler
+https://docs.python.org/3/library/logging.handlers.html#filehandler
+https://docs.python.org/3/library/logging.handlers.html#nullhandler
+https://docs.python.org/3/library/logging.handlers.html#watchedfilehandler
+https://docs.python.org/3/library/logging.handlers.html#baserotatinghandler
+https://docs.python.org/3/library/logging.handlers.html#rotatingfilehandler
+https://docs.python.org/3/library/logging.handlers.html#timedrotatingfilehandler
+https://docs.python.org/3/library/logging.handlers.html#sockethandler
+https://docs.python.org/3/library/logging.handlers.html#datagramhandler
+https://docs.python.org/3/library/logging.handlers.html#sysloghandler
+https://docs.python.org/3/library/logging.handlers.html#nteventloghandler
+https://docs.python.org/3/library/logging.handlers.html#smtphandler
+https://docs.python.org/3/library/logging.handlers.html#memoryhandler
+https://docs.python.org/3/library/logging.handlers.html#httphandler
+https://docs.python.org/3/library/logging.handlers.html#queuehandler
+https://docs.python.org/3/library/logging.handlers.html#queuelistener
+
+
+## Profiling Performance
+
+36.11. resource — Resource usage information
+https://docs.python.org/3/library/resource.html
+https://docs.python.org/3/library/resource.html#resource-limits
+https://docs.python.org/3/library/resource.html#resource-usage
+
+10.11. Quality Control
+https://docs.python.org/3/tutorial/stdlib.html#quality-control
+
+10.10. Performance Measurement
+https://docs.python.org/3/tutorial/stdlib.html#performance-measurement
+
+Big O Notation
+https://www.bigocheatsheet.com/
+https://en.wikipedia.org/wiki/Big_O_notation
+
+28.4. The Python Profilers
+28.5. timeit — Measure execution time of small code snippets
+28.6. trace — Trace or track Python statement execution
+
+"cProfile and profile provide deterministic profiling of Python programs. A profile is a set of statistics that describes how often and for how long various parts of the program executed. These statistics can be formatted into reports via the pstats module."
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/profile.html#module-pstats
+
+https://docs.python.org/3/library/timeit.html
+
+cProfile
+https://docs.python.org/3/library/profile.html#module-cProfile
+
+https://docs.python.org/3/library/profile.html#introduction-to-the-profilers
+https://docs.python.org/3/library/profile.html#instant-user-s-manual
+
+https://docs.python.org/3/library/profile.html#the-stats-class
+https://docs.python.org/3/library/profile.html#what-is-deterministic-profiling
+https://docs.python.org/3/library/profile.html#limitations
+https://docs.python.org/3/library/profile.html#calibration
+https://docs.python.org/3/library/profile.html#using-a-custom-timer
+
+https://docs.python.org/3/library/timeit.html#basic-examples
+https://docs.python.org/3/library/timeit.html#python-interface
+https://docs.python.org/3/library/timeit.html#command-line-interface
+https://docs.python.org/3/library/timeit.html#examples
+
+"trace — Trace or track Python statement execution"
+https://docs.python.org/3/library/trace.html
+
+https://docs.python.org/3/library/trace.html#command-line-usage
+https://docs.python.org/3/library/trace.html#main-options
+https://docs.python.org/3/library/trace.html#modifiers
+https://docs.python.org/3/library/trace.html#filters
+https://docs.python.org/3/library/trace.html#programmatic-interface
+
+29.9. traceback — Print or retrieve a stack traceback
+https://docs.python.org/3/library/traceback.html
+https://docs.python.org/3/library/traceback.html#tracebackexception-objects
+https://docs.python.org/3/library/traceback.html#stacksummary-objects
+https://docs.python.org/3/library/traceback.html#framesummary-objects
+https://docs.python.org/3/library/traceback.html#traceback-examples
+
+<!--
+28.2. faulthandler — Dump the Python traceback
+28.7. tracemalloc — Trace memory allocations
+
+https://docs.python.org/3/library/faulthandler.html
+https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback
+https://docs.python.org/3/library/faulthandler.html#fault-handler-state
+https://docs.python.org/3/library/faulthandler.html#dumping-the-tracebacks-after-a-timeout
+https://docs.python.org/3/library/faulthandler.html#dumping-the-traceback-on-a-user-signal
+https://docs.python.org/3/library/faulthandler.html#issue-with-file-descriptors
+https://docs.python.org/3/library/faulthandler.html#example
+
+https://docs.python.org/3/library/tracemalloc.html
+https://docs.python.org/3/library/tracemalloc.html#examples
+https://docs.python.org/3/library/tracemalloc.html#display-the-top-10
+https://docs.python.org/3/library/tracemalloc.html#compute-differences
+https://docs.python.org/3/library/tracemalloc.html#get-the-traceback-of-a-memory-block
+https://docs.python.org/3/library/tracemalloc.html#pretty-top
+https://docs.python.org/3/library/tracemalloc.html#api
+https://docs.python.org/3/library/tracemalloc.html#functions
+https://docs.python.org/3/library/tracemalloc.html#domainfilter
+https://docs.python.org/3/library/tracemalloc.html#filter
+https://docs.python.org/3/library/tracemalloc.html#frame
+https://docs.python.org/3/library/tracemalloc.html#snapshot
+https://docs.python.org/3/library/tracemalloc.html#statistic
+https://docs.python.org/3/library/tracemalloc.html#statisticdiff
+https://docs.python.org/3/library/tracemalloc.html#trace
+https://docs.python.org/3/library/tracemalloc.html#traceback
+-->
+
+
+
+## I/O and Async
 
 19.3. select — Waiting for I/O completion
 19.4. selectors — High-level I/O multiplexing
