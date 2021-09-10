@@ -1,6 +1,38 @@
 # Python and Django Tools
 
 <!--
+## Tool Choices
+
+https://snarky.ca/thoughts-on-a-tooling-workflow/
+https://twitter.com/brettsky/status/1260782564597366785
+
+https://twitter.com/froidotdev/status/1248661469920714753
+
+https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
+
+Simon- Tools
+https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://twitter.com/simonw/status/1248628140445855745
+
+https://github.com/cortesi/devd
+https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
+https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
+https://mobile.twitter.com/webology/status/1195163668440334337
+
+https://mobile.twitter.com/brettsky/status/1223731773147766784
+https://twitter.com/gvanrossum/status/1227126706089021440
+https://twitter.com/mariatta/status/1227286873413799936
+https://twitter.com/jonasrk/status/1227028183469449216
+https://twitter.com/WillingCarol/status/1227331652046770176
+https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
+https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
+-->
+
+
+
+<!--
 Feature Flags
 https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
 https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
@@ -196,19 +228,25 @@ https://pypi.org/project/appdirs/
 
 https://pypi.org/project/requests-toolbelt/
 
+https://pypi.org/project/slackclient/
+https://pypi.org/project/discord.py/
+
+
+## Django and Flask
+
+https://pypi.org/project/djangorestframework/
+https://pypi.org/project/Flask-SQLAlchemy/
+https://pypi.org/project/Flask-Cors/
+
+## Auth
+
 https://pypi.org/project/google-auth-httplib2/
 https://pypi.org/project/google-auth-oauthlib/
 https://pypi.org/project/requests-oauthlib/ | requests-oauthlib · PyPI
 https://pypi.org/project/oauthlib/ | oauthlib · PyPI
 https://pypi.org/project/oauth2client/
 
-
-https://pypi.org/project/djangorestframework/
-https://pypi.org/project/Flask-SQLAlchemy/
-https://pypi.org/project/Flask-Cors/
-
-https://pypi.org/project/slackclient/
-https://pypi.org/project/discord.py/
+## Hosting
 
 Hosts- Google
 https://pypi.org/project/google-api-python-client/ | google-api-python-client · PyPI
@@ -236,9 +274,13 @@ https://pypi.org/project/azure-devops/
 https://pypi.org/project/azure-mgmt-resource/
 https://pypi.org/project/azure-mgmt-storage/
 
+## Query
+
 Query
 https://pypi.org/project/google-cloud-bigquery/
 https://pypi.org/project/pandas-gbq/
+
+## Async
 
 https://pypi.org/project/aiohttp/
 https://pypi.org/project/websockets/
@@ -247,6 +289,8 @@ https://pypi.org/project/gevent/
 https://pypi.org/project/uvloop/
 https://pypi.org/project/celery/
 https://pypi.org/project/Twisted/
+
+## Testing and Formatting
 
 https://pypi.org/project/pytest-cov/
 https://pypi.org/project/pytest-runner/
@@ -261,6 +305,8 @@ https://pypi.org/project/pylint/
 https://pypi.org/project/tox/
 https://pypi.org/project/flake8/
 https://pypi.org/project/isort/
+
+## Typing
 
 https://pypi.org/project/typing/
 https://pypi.org/project/typing-extensions/
