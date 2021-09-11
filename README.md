@@ -93,15 +93,6 @@ https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twi
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
 
 
-## Opportunities and Ideas
-
-### Talks
-
-https://us.pycon.org/2020/schedule/talks/
-https://techyaks.com/python-year-tytop.html
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-
-
 
 ## Community
 
@@ -304,27 +295,6 @@ Docs Audit
 https://twitter.com/GoogleOSS/status/1367882772916953098 | Google Open Source on Twitter: "📂 Are you struggling to understand what docs your open source project has, what docs your project needs, and how to bridge that gap? Check out this new documentation content maturity checklist and guide from @ddbeck, open sourced by Google → https://t.co/Yt3ObDc8sx https://t.co/YG1yVKcJm3" / Twitter
 https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · google/opendocs · GitHub
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
--->
-
-<!--
-## Security
-
-Feross
-https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
-https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
-
-https://web.stanford.edu/class/cs253/ | CS253 - Web Security
-https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
-https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
-https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
-
-https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
-https://owasp.org/www-project-samm/ | OWASP SAMM
-https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
-https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
-
-Important
-https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
 -->
 
 <!--
@@ -906,11 +876,14 @@ http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distribute
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+-->
 
+
+<!--
+What happens when
 
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
 
-What happens
 https://danluu.com/navigate-url/
 https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
