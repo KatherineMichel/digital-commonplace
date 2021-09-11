@@ -101,9 +101,6 @@ https://us.pycon.org/2020/schedule/talks/
 https://techyaks.com/python-year-tytop.html
 https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 
-https://medium.com/@nnja/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338
-https://github.com/matteofigus/awesome-speaking
-Vicky's resources
 
 
 ## Community
@@ -133,16 +130,13 @@ Mariatta
 https://www.youtube.com/watch?v=siI6dFceNIc&feature=youtu.be | (5) "Oops! I Became an Open Source Maintainer! 😱" - Mariatta (PyConline AU 2020) - YouTube
 https://speakerdeck.com/mariatta/oops-i-became-an-open-source-maintainer | Oops! I Became an Open Source Maintainer! 😱 - Speaker Deck
 https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri on Twitter: "Great advice from @mariatta on how to maintain software better in her @PyGotham talk I especially like the ideas of having a maintenance onboarding guide and planning for maintainer successors https://t.co/MoB1xqpids" / Twitter
-
-Mariatta
-https://twitter.com/mariatta/status/1321489812302385153 | Mariatta 🤦 on Twitter: "Just published my talk Demystifying Public Speaking from last night's @pyladiesvan to @YouTube https://t.co/tQ7ZyvfqPc (13 minutes long)" / Twitter
-
-https://www.youtube.com/watch?v=3m555yWTaNI | Shannon Turner - You're an expert. Here's how to teach like one. - PyCon 2018 - YouTube
-https://cfp.2020.djangocon.eu/porto/talk/AF8EFE/ | How To Get On This Stage (And What To Do When You Get There) :: DjangoCon Europe 2020 :: pretalx
 -->
 
 
 <!--
+https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV7K/ref=sr_1_1?crid=NP7RH28VTXWD&dchild=1&keywords=innovation+stack&qid=1617295594&sprefix=innovation+stack,aps,173&sr=8-1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time (Audible Audio Edition): Jim McKelvey, Jim McKelvey, Penguin Audio: Audible Audiobooks
+
+
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
@@ -255,55 +249,6 @@ https://github.com/joelparkerhenderson/ground_rules
 https://github.com/joelparkerhenderson/ground_rules#see-also
 -->
 
-<!--
-https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV7K/ref=sr_1_1?crid=NP7RH28VTXWD&dchild=1&keywords=innovation+stack&qid=1617295594&sprefix=innovation+stack,aps,173&sr=8-1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time (Audible Audio Edition): Jim McKelvey, Jim McKelvey, Penguin Audio: Audible Audiobooks
-
-## Product
-
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
-https://www.atlassian.com/agile/product-management/product-roadmaps | Product Roadmaps | Atlassian
-
-Empowered versus feature
-https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
-https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
-
-https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
--->
-
-<!--
-## Testing
-
-Testing
-https://testautomationu.applitools.com/learningpaths.html | Learning Paths | Applitools
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/chapter2.html | Chapter 2 - Setting Up pytest
-https://testautomationu.applitools.com/python-tutorial/chapter8.html | Chapter 8 - Classes
-
-https://applitools.com/
-https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
-https://applitools.com/products-eyes/ | Applitools Eyes > Automated Visual Testing | Applitools
-https://eyes.applitools.com/app/test-results/00000251785171536301/?accountId=V09Xrww-9EGBGP0uZjJ6bw~~ | Applitools Eyes
-
-https://twitter.com/ameter/status/1383626060609191940 | Ariel Meter on Twitter: "This course by @techgirl1908 is a MUST for every Test Lead. It will teach you how to stop an “I-want-everything-automated-with -X-tool” stakeholder and make all the right questions for a successful Automation strategy." / Twitter
-https://twitter.com/techgirl1908/status/1382709959788523520 | Angie Jones on Twitter: "Stoked to announce we've just added a new Learning Path to @TestAutomationU: API Python🐍 And with that, a brand new course, API Testing in Python taught by @automationhacks🎉 All courses FREE as always❤️ Learning Path: https://t.co/oEMJH2AaJm Course: https://t.co/R6QS54Ac8I https://t.co/hmbzGwfaqh" / Twitter
-
-Applitools
-https://twitter.com/techgirl1908/status/1389327137690296322 | Angie Jones on Twitter: "LOL, ok so no one else says they didn't know... Python: https://t.co/K9Hi8R4xHl JS: https://t.co/xItuVb9MAh Java:https://t.co/eQ9rqO1Dp5 All free! 🤗" / Twitter
-
-Java
-https://angiejones.tech/free-java-course-test-automation/ | My FREE Java Course - Angie Jones
-https://testautomationu.applitools.com/java-programming-course/ | Java Programming
-
-Automation framework
-https://robotframework.org/
-
-App and browser testing
-https://www.browserstack.com/
--->
 
 <!--
 ## UX/UI
@@ -392,80 +337,6 @@ https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on 
 -->
 
 
-
-<!--
-https://github.com/jgthms/goodies | jgthms/goodies: Collection of GitHub repos, blogs and websites to learn cool things
-
-https://github.com/255kb/stack-on-a-budget | 255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com
-https://twitter.com/hashtag/MustHaveDevTools?src=hash | (9) #MustHaveDevTools hashtag on Twitter
-
-https://free-for.dev/#/ | Free for developers
-https://github.com/ripienaar/free-for-dev | ripienaar/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
-
-https://awesomeopensource.com/projects/django | The Top 1,024 Django Open Source Projects
-https://opensourcestash.com/ | Open Source Stash
-https://opensourcelibs.com/ | Open Source Libs - Best Open Source Software Projects
--->
-
-## Productivity Tools
-
-Emails
-* [Create Rules to Filter Your Emails](https://support.google.com/mail/answer/6579?hl=en)
-* [Schedule Emails](https://support.google.com/mail/answer/9214606?co=GENIE.Platform%3DDesktop&hl=en)
-
-Pocket
-* [Listening to Pocket on Your Computer](https://help.getpocket.com/article/1081-listening-to-articles-in-pocket-with-text-to-speech#computer)
-* [Pocket Recommended](https://getpocket.com/a/recommended)
-
-Google Docs Voice
-* [Google Docs Type with Your Voice](https://support.google.com/docs/answer/4492226)
-* [Google Docs Voice Typing Blog Post](https://docs.googleblog.com/2016/02/type-edit-and-format-with-your-voice-in.html)
-
-YouTube
-* [YouTube Auto Transcription](https://support.google.com/youtube/answer/2734799?hl=en)
-* [YouTube Add Subtitles & Closed Captions](https://support.google.com/youtube/answer/2734796?hl=en)
-
-<!--
-GitHub notifications
-https://github.blog/2017-07-18-managing-large-numbers-of-github-notifications/ | Managing large numbers of GitHub notifications - The GitHub Blog
-
-Interesting!
-https://dev.to/und0ck3d/organizing-your-life-using-github-6an | Organizing your life using Github
-
-
-Zoom
-https://us04web.zoom.us/meeting | My Meetings - Zoom
-https://zoom.us/recording | My Recordings - Zoom
-https://us04st1.zoom.us/web_client/pwj3uo/html/shareDisallowHelpPage.html | Allow Screen Recording Access in System Setting
-https://support.zoom.us/hc/en-us/articles/201362153-How-Do-I-Share-My-Screen?mobile_site=true | Sharing your screen – Zoom Help Center
-
-Record a Video
-https://www.digitaltrends.com/computing/how-to-record-your-computer-screen/ | How to Record Your Computer Screen | Digital Trends
-https://support.apple.com/en-us/HT208721
-https://github.com/HandBrake | HandBrake
-https://handbrake.fr/rotation.php?file=HandBrake-1.3.2.dmg | HandBrake
-https://obsproject.com/ | Open Broadcaster Software | OBS
-
-Screenflow
-https://twitter.com/juliaferraioli/status/1295488155500474368
-
-YouTube Studio
-https://support.google.com/youtube/answer/71673?co=GENIE.Platform%3DDesktop&hl=en-GB
-https://support.google.com/youtube/answer/57407
-https://www.youtube.com/watch?v=VKf6NF0OD5A
-
-https://www.apple.com/voiceover/info/guide/_1137.html
-https://help.apple.com/voiceover/info/guide/10.12/#/vo2681 | VoiceOver overview - VoiceOver Getting Started Guide
-
-Email
-https://twitter.com/sawaba/status/1222680741705846785
-
-Google Chrome Voice
-https://chrome.google.com/webstore/detail/voice-recognition/ikjmfindklfaonkodbnidahohdfbdhkn?hl=en
-https://chrome.google.com/webstore/detail/speech-recognition-anywhe/kdnnmhpmcakdilnofmllgcigkibjonof?hl=en
--->
-
-
 ## Software Engineering
 
 Software Project Management
@@ -497,30 +368,6 @@ Types of Development
 * [Adaptive Software Development Wikipedia](https://en.wikipedia.org/wiki/Adaptive_software_development) 
 * [Progressive Enhancement Wikipedia](https://en.wikipedia.org/wiki/Progressive_enhancement)
 
-
-## Product and Marketing
-
-Product
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-
-Marketing and Sales
-* [Marketing for Engineers GitHub](https://github.com/LisaDziuba/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-<!--
-List of top product management article links
-
-https://github.com/mtdvio/going-to-production | mtdvio/going-to-production: A reference checklist for topics which should be covered before going to production.
-https://github.com/adamwulf/app-launch-guide | adamwulf/app-launch-guide: This aims to be an indie dev's definitive guide to building and launching your app, including pre-launch, marketing, building, QA, buzz building, and launch.
-
-https://www.sideprojectchecklist.com/ | Side Project Checklist
-
-https://github.com/portable-cto/side-project-marketing/blob/master/marketing-checklist.md | side-project-marketing/marketing-checklist.md at master · portable-cto/side-project-marketing
-https://github.com/portable-cto/side-project-sales/blob/master/sales-checklist.md | side-project-sales/sales-checklist.md at master · portable-cto/side-project-sales
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
--->
 
 ## Engineering Performance Resources
 
@@ -665,20 +512,6 @@ https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter:
 https://twitter.com/mojombo/status/1329097078102913025 | Tom Preston-Werner on Twitter: "5k stars! @RedwoodJS is picking up steam and getting close to a 1.0 release. Watch the video tutorial today! https://t.co/JasJrDNacj" / Twitter
 https://dev.to/ajcwebdev/my-redwood-js-history-3kdp | my redwood.js history - DEV Community 👩‍💻👨‍💻
 
-Ghost
-https://github.com/TryGhost/Ghost-Admin | TryGhost/Ghost-Admin: Ghost's admin client
-https://ghost.org/docs/concepts/config/ | Configuration - Adapt your publication to suit your needs
-https://valet.ghost.org/?_ga=2.5873840.2003791890.1607100888-1637989990.1606852977 | Ghost(Valet) - Premium Ghost Support, Updates & Maintenance
-
-Cosmic
-https://gatsby-blog-cosmicjs.netlify.app/ | Gatsby Blog Powered By Cosmic JS
-https://twitter.com/jazibsawar | Jazib Sawar (@jazibsawar) / Twitter
-https://github.com/cosmicjs/gatsby-blog-cosmicjs | cosmicjs/gatsby-blog-cosmicjs: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
-https://www.npmjs.com/package/gatsby-source-cosmicjs | gatsby-source-cosmicjs - npm
-
-Cosmic
-https://github.com/mrlynn/personal-blog | mrlynn/personal-blog: 🚀⚡️ Blazing fast blog built with Gatsby and the Cosmic Headless CMS 🔥
-
 Jake
 http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
 https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
@@ -699,16 +532,32 @@ Atlassian Agile
 <!--
 https://developer.atlassian.com
 
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+-->
+
+## Product
+
+<!--
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
 "The history of product management"
 https://www.atlassian.com/agile/product-management
 https://www.atlassian.com/agile/product-management/product-manager
 https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
 https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
 
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/devops/tools-and-technologies
+https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
 
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
+https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
 -->
 
 ## Stuff
@@ -760,27 +609,11 @@ https://twitter.com/dnsmichi/status/1314267751607869442
 https://twitter.com/melsmo/status/1313180759889305601
 -->
 
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
-
 ## Programming Language Comparisons
 ## General Software Design Patterns
 ## Architectures
 ## Python Syntax and Python Versus JavaScript
+
 
 ## Python and JavaScript
 
