@@ -1,6 +1,27 @@
 # Tools- Python and Django Testing, Profiling, Deployment, and Security
 
 <!--
+## Security
+
+Feross
+https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
+https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
+
+https://web.stanford.edu/class/cs253/ | CS253 - Web Security
+https://github.com/feross/cs253.stanford.edu | feross/cs253.stanford.edu: CS 253 Web Security course at Stanford University
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+https://www.youtube.com/watch?v=XTcqlOFhpPI | (4) Web Security - Lecture 06 - Cross-Site Scripting (XSS) - YouTube
+
+https://owasp.org/ | OWASP Foundation | Open Source Foundation for Application Security
+https://owasp.org/www-project-samm/ | OWASP SAMM
+https://owasp.org/www-project-web-security-testing-guide/v42/ | WSTG - v4.2 | OWASP
+https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-security-top-10.pdf | API-Security/owasp-api-security-top-10.pdf at master · OWASP/API-Security
+
+Important
+https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
+-->
+
+<!--
 ## Testing
 
 Testing
