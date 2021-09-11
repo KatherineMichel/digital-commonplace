@@ -1,4 +1,39 @@
-# Tools- Python and Django Testing, Profiling, Deployment, and Security
+# Tools- Python and Django Testing, Profiling, and Security
+
+<!--
+Automation Panda
+
+Property
+https://hypothesis.readthedocs.io/en/latest/
+https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+
+BDD
+https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
+https://github.com/behave/behave | behave/behave: BDD, Python style.
+https://cucumber.io/ | Cucumber
+https://github.com/cucumber/gherkin-python
+-->
+
+<!--
+https://github.com/emeryberger/scalene | emeryberger/scalene: a high-performance, high-precision CPU and memory profiler for Python
+
+tox
+https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
+
+https://boto3.readthedocs.io/en/latest/index.html
+
+state behavior versus behavior verification
+https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
+
+"Write integration tests for all pieces of code where you either serialize or deserialize data. This happens more often than you might think. Think about:
+
+Calls to your services' REST API
+Reading from and writing to databases
+Calling other application's APIs
+Reading from and writing to queues
+Writing to the filesystem"
+-->
+
 
 <!--
 ## Security
@@ -22,67 +57,43 @@ https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar En
 -->
 
 <!--
-## Testing
+Advice 
 
-Testing
-https://testautomationu.applitools.com/learningpaths.html | Learning Paths | Applitools
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/chapter2.html | Chapter 2 - Setting Up pytest
-https://testautomationu.applitools.com/python-tutorial/chapter8.html | Chapter 8 - Classes
+Important
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+https://www.mattlayman.com/blog/2020/django-testing-toolbox/ | Django Testing Toolbox · Matt Layman
 
-https://applitools.com/
-https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
-https://applitools.com/products-eyes/ | Applitools Eyes > Automated Visual Testing | Applitools
-https://eyes.applitools.com/app/test-results/00000251785171536301/?accountId=V09Xrww-9EGBGP0uZjJ6bw~~ | Applitools Eyes
+DRF Testing
+http://www.tomchristie.com/rest-framework-2-docs/api-guide/testing | Testing - Django REST framework
+http://www.tomchristie.com/rest-framework-2-docs/api-guide/filtering#filtering-and-object-lookups | Filtering - Django REST framework
 
-https://twitter.com/ameter/status/1383626060609191940 | Ariel Meter on Twitter: "This course by @techgirl1908 is a MUST for every Test Lead. It will teach you how to stop an “I-want-everything-automated-with -X-tool” stakeholder and make all the right questions for a successful Automation strategy." / Twitter
-https://twitter.com/techgirl1908/status/1382709959788523520 | Angie Jones on Twitter: "Stoked to announce we've just added a new Learning Path to @TestAutomationU: API Python🐍 And with that, a brand new course, API Testing in Python taught by @automationhacks🎉 All courses FREE as always❤️ Learning Path: https://t.co/oEMJH2AaJm Course: https://t.co/R6QS54Ac8I https://t.co/hmbzGwfaqh" / Twitter
-
-Applitools
-https://twitter.com/techgirl1908/status/1389327137690296322 | Angie Jones on Twitter: "LOL, ok so no one else says they didn't know... Python: https://t.co/K9Hi8R4xHl JS: https://t.co/xItuVb9MAh Java:https://t.co/eQ9rqO1Dp5 All free! 🤗" / Twitter
-
-Java
-https://angiejones.tech/free-java-course-test-automation/ | My FREE Java Course - Angie Jones
-https://testautomationu.applitools.com/java-programming-course/ | Java Programming
-
-Automation framework
-https://robotframework.org/
-
-App and browser testing
-https://www.browserstack.com/
--->
+https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
+https://github.com/carltongibson/rest-framework-tutorial/blob/master/snippets/tests.py | rest-framework-tutorial/tests.py at master · carltongibson/rest-framework-tutorial
 
 
-<!--
-tox
-https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
+Simon testing
+https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
+
+Jacbo
+https://jacobian.org/writing/getting-started-with-pytest
+
+http://linkis.com/ana-balica.github.io/x9FCx
+
+https://www.slideshare.net/JanGiacomelli/complete-python-toolbox-for-modern-developers | Complete python toolbox for modern developers
+
+Important
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 
-https://pypi.org/project/pep8/ | pep8 · PyPI
-https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
-https://pypi.org/project/flake8/ | flake8 · PyPI
+https://hynek.me/articles/document-your-tests/
 
-Test plugins
-https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
-https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
-https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
+Django Testing
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
 
-https://boto3.readthedocs.io/en/latest/index.html
-
-state behavior versus behavior verification
-https://en.wikipedia.org/wiki/Mock_object#Use_in_test-driven_development
-
-"Write integration tests for all pieces of code where you either serialize or deserialize data. This happens more often than you might think. Think about:
-
-Calls to your services' REST API
-Reading from and writing to databases
-Calling other application's APIs
-Reading from and writing to queues
-Writing to the filesystem"
--->
-
-
-<!--
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
 http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
 
 https://www.hillelwayne.com/talks/beyond-unit-tests/
@@ -91,9 +102,7 @@ https://www.youtube.com/watch?v=MYucYon2-lk
 https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
 
 DjangoCon Keynote by Ana
--->
 
-<!--
 https://pythontesting.net/framework/pytest/pytest-introduction/
 
 https://pythontesting.net/agile/test-first-programming/
@@ -107,16 +116,53 @@ https://martinfowler.com/articles/mocksArentStubs.html
 https://thoughtbot.com/blog/i-mock-your-fixtures-too
 -->
 
+## Debugging
+
+Debugging
+* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
+* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
+
+## Important Testing Terminology
+
+Important
+* [Functional Testing Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
+* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
+
+* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
+* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
+* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
+* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
+
+## Types of Software Testing
+
+Software Testing
+* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
+* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
+
+Other Types of Testing- Performance/Stress
+* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
+* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
+
+Other Types of Testing- Acceptance
+* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
+* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
+
+Other Types of Testing
+* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
+* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
+* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
+* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
+* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
+* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
+
+Other Types of Testing
+* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
+
 <!--
-https://hynek.me/articles/document-your-tests/
-
-Django Testing
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+https://en.wikipedia.org/wiki/Behavior-driven_development
 -->
-
-
 
 ## Python Debugger and doctests
 
@@ -126,6 +172,33 @@ Python Debugger
 
 doctest
 * [doctest](https://docs.python.org/3/library/doctest.html)
+
+<!--
+https://docs.python.org/3/library/pprint.html | pprint — Data pretty printer — Python 3.9.5 documentation
+
+ipdb
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+
+GDB
+https://stripe.com/en-ca/blog/exploring-python-using-gdb | Exploring Python Using GDB
+https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
+
+Python Debugger
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+Debugger
+https://www.youtube.com/watch?v=5AYIe-3cD-s
+https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
+
+https://twitter.com/laceynwilliams/status/1360052934268968964 | Lacey Williams Henschel on Twitter: "It’s a beautiful day when you introduce someone to pdb.set_trace() ☀️" / Twitter
+https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on Twitter: "#Python tip: Debuggers are wonderful, but sometimes just adding "print(locals())" is the easiest way to go ;-)" / Twitter
+-->
 
 ## Python Testing- unittest
 
@@ -210,20 +283,41 @@ https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
 
 
 <!--
+OOP
+https://go.applitools.com/applying-object-oriented-programming-principles-to-test-automation-design_TYP.html | Webinar Registration Confirmation: SUCCESS!
+
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/chapter2.html | Chapter 2 - Setting Up pytest
+https://testautomationu.applitools.com/python-tutorial/chapter8.html | Chapter 8 - Classes
+
 ## Test Automation University
 
 https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/learningpaths.html | Learning Paths | Applitools
+
 https://testautomationu.applitools.com/unit-testing/ | Overview
 https://testautomationu.applitools.com/python-tutorial/
 https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
 https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
+
+https://applitools.com/
+https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
+https://applitools.com/products-eyes/ | Applitools Eyes > Automated Visual Testing | Applitools
+https://eyes.applitools.com/app/test-results/00000251785171536301/?accountId=V09Xrww-9EGBGP0uZjJ6bw~~ | Applitools Eyes
+
+https://twitter.com/ameter/status/1383626060609191940 | Ariel Meter on Twitter: "This course by @techgirl1908 is a MUST for every Test Lead. It will teach you how to stop an “I-want-everything-automated-with -X-tool” stakeholder and make all the right questions for a successful Automation strategy." / Twitter
+https://twitter.com/techgirl1908/status/1382709959788523520 | Angie Jones on Twitter: "Stoked to announce we've just added a new Learning Path to @TestAutomationU: API Python🐍 And with that, a brand new course, API Testing in Python taught by @automationhacks🎉 All courses FREE as always❤️ Learning Path: https://t.co/oEMJH2AaJm Course: https://t.co/R6QS54Ac8I https://t.co/hmbzGwfaqh" / Twitter
+
+Applitools
+https://twitter.com/techgirl1908/status/1389327137690296322 | Angie Jones on Twitter: "LOL, ok so no one else says they didn't know... Python: https://t.co/K9Hi8R4xHl JS: https://t.co/xItuVb9MAh Java:https://t.co/eQ9rqO1Dp5 All free! 🤗" / Twitter
+
+Java
+https://angiejones.tech/free-java-course-test-automation/ | My FREE Java Course - Angie Jones
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+
 -->
 
 <!--
 ## Automation Panda
-
-Testing pyramid
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
 
 Sites
 * [Automation Panda](https://automationpanda.com)
@@ -233,34 +327,14 @@ https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testi
 https://automationpanda.com/bdd/
 https://automationpanda.com/tag/development/
 
+Testing pyramid
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+
 https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
 -->
 
 <!--
-## Pytest
-
-https://testdriven.io/ | Test Driven Development Courses
-
-Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
-https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
-https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
-https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
-
-Django/pytest
-https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
-
-Brian Okken
-http://pythontesting.net/start-here/
-
-Recommended!
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
--->
-
-<!--
-Talks
-
-Automation Panda
+Automation Panda- Talks
 
 Beyond Unit Tests
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s
@@ -280,55 +354,6 @@ BDD
 https://twitter.com/AutomationPanda/status/1061393338165837825
 -->
 
-## Debugging
-
-Debugging
-* [Software Bug Wikipedia](https://en.wikipedia.org/wiki/Software_bug)
-* [Debugger Wikipedia](https://en.wikipedia.org/wiki/Debugger)
-
-## Important Testing Terminology
-
-Important
-* [Functional Testing Wikipedia](https://en.wikipedia.org/wiki/Functional_testing)
-* [Unit Testing Wikipedia](https://en.wikipedia.org/wiki/Unit_testing)
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-* [Regression Testing Wikipedia](https://en.wikipedia.org/wiki/Regression_testing)
-
-* [Test Case Wikipedia](https://en.wikipedia.org/wiki/Test_case)
-* [Mock Object Wikipedia](https://en.wikipedia.org/wiki/Mock_object)
-* [Test Stub Wikipedia](https://en.wikipedia.org/wiki/Test_stub)
-* [Test Fixture Wikipedia](https://en.wikipedia.org/wiki/Test_fixture)
-
-## Types of Software Testing
-
-Software Testing
-* [Test Automation Wikipedia](https://en.wikipedia.org/wiki/Test_automation)
-* [Software Testing Wikipedia](https://en.wikipedia.org/wiki/Software_testing)
-
-Other Types of Testing- Performance/Stress
-* [Stress Testing Wikipedia](https://en.wikipedia.org/wiki/Stress_testing_(software))
-* [Load Testing Wikipedia](https://en.wikipedia.org/wiki/Load_testing)
-
-Other Types of Testing- Acceptance
-* [Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Acceptance_testing)
-* [Operational Acceptance Testing Wikipedia](https://en.wikipedia.org/wiki/Operational_acceptance_testing)
-
-Other Types of Testing
-* [Agile Testing Wikipedia](https://en.wikipedia.org/wiki/Agile_testing)
-* [System Integration Testing Wikipedia](https://en.wikipedia.org/wiki/System_integration_testing)
-* [System Testing Wikipedia](https://en.wikipedia.org/wiki/System_testing)
-* [Integration Testing Wikipedia](https://en.wikipedia.org/wiki/Integration_testing)
-* [Smoke Testing Wikipedia](https://en.wikipedia.org/wiki/Smoke_testing_(software))
-* [Mutation Testing Wikipedia](https://en.wikipedia.org/wiki/Mutation_testing)
-
-Other Types of Testing
-* [Software Performance Testing Wikipedia](https://en.wikipedia.org/wiki/Software_performance_testing)
-
-<!--
-https://en.wikipedia.org/wiki/Behavior-driven_development
--->
-
-
 ## pytest
 
 pytest 
@@ -337,11 +362,10 @@ pytest
 <!--
 pytest-selenium (plugin)
 https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html#chrome | User Guide — pytest-selenium latest documentation
 
+https://seleniumbase.io/ | SeleniumBase Docs
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
-
-https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
-
 
 https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
@@ -357,16 +381,44 @@ https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Sup
 https://docs.pytest.org/en/latest/example/parametrize.html
 https://docs.pytest.org/en/latest/parametrize.html
 
+https://docs.pytest.org/en/latest/how-to/fixtures.html | How to use fixtures — pytest documentation
+https://docs.pytest.org/en/6.2.x/fixture.html | pytest fixtures: explicit, modular, scalable — pytest documentation
+https://www.tutorialspoint.com/pytest/pytest_fixtures.htm | Pytest - Fixtures - Tutorialspoint
+
+https://docs.pytest.org/en/stable/reference.html#pytest-raises | API Reference — pytest documentation
 https://docs.pytest.org/en/latest/assert.html#assert
 
 Assert
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
 https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
 https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+Test plugins
+https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
+https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
+https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
+
+Test Anything Protocol
+https://en.wikipedia.org/wiki/Test_Anything_Protocol
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
 -->
 
 <!--
-pytest
+Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
+
+Django/pytest
+https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
+-->
+
+<!--
+https://testdriven.io/ | Test Driven Development Courses
+
+Brian Okken
+http://pythontesting.net/start-here/
 
 pytest Books
 https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
@@ -374,11 +426,9 @@ https://www.packtpub.com/web-development/pytest-quick-start-guide
 
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
 
-Test Anything Protocol
-https://en.wikipedia.org/wiki/Test_Anything_Protocol
-https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
+Recommended!
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
 -->
-
 
 ## Django Testing
 
@@ -411,39 +461,58 @@ https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-
 https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
 -->
 
+## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
+
+Python- Django- Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Pylint Django
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
 
 <!--
-Automation Panda
+Fixtures
+https://pypi.org/project/model-bakery/ | model-bakery · PyPI
+https://model-bakery.readthedocs.io/en/latest/ | Model Bakery: Smart fixtures for better tests — Model Bakery 1.3.2 documentation
+https://factoryboy.readthedocs.io/en/latest/ | factory_boy — Factory Boy latest documentation
+https://factoryboy.readthedocs.io/en/stable/recipes.html | Common recipes — Factory Boy stable documentation
+https://github.com/FactoryBoy/factory_boy
+https://twitter.com/mateusz__be/status/1251184933143486465 | Mateusz Bełczowski on Twitter: "@webology @iris9112 How would you compare it to Factory Boy (https://t.co/v8t8lSTAHg)?" / Twitter
 
-Property
-https://hypothesis.readthedocs.io/en/latest/
-https://github.com/HypothesisWorks/hypothesis| HypothesisWorks/hypothesis: Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+https://pypi.org/project/django-faker/ | django-faker · PyPI
 
-BDD
-https://automationpanda.com/2017/02/04/bdd-101-frameworks/ | BDD 101: Frameworks | Automation Panda
-https://github.com/behave/behave | behave/behave: BDD, Python style.
-https://cucumber.io/ | Cucumber
-https://github.com/cucumber/gherkin-python
--->
-
-<!--
-Other Tools
+https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
+https://faker.readthedocs.io/en/master/ | Welcome to Faker’s documentation! — Faker 4.1.2 documentation
+https://github.com/joke2k/faker | joke2k/faker: Faker is a Python package that generates fake data for you.
 
 https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
 https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
-
-https://factoryboy.readthedocs.io/en/latest/ | factory_boy — Factory Boy latest documentation
-https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
-https://faker.readthedocs.io/en/master/ | Welcome to Faker’s documentation! — Faker 4.1.2 documentation
-https://pypi.org/project/django-faker/ | django-faker · PyPI
 -->
 
-## Selenium
+## Browser
 
-* [Selenium](http://www.seleniumhq.org)
-* [Selenium WebDriver](https://www.seleniumhq.org/projects/webdriver/)
+* [Selenium](https://www.selenium.dev/)
+* [Selenium WebDriver](https://www.selenium.dev/projects/webdriver/)
 
 <!--
+Cross Browser
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+https://www.selenium.dev/projects/
+
+Automation framework
+https://robotframework.org/
+
+App and browser testing
+https://www.browserstack.com/
+
+https://theheadless.dev/ | theheadless.dev - Learn Puppeteer & Playwright
+
 Test automation
 https://en.wikipedia.org/wiki/Headless_browser
 
@@ -473,19 +542,6 @@ https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Test
 
 https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
 -->
-
-## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
-
-PyLint
-* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
-
-Pylint Django
-* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
-
-Python- Django- Debug Toolbar and Panel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 ## Python and Django Testing and Debugging Tools- Less Relevant Third Party Testing Tools
 
@@ -677,115 +733,6 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 <!--
 Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
--->
-
-## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
-
-* [NGINX](https://www.nginx.com/)
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-<!--
-https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
--->
-
-## Azure
-
-<!--
-https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
-
-https://github.com/Azure/azure-quickstart-templates
-https://twitter.com/di_codes/status/1295793468762136576
-
-https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
-
-Hynek- Azure Pipelines
-Publish Python packages in Azure Pipelines
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
-https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
-https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
-https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
-
-Azure Piplines
-https://azure.microsoft.com/en-us/services/devops/pipelines/
-https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
-https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
-https://github.com/asottile/azure-pipeline-templates
-
-https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
--->
-
-## Hosts, Containers, Serverless, Functions, Pipelines
-
-Containers
-* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
-* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
-* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
-
-AWS- Lambda
-* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
-* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
-* [Serverless GitHub](https://github.com/serverless/serverless) 
-* [Zappa GitHub](https://github.com/Miserlou/Zappa)
-
-Additional Serverless
-* [Google Cloud Functions](https://cloud.google.com/functions/docs)
-* [Firebase Functions](https://firebase.google.com/features/functions)
-* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
-
-<!--
-https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
-
-Google Cloud
-
-https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
-https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
-
-Google Cloud Django/Python
-https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
-https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
-
-https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
-
-https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
-https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
-
-https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
-
-https://serverless.com
-https://github.com/serverless/site
-https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
-
-https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
-http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
-https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
-    
-https://github.com/awslabs/chalice
-https://github.com/apex/apex
-https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
--->
-
-## Automation
-
-Terraform
-* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
-
-Python- Fabric
-* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
-
-<!--
-salt, ansible
-
-http://docs.fabfile.org/en/1.13/api/contrib/django.html
-
-https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
 
 ## Security Model
