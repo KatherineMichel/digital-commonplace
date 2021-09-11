@@ -1,6 +1,37 @@
 # Tools- Python and Django Testing, Profiling, Deployment, and Security
 
 <!--
+## Testing
+
+Testing
+https://testautomationu.applitools.com/learningpaths.html | Learning Paths | Applitools
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/chapter2.html | Chapter 2 - Setting Up pytest
+https://testautomationu.applitools.com/python-tutorial/chapter8.html | Chapter 8 - Classes
+
+https://applitools.com/
+https://applitools.com/blog/guide-to-test-automation-code-reviews/ | Guide to Conducting Test Automation Code Reviews - Automated Visual Testing | Applitools
+https://applitools.com/products-eyes/ | Applitools Eyes > Automated Visual Testing | Applitools
+https://eyes.applitools.com/app/test-results/00000251785171536301/?accountId=V09Xrww-9EGBGP0uZjJ6bw~~ | Applitools Eyes
+
+https://twitter.com/ameter/status/1383626060609191940 | Ariel Meter on Twitter: "This course by @techgirl1908 is a MUST for every Test Lead. It will teach you how to stop an “I-want-everything-automated-with -X-tool” stakeholder and make all the right questions for a successful Automation strategy." / Twitter
+https://twitter.com/techgirl1908/status/1382709959788523520 | Angie Jones on Twitter: "Stoked to announce we've just added a new Learning Path to @TestAutomationU: API Python🐍 And with that, a brand new course, API Testing in Python taught by @automationhacks🎉 All courses FREE as always❤️ Learning Path: https://t.co/oEMJH2AaJm Course: https://t.co/R6QS54Ac8I https://t.co/hmbzGwfaqh" / Twitter
+
+Applitools
+https://twitter.com/techgirl1908/status/1389327137690296322 | Angie Jones on Twitter: "LOL, ok so no one else says they didn't know... Python: https://t.co/K9Hi8R4xHl JS: https://t.co/xItuVb9MAh Java:https://t.co/eQ9rqO1Dp5 All free! 🤗" / Twitter
+
+Java
+https://angiejones.tech/free-java-course-test-automation/ | My FREE Java Course - Angie Jones
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+
+Automation framework
+https://robotframework.org/
+
+App and browser testing
+https://www.browserstack.com/
+-->
+
+
+<!--
 tox
 https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
 
@@ -65,6 +96,62 @@ https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-ap
 -->
 
 
+
+## Python Debugger and doctests
+
+Python Debugger
+* [bdb](https://docs.python.org/3/library/bdb.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+
+doctest
+* [doctest](https://docs.python.org/3/library/doctest.html)
+
+## Python Testing- unittest
+
+Python Testing Built-In Tools
+* [unittest](https://docs.python.org/3/library/unittest.html)
+* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
+
+<!--
+https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
+
+https://docs.python.org/3/library/unittest.html#assert-methods
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+-->
+
+### Django Testing
+
+Django Testing- Official
+* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
+* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
+* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
+* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
+
+<!--
+Django raises built-in Python exceptions when appropriate.
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
+
+https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
+
+
+https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
+
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
+-->
+
+## Flask Testing
+
+<!--
+Flask
+https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+-->
+
 ## Big O Notation
 
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
@@ -74,6 +161,63 @@ https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-ap
 Django Performance and Optimization
 * [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
 * [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
+
+<!--
+Exceptions
+https://docs.python.org/3/library/exceptions.html | Built-in Exceptions — Python 3.9.5 documentation
+
+Assert
+https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
+-->
+
+
+<!--
+## Test Automation University
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://testautomationu.applitools.com/unit-testing/ | Overview
+https://testautomationu.applitools.com/python-tutorial/
+https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
+https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
+-->
+
+<!--
+## Automation Panda
+
+Testing pyramid
+https://automationpanda.com/2018/08/01/the-testing-pyramid/
+
+Sites
+* [Automation Panda](https://automationpanda.com)
+https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
+https://automationpanda.com/python/
+https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
+https://automationpanda.com/bdd/
+https://automationpanda.com/tag/development/
+
+https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
+-->
+
+<!--
+## Pytest
+
+https://testdriven.io/ | Test Driven Development Courses
+
+Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
+
+Django/pytest
+https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
+
+Brian Okken
+http://pythontesting.net/start-here/
+
+Recommended!
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+-->
 
 <!--
 Talks
@@ -96,44 +240,6 @@ https://twitter.com/AutomationPanda/status/1141585091908575232 | “Pandy” Kni
 https://twitter.com/AutomationPanda/status/1023346925771345920
 BDD
 https://twitter.com/AutomationPanda/status/1061393338165837825
--->
-
-<!--
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://testautomationu.applitools.com/unit-testing/ | Overview
-https://testautomationu.applitools.com/python-tutorial/
-https://testautomationu.applitools.com/learningpaths.html?id=web-ui-python-path
-https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/ | Selenium WebDriver with Python
-
-Testing pyramid
-https://automationpanda.com/2018/08/01/the-testing-pyramid/
-
-Sites
-* [Automation Panda](https://automationpanda.com)
-https://twitter.com/AutomationPanda | Automation Panda (@AutomationPanda) | Twitter
-https://automationpanda.com/python/
-https://automationpanda.com/2017/03/14/python-testing-101-pytest/ | Python Testing 101: pytest | Automation Panda
-https://automationpanda.com/bdd/
-https://automationpanda.com/tag/development/
-
-https://automationpanda.com/2020/07/28/mentoring-software-testers/ | Mentoring Software Testers | Automation Panda
-
-https://testdriven.io/ | Test Driven Development Courses
-
-Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
-https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
-https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
-https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
-
-Django/pytest
-https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
-
-Brian Okken
-http://pythontesting.net/start-here/
-
-Recommended!
-https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
 -->
 
 ## Debugging
@@ -185,73 +291,6 @@ https://en.wikipedia.org/wiki/Behavior-driven_development
 -->
 
 
-
-
-
-<!--
-Exceptions
-https://docs.python.org/3/library/exceptions.html | Built-in Exceptions — Python 3.9.5 documentation
-
-Assert
-https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
--->
-
-### Django Testing
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-<!--
-Django raises built-in Python exceptions when appropriate.
-https://docs.python.org/3/library/exceptions.html#built-in-exceptions
-
-https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
-
-
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
-
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
--->
-
-## Flask Testing
-
-<!--
-Flask
-https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
--->
-
-## Python Testing- unittest
-
-Python Testing Built-In Tools
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-
-<!--
-https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-
-https://docs.python.org/3/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
--->
-
-
-## Python Debugger and doctests
-
-Python Debugger
-* [bdb](https://docs.python.org/3/library/bdb.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-
-doctest
-* [doctest](https://docs.python.org/3/library/doctest.html)
-
 ## pytest
 
 pytest 
@@ -301,6 +340,7 @@ Test Anything Protocol
 https://en.wikipedia.org/wiki/Test_Anything_Protocol
 https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
 -->
+
 
 ## Django Testing
 
