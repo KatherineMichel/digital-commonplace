@@ -156,6 +156,11 @@ https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of p
 
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
 
+## Django Deployment
+
+Django Deployment
+* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
+
 ## Django Performance, Optimization, Deployment
 
 Django Performance and Optimization
@@ -169,6 +174,18 @@ https://docs.python.org/3/library/exceptions.html | Built-in Exceptions — Pyth
 Assert
 https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
 -->
+
+## Django Core Dev Security
+
+* [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
+* [How Django Discloses Security Issues](https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues)
+
+### Django Security
+
+* [Clickjacking Protection](https://docs.djangoproject.com/en/dev/ref/clickjacking/)
+* [HTTP Strict Transport Security](https://docs.djangoproject.com/en/dev/ref/middleware/#http-strict-transport-security)
+* [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
+
 
 
 <!--
