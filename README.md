@@ -108,7 +108,6 @@ https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 Talks
 https://twitter.com/simonw/status/1300193439573708800
 
-
 pytest
 https://docs.pytest.org/
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
@@ -326,8 +325,9 @@ https://github.com/OWASP/API-Security/blob/master/2019/en/dist/owasp-api-securit
 
 Important
 https://hangar.tech/posts/our-dsq/ | Our Dumb Security Questionnaire - Hangar Engineering
+-->
 
-
+<!--
 ## Fast AI
 
 https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
@@ -1111,6 +1111,7 @@ https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 -->
+
 
 ## Useful Files
 
