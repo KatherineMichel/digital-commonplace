@@ -1,4 +1,127 @@
-# Python and Django Tools
+# Python and Django Tools and Deployment
+
+<!--
+## DRF
+
+DRF Example
+* https://github.com/simplworld/simpl-games-api/blob/master/simpl/webhook/serializers.py
+
+## DRF
+
+https://www.django-rest-framework.org/community/3.10-announcement/ | 3.10 Announcement - Django REST framework
+
+DRF Resources
+* https://realpython.com/django-rest-framework-quick-start/ | Django Rest Framework – An Introduction – Real Python
+* https://www.django-rest-framework.org/tutorial/quickstart/ | Quickstart - Django REST framework
+* https://www.django-rest-framework.org/#example | Home - Django REST framework
+
+https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
+
+https://github.com/carltongibson/rest-framework-tutorial/
+
+https://www.django-rest-framework.org/api-guide/status-codes/ | Status codes - Django REST framework
+
+Valentino
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (and a sprinkle of testing)
+https://github.com/valentinogagliardi/django-rest-react-pycon
+ 
+Lacey
+https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-drf-part-2-customizing-built-in-methods | What You Should Know About DRF, Part 2: Customizing built-in methods — Lacey Williams Henschel
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About DRF, Part 3: Adding custom endpoints — Lacey Williams Henschel
+
+https://github.com/caktus/drf-sample
+https://github.com/vintasoftware/drf-rw-serializers/
+https://github.com/encode/django-rest-framework/
+
+## Tools
+
+https://swagger.io/docs/
+
+Django Crispy Forms
+http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
+https://pypi.org/project/django-crispy-forms/ | django-crispy-forms · PyPI
+
+Django filter
+https://github.com/carltongibson/django-filter | carltongibson/django-filter: A generic system for filtering Django QuerySets based on user selections
+https://django-filter.readthedocs.io/en/
+https://pypi.org/project/django-filter/ | django-filter · PyPI
+https://pypi.org/project/djangorestframework-filters/ | djangorestframework-filters · PyPI
+https://www.django-rest-framework.org/api-guide/filtering/ | Filtering - Django REST framework
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+## Miscellaneous
+
+Blog Posts
+https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta Blog
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
+-->
+
+<!--
+Classy CBV
+https://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
+
+https://www.cdrf.co/ | Django REST Framework 3.12 -- Classy DRF
+
+HTMX + DJango
+https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
+
+django_deprecate_fields
+https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on Twitter: "If you haven't read a piece yet by my colleague @danpoirier, you really should especially if you develop with #Django. This one... django_deprecate_fields... 🤯 Truly a "I can't believe I haven't been using this before" moment. https://t.co/ArgrMXl8CK" / Twitter
+https://twitter.com/CaktusGroup/status/1418316667776606215 | Caktus Group on Twitter: "By using django-add-default-value and django-deprecate-fields to simplify the migration and deployment process, you will eliminate a common #Django #deployment headache. This has been a challenge for a while now. https://t.co/Fi0j51BmmX" / Twitter
+
+Django Lifecycle
+https://github.com/rsinger86/django-lifecycle | rsinger86/django-lifecycle: Declarative model lifecycle hooks, an alternative to Signals.
+
+Django Tool
+https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
+
+
+https://pypi.org/project/pep8/ | pep8 · PyPI
+
+https://pypi.org/project/coverage/ | coverage · PyPI
+https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
+
+Formatting
+https://pypi.org/project/black/ | black · PyPI
+https://pypi.org/project/isort/ | isort · PyPI
+https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
+https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
+https://flake8.pycqa.org/en/latest/
+https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
+https://pypi.org/project/flake8/ | flake8 · PyPI
+
+
+Simon
+https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
+
+https://ipython.org/ | Jupyter and the future of IPython — IPython
+
+Model History
+https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+
+https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
+
+Attrs
+https://pepy.tech/project/attrs | PePy - attrs Download Stats
+-->
+
+<!--
+Django YAML
+https://django-yamlfield.readthedocs.io/en/latest/ | django-yamlfield
+https://github.com/datadesk/django-yamlfield | datadesk/django-yamlfield: A Django database field for storing YAML data
+
+Docs
+https://docutils.sourceforge.io/rst.html | reStructuredText
+https://pandoc.org/
+
+Furo Theme
+https://twitter.com/AdamChainz/status/1432678359276863494 | Adam Johnson on Twitter: "Just moved the Django-MySQL docs to @pradyunsg 's excellent Furo theme 😎 https://t.co/ippjR6VV4b" / Twitter
+https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentation
+-->
 
 <!--
 ## Tool Choices
@@ -529,4 +652,113 @@ https://black.readthedocs.io/en/stable/installation_and_usage.html | Installatio
 https://github.com/bots-for-humanity/black-out
 
 https://black.now.sh/ | Black Playground
+-->
+
+## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
+
+* [NGINX](https://www.nginx.com/)
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+<!--
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
+-->
+
+## Azure
+
+<!--
+https://twitter.com/anthonypjshaw/status/1270205981616529408 | Anthony Shaw 🐍 on Twitter: "If you use @AzureDevOps Pipelines and @pytestdotorg please can you try pytest-azurepipelines==1.0.0rc3 it has loads of changes including embedding code coverage into the Pipelines UI from https://t.co/NjlLN1tfOD I need more testers! https://t.co/Mza0ke6UiS https://t.co/0FiABgr3l5" / Twitter
+
+https://github.com/Azure/azure-quickstart-templates
+https://twitter.com/di_codes/status/1295793468762136576
+
+https://tonybaloney.github.io/posts/django-on-azure-beyond-hello-world.html | Django on Azure - beyond "hello world"
+
+Hynek- Azure Pipelines
+Publish Python packages in Azure Pipelines
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml&viewFallbackFrom=vsts
+https://docs.microsoft.com/en-us/azure/devops/pipelines/artifacts/pypi?view=azure-devops&tabs=yaml
+https://hynek.me/articles/simple-python-azure-pipelines/ | Python in Azure Pipelines, Step by Step · Homepage of Hynek Schlawack
+https://docs.microsoft.com/en-us/azure/devops/pipelines/process/container-phases?view=azure-devops&tabs=yaml | Container Jobs in Azure Pipelines and TFS - Azure Pipelines | Microsoft Docs
+
+Azure Piplines
+https://azure.microsoft.com/en-us/services/devops/pipelines/
+https://docs.microsoft.com/en-us/azure/devops/pipelines/migrate/from-travis?view=azure-devops
+https://medium.com/@anthonypjshaw/azure-pipelines-with-python-by-example-aa65f4070634
+https://github.com/asottile/azure-pipeline-templates
+
+https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
+-->
+
+## Hosts, Containers, Serverless, Functions, Pipelines
+
+Containers
+* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [Docker](https://www.docker.com) and [Docker Docs](https://docs.docker.com)
+* ["Getting Started with Docker for Mac"](https://docs.docker.com/docker-for-mac)
+
+AWS- Lambda
+* [AWS Lambda](http://aws.amazon.com/lambda) and [AWS Lambda Documentation](http://docs.aws.amazon.com/lambda/latest/dg/welcome.html) 
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+* [Serverless GitHub](https://github.com/serverless/serverless) 
+* [Zappa GitHub](https://github.com/Miserlou/Zappa)
+
+Additional Serverless
+* [Google Cloud Functions](https://cloud.google.com/functions/docs)
+* [Firebase Functions](https://firebase.google.com/features/functions)
+* [Azure Functions](https://azure.microsoft.com/en-us/services/functions) and [Azure Functions GitHub](https://github.com/Azure/Azure-Functions)
+
+<!--
+https://developers.google.com/actions/templates/first-app | Templates  |  Actions on Google  |  Google Developers
+
+Google Cloud
+
+https://twitter.com/di_codes/status/1215368211211923456 | Dustin Ingram on Twitter: "Happy to announce the release of a Function Framework for Python via @GoogleOSS. 🎉 It lets you run a Cloud Function locally for development or deploy it to other services (like Cloud Run)... without having to change your function at all. More details: https://t.co/87xrnAdvg3" / Twitter
+https://dev.to/googlecloud/portable-cloud-functions-with-the-python-functions-framework-a6a | Portable Cloud Functions with the Python Functions Framework - DEV Community 👩‍💻👨‍💻
+
+Google Cloud Django/Python
+https://github.com/GoogleCloudPlatform/django-cloud-deploy | GoogleCloudPlatform/django-cloud-deploy: Easier deployment of Django applications in the cloud.
+https://github.com/GoogleCloudPlatform/python-docs-samples | GoogleCloudPlatform/python-docs-samples: Code samples used on cloud.google.com
+
+https://twitter.com/glasnt/status/1208096663887216641 | Katie McLaughlin ✨ on Twitter: "@jacobian Yes, just to avoid raw secrets. Berglas is a helper/wrapper for Cloud KMS" / Twitter
+
+https://github.com/Miserlou/lambda-packages | Miserlou/lambda-packages: Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+https://github.com/Miserlou/zappa-django-utils | Miserlou/zappa-django-utils: A handy Django application to supercharge your Zappa deployments.
+
+https://blog.zappa.io/posts/s3sqlite-a-serverless-relational-database
+
+https://serverless.com
+https://github.com/serverless/site
+https://github.com/serverless/examples | serverless/examples: Serverless Examples – A collection of boilerplates and examples of serverless architectures built with the Serverless Framework and AWS Lambda
+
+https://aws.amazon.com/step-functions/ | AWS Step Functions – Coordinate Microservices using Visual Workflows
+http://docs.aws.amazon.com/lambda/latest/dg/concurrent-executions.html | Lambda Function Concurrent Executions - AWS Lambda
+https://cloud.google.com/functions/docs/ | Google Cloud Functions Documentation  |  Cloud Functions  |  Google Cloud Platform
+    
+https://github.com/awslabs/chalice
+https://github.com/apex/apex
+https://github.com/apex/up | apex/up: Deploy infinitely scalable serverless apps, apis, and sites in seconds.
+-->
+
+## Automation
+
+Terraform
+* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
+
+Python- Fabric
+* [Fabric](http://www.fabfile.org), [Fabric PyPi](https://pypi.python.org/pypi/Fabric), and [Fabric GitHub](https://github.com/fabric/fabric) 
+
+<!--
+salt, ansible
+
+http://docs.fabfile.org/en/1.13/api/contrib/django.html
+
+https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
