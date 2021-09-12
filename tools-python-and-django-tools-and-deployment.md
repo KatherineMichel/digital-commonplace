@@ -140,10 +140,6 @@ https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Depen
 
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 
-https://github.com/pganssle?tab=repositories | pganssle (Paul Ganssle) / Repositories
-https://blog.ganssle.io/articles/2019/11/utcnow.html | Stop using utcnow and utcfromtimestamp
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
 https://pyformat.info/ | PyFormat: Using % and .format() for great good!
 
 https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
@@ -214,6 +210,42 @@ Django Coding Style Guide
 
 Django JavaScript Style Guide
 * [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
+
+## Structuring Your Python Project
+
+Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
+* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
+* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
+* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
+* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
+
+## Django Project Structure
+
+Python- Django- Project Stucture
+* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
+* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+## Python Non-Official Styleguides and Code Formatting
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+<!--
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
+Python- PEP 8
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+
 
 ## Design Choices
 
@@ -465,7 +497,7 @@ https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on 
 https://twitter.com/CaktusGroup/status/1418316667776606215 | Caktus Group on Twitter: "By using django-add-default-value and django-deprecate-fields to simplify the migration and deployment process, you will eliminate a common #Django #deployment headache. This has been a challenge for a while now. https://t.co/Fi0j51BmmX" / Twitter
 
 django-lifecycle
-https://github.com/rsinger86/django-lifecycle
+https://github.com/rsinger86/django-lifecycle/ | rsinger86/django-lifecycle: Declarative model lifecycle hooks, an alternative to Signals.
 https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
 https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
 
@@ -587,41 +619,6 @@ https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
 https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
 -->
-
-## Structuring Your Python Project
-
-Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
-* [Kenneth Reitz: Structuring Your Project](http://docs.python-guide.org/en/latest/writing/structure)
-* [Sample Module for The Hitchhiker’s Guide to Python! GitHub](https://github.com/kennethreitz/samplemod) and [Sample Module Docs](https://github.com/kennethreitz/samplemod/tree/master/docs)
-* [Repository Structure and Python](https://www.kennethreitz.org/essays/repository-structure-and-python)
-* [A Human's Ultimate Guide to setup.py GitHub](https://github.com/kennethreitz/setup.py)
-
-## Django Project Structure
-
-Python- Django- Project Stucture
-* [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
-* [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
-
-## Python Non-Official Styleguides and Code Formatting
-
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-<!--
-https://docs.python-guide.org/#writing-great-python-code
--->
-
-Python- PEP 8
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
 
 ## Choices
 
