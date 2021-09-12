@@ -1,126 +1,9 @@
 # Python and Django Tools and Deployment
 
 <!--
-## DRF
-
-DRF Example
-* https://github.com/simplworld/simpl-games-api/blob/master/simpl/webhook/serializers.py
-
-## DRF
-
-https://www.django-rest-framework.org/community/3.10-announcement/ | 3.10 Announcement - Django REST framework
-
-DRF Resources
-* https://realpython.com/django-rest-framework-quick-start/ | Django Rest Framework – An Introduction – Real Python
-* https://www.django-rest-framework.org/tutorial/quickstart/ | Quickstart - Django REST framework
-* https://www.django-rest-framework.org/#example | Home - Django REST framework
-
-https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
-
-https://github.com/carltongibson/rest-framework-tutorial/
-
-https://www.django-rest-framework.org/api-guide/status-codes/ | Status codes - Django REST framework
-
-Valentino
-https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
-https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (and a sprinkle of testing)
-https://github.com/valentinogagliardi/django-rest-react-pycon
- 
-Lacey
-https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
-https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-drf-part-2-customizing-built-in-methods | What You Should Know About DRF, Part 2: Customizing built-in methods — Lacey Williams Henschel
-https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About DRF, Part 3: Adding custom endpoints — Lacey Williams Henschel
-
-https://github.com/caktus/drf-sample
-https://github.com/vintasoftware/drf-rw-serializers/
-https://github.com/encode/django-rest-framework/
-
-## Tools
-
-https://swagger.io/docs/
-
-Django Crispy Forms
-http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
-https://pypi.org/project/django-crispy-forms/ | django-crispy-forms · PyPI
-
-Django filter
-https://github.com/carltongibson/django-filter | carltongibson/django-filter: A generic system for filtering Django QuerySets based on user selections
-https://django-filter.readthedocs.io/en/
-https://pypi.org/project/django-filter/ | django-filter · PyPI
-https://pypi.org/project/djangorestframework-filters/ | djangorestframework-filters · PyPI
-https://www.django-rest-framework.org/api-guide/filtering/ | Filtering - Django REST framework
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-## Miscellaneous
-
 Blog Posts
 https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta Blog
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
--->
-
-<!--
-Classy CBV
-https://ccbv.co.uk/ | Django Class-Based-View Inspector -- Classy CBV
-
-https://www.cdrf.co/ | Django REST Framework 3.12 -- Classy DRF
-
-HTMX + DJango
-https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
-
-django_deprecate_fields
-https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on Twitter: "If you haven't read a piece yet by my colleague @danpoirier, you really should especially if you develop with #Django. This one... django_deprecate_fields... 🤯 Truly a "I can't believe I haven't been using this before" moment. https://t.co/ArgrMXl8CK" / Twitter
-https://twitter.com/CaktusGroup/status/1418316667776606215 | Caktus Group on Twitter: "By using django-add-default-value and django-deprecate-fields to simplify the migration and deployment process, you will eliminate a common #Django #deployment headache. This has been a challenge for a while now. https://t.co/Fi0j51BmmX" / Twitter
-
-Django Lifecycle
-https://github.com/rsinger86/django-lifecycle | rsinger86/django-lifecycle: Declarative model lifecycle hooks, an alternative to Signals.
-
-Django Tool
-https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
-
-
-https://pypi.org/project/pep8/ | pep8 · PyPI
-
-https://pypi.org/project/coverage/ | coverage · PyPI
-https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
-
-Formatting
-https://pypi.org/project/black/ | black · PyPI
-https://pypi.org/project/isort/ | isort · PyPI
-https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
-https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
-https://flake8.pycqa.org/en/latest/
-https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
-https://pypi.org/project/flake8/ | flake8 · PyPI
-
-
-Simon
-https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
-
-https://ipython.org/ | Jupyter and the future of IPython — IPython
-
-Model History
-https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
-
-https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
-
-Attrs
-https://pepy.tech/project/attrs | PePy - attrs Download Stats
--->
-
-<!--
-Django YAML
-https://django-yamlfield.readthedocs.io/en/latest/ | django-yamlfield
-https://github.com/datadesk/django-yamlfield | datadesk/django-yamlfield: A Django database field for storing YAML data
-
-Docs
-https://docutils.sourceforge.io/rst.html | reStructuredText
-https://pandoc.org/
-
-Furo Theme
-https://twitter.com/AdamChainz/status/1432678359276863494 | Adam Johnson on Twitter: "Just moved the Django-MySQL docs to @pradyunsg 's excellent Furo theme 😎 https://t.co/ippjR6VV4b" / Twitter
-https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentation
 -->
 
 <!--
@@ -208,6 +91,7 @@ https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A 
 https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 -->
 
+
 <!--
 ## Testing and Stuff
 
@@ -231,6 +115,7 @@ https://launchpad.net/ubuntu | Ubuntu in Launchpad
 
 https://www.pypy.org/ | PyPy
 -->
+
 
 <!--
 Popular Python Tools
@@ -279,45 +164,32 @@ https://pypi.org/project/entry-point-inspector/ | entry-point-inspector · PyPI
 
 https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
 https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
-
-Popular Django Tools
-
-django-lifecycle
-https://github.com/rsinger86/django-lifecycle
-https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
-https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
-
-django-allauth
-https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-https://pyphilly.org/know-thy-user-custom-user-models-django-allauth/
-https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
-
-https://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.9.1 documentation
-https://github.com/django-crispy-forms/django-crispy-forms | django-crispy-forms/django-crispy-forms: The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
-
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
-https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
-https://github.com/jazzband/django-debug-toolbar
-
-https://pypi.org/project/django-countries/ | django-countries · PyPI
-https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 -->
 
+
+## Awesome Python and Django
+
+Awesome Python
+* [Awesome Python GitHub](https://github.com/vinta/awesome-python) and [Awesome Python](http://awesome-python.com)
+* [Awesome Pythonidae GitHub](https://github.com/svaksha/pythonidae)  
+* [Awesome Pycrumbs GitHub](https://github.com/kirang89/pycrumbs)  
+
+Awesome Django
+* [Awesome Django](https://github.com/wsvincent/awesome-django)
+* [Awesome Django GitLab](https://gitlab.com/rosarior/awesome-django) and [Awesome Django GitHub (Deprecated)](https://github.com/rosarior/awesome-django) 
+* [Awesome Django Admin GitHub](https://github.com/originalankur/awesome-django-admin)
+* [Awesome Django Rest Framework GitHub](https://github.com/nioperas06/awesome-django-rest-framework)
+
+## Python and Django
+
+Python
+* [Python](https://www.python.org/)
+
+Django GitHub
+* [Django GitHub](https://github.com/django/django)
+
 <!--
-https://www.anaconda.com/blog/get-python-package-download-statistics-with-condastats | Anaconda | Get Python Package Download Statistics with Condastats
-https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 4,000 most-downloaded packages from PyPI
-https://hugovk.github.io/drop-python/ | Drop Python
-
-Top downloaded wheels
-https://pythonwheels.com/
-
-High traffic projects
-https://formulae.brew.sh/analytics/ | Homebrew Analytics Data — Homebrew Formulae
-https://formulae.brew.sh/analytics/install-on-request/30d/
-https://octoverse.github.com/#top-and-trending-projects | The State of the Octoverse | The State of the Octoverse celebrates a year of building across teams, time zones, and millions of merged pull requests.
-https://octoverse.github.com/2018/
-https://octoverse.github.com/2017/
-https://octoverse.github.com/2016/#organizations
+https://plone.org/
 -->
 
 ## General Python and Django Links- Getting Started
@@ -432,16 +304,142 @@ Python- Django- Rest Framework (Serialization/Deserialization)
 * [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
 * [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
 
+## Django Internationalization and Localization, Translation
 
-## Django- Important Topics
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
 
-### Django Rest Framework
+<!--
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
 
-Django- Rest Framework (Including Authentication and Generic Views)
+## Python and Django Geo
+
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+<!--
+GIS
+
+Important
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+
+https://realpython.com/location-based-app-with-geodjango-tutorial/ | Make a Location-Based Web App With Django and GeoDjango – Real Python
+https://en.wikipedia.org/wiki/Spatial_database | Spatial database - Wikipedia
+
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+GIS
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
+-->
+
+## Django Rest Framework
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
 * [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
 * [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
 
+<!--
+DRF
+https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
+https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-drf-part-2-customizing-built-in-methods | What You Should Know About DRF, Part 2: Customizing built-in methods — Lacey Williams Henschel
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About DRF, Part 3: Adding custom endpoints — Lacey Williams Henschel
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
+
+https://github.com/encode/django-rest-framework/
+
+https://github.com/encode/django-rest-framework/issues
+https://github.com/encode/django-rest-framework/projects
+
+https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
+http://www.tomchristie.com/rest-framework-2-docs/api-guide
+https://www.django-rest-framework.org/tutorial/1-serialization/ | 1 - Serialization - Django REST framework
+
+https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
+https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/1-vscode.md | rest-framework-tutorial/1-vscode.md at master · carltongibson/rest-framework-tutorial
+https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/2-appservice.md | rest-framework-tutorial/2-appservice.md at master · carltongibson/rest-framework-tutorial
+
+https://twitter.com/carltongibson/status/1072951282502172678 | Carlton Gibson on Twitter: "Been having fun with @code for about a year and a half. I got together with @nnja to talk about using it with Django and DRF…… https://t.co/XmFcENotrc"
+https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_continue=10&v=0Bk0dw2Ktbg | Python on Azure: Part 1—Building Django apps with Visual Studio Code | Azure Friday - YouTube
+https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
+-->
+
+
+<!--
+## DRF
+
+DRF Example
+* https://github.com/simplworld/simpl-games-api/blob/master/simpl/webhook/serializers.py
+
+https://www.django-rest-framework.org/community/3.10-announcement/ | 3.10 Announcement - Django REST framework
+
+DRF Resources
+* https://realpython.com/django-rest-framework-quick-start/ | Django Rest Framework – An Introduction – Real Python
+* https://www.django-rest-framework.org/tutorial/quickstart/ | Quickstart - Django REST framework
+* https://www.django-rest-framework.org/#example | Home - Django REST framework
+
+https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
+
+https://www.django-rest-framework.org/api-guide/status-codes/ | Status codes - Django REST framework
+
+Valentino
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (and a sprinkle of testing)
+https://github.com/valentinogagliardi/django-rest-react-pycon
+ -->
+
+
+## Django Rest Framework- Extras
+
+* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
+
+Python- Django- Alternative Rest Framework
+* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
+
+<!--
+https://swagger.io/docs/
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+https://github.com/vintasoftware/drf-rw-serializers/
+
+https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
+https://github.com/wsvincent/rest-framework-tutorial
+-->
 
 ## Django Classy
 
@@ -449,6 +447,101 @@ Django Classy
 * [Classy Class-Based Views](http://ccbv.co.uk)
 * [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
 * [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+## Django Third Party Tools
+
+<!--
+https://github.com/jazzband/django-debug-toolbar
+
+
+HTMX + DJango
+https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
+
+Django Tool
+https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
+
+django_deprecate_fields
+https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on Twitter: "If you haven't read a piece yet by my colleague @danpoirier, you really should especially if you develop with #Django. This one... django_deprecate_fields... 🤯 Truly a "I can't believe I haven't been using this before" moment. https://t.co/ArgrMXl8CK" / Twitter
+https://twitter.com/CaktusGroup/status/1418316667776606215 | Caktus Group on Twitter: "By using django-add-default-value and django-deprecate-fields to simplify the migration and deployment process, you will eliminate a common #Django #deployment headache. This has been a challenge for a while now. https://t.co/Fi0j51BmmX" / Twitter
+
+django-lifecycle
+https://github.com/rsinger86/django-lifecycle
+https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
+https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
+
+django-allauth
+https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+https://pyphilly.org/know-thy-user-custom-user-models-django-allauth/
+https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
+
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
+https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
+
+
+Django filter
+https://github.com/carltongibson/django-filter | carltongibson/django-filter: A generic system for filtering Django QuerySets based on user selections
+https://django-filter.readthedocs.io/en/
+https://pypi.org/project/django-filter/ | django-filter · PyPI
+https://pypi.org/project/djangorestframework-filters/ | djangorestframework-filters · PyPI
+https://www.django-rest-framework.org/api-guide/filtering/ | Filtering - Django REST framework
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+Django Crispy Forms
+http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
+https://pypi.org/project/django-crispy-forms/ | django-crispy-forms · PyPI
+https://github.com/django-crispy-forms/django-crispy-forms | django-crispy-forms/django-crispy-forms: The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
+
+https://pypi.org/project/django-countries/ | django-countries · PyPI
+https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
+
+
+https://pypi.org/project/pep8/ | pep8 · PyPI
+
+https://pypi.org/project/coverage/ | coverage · PyPI
+https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
+
+Formatting
+https://pypi.org/project/black/ | black · PyPI
+https://pypi.org/project/isort/ | isort · PyPI
+https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
+https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
+https://flake8.pycqa.org/en/latest/
+https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
+https://pypi.org/project/flake8/ | flake8 · PyPI
+
+
+Simon
+https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
+
+https://ipython.org/ | Jupyter and the future of IPython — IPython
+
+Model History
+https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
+
+https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+
+https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
+
+Attrs
+https://pepy.tech/project/attrs | PePy - attrs Download Stats
+-->
+
+## Docs
+
+<!--
+Django YAML
+https://django-yamlfield.readthedocs.io/en/latest/ | django-yamlfield
+https://github.com/datadesk/django-yamlfield | datadesk/django-yamlfield: A Django database field for storing YAML data
+
+Docs
+https://docutils.sourceforge.io/rst.html | reStructuredText
+https://pandoc.org/
+
+Furo Theme
+https://twitter.com/AdamChainz/status/1432678359276863494 | Adam Johnson on Twitter: "Just moved the Django-MySQL docs to @pradyunsg 's excellent Furo theme 😎 https://t.co/ippjR6VV4b" / Twitter
+https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentation
+-->
+
 
 ## Common Django Features
 
@@ -477,35 +570,22 @@ https://github.com/doismellburning/django12factor | doismellburning/django12fact
 -->
 
 
-## Django Rest Framework
+## Wagtail
 
-* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
-
-Python- Django- Alternative Rest Framework
-* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
+Wagtail
+* [Wagtail](https://wagtail.io/)
 
 <!--
-https://github.com/encode/django-rest-framework/issues
-https://github.com/encode/django-rest-framework/projects
+Django Wagtail
+https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
 
-https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
-http://www.tomchristie.com/rest-framework-2-docs/api-guide
-https://www.django-rest-framework.org/tutorial/1-serialization/ | 1 - Serialization - Django REST framework
-
-https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
-https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/1-vscode.md | rest-framework-tutorial/1-vscode.md at master · carltongibson/rest-framework-tutorial
-https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/2-appservice.md | rest-framework-tutorial/2-appservice.md at master · carltongibson/rest-framework-tutorial
-
-https://twitter.com/carltongibson/status/1072951282502172678 | Carlton Gibson on Twitter: "Been having fun with @code for about a year and a half. I got together with @nnja to talk about using it with Django and DRF…… https://t.co/XmFcENotrc"
-https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_continue=10&v=0Bk0dw2Ktbg | Python on Azure: Part 1—Building Django apps with Visual Studio Code | Azure Friday - YouTube
-https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
-
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
-
-https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
-https://github.com/wsvincent/rest-framework-tutorial
-
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+Wagtail
+https://wagtail.io/blog
+https://github.com/wagtail/wagtail/
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
 -->
 
 ## Structuring Your Python Project
@@ -572,8 +652,8 @@ Continuous Integration and Delivery
 * [CircleCI](https://circleci.com)
 
 Coverage
-* [Codecov](https://codecov.io)
 * [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+* [Codecov](https://codecov.io)
 
 Testing Tools
 * [Tox Read the Docs](https://tox.readthedocs.org)
@@ -640,10 +720,6 @@ Webpack Versus Browserify
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 
-Black and single quotes
-https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
-
 https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
 
 https://github.com/CircleCI-Public/circleci-cli | CircleCI-Public/circleci-cli: Use CircleCI from the command line
@@ -657,6 +733,7 @@ https://circleci.com/docs/2.0/language-python/ | Configuring a Python Applicatio
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
 
 https://coverage.readthedocs.io/en/coverage-5.0/config.html | Configuration files — Coverage.py 4.4.2 documentation
+
 
 http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
 
@@ -678,7 +755,9 @@ https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Actio
 
 https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
 
-https://pypi.org/project/flake8-black/ | flake8-black · PyPI
+Black and single quotes
+https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 -->
 
 ### Code Formatting Tools
