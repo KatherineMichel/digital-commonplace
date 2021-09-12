@@ -1,6 +1,149 @@
 # Projects
 
 <!--
+Al
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://nostarch.com/book-recursion | The Book of Recursion | No Starch Press
+
+API
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+JSON APIs
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+-->
+
+<!--
+## Important
+
+Python
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+Python Cheat Sheets
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+
+Django Official Docs
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+
+## Vitor
+
+https://simpleisbetterthancomplex.com/tips/2016/05/09/django-tip-2-humanize.html | Django Tips #2 humanize
+
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html | A Complete Beginner's Guide to Django - Part 1
+https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html | A Complete Beginner's Guide to Django - Part 2
+
+Bootcamp
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+https://github.com/vitorfs/bootcamp/tree/master/bootcamp/news | bootcamp/bootcamp/news at master · vitorfs/bootcamp
+
+## Mozilla
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://github.com/mdn/django-locallibrary-tutorial
+
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+## WS Vincent
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: Django starter project with batteries
+
+https://github.com/wsvincent/djangoforprofessionals/tree/master/ch17-deployment | djangoforprofessionals/ch17-deployment at master · wsvincent/djangoforprofessionals
+
+William
+https://github.com/wsvincent/djangoforprofessionals/tree/master/ch17-deployment | djangoforprofessionals/ch17-deployment at master · wsvincent/djangoforprofessionals
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+## Vinta
+
+https://github.com/vintasoftware/django-react-boilerplate/blob/master/CONTRIBUTING.md | django-react-boilerplate/CONTRIBUTING.md at master · vintasoftware/django-react-boilerplate
+-->
+
+<!--
+## Feldroy
+
+https://www.feldroy.com/blogs/news/we-have-a-new-python-book?fbclid=IwAR3npwo05iIv_zIg8OnXqElv_YMfk7-HAVFj1IPBtCYm0uapb9X2d3yS6n8 | We've released a new python book! – Feldroy
+
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+
+https://www.feldroy.com/ | Feldroy: Two Scoops Press, Impossible Hero Books, Fuzzy Rainbow
+https://github.com/feldroy/everycheese | feldroy/everycheese: The ultimate cheese index
+https://github.com/feldroy | Feldroy
+https://github.com/feldroy/django-crash-starter | feldroy/django-crash-starter: The Cookiecutter template for the Django Crash Course tutorial by Daniel and Audrey Feldroy.
+
+Cookiecutter
+https://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html | Deployment with Docker — Cookiecutter Django 2021.15.1 documentation
+https://cookiecutter-django.readthedocs.io/en/latest/developing-locally.html | Getting Up and Running Locally — Cookiecutter Django 2021.15.1 documentation
+
+Two Scoops
+https://www.amazon.com/dp/0692915729/?tag=devdetailpage02-20 | Two Scoops of Django 1.11: Best Practices for the Django Web Framework: 9780692915721: Computer Science Books @ Amazon.com
+
+Two Scoops
+https://github.com/twoscoops/django-twoscoops-project | twoscoops/django-twoscoops-project: The sample project layout from the book, "Two Scoops of Django 1.5 and 1.6"
+
+https://github.com/twoscoops/django-twoscoops-project | twoscoops/django-twoscoops-project: The sample project layout from the book, "Two Scoops of Django 1.5 and 1.6"
+https://github.com/twoscoops/two-scoops-of-django-1.11 | twoscoops/two-scoops-of-django-1.11: The issue tracker, changelog, and code repository for Two Scoops of Django 1.11
+https://github.com/twoscoops/two-scoops-of-django-1.8 | twoscoops/two-scoops-of-django-1.8: Tracking thoughts and feature requests for Two Scoops of Django 1.8 in the issue tracker. And the book's code examples are here.
+https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
+
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+
+https://github.com/feldroy/everycheese/
+
+https://www.feldroy.com/products/two-scoops-of-django-3-x | Two Scoops of Django 3.x: Best Practices for the Django Web Framework – Feldroy
+-->
+
+<!--
+Traversy
+https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/videos | Traversy Media - YouTube
+
+Traversy Django Learning	
+https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be | Python Django Crash Course - YouTube	
+https://www.youtube.com/watch?v=e1IyzVyrLSU | Python Django Crash Course - YouTube
+
+Important
+https://en.wikipedia.org/wiki/Project-based_learning | Project-based learning - Wikipedia
+
+Real Python- App Layout
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://realpython.com/python3-object-oriented-programming/ | Object-Oriented Programming (OOP) in Python 3 – Real Python
+
+Real Python- Testing
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+Test Driven
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://testdriven.io/blog/multiple-languages-in-django/ | Supporting Multiple Languages in Django | TestDriven.io
+https://twitter.com/jangiacomelli/status/1432381992612597763 | Jan Giacomelli on Twitter: "The post I'm most proud of☺️ #testdrivenio10k https://t.co/HCRSHAIZR4" / Twitter
+
+Python Articles
+https://twitter.com/coderedcorp/status/1433135567374585859 | CodeRed on Twitter: "Learn how to run code on a schedule with Celery via @caktusgroup https://t.co/Z4xeqbcaxZ" / Twitter
+https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html | How to Return JSON-Encoded Response
+https://github.com/sibtc/simple-file-upload/blob/master/uploads/core/forms.py | simple-file-upload/forms.py at master · sibtc/simple-file-upload
+https://www.freecodecamp.org/news/an-introduction-to-testing-in-python/ | An Introduction to Unit Testing in Python
+https://www.datacamp.com/community/tutorials/unit-testing-python | Test Python Code with unittest Examples - DataCamp
+https://www.blog.pythonlibrary.org/2017/10/05/how-to-rotate-mirror-photos-with-python/ | How to Rotate / Mirror Photos with Python - Mouse Vs Python
+
+W3Schools
+https://www.w3schools.com/python/ref_string_split.asp | Python String split() Method
+https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_split | Python Tryit Editor v1.0
+-->
+
+
+<!--
 Git Remote
 https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository | Pushing commits to a remote repository - GitHub Docs
 https://docs.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line | Adding an existing project to GitHub using the command line - GitHub Docs
@@ -1122,6 +1265,10 @@ https://github.com/luvsound/pippi | luvsound/pippi: computer music with python
 * [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
 
 <!--
+Beautiful Soup
+https://pypi.org/project/beautifulsoup4/ | beautifulsoup4 · PyPI
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/ | Beautiful Soup Documentation — Beautiful Soup 4.9.0 documentation
+
 https://docs.python.org/3/library/urllib.request.html#module-urllib.request
 
 
@@ -1738,7 +1885,6 @@ https://developer.github.com/apps/quickstart-guides/setting-up-your-development-
 -->
 
 
-
 <!--
 HTML5 Boilerplate
 https://github.com/h5bp/html5-boilerplate | h5bp/html5-boilerplate: A professional front-end template for building fast, robust, and adaptable web apps or sites.
@@ -1747,8 +1893,9 @@ https://moderntemplate.site/ | HTML Template
 
 Important
 https://dev.to/tabathaslatton/accessibility-101-3ep0 | Accessibility 101 - DEV Community 👩‍💻👨‍💻
+-->
 
-
+<!--
 ## Accessibility
 
 Accessibility
