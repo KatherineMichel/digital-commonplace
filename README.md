@@ -160,6 +160,75 @@ Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
 -->
 
+
+<!--
+Docs
+https://twitter.com/smc90/status/842965339461763072 | Sonal Chokshi on Twitter: "@stevesi @lawprofblawg @skupor (I adhere to Economist style guide for periods outside v inside for phrases v sentences) //cc @arampell 😂😂😂" / Twitter
+https://www.economist.com/johnson/2010/09/30/style-guide-entry-of-the-week-inverted-commas | Style - Style Guide entry of the week: inverted commas | Johnson | The Economist
+
+Servant Leadership
+https://twitter.com/spookylukey/status/1432773825511444484 | Luke Plant on Twitter: "@KatiMichel The phrase Servant Leadership is very widely used in Christian circles regarding church leadership, based on texts like Mark 10:45, John 10:11. Very interesting to see it in a twitter careers ad!" / Twitter
+
+Empathy Session
+https://twitter.com/di_codes/status/1425969820256903179 | Dustin Ingram on Twitter: "I first joined an empathy session w/ @kelseyhightower &amp; @kmbannerman not long after I started at Google. I'm hooked now. It's one of the most fun parts of my job, &amp; a foolproof way to not only find improvement areas for a product, but also motivate them. https://t.co/wGdJXJS3La" / Twitter
+
+Terminal Tutorial
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+Django- Important
+https://twitter.com/maddiecampos3/status/1412238127184461824 | Madelene Campos on Twitter: "Want to know how to get a Django app up and running? Here's a recording from my recent talk: "Understanding Django" at @PyLadiesSWFL (Thank you, @InessaPawson for recording the event!) #django #python #pyladies https://t.co/UAM0SuExap" / Twitter
+
+Talk
+https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
+
+https://medium.com/@nimay/inside-product-introduction-to-feature-priority-using-ice-impact-confidence-ease-and-gist-5180434e5b15 | Inside Product: Introduction to Feature Priority using ICE (Impact, Confidence, Ease) and GIST (Goals, Ideas, Step-Projects and Tasks) | by Nimay Parekh | Medium
+
+Bitergia
+https://bitergia.com/resources/#usecases | Resources - Bitergia
+
+CHAOSS Project
+https://twitter.com/CHAOSSproj/status/1433448625963782144 | CHAOSS Project on Twitter: "It's metrics release time again! We are now in the 30 day public review period, and we have 16 new metrics up for review! We also have some focus area changes and an update to an old metric. We'd love your input and comments to those marked Under Review: https://t.co/5rwOHHjbHE" / Twitter
+
+OS Schema Workshop
+https://drive.google.com/file/d/1tMJKEScR226K-uAhtZG-de3jMwH7guh0/view
+https://twitter.com/amcasari/status/1417836786085208064
+https://docs.google.com/forms/d/e/1FAIpQLSfcvbmKxbCL7ZHgiZ7ZqDx0AzQ3q4hZiIWnUKAgtmXeXXjRkA/viewform
+https://twitter.com/amcasari/status/1417851523493675010 | commandasaurus 🦦 on Twitter: "@KatiMichel Thank you! I hope you can find a time to join us." / Twitter
+
+## MVP Governance
+
+MvP
+https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/ | Minimum Viable Governance: lightweight community structure to grow your FOSS projects | The GitHub Blog
+https://github.com/github/MVG | github/MVG: MVG = Minimum Viable Governance
+https://www.google.com/search?q=minimum+viable+governance&oq=minimum+viable+governance&aqs=chrome.0.0j69i61j69i60j69i61.4841j0j7&sourceid=chrome&ie=UTF-8 | minimum viable governance - Google Search
+https://www.youtube.com/watch?v=C2-_MjzP-Rs | M.V.G. – Minimum Viable Governance - Stephen Walli & Sarah Novotny, Microsoft - YouTube
+
+## Design Principles
+
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+
+Games with a Purpose
+https://en.wikipedia.org/wiki/ESP_game | ESP game - Wikipedia
+carnegie mellon game with a purpose - Google Search
+esp game - Google Search
+
+Interesting
+https://twitter.com/patrickc/status/1404217558266351617 | Patrick Collison on Twitter: "Dang's principles for online forums are quite interesting. • Curiosity withers under repetition. • Generic discussion is not interesting. • We want reflective rather than reflexive conversation. • Diffs are what make a conversation interesting. https://t.co/GLIUk4WCJc" / Twitter
+
+Interesting
+https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
+
+Software Design for Flexility
+https://twitter.com/carltongibson/status/1375056592572403718 | (1) Carlton Gibson 🇪🇺 on Twitter: "Oh yes. 🧐 https://t.co/xbnBBMBJPx" / Twitter
+https://twitter.com/dabeaz/status/1372644031654682625/photo/1 | Latest Tweets / Twitter
+
+Software Fundamentals: Collected Papers from David Parnas - Google Search
+-->
+
+
 <!--
 https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
 
