@@ -124,6 +124,50 @@ https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentatio
 -->
 
 <!--
+## Browser, Extensions, Bindings
+
+Intel Python
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html
+
+Python Launcher Windows
+https://github.com/brettcannon/python-launcher/releases/tag/v0.16.0 | Release v0.16.0 · brettcannon/python-launcher
+
+https://github.com/pypa/manylinux
+https://github.com/pypa/python-manylinux-demo
+
+Cuda Python
+https://developer.nvidia.com/cuda-toolkit
+
+Python Browser
+https://brython.info/
+https://wxpython.org/ | Welcome to wxPython! | wxPython
+https://github.com/pyodide/pyodide
+
+PyOxidizer
+A tool for roducing binaries that embed Python
+https://github.com/indygreg/PyOxidizer
+
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+C-Extensions for Python
+https://cython.org/
+
+Assembly Extensions
+https://tonybaloney.github.io/posts/extending-python-with-assembly.html | Writing Python Extensions in Assembly
+
+Python C API
+https://pythoncapi.readthedocs.io/runtime.html
+https://github.com/Quansight-Labs/python-api-inspect/blob/master/inspect_api/inspect.py | python-api-inspect/inspect.py at master · Quansight-Labs/python-api-inspect
+
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.9.5 documentation
+
+C++ and Python
+https://github.com/boostorg/python | boostorg/python: Boost.org python module
+-->
+
+
+<!--
 ## Tool Choices
 
 https://snarky.ca/thoughts-on-a-tooling-workflow/
