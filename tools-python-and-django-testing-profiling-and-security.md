@@ -1,6 +1,19 @@
 # Tools- Python and Django Testing, Profiling, and Security
 
 <!--
+Django
+https://gumroad.com/l/suydt | Speed Up Your Django Tests
+https://www.reddit.com/r/django/comments/gs5k38/book_review_speed_up_your_django_tests/ | Book Review: Speed Up Your Django Tests : django
+
+Django Testing
+https://twitter.com/brianokken/status/1320487278137913344 | Brian Okken on Twitter: "Great thread for anyone testing Django applications." / Twitter
+
+Python- Testing
+https://twitter.com/jangiacomelli/status/1310965946127966208 | Jan Giacomelli on Twitter: "@macerub, @dmokafa, @MikeHerman, @easyaspython any toughts?" / Twitter
+
+https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
+
+
 Automation Panda
 
 Property
@@ -70,19 +83,24 @@ http://www.tomchristie.com/rest-framework-2-docs/api-guide/filtering#filtering-a
 https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
 https://github.com/carltongibson/rest-framework-tutorial/blob/master/snippets/tests.py | rest-framework-tutorial/tests.py at master · carltongibson/rest-framework-tutorial
 
+https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
+
+
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+Thea
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
 
 Simon testing
 https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
 
-Jacbo
+Jacob
 https://jacobian.org/writing/getting-started-with-pytest
 
 http://linkis.com/ana-balica.github.io/x9FCx
 
 https://www.slideshare.net/JanGiacomelli/complete-python-toolbox-for-modern-developers | Complete python toolbox for modern developers
-
-Important
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 
 https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
 
@@ -92,9 +110,6 @@ Django Testing
 https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
 https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
 https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-http://docs.python-guide.org/en/latest/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
 
 https://www.hillelwayne.com/talks/beyond-unit-tests/
 https://www.youtube.com/watch?v=MYucYon2-lk
@@ -166,25 +181,16 @@ https://en.wikipedia.org/wiki/Behavior-driven_development
 
 ## Python Debugger and doctests
 
-Python Debugger
-* [bdb](https://docs.python.org/3/library/bdb.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-
-doctest
-* [doctest](https://docs.python.org/3/library/doctest.html)
-
 <!--
-https://docs.python.org/3/library/pprint.html | pprint — Data pretty printer — Python 3.9.5 documentation
-
-ipdb
-https://pypi.org/project/ipdb/ | ipdb · PyPI
-
 GDB
 https://stripe.com/en-ca/blog/exploring-python-using-gdb | Exploring Python Using GDB
 https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
 
 Python Debugger
 https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+Nina
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 
 Debugger
 https://www.youtube.com/watch?v=5AYIe-3cD-s
@@ -200,43 +206,6 @@ https://twitter.com/laceynwilliams/status/1360052934268968964 | Lacey Williams H
 https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on Twitter: "#Python tip: Debuggers are wonderful, but sometimes just adding "print(locals())" is the easiest way to go ;-)" / Twitter
 -->
 
-## Python Testing- unittest
-
-Python Testing Built-In Tools
-* [unittest](https://docs.python.org/3/library/unittest.html)
-* [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
-
-<!--
-https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-
-https://docs.python.org/3/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
--->
-
-### Django Testing
-
-Django Testing- Official
-* [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
-* [Django Testing](https://docs.djangoproject.com/en/dev/topics/testing)
-* [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
-* [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
-
-<!--
-Django raises built-in Python exceptions when appropriate.
-https://docs.python.org/3/library/exceptions.html#built-in-exceptions
-
-https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
-
-
-https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
-
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
--->
 
 ## Flask Testing
 
@@ -249,37 +218,6 @@ https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of p
 ## Big O Notation
 
 * [Big O Cheat Sheet](http://www.bigocheatsheet.com)
-
-## Django Deployment
-
-Django Deployment
-* [Deployment Checklist](https://docs.djangoproject.com/en/dev/howto/deployment/checklist)
-
-## Django Performance, Optimization, Deployment
-
-Django Performance and Optimization
-* [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
-* [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
-
-<!--
-Exceptions
-https://docs.python.org/3/library/exceptions.html | Built-in Exceptions — Python 3.9.5 documentation
-
-Assert
-https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
--->
-
-## Django Core Dev Security
-
-* [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
-* [How Django Discloses Security Issues](https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues)
-
-### Django Security
-
-* [Clickjacking Protection](https://docs.djangoproject.com/en/dev/ref/clickjacking/)
-* [HTTP Strict Transport Security](https://docs.djangoproject.com/en/dev/ref/middleware/#http-strict-transport-security)
-* [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
-
 
 
 <!--
@@ -439,11 +377,6 @@ Django Test Plus
 * [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 
 <!--
-DRF Testing
-https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
--->
-
-<!--
 django-selenium
 https://pypi.org/project/django-selenium/
 
@@ -458,7 +391,6 @@ https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support
 
 django-test-plus
 https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
-https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
 -->
 
 ## Python and Django Testing and Debugging Tools- Most Relevant Third Party Testing Tools (Besides pytest and Selenium)
@@ -645,10 +577,9 @@ Tools
 https://pypi.org/project/memory-profiler/ | memory-profiler · PyPI
 
 https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898 | Profiling CPython at Instagram – Instagram Engineering
-
 https://zapier.com/engineering/profiling-python-boss/ | Profiling Python Like a Boss - The Zapier Engineering Blog | Zapier
 
-
+Django performance optimization
 https://medium.freecodecamp.org/django-performance-optimization-looking-for-the-bottlenecks-8583789e341b | Django Performance Optimization: The Search for Bottlenecks
 
 https://blogs.msdn.microsoft.com/ie/2010/09/14/performance-what-common-benchmarks-measure/ | Performance: What Common Benchmarks Measure – IEBlog
