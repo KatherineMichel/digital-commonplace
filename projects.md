@@ -1,19 +1,11 @@
 # Projects
 
 <!--
-Al
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-https://nostarch.com/book-recursion | The Book of Recursion | No Starch Press
-
 API
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
 JSON APIs
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
--->
-
-<!--
-## Important
 
 Python
 http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
@@ -21,6 +13,30 @@ http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 Python Cheat Sheets
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
 
+Important
+https://en.wikipedia.org/wiki/Project-based_learning | Project-based learning - Wikipedia
+
+Real Python- App Layout
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
+https://realpython.com/python3-object-oriented-programming/ | Object-Oriented Programming (OOP) in Python 3 – Real Python
+
+Real Python- Testing
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
+https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+Test Driven
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://testdriven.io/blog/multiple-languages-in-django/ | Supporting Multiple Languages in Django | TestDriven.io
+https://twitter.com/jangiacomelli/status/1432381992612597763 | Jan Giacomelli on Twitter: "The post I'm most proud of☺️ #testdrivenio10k https://t.co/HCRSHAIZR4" / Twitter
+-->
+
+
+<!--
+## Important
 
 Django Tutorials
 https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
@@ -141,37 +157,15 @@ Traversy Django Learning
 https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be | Python Django Crash Course - YouTube	
 https://www.youtube.com/watch?v=e1IyzVyrLSU | Python Django Crash Course - YouTube
 
-Important
-https://en.wikipedia.org/wiki/Project-based_learning | Project-based learning - Wikipedia
 
-Real Python- App Layout
-https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
 
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://realpython.com/python3-object-oriented-programming/ | Object-Oriented Programming (OOP) in Python 3 – Real Python
-
-Real Python- Testing
-https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
-https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
-Test Driven
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://testdriven.io/blog/multiple-languages-in-django/ | Supporting Multiple Languages in Django | TestDriven.io
-https://twitter.com/jangiacomelli/status/1432381992612597763 | Jan Giacomelli on Twitter: "The post I'm most proud of☺️ #testdrivenio10k https://t.co/HCRSHAIZR4" / Twitter
 
 Python Articles
-https://twitter.com/coderedcorp/status/1433135567374585859 | CodeRed on Twitter: "Learn how to run code on a schedule with Celery via @caktusgroup https://t.co/Z4xeqbcaxZ" / Twitter
 https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html | How to Return JSON-Encoded Response
 https://github.com/sibtc/simple-file-upload/blob/master/uploads/core/forms.py | simple-file-upload/forms.py at master · sibtc/simple-file-upload
 https://www.freecodecamp.org/news/an-introduction-to-testing-in-python/ | An Introduction to Unit Testing in Python
 https://www.datacamp.com/community/tutorials/unit-testing-python | Test Python Code with unittest Examples - DataCamp
 https://www.blog.pythonlibrary.org/2017/10/05/how-to-rotate-mirror-photos-with-python/ | How to Rotate / Mirror Photos with Python - Mouse Vs Python
-
-W3Schools
-https://www.w3schools.com/python/ref_string_split.asp | Python String split() Method
-https://www.w3schools.com/python/trypython.asp?filename=demo_ref_string_split | Python Tryit Editor v1.0
 -->
 
 
@@ -260,6 +254,7 @@ https://twitter.com/amzeratul/status/946768612404187136 | Rodrigo Monteiro on Tw
 http://gameprogrammingpatterns.com/contents.html
 https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
+
 
 ## Clones and Projects
 
@@ -1843,13 +1838,6 @@ https://fromdesignto.dev/ | From Design to Development Crash Course - From Desig
 Wes Bos
 https://courses.wesbos.com/account/access/5e7302b76ccee4763b8cc940/view/194158897
 
-Vanilla JavaScript
-https://github.com/wesbos/JavaScript30
-https://javascript30.com/ | JavaScript 30 — Build 30 things with vanilla JS in 30 days with 30 tutorials
-
-ES6
-https://github.com/wesbos/es6.io | wesbos/es6.io: 🔥 Starter Files to Learn with ES6 for Everyone
-
 
 https://tinyprojects.dev/ | Tiny Projects
 https://tinyprojects.dev/posts/tiny_websites_are_great | Tiny websites are great | Tiny Projects
@@ -2111,14 +2099,11 @@ David Beazley
 
 
 <!--
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-
 Impractical Python Projects
 https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
 
-
 Al
+https://nostarch.com/book-recursion | The Book of Recursion | No Starch Press
 https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
 https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
 https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
@@ -2213,6 +2198,7 @@ https://sindresorhus.com/apps | Sindre Sorhus
 https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
 https://twitter.com/johnmaeda/status/1200551971737997312 | John Maeda on Twitter: "The software that @sindresorhus makes is always so useful and beautiful. https://t.co/SonMu4ibg9" / Twitter
 
+Fast AI
 https://github.com/fastai/fast_template
 https://twitter.com/jeremyphoward/status/1218662038752202753
 http://fast-template.fast.ai/2020/01/14/welcome.html
