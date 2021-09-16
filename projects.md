@@ -1,6 +1,19 @@
 # Projects
 
 <!--
+API
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+JSON APIs
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+Python
+http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
+
+Python Cheat Sheets
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+
+
 Great guide
 https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
 https://testdriven.io/blog/python-environments/
@@ -10,40 +23,93 @@ https://testdriven.io/blog/tdd-benefits/
 https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
 https://testdriven.io/blog/python-type-checking/
 
-Great
 https://testdriven.io/blog/documenting-python/ | Documenting Python Code and Projects | TestDriven.io
+
+Docstrings/doctest
+https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings
+https://docutils.sourceforge.io/rst.html
+https://numpydoc.readthedocs.io/en/latest/format.html
+http://epydoc.sourceforge.net/epytext.html
+https://github.com/terrencepreilly/darglint
+https://docs.python.org/3/library/doctest.html
+https://pymotw.com/3/doctest/
+https://docs.pytest.org/en/stable/doctest.html
+
+Docs
+https://www.sphinx-doc.org/en/master/
+http://epydoc.sourceforge.net/
+https://www.mkdocs.org/
+
+Testing/Code Auality
+https://docs.python-requests.org/en/latest/
+https://flake8.pycqa.org/en/latest/
+https://docs.pytest.org/en/6.2.x/
+
+https://www.sphinx-doc.org/en/master/usage/installation.html
+https://www.sphinx-doc.org/en/master/usage/quickstart.html#autodoc
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/
+https://en.wikipedia.org/wiki/Markdown
+https://devguide.python.org/documenting/#sections
+https://www.sphinx-doc.org/en/master/usage/extensions/autodoc.html#directive-automodule
+https://www.sphinx-doc.org/en/master/usage/restructuredtext/directives.html#special-names
+
+APIs
+https://www.openapis.org/
+https://swagger.io/tools/swagger-ui/
+https://github.com/Redocly/redoc
+https://learning.postman.com/docs/integrations/available-integrations/working-with-openAPI/
+https://swagger.io/tools/swagger-codegen/
+https://openapi-generator.tech/
+https://openapi.tools/
+https://drf-yasg.readthedocs.io/en/stable/
+
+Flask API
+https://flask-restx.readthedocs.io/en/latest/
+https://flask-restx.readthedocs.io/en/latest/swagger.html
+https://connexion.readthedocs.io/en/stable/
+https://github.com/plangrid/flask-rebar
+
+https://fastapi.tiangolo.com/tutorial/first-steps/#interactive-api-docs
+https://martinfowler.com/bliki/GivenWhenThen.html
+
+API Doc Examples
+https://stripe.com/docs/api
+https://flask.palletsprojects.com/en/1.1.x/
+https://docs.cypress.io/guides/overview/why-cypress#In-a-nutshell
+https://fastapi.tiangolo.com/
 
 https://testdriven.io/blog/python-project-workflow/
 
-Real Python- Testing
-https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
-https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+Code Quality
+https://about.codecov.io/
+https://docs.codecov.com/docs/quick-start
+https://pypi.org/project/pytest-cov/
+https://github.com/psf/black
+https://pypi.org/project/isort/
+https://flake8.pycqa.org/en/latest/
+https://pypi.org/project/bandit/
+https://github.com/pyupio/safety
+
+https://pre-commit.com/
+
+Docs
+https://readthedocs.org/
+https://www.sphinx-doc.org/en/master/
+https://testdriven.io/blog/documenting-python/#sphinx
+https://www.sphinx-doc.org/en/master/usage/installation.html
+https://www.sphinx-doc.org/en/master/usage/quickstart.html#autodoc
 
 Real Python- App Layout
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
 
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
-
-https://www.fullstackpython.com/ | Full Stack Python
-http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
-
-Python Cheat Sheets
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
-
-API
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
-JSON APIs
-https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
-
-
-
-
 Real Python- Testing
 https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
 https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
+
+
+https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
+
 
 https://realpython.com/python3-object-oriented-programming/ | Object-Oriented Programming (OOP) in Python 3 – Real Python
 
@@ -274,6 +340,8 @@ https://cookiecutter-django.readthedocs.io/en/latest/developing-locally.html | G
 https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 https://github.com/audreyfeldroy/cookiecutter-pypackage
 
+https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
+
 https://www.feldroy.com/ | Feldroy: Two Scoops Press, Impossible Hero Books, Fuzzy Rainbow
 https://github.com/feldroy | Feldroy
 
@@ -378,8 +446,6 @@ Django Templates
 
 Cookiecutter
 https://github.com/sixfeetup/cookiecutter-sixiedjango
-https://github.com/tiagoarasilva/cookiecutter-django | tiagoarasilva/cookiecutter-django: Django template for version 3.1.X with a login system, Rest Framework, and Task Management
-
 
 https://github.com/caktus/django-project-template
 
