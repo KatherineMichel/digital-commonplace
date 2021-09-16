@@ -32,140 +32,13 @@ Test Driven
 https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
 https://testdriven.io/blog/multiple-languages-in-django/ | Supporting Multiple Languages in Django | TestDriven.io
 https://twitter.com/jangiacomelli/status/1432381992612597763 | Jan Giacomelli on Twitter: "The post I'm most proud of☺️ #testdrivenio10k https://t.co/HCRSHAIZR4" / Twitter
--->
 
-
-<!--
-## Important
-
-Django Tutorials
-https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
-
-Django Girls
-https://tutorial.djangogirls.org/en/ | Introduction · HonKit
-https://tutorial.djangogirls.org/en/deploy/ | Deploy! · HonKit
-https://github.com/DjangoGirls/tutorial/blob/master/en/django_start_project/README.md | tutorial/README.md at master · DjangoGirls/tutorial
-
-Django Official Docs
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
-
-
-## Vitor
-
-https://simpleisbetterthancomplex.com/tips/2016/05/09/django-tip-2-humanize.html | Django Tips #2 humanize
-
-https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
-https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html | A Complete Beginner's Guide to Django - Part 1
-https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html | A Complete Beginner's Guide to Django - Part 2
-
-Bootcamp
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/vitorfs/bootcamp/tree/master/bootcamp/news | bootcamp/bootcamp/news at master · vitorfs/bootcamp
-
-## Mozilla
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
-https://github.com/mdn/django-locallibrary-tutorial
-
-
-Python OOP
-https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
-
-## WS Vincent
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: Django starter project with batteries
-
-https://github.com/wsvincent/djangoforprofessionals/tree/master/ch17-deployment | djangoforprofessionals/ch17-deployment at master · wsvincent/djangoforprofessionals
-
-William
-https://github.com/wsvincent/djangoforprofessionals/tree/master/ch17-deployment | djangoforprofessionals/ch17-deployment at master · wsvincent/djangoforprofessionals
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-## Vinta
-
-https://github.com/vintasoftware/django-react-boilerplate/blob/master/CONTRIBUTING.md | django-react-boilerplate/CONTRIBUTING.md at master · vintasoftware/django-react-boilerplate
--->
-
-<!--
-## Feldroy
-
-https://www.feldroy.com/blogs/news/we-have-a-new-python-book?fbclid=IwAR3npwo05iIv_zIg8OnXqElv_YMfk7-HAVFj1IPBtCYm0uapb9X2d3yS6n8 | We've released a new python book! – Feldroy
-
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-
-https://www.feldroy.com/ | Feldroy: Two Scoops Press, Impossible Hero Books, Fuzzy Rainbow
-https://github.com/feldroy/everycheese | feldroy/everycheese: The ultimate cheese index
-https://github.com/feldroy | Feldroy
-https://github.com/feldroy/django-crash-starter | feldroy/django-crash-starter: The Cookiecutter template for the Django Crash Course tutorial by Daniel and Audrey Feldroy.
-
-Cookiecutter
-https://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html | Deployment with Docker — Cookiecutter Django 2021.15.1 documentation
-https://cookiecutter-django.readthedocs.io/en/latest/developing-locally.html | Getting Up and Running Locally — Cookiecutter Django 2021.15.1 documentation
-
-Two Scoops
-https://www.amazon.com/dp/0692915729/?tag=devdetailpage02-20 | Two Scoops of Django 1.11: Best Practices for the Django Web Framework: 9780692915721: Computer Science Books @ Amazon.com
-
-Two Scoops
-https://github.com/twoscoops/django-twoscoops-project | twoscoops/django-twoscoops-project: The sample project layout from the book, "Two Scoops of Django 1.5 and 1.6"
-
-https://github.com/twoscoops/django-twoscoops-project | twoscoops/django-twoscoops-project: The sample project layout from the book, "Two Scoops of Django 1.5 and 1.6"
-https://github.com/twoscoops/two-scoops-of-django-1.11 | twoscoops/two-scoops-of-django-1.11: The issue tracker, changelog, and code repository for Two Scoops of Django 1.11
-https://github.com/twoscoops/two-scoops-of-django-1.8 | twoscoops/two-scoops-of-django-1.8: Tracking thoughts and feature requests for Two Scoops of Django 1.8 in the issue tracker. And the book's code examples are here.
-https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
-
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-
-https://github.com/feldroy/everycheese/
-
-https://www.feldroy.com/products/two-scoops-of-django-3-x | Two Scoops of Django 3.x: Best Practices for the Django Web Framework – Feldroy
--->
-
-<!--
-Projects
-
-Every Cheese
-
-Cookiecutter
-https://twitter.com/nthapen/status/1240936897234513921
-https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
-
-https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
-
-Projects
-https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
-https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
-https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
-https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
-https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
-
-https://www.npmjs.com/package/npx | npx - npm
-https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
-
-DRF
-https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
-
-Every Cheese- Third party
-https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
--->
-
-
-<!--
 Traversy
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/videos | Traversy Media - YouTube
 
 Traversy Django Learning	
 https://www.youtube.com/watch?v=e1IyzVyrLSU&feature=youtu.be | Python Django Crash Course - YouTube	
 https://www.youtube.com/watch?v=e1IyzVyrLSU | Python Django Crash Course - YouTube
-
-
-
-
-Python Articles
-https://simpleisbetterthancomplex.com/tutorial/2016/07/27/how-to-return-json-encoded-response.html | How to Return JSON-Encoded Response
-https://github.com/sibtc/simple-file-upload/blob/master/uploads/core/forms.py | simple-file-upload/forms.py at master · sibtc/simple-file-upload
-https://www.freecodecamp.org/news/an-introduction-to-testing-in-python/ | An Introduction to Unit Testing in Python
-https://www.datacamp.com/community/tutorials/unit-testing-python | Test Python Code with unittest Examples - DataCamp
-https://www.blog.pythonlibrary.org/2017/10/05/how-to-rotate-mirror-photos-with-python/ | How to Rotate / Mirror Photos with Python - Mouse Vs Python
 -->
 
 
@@ -255,6 +128,157 @@ http://gameprogrammingpatterns.com/contents.html
 https://gameprogrammingpatterns.com/event-queue.html | Event Queue · Decoupling Patterns · Game Programming Patterns
 -->
 
+<!--
+## Important
+
+Django Tutorials
+https://docs.microsoft.com/en-us/learn/paths/django-create-data-driven-websites/ | Create data-driven websites by using Django - Learn | Microsoft Docs
+
+Django Girls
+https://tutorial.djangogirls.org/en/ | Introduction · HonKit
+https://tutorial.djangogirls.org/en/deploy/ | Deploy! · HonKit
+https://github.com/DjangoGirls/tutorial/blob/master/en/django_start_project/README.md | tutorial/README.md at master · DjangoGirls/tutorial
+
+Django Official Docs
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
+
+
+## Vitor
+
+https://simpleisbetterthancomplex.com/tips/2016/05/09/django-tip-2-humanize.html | Django Tips #2 humanize
+
+https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
+https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html | A Complete Beginner's Guide to Django - Part 1
+https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html | A Complete Beginner's Guide to Django - Part 2
+
+Bootcamp
+https://github.com/vitorfs/bootcamp/tree/master/bootcamp/news | bootcamp/bootcamp/news at master · vitorfs/bootcamp
+
+## Mozilla
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django
+https://github.com/mdn/django-locallibrary-tutorial
+
+
+Python OOP
+https://developer.mozilla.org/en-US/docs/Learn/Drafts/Python/Quickly_Learn_Object_Oriented_Programming | Quickly Learn Object Oriented Programming - Learn web development | MDN
+
+## WS Vincent
+
+William
+https://github.com/wsvincent/djangoforprofessionals/tree/master/ch17-deployment | djangoforprofessionals/ch17-deployment at master · wsvincent/djangoforprofessionals
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+## Vinta
+
+https://github.com/vintasoftware/django-react-boilerplate/blob/master/CONTRIBUTING.md | django-react-boilerplate/CONTRIBUTING.md at master · vintasoftware/django-react-boilerplate
+-->
+
+<!--
+## Feldroy
+
+https://www.feldroy.com/blogs/news/we-have-a-new-python-book?fbclid=IwAR3npwo05iIv_zIg8OnXqElv_YMfk7-HAVFj1IPBtCYm0uapb9X2d3yS6n8 | We've released a new python book! – Feldroy
+
+Two Scoops
+https://www.amazon.com/dp/0692915729/?tag=devdetailpage02-20 | Two Scoops of Django 1.11: Best Practices for the Django Web Framework: 9780692915721: Computer Science Books @ Amazon.com
+
+Two Scoops
+https://github.com/twoscoops/django-twoscoops-project | twoscoops/django-twoscoops-project: The sample project layout from the book, "Two Scoops of Django 1.5 and 1.6"
+https://github.com/twoscoops/two-scoops-of-django-1.11 | twoscoops/two-scoops-of-django-1.11: The issue tracker, changelog, and code repository for Two Scoops of Django 1.11
+https://github.com/twoscoops/two-scoops-of-django-1.8 | twoscoops/two-scoops-of-django-1.8: Tracking thoughts and feature requests for Two Scoops of Django 1.8 in the issue tracker. And the book's code examples are here.
+https://github.com/twoscoops/two-scoops-of-django-2.0-code-examples | twoscoops/two-scoops-of-django-2.0-code-examples: The official repo for Two Scoops of Django 1.11 code samples migrated to Django 2.0
+
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+https://www.feldroy.com/products/two-scoops-of-django-3-x | Two Scoops of Django 3.x: Best Practices for the Django Web Framework – Feldroy
+-->
+
+
+<!--
+Every Cheese
+
+https://www.mailgun.com/ | Transactional Email API Service For Developers | Mailgun
+
+Projects
+https://pypi.org/project/psycopg2/ | psycopg2 · PyPI
+https://pypi.org/project/psycopg2-binary/ | psycopg2-binary · PyPI
+https://www.postgresql.org/ | PostgreSQL: The world's most advanced open source database
+https://www.postgresql.org/download/macosx/ | PostgreSQL: macOS packages
+https://formulae.brew.sh/formula/postgresql | postgresql — Homebrew Formulae
+
+https://www.npmjs.com/package/npx | npx - npm
+https://www.freecodecamp.org/news/npm-vs-npx-whats-the-difference/ | npm vs npx — What’s the Difference?
+
+DRF
+https://github.com/James1345/django-rest-knox | James1345/django-rest-knox: Authentication Module for django rest auth
+
+Every Cheese- Third party
+https://en.wikipedia.org/wiki/ISO_3166-1 | ISO 3166-1 - Wikipedia
+-->
+
+
+
+## Great Demos
+
+<!--
+https://github.com/pinax
+https://github.com/pinax/pinax-templates
+
+Jeff's configs
+https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
+
+https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
+
+https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
+https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
+
+https://djangoforprofessionals.com/ | Django for Professionals
+
+https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
+https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
+https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
+
+https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
+https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
+https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
+
+https://wsvincent.com/books/ | Books - William Vincent
+https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
+
+
+DRF
+https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
+
+https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
+
+
+Node/Django
+Hackathon Starters
+https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
+https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
+https://github.com/DrkSephy/django-hackathon-starter
+-->
+
+<!--
+Cookiecutter
+https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
+
+Cookiecutter
+https://twitter.com/nthapen/status/1240936897234513921
+https://cookiecutter.readthedocs.io/en/1.7.2/first_steps.html | Learn the Basics of Cookiecutter by Creating a Cookiecutter — cookiecutter 1.7.2 documentation
+https://cookiecutter-django.readthedocs.io/en/latest/deployment-with-docker.html | Deployment with Docker — Cookiecutter Django 2021.15.1 documentation
+https://cookiecutter-django.readthedocs.io/en/latest/developing-locally.html | Getting Up and Running Locally — Cookiecutter Django 2021.15.1 documentation
+
+https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
+https://github.com/audreyfeldroy/cookiecutter-pypackage
+
+https://www.feldroy.com/ | Feldroy: Two Scoops Press, Impossible Hero Books, Fuzzy Rainbow
+https://github.com/feldroy | Feldroy
+
+Example projects
+https://github.com/feldroy/everycheese | feldroy/everycheese
+https://github.com/feldroy/django-crash-starter
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
+-->
 
 ## Clones and Projects
 
@@ -371,58 +395,6 @@ https://github.com/wemake-services/django-test-migrations | wemake-services/djan
 -->
 
 
-## Great Demos
-
-<!--
-https://github.com/pinax
-https://github.com/pinax/pinax-templates
-
-https://github.com/jefftriplett/django-startproject/blob/master/project_template/config/settings.py-tpl | django-startproject/settings.py-tpl at master · jefftriplett/django-startproject
-
-https://github.com/vitorfs/bootcamp | vitorfs/bootcamp: An enterprise social network
-https://github.com/neutronX/django-markdownx | neutronX/django-markdownx: Comprehensive Markdown plugin built for Django
-https://github.com/vitorfs/bootcamp/blob/master/bootcamp/templates/users/user_detail.html
-
-https://djangoforprofessionals.com/ | Django for Professionals
-
-https://github.com/wsvincent/djangox | wsvincent/djangox: A framework for launching new Django projects quickly.
-https://github.com/wsvincent/drfx | wsvincent/drfx: A framework for launching new Django Rest Framework projects quickly.
-https://github.com/wsvincent/djangoforprofessionals | wsvincent/djangoforprofessionals: Source code for Django for Professionals
-
-https://github.com/wsvincent/restapiswithdjango | wsvincent/restapiswithdjango: Source code for Django for APIs
-https://djangoforbeginners.com/ | Django for Beginners - Complete Tutorial for Django 2.2
-https://github.com/wsvincent/djangoforbeginners | wsvincent/djangoforbeginners: Source code for Django For Beginners
-
-https://wsvincent.com/books/ | Books - William Vincent
-https://gumroad.com/d/5e5ace448ee06f7198faad888398b235 | 2 Book Bundle: Django for Beginners & Django for APIs
-
-
-DRF
-https://github.com/vintasoftware/drf-rw-serializers | vintasoftware/drf-rw-serializers: Generic views, viewsets and mixins that extend the Django REST Framework ones adding separated serializers for read and write operations
-
-https://github.com/vintasoftware/django-role-permissions | vintasoftware/django-role-permissions: A django app for role based permissions.
-
-
-Node/Django
-Hackathon Starters
-https://github.com/sahat/hackathon-starter | sahat/hackathon-starter: A boilerplate for Node.js web applications
-https://hackathon-starter.walcony.com/login#_=_ | Login - Hackathon Starter
-https://github.com/DrkSephy/django-hackathon-starter
--->
-
-<!--
-https://github.com/feldroy | Feldroy
-https://github.com/audreyfeldroy/cookiecutter-pypackage
-
-Example projects
-https://github.com/feldroy/everycheese | feldroy/everycheese
-https://github.com/feldroy/django-crash-starter
-https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
-https://github.com/pydanny/cookiecutter-django | pydanny/cookiecutter-django: Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
-https://github.com/cookiecutter/cookiecutter | cookiecutter/cookiecutter: A command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, VueJS projects.
--->
-
-
 ## Deployment
 
 <!--
@@ -466,8 +438,6 @@ Channels stuff
 https://github.com/fcurella/django-channels-react-redux
 https://github.com/channels-frontend/django_redux
 -->
-
-
 
 
 
@@ -674,6 +644,8 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/practical-tutorials/project-based-learning
+
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
 https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
