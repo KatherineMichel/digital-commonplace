@@ -139,20 +139,11 @@ https://tutorial.djangogirls.org/en/ | Introduction · HonKit
 https://tutorial.djangogirls.org/en/deploy/ | Deploy! · HonKit
 https://github.com/DjangoGirls/tutorial/blob/master/en/django_start_project/README.md | tutorial/README.md at master · DjangoGirls/tutorial
 
-Django Official Docs
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style/ | Coding style | Django documentation | Django
-
-
 ## Vitor
-
-https://simpleisbetterthancomplex.com/tips/2016/05/09/django-tip-2-humanize.html | Django Tips #2 humanize
 
 https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/ | A Complete Beginner's Guide to Django
 https://simpleisbetterthancomplex.com/series/2017/09/04/a-complete-beginners-guide-to-django-part-1.html | A Complete Beginner's Guide to Django - Part 1
 https://simpleisbetterthancomplex.com/series/2017/09/11/a-complete-beginners-guide-to-django-part-2.html | A Complete Beginner's Guide to Django - Part 2
-
-Bootcamp
-https://github.com/vitorfs/bootcamp/tree/master/bootcamp/news | bootcamp/bootcamp/news at master · vitorfs/bootcamp
 
 ## Mozilla
 
@@ -179,10 +170,8 @@ https://github.com/vintasoftware/django-react-boilerplate/blob/master/CONTRIBUTI
 
 https://www.feldroy.com/blogs/news/we-have-a-new-python-book?fbclid=IwAR3npwo05iIv_zIg8OnXqElv_YMfk7-HAVFj1IPBtCYm0uapb9X2d3yS6n8 | We've released a new python book! – Feldroy
 
-Two Scoops
 https://www.amazon.com/dp/0692915729/?tag=devdetailpage02-20 | Two Scoops of Django 1.11: Best Practices for the Django Web Framework: 9780692915721: Computer Science Books @ Amazon.com
 
-Two Scoops
 https://github.com/twoscoops/django-twoscoops-project | twoscoops/django-twoscoops-project: The sample project layout from the book, "Two Scoops of Django 1.5 and 1.6"
 https://github.com/twoscoops/two-scoops-of-django-1.11 | twoscoops/two-scoops-of-django-1.11: The issue tracker, changelog, and code repository for Two Scoops of Django 1.11
 https://github.com/twoscoops/two-scoops-of-django-1.8 | twoscoops/two-scoops-of-django-1.8: Tracking thoughts and feature requests for Two Scoops of Django 1.8 in the issue tracker. And the book's code examples are here.
@@ -279,6 +268,7 @@ https://github.com/feldroy/everycheese | feldroy/everycheese
 https://github.com/feldroy/django-crash-starter
 https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
 -->
+
 
 ## Clones and Projects
 
