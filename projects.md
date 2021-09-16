@@ -13,25 +13,29 @@ http://www.mattmakai.com/django-project-checklist.html | Matt Makai dot com
 Python Cheat Sheets
 https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
 
-Important
-https://en.wikipedia.org/wiki/Project-based_learning | Project-based learning - Wikipedia
+
+Great guide
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://testdriven.io/blog/python-environments/
+https://testdriven.io/blog/testing-python/
+https://testdriven.io/blog/modern-tdd/
+https://testdriven.io/blog/tdd-benefits/
+https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
+https://testdriven.io/blog/python-type-checking/
+https://testdriven.io/blog/documenting-python/ | Documenting Python Code and Projects | TestDriven.io
+https://testdriven.io/blog/python-project-workflow/
 
 Real Python- App Layout
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
 
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
-https://realpython.com/python3-object-oriented-programming/ | Object-Oriented Programming (OOP) in Python 3 – Real Python
-
 Real Python- Testing
 https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
 https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
-Test Driven
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://testdriven.io/blog/multiple-languages-in-django/ | Supporting Multiple Languages in Django | TestDriven.io
-https://twitter.com/jangiacomelli/status/1432381992612597763 | Jan Giacomelli on Twitter: "The post I'm most proud of☺️ #testdrivenio10k https://t.co/HCRSHAIZR4" / Twitter
+https://realpython.com/python3-object-oriented-programming/ | Object-Oriented Programming (OOP) in Python 3 – Real Python
 
 Traversy
 https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA/videos | Traversy Media - YouTube
@@ -635,8 +639,6 @@ App Ideas
 
 <!--
 https://github.com/practical-tutorials/project-based-learning
-
-https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
 https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
 
