@@ -17,13 +17,17 @@ https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - P
 Great guide
 https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
 https://testdriven.io/blog/python-environments/
+
 https://testdriven.io/blog/testing-python/
 https://testdriven.io/blog/modern-tdd/
 https://testdriven.io/blog/tdd-benefits/
+
 https://testdriven.io/blog/python-code-quality/ | Python Code Quality | TestDriven.io
+
 https://testdriven.io/blog/python-type-checking/
 
 https://testdriven.io/blog/documenting-python/ | Documenting Python Code and Projects | TestDriven.io
+
 
 Docstrings/doctest
 https://github.com/google/styleguide/blob/gh-pages/pyguide.md#38-comments-and-docstrings
@@ -40,7 +44,7 @@ https://www.sphinx-doc.org/en/master/
 http://epydoc.sourceforge.net/
 https://www.mkdocs.org/
 
-Testing/Code Auality
+Testing/Code Quality
 https://docs.python-requests.org/en/latest/
 https://flake8.pycqa.org/en/latest/
 https://docs.pytest.org/en/6.2.x/
@@ -81,8 +85,10 @@ https://fastapi.tiangolo.com/
 https://testdriven.io/blog/python-project-workflow/
 
 Code Quality
+https://www.freecodecamp.org/news/how-to-generate-code-coverage-report-with-codecov-and-github-actions/
 https://about.codecov.io/
 https://docs.codecov.com/docs/quick-start
+https://coveralls.io/
 https://pypi.org/project/pytest-cov/
 https://github.com/psf/black
 https://pypi.org/project/isort/
@@ -102,9 +108,27 @@ https://www.sphinx-doc.org/en/master/usage/quickstart.html#autodoc
 Real Python- App Layout
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
 
+https://github.com/navdeep-G/samplemod/blob/master/Makefile
+https://github.com/kennethreitz/setup.py
+https://kennethreitz.org/essays/repository-structure-and-python
+https://django-project-skeleton.readthedocs.io/en/latest/structure.html
+https://flask.palletsprojects.com/en/1.0.x/tutorial/layout/
+https://github.com/realpython/flask-boilerplate
+
 Real Python- Testing
 https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+
 https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
+https://realpython.com/the-minimum-viable-test-suite/
+https://en.wikipedia.org/wiki/Risk-based_testing
+https://github.com/realpython/flask-registration/releases/tag/v1
+https://docs.pytest.org/en/latest/explanation/fixtures.html
+https://realpython.com/pytest-python-testing/
+https://dbader.org/blog/python-assert-tutorial
+https://realpython.com/testing-third-party-apis-with-mock-servers/
+https://pypi.org/project/deepdiff/
+https://realpython.com/integration-testing-with-pyvows-and-django/
+
 https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
 
 
