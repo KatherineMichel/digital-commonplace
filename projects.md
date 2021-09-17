@@ -118,19 +118,6 @@ https://github.com/realpython/flask-boilerplate
 Real Python- Testing
 https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
 
-https://realpython.com/python-cli-testing/ | 4 Techniques for Testing Python Command-Line (CLI) Apps – Real Python
-https://realpython.com/the-minimum-viable-test-suite/
-https://en.wikipedia.org/wiki/Risk-based_testing
-https://github.com/realpython/flask-registration/releases/tag/v1
-https://docs.pytest.org/en/latest/explanation/fixtures.html
-https://realpython.com/pytest-python-testing/
-https://dbader.org/blog/python-assert-tutorial
-https://realpython.com/testing-third-party-apis-with-mock-servers/
-https://pypi.org/project/deepdiff/
-https://realpython.com/integration-testing-with-pyvows-and-django/
-
-https://realpython.com/test-driven-development-of-a-django-restful-api/ | Test Driven Development of a Django RESTful API – Real Python
-
 
 https://realpython.com/intermediate-python-project-ideas/ | 13 Project Ideas for Intermediate Python Developers – Real Python
 
