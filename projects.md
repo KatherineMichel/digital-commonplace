@@ -521,179 +521,6 @@ https://github.com/channels-frontend/django_redux
 -->
 
 
-
-## GitHub and VS Code Integration
-
-* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
-
-<!--
-https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
-
-https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
-
-GitHub/Netlify
-https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
-
-GitHub/Zeit
-https://zeit.co/github | ZEIT Now for GitHub - ZEIT
-https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
-
-GitHub/Repl
-https://blog.repl.it/github
-https://twitter.com/amasad/status/1204843691682091008
--->
-
-
-<!--
-https://vercel.com/
-https://vercel.com/docs/cli
-
-https://www.netlify.com/
-https://docs.netlify.com/cli/get-started/
-https://www.netlifycms.org/docs/start-with-a-template/
-
-https://www.netlify.com/github-pages-vs-netlify/
-https://en.wikipedia.org/wiki/A/B_testing
-
-https://firebase.google.com/
-
-https://github.com/features/actions
-
-Pages
-https://docs.gitlab.com/ee/user/project/pages/
-
-https://glitch.com/
-https://help.glitch.com/home/
-https://glitch.happyfox.com/kb/article/17-what-are-the-technical-restrictions-for-glitch-projects/
-https://help.glitch.com/kb/article/19-how-do-i-best-present-my-project-on-glitch/
-
-Getting Started
-https://help.glitch.com/kb/section/2/
-
-Project Editor
-https://help.glitch.com/kb/section/7/
-
-Sharing
-https://help.glitch.com/kb/section/9/
--->
-
-<!--
-Important
-https://templates.netlify.com/
-
-
-https://vercel.com/new/templates
-https://vercel.com/solutions/nextjs
-https://vercel.com/solutions/react
-
-Next.js
-https://github.com/nextjs-starters/nextjs-starters
-https://nextjs.org/learn/basics/create-nextjs-app | Create a Next.js App | Learn Next.js
-https://nextjs.org/blog/create-next-app | Blog - Introducing Create Next App | Next.js
--->
-
-
-<!--
-Example Apps
-
-https://glitch.com/culture/looky-what-we-made | Looky What We Made
-
-Collections
-https://help.glitch.com/kb/article/4-what-are-collections/
-Find a Collection
-https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
-
-Glitch Team Faves
-https://glitch.com/@glitch/glitch-team-faves
-
-https://glitch.com/@glitch/games
-https://glitch.com/@glitch/bots
-https://glitch.com/@glitch/music
-https://glitch.com/@glitch/art
-https://glitch.com/@glitch/tools-for-work
-https://glitch.com/@glitch/hardware
-https://glitch.com/@glitch/building-blocks
-https://glitch.com/@glitch/learn-to-code
-
-https://blog.glitch.com/post/website-starter-kit
-https://glitch.com/edit/#!/javascripting | Glitch :·ﾟ✧
-
-https://glitch.dev/ | Using Glitch for Developer Relations
-https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
-
-
-Databases
-https://glitch.com/@storage
-https://glitch.com/~sqlite3-db
-https://glitch.com/~mongodb
-
-Look through
-https://glitch.com/@glitch
-
-Important
-https://glitch.happyfox.com/kb/article/20-can-i-import-code-from-a-github-repository/
-https://glitch.com/create
-Classic Website
-Node.js
-React Static Site Generator
-Eleventy Static Site Generator
-https://help.glitch.com/kb/article/38-what-types-of-apps-can-i-make-on-glitch/
-
-Starter Project stuff
-https://glitch.com/~glitch-hello-eleventy
-https://help.glitch.com/kb/article/111-what-is-eleventy-11ty-and-how-can-i-use-it-on-glitch/
-https://glitch.com/~glitch-hello-react
-https://help.glitch.com/kb/article/112-what-is-a-react-static-site-generator-and-how-can-i-use-it-on-glitch/
-https://help.glitch.com/kb/article/113-i-noticed-a-%E2%80%9Cglitch%E2%80%9D-entry-in-the-react-and-eleventy-starter-projects%E2%80%99-package-json-what-does-that-do/
-https://help.glitch.com/kb/article/10-how-do-i-deploy-my-glitch-project-to-firebase-hosting/
-
-https://glitch.com/~glitch-hello-node
-https://glitch.com/~glitch-hello-express
-https://glitch.com/~glitch-hello-svelte
-
-https://glitch.com/@slack
-https://glitch.com/@spotify
-https://glitch.com/@twitchdev
-https://glitch.com/@trello
-https://glitch.com/@material
--->
-
-<!--
-https://blog.repl.it/database | Repl.it - A database for every repl
-
-Important
-https://repl.it/templates
-https://replit.com/@templates/Django-App-Template
-https://replit.com/@templates/Multi-Page-Flask-Template
-https://replit.com/@templates/Create-React-App
-https://replit.com/@templates/react-express-template
-https://replit.com/@templates/Python-Processing-Template
-
-https://repl.it/languages/html | Repl.it - HTML, CSS, JS Online Compiler & Interpreter
-https://repl.it/languages/javascript | Repl.it - Node.js Online Compiler & Interpreter
-https://repl.it/languages/python3 | Repl.it - Python Online Compiler & Interpreter
-https://repl.it/languages/nodejs | Repl.it - Node.js Online Compiler & Interpreter
-
-For Fun
-https://repl.it/languages/pygame | Repl.it - Pygame Online Compiler & Interpreter
-https://repl.it/languages/pyxel | Repl.it - Pyxel Online Compiler & Interpreter
-https://repl.it/languages/python_turtle | Repl.it - Python (with Turtle) Online Compiler & Interpreter
-
-https://github.com/replit/replit-py | replit/replit-py: A helpful Python package that helps you build excellent things inside Repls! 💻
--->
-
-<!--
-https://colab.research.google.com/
-https://twitter.com/judy2k/status/1310969820129755136 | Judy2k on Twitter: "@aaronbassett @ProjectJupyter Google Colab works well, and is free 👍" / Twitter
-
-GitHub/VS Code
-
-https://blog.repl.it/alwayson
-https://twitter.com/amasad/status/1053072622257266688 | Amjad Masad on Twitter: "Announcing (free) HTTPS-ready custom domains for websites and webservers on @replit https://t.co/vHdc2YSsyt Here is me linking a domain to a repl in less than 30 seconds 🤯… https://t.co/loqfwW8OVt"
-https://twitter.com/mattlovesjenni/status/1357331915175571456 | Matt Bloomfield on Twitter: "Holy cow I just built my first web app on @replit and I'm totally addicted. Totally prototyped an HTTP server and got a free URL, working SSL, the ability to keep secrets private, all for free and with ZERO config. Like it took me five minutes - tempted to run prod in here..." / Twitter
--->
-
-
 ### 100 Something
 
 100 Days of Code
@@ -834,7 +661,6 @@ https://js13kgames.com/
 -->
 
 
-
 ## High Performance Trends
 
 List of Engineering Blogs
@@ -852,36 +678,6 @@ Stack
 * [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
-
-## Dev Tools, Projects, and Demos
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub Trending Python
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Topic Python](https://github.com/topics/python)
-
-Fun Stuff
-* [Glitch Websites](https://glitch.com/@websites)
-
-Python
-* [Glitch Python](https://glitch.com/@python)
-* [CodePen Python](https://codepen.io/tag/python)
-
-CodePen
-* [CodePen Projects](http://codepen.io/projects/)
-* [CodePen Trending](https://codepen.io/trending)
-* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
-* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
-* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
-* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
-
-<!--
-Montly Repls
-https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
-https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
--->
 
 ## Showcases
 
@@ -912,35 +708,6 @@ https://madewithreactnative.com/
 https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 -->
 
-## Tutorials
-
-Show Hacker News and IH
-* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
-* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
-
-Python Tutorials
-* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
-* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
-
-Python Articles
-* [The Practical Dev Python](https://dev.to/search?q=python)
-* [Hacker Noon Python](https://hackernoon.com/search?query=python)
-* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
-
-<!--
-https://dev.to/t/python
-
-https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
-
 ## Articles
 
 The Practical Dev and Hackernoon
@@ -966,6 +733,65 @@ https://stackshare.io/featured-posts
 https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
 
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## Python Articles and Tutorials
+
+Python Tutorials
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
+
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+
+<!--
+https://dev.to/t/python
+
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+-->
+
+## Dev Tools, Projects, and Demos
+
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub Trending Python
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [CodePen Projects](http://codepen.io/projects/)
+* [CodePen Trending](https://codepen.io/trending)
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+Montly Repls
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
 -->
 
 ## Creation Blogs
@@ -2257,6 +2083,26 @@ https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
 
+## GitHub and VS Code Integration
+
+* [Glitch for VS Code](https://medium.com/glitch/announcing-glitch-for-visual-studio-code-87497b5159c0)
+
+<!--
+https://devcenter.heroku.com/articles/heroku-button | Creating a 'Deploy to Heroku' Button | Heroku Dev Center
+
+https://medium.com/glitch/build-firebase-apps-instantly-on-glitch-e312e594701c
+
+GitHub/Netlify
+https://www.netlify.com/blog/2016/11/29/introducing-the-deploy-to-netlify-button/ | Introducing the Deploy to Netlify button | Netlify
+
+GitHub/Zeit
+https://vercel.com/docs/git/vercel-for-github | ZEIT Now for GitHub - ZEIT
+https://zeit.co/docs/v2/git-integrations/zeit-now-for-github
+
+GitHub/Repl
+https://blog.repl.it/github
+https://twitter.com/amasad/status/1204843691682091008
+-->
 
 ### Deploy
 
@@ -2476,8 +2322,8 @@ Expo- React Native Platform
 * [Using Next.js with Expo for Web](https://docs.expo.io/guides/using-nextjs/)
 
 Push Notifications
-* [Firebase](https://firebase.googleblog.com/)
-* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase )
+* [Firebase](https://firebase.google.com/) and [Firebase Blog](https://firebase.googleblog.com/)
+* [Supabase (open-source Firebase alternative)](https://github.com/supabase/supabase)
 * [OneSignal (used by Expo)](https://onesignal.com/)
 
 Flutter and Dart (Mobile)
