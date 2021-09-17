@@ -363,28 +363,6 @@ https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-djan
 -->
 
 
-## Clones and Projects
-
-<!--
-Important!
-https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
-
-https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
--->
-
-<!--
-Non-Python
-
-Clones
-https://github.com/techreagan?tab=repositories
-https://github.com/techreagan/youtube-clone-nodejs-api
-
-https://github.com/CleverProgrammers
-https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
-https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
-https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
-https://github.com/python-telegram-bot/python-telegram-bot
--->
 
 <!--
 Docs
@@ -539,6 +517,27 @@ https://adventofcode.com/2020/day/1/input | https://adventofcode.com/2020/day/1/
 https://adventofcode.com/2020/day/2
 -->
 
+## Clones
+
+<!--
+Important!
+https://github.com/GorvGoyl/Clone-Wars | GorvGoyl/Clone-Wars: 70+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
+-->
+
+<!--
+Non-Python
+
+Clones
+https://github.com/techreagan?tab=repositories
+https://github.com/techreagan/youtube-clone-nodejs-api
+
+https://github.com/CleverProgrammers
+https://github.com/CleverProgrammers/twitter-clone | CleverProgrammers/twitter-clone
+https://github.com/CleverProgrammers/nodejs-zoom-clone | CleverProgrammers/nodejs-zoom-clone
+https://github.com/zoony1337/TikTok-Shares-Botter | zoony1337/TikTok-Shares-Botter: Adds TikTok Shares for you.
+https://github.com/python-telegram-bot/python-telegram-bot
+-->
+
 ## Projects
 
 Projects
@@ -552,6 +551,9 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
+
+
 https://github.com/practical-tutorials/project-based-learning
 
 https://tinyprojects.dev/posts/six_months_of_tiny_projects | Six months of Tiny Projects | Tiny Projects
