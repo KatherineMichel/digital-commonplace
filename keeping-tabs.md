@@ -3,6 +3,17 @@
 ## Django and Python News
 
 <!--
+https://twitter.com/pyladies | PyLadies (@pyladies) / Twitter
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+
+https://us.pycon.org/2020/schedule/talks/
+https://techyaks.com/python-year-tytop.html
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+-->
+
+<!--
 https://blog.jetbrains.com/pycharm/
 
 https://blog.python.org/
@@ -10,7 +21,7 @@ https://blog.python.org/
 https://www.python.org/download/pre-releases/
 
 Peps
-https://www.python.org/dev/peps/
+https://www.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org
 
 https://www.djangoproject.com/weblog/
 https://www.djangoproject.com/community/ | Django Community | Django
@@ -22,9 +33,12 @@ https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — P
 https://www.python.org/downloads/release/python-390a5/
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 
-Roundup
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+
+Roundup
+https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 -->
 
