@@ -269,7 +269,7 @@ https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
 -->
 
-### Django Testing
+### Django Testing, System Checks, Error Reporting, Exceptions
 
 Django Testing- Official
 * [Django Testing Overview](https://docs.djangoproject.com/en/dev/topics/testing/overview)
@@ -277,11 +277,15 @@ Django Testing- Official
 * [Django Testing Tools](https://docs.djangoproject.com/en/dev/topics/testing/tools)
 * [Django Testing Advanced Topics](https://docs.djangoproject.com/en/dev/topics/testing/advanced)
 
+System Checks, Error Reporting, Exceptions
+* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
+* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
+* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
+
 <!--
 Django raises built-in Python exceptions when appropriate.
 
 Exceptions
-https://docs.python.org/3/library/exceptions.html | Built-in Exceptions — Python 3.9.5 documentation
 https://docs.python.org/3/library/exceptions.html#built-in-exceptions
 
 https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
@@ -289,7 +293,6 @@ https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing t
 
 
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.TransactionTestCase | Testing tools | Django documentation | Django
-https://docs.djangoproject.com/en/3.0/topics/checks/ | System check framework | Django documentation | Django
 
 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
