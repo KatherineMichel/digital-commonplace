@@ -16,25 +16,13 @@ https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 
-https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
-
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
-
 GraphQL
+https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
 https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
 
 Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
-
-CI
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
 
 https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
 
@@ -53,9 +41,6 @@ https://en.wikipedia.org/wiki/Port_(computer_networking) | Port (computer networ
 https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports
 https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers | List of TCP and UDP port numbers - Wikipedia
 https://en.wikipedia.org/wiki/Computer_port_(hardware) | Computer port (hardware) - Wikipedia
-
-https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
-https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 
 
 https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
