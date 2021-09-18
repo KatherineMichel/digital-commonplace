@@ -1,6 +1,23 @@
 # Python and Django Tools and Deployment
 
 <!--
+https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
+
+https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://docs.python.org/3/library/sqlite3.html
+
+https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
+
+CI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+
+https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
+-->
+
+<!--
 ## Choices
 
 Vinta Django Apps Checklist	
