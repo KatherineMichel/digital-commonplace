@@ -344,34 +344,6 @@ https://github.com/encode/http3 | encode/http3: A next generation HTTP client, f
 HTTP/3
 https://github.com/aiortc/aioquic | aiortc/aioquic: QUIC implementation in Python
 https://twitter.com/_tomchristie/status/1131617638793269248 | Tom Christie on Twitter: "Really excited about the potential of this one. First steps towards HTTP/3 support for Python servers and clients.… "
-
-
-ASGI 3.0 and Uvicorn
-https://twitter.com/simonw/status/1137476149993361408 | Simon Willison on Twitter: "My first version of ASGI-on-Glitch used daphne as the ASGI server because Uvicorn didn't work with Python 3.5 @_tomchristie fixed that, so here's a hello world app in ASGI 3.0 using Uvicorn! https://t.co/8fSPwpkBIJ"
-
-Datasette ASGI port
-https://simonwillison.net/2019/Jun/23/datasette-asgi/
-https://github.com/simonw/datasette/issues/272
-https://twitter.com/simonw/status/1143019211771404288
-https://twitter.com/andrewgodwin/status/1143026705033916417
-
-https://twitter.com/webology/status/1148090478149230593 | Twitter
-https://simonwillison.net/2019/Jul/14/sso-asgi/ | Single sign-on against GitHub using ASGI middleware
-
-Datasette- Glitch
-https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
-https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
-https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
-
-Datasette
-https://simonwillison.net/2019/May/19/datasette-0-28/ | Datasette 0.28—and why master should always be releasable
-https://github.com/simonw/datasette/issues/278 | Build smallest possible Docker image with Datasette plus recent SQLite (with json1) plus Spatialite 4.4.0 · Issue #278 · simonw/datasette · GitHub
-https://github.com/simonw/datasette | Release Datasette 0.14: customization edition · simonw/datasette
-http://datasette.readthedocs.io
-https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
-http://datasette.readthedocs.io/en/latest/spatialite.html | SpatiaLite — Datasette documentation
-https://github.com/baltimore-sun-data/salaries-datasette | baltimore-sun-data/salaries-datasette: Public salary data
-https://simonwillison.net/2017/Nov/13/datasette/ | Datasette: instantly create and publish an API for your SQLite databases
 -->
 
 ## Data Classes
