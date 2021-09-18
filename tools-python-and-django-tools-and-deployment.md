@@ -1,36 +1,6 @@
 # Python and Django Tools and Deployment
 
 <!--
-## Kenneth- Python
-
-Django- DJ Static, DJ Database URL
-* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
-* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
-
-Records (SQL for Humans)
-* [Records GitHub](https://github.com/kennethreitz/records)
-
-<!--
-https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
-
-Bake
-https://github.com/kennethreitz/bake
-https://twitter.com/kennethreitz/status/1174769124427390981
-
-https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
-https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
-
-https://github.com/kennethreitz/pip-purge
-https://github.com/kennethreitz/homebrew-pythons
--->
-
-<!--
-Blog Posts
-https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta Blog
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
--->
-
-<!--
 ## Browser, Extensions, Bindings
 
 Intel Python
