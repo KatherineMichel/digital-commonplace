@@ -260,6 +260,37 @@ https://www.geeksforgeeks.org/abstract-data-types/
 * [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
 -->
 
+
+### Common Data Structures and Algorithms
+
+Data Structures- Linear
+* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
+* Vectors/Arraylists 
+
+* Trees, Tries, & Graphs
+* [Heap (tree) Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Trie Wikipedia](https://en.wikipedia.org/wiki/Trie)
+
+Data Structures- Hash
+* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+
+Algorithms- Search
+* [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Depth-First Search Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
+
+Algorithms- Sort
+* [Merge Sort Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
+* [Quicksort Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
+
+Concepts- Memory (Stack vs. Heap)
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+
 ### Strings, Arrays, and Lists
 
 String
@@ -272,7 +303,6 @@ Contiguous versus Linked Data Structures
 
 Linked
 * [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
-* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
 * [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
 
 Singly-Linked, Doubly-Linked Lists, and Circular Linked List
