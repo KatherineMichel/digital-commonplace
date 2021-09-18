@@ -1078,6 +1078,7 @@ https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
+
 ## Dev Tools, Projects, and Demos
 
 Show Hacker News and IH
@@ -1107,9 +1108,26 @@ CodePen
 * [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
 
 <!--
-Montly Repls
+Repl Roundup
 https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+
+Glitch Roundup
+https://blog.glitch.com/post/last-month-on-glitch-the-march-2021-edition | Last Month on Glitch: the March 2021 edition — Glitch Blog
 https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/@glitch/glitch-team-faves
+https://blog.glitch.com/category/the-playlist | Apps We Love — Glitch Blog
+
+Collections
+https://help.glitch.com/kb/article/4-what-are-collections/
+Find a Collection
+https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
+
+Glitch Gallery
+https://support.glitch.com/c/the-gallery/6 | Latest The Gallery topics - Glitch Support
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
 -->
 
 ## Creation Blogs
