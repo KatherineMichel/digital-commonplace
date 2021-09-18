@@ -432,6 +432,13 @@ https://us.pycon.org/2016/schedule/presentation/2266/
 http://mypy.readthedocs.io
 -->
 
+## F-Strings
+
+<!--
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+-->
+
 ## Data Classes
 
 Data Classes
@@ -443,13 +450,6 @@ https://github.com/ericvsmith/dataclasses | ericvsmith/dataclasses
 https://pypi.python.org/pypi/dataclasses | dataclasses 0.3 : Python Package Index
 
 https://realpython.com/python-data-classes/
--->
-
-## F-Strings
-
-<!--
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
 -->
 
 ## Python Walrus Operator and Assignment Expressions
