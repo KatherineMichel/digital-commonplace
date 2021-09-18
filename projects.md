@@ -964,6 +964,85 @@ Real Python
 * [Real Python Courses](https://realpython.com/courses)
 
 
+
+## Requests
+
+Requests (HTTP for Humans) and Requests HTML
+* [Requests](https://requests.readthedocs.io/)
+* [Requests PyPI](https://pypi.python.org/pypi/requests) and [Requests GitHub](https://github.com/requests/requests)
+* [Requests HTML](http://html.python-requests.org) and [Requests HTML GitHub](https://github.com/psf/requests-html)
+
+urllib3 (pip and Requests)
+* [urllib3](https://urllib3.readthedocs.io) and [urllib3 GitHub](https://github.com/urllib3/urllib3)
+
+<!--
+import oauth2
+https://pypi.org/project/python-oauth2/
+
+import requests
+import requests_oauthlib
+https://pypi.org/project/requests-oauthlib/
+
+https://docs.python-requests.org/en/master/api/
+https://docs.python-requests.org/en/latest/community/recommended/
+https://docs.python-requests.org/en/master/
+https://docs.python-requests.org/en/master/user/quickstart/#response-headers
+
+"Requests is a library to interact with APIs (as a client), while FastAPI is a library to build APIs (as a server)."
+https://fastapi.tiangolo.com/alternatives/#requests | Alternatives, Inspiration and Comparisons - FastAPI
+
+https://github.com/requests/toolbelt | requests/toolbelt: A toolbelt of useful classes and functions to be used with python-requests
+
+https://github.com/kennethreitz/requests3#requests-iii-http-for-humans-and-machines-alike | kennethreitz/requests3: Requests 3.0, for Humans and Machines, alike. 🤖
+https://github.com/requests/requests-threads | requests/requests-threads: 🎭 Twisted Deferred Thread backend for Requests.
+
+http://html.python-requests.org/en/latest/#requests_html.HTML.render | requests-HTML v0.3.4 documentation
+
+Requests
+https://github.com/psf/requests/pull/5171
+https://github.com/psf/requests/commit/df918c066fa275abc2bb0c960647dc064d136a01#r34826000
+
+Requests
+https://twitter.com/mitsuhiko/status/1174577922172248064
+-->
+
+## Other HTTP Tools
+
+Utilities- Retrieving Files/Data
+* [cURL Wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [Wget Wikipedia](https://www.gnu.org/software/wget/)
+
+<!--
+https://httpbin.org/ | httpbin(1): HTTP Client Testing Service
+
+https://httpie.org/ | HTTPie – command line HTTP client
+https://github.com/jakubroztocil/httpie | jakubroztocil/httpie: As easy as httpie /aitch-tee-tee-pie/ 🥧 Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc. https://twitter.com/clihttp
+-->
+
+<!--
+## Kenneth- Python
+
+Django- DJ Static, DJ Database URL
+* [DJ Static GitHub](https://github.com/heroku-python/dj-static)
+* [DJ Database URL GitHub](https://github.com/jacobian/dj-database-url), [DJ Database URL PyPi](https://pypi.python.org/pypi/dj-database-url), and [DJ Database URL Python Warehouse](https://warehouse.python.org/project/dj-database-url)
+
+Records (SQL for Humans)
+* [Records GitHub](https://github.com/kennethreitz/records)
+
+https://github.com/kennethreitz/legit/blob/develop/legit/cli.py | legit/cli.py at develop · kennethreitz/legit
+
+Bake
+https://github.com/kennethreitz/bake
+https://twitter.com/kennethreitz/status/1174769124427390981
+
+https://github.com/kennethreitz/responder | kennethreitz/responder: A familiar HTTP Service Framework for Python.
+https://github.com/kennethreitz/background | kennethreitz/background: Runs things in the background.
+
+https://github.com/kennethreitz/pip-purge
+https://github.com/kennethreitz/homebrew-pythons
+-->
+
+
 ## Web Scraping
 
 * [Scrapy](https://scrapy.org/) and [Scrapy GitHub](https://github.com/scrapy/scrapy)
