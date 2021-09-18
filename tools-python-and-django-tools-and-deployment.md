@@ -1,6 +1,12 @@
 # Python and Django Tools and Deployment
 
 <!--
+Blog Posts
+https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta Blog
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
+-->
+
+<!--
 ## Browser, Extensions, Bindings
 
 Intel Python
