@@ -387,10 +387,6 @@ https://docs.python.org/3/library/doctest.html#soapbox
 
 ## Django System Checks, Error Reporting, Exceptions
 
-* [Django System Checks](https://docs.djangoproject.com/en/dev/topics/checks)
-* [Django Error Reporting](https://docs.djangoproject.com/en/dev/howto/error-reporting)
-* [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
-
 <!--
 Python Build-in Exceptions
 https://docs.djangoproject.com/en/dev/ref/exceptions/#python-exceptions
@@ -872,422 +868,7 @@ https://docs.python.org/3/library/tracemalloc.html#traceback
 
 
 
-## I/O and Async
-
-19.3. select — Waiting for I/O completion
-19.4. selectors — High-level I/O multiplexing
-19.9. mmap — Memory-mapped file support
-
-https://docs.python.org/3/library/select.html
-https://docs.python.org/3/library/select.html#dev-poll-polling-objects
-https://docs.python.org/3/library/select.html#edge-and-level-trigger-polling-epoll-objects
-https://docs.python.org/3/library/select.html#polling-objects
-https://docs.python.org/3/library/select.html#kqueue-objects
-https://docs.python.org/3/library/select.html#kevent-objects
-
-https://docs.python.org/3/library/selectors.html
-https://docs.python.org/3/library/selectors.html#introduction
-https://docs.python.org/3/library/selectors.html#classes
-https://docs.python.org/3/library/selectors.html#examples
-
-https://docs.python.org/3/library/mmap.html
-
-
-## Concurrent Execution
-
-18. contextvars — Context Variables
-18.1. Context Variables
-18.2. Manual Context Management
-18.3. asyncio support
-
-https://docs.python.org/3/library/contextvars.html
-https://docs.python.org/3/library/contextvars.html#context-variables
-https://docs.python.org/3/library/contextvars.html#manual-context-management
-https://docs.python.org/3/library/contextvars.html#asyncio-support
-
-## I/O
-
-"Streams are high-level async/await-ready primitives to work with network connections. Streams allow sending and receiving data without using callbacks or low-level protocols and transports."
-
-16.2. io — Core tools for working with streams
-https://docs.python.org/3/library/io.html
-https://docs.python.org/3/library/io.html#overview
-https://docs.python.org/3/library/io.html#text-i-o
-https://docs.python.org/3/library/io.html#binary-i-o
-https://docs.python.org/3/library/io.html#raw-i-o
-https://docs.python.org/3/library/io.html#high-level-module-interface
-https://docs.python.org/3/library/io.html#in-memory-streams
-https://docs.python.org/3/library/io.html#class-hierarchy
-https://docs.python.org/3/library/io.html#i-o-base-classes
-https://docs.python.org/3/library/io.html#raw-file-i-o
-https://docs.python.org/3/library/io.html#buffered-streams
-https://docs.python.org/3/library/io.html#id1
-https://docs.python.org/3/library/io.html#performance
-https://docs.python.org/3/library/io.html#id2
-https://docs.python.org/3/library/io.html#id3
-https://docs.python.org/3/library/io.html#multi-threading
-https://docs.python.org/3/library/io.html#reentrancy
-
-
-## Async
-
-17. Concurrent Execution
-17.1. threading — Thread-based parallelism
-17.2. multiprocessing — Process-based parallelism
-17.3. The concurrent package
-17.4. concurrent.futures — Launching parallel tasks
-17.5. subprocess — Subprocess management
-17.6. sched — Event scheduler
-17.7. queue — A synchronized queue class
-17.8. _thread — Low-level threading API
-17.9. _dummy_thread — Drop-in replacement for the _thread module
-17.10. dummy_threading — Drop-in replacement for the threading module
-
-19. Interprocess Communication and Networking
-19.1. socket — Low-level networking interface
-19.2. ssl — TLS/SSL wrapper for socket objects
-19.3. select — Waiting for I/O completion
-19.4. selectors — High-level I/O multiplexing
-
-19.9. mmap — Memory-mapped file support
-
-
-11.4. Multi-threading
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/threading.html#module-threading
-
-https://docs.python.org/3/library/sched.html
-https://docs.python.org/3/library/sched.html#scheduler-objects
-
-https://docs.python.org/3/library/queue.html
-https://docs.python.org/3/library/queue.html#queue-objects
-https://docs.python.org/3/library/queue.html#simplequeue-objects
-
-
-
-## Async
-
-https://docs.python.org/3/library/asyncio.html
-https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
-https://docs.python.org/3/library/multiprocessing.html
-
-https://docs.python.org/3/library/ipc.html
-
-https://docs.python.org/3/library/socket.html
-https://docs.python.org/3/library/concurrency.html
-https://docs.python.org/3/library/threading.html
-
-General
-18. Interprocess Communication and Networking
-
-18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-
-11.4. Multi-threading
-17.2. multiprocessing — Process-based parallelism
-https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
-
-17. Concurrent Execution
-17.1. threading — Thread-based parallelism
-17.7. queue — A synchronized queue class
-
-17.3. The concurrent package
-https://docs.python.org/3/library/concurrent.html
-17.4. concurrent.futures — Launching parallel tasks
-https://docs.python.org/3/library/concurrent.futures.html
-17.5. subprocess — Subprocess management
-https://docs.python.org/3/library/subprocess.html
-17.6. sched — Event scheduler
-https://docs.python.org/3/library/sched.html
-
-17.8. dummy_threading — Drop-in replacement for the threading module
-https://docs.python.org/3/library/dummy_threading.html
-17.9. _thread — Low-level threading API
-https://docs.python.org/3/library/_thread.html
-17.10. _dummy_thread — Drop-in replacement for the _thread module
-https://docs.python.org/3/library/_dummy_thread.html
-
-
-
-## Async
-
-19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
-19.6. asyncore — Asynchronous socket handler
-19.7. asynchat — Asynchronous socket command/response handler
-19.8. signal — Set handlers for asynchronous events
-
-https://docs.python.org/3/library/asyncio.html
-
-https://docs.python.org/3/library/asyncio-eventloop.html#base-event-loop
-https://docs.python.org/3/library/asyncio-eventloop.html#run-an-event-loop
-https://docs.python.org/3/library/asyncio-eventloop.html#calls
-https://docs.python.org/3/library/asyncio-eventloop.html#delayed-calls
-https://docs.python.org/3/library/asyncio-eventloop.html#futures
-https://docs.python.org/3/library/asyncio-eventloop.html#tasks
-https://docs.python.org/3/library/asyncio-eventloop.html#creating-connections
-https://docs.python.org/3/library/asyncio-eventloop.html#creating-listening-connections
-https://docs.python.org/3/library/asyncio-eventloop.html#file-transferring
-https://docs.python.org/3/library/asyncio-eventloop.html#tls-upgrade
-https://docs.python.org/3/library/asyncio-eventloop.html#watch-file-descriptors
-https://docs.python.org/3/library/asyncio-eventloop.html#low-level-socket-operations
-https://docs.python.org/3/library/asyncio-eventloop.html#resolve-host-name
-https://docs.python.org/3/library/asyncio-eventloop.html#connect-pipes
-https://docs.python.org/3/library/asyncio-eventloop.html#unix-signals
-https://docs.python.org/3/library/asyncio-eventloop.html#executor
-https://docs.python.org/3/library/asyncio-eventloop.html#error-handling-api
-https://docs.python.org/3/library/asyncio-eventloop.html#debug-mode
-https://docs.python.org/3/library/asyncio-eventloop.html#server
-https://docs.python.org/3/library/asyncio-eventloop.html#handle
-https://docs.python.org/3/library/asyncio-eventloop.html#sendfilenotavailableerror
-https://docs.python.org/3/library/asyncio-eventloop.html#event-loop-examples
-https://docs.python.org/3/library/asyncio-eventloops.html#event-loops
-https://docs.python.org/3/library/asyncio-eventloops.html#event-loop-functions
-https://docs.python.org/3/library/asyncio-eventloops.html#available-event-loops
-https://docs.python.org/3/library/asyncio-eventloops.html#platform-support
-https://docs.python.org/3/library/asyncio-eventloops.html#event-loop-policies-and-the-default-policy
-https://docs.python.org/3/library/asyncio-eventloops.html#event-loop-policy-interface
-https://docs.python.org/3/library/asyncio-eventloops.html#access-to-the-global-loop-policy
-https://docs.python.org/3/library/asyncio-eventloops.html#customizing-the-event-loop-policy
-
-https://docs.python.org/3/library/asyncio-task.html#tasks-and-coroutines
-https://docs.python.org/3/library/asyncio-task.html#coroutines
-https://docs.python.org/3/library/asyncio-task.html#invalidstateerror
-https://docs.python.org/3/library/asyncio-task.html#timeouterror
-https://docs.python.org/3/library/asyncio-task.html#future
-https://docs.python.org/3/library/asyncio-task.html#task
-https://docs.python.org/3/library/asyncio-task.html#task-functions
-
-https://docs.python.org/3/library/asyncio-protocol.html#transports-and-protocols-callback-based-api
-https://docs.python.org/3/library/asyncio-protocol.html#transports
-https://docs.python.org/3/library/asyncio-protocol.html#protocols
-https://docs.python.org/3/library/asyncio-protocol.html#protocol-examples
-https://docs.python.org/3/library/asyncio-stream.html#streams-coroutine-based-api
-https://docs.python.org/3/library/asyncio-stream.html#stream-functions
-https://docs.python.org/3/library/asyncio-stream.html#streamreader
-https://docs.python.org/3/library/asyncio-stream.html#streamwriter
-https://docs.python.org/3/library/asyncio-stream.html#streamreaderprotocol
-https://docs.python.org/3/library/asyncio-stream.html#incompletereaderror
-https://docs.python.org/3/library/asyncio-stream.html#limitoverrunerror
-https://docs.python.org/3/library/asyncio-stream.html#stream-examples
-https://docs.python.org/3/library/asyncio-stream.html#tcp-echo-client-using-streams
-https://docs.python.org/3/library/asyncio-subprocess.html#subprocess
-https://docs.python.org/3/library/asyncio-subprocess.html#windows-event-loop
-https://docs.python.org/3/library/asyncio-subprocess.html#create-a-subprocess-high-level-api-using-process
-https://docs.python.org/3/library/asyncio-subprocess.html#create-a-subprocess-low-level-api-using-subprocess-popen
-https://docs.python.org/3/library/asyncio-subprocess.html#constants
-https://docs.python.org/3/library/asyncio-subprocess.html#process
-https://docs.python.org/3/library/asyncio-subprocess.html#subprocess-and-threads
-https://docs.python.org/3/library/asyncio-subprocess.html#subprocess-examples
-https://docs.python.org/3/library/asyncio-sync.html#synchronization-primitives
-https://docs.python.org/3/library/asyncio-sync.html#lock
-https://docs.python.org/3/library/asyncio-sync.html#event
-https://docs.python.org/3/library/asyncio-sync.html#condition
-https://docs.python.org/3/library/asyncio-sync.html#semaphore
-https://docs.python.org/3/library/asyncio-sync.html#boundedsemaphore
-https://docs.python.org/3/library/asyncio-sync.html#using-locks-conditions-and-semaphores-in-the-async-with-statement
-https://docs.python.org/3/library/asyncio-queue.html#queues
-https://docs.python.org/3/library/asyncio-queue.html#queue
-https://docs.python.org/3/library/asyncio-queue.html#priorityqueue
-https://docs.python.org/3/library/asyncio-queue.html#lifoqueue
-https://docs.python.org/3/library/asyncio-queue.html#exceptions
-https://docs.python.org/3/library/asyncio-dev.html#develop-with-asyncio
-https://docs.python.org/3/library/asyncio-dev.html#debug-mode-of-asyncio
-https://docs.python.org/3/library/asyncio-dev.html#cancellation
-https://docs.python.org/3/library/asyncio-dev.html#concurrency-and-multithreading
-https://docs.python.org/3/library/asyncio-dev.html#handle-blocking-functions-correctly
-https://docs.python.org/3/library/asyncio-dev.html#logging
-https://docs.python.org/3/library/asyncio-dev.html#detect-coroutine-objects-never-scheduled
-https://docs.python.org/3/library/asyncio-dev.html#detect-exceptions-never-consumed
-https://docs.python.org/3/library/asyncio-dev.html#chain-coroutines-correctly
-https://docs.python.org/3/library/asyncio-dev.html#pending-task-destroyed
-https://docs.python.org/3/library/asyncio-dev.html#close-transports-and-event-loops
-
-https://docs.python.org/3/library/asyncore.html
-https://docs.python.org/3/library/asyncore.html#asyncore-example-basic-http-client
-https://docs.python.org/3/library/asyncore.html#asyncore-example-basic-echo-server
-
-https://docs.python.org/3/library/asynchat.html
-https://docs.python.org/3/library/asynchat.html#asynchat-example
-
-https://docs.python.org/3/library/signal.html
-https://docs.python.org/3/library/signal.html#general-rules
-https://docs.python.org/3/library/signal.html#execution-of-python-signal-handlers
-https://docs.python.org/3/library/signal.html#signals-and-threads
-https://docs.python.org/3/library/signal.html#module-contents
-https://docs.python.org/3/library/signal.html#example
-
-
-## Sockets
-
-"I’m only going to talk about INET (i.e. IPv4) sockets, but they account for at least 99% of the sockets in use. And I’ll only talk about STREAM (i.e. TCP) sockets"
-Socket Programming HOWTO
-https://docs.python.org/3/howto/sockets.html
-
-19.1. socket — Low-level networking interface
-https://docs.python.org/3/library/socket.html
-https://docs.python.org/3/library/socket.html#socket-families
-https://docs.python.org/3/library/socket.html#module-contents
-https://docs.python.org/3/library/socket.html#exceptions
-https://docs.python.org/3/library/socket.html#constants
-https://docs.python.org/3/library/socket.html#functions
-https://docs.python.org/3/library/socket.html#creating-sockets
-https://docs.python.org/3/library/socket.html#socket-objects
-https://docs.python.org/3/library/socket.html#notes-on-socket-timeouts
-https://docs.python.org/3/library/socket.html#timeouts-and-the-connect-method
-https://docs.python.org/3/library/socket.html#timeouts-and-the-accept-method
-https://docs.python.org/3/library/socket.html#example
-
-22.21. socketserver — A framework for network servers
-https://docs.python.org/3/library/socketserver.html
-https://docs.python.org/3/library/socketserver.html#server-creation-notes
-https://docs.python.org/3/library/socketserver.html#server-objects
-https://docs.python.org/3/library/socketserver.html#request-handler-objects
-https://docs.python.org/3/library/socketserver.html#examples
-https://docs.python.org/3/library/socketserver.html#socketserver-tcpserver-example
-https://docs.python.org/3/library/socketserver.html#socketserver-udpserver-example
-https://docs.python.org/3/library/socketserver.html#asynchronous-mixins
-
-19.2. ssl — TLS/SSL wrapper for socket objects
-https://docs.python.org/3/library/ssl.html
-https://docs.python.org/3/library/ssl.html#functions-constants-and-exceptions
-https://docs.python.org/3/library/ssl.html#socket-creation
-https://docs.python.org/3/library/ssl.html#context-creation
-https://docs.python.org/3/library/ssl.html#exceptions
-https://docs.python.org/3/library/ssl.html#random-generation
-https://docs.python.org/3/library/ssl.html#certificate-handling
-https://docs.python.org/3/library/ssl.html#constants
-https://docs.python.org/3/library/ssl.html#ssl-sockets
-https://docs.python.org/3/library/ssl.html#ssl-contexts
-https://docs.python.org/3/library/ssl.html#certificates
-https://docs.python.org/3/library/ssl.html#certificate-chains
-https://docs.python.org/3/library/ssl.html#ca-certificates
-https://docs.python.org/3/library/ssl.html#combined-key-and-certificate
-https://docs.python.org/3/library/ssl.html#self-signed-certificates
-https://docs.python.org/3/library/ssl.html#examples
-https://docs.python.org/3/library/ssl.html#testing-for-ssl-support
-https://docs.python.org/3/library/ssl.html#client-side-operation
-https://docs.python.org/3/library/ssl.html#server-side-operation
-https://docs.python.org/3/library/ssl.html#notes-on-non-blocking-sockets
-https://docs.python.org/3/library/ssl.html#memory-bio-support
-https://docs.python.org/3/library/ssl.html#ssl-session
-https://docs.python.org/3/library/ssl.html#security-considerations
-https://docs.python.org/3/library/ssl.html#best-defaults
-https://docs.python.org/3/library/ssl.html#manual-settings
-https://docs.python.org/3/library/ssl.html#verifying-certificates
-https://docs.python.org/3/library/ssl.html#multi-processing
-https://docs.python.org/3/library/ssl.html#tls-1-3
-https://docs.python.org/3/library/ssl.html#libressl-support
-
-
-## Threading
-
-https://docs.python.org/3/library/threading.html
-https://docs.python.org/3/library/threading.html#thread-local-data
-https://docs.python.org/3/library/threading.html#thread-objects
-https://docs.python.org/3/library/threading.html#lock-objects
-https://docs.python.org/3/library/threading.html#rlock-objects
-https://docs.python.org/3/library/threading.html#condition-objects
-https://docs.python.org/3/library/threading.html#semaphore-objects
-https://docs.python.org/3/library/threading.html#semaphore-example
-https://docs.python.org/3/library/threading.html#event-objects
-https://docs.python.org/3/library/threading.html#timer-objects
-https://docs.python.org/3/library/threading.html#barrier-objects
-https://docs.python.org/3/library/threading.html#using-locks-conditions-and-semaphores-in-the-with-statement
-
-## Multiprocessing
-
-https://docs.python.org/3/library/multiprocessing.html
-https://docs.python.org/3/library/multiprocessing.html#introduction
-https://docs.python.org/3/library/multiprocessing.html#the-process-class
-https://docs.python.org/3/library/multiprocessing.html#contexts-and-start-methods
-https://docs.python.org/3/library/multiprocessing.html#exchanging-objects-between-processes
-https://docs.python.org/3/library/multiprocessing.html#synchronization-between-processes
-https://docs.python.org/3/library/multiprocessing.html#sharing-state-between-processes
-https://docs.python.org/3/library/multiprocessing.html#using-a-pool-of-workers
-https://docs.python.org/3/library/multiprocessing.html#reference
-https://docs.python.org/3/library/multiprocessing.html#process-and-exceptions
-https://docs.python.org/3/library/multiprocessing.html#pipes-and-queues
-https://docs.python.org/3/library/multiprocessing.html#miscellaneous
-https://docs.python.org/3/library/multiprocessing.html#connection-objects
-https://docs.python.org/3/library/multiprocessing.html#synchronization-primitives
-https://docs.python.org/3/library/multiprocessing.html#shared-ctypes-objects
-https://docs.python.org/3/library/multiprocessing.html#managers
-https://docs.python.org/3/library/multiprocessing.html#proxy-objects
-https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.pool
-https://docs.python.org/3/library/multiprocessing.html#authentication-keys
-https://docs.python.org/3/library/multiprocessing.html#logging
-https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.dummy
-https://docs.python.org/3/library/multiprocessing.html#programming-guidelines
-https://docs.python.org/3/library/multiprocessing.html#all-start-methods
-https://docs.python.org/3/library/multiprocessing.html#the-spawn-and-forkserver-start-methods
-https://docs.python.org/3/library/multiprocessing.html#examples
-
-## Concurrent
-
-https://docs.python.org/3/library/concurrent.html
-
-https://docs.python.org/3/library/concurrent.futures.html
-https://docs.python.org/3/library/concurrent.futures.html#executor-objects
-https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor
-https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor-example
-https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor
-https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor-example
-https://docs.python.org/3/library/concurrent.futures.html#future-objects
-https://docs.python.org/3/library/concurrent.futures.html#module-functions
-https://docs.python.org/3/library/concurrent.futures.html#exception-classes
-
-## Sub Process
-
-https://docs.python.org/3/library/subprocess.html
-https://docs.python.org/3/library/subprocess.html#using-the-subprocess-module
-https://docs.python.org/3/library/subprocess.html#frequently-used-arguments
-https://docs.python.org/3/library/subprocess.html#popen-constructor
-https://docs.python.org/3/library/subprocess.html#exceptions
-https://docs.python.org/3/library/subprocess.html#security-considerations
-https://docs.python.org/3/library/subprocess.html#popen-objects
-https://docs.python.org/3/library/subprocess.html#windows-popen-helpers
-https://docs.python.org/3/library/subprocess.html#windows-constants
-https://docs.python.org/3/library/subprocess.html#older-high-level-api
-https://docs.python.org/3/library/subprocess.html#replacing-older-functions-with-the-subprocess-module
-https://docs.python.org/3/library/subprocess.html#replacing-bin-sh-shell-backquote
-https://docs.python.org/3/library/subprocess.html#replacing-shell-pipeline
-https://docs.python.org/3/library/subprocess.html#replacing-os-system
-https://docs.python.org/3/library/subprocess.html#replacing-the-os-spawn-family
-https://docs.python.org/3/library/subprocess.html#replacing-os-popen-os-popen2-os-popen3
-https://docs.python.org/3/library/subprocess.html#replacing-functions-from-the-popen2-module
-https://docs.python.org/3/library/subprocess.html#legacy-shell-invocation-functions
-https://docs.python.org/3/library/subprocess.html#notes
-https://docs.python.org/3/library/subprocess.html#converting-an-argument-sequence-to-a-string-on-windows
-
-
 ## Data Structures and Algorithms
-
-Data Structures- Linear
-* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
-* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
-* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
-* Vectors/Arraylists 
-
-* Trees, Tries, & Graphs
-* [Heap (tree) Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-* [Trie Wikipedia](https://en.wikipedia.org/wiki/Trie)
-
-Data Structures- Hash
-* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
-
-Algorithms- Search
-* [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
-* [Depth-First Search Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
-* [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
-
-Algorithms- Sort
-* [Merge Sort Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
-* [Quicksort Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
-
-Concepts- Memory (Stack vs. Heap)
-* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-
 
 <!--
 11.7. Tools for Working with Lists
@@ -2732,3 +2313,389 @@ https://docs.python.org/3/library/shutil.html#rmtree-example
 https://docs.python.org/3/library/shutil.html#archiving-operations
 https://docs.python.org/3/library/shutil.html#archiving-example
 https://docs.python.org/3/library/shutil.html#querying-the-size-of-the-output-terminal
+
+## I/O and Async
+
+19.3. select — Waiting for I/O completion
+19.4. selectors — High-level I/O multiplexing
+19.9. mmap — Memory-mapped file support
+
+https://docs.python.org/3/library/select.html
+https://docs.python.org/3/library/select.html#dev-poll-polling-objects
+https://docs.python.org/3/library/select.html#edge-and-level-trigger-polling-epoll-objects
+https://docs.python.org/3/library/select.html#polling-objects
+https://docs.python.org/3/library/select.html#kqueue-objects
+https://docs.python.org/3/library/select.html#kevent-objects
+
+https://docs.python.org/3/library/selectors.html
+https://docs.python.org/3/library/selectors.html#introduction
+https://docs.python.org/3/library/selectors.html#classes
+https://docs.python.org/3/library/selectors.html#examples
+
+https://docs.python.org/3/library/mmap.html
+
+
+## Concurrent Execution
+
+18. contextvars — Context Variables
+18.1. Context Variables
+18.2. Manual Context Management
+18.3. asyncio support
+
+https://docs.python.org/3/library/contextvars.html
+https://docs.python.org/3/library/contextvars.html#context-variables
+https://docs.python.org/3/library/contextvars.html#manual-context-management
+https://docs.python.org/3/library/contextvars.html#asyncio-support
+
+## I/O
+
+"Streams are high-level async/await-ready primitives to work with network connections. Streams allow sending and receiving data without using callbacks or low-level protocols and transports."
+
+16.2. io — Core tools for working with streams
+https://docs.python.org/3/library/io.html
+https://docs.python.org/3/library/io.html#overview
+https://docs.python.org/3/library/io.html#text-i-o
+https://docs.python.org/3/library/io.html#binary-i-o
+https://docs.python.org/3/library/io.html#raw-i-o
+https://docs.python.org/3/library/io.html#high-level-module-interface
+https://docs.python.org/3/library/io.html#in-memory-streams
+https://docs.python.org/3/library/io.html#class-hierarchy
+https://docs.python.org/3/library/io.html#i-o-base-classes
+https://docs.python.org/3/library/io.html#raw-file-i-o
+https://docs.python.org/3/library/io.html#buffered-streams
+https://docs.python.org/3/library/io.html#id1
+https://docs.python.org/3/library/io.html#performance
+https://docs.python.org/3/library/io.html#id2
+https://docs.python.org/3/library/io.html#id3
+https://docs.python.org/3/library/io.html#multi-threading
+https://docs.python.org/3/library/io.html#reentrancy
+
+
+## Async
+
+17. Concurrent Execution
+17.1. threading — Thread-based parallelism
+17.2. multiprocessing — Process-based parallelism
+17.3. The concurrent package
+17.4. concurrent.futures — Launching parallel tasks
+17.5. subprocess — Subprocess management
+17.6. sched — Event scheduler
+17.7. queue — A synchronized queue class
+17.8. _thread — Low-level threading API
+17.9. _dummy_thread — Drop-in replacement for the _thread module
+17.10. dummy_threading — Drop-in replacement for the threading module
+
+19. Interprocess Communication and Networking
+19.1. socket — Low-level networking interface
+19.2. ssl — TLS/SSL wrapper for socket objects
+19.3. select — Waiting for I/O completion
+19.4. selectors — High-level I/O multiplexing
+
+19.9. mmap — Memory-mapped file support
+
+
+11.4. Multi-threading
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/threading.html#module-threading
+
+https://docs.python.org/3/library/sched.html
+https://docs.python.org/3/library/sched.html#scheduler-objects
+
+https://docs.python.org/3/library/queue.html
+https://docs.python.org/3/library/queue.html#queue-objects
+https://docs.python.org/3/library/queue.html#simplequeue-objects
+
+
+
+## Async
+
+https://docs.python.org/3/library/asyncio.html
+https://docs.python.org/3/tutorial/stdlib2.html#multi-threading
+https://docs.python.org/3/library/multiprocessing.html
+
+https://docs.python.org/3/library/ipc.html
+
+https://docs.python.org/3/library/socket.html
+https://docs.python.org/3/library/concurrency.html
+https://docs.python.org/3/library/threading.html
+
+General
+18. Interprocess Communication and Networking
+
+18.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
+
+11.4. Multi-threading
+17.2. multiprocessing — Process-based parallelism
+https://docs.python.org/3/library/threading.html | threading — Thread-based parallelism — Python 3.7.2 documentation
+
+17. Concurrent Execution
+17.1. threading — Thread-based parallelism
+17.7. queue — A synchronized queue class
+
+17.3. The concurrent package
+https://docs.python.org/3/library/concurrent.html
+17.4. concurrent.futures — Launching parallel tasks
+https://docs.python.org/3/library/concurrent.futures.html
+17.5. subprocess — Subprocess management
+https://docs.python.org/3/library/subprocess.html
+17.6. sched — Event scheduler
+https://docs.python.org/3/library/sched.html
+
+17.8. dummy_threading — Drop-in replacement for the threading module
+https://docs.python.org/3/library/dummy_threading.html
+17.9. _thread — Low-level threading API
+https://docs.python.org/3/library/_thread.html
+17.10. _dummy_thread — Drop-in replacement for the _thread module
+https://docs.python.org/3/library/_dummy_thread.html
+
+
+
+## Async
+
+19.5. asyncio — Asynchronous I/O, event loop, coroutines and tasks
+19.6. asyncore — Asynchronous socket handler
+19.7. asynchat — Asynchronous socket command/response handler
+19.8. signal — Set handlers for asynchronous events
+
+https://docs.python.org/3/library/asyncio.html
+
+https://docs.python.org/3/library/asyncio-eventloop.html#base-event-loop
+https://docs.python.org/3/library/asyncio-eventloop.html#run-an-event-loop
+https://docs.python.org/3/library/asyncio-eventloop.html#calls
+https://docs.python.org/3/library/asyncio-eventloop.html#delayed-calls
+https://docs.python.org/3/library/asyncio-eventloop.html#futures
+https://docs.python.org/3/library/asyncio-eventloop.html#tasks
+https://docs.python.org/3/library/asyncio-eventloop.html#creating-connections
+https://docs.python.org/3/library/asyncio-eventloop.html#creating-listening-connections
+https://docs.python.org/3/library/asyncio-eventloop.html#file-transferring
+https://docs.python.org/3/library/asyncio-eventloop.html#tls-upgrade
+https://docs.python.org/3/library/asyncio-eventloop.html#watch-file-descriptors
+https://docs.python.org/3/library/asyncio-eventloop.html#low-level-socket-operations
+https://docs.python.org/3/library/asyncio-eventloop.html#resolve-host-name
+https://docs.python.org/3/library/asyncio-eventloop.html#connect-pipes
+https://docs.python.org/3/library/asyncio-eventloop.html#unix-signals
+https://docs.python.org/3/library/asyncio-eventloop.html#executor
+https://docs.python.org/3/library/asyncio-eventloop.html#error-handling-api
+https://docs.python.org/3/library/asyncio-eventloop.html#debug-mode
+https://docs.python.org/3/library/asyncio-eventloop.html#server
+https://docs.python.org/3/library/asyncio-eventloop.html#handle
+https://docs.python.org/3/library/asyncio-eventloop.html#sendfilenotavailableerror
+https://docs.python.org/3/library/asyncio-eventloop.html#event-loop-examples
+https://docs.python.org/3/library/asyncio-eventloops.html#event-loops
+https://docs.python.org/3/library/asyncio-eventloops.html#event-loop-functions
+https://docs.python.org/3/library/asyncio-eventloops.html#available-event-loops
+https://docs.python.org/3/library/asyncio-eventloops.html#platform-support
+https://docs.python.org/3/library/asyncio-eventloops.html#event-loop-policies-and-the-default-policy
+https://docs.python.org/3/library/asyncio-eventloops.html#event-loop-policy-interface
+https://docs.python.org/3/library/asyncio-eventloops.html#access-to-the-global-loop-policy
+https://docs.python.org/3/library/asyncio-eventloops.html#customizing-the-event-loop-policy
+
+https://docs.python.org/3/library/asyncio-task.html#tasks-and-coroutines
+https://docs.python.org/3/library/asyncio-task.html#coroutines
+https://docs.python.org/3/library/asyncio-task.html#invalidstateerror
+https://docs.python.org/3/library/asyncio-task.html#timeouterror
+https://docs.python.org/3/library/asyncio-task.html#future
+https://docs.python.org/3/library/asyncio-task.html#task
+https://docs.python.org/3/library/asyncio-task.html#task-functions
+
+https://docs.python.org/3/library/asyncio-protocol.html#transports-and-protocols-callback-based-api
+https://docs.python.org/3/library/asyncio-protocol.html#transports
+https://docs.python.org/3/library/asyncio-protocol.html#protocols
+https://docs.python.org/3/library/asyncio-protocol.html#protocol-examples
+https://docs.python.org/3/library/asyncio-stream.html#streams-coroutine-based-api
+https://docs.python.org/3/library/asyncio-stream.html#stream-functions
+https://docs.python.org/3/library/asyncio-stream.html#streamreader
+https://docs.python.org/3/library/asyncio-stream.html#streamwriter
+https://docs.python.org/3/library/asyncio-stream.html#streamreaderprotocol
+https://docs.python.org/3/library/asyncio-stream.html#incompletereaderror
+https://docs.python.org/3/library/asyncio-stream.html#limitoverrunerror
+https://docs.python.org/3/library/asyncio-stream.html#stream-examples
+https://docs.python.org/3/library/asyncio-stream.html#tcp-echo-client-using-streams
+https://docs.python.org/3/library/asyncio-subprocess.html#subprocess
+https://docs.python.org/3/library/asyncio-subprocess.html#windows-event-loop
+https://docs.python.org/3/library/asyncio-subprocess.html#create-a-subprocess-high-level-api-using-process
+https://docs.python.org/3/library/asyncio-subprocess.html#create-a-subprocess-low-level-api-using-subprocess-popen
+https://docs.python.org/3/library/asyncio-subprocess.html#constants
+https://docs.python.org/3/library/asyncio-subprocess.html#process
+https://docs.python.org/3/library/asyncio-subprocess.html#subprocess-and-threads
+https://docs.python.org/3/library/asyncio-subprocess.html#subprocess-examples
+https://docs.python.org/3/library/asyncio-sync.html#synchronization-primitives
+https://docs.python.org/3/library/asyncio-sync.html#lock
+https://docs.python.org/3/library/asyncio-sync.html#event
+https://docs.python.org/3/library/asyncio-sync.html#condition
+https://docs.python.org/3/library/asyncio-sync.html#semaphore
+https://docs.python.org/3/library/asyncio-sync.html#boundedsemaphore
+https://docs.python.org/3/library/asyncio-sync.html#using-locks-conditions-and-semaphores-in-the-async-with-statement
+https://docs.python.org/3/library/asyncio-queue.html#queues
+https://docs.python.org/3/library/asyncio-queue.html#queue
+https://docs.python.org/3/library/asyncio-queue.html#priorityqueue
+https://docs.python.org/3/library/asyncio-queue.html#lifoqueue
+https://docs.python.org/3/library/asyncio-queue.html#exceptions
+https://docs.python.org/3/library/asyncio-dev.html#develop-with-asyncio
+https://docs.python.org/3/library/asyncio-dev.html#debug-mode-of-asyncio
+https://docs.python.org/3/library/asyncio-dev.html#cancellation
+https://docs.python.org/3/library/asyncio-dev.html#concurrency-and-multithreading
+https://docs.python.org/3/library/asyncio-dev.html#handle-blocking-functions-correctly
+https://docs.python.org/3/library/asyncio-dev.html#logging
+https://docs.python.org/3/library/asyncio-dev.html#detect-coroutine-objects-never-scheduled
+https://docs.python.org/3/library/asyncio-dev.html#detect-exceptions-never-consumed
+https://docs.python.org/3/library/asyncio-dev.html#chain-coroutines-correctly
+https://docs.python.org/3/library/asyncio-dev.html#pending-task-destroyed
+https://docs.python.org/3/library/asyncio-dev.html#close-transports-and-event-loops
+
+https://docs.python.org/3/library/asyncore.html
+https://docs.python.org/3/library/asyncore.html#asyncore-example-basic-http-client
+https://docs.python.org/3/library/asyncore.html#asyncore-example-basic-echo-server
+
+https://docs.python.org/3/library/asynchat.html
+https://docs.python.org/3/library/asynchat.html#asynchat-example
+
+https://docs.python.org/3/library/signal.html
+https://docs.python.org/3/library/signal.html#general-rules
+https://docs.python.org/3/library/signal.html#execution-of-python-signal-handlers
+https://docs.python.org/3/library/signal.html#signals-and-threads
+https://docs.python.org/3/library/signal.html#module-contents
+https://docs.python.org/3/library/signal.html#example
+
+
+## Sockets
+
+"I’m only going to talk about INET (i.e. IPv4) sockets, but they account for at least 99% of the sockets in use. And I’ll only talk about STREAM (i.e. TCP) sockets"
+Socket Programming HOWTO
+https://docs.python.org/3/howto/sockets.html
+
+19.1. socket — Low-level networking interface
+https://docs.python.org/3/library/socket.html
+https://docs.python.org/3/library/socket.html#socket-families
+https://docs.python.org/3/library/socket.html#module-contents
+https://docs.python.org/3/library/socket.html#exceptions
+https://docs.python.org/3/library/socket.html#constants
+https://docs.python.org/3/library/socket.html#functions
+https://docs.python.org/3/library/socket.html#creating-sockets
+https://docs.python.org/3/library/socket.html#socket-objects
+https://docs.python.org/3/library/socket.html#notes-on-socket-timeouts
+https://docs.python.org/3/library/socket.html#timeouts-and-the-connect-method
+https://docs.python.org/3/library/socket.html#timeouts-and-the-accept-method
+https://docs.python.org/3/library/socket.html#example
+
+22.21. socketserver — A framework for network servers
+https://docs.python.org/3/library/socketserver.html
+https://docs.python.org/3/library/socketserver.html#server-creation-notes
+https://docs.python.org/3/library/socketserver.html#server-objects
+https://docs.python.org/3/library/socketserver.html#request-handler-objects
+https://docs.python.org/3/library/socketserver.html#examples
+https://docs.python.org/3/library/socketserver.html#socketserver-tcpserver-example
+https://docs.python.org/3/library/socketserver.html#socketserver-udpserver-example
+https://docs.python.org/3/library/socketserver.html#asynchronous-mixins
+
+19.2. ssl — TLS/SSL wrapper for socket objects
+https://docs.python.org/3/library/ssl.html
+https://docs.python.org/3/library/ssl.html#functions-constants-and-exceptions
+https://docs.python.org/3/library/ssl.html#socket-creation
+https://docs.python.org/3/library/ssl.html#context-creation
+https://docs.python.org/3/library/ssl.html#exceptions
+https://docs.python.org/3/library/ssl.html#random-generation
+https://docs.python.org/3/library/ssl.html#certificate-handling
+https://docs.python.org/3/library/ssl.html#constants
+https://docs.python.org/3/library/ssl.html#ssl-sockets
+https://docs.python.org/3/library/ssl.html#ssl-contexts
+https://docs.python.org/3/library/ssl.html#certificates
+https://docs.python.org/3/library/ssl.html#certificate-chains
+https://docs.python.org/3/library/ssl.html#ca-certificates
+https://docs.python.org/3/library/ssl.html#combined-key-and-certificate
+https://docs.python.org/3/library/ssl.html#self-signed-certificates
+https://docs.python.org/3/library/ssl.html#examples
+https://docs.python.org/3/library/ssl.html#testing-for-ssl-support
+https://docs.python.org/3/library/ssl.html#client-side-operation
+https://docs.python.org/3/library/ssl.html#server-side-operation
+https://docs.python.org/3/library/ssl.html#notes-on-non-blocking-sockets
+https://docs.python.org/3/library/ssl.html#memory-bio-support
+https://docs.python.org/3/library/ssl.html#ssl-session
+https://docs.python.org/3/library/ssl.html#security-considerations
+https://docs.python.org/3/library/ssl.html#best-defaults
+https://docs.python.org/3/library/ssl.html#manual-settings
+https://docs.python.org/3/library/ssl.html#verifying-certificates
+https://docs.python.org/3/library/ssl.html#multi-processing
+https://docs.python.org/3/library/ssl.html#tls-1-3
+https://docs.python.org/3/library/ssl.html#libressl-support
+
+
+## Threading
+
+https://docs.python.org/3/library/threading.html
+https://docs.python.org/3/library/threading.html#thread-local-data
+https://docs.python.org/3/library/threading.html#thread-objects
+https://docs.python.org/3/library/threading.html#lock-objects
+https://docs.python.org/3/library/threading.html#rlock-objects
+https://docs.python.org/3/library/threading.html#condition-objects
+https://docs.python.org/3/library/threading.html#semaphore-objects
+https://docs.python.org/3/library/threading.html#semaphore-example
+https://docs.python.org/3/library/threading.html#event-objects
+https://docs.python.org/3/library/threading.html#timer-objects
+https://docs.python.org/3/library/threading.html#barrier-objects
+https://docs.python.org/3/library/threading.html#using-locks-conditions-and-semaphores-in-the-with-statement
+
+## Multiprocessing
+
+https://docs.python.org/3/library/multiprocessing.html
+https://docs.python.org/3/library/multiprocessing.html#introduction
+https://docs.python.org/3/library/multiprocessing.html#the-process-class
+https://docs.python.org/3/library/multiprocessing.html#contexts-and-start-methods
+https://docs.python.org/3/library/multiprocessing.html#exchanging-objects-between-processes
+https://docs.python.org/3/library/multiprocessing.html#synchronization-between-processes
+https://docs.python.org/3/library/multiprocessing.html#sharing-state-between-processes
+https://docs.python.org/3/library/multiprocessing.html#using-a-pool-of-workers
+https://docs.python.org/3/library/multiprocessing.html#reference
+https://docs.python.org/3/library/multiprocessing.html#process-and-exceptions
+https://docs.python.org/3/library/multiprocessing.html#pipes-and-queues
+https://docs.python.org/3/library/multiprocessing.html#miscellaneous
+https://docs.python.org/3/library/multiprocessing.html#connection-objects
+https://docs.python.org/3/library/multiprocessing.html#synchronization-primitives
+https://docs.python.org/3/library/multiprocessing.html#shared-ctypes-objects
+https://docs.python.org/3/library/multiprocessing.html#managers
+https://docs.python.org/3/library/multiprocessing.html#proxy-objects
+https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.pool
+https://docs.python.org/3/library/multiprocessing.html#authentication-keys
+https://docs.python.org/3/library/multiprocessing.html#logging
+https://docs.python.org/3/library/multiprocessing.html#module-multiprocessing.dummy
+https://docs.python.org/3/library/multiprocessing.html#programming-guidelines
+https://docs.python.org/3/library/multiprocessing.html#all-start-methods
+https://docs.python.org/3/library/multiprocessing.html#the-spawn-and-forkserver-start-methods
+https://docs.python.org/3/library/multiprocessing.html#examples
+
+## Concurrent
+
+https://docs.python.org/3/library/concurrent.html
+
+https://docs.python.org/3/library/concurrent.futures.html
+https://docs.python.org/3/library/concurrent.futures.html#executor-objects
+https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor
+https://docs.python.org/3/library/concurrent.futures.html#threadpoolexecutor-example
+https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor
+https://docs.python.org/3/library/concurrent.futures.html#processpoolexecutor-example
+https://docs.python.org/3/library/concurrent.futures.html#future-objects
+https://docs.python.org/3/library/concurrent.futures.html#module-functions
+https://docs.python.org/3/library/concurrent.futures.html#exception-classes
+
+## Sub Process
+
+https://docs.python.org/3/library/subprocess.html
+https://docs.python.org/3/library/subprocess.html#using-the-subprocess-module
+https://docs.python.org/3/library/subprocess.html#frequently-used-arguments
+https://docs.python.org/3/library/subprocess.html#popen-constructor
+https://docs.python.org/3/library/subprocess.html#exceptions
+https://docs.python.org/3/library/subprocess.html#security-considerations
+https://docs.python.org/3/library/subprocess.html#popen-objects
+https://docs.python.org/3/library/subprocess.html#windows-popen-helpers
+https://docs.python.org/3/library/subprocess.html#windows-constants
+https://docs.python.org/3/library/subprocess.html#older-high-level-api
+https://docs.python.org/3/library/subprocess.html#replacing-older-functions-with-the-subprocess-module
+https://docs.python.org/3/library/subprocess.html#replacing-bin-sh-shell-backquote
+https://docs.python.org/3/library/subprocess.html#replacing-shell-pipeline
+https://docs.python.org/3/library/subprocess.html#replacing-os-system
+https://docs.python.org/3/library/subprocess.html#replacing-the-os-spawn-family
+https://docs.python.org/3/library/subprocess.html#replacing-os-popen-os-popen2-os-popen3
+https://docs.python.org/3/library/subprocess.html#replacing-functions-from-the-popen2-module
+https://docs.python.org/3/library/subprocess.html#legacy-shell-invocation-functions
+https://docs.python.org/3/library/subprocess.html#notes
+https://docs.python.org/3/library/subprocess.html#converting-an-argument-sequence-to-a-string-on-windows
