@@ -1,6 +1,29 @@
 # Python and Django Tools and Deployment
 
 <!--
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+https://devchecklists.com
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+-->
+
+<!--
+## F-Strings
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+-->
+
+<!--
 Blog Posts
 https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta Blog
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
@@ -711,22 +734,6 @@ https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build 
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
 -->
 
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-<!--
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
-
 ## Eldarion and Pinax
 
 Package Tools
@@ -863,6 +870,64 @@ https://black.readthedocs.io/en/stable/installation_and_usage.html | Installatio
 https://github.com/bots-for-humanity/black-out
 
 https://black.now.sh/ | Black Playground
+-->
+
+## Static Typing
+
+Duck Typing
+* [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+<!--
+https://realpython.com/python-type-checking/
+
+https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
+https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
+-->
+
+Type Hints
+* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
+* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
+
+Static Typing Tools
+* [Python Mypy GitHub](https://github.com/python/mypy)
+* [Python Typeshed GitHub](https://github.com/python/typeshed)
+* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
+* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
+* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
+* [Google: Pytype GitHub](https://github.com/google/pytype)
+* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
+* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
+
+Django Static Typing Tools
+* [Typed Django](https://github.com/typeddjango)
+* [DEP Draft for Django Type Checking](https://github.com/django/deps/pull/65)
+
+<!--
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
+
+http://mypy-lang.org/
+https://github.com/machinalis/mypy-django
+
+machine verified documentation
+https://twitter.com/pganssle/status/1180224777350520835
+
+https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+
+Guido- Type Annotations
+https://us.pycon.org/2016/schedule/presentation/2266/
+
+http://mypy.readthedocs.io
 -->
 
 ## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
