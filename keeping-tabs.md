@@ -1,8 +1,40 @@
 # Keeping Tabs
 
+## Interesting Lists
+
+<!--
+## People and Places
+
+https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
+
+https://freestateforge.com/map
+https://twitter.com/FreeStateForge/status/1398424918933520386 | Free State Forge on Twitter: "A lot has changed in the last year &amp; Free State Forge would like to know how KS/KC tech startups have weathered the storm. If you know of a regional startup that has closed or launched in the last 12 months, we'd like to hear about it. https://t.co/PcDc3Wgjii https://t.co/WpynxhrNbX" / Twitter
+
+https://twitter.com/i/lists/1216283681167265792 | @Scobleizer/Top Shelf in Tech (1) on Twitter / Twitter
+
+https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
+
+People
+https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
+
+Southern California Tech Industry
+https://twitter.com/Nate_somewhere/status/1218962488189808640
+https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
+
+Miami/Bay Area
+https://golden.com/lists/investors-who-left-the-sf-bay-area-for-miami-KAMD9Y | Investors who left the SF bay area for Miami | Golden
+https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter: "Welcoming over 300 engineers to Miami." / Twitter
+
+https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
+-->
+
 ## Regional
 
 <!--
+https://thechungreport.com/ | The Chung Report
+
+http://devict.org/survey/ | Salary Survey · devICT
+
 https://twitter.com/Groover_Labs/
 
 https://twitter.com/WichitaCF
