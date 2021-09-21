@@ -3,6 +3,8 @@
 ## Interesting Lists
 
 <!--
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+
 ## People and Places
 
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
@@ -32,6 +34,9 @@ https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitte
 
 <!--
 https://thechungreport.com/ | The Chung Report
+
+Wichita City Council
+https://www.youtube.com/watch?v=SIQe5TC63rE | Wichita City Council Meeting March 3, 2020 - YouTube
 
 http://devict.org/survey/ | Salary Survey · devICT
 
@@ -117,6 +122,9 @@ https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) S
 ## Events
 
 <!--
+Kansas Conferences
+kansas gis conference - Google Search
+
 https://www.meetup.com/pro/python-software-foundation-meetups/
 https://www.python.org/events/ | Our Events | Python.org
 https://pycon.org/#calendar | Join us at PyCon
