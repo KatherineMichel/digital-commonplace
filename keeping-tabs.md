@@ -1,10 +1,19 @@
 # Keeping Tabs
 
-## Interesting Lists
-
 <!--
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
 
+Slack
+https://slack.com/signin/find | Find your workspace | Slack
+
+Workspaces
+https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/ | Your Workspaces | Slack
+https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
+-->
+
+## Interesting Lists
+
+<!--
 ## People and Places
 
 https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
