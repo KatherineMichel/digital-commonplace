@@ -48,6 +48,12 @@ https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Us
 
 
 <!--
+Speed Tools
+https://pypy.org/ | PyPy - Welcome to PyPy
+https://cython.org/ | Cython: C-Extensions for Python
+https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
+https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
+
 Conda PyPy
 https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
 https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
