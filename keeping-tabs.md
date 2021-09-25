@@ -122,24 +122,50 @@ Background Processing
 * https://docs.python.org/3/library/asyncio.html
 -->
 
+## Django News
 
-## Django and Python News
+Django Blog and Announcements
+* [Django Blog](https://www.djangoproject.com/weblog/)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+New Releases
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+## Python News
+
+General
+* [Downloads](https://www.python.org/downloads)
+* [What's New](https://docs.python.org/dev/whatsnew/)
+
+PEPs
+* [PEP Index](https://www.python.org/dev/peps)
+
 
 <!--
-Peps
-https://www.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org
+Roadmaps
+https://code.djangoproject.com/wiki
 
-https://blog.python.org/
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
+
+Release
+* [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+
 
 https://www.python.org/download/pre-releases/
 
-What's New
-https://docs.python.org/3/whatsnew/index.html
-
-https://docs.python.org/3.10/whatsnew/3.10.html | What’s New In Python 3.10 — Python 3.10.0b1 documentation
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-
-https://www.djangoproject.com/weblog/
 https://www.djangoproject.com/community/ | Django Community | Django
 
 
@@ -152,10 +178,29 @@ https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
 
+
+Release notes
+https://docs.python.org/3.10/whatsnew/3.10.html | What’s New In Python 3.10 — Python 3.10.0b1 documentation
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+https://docs.python.org/3.8/whatsnew/3.8.html
+https://docs.python.org/3.8/whatsnew/changelog.html#changelog
+https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
+https://docs.python.org/3/whatsnew/
+https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+
 Roundup
+https://realpython.com/python38-new-features/
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
 https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
 https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+Encode
+http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
+http://www.encode.io/reports/july-2017
+https://www.encode.io/reports/march-2020 | March 2020 - Encode
+https://www.encode.io/reports/april-2020
+https://twitter.com/_tomchristie/status/1256210735056785409
 -->
 
 <!--
@@ -165,6 +210,28 @@ https://django-news.com/ | Django News
 https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
 
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
+-->
+
+## News
+
+* [Django News (Jeff and William S. Vincent)](https://django-news.com/) and [Django Store](https://django.threadless.com/)
+* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
+
+
+<!--
+https://twitter.com/webology/status/1205503566745493505
+
+https://news.python.sc/ | Pythonic News
+
+Python Insider
+https://blog.python.org
+https://pythoninsider.blogspot.com/
+https://discuss.python.org Discussions on Python.org
+-->
+
+<!--
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
 -->
 
 ## Git News
