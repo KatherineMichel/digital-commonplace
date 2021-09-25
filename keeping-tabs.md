@@ -53,17 +53,6 @@ https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Y
 
 <!--
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-Kansas Conferences
-kansas gis conference - Google Search
-
-https://www.meetup.com/pro/python-software-foundation-meetups/
-https://www.python.org/events/ | Our Events | Python.org
-https://pycon.org/#calendar | Join us at PyCon
-
-https://us.pycon.org/2020/schedule/talks/
-https://techyaks.com/python-year-tytop.html
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 -->
 
 ## Stack
@@ -122,7 +111,17 @@ Background Processing
 * https://docs.python.org/3/library/asyncio.html
 -->
 
+<!--
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+-->
+
 ## Django News
+
+Django News
+* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
+* [Django Store](https://django.threadless.com/)
+* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
 
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
@@ -130,6 +129,9 @@ Django Blog and Announcements
 
 New Releases
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+
+Roadmaps
+* [Django Roadmaps](https://code.djangoproject.com/wiki)
 
 Supported Versions
 * [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
@@ -139,18 +141,27 @@ DEPs (Django Enhancement Proposals)
 
 ## Python News
 
+New Releases and Pre-Releases
+* [Python Downloads](https://www.python.org/downloads)
+* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
+
 General
-* [Downloads](https://www.python.org/downloads)
 * [What's New](https://docs.python.org/dev/whatsnew/)
+* [What's New Python 3](https://docs.python.org/3/whatsnew/)
+* [Python Discuss](https://discuss.python.org)
+* [Python Insider](https://pythoninsider.blogspot.com/)
 
 PEPs
 * [PEP Index](https://www.python.org/dev/peps)
 
 
 <!--
-Roadmaps
-https://code.djangoproject.com/wiki
+https://twitter.com/webology/status/1205503566745493505
 
+https://news.python.sc/ | Pythonic News
+-->
+
+<!--
 https://python-release-cycle.glitch.me/ | Python Release Cycle
 
 https://django-release-cycle.glitch.me/
@@ -163,9 +174,6 @@ Release
 * [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
 
 
-
-https://www.python.org/download/pre-releases/
-
 https://www.djangoproject.com/community/ | Django Community | Django
 
 
@@ -173,20 +181,12 @@ https://blog.jetbrains.com/pycharm/
 
 
 https://www.python.org/downloads/release/python-390a5/
-https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
 
 
-Release notes
-https://docs.python.org/3.10/whatsnew/3.10.html | What’s New In Python 3.10 — Python 3.10.0b1 documentation
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
-https://docs.python.org/3.8/whatsnew/3.8.html
-https://docs.python.org/3.8/whatsnew/changelog.html#changelog
-https://docs.python.org/3/whatsnew/3.6.html | What’s New In Python 3.6 — Python 3.8.1 documentation
-https://docs.python.org/3/whatsnew/
-https://docs.python.org/3/whatsnew/index.html | What’s New in Python — Python 3.8.1 documentation
+## Non-Official
 
 Roundup
 https://realpython.com/python38-new-features/
@@ -197,41 +197,7 @@ https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1
 
 Encode
 http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-http://www.encode.io/reports/july-2017
-https://www.encode.io/reports/march-2020 | March 2020 - Encode
-https://www.encode.io/reports/april-2020
 https://twitter.com/_tomchristie/status/1256210735056785409
--->
-
-<!--
-Django News
-Important
-https://django-news.com/ | Django News
-https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
-
-https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
--->
-
-## News
-
-* [Django News (Jeff and William S. Vincent)](https://django-news.com/) and [Django Store](https://django.threadless.com/)
-* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
-
-
-<!--
-https://twitter.com/webology/status/1205503566745493505
-
-https://news.python.sc/ | Pythonic News
-
-Python Insider
-https://blog.python.org
-https://pythoninsider.blogspot.com/
-https://discuss.python.org Discussions on Python.org
--->
-
-<!--
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
 -->
 
 ## Git News
@@ -273,6 +239,7 @@ PyLadies
 Tech Events
 * [DevICT Events](https://www.meetup.com/devict/events/)
 * [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
 * [Startup Grind Events](https://www.startupgrind.com/events)
 * [Groover Labs Events](https://www.grooverlabs.org/events)
 
