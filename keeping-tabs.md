@@ -1,8 +1,6 @@
 # Keeping Tabs
 
 <!--
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
-
 Slack
 https://slack.com/signin/find | Find your workspace | Slack
 
@@ -39,125 +37,6 @@ https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter:
 https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
 -->
 
-## Regional
-
-<!--
-https://thechungreport.com/ | The Chung Report
-
-Wichita City Council
-https://www.youtube.com/watch?v=SIQe5TC63rE | Wichita City Council Meeting March 3, 2020 - YouTube
-
-http://devict.org/survey/ | Salary Survey · devICT
-
-https://twitter.com/Groover_Labs/
-
-https://twitter.com/WichitaCF
-
-Wichita Events
-
-Hutchinson News
-https://www.hutchnews.com/
-
-Business Journal
-https://www.bizjournals.com/wichita/
-https://twitter.com/ICTBiz_BHorwath | Bryan Horwath (@ICTBiz_BHorwath) | Twitter
-
-## Wichita SWE
-
-https://www.facebook.com/events/423530692228364/ | Engineering Expo 2021 | Facebook
-https://www.facebook.com/wichitaswe/
-
-## DevICT
-
-DevICT
-https://www.meetup.com/devict/events/
-
-Library Tech Talks
-https://www.meetup.com/devict/events/khwckrybcfbjb/ | Library Tech Talks: Types are your friends! | Meetup
-
-Game Jam
-https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
-https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
-
-https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
-https://github.com/devict | devICT
-
-## Startup
-
-Startup Grind
-https://www.startupgrind.com/events
-https://www.startupgrind.com/wichita/ | Startup Grind Wichita | Global Community for Entrepreneurs
-
-https://www.startuphutch.com/
-https://www.startuphutch.com/news
-
-## Alumni
-
-https://www.pittstate.edu/alumni/events/index.html
-https://www.facebook.com/groups/LancasterUniversityAlumniLondon/
--->
-
-## Discords
-
-<!--
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
-
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-https://slackin.pyladies.com/
-https://twitter.com/pyladies | PyLadies (@pyladies) / Twitter
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-https://discord.com/invite/t7bHjYQ | Commit Your Code!
--->
-
-## Livestream
-
-<!--
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-## Events
-
-<!--
-Kansas Conferences
-kansas gis conference - Google Search
-
-https://www.meetup.com/pro/python-software-foundation-meetups/
-https://www.python.org/events/ | Our Events | Python.org
-https://pycon.org/#calendar | Join us at PyCon
-
-https://us.pycon.org/2020/schedule/talks/
-https://techyaks.com/python-year-tytop.html
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-
-
-## Speaking Offers
-
-PyLadies Miami
-https://twitter.com/MiamiPyladies/status/1422339310607650823 | PyLadies Miami on Twitter: "@KatiMichel @PyLadiesSWFL Yes!!!" / Twitter
-
-SF Python
-https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
-
-Bay Area Postgres
-https://twitter.com/BayAreaPostgres/status/1389264999114227716 | Bay Area Postgres on Twitter: "Have you always wanted to speak at a conference but weren't sure if you'd be any good at it? Well, why not try it out with us by giving a talk at one of our virtual Meetups? Send us a DM and let us know what you'd like to talk about!" / Twitter
-
-Speaking at Vancouver PyLadies
-https://www.meetup.com/PyLadies-Vancouver/events/273584092/
-https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
--->
 
 ## Django and Python News
 
@@ -214,6 +93,132 @@ GitLab
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
 https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
+-->
+
+## Regional
+
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+### Networking and Events
+
+Society of Women Engineers Wichita Section
+* [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
+
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
+
+Events
+* [DevICT Events](https://www.meetup.com/devict/events/)
+* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Events](https://www.startupgrind.com/events)
+* [Groover Labs Events](https://www.grooverlabs.org/events)
+
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+### DevICT
+
+Coworking Spaces
+* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
+
+Entrepreneurship
+* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
+
+Salary
+* [DevICT Salary Survey](http://devict.org/survey/)
+
+The Chung Report
+* [The Chung Report](https://thechungreport.com/)
+
+### Hutch
+
+* [Startup Hutch](https://www.startuphutch.com/)
+
+
+
+<!--
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+
+Wichita City Council
+https://www.youtube.com/watch?v=SIQe5TC63rE | Wichita City Council Meeting March 3, 2020 - YouTube
+
+https://twitter.com/WichitaCF
+
+Wichita Events
+
+Game Jam
+https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
+https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
+
+https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
+https://github.com/devict | devICT
+-->
+
+
+## Discords
+
+<!--
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+https://discord.com/invite/t7bHjYQ | Commit Your Code!
+-->
+
+## Livestream
+
+<!--
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+## Events
+
+<!--
+Kansas Conferences
+kansas gis conference - Google Search
+
+https://www.meetup.com/pro/python-software-foundation-meetups/
+https://www.python.org/events/ | Our Events | Python.org
+https://pycon.org/#calendar | Join us at PyCon
+
+https://us.pycon.org/2020/schedule/talks/
+https://techyaks.com/python-year-tytop.html
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+
+
+## Speaking Offers
+
+PyLadies Miami
+https://twitter.com/MiamiPyladies/status/1422339310607650823 | PyLadies Miami on Twitter: "@KatiMichel @PyLadiesSWFL Yes!!!" / Twitter
+
+SF Python
+https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
+
+Bay Area Postgres
+https://twitter.com/BayAreaPostgres/status/1389264999114227716 | Bay Area Postgres on Twitter: "Have you always wanted to speak at a conference but weren't sure if you'd be any good at it? Well, why not try it out with us by giving a talk at one of our virtual Meetups? Send us a DM and let us know what you'd like to talk about!" / Twitter
+
+Speaking at Vancouver PyLadies
+https://www.meetup.com/PyLadies-Vancouver/events/273584092/
+https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
 -->
 
 ## News and Product Sites
