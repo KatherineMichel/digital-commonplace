@@ -162,6 +162,30 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
+https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
+
+Simon
+https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
+
+Important
+https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
+https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
+https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
+
+https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
+
+Important!
+https://devguide.python.org/parser/ | Guide of CPython’s Parser - Python Developer's Guide
+https://twitter.com/gjbernat/status/1423034193362182153 | Bernát Gábor on Twitter: "@pyblogsal just published the guide on the python grammar and it's an absolute gem https://t.co/jhHwY4h1pr 👏👏👏" / Twitter
+
+https://github.com/DavidWells/markdown-magic | DavidWells/markdown-magic: 💫  Automatically format markdown files, sync external docs/src code & make better docs
+
+Wharton
+https://twitter.com/FlipperPA/status/1423641131192045576 | Tim A. on Twitter: "Our team @Wharton won an award for the text analytics project we've been hard at work on. I love this shot from the Rocky position! https://t.co/yyxif2pNDW" / Twitter
+-->
+
+
+<!--
 Docs
 https://twitter.com/smc90/status/842965339461763072 | Sonal Chokshi on Twitter: "@stevesi @lawprofblawg @skupor (I adhere to Economist style guide for periods outside v inside for phrases v sentences) //cc @arampell 😂😂😂" / Twitter
 https://www.economist.com/johnson/2010/09/30/style-guide-entry-of-the-week-inverted-commas | Style - Style Guide entry of the week: inverted commas | Johnson | The Economist
