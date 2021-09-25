@@ -86,10 +86,12 @@ Background Processing
 * [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 
+<!--
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 * https://docs.python.org/3/library/asyncio.html
+-->
 
 
 ## Django and Python News
@@ -167,7 +169,7 @@ Society of Women Engineers Wichita Section
 PyLadies
 * [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
 
-Events
+Tech Events
 * [DevICT Events](https://www.meetup.com/devict/events/)
 * [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
 * [Startup Grind Events](https://www.startupgrind.com/events)
@@ -176,6 +178,14 @@ Events
 Alumni
 * [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
 * [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+<!--
+General Events
+
+https://twitter.com/WichitaCF
+
+Wichita Events
+-->
 
 ### DevICT
 
@@ -188,6 +198,9 @@ Entrepreneurship
 Salary
 * [DevICT Salary Survey](http://devict.org/survey/)
 
+City of Wichita
+* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
+
 The Chung Report
 * [The Chung Report](https://thechungreport.com/)
 
@@ -196,19 +209,31 @@ The Chung Report
 * [Startup Hutch](https://www.startuphutch.com/)
 
 
-## Local Competitions and Hackathons
-
+### Art
 
 <!--
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+-->
 
-Wichita City Council
-https://www.youtube.com/watch?v=SIQe5TC63rE | Wichita City Council Meeting March 3, 2020 - YouTube
+## Livestream
 
-https://twitter.com/WichitaCF
+<!--
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
 
-Wichita Events
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
 
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+## Local Competitions and Hackathons
+
+<!--
 Game Jam
 https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
 https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
@@ -218,16 +243,9 @@ https://github.com/devict | devICT
 -->
 
 
-## Discords
+## Accountability
 
 <!--
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-
 What I Shipped
 https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
 
@@ -235,16 +253,6 @@ Shipping Fridays
 https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 
 https://discord.com/invite/t7bHjYQ | Commit Your Code!
--->
-
-## Livestream
-
-<!--
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
 -->
 
 ## Events
