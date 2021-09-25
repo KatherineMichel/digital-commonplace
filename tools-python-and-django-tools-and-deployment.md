@@ -46,6 +46,49 @@ https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta 
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
 -->
 
+
+<!--
+Conda PyPy
+https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
+https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
+
+PyPy
+https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+
+Brython
+https://m.youtube.com/watch?feature=youtu.be&v=VJj-H4we71g
+https://twitter.com/pystar/status/1285754294835322880 | pystar on Twitter: "A Python 3 implementation for client-side web programming. https://t.co/bfOIP0ftX4" / Twitter
+
+Cython
+https://github.com/paulross/NotesOnCython | paulross/NotesOnCython: Some notes on using Cython to increase the performance of Python code.
+
+C-extensions, HPy, EPython
+https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
+"The PEP summarizes the research work I'm doing on CPython C API since 2017 and the changes that me and others made since Python 3.7 towards an opaque C API. It is also a collaboration with developers of PyPy, HPy, Rust-CPython and many others! Thanks to everyone who helped me!"
+https://twitter.com/VictorStinner/status/1248666328984059905
+"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
+https://twitter.com/trebor74hr/status/1252729526540472323
+https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
+https://twitter.com/teoliphant/status/1217611221396082695
+
+Intel distribution for Python
+https://twitter.com/pwang/status/1218212838562463745 | Peter Wang on Twitter: "Another really cool example of what can be done with Python and Anaconda! https://t.co/EYf2TyRf8q" / Twitter
+
+https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
+https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
+
+Python Language Server
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+https://microsoft.github.io/language-server-protocol/specification
+https://github.com/Microsoft/python-language-server
+https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
+
+http://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
+
+https://github.com/taichi-dev/taichi
+-->
+
+
 <!--
 ## Browser, Extensions, Bindings
 
@@ -57,6 +100,12 @@ https://github.com/brettcannon/python-launcher/releases/tag/v0.16.0 | Release v0
 
 https://github.com/pypa/manylinux
 https://github.com/pypa/python-manylinux-demo
+
+
+https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux
+https://github.com/RalfG/python-wheels-manylinux-build
+https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
+
 
 Cuda Python
 https://developer.nvidia.com/cuda-toolkit
@@ -72,8 +121,12 @@ PyOxidizer
 A tool for roducing binaries that embed Python
 https://github.com/indygreg/PyOxidizer
 
+Webassembly
+https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
+
 Python- Rust Bindings
 https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
 
 C-Extensions for Python
 https://cython.org/
@@ -86,6 +139,7 @@ https://pythoncapi.readthedocs.io/runtime.html
 https://github.com/Quansight-Labs/python-api-inspect/blob/master/inspect_api/inspect.py | python-api-inspect/inspect.py at master · Quansight-Labs/python-api-inspect
 
 https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.9.5 documentation
+https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
 
 C++ and Python
 https://github.com/boostorg/python | boostorg/python: Boost.org python module
