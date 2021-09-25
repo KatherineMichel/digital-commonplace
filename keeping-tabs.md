@@ -37,6 +37,60 @@ https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter:
 https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
 -->
 
+## Stack
+
+Domain Modelling
+* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+
+Project Management
+* Google Docs
+* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
+* [Basecamp](https://basecamp.com/)
+* [Asana](https://asana.com/)
+
+Continuous Integration
+* [GitHub](https://github.com/)
+* [CircleCI](https://circleci.com/)
+
+Platform
+* [AWS](https://aws.amazon.com/)
+* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
+* [Terraform](https://www.terraform.io/)
+* [Packer](https://www.packer.io/)
+* [Consul](https://www.consul.io/)
+
+Python, Django, Django Rest Framework
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+* [Django REST Framework](https://www.django-rest-framework.org/)
+* [Postgres](https://www.postgresql.org/)
+
+Frontend and Mobile
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [React Native](https://reactnative.dev/)
+* [SASS](https://sass-lang.com/)
+
+Analysis and Forecasting
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Jupyter](https://jupyter.org/)
+
+Background Processing
+* [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
+* [Apache Airflow](https://airflow.apache.org/)
+* [Loggly](https://www.loggly.com/)
+* [Sentry](https://sentry.io/welcome/)
+* [CloudWatch](https://aws.amazon.com/cloudwatch/)
+
+
+* HTTP and REST APIs
+* Celery and async processing
+* https://docs.celeryproject.org/en/stable/getting-started/introduction.html
+* https://docs.python.org/3/library/asyncio.html
+
 
 ## Django and Python News
 
@@ -142,6 +196,8 @@ The Chung Report
 * [Startup Hutch](https://www.startuphutch.com/)
 
 
+## Local Competitions and Hackathons
+
 
 <!--
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
@@ -165,17 +221,18 @@ https://github.com/devict | devICT
 ## Discords
 
 <!--
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
-
 Django Discord
 https://discord.com/invite/Psc75Cb8 | Django
 
 Organizer Discord
 https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 
 https://discord.com/invite/t7bHjYQ | Commit Your Code!
 -->
