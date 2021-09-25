@@ -231,7 +231,7 @@ Business Journal
 ### Networking and Events
 
 Society of Women Engineers Wichita Section
-* [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
+* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
 
 PyLadies
 * [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
@@ -356,62 +356,3 @@ Top Links of All Times
 Articles
 * [Techmeme](https://www.techmeme.com)
 * [InfoQ](https://www.infoq.com/)
-
-<!--
-https://thenewstack.io
-
-https://womenmake.com/ | Women Make
-
-https://observablehq.com/@tomlarkworthy/hacker-favourites-analysis | Most favorited Hacker News posts of all time / Tom Larkworthy / Observable
-
-https://hn.algolia.com/?q=ask+hn
-
-https://www.indiehackers.com/products?revenueVerification=stripe&sorting=highest-revenue
-
-
-https://twitter.com/i/lists/suggested | Suggested Lists / Twitter
-
-https://substack.com/discover | Substack
-
-https://twitter.com/explore/tabs/for-you | Explore / Twitter
-https://www.youtube.com/feed/trending | Trending - YouTube
-
-Staff pick
-https://vimeo.com/channels/bestofthemonth
-https://vimeo.com/channels/staffpicks
--->
-
-
-
-<!--
-Projects
-https://dev.to/ben/whos-looking-for-open-source-contributors-june-25-edition-4egn | Who's looking for open source contributors? (June 25 edition)
-
-
-People
-
-https://opensource.googleblog.com/2020/10/announcing-latest-google-open-source.html | Announcing the latest Google Open Source Peer Bonus winners! | Google Open Source Blog
-
-https://opensource.com/article/21/1/community-awards-2021 | Top 50 authors: Opensource.com Community Awards 2021 | Opensource.com
-
-
-Article Roundups
-
-https://hashnode.com/post/must-read-developer-articles-on-hashnode-23-ckiyjll500xpp33s1cfv81tzd | Must Read Developer Articles on Hashnode - #23 - Hashnode
-
-Posts and comments
-https://dev.to/devteam/the-7-most-popular-dev-posts-from-the-past-week-335c | The 7 Most Popular DEV Posts from the Past Week - DEV Community 👩‍💻👨‍💻
-https://dev.to/xenoxdev/underrated-articles-on-dev-to-from-last-week-5a13 | Underrated Articles on Dev.to from Last Week - DEV Community 👩‍💻👨‍💻
-https://dev.to/devteam/top-5-dev-comments-from-the-past-week-3n8l | Top 5 DEV Comments from the Past Week
-
-https://community.codenewbie.org/codenewbie/codenewbie-writers-of-the-month-january-2021-3163 | CodeNewbie Writers of the Month — January 2021 - CodeNewbie Community
-
-
-Papers
-https://paperswithcode.com/datasets | Machine Learning Datasets | Papers With Code
-https://paperswithcode.com/ | The latest in Machine Learning | Papers With Code
-https://twitter.com/an_open_mind/status/1314541192458260482
-
-
-https://www.nature.com/ | Nature
--->
