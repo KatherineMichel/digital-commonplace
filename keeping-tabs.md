@@ -97,22 +97,26 @@ Background Processing
 ## Django and Python News
 
 <!--
-https://blog.jetbrains.com/pycharm/
+Peps
+https://www.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org
 
 https://blog.python.org/
 
 https://www.python.org/download/pre-releases/
 
-Peps
-https://www.python.org/dev/peps/ | PEP 0 -- Index of Python Enhancement Proposals (PEPs) | Python.org
+What's New
+https://docs.python.org/3/whatsnew/index.html
+
+https://docs.python.org/3.10/whatsnew/3.10.html | What’s New In Python 3.10 — Python 3.10.0b1 documentation
+https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
 
 https://www.djangoproject.com/weblog/
 https://www.djangoproject.com/community/ | Django Community | Django
 
-What's New
-https://docs.python.org/3.10/whatsnew/3.10.html | What’s New In Python 3.10 — Python 3.10.0b1 documentation
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.9/whatsnew/3.9.html | What’s New In Python 3.9 — Python 3.9.0a6 documentation
+
+https://blog.jetbrains.com/pycharm/
+
+
 https://www.python.org/downloads/release/python-390a5/
 https://pythoninsider.blogspot.com/2020/08/python-390rc1-is-now-available.html
 
@@ -130,6 +134,7 @@ Django News
 Important
 https://django-news.com/ | Django News
 https://twitter.com/djangonewsbot | Django News (@djangonewsbot) / Twitter
+
 https://dev.to/djangonews/django-news-32-new-python-3-8-pycon-africa-san-francisco-django-virtual-meetup-and-more-10g | Django News #32 - New Python 3.8, PyCon Africa, San Francisco Django Virtual Meetup, and more. - DEV Community 👩‍💻👨‍💻
 -->
 
@@ -268,22 +273,6 @@ https://pycon.org/#calendar | Join us at PyCon
 https://us.pycon.org/2020/schedule/talks/
 https://techyaks.com/python-year-tytop.html
 https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-
-
-## Speaking Offers
-
-PyLadies Miami
-https://twitter.com/MiamiPyladies/status/1422339310607650823 | PyLadies Miami on Twitter: "@KatiMichel @PyLadiesSWFL Yes!!!" / Twitter
-
-SF Python
-https://docs.google.com/forms/d/e/1FAIpQLScXszUHmx1cZDj580Kh7h2ldn0WrVdVsud2cUCGlc844_rA8Q/viewform | Talks Proposal Submission Form for SF Python
-
-Bay Area Postgres
-https://twitter.com/BayAreaPostgres/status/1389264999114227716 | Bay Area Postgres on Twitter: "Have you always wanted to speak at a conference but weren't sure if you'd be any good at it? Well, why not try it out with us by giving a talk at one of our virtual Meetups? Send us a DM and let us know what you'd like to talk about!" / Twitter
-
-Speaking at Vancouver PyLadies
-https://www.meetup.com/PyLadies-Vancouver/events/273584092/
-https://docs.google.com/forms/d/e/1FAIpQLSfeyv-SurQYWbIde3hetbCR8OFuM-ZvVo9tjoUA9V7G48Joqg/viewform
 -->
 
 ## News and Product Sites
