@@ -97,6 +97,7 @@ Analysis and Forecasting
 Background Processing
 * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
 * [RabbitMQ](https://www.rabbitmq.com/)
+* [Celery](https://docs.celeryproject.org/)
 * [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
 * [Apache Airflow](https://airflow.apache.org/)
 * [Loggly](https://www.loggly.com/)
@@ -107,9 +108,10 @@ Background Processing
 <!--
 * HTTP and REST APIs
 * Celery and async processing
-* https://docs.celeryproject.org/en/stable/getting-started/introduction.html
 * https://docs.python.org/3/library/asyncio.html
 -->
+
+## Other Tools
 
 <!--
 https://www.sqlite.org/
@@ -211,11 +213,8 @@ GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
 
 <!--
-## GitHub Must Read
-
+Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
-https://github.blog/2020-11-16-release-radar-nov-2020/ | Release Radar · November 2020 Edition - The GitHub Blog
-https://github.com/blog/2445-release-radar-november-2017 | Release Radar · November 2017
 -->
 
 ## Regional
