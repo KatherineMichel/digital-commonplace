@@ -48,8 +48,6 @@ https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Us
 
 
 <!--
-https://github.com/naftaliharris/tauthon
-
 Conda PyPy
 https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
 https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
