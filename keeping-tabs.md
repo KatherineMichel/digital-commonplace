@@ -1,12 +1,15 @@
 # Keeping Tabs
 
-<!--
-Slack
-https://slack.com/signin/find | Find your workspace | Slack
+## Accountability
 
-Workspaces
-https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/ | Your Workspaces | Slack
-https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
+<!--
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+
+https://discord.com/invite/t7bHjYQ | Commit Your Code!
 -->
 
 ## Interesting Lists
@@ -35,6 +38,32 @@ https://golden.com/lists/investors-who-left-the-sf-bay-area-for-miami-KAMD9Y | I
 https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter: "Welcoming over 300 engineers to Miami." / Twitter
 
 https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
+-->
+
+<!--
+Slack
+https://slack.com/signin/find | Find your workspace | Slack
+
+Workspaces
+https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/ | Your Workspaces | Slack
+https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
+-->
+
+## Events
+
+<!--
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+Kansas Conferences
+kansas gis conference - Google Search
+
+https://www.meetup.com/pro/python-software-foundation-meetups/
+https://www.python.org/events/ | Our Events | Python.org
+https://pycon.org/#calendar | Join us at PyCon
+
+https://us.pycon.org/2020/schedule/talks/
+https://techyaks.com/python-year-tytop.html
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 -->
 
 ## Stack
@@ -245,34 +274,6 @@ https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - it
 
 https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
 https://github.com/devict | devICT
--->
-
-
-## Accountability
-
-<!--
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
-
-https://discord.com/invite/t7bHjYQ | Commit Your Code!
--->
-
-## Events
-
-<!--
-Kansas Conferences
-kansas gis conference - Google Search
-
-https://www.meetup.com/pro/python-software-foundation-meetups/
-https://www.python.org/events/ | Our Events | Python.org
-https://pycon.org/#calendar | Join us at PyCon
-
-https://us.pycon.org/2020/schedule/talks/
-https://techyaks.com/python-year-tytop.html
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
 -->
 
 ## News and Product Sites
