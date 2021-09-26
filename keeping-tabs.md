@@ -158,6 +158,8 @@ PEPs
 
 
 <!--
+https://twitter.com/djangoproject/
+
 https://twitter.com/webology/status/1205503566745493505
 
 https://news.python.sc/ | Pythonic News
