@@ -111,6 +111,17 @@ Background Processing
 * https://docs.python.org/3/library/asyncio.html
 -->
 
+## Release
+
+<!--
+https://docs.djangoproject.com/en/3.2/releases/ | Release notes | Django documentation | Django
+https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
+https://www.sqlite.org/changes.html | Release History Of SQLite
+https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
+https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 documentation
+https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
+-->
+
 ## Other Tools
 
 <!--
