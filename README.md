@@ -162,6 +162,8 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
 https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
 
 Simon- Important
