@@ -1,5 +1,9 @@
 # Keeping Tabs
 
+<!--
+https://amturing.acm.org/ | A.M. Turing Award
+-->
+
 ## Accountability
 
 <!--
@@ -40,15 +44,6 @@ https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter:
 https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
 -->
 
-<!--
-Slack
-https://slack.com/signin/find | Find your workspace | Slack
-
-Workspaces
-https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/ | Your Workspaces | Slack
-https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
--->
-
 ## Events
 
 <!--
@@ -69,6 +64,15 @@ https://discord.com/channels/576802746850869258/599621603931717632 | #general
 
 Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+<!--
+Slack
+https://slack.com/signin/find | Find your workspace | Slack
+
+Workspaces
+https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/ | Your Workspaces | Slack
+https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
 -->
 
 ### Art
@@ -261,17 +265,12 @@ GitHub
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
 
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
 <!--
 Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-<!--
-https://amturing.acm.org/ | A.M. Turing Award
-
-https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
-
-https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
 -->
 
 ## News and Product Sites
@@ -315,6 +314,65 @@ Top Links of All Times
 Articles
 * [Techmeme](https://www.techmeme.com)
 * [InfoQ](https://www.infoq.com/)
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+
+<!--
+## Trends
+
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## GitHub Trending- Python
+
+GitHub Trending Python
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+
+## Python Articles and Tutorials
+
+Python Tutorials
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
+
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+
+<!--
+https://dev.to/t/python
+
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+-->
 
 ## Regional
 
