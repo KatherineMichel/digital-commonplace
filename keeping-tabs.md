@@ -266,6 +266,14 @@ Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
 
+<!--
+https://amturing.acm.org/ | A.M. Turing Award
+
+https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
+
+https://dev.to/search?q=python%20tutorial | Search Results - DEV Community 👩‍💻👨‍💻
+-->
+
 ## News and Product Sites
 
 Interesting Links
