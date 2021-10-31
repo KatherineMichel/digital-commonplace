@@ -55,6 +55,40 @@ https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Y
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 -->
 
+## Livestream
+
+<!--
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+### Art
+
+<!--
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+-->
+
+## Local Competitions and Hackathons
+
+<!--
+Game Jam
+https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
+https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
+
+https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
+https://github.com/devict | devICT
+-->
+
+
 ## Stack
 
 Domain Modelling
@@ -232,104 +266,7 @@ Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
 
-## Regional
-
-News
-* [Hutchinson News](https://www.hutchnews.com/)
-* [The Wichita Eagle](https://www.kansas.com/)
-
-Business Journal
-* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
-* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
-
-### Networking and Events
-
-Society of Women Engineers Wichita Section
-* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
-
-PyLadies
-* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
-
-Tech Events
-* [DevICT Events](https://www.meetup.com/devict/events/)
-* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
-* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
-* [Startup Grind Events](https://www.startupgrind.com/events)
-* [Groover Labs Events](https://www.grooverlabs.org/events)
-
-Alumni
-* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
-* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
-
-<!--
-General Events
-
-https://twitter.com/WichitaCF
-
-Wichita Events
--->
-
-### DevICT
-
-Coworking Spaces
-* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
-
-Entrepreneurship
-* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
-
-Salary
-* [DevICT Salary Survey](http://devict.org/survey/)
-
-City of Wichita
-* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
-
-The Chung Report
-* [The Chung Report](https://thechungreport.com/)
-
-### Hutch
-
-* [Startup Hutch](https://www.startuphutch.com/)
-
-
-### Art
-
-<!--
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
--->
-
-## Livestream
-
-<!--
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-## Local Competitions and Hackathons
-
-<!--
-Game Jam
-https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
-https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
-
-https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
-https://github.com/devict | devICT
--->
-
 ## News and Product Sites
-
-<!--
-Nuzzel
-* [Nuzzel](http://nuzzel.com)
--->
 
 Interesting Links
 * [YCombinator](https://news.ycombinator.com/)
@@ -370,3 +307,63 @@ Top Links of All Times
 Articles
 * [Techmeme](https://www.techmeme.com)
 * [InfoQ](https://www.infoq.com/)
+
+## Regional
+
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+### Networking and Events
+
+Society of Women Engineers Wichita Section
+* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
+
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
+
+Tech Events
+* [DevICT Events](https://www.meetup.com/devict/events/)
+* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
+* [Startup Grind Events](https://www.startupgrind.com/events)
+* [Groover Labs Events](https://www.grooverlabs.org/events)
+
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+### DevICT
+
+Coworking Spaces
+* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
+
+Entrepreneurship
+* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
+
+Salary
+* [DevICT Salary Survey](http://devict.org/survey/)
+
+City of Wichita
+* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
+
+The Chung Report
+* [The Chung Report](https://thechungreport.com/)
+
+### Hutch
+
+* [Startup Hutch](https://www.startuphutch.com/)
+
+## Travel
+
+* [Wichita Community Foundation](https://twitter.com/WichitaCF)
+* [Wichita By E.B.](https://www.wichitabyeb.com/)
+* [One Delightful Life](https://onedelightfullife.com/)
+
+<!--
+https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
+-->
