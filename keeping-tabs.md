@@ -1,6 +1,11 @@
 # Keeping Tabs
 
 <!--
+Twitter
+https://twitter.com/TwitterIR/
+https://investor.twitterinc.com/events-and-presentations/default.aspx | Twitter, Inc. - Events & presentations
+https://investor.twitterinc.com/financial-information/financial-releases/ | Twitter, Inc. - Financial information - Financial releases
+
 https://amturing.acm.org/ | A.M. Turing Award
 -->
 
