@@ -379,15 +379,6 @@ https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
-## Regional
-
-News
-* [Hutchinson News](https://www.hutchnews.com/)
-* [The Wichita Eagle](https://www.kansas.com/)
-
-Business Journal
-* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
-* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
 
 ### Networking and Events
 
@@ -418,6 +409,18 @@ Entrepreneurship
 
 Salary
 * [DevICT Salary Survey](http://devict.org/survey/)
+
+## Regional News
+
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+## City of Wichita
 
 City of Wichita
 * [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
