@@ -47,6 +47,12 @@ https://golden.com/lists/investors-who-left-the-sf-bay-area-for-miami-KAMD9Y | I
 https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter: "Welcoming over 300 engineers to Miami." / Twitter
 
 https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
+
+https://www.quora.com/What-top-tier-companies-use-Python | (2) What top tier companies use Python?
+
+Django Comp
+https://twitter.com/pystar/status/1425533458345086982 | pystar on Twitter: "Looking at (6) 🤔" / Twitter
+https://twitter.com/DawnWagesSays/status/1425534669458657290 | dawn (she/her) on Twitter: "*Django open in terminal* *Linux Academy on AWS open in browser*" / Twitter
 -->
 
 ## Events
@@ -181,6 +187,11 @@ Django News
 * [Django Store](https://django.threadless.com/)
 * [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
 
+<!--
+Django News
+https://twitter.com/djangonewsbot/status/1450964452006711296 | Django News on Twitter: "[Sponsor] Building Intelligent Space Infrastructure Cognitive Space is building intelligent infrastructure for the new space domain with Python. We are looking for passionate Python developers in backend, dev ops, and machine learning. 🖖 #TechisHiring https://t.co/jTdDMMHgyH" / Twitter
+-->
+
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
@@ -196,6 +207,12 @@ Supported Versions
 
 DEPs (Django Enhancement Proposals)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+<!--
+https://www.djangoproject.com/community/ | Django Community | Django
+https://twitter.com/djangoproject/
+https://twitter.com/webology/status/1205503566745493505
+-->
 
 ## Python News
 
@@ -214,9 +231,15 @@ PEPs
 
 
 <!--
-https://twitter.com/djangoproject/
+PSF Minutes
+https://www.python.org/events/
 
-https://twitter.com/webology/status/1205503566745493505
+https://docs.python.org/3.7/whatsnew/changelog.html#changelog
+https://blog.jetbrains.com/
+https://blog.jetbrains.com/pycharm/
+-->
+
+<!--
 
 https://news.python.sc/ | Pythonic News
 -->
@@ -234,10 +257,6 @@ Release
 * [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
 
 
-https://www.djangoproject.com/community/ | Django Community | Django
-
-
-https://blog.jetbrains.com/pycharm/
 
 
 https://www.python.org/downloads/release/python-390a5/
