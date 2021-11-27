@@ -1,23 +1,13 @@
 # Python and Django Tools and Deployment
 
 <!--
-https://dgl.cx/2020/06/sqlite-json-support | SQLite as a document database
+pre-commit
+https://pre-commit.ci/
+https://github.com/pre-commit/pre-commit/
 
-https://www.youtube.com/watch?time_continue=1&v=Z_cX3bzkExE | (1) How SQL Database Engines Work - YouTube
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
 
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://docs.python.org/3/library/sqlite3.html
-
-https://www.postgresql.org/files/documentation/pdf/13/postgresql-13-A4.pdf
-
-CI
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-
-https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
--->
-
-<!--
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -31,54 +21,42 @@ https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
--->
 
-<!--
 ## F-Strings
 
 https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
 https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+
+## Feature Flags
+
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 -->
 
 <!--
-Blog Posts
-https://www.vinta.com.br/blog/2021/testing-the-diff/ | Testing the diff - Vinta Blog
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/ | Tips for Using Django's ManyToManyField
--->
+## Speed Tools
 
-
-<!--
-Speed Tools
 https://pypy.org/ | PyPy - Welcome to PyPy
 https://cython.org/ | Cython: C-Extensions for Python
 https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
 https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
 
-Conda PyPy
-https://conda-forge.org/blog//2020/03/10/pypy | PyPy builds on conda-forge
-https://conda-forge.org/blog/posts/2020-03-10-pypy/#python-abi-package
 
-PyPy
-https://twitter.com/pypyproject/status/1209476917012897792 | The PyPy Project on Twitter: "Happy Holidays from the PyPy team! Matti just released PyPy 7.3 🎉🎉🎉! The highlight is manylinux2010 wheel support, also the default Linux builds are now portable and should run on many Linux variants https://t.co/eqCTWDgqoF" / Twitter
+## Python Versions and Installation
 
-Brython
-https://m.youtube.com/watch?feature=youtu.be&v=VJj-H4we71g
-https://twitter.com/pystar/status/1285754294835322880 | pystar on Twitter: "A Python 3 implementation for client-side web programming. https://t.co/bfOIP0ftX4" / Twitter
+Intel Python
+https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html
 
-Cython
-https://github.com/paulross/NotesOnCython | paulross/NotesOnCython: Some notes on using Cython to increase the performance of Python code.
+Python Launcher Windows
+https://github.com/brettcannon/python-launcher/releases/tag/v0.16.0 | Release v0.16.0 · brettcannon/python-launcher
 
-C-extensions, HPy, EPython
-https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
-"The PEP summarizes the research work I'm doing on CPython C API since 2017 and the changes that me and others made since Python 3.7 towards an opaque C API. It is also a collaboration with developers of PyPy, HPy, Rust-CPython and many others! Thanks to everyone who helped me!"
-https://twitter.com/VictorStinner/status/1248666328984059905
-"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
-https://twitter.com/trebor74hr/status/1252729526540472323
-https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
-https://twitter.com/teoliphant/status/1217611221396082695
 
-Intel distribution for Python
-https://twitter.com/pwang/status/1218212838562463745 | Peter Wang on Twitter: "Another really cool example of what can be done with Python and Anaconda! https://t.co/EYf2TyRf8q" / Twitter
+## Python Language Server
 
 https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
 https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
@@ -89,28 +67,18 @@ https://microsoft.github.io/language-server-protocol/specification
 https://github.com/Microsoft/python-language-server
 https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
 
-http://python-xy.github.io/ | Python-xy.GitHub.io by python-xy
 
-https://github.com/taichi-dev/taichi
--->
-
-
-<!--
-## Browser, Extensions, Bindings
-
-Intel Python
-https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html
-
-Python Launcher Windows
-https://github.com/brettcannon/python-launcher/releases/tag/v0.16.0 | Release v0.16.0 · brettcannon/python-launcher
+## Many Linux
 
 https://github.com/pypa/manylinux
 https://github.com/pypa/python-manylinux-demo
 
-
 https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux
 https://github.com/RalfG/python-wheels-manylinux-build
 https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
+
+
+## Browser, Extensions, Bindings
 
 
 Cuda Python
@@ -122,23 +90,31 @@ https://brython.info/
 https://wxpython.org/ | Welcome to wxPython! | wxPython
 https://github.com/pyodide/pyodide
 
+Webassembly
+https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
+
 
 PyOxidizer
 A tool for roducing binaries that embed Python
 https://github.com/indygreg/PyOxidizer
 
-Webassembly
-https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
+## Rust
 
 Python- Rust Bindings
 https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
 https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
+
+## Python Extensions
+
+https://pythonspeed.com/articles/rust-cython-python-extensions/ | Cython, Rust, and more: choosing a language for Python extensions
 
 C-Extensions for Python
 https://cython.org/
 
 Assembly Extensions
 https://tonybaloney.github.io/posts/extending-python-with-assembly.html | Writing Python Extensions in Assembly
+
+## Python C API
 
 Python C API
 https://pythoncapi.readthedocs.io/runtime.html
@@ -147,121 +123,10 @@ https://github.com/Quansight-Labs/python-api-inspect/blob/master/inspect_api/ins
 https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.9.5 documentation
 https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
 
+## C++ and Python
+
 C++ and Python
 https://github.com/boostorg/python | boostorg/python: Boost.org python module
--->
-
-
-<!--
-## Tool Choices
-
-https://snarky.ca/thoughts-on-a-tooling-workflow/
-https://twitter.com/brettsky/status/1260782564597366785
-
-https://twitter.com/froidotdev/status/1248661469920714753
-
-https://mobile.twitter.com/carltongibson/status/1243893076407603200 | Carlton Gibson 🇪🇺 on Twitter: "@zooba Clean My Mac is good. (Not sure about any particular malware but...)" / Twitter
-
-Simon- Tools
-https://twitter.com/simonw/status/1222726628314210311 | Simon Willison on Twitter: "Woohoo! Got continuous deployment of my new Django app working in GitLab CI, which builds a Docker image, runs tests in it, pushes it to the GitLab Container Registry then uses SSH to tell my server to pull the latest image and start serving it via Traefik!" / Twitter
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
-This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
-https://twitter.com/simonw/status/1248628140445855745
-
-https://github.com/cortesi/devd
-https://twitter.com/webology/status/1192623306840723456 | 🍂 Jeff Triplett 🍂 on Twitter: "Until I finish my blog post (which is about 100 items behind other priorities in life right now), this gist + screenshot are of my modd, django, python, tailwindcss, black, and pytest setup that I re-use from project-to-project." / Twitter
-https://twitter.com/webology/status/1234940864687939586 | ✨ Jeff Triplett ✨ on Twitter: "I'm a coin flip on using pytest-black locally right now. I like it a lot for CI to avoid having to have an extra step, but it seems to step on my toes testing locally every so often. That said, I don't want two pytest.ini configs." / Twitter
-https://mobile.twitter.com/webology/status/1195163668440334337
-
-https://mobile.twitter.com/brettsky/status/1223731773147766784
-https://twitter.com/gvanrossum/status/1227126706089021440
-https://twitter.com/mariatta/status/1227286873413799936
-https://twitter.com/jonasrk/status/1227028183469449216
-https://twitter.com/WillingCarol/status/1227331652046770176
-https://twitter.com/jacobian/status/1150072802801848320 | jacobian on Twitter: "This is my standard setup too. It's lovely, probably prevents half or more of the silly mistakes I'm prone to making.… https://t.co/ADRHdOq6A3"
-https://twitter.com/hawkieowl/status/1150038262540431361 | -mtune=hawk -march=owl on Twitter: "But, anyway. The Ideal Python Development environment for me uses attrs in the code, black and isort to autoformat, flake8/pyflakes to verify, and tox and @nedbat 's Coverage to test. And pytest, if you don't have a particular affinity for xUnit like me :P"
--->
-
-<!--
-Feature Flags
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
-
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
--->
-
-
-<!--
-## Testing and Stuff
-
-https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
-
-
-Gidgethub
-https://mobile.twitter.com/mariatta/status/1251733060812369920
-
-https://github.com/Mariatta/requirements_atoz
-https://github.com/Mariatta/cookiecutter_sprint_guide
-https://github.com/Mariatta/pep_cookiecutter
-https://github.com/hbristow/cookiecutter-cpp/blob/master/.travis.yml
-https://github.com/jambonsw/cookiecutter-static-site
-
-cross linter - Google Search
-
-https://www.openssl.org/ | /index.html
-
-https://launchpad.net/ubuntu | Ubuntu in Launchpad
-
-https://www.pypy.org/ | PyPy
--->
-
-
-<!--
-Popular Python Tools
-
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
-https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
-
-Python Docker
-https://twitter.com/brettsky/status/1146835613628293120 | Twitter
-https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
-
-Recommended by Jeff
-https://github.com/direnv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
-
-https://pypi.org/project/python-decouple/
-
-pip-tools
-https://twitter.com/webology/status/1324134889172701190 | Jeff "voted 🗳 and wears a mask 😷 " Triplett on Twitter: "@epicserve Pip-tools is solid and you should use it with pip. You may want to try out poetry to see if it works with your workflow." / Twitter
-https://twitter.com/jonafato/status/1283429696471027713 | Jon Banafato on Twitter: "Listen to Jeff. pip-tools is great." / Twitter
-https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
-
-https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
-
-https://pyformat.info/ | PyFormat: Using % and .format() for great good!
-
-https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
-
-https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
-
-https://pypi.org/project/mousebender/ | mousebender · PyPI
-
-http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
-https://pypi.org/project/pluggy/ | pluggy · PyPI
-
-Python
-Django self-update
-https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
-https://pyup.io/safety/
-
-https://pypi.org/project/entry-point-inspector/ | entry-point-inspector · PyPI
-
-https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
-https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
 -->
 
 
@@ -673,15 +538,63 @@ Django Classy
 
 ## Django Third Party Tools
 
+
 <!--
+Popular Python Tools
+
+Python Docker
+https://twitter.com/brettsky/status/1146835613628293120 | Twitter
+https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
+
+https://pypi.org/project/python-decouple/
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+
+https://pyformat.info/ | PyFormat: Using % and .format() for great good!
+
+https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
+
+https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
+
+https://pypi.org/project/mousebender/ | mousebender · PyPI
+
+http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
+https://pypi.org/project/pluggy/ | pluggy · PyPI
+
+Python
+Django self-update
+https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
+https://pyup.io/safety/
+
+https://pypi.org/project/entry-point-inspector/ | entry-point-inspector · PyPI
+
+https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
+https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
+-->
+
+
+
+<!--
+Recommended by Jeff
+https://github.com/direnv
+https://direnv.net/ | direnv – unclutter your .profile | direnv
+
+Recommended: pip-tools
+https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
+https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+
 https://github.com/jazzband/django-debug-toolbar
 
 
-HTMX + DJango
+HTMX + Django
 https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
 
 Django Tool
 https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
+
+https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HTML Template Linter and Formatter. Use with Django, Jinja, Nunjucks and Handlebars templates.
+
 
 django_deprecate_fields
 https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on Twitter: "If you haven't read a piece yet by my colleague @danpoirier, you really should especially if you develop with #Django. This one... django_deprecate_fields... 🤯 Truly a "I can't believe I haven't been using this before" moment. https://t.co/ArgrMXl8CK" / Twitter
@@ -741,7 +654,11 @@ https://ipython.org/ | Jupyter and the future of IPython — IPython
 Model History
 https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
 
+
+PyLance
 https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
+https://devblogs.microsoft.com/python/announcing-pylance-fast-feature-rich-language-support-for-python-in-visual-studio-code/
+
 
 https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
 
@@ -788,8 +705,10 @@ https://djangobook.com/deploying-django/
 
 <!--
 https://12factor.net/config | The Twelve-Factor App
-
 https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
+
+Tool
+https://django12factor.readthedocs.io/en/latest/
 -->
 
 
