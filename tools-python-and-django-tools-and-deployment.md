@@ -538,42 +538,6 @@ Django Classy
 
 ## Django Third Party Tools
 
-
-<!--
-Popular Python Tools
-
-Python Docker
-https://twitter.com/brettsky/status/1146835613628293120 | Twitter
-https://github.com/microsoft/vscode-dev-containers/blob/master/containers/python-3/.devcontainer/Dockerfile
-
-https://pypi.org/project/python-decouple/
-
-https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
-
-https://pyformat.info/ | PyFormat: Using % and .format() for great good!
-
-https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
-
-https://pypi.org/project/pypi-simple/ | pypi-simple · PyPI
-
-https://pypi.org/project/mousebender/ | mousebender · PyPI
-
-http://pluggy.readthedocs.io/en/latest/ | pluggy — pluggy 0.6.1.dev73+g76232fa documentation
-https://pypi.org/project/pluggy/ | pluggy · PyPI
-
-Python
-Django self-update
-https://github.com/pyupio/safety | pyupio/safety: Safety checks your installed dependencies for known security vulnerabilities
-https://pyup.io/safety/
-
-https://pypi.org/project/entry-point-inspector/ | entry-point-inspector · PyPI
-
-https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
-https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
--->
-
-
-
 <!--
 Recommended by Jeff
 https://github.com/direnv
@@ -610,6 +574,7 @@ https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated
 https://pyphilly.org/know-thy-user-custom-user-models-django-allauth/
 https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
 
+Django Shell Plus
 https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
 https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
 
