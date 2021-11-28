@@ -103,6 +103,20 @@ https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
 https://github.com/devict | devICT
 -->
 
+## PyCharm
+
+PyCharm
+* [PyCharm](https://www.jetbrains.com/pycharm)
+
+<!--
+https://twitter.com/paulweveritt/status/1438477842287931393 | Paul Everitt on Twitter: "On Tuesday I’m doing a @pycharm webinar with @willmcgugan on Textual. It’s going to legit fun. Lemme explain. 1/X https://t.co/G3xLvwjqc7 https://t.co/MbF3S4Wa72" / Twitter
+
+https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
+https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
+
+https://github.com/tonybaloney/pycharm-security/releases/tag/1.0.12 | Release v1.0.12 · tonybaloney/pycharm-security
+https://pycharm-security.readthedocs.io/en/latest/django.html | Django security — PyCharm Python Security plugin documentation
+-->
 
 ## Stack
 
