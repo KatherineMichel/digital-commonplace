@@ -93,6 +93,10 @@ https://github.com/pyodide/pyodide
 Webassembly
 https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
 
+Pyodide WASM backend
+https://github.com/pyodide/pyodide/blob/89682dabfe32cb9f6508a18a5e838e349801675a/packages/matplotlib/src/wasm_backend.py
+https://twitter.com/DynamicWebPaige/status/1454250209387577348 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "Reading source is a healthy reminder that our entire Python OSS world is built out of LEGO by a scrappy contingent of brilliant, resourceful humans: https://t.co/EV0CHVZQOk "distutils has no cross-compilation story. This is a hack, which miraculously works, to get around that." https://t.co/W9udcIm8YA" / Twitter
+
 
 PyOxidizer
 A tool for roducing binaries that embed Python
