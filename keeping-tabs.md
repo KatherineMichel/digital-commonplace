@@ -1,60 +1,5 @@
 # Keeping Tabs
 
-<!--
-Twitter
-https://twitter.com/TwitterIR/
-https://investor.twitterinc.com/events-and-presentations/default.aspx | Twitter, Inc. - Events & presentations
-https://investor.twitterinc.com/financial-information/financial-releases/ | Twitter, Inc. - Financial information - Financial releases
-
-https://amturing.acm.org/ | A.M. Turing Award
--->
-
-## Accountability
-
-<!--
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
-
-https://discord.com/invite/t7bHjYQ | Commit Your Code!
--->
-
-## Interesting Lists
-
-<!--
-## People and Places
-
-https://github.com/maggiewhite/bayareawomenintech | maggiewhite/bayareawomenintech: List of organizations for women in tech in the bay area
-
-https://freestateforge.com/map
-https://twitter.com/FreeStateForge/status/1398424918933520386 | Free State Forge on Twitter: "A lot has changed in the last year &amp; Free State Forge would like to know how KS/KC tech startups have weathered the storm. If you know of a regional startup that has closed or launched in the last 12 months, we'd like to hear about it. https://t.co/PcDc3Wgjii https://t.co/WpynxhrNbX" / Twitter
-
-https://twitter.com/i/lists/1216283681167265792 | @Scobleizer/Top Shelf in Tech (1) on Twitter / Twitter
-
-https://search.firstround.com/lists | Explore Lists | First Search - The best tactical advice in tech
-
-People
-https://twitter.com/StanfordEng/following | People followed by Stanford Engineering (@stanfordeng) / Twitter
-
-Southern California Tech Industry
-https://twitter.com/Nate_somewhere/status/1218962488189808640
-https://docs.google.com/forms/d/e/1FAIpQLSf-ARwLJofwDe6iGQeMKCYEznrrJ3NnSwURaUxmooSHIX0_Mw/viewform
-
-Miami/Bay Area
-https://golden.com/lists/investors-who-left-the-sf-bay-area-for-miami-KAMD9Y | Investors who left the SF bay area for Miami | Golden
-https://twitter.com/rabois/status/1421909082487853056 | Keith Rabois on Twitter: "Welcoming over 300 engineers to Miami." / Twitter
-
-https://twitter.com/lolitataub/status/1420494291374198784 | lolitataub on Twitter: "💰 Female founders: The Guild put together a google sheet for you. Inside 💁🏽‍♀️ 70+ investors 🗂 400+ resources ✨ and more https://t.co/sPYDfhaqIc" / Twitter
-
-https://www.quora.com/What-top-tier-companies-use-Python | (2) What top tier companies use Python?
-
-Django Comp
-https://twitter.com/pystar/status/1425533458345086982 | pystar on Twitter: "Looking at (6) 🤔" / Twitter
-https://twitter.com/DawnWagesSays/status/1425534669458657290 | dawn (she/her) on Twitter: "*Django open in terminal* *Linux Academy on AWS open in browser*" / Twitter
--->
-
 ## Events
 
 <!--
@@ -103,20 +48,6 @@ https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
 https://github.com/devict | devICT
 -->
 
-## PyCharm
-
-PyCharm
-* [PyCharm](https://www.jetbrains.com/pycharm)
-
-<!--
-https://twitter.com/paulweveritt/status/1438477842287931393 | Paul Everitt on Twitter: "On Tuesday I’m doing a @pycharm webinar with @willmcgugan on Textual. It’s going to legit fun. Lemme explain. 1/X https://t.co/G3xLvwjqc7 https://t.co/MbF3S4Wa72" / Twitter
-
-https://blog.jetbrains.com/pycharm/2015/05/pycharm-4-5-eap-build-141-988-introducing-python-profiler/ | PyCharm 4.5 EAP build 141.988: Introducing Python Profiler | PyCharm Blog
-https://blog.jetbrains.com/pycharm/2018/04/python-37-introducing-data-class/ | Python 3.7: Introducing Data Classes | PyCharm Blog
-
-https://github.com/tonybaloney/pycharm-security/releases/tag/1.0.12 | Release v1.0.12 · tonybaloney/pycharm-security
-https://pycharm-security.readthedocs.io/en/latest/django.html | Django security — PyCharm Python Security plugin documentation
--->
 
 ## Stack
 
@@ -201,11 +132,6 @@ Django News
 * [Django Store](https://django.threadless.com/)
 * [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
 
-<!--
-Django News
-https://twitter.com/djangonewsbot/status/1450964452006711296 | Django News on Twitter: "[Sponsor] Building Intelligent Space Infrastructure Cognitive Space is building intelligent infrastructure for the new space domain with Python. We are looking for passionate Python developers in backend, dev ops, and machine learning. 🖖 #TechisHiring https://t.co/jTdDMMHgyH" / Twitter
--->
-
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
@@ -223,6 +149,9 @@ DEPs (Django Enhancement Proposals)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
 <!--
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
 https://www.djangoproject.com/community/ | Django Community | Django
 https://twitter.com/djangoproject/
 https://twitter.com/webology/status/1205503566745493505
