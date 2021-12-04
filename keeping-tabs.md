@@ -100,6 +100,8 @@ Background Processing
 
 
 <!--
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.python.org/3/library/asyncio.html
