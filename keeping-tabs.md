@@ -141,6 +141,8 @@ Django News
 * [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
 
 <!--
+https://planetpython.org/ | Planet Python
+
 https://news.python.sc/ | Pythonic News
 -->
 
@@ -167,9 +169,11 @@ DEPs (Django Enhancement Proposals)
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
 https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
+Django Snippets
+https://djangosnippets.org/
+
 https://www.djangoproject.com/community/ | Django Community | Django
 https://twitter.com/djangoproject/
-https://twitter.com/webology/status/1205503566745493505
 -->
 
 ## Python Official
@@ -189,6 +193,9 @@ PEPs
 
 
 <!--
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+
+
 PSF Minutes
 https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
 
@@ -204,6 +211,8 @@ Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
 * [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
 
 https://python-release-cycle.glitch.me/ | Python Release Cycle
 
