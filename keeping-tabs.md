@@ -3,7 +3,7 @@
 ## Events
 
 <!--
-https://lwn.net/ | Welcome to LWN.net [LWN.net]
+https://www.python.org/events/
 
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 -->
@@ -102,6 +102,10 @@ Background Processing
 
 
 <!--
+PyCharm
+https://blog.jetbrains.com/
+https://blog.jetbrains.com/pycharm/
+
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 
 * HTTP and REST APIs
@@ -129,12 +133,18 @@ https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
 https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
 -->
 
-## Django News
+## Python and Django News Roundups
 
 Django News
 * [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
 * [Django Store](https://django.threadless.com/)
 * [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
+
+<!--
+https://news.python.sc/ | Pythonic News
+-->
+
+## Django Official
 
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
@@ -152,6 +162,7 @@ Supported Versions
 DEPs (Django Enhancement Proposals)
 * [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
 
+
 <!--
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
 https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
@@ -161,7 +172,7 @@ https://twitter.com/djangoproject/
 https://twitter.com/webology/status/1205503566745493505
 -->
 
-## Python News
+## Python Official
 
 New Releases and Pre-Releases
 * [Python Downloads](https://www.python.org/downloads)
@@ -181,40 +192,26 @@ PEPs
 PSF Minutes
 https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
 
-https://www.python.org/events/
+
+https://www.python.org/downloads/release/python-390a5/
 
 https://docs.python.org/3.7/whatsnew/changelog.html#changelog
-https://blog.jetbrains.com/
-https://blog.jetbrains.com/pycharm/
--->
 
-<!--
-
-https://news.python.sc/ | Pythonic News
--->
-
-<!--
-https://python-release-cycle.glitch.me/ | Python Release Cycle
-
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
 
 Release
 * [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
 * [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
 * [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
 
+https://python-release-cycle.glitch.me/ | Python Release Cycle
 
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
 
-
-https://www.python.org/downloads/release/python-390a5/
-
-https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-
-
-## Non-Official
+## Feature Roundups
 
 Roundup
 https://realpython.com/python38-new-features/
