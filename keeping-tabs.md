@@ -3,6 +3,8 @@
 ## Events
 
 <!--
+https://lwn.net/ | Welcome to LWN.net [LWN.net]
+
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 -->
 
@@ -177,6 +179,8 @@ PEPs
 
 <!--
 PSF Minutes
+https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
+
 https://www.python.org/events/
 
 https://docs.python.org/3.7/whatsnew/changelog.html#changelog
