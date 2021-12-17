@@ -1700,6 +1700,7 @@ http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
 
 Incident Response
 * [PagerDuty](https://response.pagerduty.com/)
+* [Squadcast](https://squadcast.com/)
 
 DevSecOps
 * [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
