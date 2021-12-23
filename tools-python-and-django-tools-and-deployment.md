@@ -1,16 +1,20 @@
 # Python and Django Tools and Deployment
 
 <!--
-## Playwright
+Pyenv Global
+https://twitter.com/webology/status/699277088256163840
 
-Important- Lighthouse
-https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
 
-https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
-https://twitter.com/AutomationPanda/status/1466494032108998665 | https://twitter.com/AutomationPanda/status/1466494032108998665
-https://playwright.dev/python/docs/intro/ | Getting started | Playwright Python
-https://github.com/AutomationPanda/tau-playwright-workshop | AutomationPanda/tau-playwright-workshop: The Playwright Workshop for TAU: The Homecoming
-https://twitter.com/mblayman/status/1467338990810447872 | Matt Layman on Twitter: "@AutomationPanda @playwrightweb I haven't used Playwright, but the system automation team at my company uses ScreenPy with much success. It's the Screenplay Pattern implemented as a native #Python library. I think it's worth a look. https://t.co/PsUG34pvBz" / Twitter
+ORM Optimization
+https://docs.djangoproject.com/en/3.2/topics/db/optimization/ | Database access optimization | Django documentation | Django
+
+## Django Performance
+
+https://docs.djangoproject.com/en/3.2/topics/performance/
+
+## Django Security Policy
+
+https://docs.djangoproject.com/en/3.2/internals/security/
 
 ## Anthony
 
@@ -612,25 +616,13 @@ https://pypi.org/project/django-countries/ | django-countries · PyPI
 https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 
 
+Django cities
+https://github.com/coderholic/django-cities | coderholic/django-cities: Countries and cities of the world for Django projects
+
+
 Model History
 https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
 
-
-## Python Language Server
-
-https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
-https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
-
-Python Language Server
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
-
-
-PyLance
-https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
-https://devblogs.microsoft.com/python/announcing-pylance-fast-feature-rich-language-support-for-python-in-visual-studio-code/
 
 
 Attrs
