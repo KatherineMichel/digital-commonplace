@@ -1,6 +1,19 @@
 # Python and Django Tools and Deployment
 
 <!--
+## Playwright
+
+Important- Lighthouse
+https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
+
+https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
+https://twitter.com/AutomationPanda/status/1466494032108998665 | https://twitter.com/AutomationPanda/status/1466494032108998665
+https://playwright.dev/python/docs/intro/ | Getting started | Playwright Python
+https://github.com/AutomationPanda/tau-playwright-workshop | AutomationPanda/tau-playwright-workshop: The Playwright Workshop for TAU: The Homecoming
+https://twitter.com/mblayman/status/1467338990810447872 | Matt Layman on Twitter: "@AutomationPanda @playwrightweb I haven't used Playwright, but the system automation team at my company uses ScreenPy with much success. It's the Screenplay Pattern implemented as a native #Python library. I think it's worth a look. https://t.co/PsUG34pvBz" / Twitter
+
+## Anthony
+
 pre-commit
 https://pre-commit.ci/
 https://github.com/pre-commit/pre-commit/
@@ -16,123 +29,32 @@ Vinta Django Apps Checklist
 Vinta API Checklist	
 * [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
 
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+
 https://devchecklists.com
 https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
-## F-Strings
+## Eric
 
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+https://twitter.com/ehmatthes/status/1466539581436616704 | Eric Matthes on Twitter: "This is a milestone I've been looking forward to sharing. django-simple-deploy has preliminary support for Azure, which means you can deploy to Heroku or Azure with the same three steps: https://t.co/LMwY1VFaEB https://t.co/xVSFP7AK2l" / Twitter
 
-## Feature Flags
+https://ehmatthes.com/blog/simplified_heroku/ | Simplifying Django deployments on Heroku - ehmatthes.com
+https://twitter.com/ehmatthes/status/1452366374353833985 | Eric Matthes on Twitter: "I've been on a years-long quest to help simplify Django deployment for small projects. I just made an app that does all of the configuration work for an initial deployment to Heroku: https://t.co/mqlrcDAbqt" / Twitter
+https://github.com/ehmatthes/django-simple-deploy | ehmatthes/django-simple-deploy: A reusable Django app that configures your project for deployment
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+https://twitter.com/ehmatthes/status/1454839778587725841 | Eric Matthes on Twitter: "django-simple-deploy now supports projects that use Poetry. Next I'm going to try adding an `--automate-all` flag that should reduce the entire process to three steps. Then, if possible, I'll add support for at least one other platform." / Twitter
 
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+Deployment 
+Django SaaS Starter Kit
+https://twitter.com/carltongibson/status/1337087410203717636 | https://twitter.com/carltongibson/status/1337087410203717636
+https://docs.saaspegasus.com/
+https://www.saaspegasus.com/
 
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
 -->
-
-<!--
-## Speed Tools
-
-https://pypy.org/ | PyPy - Welcome to PyPy
-https://cython.org/ | Cython: C-Extensions for Python
-https://wiki.python.org/moin/Pyrex | Pyrex - Python Wiki
-https://cffi.readthedocs.io/en/latest/ | CFFI documentation — CFFI 1.12.3 documentation
-
-
-## Python Versions and Installation
-
-Intel Python
-https://software.intel.com/content/www/us/en/develop/tools/oneapi/components/distribution-for-python.html
-
-Python Launcher Windows
-https://github.com/brettcannon/python-launcher/releases/tag/v0.16.0 | Release v0.16.0 · brettcannon/python-launcher
-
-
-## Python Language Server
-
-https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
-https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
-
-Python Language Server
-https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
-https://microsoft.github.io/language-server-protocol/specification
-https://github.com/Microsoft/python-language-server
-https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
-
-
-## Many Linux
-
-https://github.com/pypa/manylinux
-https://github.com/pypa/python-manylinux-demo
-
-https://github.com/pypa/manylinux/issues/179 | Tracking issue for manylinux2010 rollout · Issue #179 · pypa/manylinux
-https://github.com/RalfG/python-wheels-manylinux-build
-https://github.com/pypa/python-manylinux-demo/tree/master/pymanylinuxdemo | python-manylinux-demo/pymanylinuxdemo at master · pypa/python-manylinux-demo
-
-
-## Browser, Extensions, Bindings
-
-
-Cuda Python
-https://developer.nvidia.com/cuda-toolkit
-
-
-Python Browser
-https://brython.info/
-https://wxpython.org/ | Welcome to wxPython! | wxPython
-https://github.com/pyodide/pyodide
-
-Webassembly
-https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
-
-Pyodide WASM backend
-https://github.com/pyodide/pyodide/blob/89682dabfe32cb9f6508a18a5e838e349801675a/packages/matplotlib/src/wasm_backend.py
-https://twitter.com/DynamicWebPaige/status/1454250209387577348 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "Reading source is a healthy reminder that our entire Python OSS world is built out of LEGO by a scrappy contingent of brilliant, resourceful humans: https://t.co/EV0CHVZQOk "distutils has no cross-compilation story. This is a hack, which miraculously works, to get around that." https://t.co/W9udcIm8YA" / Twitter
-
-
-PyOxidizer
-A tool for roducing binaries that embed Python
-https://github.com/indygreg/PyOxidizer
-
-## Rust
-
-Python- Rust Bindings
-https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
-https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
-
-## Python Extensions
-
-https://pythonspeed.com/articles/rust-cython-python-extensions/ | Cython, Rust, and more: choosing a language for Python extensions
-
-C-Extensions for Python
-https://cython.org/
-
-Assembly Extensions
-https://tonybaloney.github.io/posts/extending-python-with-assembly.html | Writing Python Extensions in Assembly
-
-## Python C API
-
-Python C API
-https://pythoncapi.readthedocs.io/runtime.html
-https://github.com/Quansight-Labs/python-api-inspect/blob/master/inspect_api/inspect.py | python-api-inspect/inspect.py at master · Quansight-Labs/python-api-inspect
-
-https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.9.5 documentation
-https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
-
-## C++ and Python
-
-C++ and Python
-https://github.com/boostorg/python | boostorg/python: Boost.org python module
--->
-
 
 ## Awesome Python and Django
 
@@ -454,6 +376,7 @@ https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django docu
 https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
 -->
 
+
 ## Django Rest Framework
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
@@ -491,7 +414,6 @@ https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_conti
 https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
 -->
 
-
 <!--
 ## DRF
 
@@ -513,8 +435,7 @@ Valentino
 https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
 https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (and a sprinkle of testing)
 https://github.com/valentinogagliardi/django-rest-react-pycon
- -->
-
+-->
 
 ## Django Rest Framework- Extras
 
@@ -533,6 +454,7 @@ https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - 
 https://github.com/wsvincent/rest-framework-tutorial
 -->
 
+
 ## Django Classy
 
 Django Classy
@@ -540,9 +462,37 @@ Django Classy
 * [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
 * [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
 
-## Django Third Party Tools
+
+## Docs
 
 <!--
+https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
+
+Django YAML
+https://django-yamlfield.readthedocs.io/en/latest/ | django-yamlfield
+https://github.com/datadesk/django-yamlfield | datadesk/django-yamlfield: A Django database field for storing YAML data
+
+Docs
+https://docutils.sourceforge.io/rst.html | reStructuredText
+https://pandoc.org/
+
+https://twitter.com/pradyunsg/status/1462521987994112002 | Pradyun Gedam on Twitter: "Oops. I'm working on a second Sphinx theme." / Twitter
+
+Furo Theme
+https://twitter.com/AdamChainz/status/1432678359276863494 | Adam Johnson on Twitter: "Just moved the Django-MySQL docs to @pradyunsg 's excellent Furo theme 😎 https://t.co/ippjR6VV4b" / Twitter
+https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentation
+
+https://twitter.com/osdotsystem/status/1462678399252451328 | Abdur-Rahmaan 🇲🇺 Janhangeer on Twitter: "Unfortunately, @pradyunsg 's Furo is the ONLY theme i found great in the whole sphinx universe. Hope it will be another gem!" / Twitter
+-->
+
+
+## Django Third Party Tools
+
+### Local
+
+<!--
+https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
+
 Recommended by Jeff
 https://github.com/direnv
 https://direnv.net/ | direnv – unclutter your .profile | direnv
@@ -550,11 +500,28 @@ https://direnv.net/ | direnv – unclutter your .profile | direnv
 Recommended: pip-tools
 https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+-->
 
+### Debugging
+
+<!--
+IPDB
 
 https://github.com/jazzband/django-debug-toolbar
 
+Simon
+https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
 
+https://ipython.org/ | Jupyter and the future of IPython — IPython
+
+Django Shell Plus
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
+https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
+-->
+
+### Templates
+
+<!--
 HTMX + Django
 https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
 
@@ -562,6 +529,55 @@ Django Tool
 https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
 
 https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HTML Template Linter and Formatter. Use with Django, Jinja, Nunjucks and Handlebars templates.
+-->
+
+### CI/CD
+
+<!--
+https://pypi.org/project/pep8/ | pep8 · PyPI
+
+https://pypi.org/project/coverage/ | coverage · PyPI
+https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
+
+Formatting
+https://pypi.org/project/black/ | black · PyPI
+https://pypi.org/project/isort/ | isort · PyPI
+https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
+https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
+https://flake8.pycqa.org/en/latest/
+https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
+https://pypi.org/project/flake8/ | flake8 · PyPI
+-->
+
+
+
+
+<!--
+## Common Django Features
+
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
+
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+
+
+## F-Strings
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+
+## Feature Flags
+
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
 
 
 django_deprecate_fields
@@ -577,10 +593,6 @@ django-allauth
 https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
 https://pyphilly.org/know-thy-user-custom-user-models-django-allauth/
 https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
-
-Django Shell Plus
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
-https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
 
 
 Django filter
@@ -600,28 +612,20 @@ https://pypi.org/project/django-countries/ | django-countries · PyPI
 https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
 
 
-https://pypi.org/project/pep8/ | pep8 · PyPI
-
-https://pypi.org/project/coverage/ | coverage · PyPI
-https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
-
-Formatting
-https://pypi.org/project/black/ | black · PyPI
-https://pypi.org/project/isort/ | isort · PyPI
-https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
-https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
-https://flake8.pycqa.org/en/latest/
-https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
-https://pypi.org/project/flake8/ | flake8 · PyPI
-
-
-Simon
-https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
-
-https://ipython.org/ | Jupyter and the future of IPython — IPython
-
 Model History
 https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
+
+
+## Python Language Server
+
+https://github.com/microsoft/pylance-release | microsoft/pylance-release: Documentation and issues for Pylance
+https://twitter.com/brettsky/status/1278107004930646016 | Brett Cannon on Twitter: "The new language server that works with @pythonvscode is fast, utilizes type hints appropriately, and most importantly is named after a Monty Python character! " / Twitter
+
+Python Language Server
+https://blogs.msdn.microsoft.com/pythonengineering/2018/07/18/introducing-the-python-language-server/ | Introducing the Python Language Server – Python at Microsoft
+https://microsoft.github.io/language-server-protocol/specification
+https://github.com/Microsoft/python-language-server
+https://github.com/palantir/python-language-server | palantir/python-language-server: An implementation of the Language Server Protocol for Python
 
 
 PyLance
@@ -629,40 +633,11 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance
 https://devblogs.microsoft.com/python/announcing-pylance-fast-feature-rich-language-support-for-python-in-visual-studio-code/
 
 
-https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
-
 Attrs
 https://pepy.tech/project/attrs | PePy - attrs Download Stats
 -->
 
-## Docs
 
-<!--
-Django YAML
-https://django-yamlfield.readthedocs.io/en/latest/ | django-yamlfield
-https://github.com/datadesk/django-yamlfield | datadesk/django-yamlfield: A Django database field for storing YAML data
-
-Docs
-https://docutils.sourceforge.io/rst.html | reStructuredText
-https://pandoc.org/
-
-Furo Theme
-https://twitter.com/AdamChainz/status/1432678359276863494 | Adam Johnson on Twitter: "Just moved the Django-MySQL docs to @pradyunsg 's excellent Furo theme 😎 https://t.co/ippjR6VV4b" / Twitter
-https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentation
--->
-
-
-## Common Django Features
-
-<!--
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
-https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
-
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-Django Request and Response Cycle
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
--->
 
 ## Django Performance, Optimization, Deployment, Architecture
 
@@ -895,6 +870,7 @@ https://us.pycon.org/2016/schedule/presentation/2266/
 http://mypy.readthedocs.io
 -->
 
+
 ## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
 
 * [NGINX](https://www.nginx.com/)
@@ -1017,6 +993,63 @@ https://twitter.com/rauchg/status/1217993541730725894
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 -->
 
+<!--
+## Browser, Extensions, Bindings
+
+
+Cuda Python
+https://developer.nvidia.com/cuda-toolkit
+
+
+Python Browser
+https://brython.info/
+https://wxpython.org/ | Welcome to wxPython! | wxPython
+https://github.com/pyodide/pyodide
+
+Webassembly
+https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
+
+Pyodide WASM backend
+https://github.com/pyodide/pyodide/blob/89682dabfe32cb9f6508a18a5e838e349801675a/packages/matplotlib/src/wasm_backend.py
+https://twitter.com/DynamicWebPaige/status/1454250209387577348 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "Reading source is a healthy reminder that our entire Python OSS world is built out of LEGO by a scrappy contingent of brilliant, resourceful humans: https://t.co/EV0CHVZQOk "distutils has no cross-compilation story. This is a hack, which miraculously works, to get around that." https://t.co/W9udcIm8YA" / Twitter
+
+
+PyOxidizer
+A tool for roducing binaries that embed Python
+https://github.com/indygreg/PyOxidizer
+
+## Rust
+
+Python- Rust Bindings
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
+
+## Python Extensions
+
+https://pythonspeed.com/articles/rust-cython-python-extensions/ | Cython, Rust, and more: choosing a language for Python extensions
+
+C-Extensions for Python
+https://cython.org/
+
+Assembly Extensions
+https://tonybaloney.github.io/posts/extending-python-with-assembly.html | Writing Python Extensions in Assembly
+
+## Python C API
+
+Python C API
+https://pythoncapi.readthedocs.io/runtime.html
+https://github.com/Quansight-Labs/python-api-inspect/blob/master/inspect_api/inspect.py | python-api-inspect/inspect.py at master · Quansight-Labs/python-api-inspect
+
+https://docs.python.org/3/c-api/stable.html | Stable Application Binary Interface — Python 3.9.5 documentation
+https://docs.python.org/3/c-api/arg.html#other-objects | Parsing arguments and building values — Python 3.8.2 documentation
+
+## C++ and Python
+
+C++ and Python
+https://github.com/boostorg/python | boostorg/python: Boost.org python module
+-->
+
+
 ### Python on Other Platforms
 
 Rust
@@ -1081,6 +1114,7 @@ https://twitter.com/wasmerio/status/1146477876151115776 | Wasmer on Twitter: "�
 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 -->
+
 
 ### Python Gilectomy and Multi-Core
 
