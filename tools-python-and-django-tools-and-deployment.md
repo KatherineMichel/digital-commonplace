@@ -5,6 +5,13 @@ Pyenv Global
 https://twitter.com/webology/status/699277088256163840
 
 
+## Dict View
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
+
+
 ORM Optimization
 https://docs.djangoproject.com/en/3.2/topics/db/optimization/ | Database access optimization | Django documentation | Django
 
@@ -984,6 +991,7 @@ Static Types
 https://twitter.com/rauchg/status/1217993541730725894
 https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 -->
+
 
 <!--
 ## Browser, Extensions, Bindings
