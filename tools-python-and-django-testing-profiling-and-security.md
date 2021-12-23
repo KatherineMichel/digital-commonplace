@@ -6,6 +6,8 @@
 Important- Lighthouse
 https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
 
+https://twitter.com/AutomationPanda/status/1463585787690328071 | Pandy Knight on Twitter: "Wow, @playwrightweb handles many of the granular Selenium WebDriver actions that Boa Constrictor had to handle. This is so nice!" / Twitter
+
 https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
 https://twitter.com/AutomationPanda/status/1466494032108998665 | https://twitter.com/AutomationPanda/status/1466494032108998665
 https://playwright.dev/python/docs/intro/ | Getting started | Playwright Python
