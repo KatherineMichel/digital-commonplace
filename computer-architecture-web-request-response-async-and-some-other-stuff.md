@@ -3,23 +3,11 @@
 <!--
 ## Innovations
 
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
-
-
 API
 https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
 https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-
-GraphQL
-https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
 
 Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
@@ -184,6 +172,11 @@ Fast API
 <!--
 https://fastapi.tiangolo.com/#performance
 
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+
 Postman	
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 
@@ -215,6 +208,100 @@ https://github.com/api-evangelist
 https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
 https://www.programmableweb.com/category/all/apis
+-->
+
+
+## SQL
+
+Examples of Popular Relational Databases
+* [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
+* [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
+* [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
+
+SQL Learning Resources
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+<!--
+https://www.postgresql.org/about/ | PostgreSQL: About
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
+https://www.sqlite.org/serverless.html | SQLite Is Serverless
+https://www.sqlite.org/json1.html | The JSON1 Extension
+
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+## SQL Related
+
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+
+<!--
+SQLModel (By author of FastAPI and Typer)
+https://github.com/tiangolo/sqlmodel
+
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+https://sqlitebrowser.org/
+https://twitter.com/rlconley/status/1358856609208954881 | Rebecca Conley on Twitter: "@FlipperPA @z_anderle I use DB Browser for SQL Lite, or the equivalent for PostgreSQL, to see values at an instance level." / Twitter
+
+https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
+https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
+-->
+
+## Rest API Alternatives
+
+"GraphQL is a query language for APIs " (REST Alternative)
+* [GraphQL](http://graphql.org/)
+* [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
+
+Rest Alternative
+* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
+
+<!--
+GraphQL
+https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+See GraphQL
+
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+-->
+
+<!--
+https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
+
+https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+https://github.com/graphql-python | GraphQL Python
+-->
+
+## Performance and Metrics
+
+<!--
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+See also: Data Science
+https://github.com/keen/cohorts
 -->
 
 
@@ -443,33 +530,6 @@ https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a
 https://www.tutorialspoint.com/html5/html5_websocket.htm
 -->
 
-
-## Rest API Alternatives
-
-"GraphQL is a query language for APIs " (REST Alternative)
-* [GraphQL](http://graphql.org/)
-* [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
-
-Rest Alternative
-* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
-
-<!--
-See GraphQL
-
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
--->
-
-<!--
-https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
-
-https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-https://github.com/graphql-python | GraphQL Python
--->
-
-
 ## Serialization, JSON, XML, Ajax
 
 * [Serialization Wikipedia](https://en.m.wikipedia.org/wiki/Serialization)
@@ -520,44 +580,6 @@ https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language�
 
 JSON and YAML
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
--->
-
-
-## Performance and Metrics
-
-<!--
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-
-## SQL Related
-
-The Python SQL Toolkit and Object Relational Mapper
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
-<!--
-https://www.postgresql.org/about/ | PostgreSQL: About
-http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
-https://www.sqlite.org/serverless.html | SQLite Is Serverless
-https://www.sqlite.org/json1.html | The JSON1 Extension
-
-https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
-https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
 -->
 
 ## Used Less Often
@@ -876,11 +898,6 @@ Relational
 * [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
 * [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
 
-Examples of Popular Relational Databases
-* [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
-* [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
-* [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
-
 Relational
 * [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system) 
 * [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
@@ -926,20 +943,6 @@ http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
 http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
 http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
 -->
-
-## SQL
-
-* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-
-<!--
-http://en.wikipedia.org/wiki/SQL#Queries
--->
-
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
 
 ## Protocols
 
