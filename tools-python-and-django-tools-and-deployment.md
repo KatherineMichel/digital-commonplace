@@ -551,17 +551,6 @@ https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HT
 <!--
 https://pypi.org/project/coverage/ | coverage · PyPI
 https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
-
-https://pypi.org/project/pep8/ | pep8 · PyPI
-
-Formatting
-https://pypi.org/project/black/ | black · PyPI
-https://pypi.org/project/isort/ | isort · PyPI
-https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
-https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
-https://flake8.pycqa.org/en/latest/
-https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
-https://pypi.org/project/flake8/ | flake8 · PyPI
 -->
 
 
@@ -736,6 +725,18 @@ https://github.com/timothycrosley/isort/issues/694
 ?
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
+
+
+https://pypi.org/project/pep8/ | pep8 · PyPI
+
+Formatting
+https://pypi.org/project/black/ | black · PyPI
+https://pypi.org/project/isort/ | isort · PyPI
+https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
+https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
+https://flake8.pycqa.org/en/latest/
+https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
+https://pypi.org/project/flake8/ | flake8 · PyPI
 -->
 
 Not used?
