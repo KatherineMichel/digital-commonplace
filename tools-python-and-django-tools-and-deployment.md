@@ -1,28 +1,6 @@
 # Python and Django Tools and Deployment
 
 <!--
-Pyenv Global
-https://twitter.com/webology/status/699277088256163840
-
-
-## Dict View
-
-https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
-
-https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
-
-
-ORM Optimization
-https://docs.djangoproject.com/en/3.2/topics/db/optimization/ | Database access optimization | Django documentation | Django
-
-## Django Performance
-
-https://docs.djangoproject.com/en/3.2/topics/performance/
-
-## Django Security Policy
-
-https://docs.djangoproject.com/en/3.2/internals/security/
-
 ## Anthony
 
 pre-commit
@@ -31,6 +9,22 @@ https://github.com/pre-commit/pre-commit/
 
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
 https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
+
+Pyenv Global
+https://twitter.com/webology/status/699277088256163840
+
+Important!
+https://pyphilly.org/virtualenvwrapper-aliases-venv-users/
+https://twitter.com/DawnWagesSays/status/1429843476447830016 | dawn (she/her) on Twitter: "Imma be real, I’ve been trying to phase pipenv out but I like it. Thanks to @FlipperPA , when I venv I use it like dis: https://t.co/w2OQvj1WIc" / Twitter
+
+
+## Dict View
+
+https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
+
+https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
+
 
 ## Choices
 
@@ -137,6 +131,10 @@ Django Performance and Optimization
 * [Django Performance](https://docs.djangoproject.com/en/dev/topics/performance)
 * [Django Database Access Optimization](https://docs.djangoproject.com/en/dev/topics/db/optimization)
 
+<!--
+Adam tip
+-->
+
 ## Python Debugger and doctests
 
 Python Debugger
@@ -204,6 +202,12 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javasc
 
 * [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
 * [How Django Discloses Security Issues](https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues)
+
+<!--
+## Django Security Policy
+
+https://docs.djangoproject.com/en/3.2/internals/security/
+-->
 
 ### Django Security
 
@@ -545,10 +549,10 @@ https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HT
 ### CI/CD
 
 <!--
-https://pypi.org/project/pep8/ | pep8 · PyPI
-
 https://pypi.org/project/coverage/ | coverage · PyPI
 https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
+
+https://pypi.org/project/pep8/ | pep8 · PyPI
 
 Formatting
 https://pypi.org/project/black/ | black · PyPI
@@ -564,6 +568,8 @@ https://pypi.org/project/flake8/ | flake8 · PyPI
 
 
 <!--
+https://www.attrs.org/en/stable/
+
 ## Common Django Features
 
 http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
@@ -629,11 +635,6 @@ https://github.com/coderholic/django-cities | coderholic/django-cities: Countrie
 
 Model History
 https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
-
-
-
-Attrs
-https://pepy.tech/project/attrs | PePy - attrs Download Stats
 -->
 
 
@@ -994,6 +995,20 @@ https://alexnixon.github.io/2020/01/14/static-types-are-dangerous.html
 
 
 <!--
+https://twitter.com/newsycombinator/status/1465184263100407808 | Hacker News on Twitter: "CPython's main branch running in the browser with WebAssembly https://t.co/vd59knSJiL" / Twitter
+
+https://twitter.com/ethanhs/status/1464308141105967104 | (2) ethantyping on Twitter: "Thanks to recent commits by @ChristianHeimes, I figured out the correct incantations to build CPython's main branch for the web! This is stock Python running *in the browser*. My scripts to build this are at https://t.co/UxhHLBupj4 Lots of work to fix things though... 👷 https://t.co/gIFlVNpNiX" / Twitter
+
+C-extensions, HPy, EPython
+https://github.com/pyhandle/hpy | pyhandle/hpy: HPy: a better API for Python
+"The PEP summarizes the research work I'm doing on CPython C API since 2017 and the changes that me and others made since Python 3.7 towards an opaque C API. It is also a collaboration with developers of PyPy, HPy, Rust-CPython and many others! Thanks to everyone who helped me!"
+https://twitter.com/VictorStinner/status/1248666328984059905
+"HPy (https://github.com/pyhandle/hpy) is a joint project which is being developed by PyPy, CPython and Cython developers. It aims to design a better C API for writing #Python extensions"
+https://twitter.com/trebor74hr/status/1252729526540472323
+https://twitter.com/teoliphant/status/1203341184481054720 | Travis Oliphant on Twitter: "Given I've spent many years actually writing many popular C-extensions for Python, please take note of this strong recommendation! https://t.co/U5MPMTlOcp" / Twitter
+https://twitter.com/teoliphant/status/1217611221396082695
+
+
 ## Browser, Extensions, Bindings
 
 
@@ -1003,6 +1018,8 @@ https://developer.nvidia.com/cuda-toolkit
 
 Python Browser
 https://brython.info/
+Traversy Media Brython tutorial
+https://m.youtube.com/watch?feature=youtu.be&v=VJj-H4we71g
 https://wxpython.org/ | Welcome to wxPython! | wxPython
 https://github.com/pyodide/pyodide
 
@@ -1012,6 +1029,10 @@ https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python s
 Pyodide WASM backend
 https://github.com/pyodide/pyodide/blob/89682dabfe32cb9f6508a18a5e838e349801675a/packages/matplotlib/src/wasm_backend.py
 https://twitter.com/DynamicWebPaige/status/1454250209387577348 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "Reading source is a healthy reminder that our entire Python OSS world is built out of LEGO by a scrappy contingent of brilliant, resourceful humans: https://t.co/EV0CHVZQOk "distutils has no cross-compilation story. This is a hack, which miraculously works, to get around that." https://t.co/W9udcIm8YA" / Twitter
+
+Pyodide, WebAssembly
+https://twitter.com/DynamicWebPaige/status/1452863201125625862 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "🤔Oh, interesting! TIL that https://t.co/2aJizm5TLk, @Github's largest open-source algorithms library, lists the #Pyodide project as a dependency for its Python code samples (Pyodide = the Python data science stack in the browser, powered by WebAssembly). https://t.co/vO20DZXXXl https://t.co/loPOQpU5oe" / Twitter
+https://github.com/TheAlgorithms/website/tree/8a0c439788c54b64ced9c468d56ec43a5d7b140e | TheAlgorithms/website at 8a0c439788c54b64ced9c468d56ec43a5d7b140e
 
 
 PyOxidizer
