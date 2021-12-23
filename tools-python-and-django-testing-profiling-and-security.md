@@ -1,6 +1,18 @@
 # Tools- Python and Django Testing, Profiling, and Security
 
 <!--
+## Playwright
+
+Important- Lighthouse
+https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
+
+https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
+https://twitter.com/AutomationPanda/status/1466494032108998665 | https://twitter.com/AutomationPanda/status/1466494032108998665
+https://playwright.dev/python/docs/intro/ | Getting started | Playwright Python
+https://github.com/AutomationPanda/tau-playwright-workshop | AutomationPanda/tau-playwright-workshop: The Playwright Workshop for TAU: The Homecoming
+https://twitter.com/mblayman/status/1467338990810447872 | Matt Layman on Twitter: "@AutomationPanda @playwrightweb I haven't used Playwright, but the system automation team at my company uses ScreenPy with much success. It's the Screenplay Pattern implemented as a native #Python library. I think it's worth a look. https://t.co/PsUG34pvBz" / Twitter
+
+
 Django
 https://gumroad.com/l/suydt | Speed Up Your Django Tests
 https://www.reddit.com/r/django/comments/gs5k38/book_review_speed_up_your_django_tests/ | Book Review: Speed Up Your Django Tests : django
