@@ -413,5 +413,7 @@ The Chung Report
 * [One Delightful Life](https://onedelightfullife.com/)
 
 <!--
+https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
+
 https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
