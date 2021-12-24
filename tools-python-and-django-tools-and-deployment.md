@@ -1043,6 +1043,7 @@ https://github.com/indygreg/PyOxidizer
 ## Rust
 
 Python- Rust Bindings
+https://pyo3.rs/v0.12.3/ | Introduction - PyO3 user guide
 https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
 https://github.com/PyO3/setuptools-rust | PyO3/setuptools-rust: Setuptools plugin for Rust support
 
