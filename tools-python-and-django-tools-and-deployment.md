@@ -1060,6 +1060,8 @@ https://tonybaloney.github.io/posts/extending-python-with-assembly.html | Writin
 ## Python C API
 
 Python C API
+https://docs.python.org/3/c-api/stable.html | C API Stability — Python 3.10.0 documentation
+https://pythoncapi.readthedocs.io/ | Design a new better C API for Python — pythoncapi 0.1 documentation
 https://pythoncapi.readthedocs.io/runtime.html
 https://github.com/Quansight-Labs/python-api-inspect/blob/master/inspect_api/inspect.py | python-api-inspect/inspect.py at master · Quansight-Labs/python-api-inspect
 
