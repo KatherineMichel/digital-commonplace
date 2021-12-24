@@ -42,6 +42,7 @@ https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
+
 ## Eric
 
 https://twitter.com/ehmatthes/status/1466539581436616704 | Eric Matthes on Twitter: "This is a milestone I've been looking forward to sharing. django-simple-deploy has preliminary support for Azure, which means you can deploy to Heroku or Azure with the same three steps: https://t.co/LMwY1VFaEB https://t.co/xVSFP7AK2l" / Twitter
@@ -52,13 +53,36 @@ https://github.com/ehmatthes/django-simple-deploy | ehmatthes/django-simple-depl
 https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
 https://twitter.com/ehmatthes/status/1454839778587725841 | Eric Matthes on Twitter: "django-simple-deploy now supports projects that use Poetry. Next I'm going to try adding an `--automate-all` flag that should reduce the entire process to three steps. Then, if possible, I'll add support for at least one other platform." / Twitter
 
-Deployment 
+
+## Deployment
+ 
 Django SaaS Starter Kit
 https://twitter.com/carltongibson/status/1337087410203717636 | https://twitter.com/carltongibson/status/1337087410203717636
 https://docs.saaspegasus.com/
 https://www.saaspegasus.com/
 
 https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
+
+
+## Tools
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+
+Watchman
+https://blog.acolyer.org/2020/09/21/watchman/ | Watchman: monitoring dependency conflicts for Python library ecosystem | the morning paper
+
+curlylint
+https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
+
+scriv
+https://twitter.com/nedbat/status/1307815498365775872 | Ned Batchelder on Twitter: "I went and wrote a changelog tool called scriv: https://t.co/2aHoL4in9v (Why? https://t.co/4VHUSDyUk0)" / Twitter
+
+cog
+https://twitter.com/hynek/status/1460897764338974725 | Hynek Schlawack on Twitter: "As a test balloon, I’ve switched structlog from https://t.co/PihDrIF58S to flit w/ pyproject.toml in combination with @nedbat’s cog to maintain some deduplication. I think I like it! Sharp tools that do one thing well FTW. https://t.co/w2RM4Ckyke" / Twitter
+https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ on Twitter: "⚙ Cog will always be near and dear to my heart. It was one of the first two or three Python apps that I used before I was a Python developer. ➡️ Check out @simonw's writeup and I'm happy I could bring more awareness of the app." / Twitter
+
+setuptools-scm
+https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
 -->
 
 ## Awesome Python and Django
