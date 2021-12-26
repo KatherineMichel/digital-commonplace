@@ -1,16 +1,15 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-## Innovations
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
 
 API
 https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
 https://en.wikipedia.org/wiki/Endpoint | Endpoint - Wikipedia
 
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
 
 https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
 
@@ -23,12 +22,6 @@ https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Leve
 
 Learn assembly
 https://www.xorpd.net/ | xorpd
-
-
-https://en.wikipedia.org/wiki/Port_(computer_networking) | Port (computer networking) - Wikipedia
-https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports
-https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers | List of TCP and UDP port numbers - Wikipedia
-https://en.wikipedia.org/wiki/Computer_port_(hardware) | Computer port (hardware) - Wikipedia
 
 
 https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
@@ -46,19 +39,8 @@ https://github.com/llvm/llvm-project
 Like the other
 http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
 
-MongoDB/Cap
-https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
-https://github.com/dcramer/mangodb
-
-https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
-
-
-https://github.com/snowflakedb | Snowflake Computing
-https://prestodb.io/
-
 https://en.wikipedia.org/wiki/POSIX
 https://pop.system76.com/
-
 
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
@@ -82,6 +64,75 @@ http://restcookbook.com/Miscellaneous/rest-and-http/
 -->
 
 
+## Networks
+
+<!--
+https://en.wikipedia.org/wiki/5G
+https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
+-->
+
+## Auth
+
+* [OAuth.io](https://oauth.io/)
+* [Auth0](https://auth0.com/)
+
+<!--
+https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
+
+* [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
+
+https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
+https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
+
+https://en.wikipedia.org/wiki/Single_sign-on
+https://en.wikipedia.org/wiki/SAML_2.0
+https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
+
+https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
+https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
+
+https://en.wikipedia.org/wiki/Basic_access_authentication
+https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
+
+Third-party services
+https://en.wikipedia.org/wiki/OpenID
+OpenID identity provider
+https://en.wikipedia.org/wiki/Identity_provider_(SAML)
+"OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol"
+https://en.wikipedia.org/wiki/OpenID_Connect
+https://openid.net/ | OpenID Foundation website
+
+Web, mobile and desktop apps
+https://en.wikipedia.org/wiki/OAuth
+https://en.wikipedia.org/wiki/OAuth#OAuth_2.0_2
+https://oauth.net/ | OAuth Community Site
+https://oauth.net/2/ | OAuth 2.0 — OAuth
+
+https://developers.google.com/identity/protocols/OAuth2
+
+
+Authentication
+JSON Web Token (JWT)
+https://en.wikipedia.org/wiki/JSON_Web_Token
+https://jwt.io/ | JSON Web Tokens - jwt.io
+https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
+
+https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
+https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
+https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
+
+https://twofactorauth.org/ | 502 Bad Gateway
+https://twofactorauth.org/#banking | Two Factor Auth List
+
+https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
+
+Google Auth
+https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
+-->
+
+
 ## Philosophies
 
 * [12 Factor App](http://12factor.net) and [12 Factor App Config](http://12factor.net/config)
@@ -100,67 +151,68 @@ https://environ-config.readthedocs.io/en/latest/ | environ-config: Application C
 https://github.com/microservices/cli
 -->
 
-## Computer Architecture
 
-CPU versus IO
-* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
-* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
-* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
-* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound)
-* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
+## Benchmarking
 
-Ports
-* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
+Performance
+* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
+* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
 
-<!--
-https://en.wikipedia.org/wiki/Memory_bound_function
-
-Interesting!
-https://en.wikipedia.org/wiki/Execution_model
-https://en.wikipedia.org/wiki/Scheduling_(computing)
-
-https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-https://en.wikipedia.org/wiki/Event-driven_programming
-https://en.wikipedia.org/wiki/Event-driven_messaging
--->
-
-## General Software Design Patterns
-
-## Architectures
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
-
-Hawt
-* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-
-Architectures
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
+Throttling and Rate Limiting
+* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
+* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
+* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
 
 <!--
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
 
-Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
-https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
-https://en.wikipedia.org/wiki/Software_architecture
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Messaging_pattern
-
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
 -->
 
+## Database Tools
+
+<!--
+https://www.postgresql.org/about/ | PostgreSQL: About
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
+https://www.sqlite.org/serverless.html | SQLite Is Serverless
+https://www.sqlite.org/json1.html | The JSON1 Extension
+
+MongoDB/Cap
+https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
+https://github.com/dcramer/mangodb
+
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+
+https://github.com/snowflakedb | Snowflake Computing
+https://prestodb.io/
+-->
+
+## SQL Related
+
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+
+<!--
+SQLModel (By author of FastAPI and Typer)
+https://github.com/tiangolo/sqlmodel
+
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+https://sqlitebrowser.org/
+https://twitter.com/rlconley/status/1358856609208954881 | Rebecca Conley on Twitter: "@FlipperPA @z_anderle I use DB Browser for SQL Lite, or the equivalent for PostgreSQL, to see values at an instance level." / Twitter
+
+https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
+https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
+-->
 
 ## API
 
@@ -211,51 +263,6 @@ https://github.com/TonnyL/Awesome_APIs
 https://www.programmableweb.com/category/all/apis
 -->
 
-
-## SQL
-
-Examples of Popular Relational Databases
-* [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
-* [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
-* [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
-
-SQL Learning Resources
-* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
-* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
-* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
-* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
-
-Stanford Open Classroom- Introduction to Databases
-* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
-
-<!--
-https://www.postgresql.org/about/ | PostgreSQL: About
-http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
-https://www.sqlite.org/serverless.html | SQLite Is Serverless
-https://www.sqlite.org/json1.html | The JSON1 Extension
-
-http://en.wikipedia.org/wiki/SQL#Queries
--->
-
-## SQL Related
-
-The Python SQL Toolkit and Object Relational Mapper
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
-<!--
-SQLModel (By author of FastAPI and Typer)
-https://github.com/tiangolo/sqlmodel
-
-https://django-extensions.readthedocs.io/en/latest/graph_models.html
-https://sqlitebrowser.org/
-https://twitter.com/rlconley/status/1358856609208954881 | Rebecca Conley on Twitter: "@FlipperPA @z_anderle I use DB Browser for SQL Lite, or the equivalent for PostgreSQL, to see values at an instance level." / Twitter
-
-https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
-https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
--->
 
 ## Rest API Alternatives
 
@@ -308,6 +315,231 @@ https://github.com/keen/cohorts
 -->
 
 
+
+## Database Options
+
+Databases
+* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
+* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
+* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
+* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
+* [Comparison of Database Tools Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_database_tools)  
+
+Schema and Model
+* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
+* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model) 
+
+Relational
+* [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
+* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
+* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
+* [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
+
+Relational
+* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system) 
+* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
+* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
+
+Object-Relational Database
+* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
+* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
+* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
+
+Architecture
+* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+
+<!--
+* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
+-->
+
+More Database Stuff
+* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
+* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
+* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
+* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
+* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
+* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
+
+<!--
+ORM, MRO
+https://www.fullstackpython.com/object-relational-mappers-orms.html
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Primary_key
+
+https://twitter.com/simonw/status/1113134366601838592
+https://backchannel.org/blog/friendfeed-schemaless-mysql | How FriendFeed uses MySQL to store schema-less data
+
+https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
+
+http://en.wikipedia.org/wiki/Database_normalization
+http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
+
+http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
+http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+
+https://en.wikipedia.org/wiki/Multitenancy
+https://en.wikipedia.org/wiki/Federated_database_system
+delegated database
+Google Spanner versus Calvin Protocol - Google Search
+-->
+
+
+## SQL
+
+Examples of Popular Relational Databases
+* [SQLite Wikipedia](https://en.wikipedia.org/wiki/SQLite)
+* [PostgreSQL Wikipedia](https://en.wikipedia.org/wiki/PostgreSQL)
+* [MySQL Wikipedia](https://en.wikipedia.org/wiki/MySQL)
+
+SQL Learning Resources
+* [SQL (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/SQL)  
+* [W3Schools SQL](http://www.w3schools.com/sql/default.asp)
+* [Learn to Code the Hard Way- SQL](http://sql.learncodethehardway.org/book/introduction.html)  
+* [Khan Academy Intro to SQL](https://www.khanacademy.org/computing/computer-programming/sql)
+
+Stanford Open Classroom- Introduction to Databases
+* [Stanford Open Classroom- Introduction to Databases](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToDatabases)  
+
+<!--
+http://en.wikipedia.org/wiki/SQL#Queries
+-->
+
+
+## Database Architectures and Principles
+
+CAP Theorem
+* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
+* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
+* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
+* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+
+Database Principles
+* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
+* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
+* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
+* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+
+Distributed and Parallel Computing
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+
+Shard
+* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+
+<!--
+https://en.wikipedia.org/wiki/Online_analytical_processing
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications | Create, read, update and delete - Wikipedia
+
+AP, CP or CA Databases
+
+https://en.wikipedia.org/wiki/Distributed_transaction
+https://en.wikipedia.org/wiki/Atomic_commit
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+
+OOP
+https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
+
+System
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Other_variations
+
+Bread and crud
+https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
+
+https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
+-->
+
+
+## HTTP Versions
+
+* [HTTP/3 Wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
+* [HTTP/2 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
+* [HTTP/2- Differences from HTTP/1.1 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1)
+
+## HTTP, HTTPS, Web Browser, Client/Server
+
+HTTP and HTTPS
+* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+
+Web Browsers and Servers
+* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
+* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
+* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
+
+Servers
+* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
+
+Request and Response Cycle
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+
+Client and Server-Side
+* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
+* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
+* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
+* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
+
+Client-Side
+* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
+* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
+
+Server-Side
+* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
+* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
+
+Scripting, Client-Side and Server-Side
+* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
+* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
+* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
+
+<!--
+https://en.wikipedia.org/wiki/User_agent
+-->
+
+## Request and Response Cycle, HTTP
+
+Request and Response Cycle- HTTP
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+Methods
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+
+More
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
+
+<!--
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
+
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Common_non-standard_request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
+
+
+https://en.wikipedia.org/wiki/HTTP_message_body
+
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
+https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
+https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
+https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
+
+https://en.wikipedia.org/wiki/Server_log
+-->
 ## Mozilla- HTTP, Request and Response Cycle
 
 Mozilla- HTTP- General
@@ -389,49 +621,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduct
 https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 -->
 
-
-## Request and Response Cycle, HTTP
-
-Request and Response Cycle- HTTP
-* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
-
-Methods
-* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
-* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
-
-More
-* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
-* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
-* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
-
-<!--
-https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
-
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_request_fields
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Common_non-standard_request_fields
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
-https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
-
-
-https://en.wikipedia.org/wiki/HTTP_message_body
-
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
-https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
-https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
-https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
-https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
-
-https://en.wikipedia.org/wiki/Server_log
--->
-
-## Mozilla JavaScript- Forms
-
-<!--
-https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
-https://developer.mozilla.org/en-US/docs/Learn/Forms
--->
-
 ## HTTP Sessions and Cookies
 
 Mozilla HTTP Sessions
@@ -453,10 +642,15 @@ https://en.wikipedia.org/wiki/HTTP_cookie#Http-only_cookie
 Authentication cookie
 -->
 
-## APIs, Callbacks, Webhooks
+## Mozilla JavaScript- Forms
 
-CRUD
-* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
+https://developer.mozilla.org/en-US/docs/Learn/Forms
+-->
+
+
+## APIs, Callbacks, Webhooks
 
 Application Programming Interface (API... usually HTTP + XML or JSON)
 * [Application Programming Interface Web APIs](https://en.wikipedia.org/wiki/Application_programming_interface#Web_APIs)
@@ -479,59 +673,6 @@ Webhooks (Event-driven, custom callback... the format is usually JSON. The reque
 
 Callbacks (implemented often as subroutines, lambda expressions, blocks, or function pointers)
 * [Callback Wikipedia](https://en.wikipedia.org/wiki/Callback_(computer_programming))
-
-<!--
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Other_variations
-
-Bread and crud
-https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on Twitter: "@ChatDjango - Many DBAs I have worked with now prefer BREAD over CRUD for web/interactive applications. (CRUD still applies to batch processing.) BREAD = Browse, Read, Edit, Add, Delete; Browse refers to the ability to search for data for which you may have other access rights." / Twitter
-
-https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
--->
-
-## Async Benefits?
-
-HTTP versus WebSocket (HTTP is uni-directional; WebSocket is bi-directional)
-* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-
-Benefits of Async
-* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
-* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
-* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
-
-<!--
-Important
-"HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
-https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
-https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
-https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
--->
-
-<!--
-https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
-
-See Tom's Talk
-Real time
-non-blocking http requests
-light-weight parallelization
-https://en.wikipedia.org/wiki/Parallel_computing
-explicit i/o
-
-https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
-Also, Ajax Polling explained
-
-polling versus webhooks
-https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
-
-Websockets
-https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
-https://www.tutorialspoint.com/html5/html5_websocket.htm
--->
 
 ## Serialization, JSON, XML, Ajax
 
@@ -605,6 +746,7 @@ https://grpc.io/
 https://grpc.io/docs/guides/
 -->
 
+
 ## Network Tools and Other Utilities
 
 Bot Tools
@@ -614,123 +756,6 @@ Bot Tools
 
 <!--
 https://sans-io.readthedocs.io/#implementations | Network protocols, sans I/O — Sans I/O 1.0.0 documentation
--->
-
-
-## Networks
-
-<!--
-https://en.wikipedia.org/wiki/5G
-https://en.wikipedia.org/wiki/4G | 4G - Wikipedia
--->
-
-
-## Auth
-
-* [OAuth.io](https://oauth.io/)
-* [Auth0](https://auth0.com/)
-
-<!--
-https://en.wikipedia.org/wiki/Time-based_One-time_Password_algorithm | Time-based One-time Password algorithm - Wikipedia
-
-* [An Introduction to OAuth 2](https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2)
-
-https://en.wikipedia.org/wiki/Role-based_access_control | Role-based access control - Wikipedia
-https://twitter.com/mojombo/status/1296591273361461248 | Tom Preston-Werner on Twitter: "A huge amount of work is represented in @RedwoodJS v0.16 and a testament to our amazing and growing set of contributors. I'm especially excited to announce role-based access control (RBAC) in this release (special thanks to @dthyresson and @appfactory)! More on Vercel later. =)" / Twitter
-
-https://en.wikipedia.org/wiki/Single_sign-on
-https://en.wikipedia.org/wiki/SAML_2.0
-https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
-
-https://mherman.org/presentations/node-oauth-openid/#1 | Introduction to OAuth 2.0 and OpenID Connect
-https://github.com/mjhea0/node-oauth-openid | mjhea0/node-oauth-openid
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentication | HTTP authentication - HTTP | MDN
-
-https://en.wikipedia.org/wiki/Basic_access_authentication
-https://en.wikipedia.org/wiki/Initiative_for_Open_Authentication
-
-Third-party services
-https://en.wikipedia.org/wiki/OpenID
-OpenID identity provider
-https://en.wikipedia.org/wiki/Identity_provider_(SAML)
-"OpenID Connect 1.0 is a simple identity layer on top of the OAuth 2.0 protocol"
-https://en.wikipedia.org/wiki/OpenID_Connect
-https://openid.net/ | OpenID Foundation website
-
-Web, mobile and desktop apps
-https://en.wikipedia.org/wiki/OAuth
-https://en.wikipedia.org/wiki/OAuth#OAuth_2.0_2
-https://oauth.net/ | OAuth Community Site
-https://oauth.net/2/ | OAuth 2.0 — OAuth
-
-https://developers.google.com/identity/protocols/OAuth2
-
-
-Authentication
-JSON Web Token (JWT)
-https://en.wikipedia.org/wiki/JSON_Web_Token
-https://jwt.io/ | JSON Web Tokens - jwt.io
-https://github.com/dwyl/learn-json-web-tokens | dwyl/learn-json-web-tokens: Learn how to use JSON Web Token (JWT) to secure your next Web App! (Tutorial/Example with Tests!!)
-
-https://auth0.com/blog/cookies-vs-tokens-definitive-guide/ | Cookies vs Tokens: The Definitive Guide
-https://auth0.com/learn/token-based-authentication-made-easy/ | Token Based Authentication Made Easy - Auth0
-https://github.com/auth0/auth0-python | auth0/auth0-python: All information regarding using Auth0 with Python
-
-https://twofactorauth.org/ | 502 Bad Gateway
-https://twofactorauth.org/#banking | Two Factor Auth List
-
-https://github.com/OAI/OpenAPI-Specification/releases/tag/3.0.1 | Release OAS 3.0.1 Released! · OAI/OpenAPI-Specification
-
-Google Auth
-https://google-auth.readthedocs.io/en/latest/reference/google.oauth2.service_account.html#google.oauth2.service_account.Credentials.from_service_account_file | google.oauth2.service_account module — google-auth 1.6.2 documentation
--->
-
-## HTTP Versions
-
-* [HTTP/3 Wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
-* [HTTP/2 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
-* [HTTP/2- Differences from HTTP/1.1 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1)
-
-## HTTP, HTTPS, Web Browser, Client/Server
-
-HTTP and HTTPS
-* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
-* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
-* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
-
-Web Browsers and Servers
-* [Web Browser Wikipedia](https://en.wikipedia.org/wiki/Web_browser)
-* [Application Server Wikipedia](https://en.wikipedia.org/wiki/Application_server)
-* [Web Server Wikipedia](https://en.wikipedia.org/wiki/Web_server)
-
-Servers
-* [Types of Servers Wikipedia](https://en.wikipedia.org/wiki/Server_(computing)#Purpose)
-
-Request and Response Cycle
-* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
-
-Client and Server-Side
-* [Client Wikipedia](https://en.wikipedia.org/wiki/Client_(computing))
-* [Server Wikipedia](https://en.wikipedia.org/wiki/Server_(computing))
-* [Client Server Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server)
-* [Client-Server Model Wikipedia](https://en.wikipedia.org/wiki/Client%E2%80%93server_model)
-
-Client-Side
-* [Client-Side Wikipedia](https://en.wikipedia.org/wiki/Client-side)
-* [Client-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Client-side_scripting)
-
-Server-Side
-* [Server-Side Wikipedia](https://en.wikipedia.org/wiki/Server-side)
-* [Server-Side Scripting Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting)
-
-Scripting, Client-Side and Server-Side
-* [Scripting Language Wikipedia](https://en.wikipedia.org/wiki/Scripting_language)
-* [Server Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Server-side_scripting#Languages)  
-* [Client Side Scripting Languages Wikipedia](https://en.wikipedia.org/wiki/Dynamic_web_page#Client-side_scripting) 
-
-<!--
-https://en.wikipedia.org/wiki/User_agent
 -->
 
 ## Async- Other Languages
@@ -762,6 +787,51 @@ Node.js
 Event-driven, asynchronous IO
 https://www.tutorialspoint.com/nodejs/nodejs_event_loop
 https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+-->
+
+
+## Async Benefits?
+
+HTTP versus WebSocket (HTTP is uni-directional; WebSocket is bi-directional)
+* [Network Socket Wikipedia](https://en.wikipedia.org/wiki/Network_socket)
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+
+Benefits of Async
+* [WebSocket Wikipedia](https://en.wikipedia.org/wiki/WebSocket)
+* [(Long) Polling Wikipedia](https://en.wikipedia.org/wiki/Polling_(computer_science))
+* [Server-Sent Events](https://en.wikipedia.org/wiki/Server-sent_events)
+
+<!--
+Important
+"HTTP is a uni-directional communicational protocol, whereas WebSocket is bi-directional."
+https://www.quora.com/What-is-the-difference-between-HTTP-and-WebSocket-in-simple-words
+https://stackoverflow.com/questions/152457/what-is-the-difference-between-a-port-and-a-socket
+https://hackernoon.com/webhook-vs-api-whats-the-difference-8d41e6661652
+-->
+
+<!--
+https://slikts.github.io/concurrency-glossary/ | Concurrency Glossary
+
+See Tom's Talk
+Real time
+non-blocking http requests
+light-weight parallelization
+https://en.wikipedia.org/wiki/Parallel_computing
+explicit i/o
+
+https://stackoverflow.com/questions/11077857/what-are-long-polling-websockets-server-sent-events-sse-and-comet
+Also, Ajax Polling explained
+
+polling versus webhooks
+https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
+
+Sockets
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
+
+Websockets
+https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
+https://www.tutorialspoint.com/html5/html5_websocket.htm
 -->
 
 ## Sync and Async
@@ -812,139 +882,75 @@ https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_event
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 -->
 
-## Benchmarking
 
-Performance
-* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
-* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
-* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+## General Software Design Patterns
 
-Throttling and Rate Limiting
-* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
-* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
-* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+## Architectures
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+Hawt
+* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+
+Architectures
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
 
 <!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+https://en.wikipedia.org/wiki/Messaging_pattern
+
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
 -->
 
-## Database Architectures and Principles
+## Computer Architecture
 
-CAP Theorem
-* [CAP Theorem Wikipedia](https://en.wikipedia.org/wiki/CAP_theorem)
-* [Consistency (Database Systems) Wikipedia](https://en.wikipedia.org/wiki/Consistency_(database_systems))
-* [Availability Wikipedia](https://en.wikipedia.org/wiki/Availability)
-* [Network Partition Wikipedia](https://en.wikipedia.org/wiki/Network_partition)
+CPU versus IO
+* [Central Processing Unit Wikipedia](https://en.wikipedia.org/wiki/Central_processing_unit)
+* [Input/Output (I/O) Wikipedia](https://en.wikipedia.org/wiki/Input/output)
+* [I/O Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound)
+* [CPU Bound Wikipedia](https://en.wikipedia.org/wiki/CPU-bound)
+* [I/O Bound Comparison with CPU Bound Wikipedia](https://en.wikipedia.org/wiki/I/O_bound#Comparison_with_CPU-bound)
 
-Database Principles
-* [Database Transaction Wikipedia](https://en.wikipedia.org/wiki/Database_transaction)
-* [Atomicity, Consistency, Isolation, Durability (ACID) Wikipedia](https://en.wikipedia.org/wiki/ACID_(computer_science))
-* [Basically Available, Soft state, Eventual Consistency (BASE) Wikipedia](https://en.wikipedia.org/wiki/Eventual_consistency)
-* [Create, Read, Update and Delete (CRUD) Wikipedia](https://en.wikipedia.org/wiki/Create,_read,_update_and_delete)
-
-Distributed and Parallel Computing
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-
-Shard
-* [Shard Wikipedia](http://en.wikipedia.org/wiki/Shard_(database_architecture)) 
+Ports
+* [Port Wikipedia](https://en.wikipedia.org/wiki/Port_(computer_networking))
 
 <!--
-https://en.wikipedia.org/wiki/Online_analytical_processing
-https://en.wikipedia.org/wiki/Create,_read,_update_and_delete#Database_applications | Create, read, update and delete - Wikipedia
+https://en.wikipedia.org/wiki/Memory_bound_function
 
-https://en.wikipedia.org/wiki/Multitenancy
-https://en.wikipedia.org/wiki/Federated_database_system
-delegated database
-Google Spanner versus Calvin Protocol - Google Search
+Interesting!
+https://en.wikipedia.org/wiki/Execution_model
+https://en.wikipedia.org/wiki/Scheduling_(computing)
 
-AP, CP or CA Databases
-
-https://en.wikipedia.org/wiki/Distributed_transaction
-https://en.wikipedia.org/wiki/Atomic_commit
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
-
-OOP
-https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
-
-System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
+https://en.wikipedia.org/wiki/Concurrency_(computer_science)#Models
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+https://en.wikipedia.org/wiki/Event-driven_programming
+https://en.wikipedia.org/wiki/Event-driven_messaging
 -->
 
-## Database Options
-
-Databases
-* [Database Wikipedia](http://en.wikipedia.org/wiki/Database)  
-* [Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Databases)  
-* [Types of Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Types_of_databases)  
-* [Database Management Systems (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Database_management_systems)
-* [Comparison of Database Tools Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_database_tools)  
-
-Schema and Model
-* [Database Schema Wikipedia](http://en.wikipedia.org/wiki/Database_schema)  
-* [Database Model Wikipedia](http://en.wikipedia.org/wiki/Database_model) 
-
-Relational
-* [Relational Algebra Wikipedia](https://en.wikipedia.org/wiki/Relational_algebra)
-* [Relational Model Wikipedia](https://en.wikipedia.org/wiki/Relational_model)
-* [Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database)
-* [The General Structure of a Relational Database Wikipedia](https://en.wikipedia.org/wiki/Relational_database_management_system#/media/File:RDBMS_structure.png)
-
-Relational
-* [Relational Database Management System (RDBMS) Wikipedia](http://en.wikipedia.org/wiki/Relational_database_management_system) 
-* [Comparison of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems)
-* [List of Relational Database Management Systems (RDBMS) Wikipedia](https://en.wikipedia.org/wiki/List_of_relational_database_management_systems)
-
-Object-Relational Database
-* [Object-Relational Mapping Wikipedia](https://en.wikipedia.org/wiki/Object-relational_mapping)
-* [Object Relational Database Wikipedia](http://en.wikipedia.org/wiki/Object-relational_database)  
-* [Comparison of Object-Relational Database Management Systems Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_object-relational_database_management_systems)
-
-Architecture
-* [The Active Record Paradigm](https://en.wikipedia.org/wiki/Active_record_pattern) and the [concept](http://stackoverflow.com/a/1152323) of an Object/Relational Mapper (ORM)  
+## Ports
 
 <!--
-* [Online Database Wikipedia](http://en.wikipedia.org/wiki/Online_database)  
--->
-
-More Database Stuff
-* [Object Database Wikipedia](http://en.wikipedia.org/wiki/Object_database)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)
-* [NoSQL (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:NoSQL)  
-* [NoSQL Wikipedia](http://en.wikipedia.org/wiki/NoSQL)  
-* [Document Oriented Databases (Category) Wikipedia](http://en.wikipedia.org/wiki/Category:Document-oriented_databases)  
-* [Document Oriented Databases Wikipedia](http://en.wikipedia.org/wiki/Document-oriented_database)  
-* [Column Oriented Database Management System Wikipedia](http://en.wikipedia.org/wiki/Column-oriented_DBMS)  
-
-<!--
-ORM, MRO
-https://www.fullstackpython.com/object-relational-mappers-orms.html
--->
-
-<!--
-https://en.wikipedia.org/wiki/Primary_key
-
-https://twitter.com/simonw/status/1113134366601838592
-https://backchannel.org/blog/friendfeed-schemaless-mysql | How FriendFeed uses MySQL to store schema-less data
-
-https://stackoverflow.com/questions/31641504/adjacency-list-model-vs-nested-set-model-for-mysql-hierarchical-data
-
-http://en.wikipedia.org/wiki/Database_normalization
-http://en.wikibooks.org/wiki/Relational_Database_Design/Normalization
-
-http://en.wikipedia.org/wiki/Comparison_of_relational_database_management_systems#Fundamental_features
-http://en.wikipedia.org/wiki/Relational_database#Relations_or_Tables
+https://en.wikipedia.org/wiki/Port_(computer_networking) | Port (computer networking) - Wikipedia
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers#Well-known_ports
+https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers | List of TCP and UDP port numbers - Wikipedia
+https://en.wikipedia.org/wiki/Computer_port_(hardware) | Computer port (hardware) - Wikipedia
 -->
 
 ## Protocols
@@ -1175,7 +1181,7 @@ Compiler
 * [Compiler Wikipedia](http://en.wikipedia.org/wiki/Compiler) 	
 * [GNU Compiler Collection (Unix, BSD)](https://gcc.gnu.org) and [GNU Compiler Collection Wikipedia](https://en.wikipedia.org/wiki/GNU_Compiler_Collection)	
 * [LLVM (FreeBSD, Mac OS X)](http://llvm.org) and [LLVM Wikipedia](https://en.wikipedia.org/wiki/LLVM)	
-* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang ), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
+* [Clang C Language Frontend for LLVM](https://clang.llvm.org), [Clang GitHub](https://github.com/llvm-mirror/clang), [Clang Wikipedia](https://en.wikipedia.org/wiki/Clang)
 
 <!--	
 https://clang.llvm.org/comparison.html
