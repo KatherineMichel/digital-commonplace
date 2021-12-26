@@ -1,6 +1,32 @@
 # Python and Django Tools and Deployment
 
 <!--
+https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
+
+https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
+
+https://github.com/facebookincubator/Bowler | facebookincubator/Bowler: Safe code refactoring for modern Python.
+https://opensource.google.com/projects/python-fire | Python Fire – opensource.google.com
+
+https://github.com/Microsoft/knack | Microsoft/knack: Knack - A Python command line interface framework
+https://github.com/prompt-toolkit/python-prompt-toolkit | prompt-toolkit/python-prompt-toolkit: Library for building powerful interactive command line applications in Python
+
+Caddy
+https://twitter.com/webology/status/1381731680319385604 | Jeff Triplett 😷 on Twitter: "✨ a nice post of using Caddy with Django. It's amazing how much power a $5 box is these days." / Twitter
+
+https://www.pyinstaller.org/ | PyInstaller Quickstart — PyInstaller bundles Python applications
+
+Libraries
+https://twitter.com/laceynwilliams/status/1052635673667153920 | Lacey @ DjangoCon 🏝 on Twitter: "Bonus libraries: django-simple-history django-markupfield django-countries (My add) django-test-plus #DjangoCon"
+
+Django Shell Plus
+https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
+https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
+
+More itertools
+https://more-itertools.readthedocs.io/en/stable/api.html#more_itertools.all_equal | API Reference — more-itertools 8.10.0 documentation
+
+
 ## Anthony
 
 pre-commit
