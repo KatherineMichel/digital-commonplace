@@ -298,6 +298,8 @@ http://grafana.org
 http://django-statsd.readthedocs.org
 https://github.com/etsy/statsd
 
+https://github.com/graphql-python
+https://github.com/graphql-python/graphene
 https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
 https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
 
