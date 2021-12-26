@@ -64,9 +64,21 @@ https://www.saaspegasus.com/
 https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
 
 
+## Python- Configs
+
+Configs
+https://hynek.me/talks/python-foss/ | Maintaining a Python Project When It’s Not Your Job
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job | Maintaining a Python Project When It’s Not Your Job - Speaker Deck
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality | Kyle Knapp - Automating Code Quality - Speaker Deck
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst | set-your-code-free-preso/slides.rst at master · oddbird/set-your-code-free-preso
+https://2018.pygotham.org/talks/automating-code-quality-next-level/ | Automating Code Quality: Next Level - PyGotham 2018
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html | PyVideo.org · How to Write Deployment-friendly Applications
+
+
 ## Tools
 
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
 
 Watchman
 https://blog.acolyer.org/2020/09/21/watchman/ | Watchman: monitoring dependency conflicts for Python library ecosystem | the morning paper
@@ -83,7 +95,60 @@ https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ 
 
 setuptools-scm
 https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
+
+## Environment and DevOps
+
+Go Django
+https://godjango.com/blog/working-with-environment-variables-in-python/
+
+pip-tools
+poetry
+Python Docker Image
+
+Jeff's trifecta
+https://direnv.net/
+cortesi/devd
+https://github.com/casey/just
+
+python-dotenv
+https://pypi.org/project/python-dotenv/ | python-dotenv · PyPI
+https://github.com/theskumar/python-dotenv
+
+https://github.com/joke2k/django-environ
+
+https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
+
+## Linting
+
+https://pylint.org/
+https://pylint.pycqa.org/en/latest/
+
+## Type Hinting
+
+https://pypi.org/project/mypy-ipython/20.8.0/ | mypy-ipython · PyPI
+https://myst-parser.readthedocs.io/en/latest/using/intro.html | Getting Started
+
+## attrs
+
+https://pypi.org/project/attrs/
+https://rich.readthedocs.io/en/stable/introduction.html
+https://pydantic-docs.helpmanual.io/
+https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
+
+## FastAPI and Pydantic
+
+https://fastapi.tiangolo.com/
+https://pydantic-docs.helpmanual.io/ | pydantic
+
+PyDantic
+https://github.com/samuelcolvin/pydantic/issues/2678 | IMPORTANT: PEP 563, PEP 649 and the future of pydantic · Issue #2678 · samuelcolvin/pydantic
+https://twitter.com/samuel_colvin/status/1382756508472123398 | Samuel Colvin on Twitter: "URGENT: If you use pydantic or @tiangolo's FastAPI and/or want to use them in the future, you need to read this: https://t.co/mXGx7zZYm4" / Twitter
+
+## CLI
+
+https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still Masked and #BlackLivesMatter on Twitter: "Hey #python peeps, any suggestions for a python CLI library that is a good example of how to structure a project?" / Twitter
 -->
+
 
 ## Awesome Python and Django
 
@@ -400,6 +465,9 @@ SpatiaLite (Spatial Database Extender for SQLite)
 <!--
 GIS
 
+DjangoCon US Talk
+https://www.youtube.com/watch?v=Ow9P8UsKZzM&feature=emb_logo
+
 Important
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
 
@@ -573,8 +641,14 @@ https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HT
 ### CI/CD
 
 <!--
-https://pypi.org/project/coverage/ | coverage · PyPI
 https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
+
+https://circleci.com/docs/ | Welcome to CircleCI Documentation - CircleCI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
+
+https://github.com/nedbat/coveragepy | nedbat/coveragepy: Code coverage measurement for Python
+https://pypi.org/project/coverage/ | coverage · PyPI
+https://coverage.readthedocs.io/en/coverage-5.5/ | Coverage.py — Coverage.py 5.5 documentation
 -->
 
 
