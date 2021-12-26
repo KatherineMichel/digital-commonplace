@@ -150,62 +150,15 @@ https://environ-config.readthedocs.io/en/latest/ | environ-config: Application C
 https://github.com/microservices/cli
 -->
 
-
-## Database Tools
-
-<!--
-https://www.postgresql.org/about/ | PostgreSQL: About
-http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
-
-https://sqlite.org/appfileformat.html | SQLite As An Application File Format
-https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
-https://www.sqlite.org/serverless.html | SQLite Is Serverless
-https://www.sqlite.org/json1.html | The JSON1 Extension
-
-MongoDB/Cap
-https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
-https://github.com/dcramer/mangodb
-
-https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
-
-https://github.com/snowflakedb | Snowflake Computing
-https://prestodb.io/
--->
-
-## SQL Related
-
-The Python SQL Toolkit and Object Relational Mapper
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+## Django Twelve Factor
 
 <!--
-SQLModel (By author of FastAPI and Typer)
-https://github.com/tiangolo/sqlmodel
+https://12factor.net/config | The Twelve-Factor App
+https://github.com/doismellburning/django12factor | doismellburning/django12factor: Making Django configuration more 12factor-y
 
-https://django-extensions.readthedocs.io/en/latest/graph_models.html
-https://sqlitebrowser.org/
-https://twitter.com/rlconley/status/1358856609208954881 | Rebecca Conley on Twitter: "@FlipperPA @z_anderle I use DB Browser for SQL Lite, or the equivalent for PostgreSQL, to see values at an instance level." / Twitter
-
-https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
-https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
+Tool
+https://django12factor.readthedocs.io/en/latest/
 -->
-
-## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
-
-* [NGINX](https://www.nginx.com/)
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-<!--
-https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
--->
-
 
 ## Automation
 
@@ -299,39 +252,106 @@ https://github.com/asottile/azure-pipeline-templates
 https://github.com/trallard/pycon2020-azure-functions | trallard/pycon2020-azure-functions: ⚡️ 🏻‍♀️ Sponsored tutorial content for PyCon 2020
 -->
 
+### WSGI
 
-## API
+Common Gateway Interface and WSGI (Web Server API)
+* [Common Gateway Interface Wikipedia](https://en.wikipedia.org/wiki/Common_Gateway_Interface)
+* [Web Server Gateway Interface Wikipedia](http://en.wikipedia.org/wiki/Web_Server_Gateway_Interface)  
 
-* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+Python- PEP 3333 (Python Web Server Gateway Interface)
+* [PEP 3333](https://www.python.org/dev/peps/pep-3333) 
+
+WSGI
+* [Gunicorn (Python WSGI HTTP Server for UNIX)](http://gunicorn.org), [Gunicorn Python Warehouse](https://warehouse.python.org/project/gunicorn), and [Gunicorn GitHub](https://github.com/benoitc/gunicorn)  
+* [WSGI Read the Docs](https://wsgi.readthedocs.io)
+* [uWsgi GitHub](https://github.com/unbit/uwsgi) and [uWsgi Docs](http://uwsgi-docs.readthedocs.org/en/latest)
+* [uWSGI: Setting up Django and your web server with uWSGI and nginx](https://uwsgi-docs.readthedocs.io/en/latest/tutorials/Django_and_nginx.html)
+
+<!--
+Benchmarks and Specifications
+https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Specification v2.0 | Python.org
+-->
+
+## Database Tools
+
+<!--
+https://www.postgresql.org/about/ | PostgreSQL: About
+http://www.interdb.jp/pg/index.html | The Internals of PostgreSQL : Introduction
+
+https://sqlite.org/appfileformat.html | SQLite As An Application File Format
+https://www.sqlite.org/mostdeployed.html | Most Widely Deployed SQL Database Engine
+https://www.sqlite.org/serverless.html | SQLite Is Serverless
+https://www.sqlite.org/json1.html | The JSON1 Extension
+
+MongoDB/Cap
+https://twitter.com/kwuchu/status/1296436761875406848 | https://twitter.com/kwuchu/status/1296436761875406848
+https://github.com/dcramer/mangodb
+
+https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
+
+https://github.com/snowflakedb | Snowflake Computing
+https://prestodb.io/
+-->
+
+## SQL Related
+
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+
+<!--
+SQLModel (By author of FastAPI and Typer)
+https://github.com/tiangolo/sqlmodel
+
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+https://sqlitebrowser.org/
+https://twitter.com/rlconley/status/1358856609208954881 | Rebecca Conley on Twitter: "@FlipperPA @z_anderle I use DB Browser for SQL Lite, or the equivalent for PostgreSQL, to see values at an instance level." / Twitter
+
+https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog — sqlite-utils documentation
+https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
+-->
+
+## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
+
+* [NGINX](https://www.nginx.com/)
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+<!--
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
+-->
+
+## FastAPI and Pydantic
 
 Fast API
 * [Fast API GitHub](https://github.com/tiangolo/fastapi)
 
 <!--
+https://fastapi.tiangolo.com/
+https://pydantic-docs.helpmanual.io/ | pydantic
+
+PyDantic
+https://github.com/samuelcolvin/pydantic/issues/2678 | IMPORTANT: PEP 563, PEP 649 and the future of pydantic · Issue #2678 · samuelcolvin/pydantic
+https://twitter.com/samuel_colvin/status/1382756508472123398 | Samuel Colvin on Twitter: "URGENT: If you use pydantic or @tiangolo's FastAPI and/or want to use them in the future, you need to read this: https://t.co/mXGx7zZYm4" / Twitter
+
 https://fastapi.tiangolo.com/#performance
 
 Fast API
 https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
 
 https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
-
-
-Postman	
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
-https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
-https://hoppscotch.io/
-https://github.com/hoppscotch/hoppscotch | hoppscotch/hoppscotch: 👽 A free, fast and beautiful API request builder used by 80k+ developers.
-https://firecamp.io/
 -->
 
+
 ## API
+
+* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 <!--
 https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
@@ -347,6 +367,22 @@ https://github.com/api-evangelist
 https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
 https://github.com/TonnyL/Awesome_APIs
 https://www.programmableweb.com/category/all/apis
+-->
+
+<!--
+Postman	
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
+https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
+https://hoppscotch.io/
+https://github.com/hoppscotch/hoppscotch | hoppscotch/hoppscotch: 👽 A free, fast and beautiful API request builder used by 80k+ developers.
+https://firecamp.io/
 -->
 
 
