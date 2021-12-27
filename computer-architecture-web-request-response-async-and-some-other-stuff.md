@@ -8,12 +8,16 @@ Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
 
 
+https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+
 API
 https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
 
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+http://restcookbook.com/Miscellaneous/rest-and-http/
+
 
 https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
 
 https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
 
@@ -26,13 +30,10 @@ Learn assembly
 https://www.xorpd.net/ | xorpd
 
 
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
 https://en.wikipedia.org/wiki/X_Window_System#Principles
 
-
-https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
-
-
-http://www.arewewebyet.org/ | Are we web yet? Yes, and it's freaking fast!
 
 https://github.com/llvm/llvm-project
 Like the other
@@ -40,6 +41,9 @@ http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
 
 https://en.wikipedia.org/wiki/POSIX
 https://pop.system76.com/
+
+
+http://www.arewewebyet.org/ | Are we web yet? Yes, and it's freaking fast!
 
 https://webauthn.guide/ | Guide to Web Authentication
 https://howhttps.works/ | How HTTPS works - How HTTPS works
@@ -58,8 +62,6 @@ https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
 https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
-
-http://restcookbook.com/Miscellaneous/rest-and-http/
 -->
 
 
@@ -289,8 +291,26 @@ https://github.com/dcramer/mangodb
 
 https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectural overview
 
+Apache
+http://thrift.apache.org/ | Apache Thrift - Home
+
+Kafka
+https://kafka.apache.org/ | Apache Kafka
+https://kafka.apache.org/documentation/#gettingStarted | Apache Kafka
+
 https://github.com/snowflakedb | Snowflake Computing
 https://prestodb.io/
+
+https://neo4j.com/
+https://www.timescale.com/
+-->
+
+<!--
+Bazel
+
+https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project - Free Software Foundation (FSF)
+
+http://jdk.java.net/16/ | JDK 16 GA Release
 -->
 
 ## SQL Related
@@ -321,6 +341,10 @@ https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-convers
 * [Memcached](https://memcached.org/)
 
 <!--
+REmote DIctionary Server"
+https://redis.io/topics/faq#what-does-redis-actually-mean
+https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+ 
 https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
 
 https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
