@@ -149,6 +149,12 @@ Tool
 https://django12factor.readthedocs.io/en/latest/
 -->
 
+## Django Performance, Optimization, Deployment, Architecture
+
+<!--
+https://djangobook.com/deploying-django/
+-->
+
 ## Automation
 
 Terraform
