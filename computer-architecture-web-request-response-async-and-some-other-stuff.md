@@ -1,20 +1,7 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-Social Auth
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
-
 https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
-
-API
-https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/ | What is the Difference Between an API and an SDK? | Nordic APIs |
-
-http://restcookbook.com/Miscellaneous/rest-and-http/
-
 
 https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
 
@@ -394,7 +381,9 @@ https://www.programmableweb.com/category/all/apis
 -->
 
 <!--
-Postman	
+https://www.postman.com/ | Postman | The Collaboration Platform for API Development
+https://www.getpostman.com/ | Postman | API Development Environment
+
 https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
 
 https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
