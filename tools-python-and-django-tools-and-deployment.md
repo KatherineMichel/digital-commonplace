@@ -567,9 +567,7 @@ https://twitter.com/osdotsystem/status/1462678399252451328 | Abdur-Rahmaan 🇲�
 -->
 
 
-## Django Third Party Tools
-
-### Local
+## Django Third Party Tools- Local
 
 <!--
 poetry
@@ -602,7 +600,12 @@ https://github.com/joke2k/django-environ
 https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
 -->
 
-### Debugging
+## Django Third Party Tools- Debugging
+
+Python- Django- Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 <!--
 IPDB
@@ -623,7 +626,34 @@ https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on 
 https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
 -->
 
-### Templates
+## Python Debugger and doctests
+
+<!--
+GDB
+https://stripe.com/en-ca/blog/exploring-python-using-gdb | Exploring Python Using GDB
+https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
+
+Python Debugger
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+Nina
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+Debugger
+https://www.youtube.com/watch?v=5AYIe-3cD-s
+https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
+
+https://twitter.com/laceynwilliams/status/1360052934268968964 | Lacey Williams Henschel on Twitter: "It’s a beautiful day when you introduce someone to pdb.set_trace() ☀️" / Twitter
+https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on Twitter: "#Python tip: Debuggers are wonderful, but sometimes just adding "print(locals())" is the easiest way to go ;-)" / Twitter
+-->
+
+## Django Third Party Tools- Templates
 
 <!--
 curlylint
@@ -640,6 +670,30 @@ https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HT
 
 
 <!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+
+
+## Django Third Party Tools- Package Tools and Testing
+
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+
+## attrs
+
+https://www.attrs.org/en/stable/
+https://pypi.org/project/attrs/
+https://rich.readthedocs.io/en/stable/introduction.html
+https://pydantic-docs.helpmanual.io/
+https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
+
+
 ## Common Django Features
 
 https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
@@ -710,12 +764,214 @@ https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick 
 -->
 
 
+## pytest
 
-## Django Performance, Optimization, Deployment, Architecture
+pytest 
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
 <!--
-https://djangobook.com/deploying-django/
+pytest-selenium (plugin)
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html#chrome | User Guide — pytest-selenium latest documentation
+
+https://seleniumbase.io/ | SeleniumBase Docs
+https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
+
+https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
+
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+
+https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
+https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
+https://docs.pytest.org/en/latest/getting-started.html | Installation and Getting Started — pytest documentation
+
+https://docs.pytest.org/en/latest/goodpractices.html | Good Integration Practices — pytest documentation
+https://docs.pytest.org/en/latest/unittest.html#unittest | unittest.TestCase Support — pytest documentation
+
+https://docs.pytest.org/en/latest/example/parametrize.html
+https://docs.pytest.org/en/latest/parametrize.html
+
+https://docs.pytest.org/en/latest/how-to/fixtures.html | How to use fixtures — pytest documentation
+https://docs.pytest.org/en/6.2.x/fixture.html | pytest fixtures: explicit, modular, scalable — pytest documentation
+https://www.tutorialspoint.com/pytest/pytest_fixtures.htm | Pytest - Fixtures - Tutorialspoint
+
+https://docs.pytest.org/en/stable/reference.html#pytest-raises | API Reference — pytest documentation
+https://docs.pytest.org/en/latest/assert.html#assert
+
+Assert
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+https://twitter.com/pytestdotorg/status/1101959314116210688 | pytest.org on Twitter: "Yes, memorize 30 methods' names and exactly how to call them....... Or learn the assert statement, pytest.raises, and the methods on the data structures you're already using. 🤷… https://t.co/wllbH3vDE3"
+https://twitter.com/KokkasKostas/status/1100738165571244034 | Kostas Kokkas on Twitter: "List of assertions used in Python unittesting: https://t.co/BbtOvEKXQ7 #pytest #unittest #DataScience #DataAnalytics #python"
+
+Test plugins
+https://talkpython.fm/episodes/show/267/15-amazing-pytest-plugins | Episode #267 15 amazing pytest plugins - [Talk Python To Me Podcast]
+https://pypi.python.org/pypi/pytest-xdist | pytest-xdist 1.20.1 : Python Package Index
+https://github.com/pytest-dev/pytest-bdd | pytest-dev/pytest-bdd: BDD library for the py.test runner
+
+Test Anything Protocol
+https://en.wikipedia.org/wiki/Test_Anything_Protocol
+https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
 -->
+
+<!--
+Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
+
+Django/pytest
+https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
+-->
+
+<!--
+https://testdriven.io/ | Test Driven Development Courses
+
+Brian Okken
+http://pythontesting.net/start-here/
+
+pytest Books
+https://automationpanda.com/2018/09/17/book-review-python-testing-with-pytest/ | Book Review: Python Testing with pytest | Automation Panda
+https://www.packtpub.com/web-development/pytest-quick-start-guide
+
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+Recommended!
+https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing with pytest: Simple, Rapid, Effective, and Scalable by Brian Okken | The Pragmatic Bookshelf
+-->
+
+## Django Third Party Tools- Testing
+
+Django
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+
+Django Test Plus
+* [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
+
+<!--
+django-selenium
+https://pypi.org/project/django-selenium/
+
+
+pytest-django (plugin)
+https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
+https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
+
+pytest fixture
+django-test-plus
+https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
+
+django-test-plus
+https://django-test-plus.readthedocs.io/en/latest/usage.html | Usage — django-test-plus 1.0.9 documentation
+-->
+
+## Django Third Party Tools- Most Relevant Testing Tools (Besides pytest and Selenium)
+
+PyLint
+* [Pylint](https://www.pylint.org) and [Pylint GitHub](https://github.com/PyCQA/pylint)
+
+Pylint Django
+* [Pylint Django GitHub](https://github.com/PyCQA/pylint-django)
+
+<!--
+https://pylint.pycqa.org/en/latest/
+
+Model Bakery
+https://pypi.org/project/model-bakery/ | model-bakery · PyPI
+https://model-bakery.readthedocs.io/en/latest/ | Model Bakery: Smart fixtures for better tests — Model Bakery 1.3.2 documentation
+
+Not used?
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
+
+Factory Boy
+https://factoryboy.readthedocs.io/en/latest/ | factory_boy — Factory Boy latest documentation
+https://factoryboy.readthedocs.io/en/stable/recipes.html | Common recipes — Factory Boy stable documentation
+https://github.com/FactoryBoy/factory_boy
+https://twitter.com/mateusz__be/status/1251184933143486465 | Mateusz Bełczowski on Twitter: "@webology @iris9112 How would you compare it to Factory Boy (https://t.co/v8t8lSTAHg)?" / Twitter
+
+Faker
+https://faker.readthedocs.io/en/master/providers/faker.providers.address.html | faker.providers.address — Faker 4.1.2 documentation
+https://faker.readthedocs.io/en/master/ | Welcome to Faker’s documentation! — Faker 4.1.2 documentation
+https://github.com/joke2k/faker | joke2k/faker: Faker is a Python package that generates fake data for you.
+
+Django Faker
+https://pypi.org/project/django-faker/ | django-faker · PyPI
+
+Important
+Freezegun
+https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
+https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
+-->
+
+## Browser
+
+* [Selenium](https://www.selenium.dev/)
+* [Selenium WebDriver](https://www.selenium.dev/projects/webdriver/)
+
+<!--
+Cross Browser
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/JavaScript | Handling common JavaScript problems - Learn web development | MDN
+
+https://www.selenium.dev/projects/
+
+Important- Lighthouse
+https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
+
+https://twitter.com/AutomationPanda/status/1463585787690328071 | Pandy Knight on Twitter: "Wow, @playwrightweb handles many of the granular Selenium WebDriver actions that Boa Constrictor had to handle. This is so nice!" / Twitter
+
+https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
+https://twitter.com/AutomationPanda/status/1466494032108998665 | https://twitter.com/AutomationPanda/status/1466494032108998665
+https://playwright.dev/python/docs/intro/ | Getting started | Playwright Python
+https://github.com/AutomationPanda/tau-playwright-workshop | AutomationPanda/tau-playwright-workshop: The Playwright Workshop for TAU: The Homecoming
+https://twitter.com/mblayman/status/1467338990810447872 | Matt Layman on Twitter: "@AutomationPanda @playwrightweb I haven't used Playwright, but the system automation team at my company uses ScreenPy with much success. It's the Screenplay Pattern implemented as a native #Python library. I think it's worth a look. https://t.co/PsUG34pvBz" / Twitter
+
+Automation framework
+https://robotframework.org/
+
+App and browser testing
+https://www.browserstack.com/
+
+https://theheadless.dev/ | theheadless.dev - Learn Puppeteer & Playwright
+
+Test automation
+https://en.wikipedia.org/wiki/Headless_browser
+
+https://martinfowler.com/bliki/PageObject.html
+https://selenium-python.readthedocs.io/page-objects.html
+https://github.com/SeleniumHQ/selenium/wiki/PageObjects
+https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
+
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
+-->
+
+## Test Driven Development
+
+Testing
+* [Test-Driven Development with Python Chapter 8- Testing Deployment Using a Staging Site](http://chimera.labs.oreilly.com/books/1234000000754/ch08.html#_tdd_and_the_danger_areas_of_deployment) 
+* [Obey the Testing Goat! (Harry J.W. Percival)](https://www.obeythetestinggoat.com)
+
+Django Testing
+* [Obey the Testing Goat: Django Class-Based Views (CBVs)](https://www.obeythetestinggoat.com/book/appendix_Django_Class-Based_Views.html)
+
+<!--
+Python- Books- O'Reilly Test-Driven Development with Python and Selenium
+
+https://www.obeythetestinggoat.com/book/appendix_bdd.html | Behaviour-Driven Development (BDD)
+https://www.obeythetestinggoat.com/book/chapter_unit_test_first_view.html | Testing a Simple Home Page with Unit Tests
+
+https://www.obeythetestinggoat.com/using-the-built-in-views-and-forms-for-new-user-registration-in-django.html | Obey the Testing Goat!
+-->
+
+## Django Third Party Tools- Less Relevant Testing Tools
+
+Nose (Unit Test Extension)
+* [Nose 2 Docs](https://docs.nose2.io) and [Nose 2 GitHub](https://github.com/nose-devs/nose2)
+
+Django Nose
+* [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 
 ## Eldarion and Pinax
@@ -742,6 +998,7 @@ http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 -->
 
+## CI/CD and Coverage
 
 Continuous Integration and Delivery
 * [CircleCI](https://circleci.com)
@@ -800,6 +1057,9 @@ https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default
 https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
 https://github.com/pallets/flask/blob/master/tox.ini
 https://github.com/pganssle/tox-examples | pganssle/tox-examples
+
+tox
+https://twitter.com/avallbona/status/1270755378654064641 | underdog on Twitter: "the --devenv command option https://t.co/l0ZU3C9vtP is a game changer feature, added recently by @codewithanthony #kudos" / Twitter
 -->
 
 tox Alternative (not used)
@@ -826,11 +1086,6 @@ Formatting
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
 <!--
-Linting
-https://pylint.org/
-https://pylint.pycqa.org/en/latest/
-
-
 ?
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
@@ -849,33 +1104,7 @@ https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (
 -->
 
 
-### Package Tools and Testing
-
-<!--
-## attrs
-
-https://www.attrs.org/en/stable/
-https://pypi.org/project/attrs/
-https://rich.readthedocs.io/en/stable/introduction.html
-https://pydantic-docs.helpmanual.io/
-https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
-
-
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
-
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-
-Not used?
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
--->
-
-### Code Formatting Tools
+## Django Third Party Tools- Code Formatting Tools
 
 Code Formatting
 * [Black GitHub](https://github.com/psf/black)
@@ -897,6 +1126,7 @@ Black and single quotes
 https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 -->
+
 
 ## Mypy
 
@@ -965,6 +1195,14 @@ https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-li
 
 Guido- Type Annotations
 https://us.pycon.org/2016/schedule/presentation/2266/
+-->
+
+## Flask
+
+<!--
+Flask
+https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
 -->
 
 ## Wagtail
