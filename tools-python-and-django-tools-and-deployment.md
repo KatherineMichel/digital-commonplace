@@ -1,6 +1,13 @@
 # Python and Django Tools and Deployment
 
 <!--
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+Social Auth
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
 https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
 
 https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
