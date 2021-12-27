@@ -14,11 +14,14 @@ https://data-apis.org/blog/announcing_the_consortium/
 
 ## Tools
 
-https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
-http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
+Python Docker Image
 
 Watchman
 https://blog.acolyer.org/2020/09/21/watchman/ | Watchman: monitoring dependency conflicts for Python library ecosystem | the morning paper
+
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
 
 
 https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
@@ -570,7 +573,6 @@ https://twitter.com/osdotsystem/status/1462678399252451328 | Abdur-Rahmaan 🇲�
 
 <!--
 poetry
-Python Docker Image
 
 ## Environment and DevOps
 
