@@ -1,6 +1,10 @@
 # Python and Django Tools and Deployment
 
 <!--
+Pyenv Global
+https://twitter.com/webology/status/699277088256163840
+
+
 https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
 Social Auth
 
@@ -8,7 +12,14 @@ Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
 
 
-https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
+## Tools
+
+https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
+http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
+
+Watchman
+https://blog.acolyer.org/2020/09/21/watchman/ | Watchman: monitoring dependency conflicts for Python library ecosystem | the morning paper
+
 
 https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
 
@@ -23,12 +34,13 @@ https://www.pyinstaller.org/ | PyInstaller Quickstart — PyInstaller bundles Py
 Libraries
 https://twitter.com/laceynwilliams/status/1052635673667153920 | Lacey @ DjangoCon 🏝 on Twitter: "Bonus libraries: django-simple-history django-markupfield django-countries (My add) django-test-plus #DjangoCon"
 
-Django Shell Plus
-https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
-https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
-
 More itertools
 https://more-itertools.readthedocs.io/en/stable/api.html#more_itertools.all_equal | API Reference — more-itertools 8.10.0 documentation
+
+
+## CLI
+
+https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still Masked and #BlackLivesMatter on Twitter: "Hey #python peeps, any suggestions for a python CLI library that is a good example of how to structure a project?" / Twitter
 
 
 ## Anthony
@@ -39,14 +51,6 @@ https://github.com/pre-commit/pre-commit/
 
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
 https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
-
-
-Pyenv Global
-https://twitter.com/webology/status/699277088256163840
-
-Important!
-https://pyphilly.org/virtualenvwrapper-aliases-venv-users/
-https://twitter.com/DawnWagesSays/status/1429843476447830016 | dawn (she/her) on Twitter: "Imma be real, I’ve been trying to phase pipenv out but I like it. Thanks to @FlipperPA , when I venv I use it like dis: https://t.co/w2OQvj1WIc" / Twitter
 
 
 ## Dict View
@@ -83,7 +87,6 @@ https://github.com/ehmatthes/django-simple-deploy | ehmatthes/django-simple-depl
 https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
 https://twitter.com/ehmatthes/status/1454839778587725841 | Eric Matthes on Twitter: "django-simple-deploy now supports projects that use Poetry. Next I'm going to try adding an `--automate-all` flag that should reduce the entire process to three steps. Then, if possible, I'll add support for at least one other platform." / Twitter
 
-
 ## Deployment
  
 Caddy
@@ -107,18 +110,6 @@ https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst | set
 https://2018.pygotham.org/talks/automating-code-quality-next-level/ | Automating Code Quality: Next Level - PyGotham 2018
 https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html | PyVideo.org · How to Write Deployment-friendly Applications
 
-
-## Tools
-
-https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
-http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
-
-Watchman
-https://blog.acolyer.org/2020/09/21/watchman/ | Watchman: monitoring dependency conflicts for Python library ecosystem | the morning paper
-
-curlylint
-https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
-
 scriv
 https://twitter.com/nedbat/status/1307815498365775872 | Ned Batchelder on Twitter: "I went and wrote a changelog tool called scriv: https://t.co/2aHoL4in9v (Why? https://t.co/4VHUSDyUk0)" / Twitter
 
@@ -128,49 +119,6 @@ https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ 
 
 setuptools-scm
 https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
-
-## Environment and DevOps
-
-Go Django
-https://godjango.com/blog/working-with-environment-variables-in-python/
-
-pip-tools
-poetry
-Python Docker Image
-
-Jeff's trifecta
-https://direnv.net/
-cortesi/devd
-https://github.com/casey/just
-
-python-dotenv
-https://pypi.org/project/python-dotenv/ | python-dotenv · PyPI
-https://github.com/theskumar/python-dotenv
-
-https://github.com/joke2k/django-environ
-
-https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
-
-## Linting
-
-https://pylint.org/
-https://pylint.pycqa.org/en/latest/
-
-## Type Hinting
-
-https://pypi.org/project/mypy-ipython/20.8.0/ | mypy-ipython · PyPI
-https://myst-parser.readthedocs.io/en/latest/using/intro.html | Getting Started
-
-## attrs
-
-https://pypi.org/project/attrs/
-https://rich.readthedocs.io/en/stable/introduction.html
-https://pydantic-docs.helpmanual.io/
-https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
-
-## CLI
-
-https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still Masked and #BlackLivesMatter on Twitter: "Hey #python peeps, any suggestions for a python CLI library that is a good example of how to structure a project?" / Twitter
 -->
 
 
@@ -361,7 +309,6 @@ https://docs.python-guide.org/#writing-great-python-code
 
 Python- PEP 8
 * [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-
 
 
 ## General Python and Django Links
@@ -622,15 +569,35 @@ https://twitter.com/osdotsystem/status/1462678399252451328 | Abdur-Rahmaan 🇲�
 ### Local
 
 <!--
-https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
+poetry
+Python Docker Image
 
-Recommended by Jeff
+## Environment and DevOps
+
+Important!
+https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
+https://twitter.com/DawnWagesSays/status/1429843476447830016 | dawn (she/her) on Twitter: "Imma be real, I’ve been trying to phase pipenv out but I like it. Thanks to @FlipperPA , when I venv I use it like dis: https://t.co/w2OQvj1WIc" / Twitter
+
+Go Django
+https://godjango.com/blog/working-with-environment-variables-in-python/
+
+Jeff's trifecta
+https://direnv.net/
 https://github.com/direnv
-https://direnv.net/ | direnv – unclutter your .profile | direnv
+cortesi/devd
+https://github.com/casey/just
 
 Recommended: pip-tools
 https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
 https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+python-dotenv
+https://pypi.org/project/python-dotenv/ | python-dotenv · PyPI
+https://github.com/theskumar/python-dotenv
+
+https://github.com/joke2k/django-environ
+
+https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
 -->
 
 ### Debugging
@@ -648,11 +615,18 @@ https://ipython.org/ | Jupyter and the future of IPython — IPython
 Django Shell Plus
 https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
 https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
+
+Django Shell Plus
+https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
+https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
 -->
 
 ### Templates
 
 <!--
+curlylint
+https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
+
 HTMX + Django
 https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
 
@@ -662,26 +636,11 @@ https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
 https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HTML Template Linter and Formatter. Use with Django, Jinja, Nunjucks and Handlebars templates.
 -->
 
-### CI/CD
 
 <!--
-https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
-
-https://circleci.com/docs/ | Welcome to CircleCI Documentation - CircleCI
-https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
-
-https://github.com/nedbat/coveragepy | nedbat/coveragepy: Code coverage measurement for Python
-https://pypi.org/project/coverage/ | coverage · PyPI
-https://coverage.readthedocs.io/en/coverage-5.5/ | Coverage.py — Coverage.py 5.5 documentation
--->
-
-
-
-
-<!--
-https://www.attrs.org/en/stable/
-
 ## Common Django Features
+
+https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
 
 http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
 https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
@@ -757,24 +716,6 @@ https://djangobook.com/deploying-django/
 -->
 
 
-## Wagtail
-
-Wagtail
-* [Wagtail](https://wagtail.io/)
-
-<!--
-Django Wagtail
-https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
-
-Wagtail
-https://wagtail.io/blog
-https://github.com/wagtail/wagtail/
-https://wagtail.io/packages/ | Packages | Wagtail CMS
-https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
-https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
-https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
--->
-
 ## Eldarion and Pinax
 
 Package Tools
@@ -783,76 +724,6 @@ Package Tools
 <!--
 https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
 -->
-
-Continuous Integration and Delivery
-* [CircleCI](https://circleci.com)
-
-Coverage
-* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
-* [Codecov](https://codecov.io)
-
-Testing Tools
-* [Tox Read the Docs](https://tox.readthedocs.org)
-* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
-* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
-
-<!--
-Tox GitHub Action
-https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
-
-https://docs.codecov.io/docs/python
-https://codecov.io/#features | Codecov
-
-"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
-"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
-
-https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
-https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
-
-https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
-https://github.com/pallets/flask/blob/master/tox.ini
-https://github.com/pganssle/tox-examples | pganssle/tox-examples
-
-https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
-https://github.com/codecov/example-python#how-to-generate-coverage-reports
-"coverage.py is required to collect coverage metrics."
--->
-
-tox Alternative (not used)
-* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
-
-Import Sorting
-* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
-
-Formatting
-* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
-* [doc8 GitHub](https://github.com/openstack/doc8)
-* [pydocstyle GitHub](https://github.com/PyCQA/pydocstyle)
-* [mccabe GitHub](https://github.com/PyCQA/mccabe)
-* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
-
-<!--
-https://github.com/timothycrosley/isort/issues/694
-
-?
-https://pypi.org/project/pyflakes/
-https://github.com/PyCQA/pyflakes
-
-
-https://pypi.org/project/pep8/ | pep8 · PyPI
-
-Formatting
-https://pypi.org/project/black/ | black · PyPI
-https://pypi.org/project/isort/ | isort · PyPI
-https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
-https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
-https://flake8.pycqa.org/en/latest/
-https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
-https://pypi.org/project/flake8/ | flake8 · PyPI
--->
-
-Not used?
-* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
 
 Kubernetes
 * [Kubernetes](https://kubernetes.io)
@@ -867,6 +738,34 @@ Webpack Versus Browserify
 <!--
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
+-->
+
+
+Continuous Integration and Delivery
+* [CircleCI](https://circleci.com)
+
+Coverage
+* [Coverage Read the Docs](http://coverage.readthedocs.org) and [Coverage Bitbucket](https://bitbucket.org/ned/coveragepy)
+* [Codecov](https://codecov.io)
+
+<!--
+https://devguide.python.org/coverage/ | 5. Increase Test Coverage — Python Developer's Guide
+
+https://docs.codecov.io/docs/python
+https://codecov.io/#features | Codecov
+
+https://github.com/nedbat/coveragepy | nedbat/coveragepy: Code coverage measurement for Python
+https://pypi.org/project/coverage/ | coverage · PyPI
+https://coverage.readthedocs.io/en/coverage-5.5/ | Coverage.py — Coverage.py 5.5 documentation
+
+https://coverage.readthedocs.io/en/coverage-5.0/config.html | Configuration files — Coverage.py 4.4.2 documentation
+
+https://stackoverflow.com/questions/21991765/how-to-generate-coverage-from-setup-py | python - How to generate coverage from setup.py - Stack Overflow
+https://github.com/codecov/example-python#how-to-generate-coverage-reports
+"coverage.py is required to collect coverage metrics."
+
+https://circleci.com/docs/ | Welcome to CircleCI Documentation - CircleCI
+https://circleci.com/docs/2.0/local-cli/ | Using the CircleCI Local CLI - CircleCI
 
 https://circleci.com/blog/setting-up-continuous-integration-with-github/ | GitHub Continuous Integration - GitHub CI | CircleCI
 
@@ -879,9 +778,66 @@ https://circleci.com/docs/2.0/caching/ | Caching Dependencies - CircleCI
 https://circleci.com/docs/2.0/env-vars/ | Using Environment Variables - CircleCI
 https://circleci.com/docs/2.0/language-python/ | Configuring a Python Application on CircleCI - CircleCI
 https://github.com/CircleCI-Public/circleci-demo-python-django | CircleCI-Public/circleci-demo-python-django: Example Django application running on CircleCI
+-->
 
-https://coverage.readthedocs.io/en/coverage-5.0/config.html | Configuration files — Coverage.py 4.4.2 documentation
+Testing Tools
+* [Tox Read the Docs](https://tox.readthedocs.org)
+* [Tox Parallel Mode](https://tox.readthedocs.io/en/latest/example/basic.html#parallel-mode)
+* [Detox GitHub (Archived)](https://github.com/tox-dev/detox) and [Detox PyPi](https://pypi.python.org/pypi/detox)
 
+<!--
+Tox GitHub Action
+https://github.com/tox-dev/action | tox-dev/action: A Github Action to run tox environments within Github
+
+"[Integration with coverage.py](https://docs.djangoproject.com/en/dev/topics/testing/advanced/#topics-testing-code-coverage)."
+"[Running tests using tox](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/unit-tests/#running-tests-using-tox)"
+
+https://github.com/marketplace?utf8=%E2%9C%93&query=tox | GitHub Marketplace · Tools to improve your workflow
+https://tox.readthedocs.io/en/latest/example/basic.html#a-simple-tox-ini-default-environments | Basic usage — tox 3.14.6.dev2 documentation
+
+https://github.com/codecov/example-python#testing-with-tox | codecov/example-python: Python coverage example
+https://github.com/pallets/flask/blob/master/tox.ini
+https://github.com/pganssle/tox-examples | pganssle/tox-examples
+-->
+
+tox Alternative (not used)
+* [Nox](http://nox.thea.codes) and [Nox GitHub](https://github.com/theacodes/nox)
+
+
+
+Import Sorting
+* [isort](http://isort.readthedocs.io) and [isort GitHub](https://github.com/timothycrosley/isort)
+
+<!--
+https://pypi.org/project/isort/ | isort · PyPI
+https://github.com/PyCQA/isort | PyCQA/isort: A Python utility / library to sort imports.
+https://twitter.com/webology/status/1393520619262730249 | Jeff Triplett 😷💉💉💯 on Twitter: "TIL: There are a couple of nice isort tips here that I didn't know were possible like add_imports and remove_imports which I will use Monday. 🤔" / Twitter
+
+https://github.com/timothycrosley/isort/issues/694
+-->
+
+Formatting
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [doc8 GitHub](https://github.com/openstack/doc8)
+* [pydocstyle GitHub](https://github.com/PyCQA/pydocstyle)
+* [mccabe GitHub](https://github.com/PyCQA/mccabe)
+* [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
+
+<!--
+Linting
+https://pylint.org/
+https://pylint.pycqa.org/en/latest/
+
+
+?
+https://pypi.org/project/pyflakes/
+https://github.com/PyCQA/pyflakes
+https://launchpad.net/pyflakes/ | Pyflakes in Launchpad
+
+https://pypi.org/project/pep8/ | pep8 · PyPI
+
+https://flake8.pycqa.org/en/latest/
+https://pypi.org/project/flake8/ | flake8 · PyPI
 
 http://flake8.pycqa.org/en/3.1.1/user/ignoring-errors.html | Ignoring Errors with Flake8 — flake8 3.1.1 documentation
 
@@ -890,9 +846,19 @@ noqa: E501
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
 -->
 
+
 ### Package Tools and Testing
 
 <!--
+## attrs
+
+https://www.attrs.org/en/stable/
+https://pypi.org/project/attrs/
+https://rich.readthedocs.io/en/stable/introduction.html
+https://pydantic-docs.helpmanual.io/
+https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
+
+
 attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
 
 Not used- but could be?
@@ -903,9 +869,8 @@ https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Actio
 
 https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
 
-Black and single quotes
-https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+Not used?
+* [Factory Boy GitHub](https://github.com/FactoryBoy/factory_boy) and [Factory Boy PyPI](https://pypi.python.org/pypi/factory_boy)
 -->
 
 ### Code Formatting Tools
@@ -918,11 +883,37 @@ Code Formatting
 * [Google YAPF](https://github.com/google/yapf)
 
 <!--
+https://pypi.org/project/black/ | black · PyPI
+
 https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
 
 https://github.com/bots-for-humanity/black-out
 
 https://black.now.sh/ | Black Playground
+
+Black and single quotes
+https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+-->
+
+## Mypy
+
+Mypy PyCharm
+* [Dropbox: Mypy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
+
+Mypy
+* [Python Mypy GitHub](https://github.com/python/mypy)
+
+<!--
+https://pypi.org/project/mypy-ipython/20.8.0/ | mypy-ipython · PyPI
+https://myst-parser.readthedocs.io/en/latest/using/intro.html | Getting Started
+
+http://mypy-lang.org/
+https://github.com/machinalis/mypy-django
+http://mypy.readthedocs.io
+
+Django stubs?
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
 -->
 
 ## Static Typing
@@ -946,11 +937,9 @@ Type Hints
 * [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
 * [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
 
-Static Typing Tools
-* [Python Mypy GitHub](https://github.com/python/mypy)
+More Static Typing Tools
 * [Python Typeshed GitHub](https://github.com/python/typeshed)
 * [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
-* [Dropbox: MyPy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
 * [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
 * [Google: Pytype GitHub](https://github.com/google/pytype)
 * [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
@@ -963,14 +952,9 @@ Django Static Typing Tools
 <!--
 https://dustingram.com/talks/2020/03/19/static-typing-in-python/
 
-https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
-
 Encode Typesystem
 https://twitter.com/webology/status/1227286423109279744
 https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
-
-http://mypy-lang.org/
-https://github.com/machinalis/mypy-django
 
 machine verified documentation
 https://twitter.com/pganssle/status/1180224777350520835
@@ -979,8 +963,24 @@ https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-li
 
 Guido- Type Annotations
 https://us.pycon.org/2016/schedule/presentation/2266/
+-->
 
-http://mypy.readthedocs.io
+## Wagtail
+
+Wagtail
+* [Wagtail](https://wagtail.io/)
+
+<!--
+Django Wagtail
+https://github.com/Jean-Zombie/cookiecutter-django-wagtail | Jean-Zombie/cookiecutter-django-wagtail: Cookiecutter Django + Wagtail
+
+Wagtail
+https://wagtail.io/blog
+https://github.com/wagtail/wagtail/
+https://wagtail.io/packages/ | Packages | Wagtail CMS
+https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
+https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
+https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
 -->
 
 
@@ -1119,12 +1119,16 @@ https://2019.pycon-au.org/talks/wasm-matter | PyCon AU 2019 | WASM matter?
 
 https://pyfound.blogspot.com/2019/05/russell-keith-magee-python-on-other.html | Python Software Foundation News: Russell Keith-Magee: Python On Other Platforms
 
+## Rust
+
 Rust
 https://hacks.mozilla.org/2016/11/rust-and-the-future-of-systems-programming/ | Rust and the Future of Systems Programming - Mozilla Hacks - the Web developer blog
 https://slides.com/raiderrobert/rust-borrowing-pytn#/11 | Rust: Borrowing
 https://bitbucket.org/blog/why-rust | Why we chose Rust as our programming language
 https://drewdevault.com/2019/03/25/Rust-is-not-a-good-C-replacement.html | Rust is not a good C replacement | Drew DeVault’s Blog
 https://developers.redhat.com/blog/2017/11/16/speed-python-using-rust/ | Speed up your Python using Rust - Red Hat Developer Blog
+
+## PyOxidizer
 
 PyOxidizer- Python and Rust
 https://twitter.com/andrewgodwin/status/1143982061524418560 | Twitter
@@ -1133,13 +1137,13 @@ https://gregoryszorc.com/blog/2019/06/24/building-standalone-python-applications
 https://twitter.com/indygreg/status/1143187250743668736 | indygreg on Twitter: "I'm excited to announce the initial release of PyOxidizer - a utility for producing standalone Python applications and which empowers Python and Rust to leverage each other! https://t.co/qZ5Wpjthkn"
 https://pyoxidizer.readthedocs.io/en/latest/comparisons.html
 
+## Pyodide
+
 Pyodide/Web Assembly
 https://github.com/iodide-project/pyodide | iodide-project/pyodide: The Python scientific stack, compiled to WebAssembly
 https://hacks.mozilla.org/2019/04/pyodide-bringing-the-scientific-python-stack-to-the-browser/ | Pyodide: Bringing the scientific Python stack to the browser - Mozilla Hacks - the Web developer blog
 https://github.com/wasmerio/python-ext-wasm | wasmerio/python-ext-wasm: 🐍🕸 Python extension to run WebAssembly binaries.
 https://twitter.com/wasmerio/status/1146477876151115776 | Wasmer on Twitter: "🔥 This is BIG. Using Wasmer 0.5.2 you can run the #Python interpreter ported to #WebAssembly (based on Pyodide) $ wasmer self-update $ wapm install python https://t.co/Oj9RryDrs5… https://t.co/WYMPMDJbNN"
-
-https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 -->
 
 
