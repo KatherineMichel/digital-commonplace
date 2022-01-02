@@ -107,6 +107,8 @@ https://blog.jetbrains.com/
 https://blog.jetbrains.com/pycharm/
 
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) — Mypy 0.910 documentation
 
 * HTTP and REST APIs
 * Celery and async processing
