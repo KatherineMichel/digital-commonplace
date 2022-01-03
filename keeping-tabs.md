@@ -1,5 +1,13 @@
 # Keeping Tabs
 
+<!--
+## Pinax
+
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+-->
+
 ## Events
 
 <!--
