@@ -12,6 +12,42 @@ Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
 
 
+Doctests
+
+Django testing
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/
+https://docs.djangoproject.com/en/dev/topics/testing/overview/ | Writing and running tests | Django documentation | Django
+
+Important!
+https://realpython.com/pytest-python-testing/
+https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
+
+
+https://docs.python.org/3/library/unittest.html
+https://en.wikipedia.org/wiki/Unit_testing | Unit testing - Wikipedia
+
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+https://docs.djangoproject.com/en/3.2/intro/tutorial05/ | Writing your first Django app, part 5 | Django documentation | Django
+
+https://test-driven-django-development.readthedocs.io/en/v2.0/ | Workshop: Test-Driven Web Development with Django — Test-Driven Django Development 0.1.0 documentation
+
+
+## Testing and Debugging
+
+https://pypi.python.org/pypi/pycodestyle/1.8.0.dev0
+
+Pytest
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pluggy | pytest-dev/pluggy: A minimalist production ready plugin system
+
+Pytest DRF
+https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
+https://pypi.python.org/pypi/pytest-cov | pytest-cov 2.5.1 : Python Package Index
+
+https://pypi.org/project/pytest-github-actions-annotate-failures/ | pytest-github-actions-annotate-failures · PyPI
+https://pypi.org/project/pytest-is-running/ | pytest-is-running · PyPI
+
+
 ## Tools
 
 Python Docker Image
@@ -774,6 +810,8 @@ pytest-selenium (plugin)
 https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
 https://pytest-selenium.readthedocs.io/en/latest/user_guide.html#chrome | User Guide — pytest-selenium latest documentation
 
+https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
+
 https://seleniumbase.io/ | SeleniumBase Docs
 https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
 
@@ -850,8 +888,8 @@ Django Test Plus
 
 <!--
 django-selenium
+https://django-selenium.readthedocs.io/en/latest/
 https://pypi.org/project/django-selenium/
-
 
 pytest-django (plugin)
 https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
@@ -1086,6 +1124,8 @@ Formatting
 * [Flake8 Quotes GitHub](https://github.com/zheller/flake8-quotes)
 
 <!--
+https://github.com/PyCQA/flake8-bugbear | PyCQA/flake8-bugbear: A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
+
 ?
 https://pypi.org/project/pyflakes/
 https://github.com/PyCQA/pyflakes
@@ -1203,6 +1243,37 @@ https://us.pycon.org/2016/schedule/presentation/2266/
 Flask
 https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
 https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+
+
+https://flask.palletsprojects.com/en/2.0.x/views/ | Pluggable Views — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/2.0.x/api/ | API — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/2.0.x/tutorial/views/ | Blueprints and Views — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions | Quickstart — Flask Documentation (1.1.x)
+https://github.com/pallets/flask/blob/master/src/flask/app.py | flask/app.py at master · pallets/flask
+https://github.com/pallets/flask/blob/master/src/flask/config.py | flask/config.py at master · pallets/flask
+
+https://flask.palletsprojects.com/en/2.0.x/async-await/ | Using async and await — Flask Documentation (2.0.x)
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+https://apiflask.com/ | APIFlask
+
+https://github.com/dpgaspar/Flask-AppBuilder | dpgaspar/Flask-AppBuilder: Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+
+## Flask is Production Ready
+
+https://twitter.com/driscollis/status/1438622525471272961 | Mike Driscoll on Twitter: "This is correct. Flask is a successful production-ready #Python web framework" / Twitter
+https://twitter.com/svpino/status/1438427586925826053 | Santiago on Twitter: "I've heard a couple of times that you shouldn't use Flask in production systems. This is not correct. Flask comes with a built-in web server that's not suitable for production. The solution is not to throw Flask away but to pair it with a production-ready WSGI server." / Twitter
+
+## Flask Stack
+
+Interesting
+https://twitter.com/davidism/status/1276205301344026625 | David Lord on Twitter: "Have a client that keeps talking about the "MERN stack", but no one has blogged about huge success stories for the "PFRP" (PostgreSQL, Flask, React, Python) stack even though it's just as valid, it just doen't have the same marketing incentives." / Twitter
 -->
 
 ## Wagtail
