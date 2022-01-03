@@ -12,6 +12,11 @@ Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
 
 
+Telemetry
+https://prometheus.io/ | Prometheus - Monitoring system & time series database
+https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
+
+
 Doctests
 
 Django testing
