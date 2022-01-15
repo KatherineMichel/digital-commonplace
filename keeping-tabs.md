@@ -1,6 +1,17 @@
 # Keeping Tabs
 
 <!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+https://lobste.rs/ | Lobsters
+https://lobste.rs/page/19 | Lobsters
+https://news.ycombinator.com/news?p=5 | Hacker News
+
+https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
+
+
 ## Pinax
 
 https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
