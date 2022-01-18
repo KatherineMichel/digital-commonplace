@@ -167,22 +167,6 @@ https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfe
 https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
 
 
-## Simon and Jeremy Howard
-
-Simon- Important
-https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
-https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
-https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
-
-## Fast AI
-
-https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
-
 
 ## CPython
 
@@ -280,18 +264,8 @@ https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 
 -->
 
 
+
 <!--
-TLA+
-https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
-https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
-
-https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
-
-
-
 Interesting
 https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
 
@@ -307,6 +281,20 @@ https://computationalthinking.mit.edu/Fall20/
 https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
+
+
+
+TLA+
+https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
+https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
+
+
+
 
 
 
@@ -330,25 +318,6 @@ https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-the
 -->
 
 
-
-<!--
-## UX/UI
-
-https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
-
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
-
-https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
-https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
-https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
-
-Product Sprint
-https://github.com/google/software-product-sprint | google/software-product-sprint
-
-Luke
-https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
--->
-
 <!--
 ## Interesting
 
@@ -367,6 +336,23 @@ https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliabili
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 -->
 
+<!--
+## UX/UI
+
+https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
+
+https://uxdesign.cc/defining-design-system-principles-69e4790b95b0 | Defining design system principles | by Ross Moody | UX Collective
+https://uxdesign.cc/uniwidth-typefaces-for-interface-design-b6e8078dc0f7 | Uniwidth typefaces for interface design | by Lisa Staudinger | Jan, 2021 | UX Collective
+https://medium.com/@mulegirl/research-maturity-in-five-questions-df7042507de8 | Research Maturity in Five Questions | by Erika Hall | Jan, 2021 | Medium
+
+Product Sprint
+https://github.com/google/software-product-sprint | google/software-product-sprint
+
+Luke
+https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
+-->
 
 <!--
 Docs
@@ -391,6 +377,7 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 
 
 
+
 <!--
 https://jacobian.org/2018/may/2/engmanager-reading-list/
 https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
@@ -411,6 +398,52 @@ https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engine
 
 https://github.com/joelparkerhenderson/ground_rules
 https://github.com/joelparkerhenderson/ground_rules#see-also
+-->
+
+## Engineering Performance Resources
+
+JavaScript Scene
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+<!--
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+
+https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
+
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+-->
+
+<!--
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+Great engineers
+https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
+https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
+https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
+
+http://sijinjoseph.com/programmer-competency-matrix/
+
+software development competency framework
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 -->
 
 ## Engineering Orgs
@@ -476,53 +509,6 @@ https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new e
 
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
--->
-
-
-## Engineering Performance Resources
-
-JavaScript Scene
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
-<!--
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
-
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
-
-https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
-<!--
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-Great engineers
-https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
-
-https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
-https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
-https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
-
-http://sijinjoseph.com/programmer-competency-matrix/
-
-software development competency framework
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 -->
 
 
