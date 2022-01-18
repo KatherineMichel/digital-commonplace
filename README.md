@@ -1103,131 +1103,6 @@ https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliabi
 -->
 
 
-## VS Code
-
-### Shortcuts
-
-<!--
-https://code.visualstudio.com/docs/editor/command-line | The Visual Studio Code command-line options
-https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
-
-
-https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
-
-Snippets
-https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
-https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
-
-
-Mac
-https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
-
-Twitter
-https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
-
-VS Code Mac
-https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
-
-GitHub
-https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
-https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
-
-GitHub Hotkeys
-https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
-https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
--->
-
-### Visual Studio Code
-
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-<!--
-https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
-https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
-
-node.js
-https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
-
-C++
-https://code.visualstudio.com/docs/cpp/launch-json-reference
-
-tasks.json
-https://code.visualstudio.com/docs/editor/tasks
-settings
-https://code.visualstudio.com/docs/getstarted/settings
-
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-https://github.com/microsoft/vscode
-https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
-
-Installed
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/environments
-https://code.visualstudio.com/docs/python/tutorial-django
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
-https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
-https://code.visualstudio.com/docs/python/editing#_formatting
-https://pypi.org/project/autopep8/
-https://github.com/psf/black
-https://code.visualstudio.com/docs/python/linting
-https://code.visualstudio.com/docs/python/linting#_specific-linters
-https://code.visualstudio.com/docs/python/debugging
-https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
-https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
-https://code.visualstudio.com/docs/python/testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://docs.python.org/3/library/unittest.html
-https://docs.pytest.org/en/latest/
-https://code.visualstudio.com/docs/python/editing#_refactoring
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-
-https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
--->
-
-### Visual Studio Code
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" (EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://developers.google.com/web/updates/2017/04/headless-chrome
-https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
-
-https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-VC Studio Code
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-
-https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
--->
-
-
 ## Useful Files
 
 Shells
@@ -1397,6 +1272,132 @@ https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
 https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
 https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
 https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
+-->
+
+
+## VS Code
+
+### Shortcuts
+
+<!--
+https://code.visualstudio.com/docs/editor/command-line | The Visual Studio Code command-line options
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks | Visual Studio Code Tips and Tricks
+
+VS Code Mac
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf
+
+
+https://developers.google.com/web/tools/chrome-devtools/shortcuts | Chrome DevTools Keyboard Shortcuts  |  Tools for Web Developers
+
+Snippets
+https://twitter.com/EmmaWedekind/status/1076180368351469569 | Emma Wedekind ✨ on Twitter: "Seriously, @hackerrank is the GREATEST platform for practicing problem solving skills and algorithmic coding. Highly recommend. And if you aren't already using Chrome snippets to run & debug your JS code, check it out now => https://t.co/ts3GlEaD6k"
+https://developers.google.com/web/tools/chrome-devtools/snippets | Run Snippets Of Code From Any Page  |  Tools for Web Developers  |  Google Developers
+
+
+Mac
+https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac | Keyboard shortcuts in Terminal on Mac - Apple Support
+
+Twitter
+https://winaero.com/blog/twitter-hotkeys-web-site-shortcuts/
+
+GitHub
+https://help.github.com/en/github/getting-started-with-github/keyboard-shortcuts | Keyboard shortcuts - GitHub Help
+https://help.github.com/en/github/managing-files-in-a-repository/navigating-code-on-github
+
+GitHub Hotkeys
+https://twitter.com/shl/status/1146205870293835778 | Sahil Lavingia on Twitter: "apple+Q… "
+https://twitter.com/_ericelliott/status/1163240418806575105 | Eric Elliott on Twitter: "GitHub has useful hotkeys. To see them, type `?` on any GitHub page. #code #JavaScript" / Twitter
+-->
+
+
+### Visual Studio Code
+
+* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
+* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
+* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
+
+<!--
+https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
+https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
+
+https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
+
+https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
+
+node.js
+https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
+
+C++
+https://code.visualstudio.com/docs/cpp/launch-json-reference
+
+tasks.json
+https://code.visualstudio.com/docs/editor/tasks
+settings
+https://code.visualstudio.com/docs/getstarted/settings
+
+https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
+
+https://github.com/microsoft/vscode
+https://github.com/Microsoft/vscode-python
+https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
+
+https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
+
+Installed
+https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
+
+https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
+
+https://marketplace.visualstudio.com/vscode
+
+https://code.visualstudio.com/docs/python/environments
+https://code.visualstudio.com/docs/python/tutorial-django
+https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
+https://code.visualstudio.com/docs/languages/python
+https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
+https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
+https://code.visualstudio.com/docs/python/editing#_formatting
+https://pypi.org/project/autopep8/
+https://github.com/psf/black
+https://code.visualstudio.com/docs/python/linting
+https://code.visualstudio.com/docs/python/linting#_specific-linters
+https://code.visualstudio.com/docs/python/debugging
+https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
+https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
+https://code.visualstudio.com/docs/python/testing
+https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
+https://docs.python.org/3/library/unittest.html
+https://docs.pytest.org/en/latest/
+https://code.visualstudio.com/docs/python/editing#_refactoring
+https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
+
+https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
+-->
+
+### Visual Studio Code
+
+Python and Visual Studio Code
+* [Dan Taylor: "Get Productive with Python in Visual Studio Code" (EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
+
+<!--
+https://developers.google.com/web/updates/2017/04/headless-chrome
+https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
+https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
+
+https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
+
+https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
+https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
+
+VC Studio Code
+https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
+https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
+https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
+
+https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
+https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
+
+https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 -->
 
 
