@@ -167,9 +167,12 @@ https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@
 
 
 <!--
-## Simon and Jeremy Howard
+## Simon
 
 Simon- Important
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://twitter.com/simonw/status/1481328382755282947
+
 https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
 https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
 https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
