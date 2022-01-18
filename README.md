@@ -166,16 +166,30 @@ https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfe
 
 https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
 
+
+## Simon and Jeremy Howard
+
 Simon- Important
 https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
 https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
 https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
 
+## Fast AI
+
 https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+
+
+## CPython
 
 Important!
 https://devguide.python.org/parser/ | Guide of CPython’s Parser - Python Developer's Guide
 https://twitter.com/gjbernat/status/1423034193362182153 | Bernát Gábor on Twitter: "@pyblogsal just published the guide on the python grammar and it's an absolute gem https://t.co/jhHwY4h1pr 👏👏👏" / Twitter
+
 
 https://github.com/DavidWells/markdown-magic | DavidWells/markdown-magic: 💫  Automatically format markdown files, sync external docs/src code & make better docs
 
@@ -195,6 +209,8 @@ https://twitter.com/spookylukey/status/1432773825511444484 | Luke Plant on Twitt
 Empathy Session
 https://twitter.com/di_codes/status/1425969820256903179 | Dustin Ingram on Twitter: "I first joined an empathy session w/ @kelseyhightower &amp; @kmbannerman not long after I started at Google. I'm hooked now. It's one of the most fun parts of my job, &amp; a foolproof way to not only find improvement areas for a product, but also motivate them. https://t.co/wGdJXJS3La" / Twitter
 
+
+
 Terminal Tutorial
 https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
@@ -206,6 +222,9 @@ Talk
 https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
 
 https://medium.com/@nimay/inside-product-introduction-to-feature-priority-using-ice-impact-confidence-ease-and-gist-5180434e5b15 | Inside Product: Introduction to Feature Priority using ICE (Impact, Confidence, Ease) and GIST (Goals, Ideas, Step-Projects and Tasks) | by Nimay Parekh | Medium
+
+
+## Open Source
 
 Bitergia
 https://bitergia.com/resources/#usecases | Resources - Bitergia
@@ -227,6 +246,7 @@ https://github.com/github/MVG | github/MVG: MVG = Minimum Viable Governance
 https://www.google.com/search?q=minimum+viable+governance&oq=minimum+viable+governance&aqs=chrome.0.0j69i61j69i60j69i61.4841j0j7&sourceid=chrome&ie=UTF-8 | minimum viable governance - Google Search
 https://www.youtube.com/watch?v=C2-_MjzP-Rs | M.V.G. – Minimum Viable Governance - Stephen Walli & Sarah Novotny, Microsoft - YouTube
 
+
 ## Design Principles
 
 Cardinality
@@ -241,18 +261,8 @@ esp game - Google Search
 Interesting
 https://twitter.com/patrickc/status/1404217558266351617 | Patrick Collison on Twitter: "Dang's principles for online forums are quite interesting. • Curiosity withers under repetition. • Generic discussion is not interesting. • We want reflective rather than reflexive conversation. • Diffs are what make a conversation interesting. https://t.co/GLIUk4WCJc" / Twitter
 
-Interesting
-https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
-
-Software Design for Flexility
-https://twitter.com/carltongibson/status/1375056592572403718 | (1) Carlton Gibson 🇪🇺 on Twitter: "Oh yes. 🧐 https://t.co/xbnBBMBJPx" / Twitter
-https://twitter.com/dabeaz/status/1372644031654682625/photo/1 | Latest Tweets / Twitter
-
-Software Fundamentals: Collected Papers from David Parnas - Google Search
--->
 
 
-<!--
 https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
 
 Important
@@ -281,13 +291,23 @@ https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz 
 https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
 
 
+
+Interesting
+https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
+
+Software Design for Flexility
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
+https://twitter.com/carltongibson/status/1375056592572403718 | (1) Carlton Gibson 🇪🇺 on Twitter: "Oh yes. 🧐 https://t.co/xbnBBMBJPx" / Twitter
+https://twitter.com/dabeaz/status/1372644031654682625/photo/1 | Latest Tweets / Twitter
+
+Software Fundamentals: Collected Papers from David Parnas - Google Search
 
 https://computationalthinking.mit.edu/Fall20/
 
 https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
+
 
 
 https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
@@ -309,27 +329,6 @@ https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ |
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
 -->
 
-<!--
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
-
-https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
-
-## Management
-
-SCQA framework
-https://www.heavybit.com/library/video/executive-communication/
-https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
-
-https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
-
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
--->
 
 
 <!--
@@ -368,6 +367,7 @@ https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliabili
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 -->
 
+
 <!--
 Docs
 
@@ -389,16 +389,29 @@ https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · g
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 -->
 
+
+
 <!--
-## Fast AI
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
 
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
 
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+## Management
+
+SCQA framework
+https://www.heavybit.com/library/video/executive-communication/
+https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
+
+https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
 -->
-
-
 
 ## Engineering Orgs
 
