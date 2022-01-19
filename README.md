@@ -183,17 +183,6 @@ https://twitter.com/FlipperPA/status/1423641131192045576 | Tim A. on Twitter: "O
 
 
 <!--
-Docs
-https://twitter.com/smc90/status/842965339461763072 | Sonal Chokshi on Twitter: "@stevesi @lawprofblawg @skupor (I adhere to Economist style guide for periods outside v inside for phrases v sentences) //cc @arampell 😂😂😂" / Twitter
-https://www.economist.com/johnson/2010/09/30/style-guide-entry-of-the-week-inverted-commas | Style - Style Guide entry of the week: inverted commas | Johnson | The Economist
-
-Servant Leadership
-https://twitter.com/spookylukey/status/1432773825511444484 | Luke Plant on Twitter: "@KatiMichel The phrase Servant Leadership is very widely used in Christian circles regarding church leadership, based on texts like Mark 10:45, John 10:11. Very interesting to see it in a twitter careers ad!" / Twitter
-
-Empathy Session
-https://twitter.com/di_codes/status/1425969820256903179 | Dustin Ingram on Twitter: "I first joined an empathy session w/ @kelseyhightower &amp; @kmbannerman not long after I started at Google. I'm hooked now. It's one of the most fun parts of my job, &amp; a foolproof way to not only find improvement areas for a product, but also motivate them. https://t.co/wGdJXJS3La" / Twitter
-
-
 
 Terminal Tutorial
 https://twitter.com/nnja/status/1217933709577342976
@@ -205,30 +194,7 @@ https://twitter.com/maddiecampos3/status/1412238127184461824 | Madelene Campos o
 Talk
 https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
 
-https://medium.com/@nimay/inside-product-introduction-to-feature-priority-using-ice-impact-confidence-ease-and-gist-5180434e5b15 | Inside Product: Introduction to Feature Priority using ICE (Impact, Confidence, Ease) and GIST (Goals, Ideas, Step-Projects and Tasks) | by Nimay Parekh | Medium
 
-
-## Open Source
-
-Bitergia
-https://bitergia.com/resources/#usecases | Resources - Bitergia
-
-CHAOSS Project
-https://twitter.com/CHAOSSproj/status/1433448625963782144 | CHAOSS Project on Twitter: "It's metrics release time again! We are now in the 30 day public review period, and we have 16 new metrics up for review! We also have some focus area changes and an update to an old metric. We'd love your input and comments to those marked Under Review: https://t.co/5rwOHHjbHE" / Twitter
-
-OS Schema Workshop
-https://drive.google.com/file/d/1tMJKEScR226K-uAhtZG-de3jMwH7guh0/view
-https://twitter.com/amcasari/status/1417836786085208064
-https://docs.google.com/forms/d/e/1FAIpQLSfcvbmKxbCL7ZHgiZ7ZqDx0AzQ3q4hZiIWnUKAgtmXeXXjRkA/viewform
-https://twitter.com/amcasari/status/1417851523493675010 | commandasaurus 🦦 on Twitter: "@KatiMichel Thank you! I hope you can find a time to join us." / Twitter
-
-## MVP Governance
-
-MvP
-https://github.blog/2021-07-22-minimum-viable-governance-lightweight-community-structure-foss-projects/ | Minimum Viable Governance: lightweight community structure to grow your FOSS projects | The GitHub Blog
-https://github.com/github/MVG | github/MVG: MVG = Minimum Viable Governance
-https://www.google.com/search?q=minimum+viable+governance&oq=minimum+viable+governance&aqs=chrome.0.0j69i61j69i60j69i61.4841j0j7&sourceid=chrome&ie=UTF-8 | minimum viable governance - Google Search
-https://www.youtube.com/watch?v=C2-_MjzP-Rs | M.V.G. – Minimum Viable Governance - Stephen Walli & Sarah Novotny, Microsoft - YouTube
 
 
 ## Design Principles
