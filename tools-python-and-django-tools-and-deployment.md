@@ -1,6 +1,68 @@
 # Python and Django Tools and Deployment
 
 <!--
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+## Simon
+
+Simon- Important
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://twitter.com/simonw/status/1481328382755282947
+
+https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
+https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
+https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
+
+Jeremy Howard
+https://twitter.com/_ScottCondron/status/1441695317683023874 | Scott Condron on Twitter: "If you want to learn about GitHub Actions, here’s a tutorial by @jeremyphoward to use ghapi, a Python wrapper for the @github API, and Github Actions. It shows how to reply “thank you” to all PRs, then shows how to run a scheduled multi-job workflow 🤩 https://t.co/pzufSBA5lp" / Twitter
+
+## Fast AI
+
+https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
+
+Fastpages
+https://fastpages.fast.ai/
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+https://twitter.com/fastdotai/status/1455310812696879104 | fast.ai on Twitter: "New #fastcore release: v1.3.27. https://t.co/OznRqDFXzB ### New Features - add loop functions, thanks to @willmcgugan ([#363](https://t.co/EOVp253Pon)) - add `walk` function ([#355](https://t.co/9jfm7OJAi1…" / Twitter
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+
+Important
+https://twitter.com/jeremyphoward/status/1328780892769120256 | Jeremy Howard on Twitter: "Here's how to get started with socket programming in Python - a minimal webserver, with a little less boilerplate thanks to `fastcore` https://t.co/YqeSk6rgii https://t.co/m6ZmUmGeph" / Twitter
+
+https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on Twitter: "How to convert 16 lines (from the python standard library) of complex nested code with multiple return paths to three lines of clear code with one return path. https://t.co/FXddFjcuvO https://t.co/nmBOseot55" / Twitter
+
+
+## Testing
+
+https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
+
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+
+https://www.valentinog.com/blog/testing-django/
+
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/ | Improve Your Python: Understanding Unit Testing
+https://blog.ganssle.io/articles/2019/08/test-as-installed.html | Testing your python package as installed
+
+https://hynek.me/articles/testing-packaging/ | Testing & Packaging
+https://hynek.me/articles/document-your-tests/ | Why You Should Document Your Tests
+
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/%20%7C%20Let's%20talk%20about%20testing%20Django%20apps | Page not found
+
+https://www.hillelwayne.com/talks/beyond-unit-tests/ | Beyond Unit Tests • Hillel Wayne
+
+https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
+https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
+-->
+
+
+<!--
 Pyenv Global
 https://twitter.com/webology/status/699277088256163840
 
@@ -164,29 +226,6 @@ https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ 
 setuptools-scm
 https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
 -->
-
-
-<!--
-## Simon
-
-Simon- Important
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
-https://twitter.com/simonw/status/1481328382755282947
-
-https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
-https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
-https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
-
-## Fast AI
-
-https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
-
-https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
-
-https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
-https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
--->
-
 
 ## Awesome Python and Django
 
