@@ -5,15 +5,65 @@ Farming versus mining
 Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
+PAGNI
+https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
+https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
+https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitter: "@jacobian Auto-escaping definitely fits the bill as one of those things which is essentially free to implement at the start of a project but a right pain to add in a few years down the line" / Twitter
+
+YAGNI
+https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
+
 ## Simon
 
-Simon- Important
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
 https://twitter.com/simonw/status/1481328382755282947
 
 https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
-https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit
+https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit | Datasette - PyCon Argentina 2020, Q&A - Google Docs
 https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
+
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
+
+Doc Unit Tests
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+
+https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit | Building a personal data warehouse in Snowflake for fun and no profit. — Thomas Dziedzic
+
+Personal Data Warehouse
+https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
+https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
+https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Blog
+https://blog.stephenwolfram.com/2017/12/what-do-i-do-all-day-livestreamed-technology-ceoing/ | What Do I Do All Day? Livestreamed Technology CEOing—Stephen Wolfram Blog
+
+Personal Data Warehouse
+https://simonwillison.net/2020/Nov/14/personal-data-warehouses/ | Personal Data Warehouses: Reclaiming Your Data
+https://docs.google.com/document/d/1rFp2tXLvaCK5khbPbSfV8nfVjZLGTX3KkMZ2FMpgi-k/edit#heading=h.118bmi7ztpzo | Personal Data Warehouses: Reclaiming Your Data - Google Docs
+https://twitter.com/simonw/status/1327461144353652736 | (1) Simon Willison on Twitter: "I've created an extended, annotated version of my talk on Personal Data Warehouses, including screenshots, links and code examples https://t.co/BkrqggPcTL" / Twitter
+https://gazit.me/writing/static-to-animated/ | Static to Animated | Idan Gazit
+
+Personal Data Warehouse
+https://twitter.com/simonw/status/1323703015732174849 | Simon Willison on Twitter: "I'm giving a talk titled "Personal Data Warehouses: Reclaiming your Data" for the GitHub OCTO speaker series next week!" / Twitter
+
+Talks
+https://twitter.com/simonw/status/1286098770652930048 | Simon Willison on Twitter: "Just gave a talk on @datasetteproj and https://t.co/De1Loc05WM at the @bostonpython meetup - it was really fun! Used a Google Doc for the Q&amp;A which worked great - I've fleshed out all the answers with extra links here: https://t.co/X8VKa9vZ0N" / Twitter
+https://www.youtube.com/watch?v=lmP75mp3-Rg | How to Instantly Publish Data to the Internet with Datasette | Simon Willison @ PyBay2018 - YouTube
+https://twitter.com/simonw/status/1315715789471670274 | Simon Willison on Twitter: "Notes, links and notebook from my #JupyterCon2020 session on Datasette and sqlite-utils this morning: https://t.co/3y2rLcS7qn - I live-coded a SQLite database containing earthquakes from last week using data from USGS" / Twitter
+https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+
+Git Scraping/Flat Data
+https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
+https://twitter.com/github/status/1394767308212502528 | GitHub on Twitter: "Take a peek into lightweight data workflows from the future. 🔮 The Developer Experience research team in GitHub’s Office of the CTO has released Flat Data!" / Twitter
+https://twitter.com/simonw/status/1394729289346519041 | Simon Willison on Twitter: "This is so exciting! Git scraping is now an officially supported pattern at GitHub, and they've released a flurry of neat new tools that help people take advantage of the technique" / Twitter
+https://github.com/marketplace/actions/flat-data | Flat Data · Actions · GitHub Marketplace
+https://twitter.com/Wattenberger/status/1395008085782061056 | Amelia Wattenberger 🍓 華曼如 on Twitter: "not to play favorites, but this is 💯% my favorite part of the new Flat Data workflow. And one that can be used all on its own! Add "flat" to any https://t.co/166YAljBjc repo url and browse through any csv/json file, with helpful bits like filter, sort, sticky col, diffs, etc!" / Twitter
+https://twitter.com/kachkaev/status/1395141903633506312 | Alexander Kachkaev on Twitter: "@githubOCTO Using git to manage data is a really powerful approach! I used it to track changes in a recent #OpenStreetMap mapping party for 40+ days. Generating nightly json snapshots of ≈50K buildings made it easy to analyse results! Vises for data I stored in git: https://t.co/3iysPbQ4WI https://t.co/9Yo49bDh4e" / Twitter
+Important
+https://twitter.com/aborruso/status/1395407403802365953 | Andrea Borruso on Twitter: "Using bash as postprocess script for GitHub's Flat Data actions cc @githubOCTO 🌟🌟 Flat Data 🌟🌟 Thank you to @pierrotsmnrd for its inspirational python way https://t.co/oPqThFyYcH" / Twitter
+
 
 Jeremy Howard
 https://twitter.com/_ScottCondron/status/1441695317683023874 | Scott Condron on Twitter: "If you want to learn about GitHub Actions, here’s a tutorial by @jeremyphoward to use ghapi, a Python wrapper for the @github API, and Github Actions. It shows how to reply “thank you” to all PRs, then shows how to run a scheduled multi-job workflow 🤩 https://t.co/pzufSBA5lp" / Twitter
@@ -60,6 +110,7 @@ https://www.hillelwayne.com/talks/beyond-unit-tests/ | Beyond Unit Tests • Hil
 https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
 -->
+
 
 
 <!--
