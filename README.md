@@ -261,9 +261,6 @@ https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmle
 
 
 
-
-
-
 https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
 
 Good advice
