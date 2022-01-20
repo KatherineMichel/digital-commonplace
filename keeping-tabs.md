@@ -69,6 +69,37 @@ https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
 https://github.com/devict | devICT
 -->
 
+## Dev Environment
+
+<!--
+https://git-scm.com/ | Git
+https://git-scm.com/docs
+
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) — Mypy 0.910 documentation
+
+PyTest
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+-->
+
+<!--
+PyCharm
+https://blog.jetbrains.com/
+https://blog.jetbrains.com/pycharm/
+https://www.jetbrains.com/help/pycharm/installation-guide.html | Install PyCharm | PyCharm
+
+Release
+https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
+
+## Awesome
+
+PyCharm
+https://github.com/JetBrains/awesome-pycharm | JetBrains/awesome-pycharm: A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
+https://github.com/fcurella/pycharm-configs | fcurella/pycharm-configs: A collection of configuration files for PyCharm that I find useful
+https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-pycharm-course: Course demos and handouts for Talk Python's Mastering PyCharm course
+https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
+-->
 
 ## Stack
 
@@ -78,8 +109,8 @@ Domain Modelling
 Project Management
 * Google Docs
 * [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
-* [Basecamp](https://basecamp.com/)
 * [Asana](https://asana.com/)
+* [Basecamp](https://basecamp.com/)
 
 Continuous Integration
 * [GitHub](https://github.com/)
@@ -119,16 +150,7 @@ Background Processing
 * [Sentry](https://sentry.io/welcome/)
 * [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
-
 <!--
-PyCharm
-https://blog.jetbrains.com/
-https://blog.jetbrains.com/pycharm/
-
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) — Mypy 0.910 documentation
-
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.python.org/3/library/asyncio.html
