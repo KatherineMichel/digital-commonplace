@@ -340,28 +340,106 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 
 
 
+## Company Playbooks
+
+Handbooks
+* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
+* [Glitch Handbook](https://handbook.glitch.me/)
+* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
 
 <!--
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
 
-https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
+https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
 
-## Management
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
 
-SCQA framework
-https://www.heavybit.com/library/video/executive-communication/
-https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
 
-https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
-
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
+https://twitter.com/dnsmichi/status/1314267751607869442
+https://twitter.com/melsmo/status/1313180759889305601
 -->
+
+## Stuff
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
+
+<!--
+Joel
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
+
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+
+https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
+
+https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
+-->
+
+## Agile and DevOps
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+<!--
+https://developer.atlassian.com
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+-->
+
+## Sales and Marketing
+
+* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+## Product
+
+Product
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+<!--
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
+
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
+"The history of product management"
+https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/product-manager
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
+
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
+https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
+-->
+
+
 
 ## Engineering Performance Resources
 
@@ -409,35 +487,35 @@ software development competency framework
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 -->
 
-## Engineering Orgs
+
+
 
 <!--
-Camille
-https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
 
-Teams
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
 
-Jacob
-https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
-https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
-https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
-https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
-
-Important- Engineering Orgs
-https://twitter.com/simonw/status/1346499660878237697 | Simon Willison on Twitter: "This is a great read, and matches my career experience" / Twitter
-https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+Sarah
 https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
 https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
 
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+SCQA framework
+https://www.heavybit.com/library/video/executive-communication/
+https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
 -->
+
 
 ## Engineering Management
 
 <!--
+https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
+
+https://github.com/joelparkerhenderson/ground_rules
+https://github.com/joelparkerhenderson/ground_rules#see-also
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
 Silent critique
 https://twitter.com/dustanner/status/1176518182850351104
 
@@ -463,12 +541,28 @@ https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engin
 http://www.camilletalk.com/ | Camille Fournier
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
 
 https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+https://jacobian.org/2018/may/2/engmanager-reading-list/
 https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
+https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
+https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
+
+Teams
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
 
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
@@ -582,92 +676,6 @@ https://www.ansible.com/resources/webinars-training/how-to-make-ansible-communit
 https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
 -->
 
-## Agile and DevOps
-
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
-
-<!--
-https://developer.atlassian.com
-
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/devops/tools-and-technologies
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
--->
-
-## Product
-
-<!--
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-"The history of product management"
-https://www.atlassian.com/agile/product-management
-https://www.atlassian.com/agile/product-management/product-manager
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
-
-Empowered versus feature
-https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
-https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
-
-https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
--->
-
-## Stuff
-
-Joel Spolsky
-* [Joel on Software](https://www.joelonsoftware.com/)
-* ["Smart and Gets Things Done: Joel Spolsky's Concise Guide to Finding the Best Technical Talent"](https://www.amazon.com/Smart-Gets-Things-Done-Technical/dp/1590598385)
-
-Basecamp Product
-* [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
-
-<!--
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-https://blog.codinghorror.com/doing-terrible-things-to-your-code/
-
-https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
-
-https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
--->
-
-
-## Company Playbooks
-
-Handbooks
-* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
-* [Glitch Handbook](https://handbook.glitch.me/)
-* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
-
-<!--
-Atlassian Team Playbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-https://www.atlassian.com/team-playbook/examples
-
-https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
-https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
-
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
-
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-https://twitter.com/dnsmichi/status/1314267751607869442
-https://twitter.com/melsmo/status/1313180759889305601
--->
 
 ## Programming Language Comparisons
 ## General Software Design Patterns
