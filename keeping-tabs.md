@@ -52,12 +52,6 @@ https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/
 https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
 -->
 
-### Art
-
-<!--
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
--->
-
 ## Local Competitions and Hackathons
 
 <!--
@@ -85,7 +79,7 @@ https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest
 
 <!--
 PyCharm
-https://blog.jetbrains.com/
+https://www.jetbrains.com/help/pycharm/
 https://blog.jetbrains.com/pycharm/
 https://www.jetbrains.com/help/pycharm/installation-guide.html | Install PyCharm | PyCharm
 
@@ -401,6 +395,11 @@ https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
+### Art
+
+<!--
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+-->
 
 ### Networking and Events
 
