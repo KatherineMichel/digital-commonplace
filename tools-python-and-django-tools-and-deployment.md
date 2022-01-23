@@ -5,6 +5,7 @@ Farming versus mining
 Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
+
 PAGNI
 https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
 https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
@@ -12,6 +13,7 @@ https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitte
 
 YAGNI
 https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
+
 
 ## Simon
 
@@ -30,6 +32,8 @@ http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyl
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
 
+
+## Personal Data Warehouse
 
 https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit | Building a personal data warehouse in Snowflake for fun and no profit. — Thomas Dziedzic
 
@@ -53,6 +57,9 @@ https://twitter.com/simonw/status/1286098770652930048 | Simon Willison on Twitte
 https://www.youtube.com/watch?v=lmP75mp3-Rg | How to Instantly Publish Data to the Internet with Datasette | Simon Willison @ PyBay2018 - YouTube
 https://twitter.com/simonw/status/1315715789471670274 | Simon Willison on Twitter: "Notes, links and notebook from my #JupyterCon2020 session on Datasette and sqlite-utils this morning: https://t.co/3y2rLcS7qn - I live-coded a SQLite database containing earthquakes from last week using data from USGS" / Twitter
 https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+
+
+## Flat Data
 
 Git Scraping/Flat Data
 https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
@@ -87,6 +94,50 @@ https://twitter.com/jeremyphoward/status/1328780892769120256 | Jeremy Howard on 
 https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on Twitter: "How to convert 16 lines (from the python standard library) of complex nested code with multiple return paths to three lines of clear code with one return path. https://t.co/FXddFjcuvO https://t.co/nmBOseot55" / Twitter
 
 
+## Eric
+
+https://twitter.com/ehmatthes/status/1466539581436616704 | Eric Matthes on Twitter: "This is a milestone I've been looking forward to sharing. django-simple-deploy has preliminary support for Azure, which means you can deploy to Heroku or Azure with the same three steps: https://t.co/LMwY1VFaEB https://t.co/xVSFP7AK2l" / Twitter
+
+https://ehmatthes.com/blog/simplified_heroku/ | Simplifying Django deployments on Heroku - ehmatthes.com
+https://twitter.com/ehmatthes/status/1452366374353833985 | Eric Matthes on Twitter: "I've been on a years-long quest to help simplify Django deployment for small projects. I just made an app that does all of the configuration work for an initial deployment to Heroku: https://t.co/mqlrcDAbqt" / Twitter
+https://github.com/ehmatthes/django-simple-deploy | ehmatthes/django-simple-deploy: A reusable Django app that configures your project for deployment
+https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
+https://twitter.com/ehmatthes/status/1454839778587725841 | Eric Matthes on Twitter: "django-simple-deploy now supports projects that use Poetry. Next I'm going to try adding an `--automate-all` flag that should reduce the entire process to three steps. Then, if possible, I'll add support for at least one other platform." / Twitter
+
+## Deployment
+ 
+Caddy
+https://twitter.com/webology/status/1381731680319385604 | Jeff Triplett 😷 on Twitter: "✨ a nice post of using Caddy with Django. It's amazing how much power a $5 box is these days." / Twitter
+
+Django SaaS Starter Kit
+https://twitter.com/carltongibson/status/1337087410203717636 | https://twitter.com/carltongibson/status/1337087410203717636
+https://docs.saaspegasus.com/
+https://www.saaspegasus.com/
+
+https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
+
+
+## Python- Configs
+
+Configs
+https://hynek.me/talks/python-foss/ | Maintaining a Python Project When It’s Not Your Job
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job | Maintaining a Python Project When It’s Not Your Job - Speaker Deck
+https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality | Kyle Knapp - Automating Code Quality - Speaker Deck
+https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst | set-your-code-free-preso/slides.rst at master · oddbird/set-your-code-free-preso
+https://2018.pygotham.org/talks/automating-code-quality-next-level/ | Automating Code Quality: Next Level - PyGotham 2018
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html | PyVideo.org · How to Write Deployment-friendly Applications
+
+scriv
+https://twitter.com/nedbat/status/1307815498365775872 | Ned Batchelder on Twitter: "I went and wrote a changelog tool called scriv: https://t.co/2aHoL4in9v (Why? https://t.co/4VHUSDyUk0)" / Twitter
+
+cog
+https://twitter.com/hynek/status/1460897764338974725 | Hynek Schlawack on Twitter: "As a test balloon, I’ve switched structlog from https://t.co/PihDrIF58S to flit w/ pyproject.toml in combination with @nedbat’s cog to maintain some deduplication. I think I like it! Sharp tools that do one thing well FTW. https://t.co/w2RM4Ckyke" / Twitter
+https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ on Twitter: "⚙ Cog will always be near and dear to my heart. It was one of the first two or three Python apps that I used before I was a Python developer. ➡️ Check out @simonw's writeup and I'm happy I could bring more awareness of the app." / Twitter
+
+setuptools-scm
+https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
+
+
 ## Testing
 
 https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
@@ -110,6 +161,8 @@ https://www.hillelwayne.com/talks/beyond-unit-tests/ | Beyond Unit Tests • Hil
 https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
 -->
+
+
 
 
 
@@ -233,50 +286,8 @@ https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
-
-## Eric
-
-https://twitter.com/ehmatthes/status/1466539581436616704 | Eric Matthes on Twitter: "This is a milestone I've been looking forward to sharing. django-simple-deploy has preliminary support for Azure, which means you can deploy to Heroku or Azure with the same three steps: https://t.co/LMwY1VFaEB https://t.co/xVSFP7AK2l" / Twitter
-
-https://ehmatthes.com/blog/simplified_heroku/ | Simplifying Django deployments on Heroku - ehmatthes.com
-https://twitter.com/ehmatthes/status/1452366374353833985 | Eric Matthes on Twitter: "I've been on a years-long quest to help simplify Django deployment for small projects. I just made an app that does all of the configuration work for an initial deployment to Heroku: https://t.co/mqlrcDAbqt" / Twitter
-https://github.com/ehmatthes/django-simple-deploy | ehmatthes/django-simple-deploy: A reusable Django app that configures your project for deployment
-https://github.com/ehmatthes/heroku-buildpack-python | ehmatthes/heroku-buildpack-python: A demonstration version of the official Heroku buildpack for Python apps, showing how Django deployment can be further simplified.
-https://twitter.com/ehmatthes/status/1454839778587725841 | Eric Matthes on Twitter: "django-simple-deploy now supports projects that use Poetry. Next I'm going to try adding an `--automate-all` flag that should reduce the entire process to three steps. Then, if possible, I'll add support for at least one other platform." / Twitter
-
-## Deployment
- 
-Caddy
-https://twitter.com/webology/status/1381731680319385604 | Jeff Triplett 😷 on Twitter: "✨ a nice post of using Caddy with Django. It's amazing how much power a $5 box is these days." / Twitter
-
-Django SaaS Starter Kit
-https://twitter.com/carltongibson/status/1337087410203717636 | https://twitter.com/carltongibson/status/1337087410203717636
-https://docs.saaspegasus.com/
-https://www.saaspegasus.com/
-
-https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
-
-
-## Python- Configs
-
-Configs
-https://hynek.me/talks/python-foss/ | Maintaining a Python Project When It’s Not Your Job
-https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job | Maintaining a Python Project When It’s Not Your Job - Speaker Deck
-https://speakerdeck.com/pycon2018/kyle-knapp-automating-code-quality | Kyle Knapp - Automating Code Quality - Speaker Deck
-https://github.com/oddbird/set-your-code-free-preso/blob/master/slides.rst | set-your-code-free-preso/slides.rst at master · oddbird/set-your-code-free-preso
-https://2018.pygotham.org/talks/automating-code-quality-next-level/ | Automating Code Quality: Next Level - PyGotham 2018
-https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html | PyVideo.org · How to Write Deployment-friendly Applications
-
-scriv
-https://twitter.com/nedbat/status/1307815498365775872 | Ned Batchelder on Twitter: "I went and wrote a changelog tool called scriv: https://t.co/2aHoL4in9v (Why? https://t.co/4VHUSDyUk0)" / Twitter
-
-cog
-https://twitter.com/hynek/status/1460897764338974725 | Hynek Schlawack on Twitter: "As a test balloon, I’ve switched structlog from https://t.co/PihDrIF58S to flit w/ pyproject.toml in combination with @nedbat’s cog to maintain some deduplication. I think I like it! Sharp tools that do one thing well FTW. https://t.co/w2RM4Ckyke" / Twitter
-https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ on Twitter: "⚙ Cog will always be near and dear to my heart. It was one of the first two or three Python apps that I used before I was a Python developer. ➡️ Check out @simonw's writeup and I'm happy I could bring more awareness of the app." / Twitter
-
-setuptools-scm
-https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
 -->
+
 
 ## Awesome Python and Django
 
