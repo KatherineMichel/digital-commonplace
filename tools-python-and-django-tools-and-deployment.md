@@ -6,6 +6,18 @@ Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
 
+## Light and Dark Mode in Markdown
+
+https://twitter.com/stefanjudis/status/1465775940034781186 | Stefan Judis on Twitter: "Huh! When did that happen? Today I learned that GitHub supports light/dark mode images with within markdown. ``` ![Logo](./dark.png#gh-dark-mode-only) ![Logo](./light.png#gh-light-mode-only) ``` Video alt: Example showing a markdown image adapting to user preferences. https://t.co/jeRrYLeHwb" / Twitter
+
+
+https://github.com/dabeaz/dataklasses | dabeaz/dataklasses: A different spin on dataclasses.
+
+
+attrs
+https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
+
+
 PAGNI
 https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
 https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
@@ -133,6 +145,9 @@ https://twitter.com/nedbat/status/1307815498365775872 | Ned Batchelder on Twitte
 cog
 https://twitter.com/hynek/status/1460897764338974725 | Hynek Schlawack on Twitter: "As a test balloon, I’ve switched structlog from https://t.co/PihDrIF58S to flit w/ pyproject.toml in combination with @nedbat’s cog to maintain some deduplication. I think I like it! Sharp tools that do one thing well FTW. https://t.co/w2RM4Ckyke" / Twitter
 https://twitter.com/webology/status/1461410256387518475 | ✨ Jeff Triplett ✨ on Twitter: "⚙ Cog will always be near and dear to my heart. It was one of the first two or three Python apps that I used before I was a Python developer. ➡️ Check out @simonw's writeup and I'm happy I could bring more awareness of the app." / Twitter
+
+Simon- Cog
+https://twitter.com/simonw/status/1481020195074293761 | Simon Willison on Twitter: "I've been solving so many documentation problems with @nedbat's cog tool recently - it's fantastic for keeping documentation automatically up-to-date, in Markdown or rST) Here's a new page of sqlite-utils docs showing --help for every CLI command! https://t.co/Dwef9p2h8P https://t.co/8tyfyfe7AT" / Twitter
 
 setuptools-scm
 https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
@@ -361,6 +376,23 @@ Django Performance and Optimization
 
 <!--
 Adam tip
+-->
+
+## Python Profiling
+
+<!--
+Timer
+https://docs.python.org/3/library/time.html
+Built-in module: timeit
+https://docs.python.org/3/library/timeit.html
+Built-in module: profiler
+https://docs.python.org/3/library/profile.html
+https://docs.python.org/3/library/profile.html#module-profile
+Line Profiler
+https://pypi.org/project/line-profiler/
+Basic Memory Profiler
+Tracemalloc
+https://docs.python.org/3/library/tracemalloc.html
 -->
 
 ## Python Debugger and doctests
