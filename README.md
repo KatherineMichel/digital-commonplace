@@ -340,6 +340,27 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 
 
 
+<!--
+## Shipping
+
+https://levels.io/100-days-of-shipping/ | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+
+
+
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+
+https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+-->
+
+
 ## Company Playbooks
 
 Handbooks
@@ -452,7 +473,7 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
