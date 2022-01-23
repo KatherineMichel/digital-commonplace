@@ -299,6 +299,7 @@ https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliabili
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 -->
 
+
 <!--
 ## UX/UI
 
@@ -1001,6 +1002,8 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 <!--
 What happens when
 
+https://github.com/mraible/history-of-web-frameworks-timeline/ | mraible/history-of-web-frameworks-timeline: The history of web frameworks as described by a timeline of releases.
+
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
 
 https://danluu.com/navigate-url/
@@ -1009,6 +1012,9 @@ https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on T
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
 https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+Internet Topics
+https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid on Twitter: "Internet topics to have a basic understanding as a developer: 1. How internet works ( frontend side) 2. How internet works ( backend side) 3. How https works 4. How DNS works 5. How hosting works What would you add?" / Twitter
 -->
 
 ## High Performance
@@ -1463,7 +1469,6 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Jez Humble
 
 <!--
-Related
 https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
 
 https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
