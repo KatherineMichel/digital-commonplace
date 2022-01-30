@@ -11,7 +11,10 @@ https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 https://twitter.com/stefanjudis/status/1465775940034781186 | Stefan Judis on Twitter: "Huh! When did that happen? Today I learned that GitHub supports light/dark mode images with within markdown. ``` ![Logo](./dark.png#gh-dark-mode-only) ![Logo](./light.png#gh-light-mode-only) ``` Video alt: Example showing a markdown image adapting to user preferences. https://t.co/jeRrYLeHwb" / Twitter
 
 
+Dave Beazley- Dataklasses
 https://github.com/dabeaz/dataklasses | dabeaz/dataklasses: A different spin on dataclasses.
+https://twitter.com/dabeaz/status/1472742536649351173
+https://twitter.com/simonw/status/1472765515793788929 | https://twitter.com/simonw/status/1472765515793788929
 
 
 attrs
