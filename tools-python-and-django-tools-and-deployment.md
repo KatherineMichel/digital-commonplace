@@ -298,7 +298,6 @@ https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
 -->
 
 
@@ -652,6 +651,15 @@ https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tuto
 -->
 
 
+## Django Classy
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+
+
 ## Django Rest Framework
 
 Python- Django- Rest Framework (Including Authentication and Generic Views)
@@ -728,14 +736,6 @@ https://github.com/vintasoftware/drf-rw-serializers/
 https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
 https://github.com/wsvincent/rest-framework-tutorial
 -->
-
-
-## Django Classy
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
 
 
 ## Python and Django Docs
