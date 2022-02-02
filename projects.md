@@ -552,7 +552,6 @@ https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of pr
 * [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
 https://web.archive.org/web/20200407235333/https://pwa.rocks/
 
-https://reactnative.dev/showcase | Who's using React Native? · React Native
 https://reactjs.org/community/examples.html
 
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
@@ -1279,25 +1278,34 @@ Jekyll Themes
 * [Jekyll Themes Wiki GitHub](https://github.com/jekyll/jekyll/wiki/Themes)
 
 <!--
-https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
+https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
+
 
 https://github.com/wowthemesnet/mundana-theme-jekyll
 
 https://github.com/marketplace/actions/jekyll-builder-for-github-pages | Jekyll Builder for GitHub Pages · Actions · GitHub Marketplace
 
+
+https://github.com/cobyism/ghost-on-heroku | cobyism/ghost-on-heroku: One-button Heroku deploy for the Ghost blogging platform.
+
+Ghost
+https://ghost.org/themes/ | Ghost Themes - The Marketplace
 https://ghost.org/docs/ | Ghost Docs
 https://demo.ghost.io/
+
+https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
+
 https://github.com/TryGhost/Casper | TryGhost/Casper: The default personal blogging theme for Ghost
 https://gatsby.ghost.org/
 https://github.com/TryGhost/gatsby-starter-ghost
 https://tribeca.ghost.io/ | Tribeca
-https://eleventy.ghost.org/ | Posts – Eleventy & Ghost
 https://lyra.ghost.io/ | Lyra
 https://argon.ghost.io/ | Argon
-https://eleventy.ghost.org/
 https://github.com/TryGhost/London | TryGhost/London: A free, open source theme for Ghost
 https://massively.ghost.io/ | This is Massively
 https://editorial.ghost.io/ | Editorial for Ghost
+
 
 https://sindresorhus.com/apps | Sindre Sorhus
 https://github.com/sindresorhus/sindresorhus.github.com | KatherineMichel/sindresorhus.github.com: Personal website of Sindre Sorhus
@@ -1310,6 +1318,7 @@ http://fast-template.fast.ai/2020/01/14/welcome.html
 https://twitter.com/jeremyphoward/status/1217909027973124096
 https://twitter.com/jeremyphoward/status/1218028267057246211 | Jeremy Howard on Twitter: "I've now added optional LaTeX equation support to this template. https://t.co/Z56HQbpyoa https://t.co/wOaAmas61x" / Twitter
 -->
+
 
 ## GitHub and VS Code Integration
 
@@ -1332,6 +1341,7 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
+
 ### Deploy
 
 Netlify
@@ -1347,11 +1357,12 @@ Vercel
 
 
 <!--
+https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
+
 Digital Ocean- Deployment
 https://github.com/digitalocean/sample-django | digitalocean/sample-django: Django sample app for DigitalOcean App Platform
 https://github.com/digitalocean/sample-python | digitalocean/sample-python: ⛵ App Platform sample Python application.
 
-https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
 
 https://vercel.com/blog/zeit-is-now-vercel
 
@@ -1364,20 +1375,14 @@ https://vercel.com/blog/ncc | ZEIT – ncc: Node.js Compiler Collection
 
 https://github.com/vercel/serve | zeit/serve: Static file serving and directory listing
 
+
+https://www.netlify.com/blog/2020/12/07/announcing-one-click-install-next.js-build-plugin-on-netlify/ | Announcing one-click install Next.js Build Plugin on Netlify | Netlify
+
 https://www.netlify.com/docs/functions/ | Functions | Netlify
 https://github.com/netlify/netlify-lambda | netlify/netlify-lambda: Helps building and serving lambda functions locally and in CI environments
 https://www.netlify.com/products/dev/ | Netlify Dev | Netlify
-
-https://blog.cloudflare.com/cloudflare-pages/ | Introducing Cloudflare Pages: the best way to build JAMstack websites
 -->
 
-
-### Jekyll
-
-<!--
-https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
-https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
--->
 
 ### JavaScript- Node/Express
 
