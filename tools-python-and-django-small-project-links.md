@@ -1,5 +1,85 @@
 # Tools- Python and Django Small Project Links
 
+## Python Learning Resources
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Real Python
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+Michael
+* [Michael Herman](https://mherman.org/talks)
+
+<!--
+https://mherman.org/presentations/pytn-2018/#1
+https://mherman.org/presentations/flask-kubernetes/#1
+https://mherman.org/presentations/dockercon-2018/#1
+https://mherman.org/presentations/test-driven-writing/#1
+https://www.crowdcast.io/e/learning
+-->
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+
+<!--
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+
+Al
+https://nostarch.com/book-recursion | The Book of Recursion | No Starch Press
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+http://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
+
+No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+Eric
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+-->
+
+## Python Learning Resources- Set Aside
+
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
+
 ## Requests
 
 Requests (HTTP for Humans) and Requests HTML
