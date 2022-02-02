@@ -1,11 +1,6 @@
 # Python and Django Tools and Deployment
 
 <!--
-Farming versus mining
-Iteration
-https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
-
-
 ## Light and Dark Mode in Markdown
 
 https://twitter.com/stefanjudis/status/1465775940034781186 | Stefan Judis on Twitter: "Huh! When did that happen? Today I learned that GitHub supports light/dark mode images with within markdown. ``` ![Logo](./dark.png#gh-dark-mode-only) ![Logo](./light.png#gh-light-mode-only) ``` Video alt: Example showing a markdown image adapting to user preferences. https://t.co/jeRrYLeHwb" / Twitter
