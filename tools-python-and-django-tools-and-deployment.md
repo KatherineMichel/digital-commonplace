@@ -743,7 +743,7 @@ Django Classy
 * [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
 
 
-## Docs
+## Python and Django Docs
 
 <!--
 https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
