@@ -1,6 +1,11 @@
 # Keeping Tabs
 
 <!--
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+
 ## Ideas
 
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
