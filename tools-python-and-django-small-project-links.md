@@ -1,5 +1,13 @@
 # Tools- Python and Django Small Project Links
 
+<!--
+API
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+JSON APIs
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+-->
+
 ## Python Learning Resources
 
 Full Stack Python
