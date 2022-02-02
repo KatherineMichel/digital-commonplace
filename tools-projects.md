@@ -512,6 +512,9 @@ https://wesbos.com/javascript | Beginner JavaScript Notes - Wes Bos
 https://twitter.com/wesbos/status/1399762874382311430 | Wes Bos on Twitter: "Today I'm launching my Beginner JavaScript text guide! These notes are totally free and have been modeled after the content in my Beginner JavaScript course. This is a huge resource I've been working on for over a year and I'm so excied to share it! https://t.co/PBlhpjIKlE https://t.co/QxckjuLnh8" / Twitter
 
 Important
+https://web.dev/
+https://web.dev/patterns/ | Patterns
+https://web.dev/learn/css/typography/ | Text and typography
 https://web.dev/learn/css/ | Learn CSS
 https://web.dev/discoverable/
 https://beginnerwebdev.com/ | Beginner Web Dev
