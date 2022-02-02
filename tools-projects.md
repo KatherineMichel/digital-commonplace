@@ -408,6 +408,12 @@ https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as
 
 
 <!--
+Frontend Masters
+Free Code Camp
+
+Colby
+https://50reactprojects.com/ | 50 Projects for React & the Static Web
+
 Important
 https://github.com/btholt/complete-intro-to-react-v6 | btholt/complete-intro-to-react-v6: learn React.js with Brian Holt
 
@@ -425,6 +431,12 @@ https://beginnerwebdev.com/ | Beginner Web Dev
 
 https://domevents.dev/ | DOM Events
 https://egghead.io/courses/the-ultimate-guide-for-understanding-dom-events-6c0c0d23 | Your Ultimate Guide to Understanding DOM Events | egghead.io
+
+https://web.archive.org/web/20200228130209/http://www.csszengarden.com/221/ | CSS Zen Garden: The Beauty of CSS Design
+http://www.csszengarden.com/221/ | CSS Zen Garden: The Beauty of CSS Design
+
+Style Stage
+https://twitter.com/5t3ph/status/1379220510106587136 | Stephanie Eckles on Twitter: "✨ Fresh Style Stage stylesheet: "AeroJet-505" by Charles Henri Gorgeous pastels, sharp graphic details, and surprising subtle animations - a celebration of modern CSS design you definitely need to check it out! https://t.co/eADBWYDlfz https://t.co/pywTIiqcOW" / Twitter
 -->
 
 ## Learning Resources- CSS, HTML, JavaScript
@@ -720,6 +732,126 @@ https://github.com/bradtraversy/design-resources-for-developers#html--css-templa
 
 
 <!--
+Sanity
+https://www.sanity.io/ | The Unified Content Platform - Sanity.io
+
+
+JavaScript packages
+https://openbase.io/
+
+
+https://you.com/
+
+Dev Containers
+https://twitter.com/DynamicWebPaige/status/1474098353059340288 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "The https://t.co/mqjMHaZM9q search results for "devcontainers GitHub" are actually *really good*: not just what they are and how to create them; but also examples, and details of why they might be useful in the context of both @code and Codespaces. 🙌 @YouSearchEngine https://t.co/dnJbufXfr2" / Twitter
+
+
+CodeSandbox
+https://playdotjs.com/
+
+
+Important
+https://blog.stackblitz.com/posts/introducing-webcontainers/ | Introducing WebContainers: Run Node.js natively in your browser
+
+https://www.nodebox.net/node/ | Welcome | NodeBox
+
+Node/Typescript
+https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb | Prisma – The Complete ORM for Node.js & TypeScript
+
+https://www.fastify.io/
+
+
+React
+https://remix.run/ | Remix - Build Better Websites
+
+
+Elixir, Phoenix, Typescript, and React — 2020 Edition
+https://levelup.gitconnected.com/elixir-phoenix-typescript-and-react-2020-edition-32ceb753705
+
+
+React
+https://chakra-ui.com/
+
+
+Python + React
+https://pyreact.com/#development | React to Python: Create React applications with Python
+
+
+Ionic (Vue)
+https://ionicframework.com/vue | Build Native and Progressive Web Apps with Vue and Ionic
+https://ionicframework.com/docs/react/your-first-app | Your First Ionic App: React - Ionic Documentation
+
+
+Apollo
+https://www.apollographql.com/docs/react/api/apollo-client/
+https://www.apollographql.com/blog/graphql-vs-rest-5d425123e34b/ | GraphQL vs. REST - Apollo Blog
+
+Sarah
+https://hasura.io/
+https://www.netlify.com/blog/2020/10/26/graphql-with-hasura-and-nuxt/
+
+
+Postgres
+https://www.snaplet.dev/
+
+GA for Firebase
+https://twitter.com/kwuchu/status/1314286568362967041
+
+Firebase alternative
+https://www.etebase.com/
+
+
+https://zeit.co/blog/serverless-docker | ZEIT – Serverless Docker Beta
+
+
+Begin
+https://docs.begin.com/en/guides/svelte | Guides > Svelte - Begin documentation
+https://docs.begin.com/en/guides/crud-app | Guides > CRUD app with data - Begin documentation
+https://docs.begin.com/en/guides/http-functions | Guides > HTTP functions - Begin documentation
+https://github.com/beginner-corp/begin-community/discussions | Discussions · beginner-corp/begin-community
+
+Terraform
+AWS Serverless
+https://begin.com/ | Begin
+OpenJS Architect
+https://arc.codes/docs/en/guides/get-started/quickstart
+
+
+CSS
+https://newcss.net/
+https://twitter.com/chriscoyier/status/1356369035840131077 | Chris Coyier on Twitter: "I saw `new.css` making the rounds the other day as a "no class / semantic HTML" framework. https://t.co/SOxoPf2OxC I think it's a pretty nice one, but there are lots of them out there: https://t.co/MIrSKPY2cK" / Twitter
+
+
+
+
+
+
+Edge cloud platform
+https://www.fastly.com/
+
+
+
+https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
+
+https://github.com/MagicStack/uvloop | MagicStack/uvloop: Ultra fast asyncio event loop.
+
+
+https://p5js.org/
+http://hello.p5js.org/ | Welcome to p5.js
+
+
+Web components/standards
+https://www.fast.design/docs/introduction/ | Introduction | FAST
+
+Deploy/Django
+https://yourlabs.org/posts/2020-10-27-django-snowpack-with-djsnowpack/ | Django + Snowpack How To = djsnowpack
+
+TensorFlow.js 
+https://twitter.com/jason_mayes/status/1367687828306558979 | Jason Mayes on Twitter: "So #Deno just announced plans to natively support #TensorFlowJS! Quote: "We believe #JavaScript, instead of #Python, could act as ideal language for expressing mathematical ideas if proper infrastructure existed" https://t.co/7XR4joxmbR #MadeWithTFJS #JS #TensorFlow #ML #AI #Node https://t.co/V01HWKxPJS" / Twitter
+-->
+
+
+<!--
 HTTP, API, DOM
 https://expressjs.com/en/api.html
 
@@ -853,6 +985,15 @@ https://blog.repl.it/github
 https://twitter.com/amasad/status/1204843691682091008
 -->
 
+### WASM
+
+<!--
+https://www.snowpack.dev/
+https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
+https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
+
+https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+-->
 
 ### Deploy
 
@@ -963,14 +1104,6 @@ https://twitter.com/dan_abramov/status/1342260256638951425 | Dan Abramov on Twit
 Storybook
 https://storybook.js.org/ | Storybook: UI component explorer for frontend developers
 https://github.com/storybookjs/storybook | storybookjs/storybook: 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-
-### WASM
-
-https://www.snowpack.dev/
-https://github.com/snowpackjs/snowpack | snowpackjs/snowpack: WASM-powered frontend build tool. Fast, lightweight, unbundled ESM. ✌️
-https://twitter.com/gr2m/status/1319355880505143297 | Gregor on Twitter: "Very cool new score for npm packages by @skypackjs!" / Twitter
-
-https://github.com/wasmerio/wasmer | wasmerio/wasmer: 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
 -->
 
 ### JAMStack
