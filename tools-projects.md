@@ -857,6 +857,14 @@ Jekyll Themes
 https://jekyllrb.com/docs/datafiles/ | Data Files | Jekyll • Simple, blog-aware, static sites
 https://github.com/jekyll/jekyll-admin | jekyll/jekyll-admin: A Jekyll plugin that provides users with a traditional CMS-style graphical interface to author content and administer Jekyll sites.
 
+Important!!!!
+https://github.blog/2017-11-29-use-any-theme-with-github-pages/ | Use any theme with GitHub Pages | The GitHub Blog
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll | Adding a theme to your GitHub Pages site using Jekyll - GitHub Docs
+
+https://github.com/topics/jekyll-theme
+https://jekyllrb.com/docs/themes/#pick-up-a-theme | Themes | Jekyll • Simple, blog-aware, static sites
+https://github.com/planetjekyll/awesome-jekyll-themes | planetjekyll/awesome-jekyll-themes: A collection of awesome (gem-packaged) Jekyll themes - Add your theme!
+
 
 https://github.com/wowthemesnet/mundana-theme-jekyll
 
