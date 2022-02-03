@@ -1,11 +1,6 @@
 # Python and Django Tools and Deployment
 
 <!--
-## Light and Dark Mode in Markdown
-
-https://twitter.com/stefanjudis/status/1465775940034781186 | Stefan Judis on Twitter: "Huh! When did that happen? Today I learned that GitHub supports light/dark mode images with within markdown. ``` ![Logo](./dark.png#gh-dark-mode-only) ![Logo](./light.png#gh-light-mode-only) ``` Video alt: Example showing a markdown image adapting to user preferences. https://t.co/jeRrYLeHwb" / Twitter
-
-
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -23,7 +18,19 @@ https://devchecklists.com/vintas-high-quality-standards/
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
 
-https://docs.djangoproject.com/en/4.0/topics/db/transactions/ | Database transactions | Django documentation | Django
+Python Graph Gallery
+https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
+https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
 
 Dave Beazley- Dataklasses
@@ -32,9 +39,27 @@ https://twitter.com/dabeaz/status/1472742536649351173
 https://twitter.com/simonw/status/1472765515793788929 | https://twitter.com/simonw/status/1472765515793788929
 
 
-attrs
-https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
+Faster Python
+https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf | ideas/FasterCPythonDark.pdf at main · faster-cpython/ideas
 
+
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+
+Python + Web Assembly
+https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
+https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
+https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
+
+WAS
+https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
+
+
+Tools Diagram
+https://twitter.com/nletcher/status/1486935088319242245/photo/1 | Ned Letcher on Twitter: "Hey #Python peeps, I'm working on a blog post trying to untangle Python project wrangling tools by their features. Thoughts on this breakdown? Have I missed any major tools or features you'd add? https://t.co/JCuVba7GtF" / Twitter
+https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
+
+
+## PAGNI and YAGNI
 
 PAGNI
 https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
@@ -197,22 +222,6 @@ https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to E
 
 
 <!--
-Pyenv Global
-https://twitter.com/webology/status/699277088256163840
-
-
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-Social Auth
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
-
-Telemetry
-https://prometheus.io/ | Prometheus - Monitoring system & time series database
-https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
-
-
 Doctests
 
 Django testing
@@ -247,6 +256,26 @@ https://pypi.python.org/pypi/pytest-cov | pytest-cov 2.5.1 : Python Package Inde
 
 https://pypi.org/project/pytest-github-actions-annotate-failures/ | pytest-github-actions-annotate-failures · PyPI
 https://pypi.org/project/pytest-is-running/ | pytest-is-running · PyPI
+-->
+
+
+<!--
+Telemetry
+https://prometheus.io/ | Prometheus - Monitoring system & time series database
+https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
+
+
+Pyenv Global
+https://twitter.com/webology/status/699277088256163840
+
+
+https://docs.djangoproject.com/en/4.0/topics/db/transactions/ | Database transactions | Django documentation | Django
+
+https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
+Social Auth
+
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
 
 
 ## Tools
@@ -299,7 +328,6 @@ https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects
 
 https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
 -->
-
 
 ## Awesome Python and Django
 
@@ -830,6 +858,8 @@ https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on T
 curlylint
 https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
 
+https://github.com/adamchainz/django-htmx
+
 HTMX + Django
 https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
 
@@ -863,6 +893,7 @@ https://pypi.org/project/attrs/
 https://rich.readthedocs.io/en/stable/introduction.html
 https://pydantic-docs.helpmanual.io/
 https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
+https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
 
 
 ## Common Django Features
