@@ -750,6 +750,11 @@ CodeSandbox
 https://playdotjs.com/
 
 
+JavaScript library
+https://p5js.org/
+http://hello.p5js.org/ | Welcome to p5.js
+
+
 Important
 https://blog.stackblitz.com/posts/introducing-webcontainers/ | Introducing WebContainers: Run Node.js natively in your browser
 
@@ -804,6 +809,10 @@ https://www.etebase.com/
 https://zeit.co/blog/serverless-docker | ZEIT – Serverless Docker Beta
 
 
+Edge cloud platform
+https://www.fastly.com/
+
+
 Begin
 https://docs.begin.com/en/guides/svelte | Guides > Svelte - Begin documentation
 https://docs.begin.com/en/guides/crud-app | Guides > CRUD app with data - Begin documentation
@@ -825,19 +834,12 @@ https://twitter.com/chriscoyier/status/1356369035840131077 | Chris Coyier on Twi
 
 
 
-
-Edge cloud platform
-https://www.fastly.com/
-
+https://elixir-lang.org
 
 
 https://github.com/WebReflection/uland | WebReflection/uland: A µhtml take at neverland
 
 https://github.com/MagicStack/uvloop | MagicStack/uvloop: Ultra fast asyncio event loop.
-
-
-https://p5js.org/
-http://hello.p5js.org/ | Welcome to p5.js
 
 
 Web components/standards
