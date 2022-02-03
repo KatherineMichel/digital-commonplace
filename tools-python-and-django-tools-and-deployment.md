@@ -6,6 +6,26 @@
 https://twitter.com/stefanjudis/status/1465775940034781186 | Stefan Judis on Twitter: "Huh! When did that happen? Today I learned that GitHub supports light/dark mode images with within markdown. ``` ![Logo](./dark.png#gh-dark-mode-only) ![Logo](./light.png#gh-light-mode-only) ``` Video alt: Example showing a markdown image adapting to user preferences. https://t.co/jeRrYLeHwb" / Twitter
 
 
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+
+https://devchecklists.com
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+
+https://docs.djangoproject.com/en/4.0/topics/db/transactions/ | Database transactions | Django documentation | Django
+
+
 Dave Beazley- Dataklasses
 https://github.com/dabeaz/dataklasses | dabeaz/dataklasses: A different spin on dataclasses.
 https://twitter.com/dabeaz/status/1472742536649351173
@@ -176,9 +196,6 @@ https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to E
 -->
 
 
-
-
-
 <!--
 Pyenv Global
 https://twitter.com/webology/status/699277088256163840
@@ -281,23 +298,6 @@ https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrep
 https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
 
 https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
-
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
-
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 -->
 
 
@@ -735,29 +735,6 @@ https://github.com/vintasoftware/drf-rw-serializers/
 
 https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
 https://github.com/wsvincent/rest-framework-tutorial
--->
-
-
-## Python and Django Docs
-
-<!--
-https://swagger.io/ | API Documentation & Design Tools for Teams | Swagger
-
-Django YAML
-https://django-yamlfield.readthedocs.io/en/latest/ | django-yamlfield
-https://github.com/datadesk/django-yamlfield | datadesk/django-yamlfield: A Django database field for storing YAML data
-
-Docs
-https://docutils.sourceforge.io/rst.html | reStructuredText
-https://pandoc.org/
-
-https://twitter.com/pradyunsg/status/1462521987994112002 | Pradyun Gedam on Twitter: "Oops. I'm working on a second Sphinx theme." / Twitter
-
-Furo Theme
-https://twitter.com/AdamChainz/status/1432678359276863494 | Adam Johnson on Twitter: "Just moved the Django-MySQL docs to @pradyunsg 's excellent Furo theme 😎 https://t.co/ippjR6VV4b" / Twitter
-https://django-mysql.readthedocs.io/en/latest/ | Django-MySQL 4.0.0 documentation
-
-https://twitter.com/osdotsystem/status/1462678399252451328 | Abdur-Rahmaan 🇲🇺 Janhangeer on Twitter: "Unfortunately, @pradyunsg 's Furo is the ONLY theme i found great in the whole sphinx universe. Hope it will be another gem!" / Twitter
 -->
 
 
