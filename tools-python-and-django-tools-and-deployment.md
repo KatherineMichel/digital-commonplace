@@ -617,7 +617,7 @@ GeoDjango
 Python- Django- Rest Framework GIS
 * [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
 * [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPi](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS PyPI](https://pypi.python.org/pypi/djangorestframework-gis)  
 * [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
 
 PostGIS (Spatial Database Extender for PostgreSQL)
