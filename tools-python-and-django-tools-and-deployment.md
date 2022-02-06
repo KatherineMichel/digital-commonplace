@@ -21,7 +21,18 @@ https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgr
 
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
 
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
+
+Testing
+
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
+JS Scene
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+
 
 
 ## Choices
