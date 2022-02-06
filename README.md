@@ -526,6 +526,7 @@ https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨�
 
 https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
 
+https://skamille.medium.com/ | Camille Fournier – Medium
 http://www.camilletalk.com/ | Camille Fournier
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
