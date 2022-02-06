@@ -1,6 +1,10 @@
 # Python and Django Tools and Deployment
 
 <!--
+Pytest DRF
+https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
+
+
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -57,6 +61,16 @@ https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heime
 Tools Diagram
 https://twitter.com/nletcher/status/1486935088319242245/photo/1 | Ned Letcher on Twitter: "Hey #Python peeps, I'm working on a blog post trying to untangle Python project wrangling tools by their features. Thoughts on this breakdown? Have I missed any major tools or features you'd add? https://t.co/JCuVba7GtF" / Twitter
 https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
+
+
+## Anthony
+
+pre-commit
+https://pre-commit.ci/
+https://github.com/pre-commit/pre-commit/
+
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
 
 
 ## PAGNI and YAGNI
@@ -194,6 +208,20 @@ https://twitter.com/simonw/status/1481020195074293761 | Simon Willison on Twitte
 
 setuptools-scm
 https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
+-->
+
+
+<!--
+Telemetry
+https://prometheus.io/ | Prometheus - Monitoring system & time series database
+https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
+
+
+## Testing
+
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://test-driven-django-development.readthedocs.io/en/v2.0/ | Workshop: Test-Driven Web Development with Django — Test-Driven Django Development 0.1.0 documentation
 
 
 ## Testing
@@ -222,49 +250,6 @@ https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to E
 
 
 <!--
-Doctests
-
-Django testing
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/
-https://docs.djangoproject.com/en/dev/topics/testing/overview/ | Writing and running tests | Django documentation | Django
-
-Important!
-https://realpython.com/pytest-python-testing/
-https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
-
-
-https://docs.python.org/3/library/unittest.html
-https://en.wikipedia.org/wiki/Unit_testing | Unit testing - Wikipedia
-
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-https://docs.djangoproject.com/en/3.2/intro/tutorial05/ | Writing your first Django app, part 5 | Django documentation | Django
-
-https://test-driven-django-development.readthedocs.io/en/v2.0/ | Workshop: Test-Driven Web Development with Django — Test-Driven Django Development 0.1.0 documentation
-
-
-## Testing and Debugging
-
-https://pypi.python.org/pypi/pycodestyle/1.8.0.dev0
-
-Pytest
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-https://github.com/pytest-dev/pluggy | pytest-dev/pluggy: A minimalist production ready plugin system
-
-Pytest DRF
-https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
-https://pypi.python.org/pypi/pytest-cov | pytest-cov 2.5.1 : Python Package Index
-
-https://pypi.org/project/pytest-github-actions-annotate-failures/ | pytest-github-actions-annotate-failures · PyPI
-https://pypi.org/project/pytest-is-running/ | pytest-is-running · PyPI
--->
-
-
-<!--
-Telemetry
-https://prometheus.io/ | Prometheus - Monitoring system & time series database
-https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
-
-
 Pyenv Global
 https://twitter.com/webology/status/699277088256163840
 
@@ -310,16 +295,6 @@ https://more-itertools.readthedocs.io/en/stable/api.html#more_itertools.all_equa
 ## CLI
 
 https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still Masked and #BlackLivesMatter on Twitter: "Hey #python peeps, any suggestions for a python CLI library that is a good example of how to structure a project?" / Twitter
-
-
-## Anthony
-
-pre-commit
-https://pre-commit.ci/
-https://github.com/pre-commit/pre-commit/
-
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
-https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
 
 
 ## Dict View
@@ -431,9 +406,6 @@ doctest
 
 <!--
 https://docs.python.org/3/library/pprint.html | pprint — Data pretty printer — Python 3.9.5 documentation
-
-ipdb
-https://pypi.org/project/ipdb/ | ipdb · PyPI
 -->
 
 ## Python Testing- unittest
@@ -468,6 +440,9 @@ System Checks, Error Reporting, Exceptions
 * [Django Exceptions](https://docs.djangoproject.com/en/dev/ref/exceptions)
 
 <!--
+https://docs.djangoproject.com/en/3.2/intro/tutorial05/ | Writing your first Django app, part 5 | Django documentation | Django
+
+
 Django raises built-in Python exceptions when appropriate.
 
 Exceptions
@@ -679,92 +654,6 @@ https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tuto
 -->
 
 
-## Django Classy
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-
-
-## Django Rest Framework
-
-Python- Django- Rest Framework (Including Authentication and Generic Views)
-* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
-* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
-* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
-
-<!--
-DRF
-https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
-https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
-https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-drf-part-2-customizing-built-in-methods | What You Should Know About DRF, Part 2: Customizing built-in methods — Lacey Williams Henschel
-https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About DRF, Part 3: Adding custom endpoints — Lacey Williams Henschel
-
-https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
-https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
-https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
-https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
-
-https://github.com/encode/django-rest-framework/
-
-https://github.com/encode/django-rest-framework/issues
-https://github.com/encode/django-rest-framework/projects
-
-https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
-http://www.tomchristie.com/rest-framework-2-docs/api-guide
-https://www.django-rest-framework.org/tutorial/1-serialization/ | 1 - Serialization - Django REST framework
-
-https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
-https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/1-vscode.md | rest-framework-tutorial/1-vscode.md at master · carltongibson/rest-framework-tutorial
-https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/2-appservice.md | rest-framework-tutorial/2-appservice.md at master · carltongibson/rest-framework-tutorial
-
-https://twitter.com/carltongibson/status/1072951282502172678 | Carlton Gibson on Twitter: "Been having fun with @code for about a year and a half. I got together with @nnja to talk about using it with Django and DRF…… https://t.co/XmFcENotrc"
-https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_continue=10&v=0Bk0dw2Ktbg | Python on Azure: Part 1—Building Django apps with Visual Studio Code | Azure Friday - YouTube
-https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
--->
-
-<!--
-## DRF
-
-DRF Example
-* https://github.com/simplworld/simpl-games-api/blob/master/simpl/webhook/serializers.py
-
-https://www.django-rest-framework.org/community/3.10-announcement/ | 3.10 Announcement - Django REST framework
-
-DRF Resources
-* https://realpython.com/django-rest-framework-quick-start/ | Django Rest Framework – An Introduction – Real Python
-* https://www.django-rest-framework.org/tutorial/quickstart/ | Quickstart - Django REST framework
-* https://www.django-rest-framework.org/#example | Home - Django REST framework
-
-https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
-
-https://www.django-rest-framework.org/api-guide/status-codes/ | Status codes - Django REST framework
-
-Valentino
-https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
-https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (and a sprinkle of testing)
-https://github.com/valentinogagliardi/django-rest-react-pycon
--->
-
-## Django Rest Framework- Extras
-
-* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
-
-Python- Django- Alternative Rest Framework
-* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
-
-<!--
-https://swagger.io/docs/
-
-https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
-https://github.com/vintasoftware/drf-rw-serializers/
-
-https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
-https://github.com/wsvincent/rest-framework-tutorial
--->
-
 
 ## Django Third Party Tools- Local
 
@@ -799,6 +688,7 @@ https://github.com/joke2k/django-environ
 https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
 -->
 
+
 ## Django Third Party Tools- Debugging
 
 Python- Django- Debug Toolbar and Panel
@@ -807,14 +697,9 @@ Python- Django- Debug Toolbar and Panel
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
 
 <!--
-IPDB
-
-https://github.com/jazzband/django-debug-toolbar
-
-Simon
-https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
-
+ipdb
 https://ipython.org/ | Jupyter and the future of IPython — IPython
+https://pypi.org/project/ipdb/ | ipdb · PyPI
 
 Django Shell Plus
 https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
@@ -823,6 +708,9 @@ https://github.com/django-extensions/django-extensions | django-extensions/djang
 Django Shell Plus
 https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
 https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
+
+Simon
+https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
 -->
 
 ## Python Debugger and doctests
@@ -852,6 +740,7 @@ https://twitter.com/laceynwilliams/status/1360052934268968964 | Lacey Williams H
 https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on Twitter: "#Python tip: Debuggers are wonderful, but sometimes just adding "print(locals())" is the easiest way to go ;-)" / Twitter
 -->
 
+
 ## Django Third Party Tools- Templates
 
 <!--
@@ -870,32 +759,16 @@ https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HT
 -->
 
 
+## Django Classy
+
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
+
+
+
 <!--
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
-
-
-## Django Third Party Tools- Package Tools and Testing
-
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
-
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-
-## attrs
-
-https://www.attrs.org/en/stable/
-https://pypi.org/project/attrs/
-https://rich.readthedocs.io/en/stable/introduction.html
-https://pydantic-docs.helpmanual.io/
-https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
-https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
-
-
 ## Common Django Features
 
 https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
@@ -971,16 +844,8 @@ https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick 
 pytest 
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 
+
 <!--
-pytest-selenium (plugin)
-https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
-https://pytest-selenium.readthedocs.io/en/latest/user_guide.html#chrome | User Guide — pytest-selenium latest documentation
-
-https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
-
-https://seleniumbase.io/ | SeleniumBase Docs
-https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
-
 https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
@@ -1017,16 +882,20 @@ https://en.wikipedia.org/wiki/Test_Anything_Protocol
 https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
 -->
 
+
+
 <!--
-Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+Important!
+https://realpython.com/pytest-python-testing/
 https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
 https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
 https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
 
 Django/pytest
 https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
 -->
+
 
 <!--
 https://testdriven.io/ | Test Driven Development Courses
@@ -1053,10 +922,6 @@ Django Test Plus
 * [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 
 <!--
-django-selenium
-https://django-selenium.readthedocs.io/en/latest/
-https://pypi.org/project/django-selenium/
-
 pytest-django (plugin)
 https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
@@ -1107,12 +972,19 @@ https://pypi.org/project/pytest-freezegun/ | pytest-freezegun · PyPI
 https://github.com/spulec/freezegun | spulec/freezegun: Let your Python tests travel through time
 -->
 
-## Browser
+## Browser Testing and Performance
 
 * [Selenium](https://www.selenium.dev/)
 * [Selenium WebDriver](https://www.selenium.dev/projects/webdriver/)
 
 <!--
+Chrome Dev Tools
+
+
+Important- Lighthouse
+https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
+
+
 Cross Browser
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing/Testing_strategies#gotta_test_em_all
 https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
@@ -1120,10 +992,28 @@ https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_t
 
 https://www.selenium.dev/projects/
 
-Important- Lighthouse
-https://twitter.com/techgirl1908/status/1456384727569641477 | Angie Jones on Twitter: "oh wow" / Twitter
+https://pypi.org/project/selenium/ | selenium · PyPI
+https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 
-https://twitter.com/AutomationPanda/status/1463585787690328071 | Pandy Knight on Twitter: "Wow, @playwrightweb handles many of the granular Selenium WebDriver actions that Boa Constrictor had to handle. This is so nice!" / Twitter
+
+django-selenium
+https://django-selenium.readthedocs.io/en/latest/
+https://pypi.org/project/django-selenium/
+
+pytest-selenium (plugin)
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html#chrome | User Guide — pytest-selenium latest documentation
+
+https://selenium-python.readthedocs.io/page-objects.html | 6. Page Objects — Selenium Python Bindings 2 documentation
+
+https://seleniumbase.io/ | SeleniumBase Docs
+https://github.com/seleniumbase/SeleniumBase | seleniumbase/SeleniumBase: ✅ Automate & test 10x faster with Selenium & pytest. Batteries included.
+
+
+Test automation
+https://en.wikipedia.org/wiki/Headless_browser
+
+https://theheadless.dev/ | theheadless.dev - Learn Puppeteer & Playwright
 
 https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
 https://twitter.com/AutomationPanda/status/1466494032108998665 | https://twitter.com/AutomationPanda/status/1466494032108998665
@@ -1131,24 +1021,22 @@ https://playwright.dev/python/docs/intro/ | Getting started | Playwright Python
 https://github.com/AutomationPanda/tau-playwright-workshop | AutomationPanda/tau-playwright-workshop: The Playwright Workshop for TAU: The Homecoming
 https://twitter.com/mblayman/status/1467338990810447872 | Matt Layman on Twitter: "@AutomationPanda @playwrightweb I haven't used Playwright, but the system automation team at my company uses ScreenPy with much success. It's the Screenplay Pattern implemented as a native #Python library. I think it's worth a look. https://t.co/PsUG34pvBz" / Twitter
 
+
 Automation framework
 https://robotframework.org/
 
 App and browser testing
 https://www.browserstack.com/
 
-https://theheadless.dev/ | theheadless.dev - Learn Puppeteer & Playwright
 
-Test automation
-https://en.wikipedia.org/wiki/Headless_browser
+## Patterns
+
+https://twitter.com/AutomationPanda/status/1463585787690328071 | Pandy Knight on Twitter: "Wow, @playwrightweb handles many of the granular Selenium WebDriver actions that Boa Constrictor had to handle. This is so nice!" / Twitter
 
 https://martinfowler.com/bliki/PageObject.html
 https://selenium-python.readthedocs.io/page-objects.html
 https://github.com/SeleniumHQ/selenium/wiki/PageObjects
 https://github.com/SeleniumHQ/selenium/wiki/Design-Patterns
-
-https://pypi.org/project/selenium/ | selenium · PyPI
-https://github.com/SeleniumHQ/selenium/tree/master/py/selenium/webdriver | selenium/py/selenium/webdriver at master · SeleniumHQ/selenium
 -->
 
 ## Test Driven Development
@@ -1201,6 +1089,49 @@ Webpack Versus Browserify
 http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
 https://fontawesome.com | Font Awesome 5 | Font Awesome
 -->
+
+
+
+<!--
+## Testing and Debugging Tools
+
+https://pypi.python.org/pypi/pycodestyle/1.8.0.dev0
+
+Pytest
+https://pypi.python.org/pypi/pytest-cov | pytest-cov 2.5.1 : Python Package Index
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pluggy | pytest-dev/pluggy: A minimalist production ready plugin system
+
+https://pypi.org/project/pytest-github-actions-annotate-failures/ | pytest-github-actions-annotate-failures · PyPI
+https://pypi.org/project/pytest-is-running/ | pytest-is-running · PyPI
+-->
+
+<!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+
+
+## Django Third Party Tools- Package Tools and Testing
+
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+
+## attrs
+
+https://www.attrs.org/en/stable/
+https://pypi.org/project/attrs/
+https://rich.readthedocs.io/en/stable/introduction.html
+https://pydantic-docs.helpmanual.io/
+https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
+https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
+-->
+
 
 ## CI/CD and Coverage
 
@@ -1333,7 +1264,6 @@ https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to
 https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
 -->
 
-
 ## Mypy
 
 Mypy PyCharm
@@ -1458,6 +1388,83 @@ https://wagtail.io/packages/ | Packages | Wagtail CMS
 https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
 https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+-->
+
+## Django Rest Framework
+
+Python- Django- Rest Framework (Including Authentication and Generic Views)
+* [Django Rest Framework](http://www.django-rest-framework.org) and [Django Rest Framework GitHub](https://github.com/encode/django-rest-framework) 
+* [Django Rest Framework Generic Views](http://www.django-rest-framework.org/api-guide/generic-views)  
+* [Django Rest Framework Authentication](http://www.django-rest-framework.org/api-guide/authentication)  
+
+<!--
+DRF
+https://twitter.com/nextdayvideo/status/1363639281726623745 | Next Day Video on Twitter: "#pycascades What You Should Know About Django REST Framework - Lacey Williams Henschel https://t.co/E9pg9roNoL" / Twitter
+https://speakerdeck.com/williln/what-you-should-know-about-django-rest-framework | What You Should Know About Django REST Framework - Speaker Deck
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-drf-part-2-customizing-built-in-methods | What You Should Know About DRF, Part 2: Customizing built-in methods — Lacey Williams Henschel
+https://www.laceyhenschel.com/blog/2021/2/23/what-you-should-know-about-django-rest-framework-part-3-adding-custom-endpoints | What You Should Know About DRF, Part 3: Adding custom endpoints — Lacey Williams Henschel
+
+https://www.django-rest-framework.org/tutorial/3-class-based-views/ | 3 - Class based views - Django REST framework
+https://www.django-rest-framework.org/api-guide/serializers/ | Serializers - Django REST framework
+https://www.django-rest-framework.org/api-guide/viewsets/#modelviewset
+https://www.django-rest-framework.org/api-guide/serializers/#modelserializer
+
+https://github.com/encode/django-rest-framework/
+
+https://github.com/encode/django-rest-framework/issues
+https://github.com/encode/django-rest-framework/projects
+
+https://github.com/encode/rest-framework-tutorial | encode/rest-framework-tutorial
+http://www.tomchristie.com/rest-framework-2-docs/api-guide
+https://www.django-rest-framework.org/tutorial/1-serialization/ | 1 - Serialization - Django REST framework
+
+https://github.com/carltongibson/rest-framework-tutorial | carltongibson/rest-framework-tutorial
+https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/1-vscode.md | rest-framework-tutorial/1-vscode.md at master · carltongibson/rest-framework-tutorial
+https://github.com/carltongibson/rest-framework-tutorial/blob/master/docs/azure/2-appservice.md | rest-framework-tutorial/2-appservice.md at master · carltongibson/rest-framework-tutorial
+
+https://twitter.com/carltongibson/status/1072951282502172678 | Carlton Gibson on Twitter: "Been having fun with @code for about a year and a half. I got together with @nnja to talk about using it with Django and DRF…… https://t.co/XmFcENotrc"
+https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&time_continue=10&v=0Bk0dw2Ktbg | Python on Azure: Part 1—Building Django apps with Visual Studio Code | Azure Friday - YouTube
+https://www.youtube.com/watch?list=PLlrxD0HtieHjQMK-jWHRy3aHGLhbAFqbR&v=FHJvsvbD_cQ | Python on Azure: Part 2—Deploying Django services to Azure Web Apps | Azure Friday - YouTube
+-->
+
+<!--
+## DRF
+
+DRF Example
+* https://github.com/simplworld/simpl-games-api/blob/master/simpl/webhook/serializers.py
+
+https://www.django-rest-framework.org/community/3.10-announcement/ | 3.10 Announcement - Django REST framework
+
+DRF Resources
+* https://realpython.com/django-rest-framework-quick-start/ | Django Rest Framework – An Introduction – Real Python
+* https://www.django-rest-framework.org/tutorial/quickstart/ | Quickstart - Django REST framework
+* https://www.django-rest-framework.org/#example | Home - Django REST framework
+
+https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
+
+https://www.django-rest-framework.org/api-guide/status-codes/ | Status codes - Django REST framework
+
+Valentino
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+https://www.valentinog.com/blog/drf/ | Tutorial: Django REST with React (and a sprinkle of testing)
+https://github.com/valentinogagliardi/django-rest-react-pycon
+-->
+
+## Django Rest Framework- Extras
+
+* [Django Rest Framework Swagger](https://github.com/marcgibbons/django-rest-swagger) 
+
+Python- Django- Alternative Rest Framework
+* [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
+
+<!--
+https://swagger.io/docs/
+
+https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
+https://github.com/vintasoftware/drf-rw-serializers/
+
+https://wsvincent.com/django-rest-framework-tutorial/ | Django Rest Framework - Blog API - William S. Vincent
+https://github.com/wsvincent/rest-framework-tutorial
 -->
 
 
