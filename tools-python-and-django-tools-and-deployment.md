@@ -31,6 +31,8 @@ Unit Tests/TDD
 https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
 https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
 
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
 https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
 
 
