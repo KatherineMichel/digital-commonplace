@@ -5,6 +5,25 @@ Pytest DRF
 https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
 
 
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+
+Terminal Tutorial
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+
+Talk
+https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
+
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
+
+
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -63,6 +82,14 @@ https://twitter.com/nletcher/status/1486935088319242245/photo/1 | Ned Letcher on
 https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
 
 
+## Madelene Campos
+
+https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
+
+Django- Important
+https://twitter.com/maddiecampos3/status/1412238127184461824 | Madelene Campos on Twitter: "Want to know how to get a Django app up and running? Here's a recording from my recent talk: "Understanding Django" at @PyLadiesSWFL (Thank you, @InessaPawson for recording the event!) #django #python #pyladies https://t.co/UAM0SuExap" / Twitter
+
+
 ## Anthony
 
 pre-commit
@@ -85,6 +112,8 @@ https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "
 
 
 ## Simon
+
+https://twitter.com/simonw/status/1300193439573708800
 
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
 https://twitter.com/simonw/status/1481328382755282947
