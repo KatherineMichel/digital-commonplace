@@ -89,18 +89,8 @@ https://sive.rs/srs | Memorizing a programming language using spaced repetition 
 https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights-anki-vs-supermemo-fa462b1dae15 | Battle of the Spaced Repetition Heavyweights: Anki vs. SuperMemo | by unrelatedwaffle | Nov, 2020 | Medium
 
 
-https://twitter.com/karpathy/status/1325154823856033793 | Andrej Karpathy on Twitter: "How to become expert at thing: 1 iteratively take on concrete projects and accomplish them depth wise, learning “on demand” (ie don’t learn bottom up breadth wise) 2 teach/summarize everything you learn in your own words 3 only compare yourself to younger you, never to others" / Twitter
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-
-
-
 ## Community
 
-Talks
-https://twitter.com/simonw/status/1300193439573708800
-
-pytest
-https://docs.pytest.org/
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
 https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
 
@@ -124,20 +114,6 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 
 
 <!--
-https://www.amazon.com/Innovation-Stack-Building-Unbeatable-Business/dp/B085DRSV7K/ref=sr_1_1?crid=NP7RH28VTXWD&dchild=1&keywords=innovation+stack&qid=1617295594&sprefix=innovation+stack,aps,173&sr=8-1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time (Audible Audio Edition): Jim McKelvey, Jim McKelvey, Penguin Audio: Audible Audiobooks
-
-
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
-
-
 https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
 
 https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
@@ -162,38 +138,18 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
 
 
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
 
-## CPython
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
 
-Important!
-https://devguide.python.org/parser/ | Guide of CPython’s Parser - Python Developer's Guide
-https://twitter.com/gjbernat/status/1423034193362182153 | Bernát Gábor on Twitter: "@pyblogsal just published the guide on the python grammar and it's an absolute gem https://t.co/jhHwY4h1pr 👏👏👏" / Twitter
-
-
-https://github.com/DavidWells/markdown-magic | DavidWells/markdown-magic: 💫  Automatically format markdown files, sync external docs/src code & make better docs
-
-Wharton
-https://twitter.com/FlipperPA/status/1423641131192045576 | Tim A. on Twitter: "Our team @Wharton won an award for the text analytics project we've been hard at work on. I love this shot from the Rocky position! https://t.co/yyxif2pNDW" / Twitter
--->
-
-
-<!--
-
-Terminal Tutorial
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-Django- Important
-https://twitter.com/maddiecampos3/status/1412238127184461824 | Madelene Campos on Twitter: "Want to know how to get a Django app up and running? Here's a recording from my recent talk: "Understanding Django" at @PyLadiesSWFL (Thank you, @InessaPawson for recording the event!) #django #python #pyladies https://t.co/UAM0SuExap" / Twitter
-
-Talk
-https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
-
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
 
 
@@ -220,15 +176,7 @@ https://stackoverflow.com/help/minimal-reproducible-example | How to create a Mi
 https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
-
-Checklists
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
-
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer | by Eric Elliott | JavaScript Scene | Medium
 -->
-
 
 
 <!--
@@ -318,6 +266,8 @@ Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
 -->
 
+
+
 <!--
 Docs
 
@@ -339,6 +289,40 @@ https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · g
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 -->
 
+## Sales and Marketing
+
+* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
+
+## Product
+
+Product
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+<!--
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
+
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
+"The history of product management"
+https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/product-manager
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
+
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
+https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
+-->
 
 
 <!--
@@ -351,14 +335,29 @@ https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQY
 
 Shipping Fridays
 https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+-->
 
+## Makers
 
+Pieter Levels
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
+* [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
 
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+<!--
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
 
-https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
+https://nomadlist.com/open | Open Startups - Nomad List
 
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
 -->
 
 
@@ -426,43 +425,6 @@ https://www.atlassian.com/devops/tools-and-technologies
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 -->
 
-## Sales and Marketing
-
-* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-## Product
-
-Product
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-
-<!--
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
-
-https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
-
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-"The history of product management"
-https://www.atlassian.com/agile/product-management
-https://www.atlassian.com/agile/product-management/product-manager
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
-
-Empowered versus feature
-https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
-https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
-
-https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
--->
-
-
-
 ## Engineering Performance Resources
 
 JavaScript Scene
@@ -474,7 +436,15 @@ JavaScript Scene
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 <!--
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
+
 
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
@@ -515,10 +485,6 @@ https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's Che
 <!--
 https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
 
-
-Sarah
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/?utm_source=twitter&utm_medium=dxnetlify-sd&utm_campaign=devex | Developer Experience at Netlify
 
 SCQA framework
 https://www.heavybit.com/library/video/executive-communication/
@@ -1038,19 +1004,6 @@ http://engineering.khanacademy.org/posts/engineering-principles.htm
 
 https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
 Richard Feynman 
--->
-
-<!--
-Testing
-
-https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
-
-JS Scene
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
 -->
 
 <!--
@@ -1811,29 +1764,6 @@ https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
 https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
 -->
 
-## Makers
-
-Pieter Levels
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
-* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
-* [Bootstrapping](https://levels.io/bootstrapping)
-* [Make Book](https://makebook.io)
-
-<!--
-https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
-
-https://nomadlist.com/open | Open Startups - Nomad List
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
--->
-
 ## Digital Commonplace and Knowledge Base
 
 <!--
@@ -2006,6 +1936,36 @@ https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
 -->
 
+## Speed Reading and Memory
+
+Memory Methods
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+Spaced Repetition
+* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
+
+Pattern
+* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
+
+<!--
+http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
+
+https://en.wikipedia.org/wiki/Mnemonic
+https://en.wikipedia.org/wiki/Memory_sport
+
+https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
+https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
+https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
+https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
+
+https://ncase.me/remember/ | How To Remember Anything Forever-ish
+https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
+https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
+http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
+
+https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
+https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
+-->
 
 ## Business Effectiveness and Productivity
 
@@ -2058,36 +2018,6 @@ Checklist Manifesto Template
 https://www.farnamstreetblog.com/2014/02/the-checklist-manifesto/ | The Checklist Manifesto: How to Get Things Right
 -->
 
-## Speed Reading and Memory
-
-Memory Methods
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Spaced Repetition
-* [Spaced Repetition Wikipedia](https://en.wikipedia.org/wiki/Spaced_repetition)
-
-Pattern
-* [Pattern Recognition Wikipedia](https://en.wikipedia.org/wiki/Pattern_recognition_(psychology))
-
-<!--
-http://fourhourworkweek.com/2009/07/30/speed-reading-and-accelerated-learning
-
-https://en.wikipedia.org/wiki/Mnemonic
-https://en.wikipedia.org/wiki/Memory_sport
-
-https://twitter.com/StewartalsopIII/status/1133172025193684992 | Stewart Alsop III on Twitter: "One of the biggest things I learned from spaced repitition software is daily action towards a goal. In order for SRS to be effective it must be done every day. Huge part of the reason I can do a daily newsletter now. Habits can be so helpful if you can design them right."
-https://twitter.com/StewartalsopIII/status/1133173035446427648 | Stewart Alsop III on Twitter: "Anki, mnemosyne and Duolingo.… "
-https://www.google.com/search?q=Anki&oq=Anki&aqs=chrome..69i57j69i60j69i61.231j0j7&sourceid=chrome&ie=UTF-8 | Anki - Google Search
-https://mnemosyne-proj.org/ | Welcome to the Mnemosyne Project | The Mnemosyne Project
-
-https://ncase.me/remember/ | How To Remember Anything Forever-ish
-https://en.wikipedia.org/wiki/Long_short-term_memory | Long short-term memory - Wikipedia
-https://apps.ankiweb.net/ | Anki - powerful, intelligent flashcards
-http://augmentingcognition.com/ltm.html | Augmenting Long-term Memory
-
-https://medium.freecodecamp.org/how-to-learn-anything-1f1324e5ef81
-https://www.fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/ | The Feynman Technique: The Best Way to Learn Anything
--->
 
 ## Tools
 
@@ -2358,9 +2288,9 @@ Books- Management and Scaling
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
-https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
-
 https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
+
+https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
 
 Marty Cagan Inspired
 
