@@ -1,6 +1,158 @@
 # Tools- Python and Django Small Project Links
 
 <!--
+## Anthony
+
+pre-commit
+https://pre-commit.ci/
+https://github.com/pre-commit/pre-commit/
+
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
+
+## PAGNI and YAGNI
+
+PAGNI
+https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
+https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
+https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitter: "@jacobian Auto-escaping definitely fits the bill as one of those things which is essentially free to implement at the start of a project but a right pain to add in a few years down the line" / Twitter
+
+YAGNI
+https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
+
+
+## Simon
+
+Build, test, publish a Python package
+https://twitter.com/simonw/status/1456383020756189212 | https://twitter.com/simonw/status/1456383020756189212
+https://twitter.com/_ScottCondron/status/1457270492407140354 | Scott Condron on Twitter: "How to build, test and publish a Python package by @simonw This video goes from creating a Python package ➡️ publishing it to PyPI so it’s pip installable ➡️ automating tests and publishing using GitHub Actions. https://t.co/yMO2wrXXpv Documented here: https://t.co/pWubEYkJnz" / Twitter
+
+Talk
+https://twitter.com/simonw/status/1300193439573708800
+
+Building a new feature
+https://twitter.com/simonw/status/1481328382755282947 | Simon Willison on Twitter: "Wrote up a detailed blog entry about my process for building a new feature: issue, tests, implementation, documentation all bundled together in a single commit - then a release with release notes https://t.co/rCWvcdJozr" / Twitter
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
+
+https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
+https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit | Datasette - PyCon Argentina 2020, Q&A - Google Docs
+https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
+
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
+
+Doc Unit Tests
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+
+## Personal Data Warehouse
+
+https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit | Building a personal data warehouse in Snowflake for fun and no profit. — Thomas Dziedzic
+
+Personal Data Warehouse
+https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
+https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
+https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Blog
+https://blog.stephenwolfram.com/2017/12/what-do-i-do-all-day-livestreamed-technology-ceoing/ | What Do I Do All Day? Livestreamed Technology CEOing—Stephen Wolfram Blog
+
+Personal Data Warehouse
+https://simonwillison.net/2020/Nov/14/personal-data-warehouses/ | Personal Data Warehouses: Reclaiming Your Data
+https://docs.google.com/document/d/1rFp2tXLvaCK5khbPbSfV8nfVjZLGTX3KkMZ2FMpgi-k/edit#heading=h.118bmi7ztpzo | Personal Data Warehouses: Reclaiming Your Data - Google Docs
+https://twitter.com/simonw/status/1327461144353652736 | (1) Simon Willison on Twitter: "I've created an extended, annotated version of my talk on Personal Data Warehouses, including screenshots, links and code examples https://t.co/BkrqggPcTL" / Twitter
+https://gazit.me/writing/static-to-animated/ | Static to Animated | Idan Gazit
+
+Personal Data Warehouse
+https://twitter.com/simonw/status/1323703015732174849 | Simon Willison on Twitter: "I'm giving a talk titled "Personal Data Warehouses: Reclaiming your Data" for the GitHub OCTO speaker series next week!" / Twitter
+
+Talks
+https://twitter.com/simonw/status/1286098770652930048 | Simon Willison on Twitter: "Just gave a talk on @datasetteproj and https://t.co/De1Loc05WM at the @bostonpython meetup - it was really fun! Used a Google Doc for the Q&amp;A which worked great - I've fleshed out all the answers with extra links here: https://t.co/X8VKa9vZ0N" / Twitter
+https://www.youtube.com/watch?v=lmP75mp3-Rg | How to Instantly Publish Data to the Internet with Datasette | Simon Willison @ PyBay2018 - YouTube
+https://twitter.com/simonw/status/1315715789471670274 | Simon Willison on Twitter: "Notes, links and notebook from my #JupyterCon2020 session on Datasette and sqlite-utils this morning: https://t.co/3y2rLcS7qn - I live-coded a SQLite database containing earthquakes from last week using data from USGS" / Twitter
+https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+
+
+## Flat Data
+
+Git Scraping/Flat Data
+https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
+https://twitter.com/github/status/1394767308212502528 | GitHub on Twitter: "Take a peek into lightweight data workflows from the future. 🔮 The Developer Experience research team in GitHub’s Office of the CTO has released Flat Data!" / Twitter
+https://twitter.com/simonw/status/1394729289346519041 | Simon Willison on Twitter: "This is so exciting! Git scraping is now an officially supported pattern at GitHub, and they've released a flurry of neat new tools that help people take advantage of the technique" / Twitter
+https://github.com/marketplace/actions/flat-data | Flat Data · Actions · GitHub Marketplace
+https://twitter.com/Wattenberger/status/1395008085782061056 | Amelia Wattenberger 🍓 華曼如 on Twitter: "not to play favorites, but this is 💯% my favorite part of the new Flat Data workflow. And one that can be used all on its own! Add "flat" to any https://t.co/166YAljBjc repo url and browse through any csv/json file, with helpful bits like filter, sort, sticky col, diffs, etc!" / Twitter
+https://twitter.com/kachkaev/status/1395141903633506312 | Alexander Kachkaev on Twitter: "@githubOCTO Using git to manage data is a really powerful approach! I used it to track changes in a recent #OpenStreetMap mapping party for 40+ days. Generating nightly json snapshots of ≈50K buildings made it easy to analyse results! Vises for data I stored in git: https://t.co/3iysPbQ4WI https://t.co/9Yo49bDh4e" / Twitter
+Important
+https://twitter.com/aborruso/status/1395407403802365953 | Andrea Borruso on Twitter: "Using bash as postprocess script for GitHub's Flat Data actions cc @githubOCTO 🌟🌟 Flat Data 🌟🌟 Thank you to @pierrotsmnrd for its inspirational python way https://t.co/oPqThFyYcH" / Twitter
+
+
+## GeoDjango
+
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+https://twitter.com/simonw/status/1389107419649765378 | Simon Willison on Twitter: "Weeknotes: Adding GeoDjango to an existing Django project https://t.co/qHLEFs0QLA" / Twitter
+
+
+## Datasette Example
+
+https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
+https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
+https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
+
+
+## Self-Rewriting README
+
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
+
+
+## Dogsheep
+
+Dogsheep Inspiration
+https://writings.stephenwolfram.com/ | Stephen Wolfram Writings
+
+Dogsheep Weeknotes
+https://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/ | Weeknotes: Getting my personal Dogsheep up and running again
+https://twitter.com/simonw/status/1181292173020368896
+https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
+https://simonwillison.net/2019/Oct/7/dogsheep/
+
+
+## NYT JSON/Scraping
+
+https://twitter.com/idangazit/status/1324748491134939136
+https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
+https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
+
+
+Jeremy Howard
+https://twitter.com/_ScottCondron/status/1441695317683023874 | Scott Condron on Twitter: "If you want to learn about GitHub Actions, here’s a tutorial by @jeremyphoward to use ghapi, a Python wrapper for the @github API, and Github Actions. It shows how to reply “thank you” to all PRs, then shows how to run a scheduled multi-job workflow 🤩 https://t.co/pzufSBA5lp" / Twitter
+
+## Fast AI
+
+https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
+
+Fastpages
+https://fastpages.fast.ai/
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+https://twitter.com/fastdotai/status/1455310812696879104 | fast.ai on Twitter: "New #fastcore release: v1.3.27. https://t.co/OznRqDFXzB ### New Features - add loop functions, thanks to @willmcgugan ([#363](https://t.co/EOVp253Pon)) - add `walk` function ([#355](https://t.co/9jfm7OJAi1…" / Twitter
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+
+Important
+https://twitter.com/jeremyphoward/status/1328780892769120256 | Jeremy Howard on Twitter: "Here's how to get started with socket programming in Python - a minimal webserver, with a little less boilerplate thanks to `fastcore` https://t.co/YqeSk6rgii https://t.co/m6ZmUmGeph" / Twitter
+
+https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on Twitter: "How to convert 16 lines (from the python standard library) of complex nested code with multiple return paths to three lines of clear code with one return path. https://t.co/FXddFjcuvO https://t.co/nmBOseot55" / Twitter
+-->
+
+<!--
 API
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
