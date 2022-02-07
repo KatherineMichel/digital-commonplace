@@ -1,14 +1,116 @@
 # Tools- Python and Django Small Project Links
 
 <!--
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+Mariatta: Automation
+https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
+https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
+
+
+## Charlie
+
+Book
+https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
+
+https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
+https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
+
+Safe Space
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://github.com/charliegerard | charliegerard (Charlie)
+https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
+
+
+## Sarah
+
+Netlify
+https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+Developer experience
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
+https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
+
+https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
+https://sarah.dev/writing/ | Sarah Drasner's Site
+
+Career ladders
+https://career-ladders.dev/
+https://css-tricks.com/the-importance-of-career-laddering/
+https://www.engmanagement.dev/the-value-of-values
+https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
+https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
+https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
+
+Articles
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+https://css-tricks.com/understanding-async-await/
+https://twitter.com/sarah_edo/status/1456638810343677952
+
+
 ## Anthony
 
+Anthony Explains
+https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
+https://github.com/anthonywritescode/explains | anthonywritescode/explains: more easily searchable list of explains playlist
+
+https://github.com/asottile
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+## Anthony Tools
+
 pre-commit
-https://pre-commit.ci/
+https://pre-commit.com/ | pre-commit
 https://github.com/pre-commit/pre-commit/
 
 https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
 https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
+## Anthony Project
+
+Projects
+https://www.youtube.com/watch?v=YZIy4U-2zI4 | The All-American Rejects - One More Sad Song - YouTube
+https://github.com/asottile2/askljdf | asottile2/askljdf
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+
+## Jeff
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+https://lfk.im/ | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
+
+https://github.com/lfk-im/downtownlawrence-data
+https://github.com/jefftriplett/lfk.im/blob/master/.github/workflows/actions.yml | lfk.im/actions.yml at master · jefftriplett/lfk.im
+https://github.com/jefftriplett/lfk.im | jefftriplett/lfk.im: Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://lfk.im/?fbclid=IwAR1MBwTMMAGVRHjgat6MzqRNwCymwZiyuIyplpyhQBk5dNaWiojYJ8Cv-Ag | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+
+https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon curbside takeout and delivery for local COVID-19 impacted businesses
+
+https://github.com/jefftriplett/djobs | jefftriplett/djobs
+https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
 
 
 ## PAGNI and YAGNI
@@ -122,6 +224,115 @@ https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my be
 https://simonwillison.net/2019/Oct/7/dogsheep/
 
 
+## Simon Repos
+
+General
+https://github.com/simonw | simonw (Simon Willison)
+https://github.com/simonw/simonw | simonw/simonw: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
+https://github.com/simonw/simonwillisonblog-backup | simonw/simonwillisonblog-backup: Backups of the database for simonwillison.net
+
+TIL
+https://github.com/simonw/til | simonw/til: Today I Learned
+https://github.com/simonw/til/blob/main/build_database.py | til/build_database.py at main · simonw/til
+https://github.com/simonw/til/issues/25 | Downloading the previous database file no longer works (>5MB) · Issue #25 · simonw/til
+
+Self-rewriting README
+https://github.com/simonw/simonw/blob/main/build_readme.py | simonw/build_readme.py at main · simonw/simonw
+
+Museums
+https://www.niche-museums.com/
+https://github.com/simonw/museums | simonw/museums: A website recommending niche museums to visit
+https://simonwillison.net/2019/Nov/25/niche-museums/ | niche-museums.com, powered by Datasette
+
+Django SQL Dashboard
+https://github.com/simonw/django-sql-dashboard | simonw/django-sql-dashboard: Django app for building dashboards using raw SQL queries
+https://twitter.com/simonw/status/1391782401395675139 | Simon Willison on Twitter: "Announcing Django SQL Dashboard, now out of alpha and ready for people to try out on their own Django+PostgreSQL projects: https://t.co/4E1zT0ampK" / Twitter
+https://twitter.com/simonw/status/1373715351146430464 | Simon Willison on Twitter: "First evidence of someone other than me trying out django-sql-dashboard!" / Twitter
+
+Dogsheep
+https://github.com/dogsheep | Dogsheep
+https://github.com/orgs/dogsheep/repositories | Dogsheep
+https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
+
+Dogsheep Search
+https://github.com/dogsheep/dogsheep-beta | dogsheep/dogsheep-beta: Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
+
+Important
+https://datasette.io/tools/twitter-to-sqlite | twitter-to-sqlite - a tool for Datasette
+https://github.com/dogsheep/twitter-to-sqlite | dogsheep/twitter-to-sqlite: Save data from Twitter to a SQLite database
+https://github.com/dogsheep/twitter-to-sqlite#how-to-install | dogsheep/twitter-to-sqlite: Save data from Twitter to a SQLite database
+https://github.com/dogsheep/twitter-to-sqlite/blob/master/README.md#retrieving-your-mentions | twitter-to-sqlite/README.md at master · dogsheep/twitter-to-sqlite
+
+Datasette GraphQL Plugin
+https://github.com/simonw/datasette-graphql | simonw/datasette-graphql: A GraphQL endpoint for Datasette
+https://twitter.com/simonw/status/1291591436735926274 | Simon Willison on Twitter: "GraphQL in Datasette with the new datasette-graphql plugin (also my weeknotes) https://t.co/tUD4TZoJas" / Twitter
+https://twitter.com/simonw/status/1297677574219341824 | Simon Willison on Twitter: "Released version 1.0 of datasette-graphql, my Datasette plugin for adding a GraphQL interface on top of any SQLite database https://t.co/qGOsqd3lHL" / Twitter
+
+More Dogsheep Tools
+https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
+https://github.com/dogsheep/hacker-news-to-sqlite | dogsheep/hacker-news-to-sqlite: Create a SQLite database containing data pulled from Hacker News
+https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
+
+Datasette
+https://github.com/simonw/datasette | simonw/datasette: An open source multi-tool for exploring and publishing data
+https://github.com/simonw/datasette.io | simonw/datasette.io: The official project website for Datasette
+
+Datasette Website
+https://datasette.io/ | Datasette: An open source multi-tool for exploring and publishing data
+https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
+
+Datasette Docs
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+https://datasette.readthedocs.io/en/latest/authentication.html#defining-permissions-with-allow-blocks | Authentication and permissions — Datasette documentation
+https://docs.datasette.io/en/stable/ | Datasette — Datasette documentation
+https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
+https://twitter.com/simonw/status/1321899418207969280 | Simon Willison on Twitter: "New Datasette plugin documentation: Designing URLs for your plugin https://t.co/H2B2pPARYE" / Twitter
+
+Datasette on Glitch
+https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
+https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
+
+Datasette Desktop App
+https://simonwillison.net/2021/Aug/30/datasette-app/ | Building a desktop application for Datasette (and weeknotes)
+https://github.com/simonw/datasette.app | simonw/datasette.app: Electron app wrapping Datasette
+
+<!--
+Electron
+https://twitter.com/pydanny/status/1481345258084442112 | Daniel Roy Greenfeld on Twitter: "Dear lazy web: Is there a way to bundle Electron apps to integrate with Python code that works across all platforms, especially Windows?" / Twitter
+-->
+
+Datasette Desktop App
+https://twitter.com/simonw/status/1432211934179323904 | Simon Willison on Twitter: "Building a desktop application for Datasette - my progress so far researching a proof-of-concept Electron app wrapping Datasette, for ease of installation by new users https://t.co/9arCNKwJK1" / Twitter
+https://twitter.com/simonw/status/1435755618384564224 | Simon Willison on Twitter: "This is for https://t.co/WMWqQhdQyC - I want a menu option which sets it up so user can type "datasette" in a terminal to run "~/.datasette-app/venv/bin/datasette" - but I don't want to add anything else in "~/.datasette-app/venv/bin" to path because of https://t.co/zautZH794k" / Twitter
+https://twitter.com/simonw/status/1435685713727557639 | Simon Willison on Twitter: "One of the most time-consuming parts of this project was learning how to sign and notarize macOS apps for distribution - I wrote up an extensive TIL about that here: https://t.co/VyBbQhPNXt" / Twitter
+https://twitter.com/simonw/status/1435753757527064576 | Simon Willison on Twitter: "With a 5 second cameo from Datasette Desktop at the start!" / Twitter
+https://twitter.com/simonw/status/1346209590577250304 | Simon Willison on Twitter: "Anyone on a Mac want to test something for me? I've figured out how to bundle Datasette as a standalone executable using pyinstaller - no separate Python install required If you're up for trying out you can download a zip file from https://t.co/uJby4Hqr8A" / Twitter
+https://twitter.com/simonw/status/1433140449225576451 | Simon Willison on Twitter: "Any good patterns out there for version numbers for things that model the version numbers of the combined components? Eg if I have a Datasette desktop app where the outer wrapper Electron all is at v1.2 but it bundles datasette 0.59 as an internal dependency?" / Twitter
+
+Datasette Plugin Template
+https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
+https://github.com/simonw/datasette-plugin-template-demo | simonw/datasette-plugin-template-demo: Demonstrating https://github.com/simonw/datasette-plugin
+https://github.com/simonw/datasette-plugin-template-repository | simonw/datasette-plugin-template-repository: GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template
+https://github.com/simonw/datasette-plugin-template-repository-demo | simonw/datasette-plugin-template-repository-demo: Demo of simonw/datasette-plugin-template-repository
+
+Python lib Template Demo
+https://github.com/simonw/python-lib-template-demo | simonw/python-lib-template-demo: Demo for https://github.com/simonw/python-lib
+https://github.com/simonw/python-lib-template-repository | simonw/python-lib-template-repository: GitHub template repository for creating new Python libarries, using the simonw/python-lib cookiecutter template
+https://github.com/simonw/python-lib-template-repository-demo | simonw/python-lib-template-repository-demo: Demo of simonw/python-lib-template-repository
+
+CLI Template
+https://twitter.com/carltongibson/status/1376077806304649216 | Carlton Gibson 🇪🇺 on Twitter: "Hi @simonw is there a template for ...-to-sqlite tools, or is it dig around and copy what you see? Ta!" / Twitter
+
+Click App
+https://github.com/simonw/click-app | simonw/click-app: Cookiecutter template for creating new Click command-line tools
+https://github.com/simonw/click-app-template-demo | simonw/click-app-template-demo: Demo for https://github.com/simonw/click-app
+https://github.com/simonw/click-app-template-repository | simonw/click-app-template-repository: GitHub template repository for creating new Python Click CLI tools, using the simonw/click-app cookiecutter template
+https://github.com/simonw/click-app-template-repository-demo | simonw/click-app-template-repository-demo: Demo of simonw/click-app-template-repository
+
+
 ## NYT JSON/Scraping
 
 https://twitter.com/idangazit/status/1324748491134939136
@@ -150,7 +361,103 @@ Important
 https://twitter.com/jeremyphoward/status/1328780892769120256 | Jeremy Howard on Twitter: "Here's how to get started with socket programming in Python - a minimal webserver, with a little less boilerplate thanks to `fastcore` https://t.co/YqeSk6rgii https://t.co/m6ZmUmGeph" / Twitter
 
 https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on Twitter: "How to convert 16 lines (from the python standard library) of complex nested code with multiple return paths to three lines of clear code with one return path. https://t.co/FXddFjcuvO https://t.co/nmBOseot55" / Twitter
+
+## Adam
+
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+
+Uniform commit messages
+https://github.com/adamchainz/django-perf-rec
+https://gumroad.com/l/suydt
+
+htmx
+https://twitter.com/AdamChainz/status/1456031360167157765 | Adam Johnson on Twitter: "A set of videos demonstrating several UI patterns using Django with HTMX" / Twitter
+
+https://adamchainz.gumroad.com/l/byddx | Boost Your Django DX
+
+Important!!!!!!!
+https://twitter.com/AdamChainz/status/1458767133190594566 | Adam Johnson on Twitter: "Does this chapter have enough tools in it? https://t.co/UGyiFH0wSM" / Twitter
+https://twitter.com/Ry_Austin/status/1481290364770209793 | Ryan on Twitter: "In the first few pages of @AdamChainz new book BYDDX I picked up a few nice resources. From https://t.co/FLgTynB3Ns and https://t.co/A553BpfTPj where I picked up {% empty %} and used it in a neat little for-(if-else)-empty combination." / Twitter
+
+Single something
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+
+Type hints
+https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/ | Python Type Hints - Use Cases for the types Module - Adam Johnson
+
+https://adamj.eu/tech/2019/04/30/getting-a-django-application-to-100-percent-coverage/ | Getting a Django Application to 100% Test Coverage - Adam Johnson
+
+Test
+https://adamj.eu/tech/2021/01/04/2021-01-04-better-exception-output-in-djangos-test-runner-with-better-exceptions/ | 404: Page not found - Adam Johnson
+https://adamj.eu/tech/2020/09/05/what-happens-when-you-run-manage.py-test/ | What happens when you run manage.py test? - Adam Johnson
+
+The Well Maintained Test
+https://twitter.com/AdamChainz/status/1456347321415917569 | Adam Johnson on Twitter: "✍️ I’ve come up with a test that we can use to decide whether a new package we’re considering depending on is well-maintained. https://t.co/vW08nG67cH" / Twitter
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/ | The Well-Maintained Test: 12 Questions for New Dependencies - Adam Johnson
+https://twitter.com/ryancheley/status/1462970339768426498 | The B Is Silent on Twitter: "New Post: The Well Maintained Test https://t.co/xigqGCpcxT which was inspired by an article written by @AdamChainz and tools built by @simonw @willmcgugan! Such a great #Python community out there with lots of tools to help you build cool stuff! 💯" / Twitter
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+Optimize ORM
+https://twitter.com/AdamChainz/status/1405805494158123008 | Adam Johnson on Twitter: "This is your infrequent reminder that the Django docs has a great page on 
+how to optimize your use of the ORM: https://t.co/vWPPa6Sckr" / Twitter
+
+https://adamj.eu/tech/2020/02/25/use-python-m-pip-everywhere/ | Use ‘python -m pip’ Everywhere - Adam Johnson
+
+https://adamj.eu/tech/2014/07/16/extending-djangos-queryset-to-return-approximate-counts/ | Extending Django's QuerySet to return approximate COUNTs · Adam Johnson's Blog
+https://twitter.com/AdamChainz/status/1481275696949473292 | Adam Johnson on Twitter: "What are some basic URL's and patterns you might need to build in a (Django) site? Thinking of more tutorials to write. So far I have... 🧵" / Twitter
+https://twitter.com/AdamChainz/status/1462095800301928449 | Adam Johnson on Twitter: "✍️ An old post I found myself referring to this week: redirecting https://t.co/l2Ej67Zp69 to https://t.co/N47ft93GhX in Django https://t.co/gAR8JiUbtX" / Twitter
+
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+Security 
+https://securityheaders.com/
+https://adamj.eu/tech/2020/04/08/django-security-headers-hall-of-fame/
+https://adamj.eu/tech/2019/04/10/how-to-score-a+-for-security-headers-on-your-django-website/
+https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/
+
+Memory Leaks
+https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
+https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
+
+django-htmx
+https://github.com/adamchainz/django-htmx
+
+Database Instrumentation Tooling
+https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
+https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
+
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
+
+DevOps
+Watchman
+https://adamj.eu/tech/2021/01/20/efficient-reloading-in-djangos-runserver-with-watchman/
+https://stackoverflow.com/questions/55831728/what-is-statreloader-while-running-django | What is StatReloader while running Django? - Stack Overflow
+
+Django Upgrade
+https://adamj.eu/tech/2021/09/16/introducing-django-upgrade/ | Introducing django-upgrade, a tool for upgrading your Django projects - Adam Johnson
+
+PyUpgrade
+https://adamj.eu/tech/2021/05/21/python-type-hints-how-to-upgrade-syntax-with-pyupgrade/ | Python Type Hints - How to Upgrade Syntax with pyupgrade - Adam Johnson
+
+Django Browser Reload
+https://twitter.com/AdamChainz/status/1472497566810001418 | Adam Johnson on Twitter: "👨‍💻 With a little bit of morning coding I have got django-browser-reload triggering a reload when a static asset changes. I want to also make it work on Django’s debug page before doing a second release. https://t.co/Pw9k5cmO2G" / Twitter
+https://twitter.com/AdamChainz/status/1471094853241036802 | https://twitter.com/AdamChainz/status/1471094853241036802
+
+Django Minify HTML
+https://twitter.com/AdamChainz/status/1475778548275236871 | Adam Johnson on Twitter: "📦 New package: django-minify-html 📦 This provides a Django middleware for running minify-html, the “extremely fast and smart HTML + JS + CSS minifier”. It minifies HTML, and any inline JS and CSS, with little overhead. https://t.co/vqVXATLl5t" / Twitter
+
+Repos
+https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
+https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
 -->
+
 
 <!--
 API
