@@ -267,9 +267,10 @@ https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of 
 -->
 
 
-
 <!--
 Docs
+
+https://twitter.com/jennleaver/status/1410357649552687106 | Jenn Leaver on Twitter: "Just submitted a proposal for a conference talk. I DID NOT go with my original title, "A+ Docs Leadership, Really Good Stuff" because I was told it was "not good, at all."" / Twitter
 
 https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
 
