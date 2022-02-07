@@ -147,10 +147,15 @@ https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "
 
 ## Simon
 
+Talk
 https://twitter.com/simonw/status/1300193439573708800
 
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
-https://twitter.com/simonw/status/1481328382755282947
+Building a new feature
+https://twitter.com/simonw/status/1481328382755282947 | Simon Willison on Twitter: "Wrote up a detailed blog entry about my process for building a new feature: issue, tests, implementation, documentation all bundled together in a single commit - then a release with release notes https://t.co/rCWvcdJozr" / Twitter
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
 
 https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
 https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit | Datasette - PyCon Argentina 2020, Q&A - Google Docs
@@ -163,13 +168,6 @@ https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍�
 http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
-
-
-## Datasette
-
-https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
-https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
-https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
 
 
 ## Personal Data Warehouse
@@ -209,6 +207,27 @@ https://twitter.com/Wattenberger/status/1395008085782061056 | Amelia Wattenberge
 https://twitter.com/kachkaev/status/1395141903633506312 | Alexander Kachkaev on Twitter: "@githubOCTO Using git to manage data is a really powerful approach! I used it to track changes in a recent #OpenStreetMap mapping party for 40+ days. Generating nightly json snapshots of ≈50K buildings made it easy to analyse results! Vises for data I stored in git: https://t.co/3iysPbQ4WI https://t.co/9Yo49bDh4e" / Twitter
 Important
 https://twitter.com/aborruso/status/1395407403802365953 | Andrea Borruso on Twitter: "Using bash as postprocess script for GitHub's Flat Data actions cc @githubOCTO 🌟🌟 Flat Data 🌟🌟 Thank you to @pierrotsmnrd for its inspirational python way https://t.co/oPqThFyYcH" / Twitter
+
+
+## GeoDjango
+
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+https://twitter.com/simonw/status/1389107419649765378 | Simon Willison on Twitter: "Weeknotes: Adding GeoDjango to an existing Django project https://t.co/qHLEFs0QLA" / Twitter
+
+
+## Datasette Example
+
+https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
+https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
+https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
+
+
+## NYT JSON/Scraping
+
+https://twitter.com/idangazit/status/1324748491134939136
+https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
+https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
 
 
 Jeremy Howard
