@@ -10,6 +10,19 @@ Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
 
+Mariatta: Automation
+https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
+https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
+
+VS Code for Python Dev
+https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
+https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
+
+Unit testing and CI
+https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
+https://twitter.com/DataUmbrella/status/1466770451133313037 | Data Umbrella on Twitter: "In case you missed our event: Intro to Unit Testing and Continuous Integration by @mariatta, the video is available. And, subscribe to our YouTube channel for more videos: https://t.co/FVNADa4Vdp" / Twitter
+
+
 Terminal Tutorial
 https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
@@ -206,6 +219,8 @@ https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on 
 
 
 ## Eric
+
+https://ehmatthes.com/blog/messy_python_project/ | Cleaning up a messy, exploratory Python project - ehmatthes.com
 
 https://twitter.com/ehmatthes/status/1466539581436616704 | Eric Matthes on Twitter: "This is a milestone I've been looking forward to sharing. django-simple-deploy has preliminary support for Azure, which means you can deploy to Heroku or Azure with the same three steps: https://t.co/LMwY1VFaEB https://t.co/xVSFP7AK2l" / Twitter
 
