@@ -10,13 +10,15 @@ Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
 
+VS Code for Python Dev
+https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
+https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
+
+
 Mariatta: Automation
 https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
 https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
 
-VS Code for Python Dev
-https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
-https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
 
 Unit testing and CI
 https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
@@ -34,7 +36,6 @@ https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgr
 
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
 
-
 Testing
 
 https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
@@ -47,7 +48,6 @@ https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | 
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
 
 https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
-
 
 
 ## Choices
@@ -63,6 +63,11 @@ https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.m
 https://devchecklists.com
 https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
+
+
+Shopify Engineering
+https://twitter.com/simonw/status/1467638412253433856 | Simon Willison on Twitter: "Lots of impressive numbers in this thread, but delivering 11.67 billion webhooks stood out to me - webhooks are pretty fiddly to implement at scale due to the challenges of delivering to slow/error-prone/potentially even malicious endpoints" / Twitter
+
 
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
@@ -82,10 +87,18 @@ Important
 https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
 
+Tools Diagram
+https://twitter.com/nletcher/status/1486935088319242245/photo/1 | Ned Letcher on Twitter: "Hey #Python peeps, I'm working on a blog post trying to untangle Python project wrangling tools by their features. Thoughts on this breakdown? Have I missed any major tools or features you'd add? https://t.co/JCuVba7GtF" / Twitter
+https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
+
+
 Dave Beazley- Dataklasses
 https://github.com/dabeaz/dataklasses | dabeaz/dataklasses: A different spin on dataclasses.
 https://twitter.com/dabeaz/status/1472742536649351173
 https://twitter.com/simonw/status/1472765515793788929 | https://twitter.com/simonw/status/1472765515793788929
+
+Dave Beazley
+https://twitter.com/simonw/status/1472788683199631362 | Simon Willison on Twitter: "It took me quite a while to read through this and understand all of the tricks that it uses Here's my heavily annotated copy of @dabeaz's code that attempts to explain how it all works: https://t.co/A4hzo9Tay2" / Twitter
 
 
 Faster Python
@@ -101,11 +114,6 @@ https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python 
 
 WAS
 https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
-
-
-Tools Diagram
-https://twitter.com/nletcher/status/1486935088319242245/photo/1 | Ned Letcher on Twitter: "Hey #Python peeps, I'm working on a blog post trying to untangle Python project wrangling tools by their features. Thoughts on this breakdown? Have I missed any major tools or features you'd add? https://t.co/JCuVba7GtF" / Twitter
-https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
 
 
 ## Madelene Campos
@@ -155,6 +163,13 @@ https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍�
 http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
 https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
 https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+
+## Datasette
+
+https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
+https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
+https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
 
 
 ## Personal Data Warehouse
