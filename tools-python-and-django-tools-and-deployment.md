@@ -9,19 +9,9 @@ Security
 https://docs.djangoproject.com/en/dev/internals/security/#reporting-security-issues | Django’s security policies | Django documentation | Django
 
 
-Farming versus mining
-Iteration
-https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
-
-
 VS Code for Python Dev
 https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
 https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
-
-
-Mariatta: Automation
-https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
-https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
 
 
 Unit testing and CI
