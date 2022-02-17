@@ -1,6 +1,18 @@
 # Keeping Tabs
 
 <!--
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
+Django Snippets
+https://djangosnippets.org/
+
+
+Django News
+* [Django Store](https://django.threadless.com/)
+* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
+
+
 ## Ideas
 
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
@@ -19,17 +31,17 @@ https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitt
 https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
 -->
 
+<!--
 ## Events
 
-<!--
 https://www.python.org/events/
 
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 -->
 
+<!--
 ## Livestream
 
-<!--
 Django Discord
 https://discord.com/invite/Psc75Cb8 | Django
 
@@ -52,9 +64,9 @@ https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/
 https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
 -->
 
+<!--
 ## Local Competitions and Hackathons
 
-<!--
 Game Jam
 https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
 https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
@@ -157,6 +169,7 @@ https://www.sqlite.org/
 https://www.sqlite.org/lang.html
 -->
 
+
 ## Release
 
 <!--
@@ -170,24 +183,59 @@ https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
 https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
 -->
 
-## Python and Django News Roundups
+
+## Top
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+Python
+* [Pythonic News](https://news.python.sc/)
 
 Django News
 * [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
-* [Django Store](https://django.threadless.com/)
-* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
-
-<!--
-https://planetpython.org/ | Planet Python
-
-https://news.python.sc/ | Pythonic News
--->
-
-## Django Official
 
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+GitHub Trending Python
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+<!--
+https://twitter.com/djangoproject/
+
+https://planetpython.org/ | Planet Python
+
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+
+## Django Official Roadmap
 
 New Releases
 * [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
@@ -203,39 +251,25 @@ DEPs (Django Enhancement Proposals)
 
 
 <!--
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
-
 https://www.djangoproject.com/community/ | Django Community | Django
-https://twitter.com/djangoproject/
 -->
 
 ## Python Official
 
-New Releases and Pre-Releases
-* [Python Downloads](https://www.python.org/downloads)
-* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
-
 General
 * [What's New](https://docs.python.org/dev/whatsnew/)
-* [What's New Python 3](https://docs.python.org/3/whatsnew/)
-* [Python Discuss](https://discuss.python.org)
 * [Python Insider](https://pythoninsider.blogspot.com/)
+
+* [What's New Python 3](https://docs.python.org/3/whatsnew/)
+
+* [Python Discuss](https://discuss.python.org)
 
 PEPs
 * [PEP Index](https://www.python.org/dev/peps)
 
-
 <!--
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
-
-
 PSF Minutes
 https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
-
 
 https://www.python.org/downloads/release/python-390a5/
 
@@ -243,19 +277,6 @@ https://docs.python.org/3.7/whatsnew/changelog.html#changelog
 
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-
-Release
-* [PEP 537 -- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
-* [PEP 429 -- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
-* [PEP 373 -- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
-
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://python-release-cycle.glitch.me/ | Python Release Cycle
-
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
 
 ## Feature Roundups
 
@@ -271,50 +292,49 @@ http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/novemb
 https://twitter.com/_tomchristie/status/1256210735056785409
 -->
 
+## Python Roadmap
+
+New Releases and Pre-Releases
+* [Python Downloads](https://www.python.org/downloads)
+* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
+
+Release Schedules
+* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+<!--
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
+-->
+
 ## Git News
 
-GitHub
-* [GitHub Blog](https://github.blog)  
+GitHub Engineering
 * [GitHub Engineering](https://githubengineering.com) 
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
 
 <!--
 Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
 
-## News and Product Sites
 
-Interesting Links
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Python Stuff
-* [Pythonic News](https://news.python.sc/)
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
+## Trending and Top of All Time
 
 Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best), 
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
 * [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
 * [Hacker News Trending](https://hntrending.com)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
 
 Top Videos
 * [Reddit Top Videos](https://redditvids.com/)
@@ -327,9 +347,17 @@ Top Links of All Times
 * [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
-Articles
+## Python Questions
+
+Python Stuff
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
+* [Reddit Python](https://www.reddit.com/r/Python)
+
+## News Sites
+
 * [Techmeme](https://www.techmeme.com)
 * [InfoQ](https://www.infoq.com/)
+
 
 ## Articles
 
@@ -348,8 +376,6 @@ https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPo
 
 ## Trends
 
-https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
-
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
 https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
@@ -363,12 +389,6 @@ https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Deve
 
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 -->
-
-## GitHub Trending- Python
-
-GitHub Trending Python
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Topic Python](https://github.com/topics/python)
 
 ## Python Articles and Tutorials
 
