@@ -184,6 +184,29 @@ https://gist.github.com/ | Create a new Gist
 
 
 <!--
+Time Zones, Postal Codes
+
+https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
+
+https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
+http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+
+https://www.timeanddate.com/time/map/
+https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
+
+https://en.wikipedia.org/wiki/Postal_code
+https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
+
+
+https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+
+Falsehoods
+http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
+https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
+http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+
+
 https://www.mindtools.com/ | Management Training and Leadership Training - Online
 https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
 
@@ -200,20 +223,6 @@ https://twitter.com/BerkouwerS/status/1437514447229112321 | Susanna Berkouwer on
 
 Postmortems
 https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
-
-
-Time Zones, Postal Codes
-
-https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
-
-https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
-http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
-
-https://www.timeanddate.com/time/map/
-https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
-
-https://en.wikipedia.org/wiki/Postal_code
-https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
 
 
 Web browser
