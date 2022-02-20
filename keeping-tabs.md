@@ -9,12 +9,35 @@ https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
 Leetcode
 https://leetcode.com/
 
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+Algos
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+Python Patterns
+https://python-patterns.guide/
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://refactoring.com/catalog/
+https://martinfowler.com/eaaCatalog/
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
 https://github.com/KatherineMichel/organizations
 
 High Scalability
 http://highscalability.com/start-here/
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/category/example
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://landing.google.com/sre/books
 
 https://github.com/abhivaikar/howtheytest
 https://github.com/upgundecha/howtheysre
