@@ -138,9 +138,6 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-
-
 Tech Terminology
 https://www.techopedia.com
 https://www.techopedia.com/it-terms/1
@@ -198,6 +195,7 @@ https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Hel
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
 
+
 Time Zones, Postal Codes
 
 https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
@@ -221,22 +219,15 @@ https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Fa
 http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
 
 
-
-
-
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
-
-https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
-
+https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 
 NASA says Category Theory is the “Mathematical Basis of Systems Engineering.”
 https://twitter.com/cbarrett/status/1475620079987474432 | https://twitter.com/cbarrett/status/1475620079987474432
 https://www.nasa.gov/consortium/CategoryTheory/
 https://en.wikipedia.org/wiki/Category_theory | Category theory - Wikipedia
+
 
 https://github.com/dwmkerr/hacker-laws
 
@@ -251,13 +242,15 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding
 
 
 
-https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+
+https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
 
 
 Interesting
 https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
-
 
 
 https://book.systemsapproach.org/ | Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation
@@ -305,7 +298,7 @@ https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.
 Interesting
 https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
 
-Software Design for Flexility
+Software Design for Flexibility
 https://www.amazon.com/dp/0262045494/?asin=0262045494&revisionId=&format=4&depth=1 | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
 https://twitter.com/carltongibson/status/1375056592572403718 | (1) Carlton Gibson 🇪🇺 on Twitter: "Oh yes. 🧐 https://t.co/xbnBBMBJPx" / Twitter
@@ -518,7 +511,7 @@ Joel Spolsky
 
 Basecamp Product
 * [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/Getting%20Real.pdf)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/getting-real)
 
 <!--
 Joel
@@ -890,7 +883,6 @@ Martin Fowler, Refactoring, Patterns, ThoughtWorks
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Refactoring Catalog](https://refactoring.com/catalog/)
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-* [ThoughtWorks](https://www.thoughtworks.com)
 
 Checklists and Cheat Sheets
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
@@ -1782,6 +1774,7 @@ https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experienc
 
 Authorities
 * [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [ThoughtWorks](https://www.thoughtworks.com)
 
 Refactoring
 * [Refactoring](https://refactoring.com/)
