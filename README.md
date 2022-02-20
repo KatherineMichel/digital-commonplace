@@ -155,10 +155,6 @@ https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Tech
 
 ## Design Principles
 
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
-
 Games with a Purpose
 https://en.wikipedia.org/wiki/ESP_game | ESP game - Wikipedia
 carnegie mellon game with a purpose - Google Search
@@ -167,8 +163,30 @@ esp game - Google Search
 Interesting
 https://twitter.com/patrickc/status/1404217558266351617 | Patrick Collison on Twitter: "Dang's principles for online forums are quite interesting. • Curiosity withers under repetition. • Generic discussion is not interesting. • We want reflective rather than reflexive conversation. • Diffs are what make a conversation interesting. https://t.co/GLIUk4WCJc" / Twitter
 
+Idea
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
 
-https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
+https://twitter.com/jennleaver/status/1448137494445260800 | Jenn Leaver on Twitter: "Hey-o! My talk on docs leadership for #WriteTheDocs Prague is up! If you’re new to docs leadership or interested in learning about how I approach this work, check it out 😻 If you have questions or feedback, DMs are open! https://t.co/X0IfKbfDbN" / Twitter
+
+Wharton
+http://www.susannaberkouwer.com/files/theme/LowandBerkouwer-Inclusionchecklist.pdf | LowandBerkouwer-Inclusionchecklist.pdf
+https://twitter.com/BerkouwerS/status/1437514447229112321 | Susanna Berkouwer on Twitter: "1/4 Proud that @Wharton has adopted the "Course Checklist for Diversity, Equity, and Inclusion" that @femonomics and I put together! Even prouder that it is listed on the resources page as the "Low-Berkouwer checklist"☑️ It's available here: https://t.co/2MzJTT8jl1 Some notes:" / Twitter
+
+Postmortems
+https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
+-->
+
+
+
+<!--
+https://www.mindtools.com/ | Management Training and Leadership Training - Online
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+
+
+Web browser
+https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
+https://browser.engineering/ | Web Browser Engineering
 
 
 https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
@@ -179,11 +197,7 @@ https://stackoverflow.com/help/minimal-reproducible-example | How to create a Mi
 https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
--->
 
-
-
-<!--
 Time Zones, Postal Codes
 
 https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
@@ -207,27 +221,16 @@ https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Fa
 http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
 
 
-https://www.mindtools.com/ | Management Training and Leadership Training - Online
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
 
 
-Idea
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
-
-https://twitter.com/jennleaver/status/1448137494445260800 | Jenn Leaver on Twitter: "Hey-o! My talk on docs leadership for #WriteTheDocs Prague is up! If you’re new to docs leadership or interested in learning about how I approach this work, check it out 😻 If you have questions or feedback, DMs are open! https://t.co/X0IfKbfDbN" / Twitter
-
-Wharton
-http://www.susannaberkouwer.com/files/theme/LowandBerkouwer-Inclusionchecklist.pdf | LowandBerkouwer-Inclusionchecklist.pdf
-https://twitter.com/BerkouwerS/status/1437514447229112321 | Susanna Berkouwer on Twitter: "1/4 Proud that @Wharton has adopted the "Course Checklist for Diversity, Equity, and Inclusion" that @femonomics and I put together! Even prouder that it is listed on the resources page as the "Low-Berkouwer checklist"☑️ It's available here: https://t.co/2MzJTT8jl1 Some notes:" / Twitter
-
-Postmortems
-https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
 
 
-Web browser
-https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
-https://browser.engineering/ | Web Browser Engineering
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+
+https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
+
 
 
 NASA says Category Theory is the “Mathematical Basis of Systems Engineering.”
@@ -363,6 +366,28 @@ Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
 -->
 
+<!--
+## Networking and Security
+
+https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+
+https://www.begin.re/ | RE for Beginners | Reverse Engineering
+
+Reverse Engineering
+https://en.wikipedia.org/wiki/Reverse_engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+Hidden vulnerabilities of OS Software
+https://twitter.com/cra/status/1242580570451951619
+
+https://github.com/lawsecnet/pentesting-with-python
+
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
+-->
 
 <!--
 Docs
@@ -1138,6 +1163,356 @@ https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre |
 https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
 -->
 
+## More DevOps
+
+Atlassian DevOps
+* [Atlassian DevOps](https://www.atlassian.com/devops)
+* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
+
+DevOps
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+
+DevOp Tools Landscapes
+* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
+
+How Companies Do DevOps
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+Ops Schools and DevOps Bootcamps
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+<!--
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+
+https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
+
+https://puppet.com/resources/whitepaper/state-of-devops-report
+
+https://devops.com
+
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+-->
+
+## CI/CD
+
+<!--
+https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+
+https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
+https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
+
+https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
+
+https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
+
+https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
+-->
+
+## GitLab
+
+GitLab- Notable Features
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+Tools and Landscapes
+* [About GitLab](https://about.gitlab.com/)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+<!--
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+https://docs.gitlab.com/ee/install/README.html
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
+-->
+
+## Jez Humble
+
+<!--
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+-->
+
+## Software Design Tools
+
+<!--
+http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
+-->
+
+Robustness
+* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
+
+<!--
+Robustness Analysis
+-->
+
+Pseudocode
+* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
+* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
+
+<!--
+https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
+https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
+https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+state machine diagram
+-->
+
+Unified Modeling Language
+* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
+
+UML Books
+* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
+* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
+
+<!--
+Three ways to use UML: sketch, blueprint, and programming language
+Most common: sketch
+Blueprints or sketch: forward-engineering or reverse-engineering direction
+"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
+
+https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
+Figure 1.3, a screen flow diagram
+
+Diagrams: page 10-13
+Table 1.1 Official Diagram Types of the UML
+Table 1.2 Decision Table
+waterfall vs. iterative
+Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
+Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
+
+Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
+
+Chapter 5
+class diagrams
+
+Chapters 6 through 8
+structure of a system: object diagrams, package diagrams, and deployment diagrams.
+
+Chapters 9 through 11 
+behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
+
+https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Platform-independent_model
+https://en.wikipedia.org/wiki/Executable_UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process
+
+https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
+
+http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
+-->
+
+UML Diagrams
+* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
+* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
+* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
+* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
+
+<!--
+https://twitter.com/KatiMichel/status/995797396461207553
+https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
+https://django-extensions.readthedocs.io/en/latest/graph_models.html
+http://pydotplus.readthedocs.io/
+http://www.graphviz.org/
+https://graphviz.gitlab.io/documentation/
+https://graphviz.gitlab.io/download/
+-->
+
+Use Case Books
+* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
+
+TLA+
+* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
+
+<!--
+https://conf.tlapl.us/home/
+https://lamport.azurewebsites.net/tla/toolbox.html
+-->
+
+## Software Construction Tools
+
+<!--
+https://www.dabeaz.com/tla.html | An Introduction to TLA+
+-->
+
+<!--
+UML
+https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
+https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
+
+
+https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
+
+Modeling
+* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
+
+https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
+-->
+
+<!--
+Software patterns and paradigms
+
+https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
+https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
+
+http://www-03.ibm.com/software/products/en/rosemod
+http://www-03.ibm.com/software/products/en/enterprise
+https://en.wikipedia.org/wiki/IBM_Rational_Rose_XDE
+https://en.wikipedia.org/wiki/Rational_Software
+
+Robustness Analysis
+https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
+Robustness Diagrams: An Agile Introduction
+http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
+-->
+
+## X Driven Development
+
+Fear
+* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
+
+Docs
+* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
+* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
+* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
+* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
+
+Test Driven Development (TDD)
+* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
+* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
+* [Data Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Data-driven_testing)
+* [Continuous Test Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Continuous_test-driven_development)
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+More Software Planning
+* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
+* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
+
+Event Paradigm
+* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
+
+<!--
+Driven
+http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
+
+https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
+https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
+https://trineo.com/blog/2020/01/constraint-driven-development | Constraint Driven Development | Trineo
+
+Driven Dev
+https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
+https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
+
+https://twitter.com/carltongibson/status/1259466017358647296 | Carlton Gibson 🇪🇺 on Twitter: "The older I get the more I think, optimise for the beginner’s use-case." / Twitter
+
+Discussions
+https://twitter.com/_tomchristie/status/1259781217685307392 | Tom Christie on Twitter: "Don't know when it'll land, but I'm *really* looking forward to @GitHub's "discussions" feature. Going to put up a nice big sign in front of issues directing users to the discussions tab as the starting point, and ensure that the maintenance team gets to decide what to escalate." / Twitter
+
+Maintainer driven issues and PRs
+https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
+https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
+
+* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
+
+https://domainlanguage.com/ddd/reference/
+http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
+
+https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
+https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
+https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
+-->
+
+## Other Interesting
+
+Incident Response
+* [PagerDuty](https://response.pagerduty.com/)
+* [Squadcast](https://squadcast.com/)
+
+DevSecOps
+* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
+
+ChatOps
+* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
+* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
+* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
+
+Chaos Engineering
+* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
+* [Gremlin](https://www.gremlin.com)
+* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
+
+<!--
+Netflix Suite
+Lynn Root's talks
+
+https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
+https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
+https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
+-->
 
 ## Useful Files
 
@@ -1402,382 +1777,6 @@ https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 -->
-
-
-## More DevOps
-
-Atlassian DevOps
-* [Atlassian DevOps](https://www.atlassian.com/devops)
-* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
-
-DevOps
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-
-DevOp Tools Landscapes
-* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
-
-How Companies Do DevOps
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-Ops Schools and DevOps Bootcamps
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-<!--
-Coursera DevOps Course
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
-
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
-https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-
-https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
-
-https://puppet.com/resources/whitepaper/state-of-devops-report
-
-https://devops.com
-
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
-
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
--->
-
-## CI/CD
-
-<!--
-https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
-
-https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
-https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
-https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
-https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
-
-https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
-
-https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
-
-https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
--->
-
-## GitLab
-
-GitLab- Notable Features
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-Tools and Landscapes
-* [About GitLab](https://about.gitlab.com/)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-
-<!--
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
-
-https://docs.gitlab.com/ee/install/README.html
-
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
-
-gitlab continuous integration and deployment
-https://www.youtube.com/watch?v=1iXFbchozdY
-https://docs.gitlab.com/ce/ci/
-https://docs.gitlab.com/ce/ci/quick_start/README.html
-https://docs.gitlab.com/ce/ci/environments.html
-https://docs.gitlab.com/ee/ci/autodeploy/index.html
-https://docs.gitlab.com/ee/integration/
-https://about.gitlab.com/features/gitlab-ci-cd/
-https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
-https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
-https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
-https://about.gitlab.com/2016/11/22/introducing-review-apps/
--->
-
-## Jez Humble
-
-<!--
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
-
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
--->
-
-## Networking and Security
-
-<!--
-https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
-https://www.begin.re/ | RE for Beginners | Reverse Engineering
-
-Reverse Engineering
-https://en.wikipedia.org/wiki/Reverse_engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-Hidden vulnerabilities of OS Software
-https://twitter.com/cra/status/1242580570451951619
-
-https://github.com/lawsecnet/pentesting-with-python
-
-Social Distancing Survival Guide
-https://twitter.com/Fox0x01/status/1238636233649250304
-https://twitter.com/Fox0x01/status/1238636236962779136
-https://github.com/gwen001/pentest-tools
--->
-
-## Software Design Tools
-
-<!--
-http://www.codingthearchitecture.com/2014/08/24/c4_model_poster.html
--->
-
-Robustness
-* [Robustness Principle Wikipedia](https://en.m.wikipedia.org/wiki/Robustness_principle)
-
-<!--
-Robustness Analysis
--->
-
-Pseudocode
-* [Pseudocode Wikipedia](https://en.wikipedia.org/wiki/Pseudocode)
-* [Khan Academy Pseudocode](https://www.khanacademy.org/computing/computer-programming/programming/good-practices/p/planning-with-pseudo-code)
-
-<!--
-https://twitter.com/kwuchu/status/982605457004081155 | Iheanyi Ekechukwu on Twitter: "Been coding for at least five years and I still write down a featurue's pseudocode before actual implementation. Helps me notice edge cases at times and also think about how to polish / refine the feature.… https://t.co/CKeOFevQnk"
-https://www.quora.com/What-is-the-best-strategy-to-understand-the-code-flow-and-design-of-production-code | (12) What is the best strategy to understand the code flow and design of production code? - Quora
-https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-state machine diagram
--->
-
-Unified Modeling Language
-* [Unified Modeling Language Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language)
-
-UML Books
-* [Craig Larman: Applying UML and Patterns: An Introduction to Object-oriented Analysis and Design and Iterative Development](https://www.amazon.com/Applying-UML-Patterns-Introduction-Object-oriented/dp/8177589792)
-* [Martin Fowler: UML Distilled: A Brief Guide to the Standard Object Modeling Language](https://www.amazon.com/UML-Distilled-Standard-Modeling-Language/dp/0321193687)
-
-<!--
-Three ways to use UML: sketch, blueprint, and programming language
-Most common: sketch
-Blueprints or sketch: forward-engineering or reverse-engineering direction
-"Forward engineering draws a UML diagram before you write code, while reverse engineering builds a UML diagram from existing code in order to help understand it."
-
-https://web.archive.org/web/20160101211006/http://c2.com/cgi/wiki
-Figure 1.3, a screen flow diagram
-
-Diagrams: page 10-13
-Table 1.1 Official Diagram Types of the UML
-Table 1.2 Decision Table
-waterfall vs. iterative
-Agile Software Development (http://agileManifesto.org). Examples are Extreme Programming (XP), Scrum, Feature Driven Development (FDD), Crystal, and DSDM (Dynamic Systems Development Method)
-Patterns books: [Gang of Four], [POSA1], [POSA2], [Core J2EE Patterns], [Pont], and with suitable immodesty [Fowler, AP] and [Fowler, P of EAA]. Patterns home page: http://www.hillside.net/patterns.
-
-Chapters 3 and 4 discuss the two most useful parts of the UML: class diagrams (core) and sequence diagrams
-
-Chapter 5
-class diagrams
-
-Chapters 6 through 8
-structure of a system: object diagrams, package diagrams, and deployment diagrams.
-
-Chapters 9 through 11 
-behavioral techniques: use cases, state diagrams (a.k.a. state machine diagrams), and activity diagrams
-
-https://www.amazon.com/Unified-Modeling-Language-Reference-paperback/dp/032171895X
--->
-
-<!--
-https://en.wikipedia.org/wiki/Platform-independent_model
-https://en.wikipedia.org/wiki/Executable_UML
-https://en.wikipedia.org/wiki/Rational_Unified_Process
-
-https://en.wikipedia.org/wiki/Class_diagram#/media/File:Uml_diagram2.png
-
-http://www.craiglarman.com/wiki/index.php?title=Book_Applying_UML_and_Patterns | Book Applying UML and Patterns - Craig Larman
--->
-
-UML Diagrams
-* [UML Diagrams Wikipedia](https://en.wikipedia.org/wiki/Unified_Modeling_Language#Diagrams)
-* [Use Case Diagram Wikipedia](https://en.wikipedia.org/wiki/Use_case_diagram)
-* [Class Diagram Wikipedia](https://en.wikipedia.org/wiki/Class_diagram)
-* [Sequence Diagram Wikipedia](https://en.wikipedia.org/wiki/Sequence_diagram)
-
-<!--
-https://twitter.com/KatiMichel/status/995797396461207553
-https://simpleit.rocks/generate-uml-class-diagrams-from-django-models/
-https://django-extensions.readthedocs.io/en/latest/graph_models.html
-http://pydotplus.readthedocs.io/
-http://www.graphviz.org/
-https://graphviz.gitlab.io/documentation/
-https://graphviz.gitlab.io/download/
--->
-
-Use Case Books
-* [Daryl Kulak, Eamonn Guiney: Use Cases: Requirements in Context](https://www.amazon.com/Use-Cases-Requirements-Context-2nd/dp/0321154983)
-
-TLA+
-* [TLA+ Wikipedia](https://en.wikipedia.org/wiki/TLA%2B)
-
-<!--
-https://conf.tlapl.us/home/
-https://lamport.azurewebsites.net/tla/toolbox.html
--->
-
-## Software Construction Tools
-
-<!--
-https://www.dabeaz.com/tla.html | An Introduction to TLA+
--->
-
-<!--
-UML
-https://en.wikipedia.org/wiki/Rational_Unified_Process | Rational Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Unified_Process | Unified Process - Wikipedia
-https://en.wikipedia.org/wiki/Agile_Unified_Process | Agile Unified Process - Wikipedia
-
-
-https://en.wikipedia.org/wiki/IDEF#/media/File:Typical_business_systems.jpg | Typical business systems - IDEF - Wikipedia
-
-Modeling
-* [Integration DEFinition (IDEF) Wikipedia](https://en.wikipedia.org/wiki/IDEF)
-
-https://en.wikipedia.org/wiki/Class-responsibility-collaboration_card | Class-responsibility-collaboration card - Wikipedia
--->
-
-<!--
-Software patterns and paradigms
-
-https://en.wikipedia.org/wiki/ICONIX | ICONIX - Wikipedia
-https://en.wikipedia.org/wiki/Oracle_Unified_Method | Oracle Unified Method - Wikipedia
-
-http://www-03.ibm.com/software/products/en/rosemod
-http://www-03.ibm.com/software/products/en/enterprise
-https://en.wikipedia.org/wiki/IBM_Rational_Rose_XDE
-https://en.wikipedia.org/wiki/Rational_Software
-
-Robustness Analysis
-https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-design/robustness-analysis
-Robustness Diagrams: An Agile Introduction
-http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
--->
-
-## X Driven Development
-
-Fear
-* [Fear Driven Development](https://speakerdeck.com/ryankennedy/fear-driven-development)
-
-Docs
-* [README Driven Development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
-* [Documentation Driven Development](https://opensource.com/article/17/8/doc-driven-development)
-* [Kenneth Reitz: Documentation is King](https://www.kennethreitz.org/documentation-is-king)
-* [Feature Driven Development](https://en.wikipedia.org/wiki/Feature-driven_development)
-
-Test Driven Development (TDD)
-* [Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development)
-* [Behavior Driven Development](https://en.wikipedia.org/wiki/Behavior-driven_development)
-* [Acceptance Test Driven Development Wikipedia](https://en.wikipedia.org/wiki/Acceptance_test-driven_development)
-* [Data Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Data-driven_testing)
-* [Continuous Test Driven Testing Wikipedia](https://en.wikipedia.org/wiki/Continuous_test-driven_development)
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-More Software Planning
-* [Model-Driven Architecture Wikipedia](https://en.wikipedia.org/wiki/Model-driven_architecture)
-* [Model-Driven Engineering Wikipedia](https://en.wikipedia.org/wiki/Model-driven_engineering)
-
-Event Paradigm
-* [Event Driven Programming Wikipedia](https://en.wikipedia.org/wiki/Event-driven_programming)
-
-<!--
-Driven
-http://blog.cleancoder.com/uncle-bob/2020/05/27/ReplDrivenDesign.html | Clean Coder Blog
-
-https://tech.findmypast.com/repository-driven-development/ | Repository Driven Development | Findmypast Tech
-https://medium.com/@paulosman/production-oriented-development-8ae05f8cc7ea | Production Oriented Development - Paul Osman - Medium
-https://trineo.com/blog/2020/01/constraint-driven-development | Constraint Driven Development | Trineo
-
-Driven Dev
-https://github.com/marcysutton/empathy-driven-development | marcysutton/empathy-driven-development: Demo app for a #noSlides talk at Uphill Conf, JSConf EU, and Smashing Conf Toronto
-https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-readme-driven-development-5fc64c7845db | A suggested approach for your next project: RDD — README Driven Development
-
-https://twitter.com/carltongibson/status/1259466017358647296 | Carlton Gibson 🇪🇺 on Twitter: "The older I get the more I think, optimise for the beginner’s use-case." / Twitter
-
-Discussions
-https://twitter.com/_tomchristie/status/1259781217685307392 | Tom Christie on Twitter: "Don't know when it'll land, but I'm *really* looking forward to @GitHub's "discussions" feature. Going to put up a nice big sign in front of issues directing users to the discussions tab as the starting point, and ensure that the maintenance team gets to decide what to escalate." / Twitter
-
-Maintainer driven issues and PRs
-https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
-https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
-
-* [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
-
-https://domainlanguage.com/ddd/reference/
-http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf | Microsoft Word - pdf version of final doc - Mar 2015.docx
-
-https://github.com/heynickc/awesome-ddd | heynickc/awesome-ddd: A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
-https://martinfowler.com/tags/domain%20driven%20design.html | domain driven design
-https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
--->
-
-## Other Interesting
-
-Incident Response
-* [PagerDuty](https://response.pagerduty.com/)
-* [Squadcast](https://squadcast.com/)
-
-DevSecOps
-* [RedHat: "What is DevSecOps?](https://www.redhat.com/en/topics/devops/what-is-devsecops)
-
-ChatOps
-* [Heroku: ChatOps](https://devcenter.heroku.com/articles/chatops)
-* [PagerDuty: "What is ChatOps? And How do I Get Started?"](https://www.pagerduty.com/blog/what-is-chatops/)
-* [Atlassian: "What is ChatOps? A guide to its evolution, adoption, and significance"](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide)
-
-Chaos Engineering
-* [Chaos Engineering Wikipedia](https://en.wikipedia.org/wiki/Chaos_engineering) and [Principles of Chaos Engineering](http://principlesofchaos.org)
-* [Gremlin](https://www.gremlin.com)
-* [Netflix Chaos Engineering Suite](https://en.wikipedia.org/wiki/Chaos_engineering#Perturbation_models)
-
-<!--
-Netflix Suite
-Lynn Root's talks
-
-https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
-https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
-https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
--->
-
 
 ## Authority Figures and Books
 
