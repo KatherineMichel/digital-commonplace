@@ -1477,6 +1477,7 @@ https://github.com/pyodide/pyodide/blob/89682dabfe32cb9f6508a18a5e838e349801675a
 https://twitter.com/DynamicWebPaige/status/1454250209387577348 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "Reading source is a healthy reminder that our entire Python OSS world is built out of LEGO by a scrappy contingent of brilliant, resourceful humans: https://t.co/EV0CHVZQOk "distutils has no cross-compilation story. This is a hack, which miraculously works, to get around that." https://t.co/W9udcIm8YA" / Twitter
 
 Pyodide, WebAssembly
+https://the-algorithms.com/ | The Algorithms
 https://twitter.com/DynamicWebPaige/status/1452863201125625862 | 👩‍💻 Paige Bailey #BlackLivesMatter on Twitter: "🤔Oh, interesting! TIL that https://t.co/2aJizm5TLk, @Github's largest open-source algorithms library, lists the #Pyodide project as a dependency for its Python code samples (Pyodide = the Python data science stack in the browser, powered by WebAssembly). https://t.co/vO20DZXXXl https://t.co/loPOQpU5oe" / Twitter
 https://github.com/TheAlgorithms/website/tree/8a0c439788c54b64ced9c468d56ec43a5d7b140e | TheAlgorithms/website at 8a0c439788c54b64ced9c468d56ec43a5d7b140e
 
