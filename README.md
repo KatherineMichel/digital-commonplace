@@ -168,8 +168,11 @@ Interesting
 https://twitter.com/patrickc/status/1404217558266351617 | Patrick Collison on Twitter: "Dang's principles for online forums are quite interesting. • Curiosity withers under repetition. • Generic discussion is not interesting. • We want reflective rather than reflexive conversation. • Diffs are what make a conversation interesting. https://t.co/GLIUk4WCJc" / Twitter
 
 
-
 https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
+
+
+https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
+https://jvns.ca/blog/good-questions/ | How to ask good questions
 
 Important
 https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
@@ -179,7 +182,12 @@ https://gist.github.com/ | Create a new Gist
 -->
 
 
+
 <!--
+https://www.mindtools.com/ | Management Training and Leadership Training - Online
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+
+
 Idea
 https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
 https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
@@ -229,9 +237,6 @@ http://www.catb.org/~esr/faqs/hacker-howto.html
 
 https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
-
-https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
-https://jvns.ca/blog/good-questions/ | How to ask good questions
 
 
 https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
