@@ -72,9 +72,6 @@ https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train
 Learning how to learn
 https://twitter.com/Fox0x01/status/1238636236962779136
 
-Sarah
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
 https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
 http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
 
@@ -148,6 +145,9 @@ Technology radar
 https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
+
+Sarah
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
 
 
 ## Design Principles
@@ -265,14 +265,6 @@ https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-the
 
 
 
-Important
-https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1 | Structure and Interpretation of Computer Programs | The MIT Press
-
-## Programming Paradigms
-
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-
 ## Refactoring and Patterns
 
 https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
@@ -295,6 +287,11 @@ http://highscalability.com/all-time-favorites/ | All Time Favorites -
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 
+## Books
+
+Important
+https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1 | Structure and Interpretation of Computer Programs | The MIT Press
+
 Interesting
 https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
 
@@ -305,6 +302,7 @@ https://twitter.com/carltongibson/status/1375056592572403718 | (1) Carlton Gibso
 https://twitter.com/dabeaz/status/1372644031654682625/photo/1 | Latest Tweets / Twitter
 
 Software Fundamentals: Collected Papers from David Parnas - Google Search
+
 
 https://computationalthinking.mit.edu/Fall20/
 
@@ -319,6 +317,12 @@ https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.ht
 
 http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
 https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+
+## Programming Paradigms
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 -->
 
 
@@ -890,8 +894,6 @@ Checklists and Cheat Sheets
 
 <!--
 https://github.com/ittus/Refactoring-summary-2nd-javascript
-
-https://martinfowler.com/eaaCatalog/ | Catalog of Patterns of Enterprise Application Architecture
 
 https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
 
