@@ -180,10 +180,116 @@ https://gist.github.com/ | Create a new Gist
 
 
 <!--
+Idea
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+https://twitter.com/jennleaver/status/1448137494445260800 | Jenn Leaver on Twitter: "Hey-o! My talk on docs leadership for #WriteTheDocs Prague is up! If you’re new to docs leadership or interested in learning about how I approach this work, check it out 😻 If you have questions or feedback, DMs are open! https://t.co/X0IfKbfDbN" / Twitter
+
+Wharton
+http://www.susannaberkouwer.com/files/theme/LowandBerkouwer-Inclusionchecklist.pdf | LowandBerkouwer-Inclusionchecklist.pdf
+https://twitter.com/BerkouwerS/status/1437514447229112321 | Susanna Berkouwer on Twitter: "1/4 Proud that @Wharton has adopted the "Course Checklist for Diversity, Equity, and Inclusion" that @femonomics and I put together! Even prouder that it is listed on the resources page as the "Low-Berkouwer checklist"☑️ It's available here: https://t.co/2MzJTT8jl1 Some notes:" / Twitter
+
+Postmortems
+https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
+
+
+Time Zones, Postal Codes
+
+https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
+
+https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
+http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+
+https://www.timeanddate.com/time/map/
+https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
+
+https://en.wikipedia.org/wiki/Postal_code
+https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
+
+
+Web browser
+https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
+https://browser.engineering/ | Web Browser Engineering
+
+
+NASA says Category Theory is the “Mathematical Basis of Systems Engineering.”
+https://twitter.com/cbarrett/status/1475620079987474432 | https://twitter.com/cbarrett/status/1475620079987474432
+https://www.nasa.gov/consortium/CategoryTheory/
+https://en.wikipedia.org/wiki/Category_theory | Category theory - Wikipedia
+
+https://github.com/dwmkerr/hacker-laws
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+https://github.com/webpro/programming-principles
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+
+https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
+https://jvns.ca/blog/good-questions/ | How to ask good questions
+
+
+https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+
+Interesting
+https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
+
+
+
+https://book.systemsapproach.org/ | Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation
+
+https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
+
+https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
+
+https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+
+
+
+Important
+https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1 | Structure and Interpretation of Computer Programs | The MIT Press
+
+## Programming Paradigms
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+
+## Refactoring and Patterns
+
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+https://www.martinfowler.com/ | martinfowler.com
+https://martinfowler.com/architecture/ | Software Architecture Guide
+
+## Event
+
+https://www.eventcatalog.dev/ | EventCatalog: Discover, Explore and Document your Event Driven Architectures. | EventCatalog
+
+## Architecture
+
+Scalability
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
 Interesting
 https://htdp.org/2018-01-06/Book/ | How to Design Programs, Second Edition
 
 Software Design for Flexility
+https://www.amazon.com/dp/0262045494/?asin=0262045494&revisionId=&format=4&depth=1 | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 https://mitpress.mit.edu/books/software-design-flexibility | Software Design for Flexibility | The MIT Press
 https://twitter.com/carltongibson/status/1375056592572403718 | (1) Carlton Gibson 🇪🇺 on Twitter: "Oh yes. 🧐 https://t.co/xbnBBMBJPx" / Twitter
 https://twitter.com/dabeaz/status/1372644031654682625/photo/1 | Latest Tweets / Twitter
@@ -197,35 +303,12 @@ https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter:
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 
 
-
 TLA+
 https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
 https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
 
 http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
 https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
-
-https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
-
-
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://github.com/webpro/programming-principles
-
-https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
-
-https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
-
-https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
 -->
 
 
