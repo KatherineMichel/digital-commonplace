@@ -1,6 +1,45 @@
 # Keeping Tabs
 
 <!--
+PyTexas schedule
+
+Tim
+https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
+
+Leetcode
+https://leetcode.com/
+
+https://github.com/KatherineMichel/organizations
+
+High Scalability
+http://highscalability.com/start-here/
+http://highscalability.com/all-time-favorites/
+http://highscalability.com/blog/category/example
+
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre
+
+Boost Your Django DX
+Speed Up Your Django Tests
+
+Beyond the Basic Stuff with Python
+https://inventwithpython.com/beyond/
+
+Software Design for Flexibility
+file:///Users/katherinemichel/Downloads/Software%20Design%20for%20Flexibility%20How%20to%20Avoid%20Programming%20Yourself%20into%20a%20Corner%20by%20Chris%20Hanson%20Gerald%20Jay%20Sussman%20(z-lib.org).pdf
+https://github.com/jeffhhk/SoftwareDesignForFlexibility
+Structure and Interpretation of Computer Programs, JavaScript Edition
+https://sicp.sourceacademy.org/sicpjs.pdf
+How to Design Programs
+https://htdp.org/2018-01-06/Book/
+
+https://basecamp.com/shapeup/webbook
+https://basecamp.com/gettingreal
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+
+
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
 https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
