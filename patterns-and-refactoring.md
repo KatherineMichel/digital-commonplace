@@ -1,6 +1,9 @@
 # Patterns and Refactoring
 
 <!--
+https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
+https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+
 Patterns
 http://www.hillside.net/patterns/patterns-catalog
 http://django.wikispaces.asu.edu/Observer+Design+Pattern
@@ -26,9 +29,6 @@ Concepts
 
 <!--
 https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
-https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
 http://users.ece.utexas.edu/~adnan/pike.html
 -->
