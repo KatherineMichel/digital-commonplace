@@ -267,8 +267,6 @@ https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-the
 
 ## Refactoring and Patterns
 
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-
 https://refactoring.guru/design-patterns/ | Design Patterns
 
 https://www.martinfowler.com/ | martinfowler.com
@@ -823,6 +821,7 @@ Video 5, 13:25 Recap
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 -->
 
+
 ## Jargon, Algorithms, and Patterns
 
 JavaScript Patterns
@@ -909,13 +908,6 @@ https://martinfowler.com/articles/collection-pipeline/
 
 ## Patterns
 
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Python Patterns
-* [Brandon Rhodes: Python Patterns Guide](https://python-patterns.guide/)
-* [Python Patterns](https://github.com/faif/python-patterns/)
 
 <!--
 https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
@@ -1048,17 +1040,16 @@ https://github.com/lorin/systems-thinking
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
 
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-
 https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
 
 Sys Admin
 https://github.com/trimstray/sysadmin-interview-questions
 https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
 
 http://rob.conery.io/2016/07/04/imposters-handbook/
 https://bigmachine.io/imposter/
