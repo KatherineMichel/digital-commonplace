@@ -1,15 +1,6 @@
 # Tools- Python and Django Small Project Links
 
 <!--
-Farming versus mining
-Iteration
-https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
-
-Mariatta: Automation
-https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
-https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
-
-
 ## Charlie
 
 Book
@@ -28,16 +19,6 @@ https://github.com/charliegerard | charliegerard (Charlie)
 https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
 
 
-## Sarah
-
-Netlify
-https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
-https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
-
-Developer experience
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
-
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
 https://codepen.io/collection/nMgKxJ
 
@@ -46,17 +27,6 @@ https://github.com/sdras/night-owl-vscode-theme
 Chrome Extension
 https://github.com/sdras/productive-twitter/
 https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
-
-https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
-https://sarah.dev/writing/ | Sarah Drasner's Site
-
-Career ladders
-https://career-ladders.dev/
-https://css-tricks.com/the-importance-of-career-laddering/
-https://www.engmanagement.dev/the-value-of-values
-https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
-https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
-https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
 
 Articles
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
@@ -111,17 +81,6 @@ https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon
 
 https://github.com/jefftriplett/djobs | jefftriplett/djobs
 https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
-
-
-## PAGNI and YAGNI
-
-PAGNI
-https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
-https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
-https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitter: "@jacobian Auto-escaping definitely fits the bill as one of those things which is essentially free to implement at the start of a project but a right pain to add in a few years down the line" / Twitter
-
-YAGNI
-https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
 
 
 ## Simon
