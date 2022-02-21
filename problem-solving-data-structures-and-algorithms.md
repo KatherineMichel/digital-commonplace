@@ -8,6 +8,7 @@ https://docs.python.org/3/library/stdtypes.html?highlight=range#ranges
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
 -->
 
+
 ## Coding Practice
 
 Math/Programming Problems and Projects
@@ -57,28 +58,6 @@ https://training.talkpython.fm/courses/explore_100days_in_python/100-days-of-cod
 https://github.com/talkpython/100daysofcode-with-python-course | talkpython/100daysofcode-with-python-course: Course materials and handouts for #100DaysOfCode in Python course
 -->
 
-## Famous
-
-<!--
-https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
-Secretary Problem
-
-
-http://oeis.org/wiki/Welcome#Some_Famous_Sequences
-
-https://en.wikipedia.org/wiki/List_of_numbers
-https://en.wikipedia.org/wiki/List_of_mathematical_constants
-https://en.wikipedia.org/wiki/List_of_types_of_numbers
-https://en.wikipedia.org/wiki/List_of_numeral_systems
-
-https://en.wikipedia.org/wiki/Relationships_among_probability_distributions	
-https://en.wikipedia.org/wiki/Special_functions | Special functions - Wikipedia
-
-https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions | Digital Library of Mathematical Functions - Wikipedia
-https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
-http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255 | NIST Handbook of Mathematical Functions Hardback and CD-ROM - Cambridge University Press
-https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wikipedia
--->
 
 ## Problem Solving
 
@@ -105,6 +84,9 @@ https://www.geeksforgeeks.org/solve-dynamic-programming-problem/ | How to solve 
 https://towardsdatascience.com/solving-problems-with-dynamic-programming-ea4a872dae61 | Solving Problems With Dynamic Programming – Towards Data Science
 -->
 
+
+## Coding Interviews
+
 <!--
 http://www.crackingthecodinginterview.com/ | CRACKING the CODING INTERVIEW - Home
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=RPDD64FQ720GHKKE0PMF
@@ -117,22 +99,15 @@ https://www.amazon.com/Elements-Programming-Interviews-Insiders-Guide/dp/1479274
 https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ | Practice for cracking any coding interview - GeeksforGeeks
 -->
 
+
 ## Algorithms- Books 
  
 James Damore Coding Competition Books
 * [James Damore Tweet](https://twitter.com/JamesADamore/status/916364062103027712)
 * [Algorithmic Puzzles by Anany V. and Maria Levitin](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
 
+Famous Book
 * [The Algorithm Design Manual by Steven S. Skiena](https://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202)
-* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
-
-<!--
-http://www.algorist.com/languages/Python.html
-http://www.algorist.com/languages/JavaScript.html
-
-The Algorithm Design Manual
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
--->
 
 More Algorithms Books- Python
 * [Data Structures and Algorithms in Python (Goodrich, Tamassia, Goldwasser)](https://www.amazon.com/Structures-Algorithms-Python-Michael-Goodrich/dp/1118290275)
@@ -146,32 +121,21 @@ http://adit.io/errata.html
 https://www.manning.com/books/grokking-algorithms
 -->
 
-## Algorithms
+## Algorithm Dictionaries and Libraries
 
-Algorithms
-* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
-
-Lists of Algorithms
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+Famous Book- Additional Resources
+* [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
 
 <!--
-https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+http://www.algorist.com/languages/Python.html
+http://www.algorist.com/languages/JavaScript.html
 
-Algorithm implementations	
-https://en.wikibooks.org/wiki/Algorithm_Implementation
-
-https://en.wikipedia.org/wiki/Category:Algorithms
-
-https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+The Algorithm Design Manual
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
 -->
 
-## Algorithms and Data Structures
 
-* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
 
-<!--
-https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
--->
 
 ## Algorithmic Dictionaries and Libraries
 
@@ -230,6 +194,64 @@ Code challenges
 https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
 https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to know to get the job.
 -->
+
+
+
+<!--
+## Famous
+
+
+https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
+Secretary Problem
+
+
+http://oeis.org/wiki/Welcome#Some_Famous_Sequences
+
+https://en.wikipedia.org/wiki/List_of_numbers
+https://en.wikipedia.org/wiki/List_of_mathematical_constants
+https://en.wikipedia.org/wiki/List_of_types_of_numbers
+https://en.wikipedia.org/wiki/List_of_numeral_systems
+
+https://en.wikipedia.org/wiki/Relationships_among_probability_distributions	
+https://en.wikipedia.org/wiki/Special_functions | Special functions - Wikipedia
+
+https://en.wikipedia.org/wiki/Digital_Library_of_Mathematical_Functions | Digital Library of Mathematical Functions - Wikipedia
+https://dlmf.nist.gov/ | DLMF: NIST Digital Library of Mathematical Functions
+http://www.cambridge.org/catalogue/catalogue.asp?isbn=9780521192255 | NIST Handbook of Mathematical Functions Hardback and CD-ROM - Cambridge University Press
+https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wikipedia
+-->
+
+
+
+## Algorithms
+
+Algorithms
+* [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
+
+Lists of Algorithms
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
+
+<!--
+https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
+
+Algorithm implementations	
+https://en.wikibooks.org/wiki/Algorithm_Implementation
+
+https://en.wikipedia.org/wiki/Category:Algorithms
+
+https://www.geeksforgeeks.org/fundamentals-of-algorithms/
+-->
+
+## Algorithms and Data Structures
+
+* [List of Terms Relating to Algorithms and Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_terms_relating_to_algorithms_and_data_structures)
+
+<!--
+https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
+-->
+
+
+
 
 ## Data
 
