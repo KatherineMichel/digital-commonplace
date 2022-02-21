@@ -289,7 +289,10 @@ https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.
 
 ## Books
 
-Important
+SICP
+https://xuanji.appspot.com/isicp/ | Interactive SICP
+https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
+https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
 https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1 | Structure and Interpretation of Computer Programs | The MIT Press
 
 Interesting
