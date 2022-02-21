@@ -92,6 +92,11 @@ https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
 https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
 
 
+Mariatta: Automation
+https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
+https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
+
+
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 http://talks.edunham.net/ | Index of /
@@ -146,10 +151,6 @@ https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
 https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
 
 
-Sarah
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-
 ## Design Principles
 
 Games with a Purpose
@@ -175,8 +176,118 @@ https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_s
 -->
 
 
+<!--
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+
+PyTexas schedule
+
+https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
+https://speakerdeck.com/flipperpa/introspective-restful-apis-with-postgres-and-django
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+APIs
+
+http://www.w3schools.com/sql/default.asp
+
+http://graphql.org/
+
+
+Leetcode
+https://leetcode.com/
+
+
+Algos
+https://www.algorist.com/ | The Algorithm Design Manual
+
+Algos
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+Python Patterns
+https://python-patterns.guide/
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+https://refactoring.com/catalog/
+https://martinfowler.com/eaaCatalog/
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+
+https://github.com/KatherineMichel/organizations
+
+High Scalability
+http://highscalability.com/start-here/
+http://highscalability.com/all-time-favorites/
+http://highscalability.com/blog/category/example
+
+TLA+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://landing.google.com/sre/books
+
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+Boost Your Django DX
+Speed Up Your Django Tests
+
+Beyond the Basic Stuff with Python
+https://inventwithpython.com/beyond/
+
+Software Design for Flexibility
+file:///Users/katherinemichel/Downloads/Software%20Design%20for%20Flexibility%20How%20to%20Avoid%20Programming%20Yourself%20into%20a%20Corner%20by%20Chris%20Hanson%20Gerald%20Jay%20Sussman%20(z-lib.org).pdf
+https://github.com/jeffhhk/SoftwareDesignForFlexibility
+Structure and Interpretation of Computer Programs, JavaScript Edition
+https://sicp.sourceacademy.org/sicpjs.pdf
+How to Design Programs
+https://htdp.org/2018-01-06/Book/
+
+https://basecamp.com/shapeup/webbook
+https://basecamp.com/gettingreal
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+-->
+
 
 <!--
+## Sarah
+
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
+https://sarah.dev/writing/ | Sarah Drasner's Site
+
+Career ladders
+https://career-ladders.dev/
+https://css-tricks.com/the-importance-of-career-laddering/
+https://www.engmanagement.dev/the-value-of-values
+https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
+https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
+https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
+
+Developer experience
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+
+
+
 https://www.mindtools.com/ | Management Training and Leadership Training - Online
 https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
 
@@ -194,6 +305,38 @@ https://stackoverflow.com/help/minimal-reproducible-example | How to create a Mi
 https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
+
+
+https://github.com/dwmkerr/hacker-laws
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+https://github.com/webpro/programming-principles
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+
+
+Interesting
+https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
+
+
+## PAGNI and YAGNI
+
+PAGNI
+https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
+https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
+https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitter: "@jacobian Auto-escaping definitely fits the bill as one of those things which is essentially free to implement at the start of a project but a right pain to add in a few years down the line" / Twitter
+
+YAGNI
+https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
 
 
 Time Zones, Postal Codes
@@ -223,46 +366,27 @@ https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twi
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 
+## System and Architecture
+
 NASA says Category Theory is the “Mathematical Basis of Systems Engineering.”
 https://twitter.com/cbarrett/status/1475620079987474432 | https://twitter.com/cbarrett/status/1475620079987474432
 https://www.nasa.gov/consortium/CategoryTheory/
 https://en.wikipedia.org/wiki/Category_theory | Category theory - Wikipedia
 
-
-https://github.com/dwmkerr/hacker-laws
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-https://github.com/webpro/programming-principles
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+https://book.systemsapproach.org/ | Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation
 
 https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
-
-
-Interesting
-https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
-
-
-https://book.systemsapproach.org/ | Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation
 
 https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
 
 https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
 
+
+## Programming Language Constructs
+
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
-
 
 
 ## Refactoring and Patterns
@@ -739,6 +863,10 @@ https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. 
 Sarah
 https://vuejs.org/v2/guide/ | Introduction — Vue.js
 https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Netlify
+https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
 
 Next
 https://nextjs.org/showcase | Showcase | Next.js
