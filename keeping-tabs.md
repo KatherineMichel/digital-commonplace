@@ -1,14 +1,24 @@
 # Keeping Tabs
 
 <!--
+APIs
+
 PyTexas schedule
 
 https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
 
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
+APIs
+
+http://www.w3schools.com/sql/default.asp
+
+http://graphql.org/
+
+
 Leetcode
 https://leetcode.com/
+
 
 Algos
 https://www.algorist.com/ | The Algorithm Design Manual
@@ -29,12 +39,17 @@ https://martinfowler.com/eaaCatalog/
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
 
+
 https://github.com/KatherineMichel/organizations
 
 High Scalability
 http://highscalability.com/start-here/
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/category/example
+
+TLA+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 
 https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
 https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
