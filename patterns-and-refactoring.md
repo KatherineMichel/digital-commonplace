@@ -4,11 +4,6 @@
 Patterns
 http://www.hillside.net/patterns/patterns-catalog
 http://django.wikispaces.asu.edu/Observer+Design+Pattern
-
-SICP
-https://xuanji.appspot.com/isicp/ | Interactive SICP
-https://opendocs.github.io/sicp/sicp.pdf | Structure and Interpretation of Computer Programs, 2nd ed.
-https://mitpress.mit.edu/sites/default/files/sicp/index.html | Welcome to the SICP Web Site
 -->
 
 ## Programming Languages
