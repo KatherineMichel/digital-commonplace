@@ -3,8 +3,9 @@
 <!--
 PyTexas schedule
 
-Tim
 https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
 Leetcode
 https://leetcode.com/
@@ -14,6 +15,7 @@ https://www.algorist.com/ | The Algorithm Design Manual
 
 Algos
 https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 Python Patterns
@@ -41,6 +43,11 @@ https://landing.google.com/sre/books
 
 https://github.com/abhivaikar/howtheytest
 https://github.com/upgundecha/howtheysre
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
 
 Boost Your Django DX
 Speed Up Your Django Tests
