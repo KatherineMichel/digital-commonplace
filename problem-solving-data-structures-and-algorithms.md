@@ -128,11 +128,18 @@ Famous Book- Additional Resources
 * [The Algorithm Design Manual Website](http://www.algorist.com) and [The Algorithm Design Manual Algorithm Repository](http://www.algorist.com/algorist.html)
 
 <!--
+https://www.algorist.com/ | The Algorithm Design Manual
 http://www.algorist.com/languages/Python.html
 http://www.algorist.com/languages/JavaScript.html
 
 The Algorithm Design Manual
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.4772&rep=rep1&type=pdf | download
+
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://github.com/trekhleb/javascript-algorithms | trekhleb/javascript-algorithms: 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 -->
 
 
