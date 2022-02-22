@@ -98,6 +98,15 @@ https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ 
 Releases
 https://github.com/simonw/simonw/blob/main/releases.md | simonw/releases.md at main · simonw/simonw
 
+Baked Data Pattern
+https://twitter.com/pydanny/status/1420632669302366212 | https://twitter.com/pydanny/status/1420632669302366212
+https://simonwillison.net/2021/Jul/28/baked-data/ | The Baked Data architectural pattern
+Baked Data
+https://twitter.com/simonw/status/1437635617324605440 | Simon Willison on Twitter: "Here's a fun new Baked Data example: the https://t.co/WMWqQhdQyC page that promotes my new Datasette Desktop application needed a download button that automatically linked to the most recently released version..." / Twitter
+
+https://twitter.com/jacobian/status/1217844436748701700 | jacobian on Twitter: "Much of my time over the last year has been spent building demos, prototypes, or MVPs. People often use these terms interchangeably, but they're not the same thing! I wrote about what I mean when I use each of these terms: https://t.co/6vaLviCsNJ" / Twitter
+https://twitter.com/simonw/status/1217900599716352000 | Simon Willison on Twitter: "I really like a Jacob's distinction between a demo which illustrates a concept to a customer and a prototype which is internally facing and proves that something can be built https://t.co/4lgo0dEp7g" / Twitter
+
 ## Show running
 
 http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf | 11 laws of showrunning NICE VERSION
@@ -258,6 +267,7 @@ https://github.com/simonw/simonw | simonw/simonw: https://simonwillison.net/2020
 https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
 https://github.com/simonw/simonwillisonblog-backup | simonw/simonwillisonblog-backup: Backups of the database for simonwillison.net
 
+
 TIL
 https://github.com/simonw/til | simonw/til: Today I Learned
 https://github.com/simonw/til/blob/main/build_database.py | til/build_database.py at main · simonw/til
@@ -265,6 +275,7 @@ https://github.com/simonw/til/issues/25 | Downloading the previous database file
 
 Self-rewriting README
 https://github.com/simonw/simonw/blob/main/build_readme.py | simonw/build_readme.py at main · simonw/simonw
+
 
 Django SQL Dashboard
 https://github.com/simonw/django-sql-dashboard | simonw/django-sql-dashboard: Django app for building dashboards using raw SQL queries
@@ -285,15 +296,16 @@ https://github.com/dogsheep/twitter-to-sqlite | dogsheep/twitter-to-sqlite: Save
 https://github.com/dogsheep/twitter-to-sqlite#how-to-install | dogsheep/twitter-to-sqlite: Save data from Twitter to a SQLite database
 https://github.com/dogsheep/twitter-to-sqlite/blob/master/README.md#retrieving-your-mentions | twitter-to-sqlite/README.md at master · dogsheep/twitter-to-sqlite
 
-Datasette GraphQL Plugin
-https://github.com/simonw/datasette-graphql | simonw/datasette-graphql: A GraphQL endpoint for Datasette
-https://twitter.com/simonw/status/1291591436735926274 | Simon Willison on Twitter: "GraphQL in Datasette with the new datasette-graphql plugin (also my weeknotes) https://t.co/tUD4TZoJas" / Twitter
-https://twitter.com/simonw/status/1297677574219341824 | Simon Willison on Twitter: "Released version 1.0 of datasette-graphql, my Datasette plugin for adding a GraphQL interface on top of any SQLite database https://t.co/qGOsqd3lHL" / Twitter
-
 More Dogsheep Tools
 https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
 https://github.com/dogsheep/hacker-news-to-sqlite | dogsheep/hacker-news-to-sqlite: Create a SQLite database containing data pulled from Hacker News
 https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
+
+
+Datasette GraphQL Plugin
+https://github.com/simonw/datasette-graphql | simonw/datasette-graphql: A GraphQL endpoint for Datasette
+https://twitter.com/simonw/status/1291591436735926274 | Simon Willison on Twitter: "GraphQL in Datasette with the new datasette-graphql plugin (also my weeknotes) https://t.co/tUD4TZoJas" / Twitter
+https://twitter.com/simonw/status/1297677574219341824 | Simon Willison on Twitter: "Released version 1.0 of datasette-graphql, my Datasette plugin for adding a GraphQL interface on top of any SQLite database https://t.co/qGOsqd3lHL" / Twitter
 
 Datasette
 https://github.com/simonw/datasette | simonw/datasette: An open source multi-tool for exploring and publishing data
