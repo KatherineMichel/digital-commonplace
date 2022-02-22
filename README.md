@@ -181,6 +181,15 @@ Farming versus mining
 Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
+Great examples
+Twitter
+https://glitch.com/@simonw | Simon Willison
+https://github.com/simonw
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+https://simonwillison.net/2021/Jul/17/standing-out/
+
+https://github.com/hynek
+https://github.com/pganssle
 
 PyTexas schedule
 
@@ -210,6 +219,7 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 Python Patterns
 https://python-patterns.guide/
+https://github.com/kamranahmedse/design-patterns-for-humans
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 
