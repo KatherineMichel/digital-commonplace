@@ -283,6 +283,7 @@ https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
 
 https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
 https://sarah.dev/writing/ | Sarah Drasner's Site
+https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
 
 Career ladders
 https://career-ladders.dev/
