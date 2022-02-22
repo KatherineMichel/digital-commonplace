@@ -95,22 +95,34 @@ https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ 
 
 ## Simon
 
-Show running
+Releases
+https://github.com/simonw/simonw/blob/main/releases.md | simonw/releases.md at main · simonw/simonw
+
+## Show running
+
 http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf | 11 laws of showrunning NICE VERSION
 https://twitter.com/simonw/status/1490083623587876865 | https://twitter.com/simonw/status/1490083623587876865
 https://twitter.com/simonw/status/1490087121360617472 | Simon Willison on Twitter: "Here's a longer version of the Twitter thread I linked to above" / Twitter
 
-## Great Examples
+## Documentation
 
-How to build, test, and publish an open source Python library
-https://twitter.com/simonw/status/1456383020756189212 | https://twitter.com/simonw/status/1456383020756189212
-https://twitter.com/simonw/status/1457508794817146885 | (1) Simon Willison on Twitter: "@gjbernat @_ScottCondron I recorded the video before that setup. py article was published, so I correct that in the accompanying write-up here https://t.co/Xn1OeOo9t0" / Twitter
-https://twitter.com/_ScottCondron/status/1457270492407140354 | Scott Condron on Twitter: "How to build, test and publish a Python package by @simonw This video goes from creating a Python package ➡️ publishing it to PyPI so it’s pip installable ➡️ automating tests and publishing using GitHub Actions. https://t.co/yMO2wrXXpv Documented here: https://t.co/pWubEYkJnz" / Twitter
+Promoting the stable version of the documentation using rel=canonical
+https://til.simonwillison.net/readthedocs/documentation-seo-canonical
+https://twitter.com/simonw/status/1484306978843160576 | https://twitter.com/simonw/status/1484306978843160576
+https://twitter.com/simonw/status/184287724773203971 | https://twitter.com/simonw/status/1484287724773203971
+
+## Doc Unit Tests
+
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+## Building a new feature
 
 Talk
 https://twitter.com/simonw/status/1300193439573708800
 
-Building a new feature
 https://twitter.com/simonw/status/1481328382755282947 | Simon Willison on Twitter: "Wrote up a detailed blog entry about my process for building a new feature: issue, tests, implementation, documentation all bundled together in a single commit - then a release with release notes https://t.co/rCWvcdJozr" / Twitter
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
 https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
@@ -123,16 +135,46 @@ https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitte
 
 https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
 
-Doc Unit Tests
-https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
-http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
-https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
-https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+## How to build, test, and publish an open source Python library
+
+How to build, test, and publish an open source Python library
+https://twitter.com/simonw/status/1456383020756189212 | https://twitter.com/simonw/status/1456383020756189212
+https://twitter.com/simonw/status/1457508794817146885 | (1) Simon Willison on Twitter: "@gjbernat @_ScottCondron I recorded the video before that setup. py article was published, so I correct that in the accompanying write-up here https://t.co/Xn1OeOo9t0" / Twitter
+https://twitter.com/_ScottCondron/status/1457270492407140354 | Scott Condron on Twitter: "How to build, test and publish a Python package by @simonw This video goes from creating a Python package ➡️ publishing it to PyPI so it’s pip installable ➡️ automating tests and publishing using GitHub Actions. https://t.co/yMO2wrXXpv Documented here: https://t.co/pWubEYkJnz" / Twitter
+
+https://til.simonwillison.net/homebrew/packaging-python-cli-for-homebrew | Packaging a Python CLI tool for Homebrew | Simon Willison’s TILs
+https://twitter.com/wuoulf/status/1492813061497008129 | Wolf Vollprecht on Twitter: "@willmcgugan @simonw You should try packaging on @condaforge, too – it'll work across Win, macOS and Linux right away." / Twitter
+
+## Scraping
+
+Git scraping and Datasette workshop
+https://twitter.com/simonw/status/1456825994199789571 | https://twitter.com/simonw/status/1456825994199789571
+
+Git scraping: track changes over time by scraping to a Git repository
+https://simonwillison.net/2020/Oct/9/git-scraping/
+https://twitter.com/simonw/status/1314654153646383104
+https://twitter.com/alexsoble/status/1489728492686098435 | https://twitter.com/alexsoble/status/1489728492686098435
+
+My latest big project is git-history: a tool for analyzing scraped data collected using Git and SQLite
+https://twitter.com/simonw/status/1468348488379367426 | https://twitter.com/simonw/status/1468348488379367426
+
+## Scraping Workshops and Talks
+
+Git scraping and Datasette
+https://twitter.com/simonw/status/1456825994199789571 | Simon Willison on Twitter: "I'm presenting a workshop next week about Git scraping and Datasette - I'll be showing how to build a scraper using GitHub Actions and how to publish the resulting scraped data as a website and accompanying API using Datasette" / Twitter
+
+https://twitter.com/simonw/status/1367632117127995393 | Simon Willison on Twitter: "Here's the 5 minute lightning talk about Git scraping I presented at #NICAR21 today - in the video I live-code a new scraper for the CDC's state-by-state vaccination numbers https://t.co/9Tn8MSSkRQ" / Twitter
+
+
 
 
 ## Personal Data Warehouse
 
 https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit | Building a personal data warehouse in Snowflake for fun and no profit. — Thomas Dziedzic
+
+https://next.github.com/speakerseries/SimonWillison/
+https://twitter.com/simonw/status/1326939521817047040 | https://twitter.com/simonw/status/1326939521817047040
+https://quaran.to/data-export-or-die-4387f773d8d34a99b2f5bbe8e4d554a6 | Data export, or die
 
 Personal Data Warehouse
 https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
@@ -154,6 +196,11 @@ https://twitter.com/simonw/status/1286098770652930048 | Simon Willison on Twitte
 https://www.youtube.com/watch?v=lmP75mp3-Rg | How to Instantly Publish Data to the Internet with Datasette | Simon Willison @ PyBay2018 - YouTube
 https://twitter.com/simonw/status/1315715789471670274 | Simon Willison on Twitter: "Notes, links and notebook from my #JupyterCon2020 session on Datasette and sqlite-utils this morning: https://t.co/3y2rLcS7qn - I live-coded a SQLite database containing earthquakes from last week using data from USGS" / Twitter
 https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+
+
+## Datasette Talk
+
+https://twitter.com/simonw/status/1418275153956413440 | Simon Willison on Twitter: "Realized I never posted the video from my PyGotham talk last year: Datasette - an ecosystem of tools for working with small data Here's the video, plus a transcript with additional links and code examples https://t.co/GdKc1sIoNB" / Twitter
 
 
 ## Dogsheep
@@ -218,11 +265,6 @@ https://github.com/simonw/til/issues/25 | Downloading the previous database file
 
 Self-rewriting README
 https://github.com/simonw/simonw/blob/main/build_readme.py | simonw/build_readme.py at main · simonw/simonw
-
-Museums
-https://www.niche-museums.com/
-https://github.com/simonw/museums | simonw/museums: A website recommending niche museums to visit
-https://simonwillison.net/2019/Nov/25/niche-museums/ | niche-museums.com, powered by Datasette
 
 Django SQL Dashboard
 https://github.com/simonw/django-sql-dashboard | simonw/django-sql-dashboard: Django app for building dashboards using raw SQL queries
@@ -311,6 +353,12 @@ https://github.com/simonw/click-app-template-demo | simonw/click-app-template-de
 https://github.com/simonw/click-app-template-repository | simonw/click-app-template-repository: GitHub template repository for creating new Python Click CLI tools, using the simonw/click-app cookiecutter template
 https://github.com/simonw/click-app-template-repository-demo | simonw/click-app-template-repository-demo: Demo of simonw/click-app-template-repository
 
+## Museums
+
+https://www.niche-museums.com/
+https://github.com/simonw/museums | simonw/museums: A website recommending niche museums to visit
+https://simonwillison.net/2019/Nov/25/niche-museums/ | niche-museums.com, powered by Datasette
+
 
 ## NYT JSON/Scraping
 
@@ -340,6 +388,7 @@ Important
 https://twitter.com/jeremyphoward/status/1328780892769120256 | Jeremy Howard on Twitter: "Here's how to get started with socket programming in Python - a minimal webserver, with a little less boilerplate thanks to `fastcore` https://t.co/YqeSk6rgii https://t.co/m6ZmUmGeph" / Twitter
 
 https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on Twitter: "How to convert 16 lines (from the python standard library) of complex nested code with multiple return paths to three lines of clear code with one return path. https://t.co/FXddFjcuvO https://t.co/nmBOseot55" / Twitter
+
 
 ## Adam
 
