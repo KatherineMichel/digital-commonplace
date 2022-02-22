@@ -1,6 +1,14 @@
 # Tools- Python and Django Small Project Links
 
 <!--
+## Twitter API
+
+https://developer.twitter.com/en/community/toolbox?ref=ps-tw-twitter-toolbox-overall-org&utm_source=tw&utm_medium=ps&utm_campaign=twitter-toolbox-overall-org | Toolbox | Twitter Developer Platform
+
+https://twitter.com/ashevat/status/1491109873677139968 | Amir Shevat on Twitter: "We are experimenting with a developer API playground, and you can try it today: 1) Go to the link bellow 👇🏼 2) Click on "Try a live request" ✨ 3) Auth and run the API endpoint 🚀 4) Tell us what you think 📝 https://t.co/K4zPYmnvni Big thanks @i_am_daniele and team for this 💙" / Twitter
+https://twitter.com/ashevat/status/1488655530205843461 | Amir Shevat on Twitter: "A big step forward in our vision to help Twitter users discover solutions developers build over our API, as well as help Twitter developers get more users💙" / Twitter
+
+
 ## Charlie
 
 https://github.com/charliegerard | charliegerard (Charlie)
