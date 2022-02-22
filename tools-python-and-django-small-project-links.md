@@ -18,6 +18,8 @@ https://github.com/charliegerard
 https://github.com/charliegerard/safe-space/
 https://github.com/charliegerard/safe-space/blob/master/index.js
 
+https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
+
 
 Articles
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
@@ -25,7 +27,6 @@ https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
 https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
 https://css-tricks.com/understanding-async-await/
 https://twitter.com/sarah_edo/status/1456638810343677952
-
 
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
 https://codepen.io/collection/nMgKxJ
