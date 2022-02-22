@@ -3,8 +3,11 @@
 <!--
 ## Charlie
 
+https://github.com/charliegerard | charliegerard (Charlie)
+
 Book
 https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
+https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
 
 https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
 https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
@@ -15,8 +18,13 @@ https://github.com/charliegerard
 https://github.com/charliegerard/safe-space/
 https://github.com/charliegerard/safe-space/blob/master/index.js
 
-https://github.com/charliegerard | charliegerard (Charlie)
-https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
+
+Articles
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+https://css-tricks.com/understanding-async-await/
+https://twitter.com/sarah_edo/status/1456638810343677952
 
 
 https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
@@ -27,13 +35,6 @@ https://github.com/sdras/night-owl-vscode-theme
 Chrome Extension
 https://github.com/sdras/productive-twitter/
 https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
-
-Articles
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
-https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
-https://css-tricks.com/understanding-async-await/
-https://twitter.com/sarah_edo/status/1456638810343677952
 
 
 ## Anthony
@@ -85,8 +86,16 @@ https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ 
 
 ## Simon
 
-Build, test, publish a Python package
+Show running
+http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf | 11 laws of showrunning NICE VERSION
+https://twitter.com/simonw/status/1490083623587876865 | https://twitter.com/simonw/status/1490083623587876865
+https://twitter.com/simonw/status/1490087121360617472 | Simon Willison on Twitter: "Here's a longer version of the Twitter thread I linked to above" / Twitter
+
+## Great Examples
+
+How to build, test, and publish an open source Python library
 https://twitter.com/simonw/status/1456383020756189212 | https://twitter.com/simonw/status/1456383020756189212
+https://twitter.com/simonw/status/1457508794817146885 | (1) Simon Willison on Twitter: "@gjbernat @_ScottCondron I recorded the video before that setup. py article was published, so I correct that in the accompanying write-up here https://t.co/Xn1OeOo9t0" / Twitter
 https://twitter.com/_ScottCondron/status/1457270492407140354 | Scott Condron on Twitter: "How to build, test and publish a Python package by @simonw This video goes from creating a Python package ➡️ publishing it to PyPI so it’s pip installable ➡️ automating tests and publishing using GitHub Actions. https://t.co/yMO2wrXXpv Documented here: https://t.co/pWubEYkJnz" / Twitter
 
 Talk
@@ -138,6 +147,34 @@ https://twitter.com/simonw/status/1315715789471670274 | Simon Willison on Twitte
 https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
 
 
+## Dogsheep
+
+Dogsheep Inspiration
+https://writings.stephenwolfram.com/ | Stephen Wolfram Writings
+
+Dogsheep Weeknotes
+https://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/ | Weeknotes: Getting my personal Dogsheep up and running again
+https://twitter.com/simonw/status/1181292173020368896
+https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
+https://simonwillison.net/2019/Oct/7/dogsheep/
+
+
+## Datasette Example
+
+https://twitter.com/anildash/status/1475483162050445312 | anildash on Twitter: "This is a really great writeup of how to make a handy analysis of your tweets, using @Glitch and @simonw’s amazing Datasette tools. There’s even a handy preconfigured app to remix." / Twitter
+
+https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
+https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
+https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
+
+
+## Self-Rewriting README
+
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
+
+
 ## Flat Data
 
 Git Scraping/Flat Data
@@ -155,32 +192,6 @@ https://twitter.com/aborruso/status/1395407403802365953 | Andrea Borruso on Twit
 
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
 https://twitter.com/simonw/status/1389107419649765378 | Simon Willison on Twitter: "Weeknotes: Adding GeoDjango to an existing Django project https://t.co/qHLEFs0QLA" / Twitter
-
-
-## Datasette Example
-
-https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
-https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
-https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
-
-
-## Self-Rewriting README
-
-https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
-https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
-https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
-
-
-## Dogsheep
-
-Dogsheep Inspiration
-https://writings.stephenwolfram.com/ | Stephen Wolfram Writings
-
-Dogsheep Weeknotes
-https://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/ | Weeknotes: Getting my personal Dogsheep up and running again
-https://twitter.com/simonw/status/1181292173020368896
-https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
-https://simonwillison.net/2019/Oct/7/dogsheep/
 
 
 ## Simon Repos
