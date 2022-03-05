@@ -241,6 +241,8 @@ https://gist.github.com/ | Create a new Gist
 
 Interesting
 https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
+https://monorepo-book.github.io/detection.html | Detecting problems | Maintaining a Monorepo
+https://github.com/github/git-sizer | github/git-sizer: Compute various size metrics for a Git repository, flagging those that might cause problems
 
 
 Great examples
@@ -265,10 +267,11 @@ Leetcode
 https://leetcode.com/
 
 
-Algos
+Hardware... interesting
+https://en.algorithmica.org/ | Algorithmica
+
 https://www.algorist.com/ | The Algorithm Design Manual
 
-Algos
 https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
@@ -279,8 +282,16 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 
+## Refactoring and Patterns
+
 https://refactoring.com/catalog/
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+https://www.martinfowler.com/ | martinfowler.com
 https://martinfowler.com/eaaCatalog/
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
@@ -290,13 +301,24 @@ http://highscalability.com/start-here/
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/category/example
 
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+Domain Driven Design and Event Sourcing
 
 Domain-Driven Design (DDD)
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
 * [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 * [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+Event Sourcing
+https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
+https://martinfowler.com/bliki/CQRS.html | CQRS
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+
 
 Boost Your Django DX
 Speed Up Your Django Tests
@@ -311,6 +333,11 @@ Structure and Interpretation of Computer Programs, JavaScript Edition
 https://sicp.sourceacademy.org/sicpjs.pdf
 How to Design Programs
 https://htdp.org/2018-01-06/Book/
+
+
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
 
 Cardinality
 https://en.wikipedia.org/wiki/Cardinality
@@ -401,18 +428,6 @@ https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
-
-
-## Refactoring and Patterns
-
-https://refactoring.guru/design-patterns/ | Design Patterns
-
-https://www.martinfowler.com/ | martinfowler.com
-https://martinfowler.com/architecture/ | Software Architecture Guide
-
-## Event
-
-https://www.eventcatalog.dev/ | EventCatalog: Discover, Explore and Document your Event Driven Architectures. | EventCatalog
 
 
 ## Books
@@ -664,9 +679,6 @@ Team Management
 <!--
 ## Team Management 
 
-Adrienne
-https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
-
 https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
 https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
 
@@ -821,9 +833,6 @@ https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's gu
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
 
-
-Personal README
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
 
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
