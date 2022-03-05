@@ -6,6 +6,17 @@ default dict counter sets
 https://docs.python.org/3/library/stdtypes.html?highlight=range#ranges
 
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
+
+http://oeis.org/wiki/Welcome#Some_Famous_Sequences | Welcome - OeisWiki
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html | Mathematical symbols list (+,-,x,/,=,<,>,...)
+
+https://en.wikipedia.org/wiki/Probabilistic_logic | Probabilistic logic - Wikipedia
+https://en.wikipedia.org/wiki/Lambda_calculus | Lambda calculus - Wikipedia
+
+https://en.wikipedia.org/wiki/Priority_queue | Priority queue - Wikipedia
+
+https://en.wikipedia.org/wiki/Archimedes | Archimedes - Wikipedia, the free encyclopedia
+https://www.wikiwand.com/en/Sieve_of_Eratosthenes | Sieve of Eratosthenes - Wikiwand
 -->
 
 
