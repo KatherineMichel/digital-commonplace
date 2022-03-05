@@ -1,16 +1,19 @@
 # Keeping Tabs
 
 <!--
+Django News
+* [Django Store](https://django.threadless.com/)
+* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
+
+
+https://speed.python.org/ | Python Speed Center
+
+
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
 https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
 Django Snippets
 https://djangosnippets.org/
-
-
-Django News
-* [Django Store](https://django.threadless.com/)
-* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
 
 
 ## Ideas
@@ -53,15 +56,6 @@ https://discord.com/channels/576802746850869258/599621603931717632 | #general
 
 Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-<!--
-Slack
-https://slack.com/signin/find | Find your workspace | Slack
-
-Workspaces
-https://slack.com/your-workspaces?e=a21pY2hlbEBlbGRhcmlvbi5jb20%253D&i=default#/ | Your Workspaces | Slack
-https://slack.com/your-workspaces?e=a3Rocm5taWNoZWxAZ21haWwuY29t&i=default#/ | Your Workspaces | Slack
 -->
 
 <!--
