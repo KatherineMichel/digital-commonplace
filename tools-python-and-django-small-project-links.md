@@ -28,6 +28,9 @@ https://github.com/charliegerard/safe-space/blob/master/index.js
 
 https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
 
+## Sarah
+
+https://css-tricks.com/author/sdrasner/ | Sarah Drasner on CSS-Tricks - Archive - CSS-Tricks
 
 Articles
 https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
