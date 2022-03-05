@@ -176,28 +176,6 @@ https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_s
 -->
 
 <!--
-## Sarah
-
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
-https://sarah.dev/writing/ | Sarah Drasner's Site
-https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
-
-Career ladders
-https://career-ladders.dev/
-https://css-tricks.com/the-importance-of-career-laddering/
-https://www.engmanagement.dev/the-value-of-values
-https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
-https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
-https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
-
-Developer experience
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
--->
-
-<!--
 PyTexas schedule
 
 https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
@@ -670,41 +648,96 @@ https://www.atlassian.com/devops/tools-and-technologies
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 -->
 
+
+## Learning to Code and Portfolio
+
+<!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+-->
+
+## Engineering Management
+
+Team Management
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+<!--
+## Team Management 
+
+Adrienne
+https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
+
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+
+Interviews
+https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
+https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
+https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
+
+## Meetings and Schedules
+
+Silent critique (Figma)
+https://twitter.com/dustanner/status/1176518182850351104
+
+Gasca- Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+
+## Teams and PM
+
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
+https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
+-->
+
 ## Engineering Performance Resources
 
-JavaScript Scene
+Results
 * ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
 * ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
 
 10x Engineer
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
+
+
+
+
 <!--
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
-
+Code Review Checklist/Code Test Checklist (RITE Way)
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
-https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
-
-
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
+## 10X and Value
 
 https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
 https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+
+## Qualities and Competency
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
 
 https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
 
 https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
 
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
--->
-
-<!--
 https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
 
 https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
@@ -722,18 +755,55 @@ http://sijinjoseph.com/programmer-competency-matrix/
 
 software development competency framework
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
 -->
 
 
 
-
 <!--
-https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+## Staff/Principle/Distinguished Engineer
 
+Interesting
+Principle/Distinguished
+https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
+https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
 
-SCQA framework
-https://www.heavybit.com/library/video/executive-communication/
-https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
+Staff Engineer's Path
+https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/
+https://twitter.com/whereistanya/status/1453510557122846722 | https://twitter.com/whereistanya/status/1453510557122846722
+
+## Camille Fournier
+
+Great
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+
+https://skamille.medium.com/ | Camille Fournier – Medium
+http://www.camilletalk.com/ | Camille Fournier
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
+
+## Sarah
+
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
+https://sarah.dev/writing/ | Sarah Drasner's Site
+https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
+
+Career ladders
+https://career-ladders.dev/
+https://css-tricks.com/the-importance-of-career-laddering/
+https://www.engmanagement.dev/the-value-of-values
+https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
+https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
+https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
+
+Developer experience
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
 -->
 
 
@@ -742,64 +812,35 @@ https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Tw
 <!--
 https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
-https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
-
-https://github.com/joelparkerhenderson/ground_rules
-https://github.com/joelparkerhenderson/ground_rules#see-also
+Ways of Working... different companies
+https://github.com/joelparkerhenderson/ways-of-working
 
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 
-Silent critique
-https://twitter.com/dustanner/status/1176518182850351104
-
-Gasca- Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
-https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
-https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
-https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
 
-https://leadingwithspoons.com/ | Leading with Spoons – practical, people-focused engineering leadership
 
-https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-https://skamille.medium.com/ | Camille Fournier – Medium
-http://www.camilletalk.com/ | Camille Fournier
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
-
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+Personal README
+https://github.com/dmleong/manager-resources | dmleong/manager-resources: Engineering manager resources
 
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
-
-https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
-https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
-https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
-https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
-
-Teams
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
 https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
 https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+-->
 
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+<!--
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+
+
+SCQA framework
+https://www.heavybit.com/library/video/executive-communication/
+https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
 -->
 
 
