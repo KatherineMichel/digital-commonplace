@@ -116,6 +116,17 @@ https://twitter.com/lisaironcutter/status/1312474642322350080 | Lisa Tagliaferri
 
 
 <!--
+Tech Terminology
+https://www.techopedia.com
+https://www.techopedia.com/it-terms/1
+
+https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
+
+Technology radar
+https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
+https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
+
+
 https://twitter.com/ASpittel/status/1369455794878550021 | Ali Spittel 🐞 on Twitter: "Would you be interested in a “backend for frontend developers” series on things like data modeling, distributed systems, types of databases, api design, etc?" / Twitter
 
 https://github.com/TylerJewell/DevLandscape/blob/master/Companies | DevLandscape/Companies at master · TylerJewell/DevLandscape
@@ -140,17 +151,6 @@ https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framewor
 
 
 <!--
-Tech Terminology
-https://www.techopedia.com
-https://www.techopedia.com/it-terms/1
-
-https://arcelect.com/babel99.htm | BABEL: A Glossary of Computer Related Abbreviations and Acronyms
-
-Technology radar
-https://assets.thoughtworks.com/assets/technology-radar-vol-22-en.pdf
-https://www.thoughtworks.com/radar/platforms?blipid=202005026 | Platforms | Technology Radar | ThoughtWorks
-
-
 ## Design Principles
 
 Games with a Purpose
@@ -175,11 +175,95 @@ Postmortems
 https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
 -->
 
+<!--
+## Sarah
+
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
+https://sarah.dev/writing/ | Sarah Drasner's Site
+https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
+
+Career ladders
+https://career-ladders.dev/
+https://css-tricks.com/the-importance-of-career-laddering/
+https://www.engmanagement.dev/the-value-of-values
+https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
+https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
+https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
+
+Developer experience
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+-->
 
 <!--
+PyTexas schedule
+
+https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
+https://speakerdeck.com/flipperpa/introspective-restful-apis-with-postgres-and-django
+
+
+https://github.com/KatherineMichel/organizations
+
+
 Farming versus mining
 Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+https://basecamp.com/shapeup/webbook
+https://basecamp.com/gettingreal
+
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
+
+
+## PAGNI and YAGNI
+
+PAGNI
+https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
+https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
+https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitter: "@jacobian Auto-escaping definitely fits the bill as one of those things which is essentially free to implement at the start of a project but a right pain to add in a few years down the line" / Twitter
+
+YAGNI
+https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
+
+
+https://www.mindtools.com/ | Management Training and Leadership Training - Online
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+
+
+Web browser
+https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
+https://browser.engineering/ | Web Browser Engineering
+
+
+https://github.com/dwmkerr/hacker-laws
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
+https://github.com/webpro/programming-principles
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
+
+https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
+https://jvns.ca/blog/good-questions/ | How to ask good questions
+
+Important
+https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
+https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
+https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
+https://gist.github.com/ | Create a new Gist
+
+
+Interesting
+https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
+
 
 Great examples
 Twitter
@@ -191,12 +275,6 @@ https://simonwillison.net/2021/Jul/17/standing-out/
 https://github.com/hynek
 https://github.com/pganssle
 
-PyTexas schedule
-
-https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
-https://speakerdeck.com/flipperpa/introspective-restful-apis-with-postgres-and-django
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
 APIs
 
@@ -229,25 +307,13 @@ https://martinfowler.com/eaaCatalog/
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
 
-
-https://github.com/KatherineMichel/organizations
-
 High Scalability
 http://highscalability.com/start-here/
 http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/category/example
 
-TLA+
-https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-https://landing.google.com/sre/books
-
-https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 Domain-Driven Design (DDD)
 * [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
@@ -268,88 +334,47 @@ https://sicp.sourceacademy.org/sicpjs.pdf
 How to Design Programs
 https://htdp.org/2018-01-06/Book/
 
-https://basecamp.com/shapeup/webbook
-https://basecamp.com/gettingreal
-
-https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
--->
-
-
-<!--
-## Sarah
-
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
-https://sarah.dev/writing/ | Sarah Drasner's Site
-https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
-
-Career ladders
-https://career-ladders.dev/
-https://css-tricks.com/the-importance-of-career-laddering/
-https://www.engmanagement.dev/the-value-of-values
-https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
-https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
-https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
-
-Developer experience
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
-
-
-
-https://www.mindtools.com/ | Management Training and Leadership Training - Online
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
-
-
-Web browser
-https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
-https://browser.engineering/ | Web Browser Engineering
-
-
-https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
-https://jvns.ca/blog/good-questions/ | How to ask good questions
-
-Important
-https://stackoverflow.com/help/minimal-reproducible-example | How to create a Minimal, Reproducible Example - Help Center - Stack Overflow
-https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Help Center - Stack Overflow
-https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
-https://gist.github.com/ | Create a new Gist
-
-
-https://github.com/dwmkerr/hacker-laws
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-https://github.com/webpro/programming-principles
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
-
 Cardinality
 https://en.wikipedia.org/wiki/Cardinality
 https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
 
+TLA+
+https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 
-Interesting
-https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
+TLA+
+https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
+https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
+
+http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
+https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+-->
+
+<!--
+## Interesting
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://landing.google.com/sre/books
+
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+SRE
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+-->
 
 
-## PAGNI and YAGNI
-
-PAGNI
-https://simonwillison.net/2021/Jul/1/pagnis/ | PAGNIs: Probably Are Gonna Need Its
-https://lukeplant.me.uk/blog/posts/yagni-exceptions/ | YAGNI exceptions - lukeplant.me.uk
-https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitter: "@jacobian Auto-escaping definitely fits the bill as one of those things which is essentially free to implement at the start of a project but a right pain to add in a few years down the line" / Twitter
-
-YAGNI
-https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
-
-
+<!--
 Time Zones, Postal Codes
 
 https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
@@ -411,14 +436,6 @@ https://martinfowler.com/architecture/ | Software Architecture Guide
 
 https://www.eventcatalog.dev/ | EventCatalog: Discover, Explore and Document your Event Driven Architectures. | EventCatalog
 
-## Architecture
-
-Scalability
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
-
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
 
 ## Books
 
@@ -447,39 +464,11 @@ https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter:
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 
 
-TLA+
-https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
-https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
-
-http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
-https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
-
-
 ## Programming Paradigms
 
 https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
 https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 -->
-
-
-<!--
-## Interesting
-
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-
-Interesting
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-
-SRE
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
--->
-
 
 <!--
 ## UX/UI
@@ -2129,6 +2118,7 @@ https://twitter.com/sriramk/status/1114954089060806656 | Sriram Krishnan on Twit
 Apple's Directly Responsible Individual (DRI)
 https://about.gitlab.com/handbook/people-operations/directly-responsible-individuals/ | Directly Responsible Individuals | GitLab
 
+360 degree performance review
 https://en.wikipedia.org/wiki/360-degree_feedback | 360-degree feedback - Wikipedia
 task relevant maturity - Google Search
 
