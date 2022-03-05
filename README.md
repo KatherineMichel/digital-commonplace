@@ -175,7 +175,23 @@ Postmortems
 https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
 -->
 
+
 <!--
+https://github.com/sw-yx/spark-joy | sw-yx/spark-joy: ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
+
+https://future.a16z.com/software-development-building-for-99-developers/ | Building for the 99% Developers | Future
+
+Rules Engine
+https://twitter.com/hashnode/status/1496674240141086726 | Hashnode on Twitter: "Writing new code may be easy, but what about tinkering existing one? 😮 By utilising the Rules Engine pattern, we are able to model complex business processes as a series of rules and significantly reduce our cyclomatic complexity. 💡 By @carltonupp. https://t.co/aGm3PLn9sr" / Twitter
+https://blog.upperdine.dev/the-rules-engine-pattern | The Rules Engine Pattern
+
+https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wikipedia
+
+https://endoflife.date/ | Home | endoflife.date
+https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
+
+
+
 PyTexas schedule
 
 https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
