@@ -3,6 +3,9 @@
 Formerly known as "The List", this is my Digital Commonplace. I came across the idea of a [commonplace book](https://en.wikipedia.org/wiki/Commonplace_book) in an article about how Naveen [stays organized](https://superorganizers.substack.com/p/how-naveen-keeps-track). My Digital Commonplace is a device for helping me remember knowledge and is unique to who I am. It's not intended to be *perfect*. It's an informal, living document filled with my own personal learnings and notes.
 
 <!--
+https://twitter.com/ValaAfshar/status/1355149785485996035 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES: 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/sij1mzSNry" / Twitter
+
+
 https://www.notion.so/ | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
 https://todoist.com/ | 503 Service Temporarily Unavailable
 https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Password
@@ -13,6 +16,13 @@ http://www.collaborativefund.com/blog
 https://search.firstround.com/lists
 https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
 https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+
+
+Topgrading competencies
+https://strategyandexecution.com.au/topgrading-hiring-for-attitude/
+https://topgrading.com/
+https://strategicdiscipline.positioningsystems.com/blog-0/hiring-for-attitude
+https://twitter.com/Julian/status/1337979565222682624 | Julian Shapiro on Twitter: "This chart lists how hard it is to change people. Recruiters say to reference this when hiring for your startup. On the left are qualities you can likely improve with training. On the right are red flags: Do not hire people who lack these qualities in any role that needs them. https://t.co/zbNb4KEkW6" / Twitter
 
 
 * Prioritization
@@ -28,17 +38,9 @@ https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exer
 
 https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
 
-Projects
-Progress
-https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
 
 https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-
-https://twitter.com/ValaAfshar/status/1355149785485996035 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES: 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/sij1mzSNry" / Twitter
 
 Biases
 https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
@@ -177,6 +179,14 @@ https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_s
 
 
 <!--
+Projects
+Progress
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+
 https://github.com/sw-yx/spark-joy | sw-yx/spark-joy: ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
 
 https://future.a16z.com/software-development-building-for-99-developers/ | Building for the 99% Developers | Future
@@ -185,6 +195,7 @@ Rules Engine
 https://twitter.com/hashnode/status/1496674240141086726 | Hashnode on Twitter: "Writing new code may be easy, but what about tinkering existing one? 😮 By utilising the Rules Engine pattern, we are able to model complex business processes as a series of rules and significantly reduce our cyclomatic complexity. 💡 By @carltonupp. https://t.co/aGm3PLn9sr" / Twitter
 https://blog.upperdine.dev/the-rules-engine-pattern | The Rules Engine Pattern
 
+https://en.wikipedia.org/wiki/Multitenancy
 https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wikipedia
 
 https://endoflife.date/ | Home | endoflife.date
@@ -207,10 +218,6 @@ https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
 https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
-
-
-https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f
 
 
 ## PAGNI and YAGNI
@@ -292,6 +299,7 @@ https://github.com/faif/python-patterns | faif/python-patterns: A collection of 
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
+
 Python Patterns
 https://python-patterns.guide/
 https://github.com/kamranahmedse/design-patterns-for-humans
@@ -308,9 +316,9 @@ https://martinfowler.com/eaaCatalog/
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
-
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
 
 High Scalability
 http://highscalability.com/start-here/
@@ -342,22 +350,16 @@ Speed Up Your Django Tests
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 
-Software Design for Flexibility
-file:///Users/katherinemichel/Downloads/Software%20Design%20for%20Flexibility%20How%20to%20Avoid%20Programming%20Yourself%20into%20a%20Corner%20by%20Chris%20Hanson%20Gerald%20Jay%20Sussman%20(z-lib.org).pdf
-https://github.com/jeffhhk/SoftwareDesignForFlexibility
-Structure and Interpretation of Computer Programs, JavaScript Edition
-https://sicp.sourceacademy.org/sicpjs.pdf
-How to Design Programs
-https://htdp.org/2018-01-06/Book/
-
 
 https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
 
 https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
 
 Cardinality
 https://en.wikipedia.org/wiki/Cardinality
 https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+
 
 TLA+
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
@@ -447,6 +449,13 @@ https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-the
 
 
 ## Books
+
+Software Design for Flexibility
+file:///Users/katherinemichel/Downloads/Software%20Design%20for%20Flexibility%20How%20to%20Avoid%20Programming%20Yourself%20into%20a%20Corner%20by%20Chris%20Hanson%20Gerald%20Jay%20Sussman%20(z-lib.org).pdf
+https://github.com/jeffhhk/SoftwareDesignForFlexibility
+Structure and Interpretation of Computer Programs, JavaScript Edition
+https://sicp.sourceacademy.org/sicpjs.pdf
+
 
 SICP
 https://xuanji.appspot.com/isicp/ | Interactive SICP
@@ -745,13 +754,7 @@ Results
 * [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
 
 
-
-
-
 <!--
-Code Review Checklist/Code Test Checklist (RITE Way)
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
-
 ## 10X and Value
 
 https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
@@ -759,43 +762,65 @@ https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The
 
 ## Qualities and Competency
 
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+Code Review Checklist/Code Test Checklist (RITE Way)
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
-https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
-
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-Great engineers
-https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
-
-https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
-https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
-https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
-
-http://sijinjoseph.com/programmer-competency-matrix/
+Growth Rubric
+https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417
 
 software development competency framework
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+http://sijinjoseph.com/programmer-competency-matrix/
+
+Principle/Distinguished
+https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
+https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
+
+Great
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
+10X Results
+Problem solver, skilled, mentor/teacher, excellent learner, passionate
+Honest, communicative, efficient, collaborative, committed
+
+See chart/Table 1
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+Top five distinguishing characteristics: writing good code, adjusting behaviors to account for future value and costs, practicing informed decision-making, avoiding making others’ jobs harder, and learning continuously
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+Look at their total contribution.
+Learn to value the things you can’t track and count directly.
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+Junior versus Senior/Composing Software
+https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
 
 https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
+
+Abstract
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+General
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
+
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
 -->
 
 
 
 <!--
-## Staff/Principle/Distinguished Engineer
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
+https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
+https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
 
-Interesting
-Principle/Distinguished
-https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
-https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+Read
+https://news.ycombinator.com/item?id=21870889
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
 
 Staff Engineer's Path
 https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/
@@ -803,13 +828,13 @@ https://twitter.com/whereistanya/status/1453510557122846722 | https://twitter.co
 
 ## Camille Fournier
 
-Great
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
-
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-
 https://skamille.medium.com/ | Camille Fournier – Medium
 http://www.camilletalk.com/ | Camille Fournier
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+
 https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
 https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
 
@@ -847,10 +872,6 @@ https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: 
 https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-
-
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
 
 https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
 https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
