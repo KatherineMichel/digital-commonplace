@@ -9,6 +9,8 @@ Django News
 https://speed.python.org/ | Python Speed Center
 
 
+http://djangopeople.net/us/
+
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
 https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
