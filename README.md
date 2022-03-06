@@ -552,42 +552,6 @@ https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · g
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 -->
 
-## Sales and Marketing
-
-* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-## Product
-
-Product
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-
-<!--
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
-
-https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
-
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-"The history of product management"
-https://www.atlassian.com/agile/product-management
-https://www.atlassian.com/agile/product-management/product-manager
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
-
-Empowered versus feature
-https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
-https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
-
-https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
--->
-
-
 <!--
 ## Shipping
 
@@ -812,6 +776,7 @@ https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-e
 
 
 
+
 <!--
 https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
 https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
@@ -888,6 +853,42 @@ SCQA framework
 https://www.heavybit.com/library/video/executive-communication/
 https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
 -->
+
+
+## Product
+
+Product
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+<!--
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
+
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
+"The history of product management"
+https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/product-manager
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
+
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
+https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
+-->
+
+## Sales and Marketing
+
+* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
 
 
 ## Launch
