@@ -12,10 +12,8 @@ https://1password.com/ | Password Manager for Families, Businesses, Teams | 1Pas
 https://anchor.fm/ | Anchor - The easiest way to make a podcast
 
 
-http://www.collaborativefund.com/blog
-https://search.firstround.com/lists
-https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
-https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+Important
+https://twitter.com/emollick/status/1156788598303272960 | Ethan Mollick on Twitter: "The world's top published happiness researchers were asked to rank the most effective &amp; feasible strategies to happiness. Here's the list, though most of the results aren't shocking (though pets are lower &amp; shortening commutes are higher than expected) https://t.co/JglJfpZmHi https://t.co/c3InSDovtb" / Twitter
 
 
 Topgrading competencies
@@ -24,34 +22,57 @@ https://topgrading.com/
 https://strategicdiscipline.positioningsystems.com/blog-0/hiring-for-attitude
 https://twitter.com/Julian/status/1337979565222682624 | Julian Shapiro on Twitter: "This chart lists how hard it is to change people. Recruiters say to reference this when hiring for your startup. On the left are qualities you can likely improve with training. On the right are red flags: Do not hire people who lack these qualities in any role that needs them. https://t.co/zbNb4KEkW6" / Twitter
 
+Interesting
+https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Type_A | Type A and Type B personality theory - Wikipedia
 
-* Prioritization
+
+https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
+
+https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
+
+
+## Types of Intelligence
+
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+
+https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
+
+https://twitter.com/ShaneAParrish/status/1356658536751779844 | Shane Parrish on Twitter: "I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions." / Twitter
+
+
+## Fear-Setting, Habit Engineering, Goals, Learning
+
+* Fear-Setting
+* How to Get Better at Almost Anything
+* The 6 Daily Questions
+* Habit Engineering
+* Goals
+
+* Prioritization (Eisenhower matrix)
 * Atomic Habits
 * Deep Work
 * Checklist Manifesto
 * Maker's Schedule/Manager's Schedule
+
+
+Memory
+https://en.wikipedia.org/wiki/Method_of_loci | Method of loci - Wikipedia
 
 https://www.deprocrastination.co/blog/how-to-stop-procrastinating-by-using-the-fogg-behavior-model
 http://deanyeong.com/habit-guide | The Comprehensive Guide to Breaking, Building & Transforming Habits (backed by science) | Dean Yeong
 
 https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month – The Blog of Author Tim Ferriss
 
-https://www.scotthyoung.com/blog/2020/05/04/do-the-real-thing/ | Do the Real Thing | Scott H Young
+80%/20% Rule
+https://en.wikipedia.org/wiki/Pareto_principle
 
+https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
 
-https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
-
-
-Biases
-https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
-https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
-
-https://twitter.com/ShaneAParrish/status/1356658536751779844 | Shane Parrish on Twitter: "I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions." / Twitter
-
-Interesting
-https://en.wikipedia.org/wiki/Type_A_and_Type_B_personality_theory#Type_A | Type A and Type B personality theory - Wikipedia
-
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
+https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
+https://mobile.twitter.com/edortizv/status/1250241717481201664
 
 
 ## Learning
@@ -61,7 +82,6 @@ https://product.hubspot.com/blog/how-to-learn-complex-things-quickly | How to Le
 
 Prioritization/Learning Strategies
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic
 https://gettingthingsdone.com/wp-content/uploads/2014/10/workflow_map.pdf
 https://www.mindtools.com/pages/article/newHTE_91.htm
 
@@ -73,13 +93,6 @@ https://medium.com/accelerated-intelligence/this-is-exactly-how-you-should-train
 
 Learning how to learn
 https://twitter.com/Fox0x01/status/1238636236962779136
-
-https://news.ycombinator.com/item?id=21905423 | Ask HN: Solo devs, how do you plan your development? | Hacker News
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/Habits+Cheat+Sheet.pdf
-https://s3.amazonaws.com/jamesclear/Atomic+Habits/The+Habits+Scorecard.pdf
-https://mobile.twitter.com/edortizv/status/1250241717481201664
 
 
 Important
@@ -179,6 +192,18 @@ https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_s
 
 
 <!--
+http://www.collaborativefund.com/blog
+https://search.firstround.com/lists
+https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
+https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+
+Biases
+https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
+https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
+
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+
 Projects
 Progress
 https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
@@ -1984,18 +2009,6 @@ https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on T
 -->
 
 
-## Types of Intelligence
-
-<!--
-80%/20% Rule
-https://en.wikipedia.org/wiki/Pareto_principle
-
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
-
-https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
--->
-
 ## Digital Commonplace and Knowledge Base
 
 <!--
@@ -2380,70 +2393,6 @@ https://twitter.com/alexisohanian/status/1283863754199965716 | Alexis Ohanian Sr
 https://dev.to/lazerwalker/an-incomplete-list-of-questions-to-ask-when-designing-an-online-social-space-3n8d | An (Incomplete) List of Questions To Ask When Designing a Synchronous Online Social Space - DEV Community 👩‍💻👨‍💻
 -->
 
-## Persuasian, Ethics
-
-Persuasive Tech
-* [Nir Eyal](http://www.nirandfar.com)
-* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
-* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
-* [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
-* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
-
-<!--
-https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
-http://behaviormodel.org/ | BJ Fogg's Behavior Model
-
-https://www.wired.com/story/phone-addiction-formula/ | WIRED
-http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
-
-Nir Eyal 4-step model
-
-http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
--->
-
-Center for Humane Technology
-* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
-
-<!--
-https://twitter.com/webology/status/1266931277791473665 | Jeff says, "wear a mask" 😷 on Twitter: "@kennethlove The Nighthawk client does a good job or lean on mute lists." / Twitter
-
-Digital minimalism
-https://twitter.com/kessler/status/1266049555105103872 | Ben Kessler on Twitter: "Anyone have a great resource for weaning off of social media and phone use (addiction)? The intensity and negativity of the news cycle and commentary on Twitter and Instagram is stressing me out and I need to take a break. cc: @dremilyanhalt @schlaf etc." / Twitter
-
-http://www.tristanharris.com/
-https://medium.com/@tristanharris
-http://www.tristanharris.com/the-need-for-a-new-design-ethics/
-
-http://humanetech.com/ | Center for Humane Technology
-
-http://www.tragicdesign.com
-https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
-
-https://www.uxbrutalism.com/
-https://brutalist-web.design/ | Brutalist Web Design
-
-https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
-https://humanebydesign.com/ | Humane by Design
-https://www.darkpatterns.org/ | Dark Patterns
-
-IT and Ethics
-https://plato.stanford.edu/entries/it-moral-values/
-https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
--->
-
-## Success and Failure
-
-Site Deaths and Failures
-* [Site Deaths](https://indieweb.org/site-deaths)
-* [Failure Museum](http://failuremuseum.com)
-
-<!--
-Creativity
-https://bored.solutions/
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
--->
-
 ## Distribution
 
 Distribution, Digital Distribution and User-Generated Content
@@ -2579,6 +2528,70 @@ Agency
 
 <!--
 https://fourminutebooks.com/summaries/page/2/ | Summaries: Learn From 400+ Books For Free In Just 4 Minutes Each
+-->
+
+## Persuasian, Ethics
+
+Persuasive Tech
+* [Nir Eyal](http://www.nirandfar.com)
+* [Nir Eyal: "Hooked: How to Build Habit-Forming Products"](https://www.amazon.com/dp/B00LMGLXTS)
+* [Hooked Workbook](https://www.nirandfar.com/download/hooked-workbook.pdf)
+* [Stanford Persuasive Tech Lab](http://captology.stanford.edu)
+* [Stanford Persuasive Tech Lab: Behavior Design](http://captology.stanford.edu/projects/behaviordesign.html)
+
+<!--
+https://twitter.com/rrhoover/status/1128044471130759171 | Ryan Hoover on Twitter: "Excited to see how people use this. New businesses are made possible when the friction to transact decreases. @bjfogg’s Behavior Model helps explain why https://t.co/FwMxy0UAFa"
+http://behaviormodel.org/ | BJ Fogg's Behavior Model
+
+https://www.wired.com/story/phone-addiction-formula/ | WIRED
+http://hstar.stanford.edu/ | H-STAR | Human Sciences and Technologies Advanced Research Institute
+
+Nir Eyal 4-step model
+
+http://www.slideshare.net/nireyal/hooked-model/14-When_we_FEEL_AN_ITCHwe
+-->
+
+Center for Humane Technology
+* [Center for Humane Technology: Take Control](http://humanetech.com/take-control)
+
+<!--
+https://twitter.com/webology/status/1266931277791473665 | Jeff says, "wear a mask" 😷 on Twitter: "@kennethlove The Nighthawk client does a good job or lean on mute lists." / Twitter
+
+Digital minimalism
+https://twitter.com/kessler/status/1266049555105103872 | Ben Kessler on Twitter: "Anyone have a great resource for weaning off of social media and phone use (addiction)? The intensity and negativity of the news cycle and commentary on Twitter and Instagram is stressing me out and I need to take a break. cc: @dremilyanhalt @schlaf etc." / Twitter
+
+http://www.tristanharris.com/
+https://medium.com/@tristanharris
+http://www.tristanharris.com/the-need-for-a-new-design-ethics/
+
+http://humanetech.com/ | Center for Humane Technology
+
+http://www.tragicdesign.com
+https://www.slideshare.net/jonshariat/tragic-design-how-to-avoid-bad-design-that-harms | Tragic Design: How to avoid bad design that harms
+
+https://www.uxbrutalism.com/
+https://brutalist-web.design/ | Brutalist Web Design
+
+https://github.com/engagingspaces/awesome-humane-tech | engagingspaces/awesome-humane-tech: Improve society using this list of humane tech projects. Ethics, transparency, privacy, health (https://humanetech.com)
+https://humanebydesign.com/ | Humane by Design
+https://www.darkpatterns.org/ | Dark Patterns
+
+IT and Ethics
+https://plato.stanford.edu/entries/it-moral-values/
+https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
+-->
+
+## Success and Failure
+
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
+<!--
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
 -->
 
 ## Software Development Philosophies and Process
@@ -2732,6 +2745,9 @@ Mindset
 <!--
 https://www.radicalcandor.com/ | Radical Candor - Develop as a Leader and Empower Your Team
 https://en.m.wikipedia.org/wiki/Nonviolent_Communication | Nonviolent Communication - Wikipedia
+
+Grit
+https://www.amazon.com/Grit-Passion-Perseverance-Angela-Duckworth/dp/1501111108
 
 https://fs.blog/2015/03/carol-dweck-mindset/
 -->
