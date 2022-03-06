@@ -187,6 +187,18 @@ Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
+Simon
+https://github.com/simonw
+https://simonwillison.net/2022/
+https://simonwillison.net/2021/Jul/17/standing-out/
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
+https://en.wikipedia.org/wiki/Cron
+https://en.wikipedia.org/wiki/Continuous_integration
+
+
 https://github.com/sw-yx/spark-joy | sw-yx/spark-joy: ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
 
 https://future.a16z.com/software-development-building-for-99-developers/ | Building for the 99% Developers | Future
@@ -200,7 +212,6 @@ https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wiki
 
 https://endoflife.date/ | Home | endoflife.date
 https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
-
 
 
 PyTexas schedule
@@ -240,16 +251,10 @@ https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitt
 https://browser.engineering/ | Web Browser Engineering
 
 
-https://github.com/dwmkerr/hacker-laws
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
 
 https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-https://github.com/webpro/programming-principles
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 
 
 https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
@@ -552,6 +557,7 @@ https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · g
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
 -->
 
+
 <!--
 ## Shipping
 
@@ -783,6 +789,7 @@ https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Li
 https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
 
 https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
 Read
 https://news.ycombinator.com/item?id=21870889
 https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
@@ -828,14 +835,6 @@ https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitt
 ## Engineering Management
 
 <!--
-https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-Ways of Working... different companies
-https://github.com/joelparkerhenderson/ways-of-working
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
 
 https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
@@ -852,18 +851,28 @@ https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twi
 SCQA framework
 https://www.heavybit.com/library/video/executive-communication/
 https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
+https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
 -->
 
 
-## Product
+## Leadership and Product
 
 Product
 * [Open Product Management](https://github.com/ProductHired/open-product-management)
 
 <!--
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
+https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 
 https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+Ways of Working... different companies
+https://github.com/joelparkerhenderson/ways-of-working
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
+
+https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 
@@ -1093,6 +1102,14 @@ http://rob.conery.io/2016/07/04/imposters-handbook/
 https://bigmachine.io/imposter/
 
 https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/webpro/programming-principles
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+
 -->
 
 ## High Performance
@@ -1110,8 +1127,7 @@ http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+https://en.wikipedia.org/wiki/OSI_model
 -->
 
 
