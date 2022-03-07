@@ -5,6 +5,18 @@ Pytest DRF
 https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
 
 
+https://beeware.org/
+
+https://pypi.org/project/pip-audit/ | pip-audit · PyPI
+
+Game engine and scripting language
+https://www.pygame.org/project-PyWright-904-.html
+
+https://github.com/google/python-fire | google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
+https://gist.github.com/jefftriplett/e87b36d750f94e48080a2be46e71dbe1 | Django Management Command to print a "Magic Link" for one-click log-in. This is nice for people who project switch or don't want to remember passwords.
+
+
 Security
 https://docs.djangoproject.com/en/dev/internals/security/#reporting-security-issues | Django’s security policies | Django documentation | Django
 
@@ -261,6 +273,31 @@ https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still M
 https://johnlekberg.com/blog/2020-09-19-dict-view.html | Dictionary view objects in Python
 
 https://twitter.com/llanga/status/999318672098320384 | Łukasz Langa on Twitter: "i'm surprised dict views aren't more popular. Real world example: https://t.co/sOVvUgeJRc I think this is really elegant. For explanation read below.… https://t.co/kqXSQajFZr"
+-->
+
+<!--
+Tim
+https://github.com/FlipperPA/django-s3-sqlite | FlipperPA/django-s3-sqlite: An AWS S3-hosted SQLite database backend for Django. Originally developed with Zappa-Django-Utils. Not for important use!
+
+## Django User Model
+
+Tim
+https://github.com/FlipperPA/django-custom-user-model-starter | FlipperPA/django-custom-user-model-starter: A models.py file which serves as a good starting point for a Django custom user model. This should be the first step in any project!
+
+William
+https://github.com/wsvincent/django-allauth | wsvincent/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+https://github.com/wsvincent/django-login-with-email | wsvincent/django-login-with-email: Django log in and signup with email not username
+
+https://github.com/narenaryan/django-auth-pattern/tree/master/authtest
+
+User Model
+https://twitter.com/webology/status/1334910265062797326 | Jeff Triplett 😷 on Twitter: "Great article by @wsv3000, but my $0.02 on when to use each option: ❌ Option 1: Avoid if possible ✅ Option 2: Use settings.AUTH_USER_MODEL in https://t.co/l0GaZyBDRt ✅ Option 3: Use `User = get_user_model()` everywhere else. https://t.co/Rbx6i8RZXp" / Twitter
+
+User
+https://github.com/jlooney/extended-user-example | jlooney/extended-user-example: Example for extending the user model in django
+
+Django User Model
+https://github.com/eleanorstrib/django-user-model-options | eleanorstrib/django-user-model-options: Repo with in-depth coverage of high level concepts from a poster session I did at PyCon 2017 in Portland, OR, May 21, 2017
 -->
 
 ## Awesome Python and Django
