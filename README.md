@@ -212,19 +212,23 @@ Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
-Simon
-https://github.com/simonw
-https://simonwillison.net/2022/
-https://simonwillison.net/2021/Jul/17/standing-out/
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
-https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
-
-https://en.wikipedia.org/wiki/Cron
-https://en.wikipedia.org/wiki/Continuous_integration
+https://www.mindtools.com/ | Management Training and Leadership Training - Online
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
 
 
 https://github.com/sw-yx/spark-joy | sw-yx/spark-joy: ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
+
+
+Web browser
+https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
+https://browser.engineering/ | Web Browser Engineering
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+
 
 https://future.a16z.com/software-development-building-for-99-developers/ | Building for the 99% Developers | Future
 
@@ -239,10 +243,35 @@ https://endoflife.date/ | Home | endoflife.date
 https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
 
 
-PyTexas schedule
-
 https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
 https://speakerdeck.com/flipperpa/introspective-restful-apis-with-postgres-and-django
+
+PyTexas schedule
+https://twitter.com/jmwatt3/status/1501393663091482624 | Jason Wattier on Twitter: "@KatiMichel @pytexas @OctopusEnergyUS 🙌" / Twitter
+https://www.pytexas.org/schedule/talks/ | PyTexas 2022
+https://library.austintexas.gov/central/tours | Central Library Tours and Group Visits | Austin Public Library
+https://library.austintexas.gov/central/tours?fbclid=IwAR0GQgj6A4fpSoEn_xlV0eoG7NcjGSO9pdGZ4sGi9X9C0Gg2FCxvjn5wABw | Central Library Tours and Group Visits | Austin Public Library
+
+
+
+https://www.cnbc.com/2019/05/13/i-took-yales-most-popular-class-ever-and-it-completely-changed-how-i-spend-my-money.html | I took Yale's most popular class ever—and it changed how I spend money
+https://twitter.com/heykahn/status/1473341250908549120 | Zain Kahn on Twitter: "Yale's most popular class in it's 320 year history: Psychology and the Good Life. Here are 7 lessons from the course to help you live a happier life:" / Twitter
+
+Learning
+https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+
+https://www.google.com/search?q=nonviolent+communication&oq=non+violent+comm&aqs=chrome.1.69i57j0i10i433i512j46i10i512j0i512j0i10i512l4j0i512j0i10i512.2585j0j4&sourceid=chrome&ie=UTF-8 | nonviolent communication - Google Search
+
+https://twitter.com/ValaAfshar/status/1489816015806644226 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/9hYozBqWzW" / Twitter
+
+## Digital Reset
+
+https://github.com/jwithington/100-days-of-healthing | jwithington/100-days-of-healthing: Fork this template for the 100 days of healthing - to keep yourself accountable
+
+https://twitter.com/chaddickerson/status/1478026104027947010 | Chad Dickerson on Twitter: "I'm doing a "digital reset" w/ same spirit that @anildash has described so I'm in the process of unfollowing everyone & starting over. Twitter had become more reflective of my interests & who I was 5 yrs ago. Time to bring it to the present. https://t.co/0MPSUd3DfG" / Twitter
+
+https://twitter.com/anildash/status/1477312673775767557 | Anil Dash on Twitter: "A lot of folks really like to use a New Year to make a fresh start, so here’s my piece on how do to a Personal Digital Reset, many told me they found it useful. https://t.co/K9NEo1hsaq" / Twitter
+
 
 
 https://github.com/KatherineMichel/organizations
@@ -267,19 +296,27 @@ YAGNI
 https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
 
 
-https://www.mindtools.com/ | Management Training and Leadership Training - Online
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+https://github.com/hynek
+https://github.com/pganssle
 
 
-Web browser
-https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
-https://browser.engineering/ | Web Browser Engineering
+Great examples
+Twitter
+https://glitch.com/@simonw | Simon Willison
+https://github.com/simonw
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+https://simonwillison.net/2021/Jul/17/standing-out/
 
 
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+Simon
+https://simonwillison.net/2022/
+https://simonwillison.net/2021/Jul/17/standing-out/
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
 
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
+https://en.wikipedia.org/wiki/Cron
+https://en.wikipedia.org/wiki/Continuous_integration
 
 
 https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
@@ -292,21 +329,46 @@ https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
 
 
+Git docs
+https://git-scm.com/docs
+https://git-scm.com/docs/git#_git_commands | Git - git Documentation
+https://git-scm.com/docs/git-commit | Git - git-commit Documentation
+https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
+
+reflog
+https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
+https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
+
 Interesting
 https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
 https://monorepo-book.github.io/detection.html | Detecting problems | Maintaining a Monorepo
 https://github.com/github/git-sizer | github/git-sizer: Compute various size metrics for a Git repository, flagging those that might cause problems
 
 
-Great examples
-Twitter
-https://glitch.com/@simonw | Simon Willison
-https://github.com/simonw
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
-https://simonwillison.net/2021/Jul/17/standing-out/
+testdriven.io
+https://testdriven.io/
 
-https://github.com/hynek
-https://github.com/pganssle
+Code with Anthony
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
+
+CPython
+https://github.com/python/cpython
+
+
+Boost Your Django DX
+https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
+Speed Up Your Django Tests
+
+Beyond the Basic Stuff with Python
+https://inventwithpython.com/beyond/
+
+mypy
+http://mypy-lang.org/
+
+pytest
+https://docs.pytest.org/en/7.0.x/
 
 
 APIs
@@ -322,6 +384,9 @@ https://leetcode.com/
 
 Hardware... interesting
 https://en.algorithmica.org/ | Algorithmica
+
+
+https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
 
 https://www.algorist.com/ | The Algorithm Design Manual
 
@@ -372,13 +437,6 @@ Event Sourcing
 https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
 https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
-
-Boost Your Django DX
-Speed Up Your Django Tests
-
-Beyond the Basic Stuff with Python
-https://inventwithpython.com/beyond/
 
 
 https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
@@ -440,6 +498,15 @@ https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones 
 
 https://en.wikipedia.org/wiki/Postal_code
 https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
+
+
+Calendars
+https://en.wikipedia.org/wiki/Calendar_era
+https://en.wikipedia.org/wiki/Gregorian_calendar
+https://en.wikipedia.org/wiki/Julian_calendar
+https://twitter.com/qntm/status/1500285601438142465 | qntm on Twitter: "JavaScript uses the proleptic Gregorian calendar, Swift apparently switches to the proleptic Julian calendar when you go back beyond 1582" / Twitter
+
+https://twitter.com/Nate_somewhere/status/1484645437785055235 | (1) Nathan Danielsen on Twitter: "Today I've learned about AZ time that is another timezone in Mountain timezone but doesn't do daylight savings." / Twitter
 
 
 https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
