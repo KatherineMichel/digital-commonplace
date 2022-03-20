@@ -1,6 +1,8 @@
 # Problem Solving, Data Structures, and Algorithms
 
 <!--
+https://oeis.org
+
 Anthony
 default dict counter sets
 https://docs.python.org/3/library/stdtypes.html?highlight=range#ranges
