@@ -1,6 +1,171 @@
 # Keeping Tabs
 
 <!--
+https://github.com/KatherineMichel/organizations
+
+
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+https://basecamp.com/shapeup/webbook
+https://basecamp.com/gettingreal
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+
+testdriven.io
+https://testdriven.io/
+
+Code with Anthony
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
+
+
+Great release managers
+https://github.com/hynek
+https://github.com/pganssle
+
+
+CPython
+https://github.com/python/cpython
+
+
+Great examples
+Twitter
+https://glitch.com/@simonw | Simon Willison
+https://github.com/simonw
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+https://simonwillison.net/2021/Jul/17/standing-out/
+
+
+Simon
+https://simonwillison.net/2022/
+https://simonwillison.net/2021/Jul/17/standing-out/
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
+https://en.wikipedia.org/wiki/Cron
+https://en.wikipedia.org/wiki/Continuous_integration
+
+
+
+APIs
+
+http://www.w3schools.com/sql/default.asp
+
+http://graphql.org/
+
+
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+Mythical Man
+
+
+## Refactoring and Patterns
+
+* [Refactoring](https://refactoring.com/)
+
+https://refactoring.com/catalog/
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+https://www.martinfowler.com/ | martinfowler.com
+https://martinfowler.com/eaaCatalog/
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+
+What Happens When
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+High Scalability
+http://highscalability.com/start-here/
+http://highscalability.com/all-time-favorites/
+http://highscalability.com/blog/category/example
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+
+Shipping/Makers
+## Engineering Management
+## Leadership and Product
+## Project Management and Roadmaps
+
+
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/OSI_model
+
+
+SRE, DevOps, CI/CD
+
+Jez Humble
+Accelerate
+
+Software construction tools
+UML, TLA+
+
+Driven Development
+
+Useful Files
+
+
+Books
+
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
+
+
+Fear setting
+
+Marshall Goldsmith
+Habit Engineering
+Atomic Habits
+Checklist Manifesto
+
+Knowledge base
+
+
+https://www.mindtools.com/
+
+https://www.nngroup.com/articles/prioritization-matrices/
+
+https://www.mindtools.com/pages/article/newHTE_91.htm
+https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
+
+
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
+
+Barbara Oakley
+
+
 Django News
 * [Django Store](https://django.threadless.com/)
 * [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
@@ -76,10 +241,20 @@ https://github.com/devict | devICT
 <!--
 https://git-scm.com/ | Git
 https://git-scm.com/docs
+https://git-scm.com/docs/git#_git_commands | Git - git Documentation
+https://git-scm.com/docs/git-commit | Git - git-commit Documentation
+https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
+
+reflog
+https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
+https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
 
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) — Mypy 0.910 documentation
+
+pytest
+https://docs.pytest.org/en/7.0.x/
 
 PyTest
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
