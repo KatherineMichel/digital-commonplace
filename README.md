@@ -212,11 +212,6 @@ Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
-https://www.mindtools.com/ | Management Training and Leadership Training - Online
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
-
-
-https://github.com/sw-yx/spark-joy | sw-yx/spark-joy: ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
 
 
 Web browser
@@ -260,9 +255,10 @@ https://twitter.com/heykahn/status/1473341250908549120 | Zain Kahn on Twitter: "
 Learning
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
 
-https://www.google.com/search?q=nonviolent+communication&oq=non+violent+comm&aqs=chrome.1.69i57j0i10i433i512j46i10i512j0i512j0i10i512l4j0i512j0i10i512.2585j0j4&sourceid=chrome&ie=UTF-8 | nonviolent communication - Google Search
+nonviolent communication - Google Search
 
 https://twitter.com/ValaAfshar/status/1489816015806644226 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/9hYozBqWzW" / Twitter
+
 
 ## Digital Reset
 
@@ -302,16 +298,6 @@ https://github.com/github/git-sizer | github/git-sizer: Compute various size met
 
 
 
-
-Boost Your Django DX
-https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
-Speed Up Your Django Tests
-
-Beyond the Basic Stuff with Python
-https://inventwithpython.com/beyond/
-
-
-
 Leetcode
 https://leetcode.com/
 
@@ -337,29 +323,6 @@ https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
 
-Domain Driven Design and Event Sourcing
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-Event Sourcing
-https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
-https://martinfowler.com/bliki/CQRS.html | CQRS
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
-
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
-
-
-https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
-
-
 TLA+
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
@@ -372,64 +335,8 @@ http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Be
 https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
 -->
 
-<!--
-## Interesting
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-https://landing.google.com/sre/books
-
-https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre
-
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-
-SRE
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
--->
-
 
 <!--
-Time Zones, Postal Codes
-
-https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
-
-https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
-http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
-
-https://www.timeanddate.com/time/map/
-https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
-
-https://en.wikipedia.org/wiki/Postal_code
-https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
-
-
-Calendars
-https://en.wikipedia.org/wiki/Calendar_era
-https://en.wikipedia.org/wiki/Gregorian_calendar
-https://en.wikipedia.org/wiki/Julian_calendar
-https://twitter.com/qntm/status/1500285601438142465 | qntm on Twitter: "JavaScript uses the proleptic Gregorian calendar, Swift apparently switches to the proleptic Julian calendar when you go back beyond 1582" / Twitter
-
-https://twitter.com/Nate_somewhere/status/1484645437785055235 | (1) Nathan Danielsen on Twitter: "Today I've learned about AZ time that is another timezone in Mountain timezone but doesn't do daylight savings." / Twitter
-
-
-https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
-
-Falsehoods
-http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
-https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
-https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
-http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
-
-
-
 https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
@@ -500,6 +407,8 @@ https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 <!--
 ## UX/UI
 
+https://github.com/sw-yx/spark-joy | sw-yx/spark-joy: ✨😂 1000+ ways to add design flair, user delight, and whimsy to your product.
+
 https://www.coursera.org/professional-certificates/google-ux-design | Google UX Design Professional Certificate | Coursera
 
 https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | Jan, 2021 | UX Collective
@@ -559,6 +468,14 @@ Docs Audit
 https://twitter.com/GoogleOSS/status/1367882772916953098 | Google Open Source on Twitter: "📂 Are you struggling to understand what docs your open source project has, what docs your project needs, and how to bridge that gap? Check out this new documentation content maturity checklist and guide from @ddbeck, open sourced by Google → https://t.co/Yt3ObDc8sx https://t.co/YG1yVKcJm3" / Twitter
 https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · google/opendocs · GitHub
 https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
+-->
+
+
+## Learning to Code and Portfolio
+
+<!--
+https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
+https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
 
@@ -635,14 +552,14 @@ Basecamp Product
 * [Basecamp Getting Real PDF](https://basecamp.com/books/getting-real)
 
 <!--
+https://blog.pragmaticengineer.com/
+https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
 
 https://blog.codinghorror.com/
-Joel
-https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
+https://blog.codinghorror.com/doing-terrible-things-to-your-code/
+
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/ | Strategy Letter I: Ben and Jerry’s vs. Amazon – Joel on Software
-
-https://blog.codinghorror.com/doing-terrible-things-to-your-code/
 
 https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #4: Reviewing a big feature at length - YouTube
 
@@ -664,13 +581,6 @@ https://www.atlassian.com/devops/tools-and-technologies
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 -->
 
-
-## Learning to Code and Portfolio
-
-<!--
-https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
-https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
--->
 
 ## Engineering Management
 
@@ -956,6 +866,18 @@ https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Tr
 -->
 
 
+## Success and Failure
+
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
+<!--
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+-->
 
 ## Case Studies
 
@@ -1018,106 +940,6 @@ https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: 
 -->
 
 
-## Programming Language Comparisons
-## General Software Design Patterns
-## Architectures
-## Python Syntax and Python Versus JavaScript
-
-
-## Python and JavaScript
-
-One Pic
-* [Python 3 in One Pic](http://coodict.github.io/python3-in-one-pic) and [Python 3 in One Pic GitHub](https://github.com/coodict/python3-in-one-pic)
-* [JavaScript in One Pic GitHub](https://github.com/coodict/javascript-in-one-pic)
-
-Python vs. JavaScript
-* [Saya: Python 3 vs. JavaScript (ES2015)](https://sayazamurai.github.io/python-vs-javascript) and [Python 3 vs. JavaScript (ES2015) GitHub](https://github.com/sayazamurai/python-vs-javascript)
-* [Ilya Shchurov: Python vs. JavaScript GitHub](https://ischurov.github.io/pythonvjs/show/lists-arrays/en)
-
-<!--
-https://drive.google.com/file/d/1QkkuEUbpy9WlDksF5Ht1r6TqO7c72xQt/view | python-3-in-one-pic.png - Google Drive
--->
-
-JavaScript Syntax
-* [JavaScript Syntax Wikipedia](https://en.wikipedia.org/wiki/JavaScript_syntax)
-* [Learn X in Y Minutes JavaScript](https://learnxinyminutes.com/docs/javascript)
-
-Philip Guo
-* [Philip Guo YouTube](https://www.youtube.com/user/pgbovine/playlists)
-* [JavaScript Language Fundamentals: ES6 using Google + Airbnb style guides](http://pgbovine.net/javascript-language-fundamentals.htm), [JavaScript Language Fundamentals YouTube](https://www.youtube.com/playlist?list=PLzV58Zm8FuBJFfQN5il3ujx6FDAY8Ds3u), and [Slides](http://pgbovine.net/cogs121-sp18-javascript-fundamentals.pdf)
-
-<!--
-http://pythontutor.com/live.html#mode=edit
-Video 5, 13:25 Recap
-http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
--->
-
-
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
-
-
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-https://github.com/rShetty/awesome-distributed-systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/webpro/programming-principles
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
-
--->
-
 ## High Performance
 
 Useful Websites
@@ -1136,24 +958,6 @@ https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://en.wikipedia.org/wiki/OSI_model
 -->
 
-
-<!--
-What happens when
-
-https://github.com/mraible/history-of-web-frameworks-timeline/ | mraible/history-of-web-frameworks-timeline: The history of web frameworks as described by a timeline of releases.
-
-https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
-
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-Internet Topics
-https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid on Twitter: "Internet topics to have a basic understanding as a developer: 1. How internet works ( frontend side) 2. How internet works ( backend side) 3. How https works 4. How DNS works 5. How hosting works What would you add?" / Twitter
--->
 
 ## High Performance
 
@@ -1341,6 +1145,7 @@ https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
 -->
 
+
 ## Software Design Tools
 
 <!--
@@ -1476,6 +1281,41 @@ https://iconixprocess.wordpress.com/iconix-process/analysis-and-preliminary-desi
 Robustness Diagrams: An Agile Introduction
 http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
 -->
+
+
+<!--
+Time Zones, Postal Codes
+
+https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
+
+https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
+http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+
+https://www.timeanddate.com/time/map/
+https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
+
+https://en.wikipedia.org/wiki/Postal_code
+https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
+
+
+Calendars
+https://en.wikipedia.org/wiki/Calendar_era
+https://en.wikipedia.org/wiki/Gregorian_calendar
+https://en.wikipedia.org/wiki/Julian_calendar
+https://twitter.com/qntm/status/1500285601438142465 | qntm on Twitter: "JavaScript uses the proleptic Gregorian calendar, Swift apparently switches to the proleptic Julian calendar when you go back beyond 1582" / Twitter
+
+https://twitter.com/Nate_somewhere/status/1484645437785055235 | (1) Nathan Danielsen on Twitter: "Today I've learned about AZ time that is another timezone in Mountain timezone but doesn't do daylight savings." / Twitter
+
+
+https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+
+Falsehoods
+http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
+https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
+http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+-->
+
 
 ## X Driven Development
 
@@ -1830,7 +1670,6 @@ https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
 https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
 -->
 
-
 ## Authority Figures and Books
 
 Authorities
@@ -1991,6 +1830,89 @@ the pragrammatic programmer - Google Search
 https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on Twitter: "This time: Python 🐍. I wanted to know what were the most recommended Python books ever 🏆 So I've compiled more than 2000 recommendations from 130 lists and came up with this top 25 most recommended Python books of all-time 📕 THREAD 👇" / Twitter
 https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
 https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
+-->
+
+
+<!--
+What happens when
+
+https://github.com/mraible/history-of-web-frameworks-timeline/ | mraible/history-of-web-frameworks-timeline: The history of web frameworks as described by a timeline of releases.
+
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
+
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+Internet Topics
+https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid on Twitter: "Internet topics to have a basic understanding as a developer: 1. How internet works ( frontend side) 2. How internet works ( backend side) 3. How https works 4. How DNS works 5. How hosting works What would you add?" / Twitter
+-->
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+
+
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/rShetty/awesome-distributed-systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/webpro/programming-principles
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
 -->
 
 
@@ -2164,19 +2086,6 @@ https://github.com/jonschlinkert/guide-to-staying-productive | jonschlinkert/gui
 https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to Personal Productivity
 
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
--->
-
-## Success and Failure
-
-Site Deaths and Failures
-* [Site Deaths](https://indieweb.org/site-deaths)
-* [Failure Museum](http://failuremuseum.com)
-
-<!--
-Creativity
-https://bored.solutions/
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
 -->
 
 ## Speed Reading and Memory
