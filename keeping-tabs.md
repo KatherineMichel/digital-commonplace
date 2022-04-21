@@ -1,7 +1,19 @@
 # Keeping Tabs
 
 <!--
+
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+
 https://github.com/KatherineMichel/organizations
+
+
+Shipping/Makers
+## Engineering Management
+## Leadership and Product
+## Project Management and Roadmaps
 
 
 Farming versus mining
@@ -51,21 +63,6 @@ https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
 
 
-
-APIs
-
-http://www.w3schools.com/sql/default.asp
-
-http://graphql.org/
-
-
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-Mythical Man
-
-
 ## Refactoring and Patterns
 
 * [Refactoring](https://refactoring.com/)
@@ -102,11 +99,43 @@ http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distribute
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 
+## Interesting
 
-Shipping/Makers
-## Engineering Management
-## Leadership and Product
-## Project Management and Roadmaps
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://landing.google.com/sre/books
+
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+SRE
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+
+
+
+
+
+APIs
+
+http://www.w3schools.com/sql/default.asp
+
+Books
+
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+Mythical Man
 
 
 
@@ -127,7 +156,12 @@ Driven Development
 Useful Files
 
 
-Books
+
+Fear setting
+
+Marshall Goldsmith
+Habit Engineering
+Atomic Habits
 
 https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
@@ -135,12 +169,6 @@ https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Prof
 
 https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
 
-
-Fear setting
-
-Marshall Goldsmith
-Habit Engineering
-Atomic Habits
 Checklist Manifesto
 
 Knowledge base
@@ -153,10 +181,6 @@ https://www.nngroup.com/articles/prioritization-matrices/
 https://www.mindtools.com/pages/article/newHTE_91.htm
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
 
-
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
@@ -328,6 +352,8 @@ Background Processing
 * [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 <!--
+http://graphql.org/
+
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.python.org/3/library/asyncio.html
