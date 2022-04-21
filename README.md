@@ -274,17 +274,6 @@ https://twitter.com/anildash/status/1477312673775767557 | Anil Dash on Twitter: 
 
 
 
-https://github.com/KatherineMichel/organizations
-
-
-Farming versus mining
-Iteration
-https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
-
-https://basecamp.com/shapeup/webbook
-https://basecamp.com/gettingreal
-
-
 ## PAGNI and YAGNI
 
 PAGNI
@@ -294,29 +283,6 @@ https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitte
 
 YAGNI
 https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
-
-
-https://github.com/hynek
-https://github.com/pganssle
-
-
-Great examples
-Twitter
-https://glitch.com/@simonw | Simon Willison
-https://github.com/simonw
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
-https://simonwillison.net/2021/Jul/17/standing-out/
-
-
-Simon
-https://simonwillison.net/2022/
-https://simonwillison.net/2021/Jul/17/standing-out/
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
-https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
-
-https://en.wikipedia.org/wiki/Cron
-https://en.wikipedia.org/wiki/Continuous_integration
 
 
 https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
@@ -329,32 +295,12 @@ https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
 
 
-Git docs
-https://git-scm.com/docs
-https://git-scm.com/docs/git#_git_commands | Git - git Documentation
-https://git-scm.com/docs/git-commit | Git - git-commit Documentation
-https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
-
-reflog
-https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
-https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
-
 Interesting
 https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
 https://monorepo-book.github.io/detection.html | Detecting problems | Maintaining a Monorepo
 https://github.com/github/git-sizer | github/git-sizer: Compute various size metrics for a Git repository, flagging those that might cause problems
 
 
-testdriven.io
-https://testdriven.io/
-
-Code with Anthony
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
-Wordle clone
-https://www.youtube.com/watch?v=dViRI1iovoc
-
-CPython
-https://github.com/python/cpython
 
 
 Boost Your Django DX
@@ -364,18 +310,6 @@ Speed Up Your Django Tests
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 
-mypy
-http://mypy-lang.org/
-
-pytest
-https://docs.pytest.org/en/7.0.x/
-
-
-APIs
-
-http://www.w3schools.com/sql/default.asp
-
-http://graphql.org/
 
 
 Leetcode
@@ -401,29 +335,6 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 
-## Refactoring and Patterns
-
-https://refactoring.com/catalog/
-https://refactoring.guru/design-patterns/ | Design Patterns
-
-https://www.martinfowler.com/ | martinfowler.com
-https://martinfowler.com/eaaCatalog/
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
-
-
-High Scalability
-http://highscalability.com/start-here/
-http://highscalability.com/all-time-favorites/
-http://highscalability.com/blog/category/example
-
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 
 Domain Driven Design and Event Sourcing
@@ -516,6 +427,7 @@ http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRES
 https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
 https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
 http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+
 
 
 https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
@@ -723,6 +635,8 @@ Basecamp Product
 * [Basecamp Getting Real PDF](https://basecamp.com/books/getting-real)
 
 <!--
+
+https://blog.codinghorror.com/
 Joel
 https://blog.pragmaticengineer.com/the-developer-culture-test/ | The Pragmatic Engineer’s Developer Culture Test
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
@@ -1351,6 +1265,10 @@ https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc
 ## CI/CD
 
 <!--
+Release note automation
+https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
+
+
 https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
 
 https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
@@ -1359,7 +1277,6 @@ https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-expla
 https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
 
 https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
-https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
 
 https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
 
@@ -1414,13 +1331,14 @@ https://about.gitlab.com/2016/11/22/introducing-review-apps/
 ## Jez Humble
 
 <!--
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+
 https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
 
 https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
 https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
 
 https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
 -->
 
 ## Software Design Tools
@@ -2248,6 +2166,19 @@ https://pmarchive.com/guide_to_personal_productivity.html | Pmarchive - Guide to
 https://en.wikipedia.org/wiki/Time_management | Time management - Wikipedia
 -->
 
+## Success and Failure
+
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
+<!--
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+-->
+
 ## Speed Reading and Memory
 
 Memory Methods
@@ -2537,9 +2468,9 @@ Books- Management and Scaling
 * [Steve Martin: Born Standing Up: A Comic's Life](http://www.amazon.com/Born-Standing-Up-Comics-Life/dp/1416553657)
 
 <!--
-https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
-
 https://www.amazon.com/Ask-Your-Developer-Software-Developers-ebook/dp/B08425FV7S/ref=as_li_ss_tl | Amazon.com: Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century eBook: Lawson, Jeff: Kindle Store
+
+https://www.amazon.com/dp/B07SZQN3P6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The Innovation Stack: Building an Unbeatable Business One Crazy Idea at a Time eBook: McKelvey, Jim: Kindle Store
 
 Marty Cagan Inspired
 
@@ -2646,19 +2577,6 @@ https://www.darkpatterns.org/ | Dark Patterns
 IT and Ethics
 https://plato.stanford.edu/entries/it-moral-values/
 https://www.samharris.org/cache/1/podcast/item/what-is-technology-doing-to-us/index.html.gz
--->
-
-## Success and Failure
-
-Site Deaths and Failures
-* [Site Deaths](https://indieweb.org/site-deaths)
-* [Failure Museum](http://failuremuseum.com)
-
-<!--
-Creativity
-https://bored.solutions/
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
 -->
 
 ## Software Development Philosophies and Process
