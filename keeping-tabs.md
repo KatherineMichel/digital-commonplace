@@ -5,6 +5,41 @@
 
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
+https://www.mindtools.com/ | Management Training and Leadership Training - Online
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+
+https://www.mindtools.com/
+
+https://www.nngroup.com/articles/prioritization-matrices/
+
+https://www.mindtools.com/pages/article/newHTE_91.htm
+https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
+
+
+Checklist Manifesto
+
+Knowledge base
+
+
+Fear setting
+
+Marshall Goldsmith
+Habit Engineering
+Atomic Habits
+
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
+
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
+
+Barbara Oakley
+
 
 https://github.com/KatherineMichel/organizations
 
@@ -152,21 +187,7 @@ https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engin
 
 
 
-
-
-
 APIs
-
-http://www.w3schools.com/sql/default.asp
-
-Books
-
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-Mythical Man
-
 
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
@@ -186,38 +207,14 @@ Driven Development
 Useful Files
 
 
+Books
 
-Fear setting
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+Mythical Man
 
-Marshall Goldsmith
-Habit Engineering
-Atomic Habits
-
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
-
-Checklist Manifesto
-
-Knowledge base
-
-
-https://www.mindtools.com/
-
-https://www.nngroup.com/articles/prioritization-matrices/
-
-https://www.mindtools.com/pages/article/newHTE_91.htm
-https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
-
-
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
-http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
-
-Barbara Oakley
 
 
 Django News
@@ -392,6 +389,8 @@ http://graphql.org/
 ## Other Tools
 
 <!--
+http://www.w3schools.com/sql/default.asp
+
 https://www.sqlite.org/
 https://www.sqlite.org/lang.html
 -->
