@@ -105,6 +105,26 @@ https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
 
 
+Leetcode
+https://leetcode.com/
+
+
+https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
+
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+
+Python Patterns
+https://python-patterns.guide/
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+
+
 ## Refactoring and Patterns
 
 * [Refactoring](https://refactoring.com/)
