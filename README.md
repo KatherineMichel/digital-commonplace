@@ -225,19 +225,6 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
 
 
-https://future.a16z.com/software-development-building-for-99-developers/ | Building for the 99% Developers | Future
-
-Rules Engine
-https://twitter.com/hashnode/status/1496674240141086726 | Hashnode on Twitter: "Writing new code may be easy, but what about tinkering existing one? 😮 By utilising the Rules Engine pattern, we are able to model complex business processes as a series of rules and significantly reduce our cyclomatic complexity. 💡 By @carltonupp. https://t.co/aGm3PLn9sr" / Twitter
-https://blog.upperdine.dev/the-rules-engine-pattern | The Rules Engine Pattern
-
-https://en.wikipedia.org/wiki/Multitenancy
-https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wikipedia
-
-https://endoflife.date/ | Home | endoflife.date
-https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
-
-
 https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
 https://speakerdeck.com/flipperpa/introspective-restful-apis-with-postgres-and-django
 
@@ -254,6 +241,7 @@ https://twitter.com/heykahn/status/1473341250908549120 | Zain Kahn on Twitter: "
 
 Learning
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
+https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
 
 nonviolent communication - Google Search
 
@@ -298,28 +286,9 @@ https://github.com/github/git-sizer | github/git-sizer: Compute various size met
 
 
 
-Leetcode
-https://leetcode.com/
-
 
 Hardware... interesting
 https://en.algorithmica.org/ | Algorithmica
-
-
-https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
-
-https://www.algorist.com/ | The Algorithm Design Manual
-
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-
-Python Patterns
-https://python-patterns.guide/
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
 
@@ -337,6 +306,19 @@ https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz 
 
 
 <!--
+https://future.a16z.com/software-development-building-for-99-developers/ | Building for the 99% Developers | Future
+
+Rules Engine
+https://twitter.com/hashnode/status/1496674240141086726 | Hashnode on Twitter: "Writing new code may be easy, but what about tinkering existing one? 😮 By utilising the Rules Engine pattern, we are able to model complex business processes as a series of rules and significantly reduce our cyclomatic complexity. 💡 By @carltonupp. https://t.co/aGm3PLn9sr" / Twitter
+https://blog.upperdine.dev/the-rules-engine-pattern | The Rules Engine Pattern
+
+https://en.wikipedia.org/wiki/Multitenancy
+https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wikipedia
+
+https://endoflife.date/ | Home | endoflife.date
+https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
+
+
 https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
