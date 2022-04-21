@@ -237,11 +237,6 @@ Mythical Man
 
 
 
-Django News
-* [Django Store](https://django.threadless.com/)
-* [Django Chat Podcast (Carlton Gibson and William S. Vincent)](https://djangochat.com/)
-
-
 https://speed.python.org/ | Python Speed Center
 
 
