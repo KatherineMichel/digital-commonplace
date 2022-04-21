@@ -832,8 +832,6 @@ https://twitter.com/chriscoyier/status/1356369035840131077 | Chris Coyier on Twi
 
 
 
-
-
 https://elixir-lang.org
 
 
