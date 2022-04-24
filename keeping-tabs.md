@@ -307,6 +307,12 @@ https://github.com/devict | devICT
 <!--
 https://git-scm.com/ | Git
 https://git-scm.com/docs
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+
+Pro Git book
+https://git-scm.com/book/en/v2
+
 https://git-scm.com/docs/git#_git_commands | Git - git Documentation
 https://git-scm.com/docs/git-commit | Git - git-commit Documentation
 https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
@@ -661,6 +667,7 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 <!--
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
 -->
+
 
 ### Networking and Events
 
