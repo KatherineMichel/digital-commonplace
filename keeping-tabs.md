@@ -307,8 +307,11 @@ https://github.com/devict | devICT
 <!--
 https://git-scm.com/ | Git
 https://git-scm.com/docs
+
+Resources
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+https://git-scm.com/doc/ext
 
 Pro Git book
 https://git-scm.com/book/en/v2
@@ -323,7 +326,12 @@ https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile
 
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
+https://mypy.readthedocs.io/en/stable/kinds_of_types.html | Kinds of types — Mypy 0.931 documentation
+https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.930 documentation
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) — Mypy 0.910 documentation
+
+Python 3 supports an annotation syntax for function declarations.
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 
 pytest
 https://docs.pytest.org/en/7.0.x/
@@ -352,6 +360,16 @@ https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A 
 
 ## Stack
 
+Diagrams and Mockups
+* [Miro](https://miro.com/)
+* [Figma](https://www.figma.com/)
+* [Mermaid](https://mermaid-js.github.io/mermaid/)
+
+<!--
+(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
+https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
+-->
+
 Domain Modelling
 * [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 
@@ -372,11 +390,35 @@ Platform
 * [Packer](https://www.packer.io/)
 * [Consul](https://www.consul.io/)
 
-Python, Django, Django Rest Framework
+Python, Django
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com/)
-* [Django REST Framework](https://www.django-rest-framework.org/)
+
+Debugging and Profiling
+* [Django Shell Plus](https://django-extensions.readthedocs.io/en/latest/shell_plus.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+* [ipdb GitHub](https://github.com/gotcha/ipdb)
+* [iPython](http://ipython.org/)
+
+Logging
+* [Sentry](https://sentry.io/welcome/)
+* [Loggly](https://www.loggly.com/)
+* [Datadog](https://www.datadoghq.com/)
+
+Database
 * [Postgres](https://www.postgresql.org/)
+
+Database Tools
+* [Postico](https://eggerapps.at/postico/)
+* [TablePlus](https://setapp.com/apps/tableplus)
+
+Miscellaneous Tools
+* [Setapp](https://setapp.com/)
+* [Dash](https://kapeli.com/dash)
+
+API
+* [GraphQL](http://graphql.org/)
+* [Django REST Framework](https://www.django-rest-framework.org/)
 
 Frontend and Mobile
 * [React](https://reactjs.org/)
@@ -385,6 +427,7 @@ Frontend and Mobile
 * [SASS](https://sass-lang.com/)
 
 Analysis and Forecasting
+* [Databricks](https://databricks.com/)
 * [Pandas](https://pandas.pydata.org/)
 * [NumPy](https://numpy.org/)
 * [Jupyter](https://jupyter.org/)
@@ -395,13 +438,9 @@ Background Processing
 * [Celery](https://docs.celeryproject.org/)
 * [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
 * [Apache Airflow](https://airflow.apache.org/)
-* [Loggly](https://www.loggly.com/)
-* [Sentry](https://sentry.io/welcome/)
 * [CloudWatch](https://aws.amazon.com/cloudwatch/)
 
 <!--
-http://graphql.org/
-
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.python.org/3/library/asyncio.html
