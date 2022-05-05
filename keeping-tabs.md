@@ -1,6 +1,8 @@
 # Keeping Tabs
 
 <!--
+https://towardsdatascience.com/
+
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -324,11 +326,40 @@ reflog
 https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
 https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
 
+DB Relationships
+
+Queryset API Reference
+Queryset methods
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#queryset-api-1
+Queryset field lookups
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups-1
+https://docs.djangoproject.com/en/4.0/ref/models/expressions/
+https://docs.djangoproject.com/en/4.0/ref/models/lookups/
+
+pk
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
+
+Model Fields
+https://docs.djangoproject.com/en/4.0/ref/models/fields/
+
+One to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+
+Many to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+Foreign Key
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+
+MyPy Cheat Sheet
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
 https://mypy.readthedocs.io/en/stable/kinds_of_types.html | Kinds of types — Mypy 0.931 documentation
 https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.930 documentation
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) — Mypy 0.910 documentation
 
 Python 3 supports an annotation syntax for function declarations.
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
