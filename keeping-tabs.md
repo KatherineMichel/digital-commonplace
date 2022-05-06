@@ -1,21 +1,64 @@
 # Keeping Tabs
 
 <!--
-https://towardsdatascience.com/
+## Pinax
 
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+
+
+## Events
+
+https://www.python.org/events/
+
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+-->
+
+<!--
+## Livestream
+
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+<!--
+## Local Competitions and Hackathons
+
+Game Jam
+https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
+https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
+
+https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
+https://github.com/devict | devICT
+-->
+
+
+
+
+<!--
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
 https://www.mindtools.com/ | Management Training and Leadership Training - Online
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
-
-https://www.mindtools.com/
-
-https://www.nngroup.com/articles/prioritization-matrices/
 
 https://www.mindtools.com/pages/article/newHTE_91.htm
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
+
+
+
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+https://www.nngroup.com/articles/prioritization-matrices/
 
 
 Checklist Manifesto
@@ -43,21 +86,10 @@ http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learnin
 Barbara Oakley
 
 
-https://github.com/KatherineMichel/organizations
-
-
 Shipping/Makers
 ## Engineering Management
 ## Leadership and Product
 ## Project Management and Roadmaps
-
-
-Boost Your Django DX
-https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
-Speed Up Your Django Tests
-
-Beyond the Basic Stuff with Python
-https://inventwithpython.com/beyond/
 
 
 Farming versus mining
@@ -67,25 +99,10 @@ https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
 
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-
-
-testdriven.io
-https://testdriven.io/
-
-Code with Anthony
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
-Wordle clone
-https://www.youtube.com/watch?v=dViRI1iovoc
-
 
 Great release managers
 https://github.com/hynek
 https://github.com/pganssle
-
-
-CPython
-https://github.com/python/cpython
 
 
 Great examples
@@ -103,8 +120,11 @@ https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
 
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
 https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
+
 
 
 Leetcode
@@ -144,20 +164,14 @@ https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clea
 
 
 What Happens When
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/OSI_model
+
 
 High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 * [Ilya Grigorik](https://www.igvita.com/)
 
-High Scalability
-http://highscalability.com/start-here/
-http://highscalability.com/all-time-favorites/
-http://highscalability.com/blog/category/example
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
@@ -179,41 +193,7 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
 
 
-https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
-
-
-## Interesting
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-https://landing.google.com/sre/books
-
-https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre
-
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-
-SRE
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
-
-
-
 APIs
-
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/OSI_model
 
 
 SRE, DevOps, CI/CD
@@ -239,7 +219,31 @@ Mythical Man
 
 
 
-https://speed.python.org/ | Python Speed Center
+
+## Ideas
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+
+Boost Your Django DX
+https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
+
+Speed Up Your Django Tests
+
+Beyond the Basic Stuff with Python
+https://inventwithpython.com/beyond/
+
+
+testdriven.io
+https://testdriven.io/
+
+Code with Anthony
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
+
+https://towardsdatascience.com/
 
 
 http://djangopeople.net/us/
@@ -251,125 +255,56 @@ Django Snippets
 https://djangosnippets.org/
 
 
-## Ideas
+CPython
+https://github.com/python/cpython
 
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-
-## DEFNA
-
-https://djangocon.us/ | Links | DjangoCon US
-https://2022.djangocon.us/ | DjangoCon US 2022 conference will take place in San Diego, California from October 16-21, 2022! | DjangoCon US
+https://speed.python.org/ | Python Speed Center
 
 
-## Pinax
+## High Performance Organizations
 
-https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+https://github.com/KatherineMichel/organizations
 
-https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+High Scalability
+http://highscalability.com/start-here/
+http://highscalability.com/all-time-favorites/
+http://highscalability.com/blog/category/example
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+## How They
+
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre
+
+## Google
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+## SRE
+
+https://landing.google.com/sre/books
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+SRE
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 -->
 
-<!--
-## Events
 
-https://www.python.org/events/
-
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
--->
-
-<!--
-## Livestream
-
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-<!--
-## Local Competitions and Hackathons
-
-Game Jam
-https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
-https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
-
-https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
-https://github.com/devict | devICT
--->
 
 ## Dev Environment
-
-<!--
-https://git-scm.com/ | Git
-https://git-scm.com/docs
-
-Resources
-https://training.github.com/downloads/github-git-cheat-sheet.pdf
-https://ndpsoftware.com/git-cheatsheet.html#loc=index;
-https://git-scm.com/doc/ext
-
-Pro Git book
-https://git-scm.com/book/en/v2
-
-https://git-scm.com/docs/git#_git_commands | Git - git Documentation
-https://git-scm.com/docs/git-commit | Git - git-commit Documentation
-https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
-
-reflog
-https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
-https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
-
-DB Relationships
-
-Queryset API Reference
-Queryset methods
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#queryset-api-1
-Queryset field lookups
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups-1
-https://docs.djangoproject.com/en/4.0/ref/models/expressions/
-https://docs.djangoproject.com/en/4.0/ref/models/lookups/
-
-pk
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
-
-Model Fields
-https://docs.djangoproject.com/en/4.0/ref/models/fields/
-
-One to One
-https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
-
-Many to One
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
-Foreign Key
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
-
-MyPy Cheat Sheet
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
-
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
-https://mypy.readthedocs.io/en/stable/kinds_of_types.html | Kinds of types — Mypy 0.931 documentation
-https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.930 documentation
-
-Python 3 supports an annotation syntax for function declarations.
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
-
-pytest
-https://docs.pytest.org/en/7.0.x/
-
-PyTest
-https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
--->
 
 <!--
 PyCharm
@@ -388,6 +323,118 @@ https://github.com/fcurella/pycharm-configs | fcurella/pycharm-configs: A collec
 https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-pycharm-course: Course demos and handouts for Talk Python's Mastering PyCharm course
 https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
 -->
+
+<!--
+## Git
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs
+
+Pro Git book
+https://git-scm.com/book/en/v2
+
+https://git-scm.com/docs/git#_git_commands | Git - git Documentation
+https://git-scm.com/docs/git-commit | Git - git-commit Documentation
+https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
+
+reflog
+https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
+https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
+
+Resources
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+https://git-scm.com/doc/ext
+
+
+## Django Database
+
+DB Relationships
+
+Queryset API Reference
+Queryset methods
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#queryset-api-1
+Queryset field lookups
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups-1
+https://docs.djangoproject.com/en/4.0/ref/models/expressions/
+https://docs.djangoproject.com/en/4.0/ref/models/lookups/
+
+select related and pre-fetch related
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#select-related
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-objects
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-objects
+
+pk
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
+
+Model Fields
+https://docs.djangoproject.com/en/4.0/ref/models/fields/
+
+One to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+
+Many to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+Foreign Key
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+
+## Testing
+
+pytest
+https://docs.pytest.org/en/7.0.x/
+
+PyTest
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+unittest
+https://docs.python.org/3/library/unittest.html
+
+Important summary
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/
+
+Django testing
+https://docs.djangoproject.com/en/4.0/topics/testing/
+https://docs.djangoproject.com/en/4.0/topics/testing/overview/
+Advanced
+https://docs.djangoproject.com/en/4.0/topics/testing/advanced/
+Request factory
+https://docs.djangoproject.com/en/4.0/topics/testing/advanced/#the-request-factory
+https://docs.djangoproject.com/en/4.0/topics/testing/advanced/#other-testing-frameworks
+
+Testing tutorial
+https://docs.djangoproject.com/en/4.0/intro/tutorial05/
+
+## Type Hinting
+
+MyPy Cheat Sheet
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
+https://mypy.readthedocs.io/en/stable/kinds_of_types.html | Kinds of types — Mypy 0.931 documentation
+https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.930 documentation
+
+Python 3 supports an annotation syntax for function declarations.
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
+-->
+
+<!--
+## Debugging
+
+https://sentry.io/welcome/
+
+## Profiling
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
+
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+-->
+
 
 ## Stack
 
