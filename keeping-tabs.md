@@ -388,9 +388,24 @@ https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest
 
 unittest
 https://docs.python.org/3/library/unittest.html
+https://docs.python.org/3/library/unittest.html#unittest.TestCase
+
+Assertions list
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug
+
+Django's custom TestCase (includes custom assertion methods)
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TestCase
+Custom assertions
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
 
 Important summary
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/
+To use the test client, instantiate django.test.Client and retrieve web pages:
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#the-test-client
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#testing-responses
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.Response
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#provided-test-case-classes
+Types of Test Cases
 
 Django testing
 https://docs.djangoproject.com/en/4.0/topics/testing/
