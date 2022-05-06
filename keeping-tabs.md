@@ -149,27 +149,9 @@ https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
 
-What Happens When
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/OSI_model
-
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-* [Ilya Grigorik](https://www.igvita.com/)
-
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
-
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
 APIs
 
 Useful Files
-
-
-
 
 
 
@@ -291,6 +273,22 @@ https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+## Interesting
+
+What Happens When
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/OSI_model
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 ## Books
 
@@ -422,6 +420,8 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 
 <!--
 ## Debugging
+
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html
 
 https://sentry.io/welcome/
 
