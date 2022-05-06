@@ -42,9 +42,6 @@ https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
 https://github.com/devict | devICT
 -->
 
-
-
-
 <!--
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
@@ -56,7 +53,6 @@ https://www.mindtools.com/pages/article/newHTE_91.htm
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
 
 
-
 https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
 https://www.nngroup.com/articles/prioritization-matrices/
 
@@ -65,6 +61,8 @@ Checklist Manifesto
 
 Knowledge base
 
+
+## Goals
 
 Fear setting
 
@@ -78,12 +76,14 @@ https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Prof
 
 https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
 
+## Learning
 
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
 http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
 
 Barbara Oakley
+
 
 
 Shipping/Makers
@@ -98,6 +98,7 @@ https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 
 https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
+
 
 
 Great release managers
@@ -147,23 +148,9 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
-## Refactoring and Patterns
-
-* [Refactoring](https://refactoring.com/)
-
-https://refactoring.com/catalog/
-https://refactoring.guru/design-patterns/ | Design Patterns
-
-https://www.martinfowler.com/ | martinfowler.com
-https://martinfowler.com/eaaCatalog/
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
-
 
 What Happens When
+
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://en.wikipedia.org/wiki/OSI_model
 
@@ -172,50 +159,16 @@ High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
 * [Ilya Grigorik](https://www.igvita.com/)
 
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
 
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
-
-## Domain Driven Design and Event Sourcing
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-Event Sourcing
-https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
-https://martinfowler.com/bliki/CQRS.html | CQRS
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
-
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
-
-
 APIs
-
-
-SRE, DevOps, CI/CD
-
-Jez Humble
-Accelerate
-
-Software construction tools
-UML, TLA+
-
-Driven Development
 
 Useful Files
 
 
-Books
-
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-Mythical Man
 
 
 
@@ -261,6 +214,45 @@ https://github.com/python/cpython
 https://speed.python.org/ | Python Speed Center
 
 
+SRE, DevOps, CI/CD
+
+Jez Humble
+Accelerate
+
+Software construction tools
+UML, TLA+
+
+Driven Development
+
+
+## Refactoring and Patterns
+
+* [Refactoring](https://refactoring.com/)
+
+https://refactoring.com/catalog/
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+https://www.martinfowler.com/ | martinfowler.com
+https://martinfowler.com/eaaCatalog/
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+## Domain Driven Design and Event Sourcing
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+Event Sourcing
+https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
+https://martinfowler.com/bliki/CQRS.html | CQRS
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+
+
 ## High Performance Organizations
 
 https://github.com/KatherineMichel/organizations
@@ -295,11 +287,18 @@ https://landing.google.com/sre/books
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
-SRE
 https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+## Books
+
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+Mythical Man
 -->
 
 
