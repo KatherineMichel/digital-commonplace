@@ -222,6 +222,7 @@ https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
 
+
 ## Domain Driven Design and Event Sourcing
 
 Domain-Driven Design (DDD)
