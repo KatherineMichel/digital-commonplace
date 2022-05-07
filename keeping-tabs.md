@@ -114,6 +114,8 @@ https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a fea
 https://simonwillison.net/2021/Jul/17/standing-out/
 
 
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
+
 Simon
 https://simonwillison.net/2022/
 https://simonwillison.net/2021/Jul/17/standing-out/
@@ -371,6 +373,10 @@ https://docs.djangoproject.com/en/4.0/ref/models/fields/
 
 One to One
 https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
+
+Related Manager (one to many, many to many, set, add, etc.)
+https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
+
 https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
 
@@ -380,6 +386,9 @@ Foreign Key
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
 
 ## Testing
+
+Python testing tools taxonomy
+https://wiki.python.org/moin/PythonTestingToolsTaxonomy
 
 pytest
 https://docs.pytest.org/en/7.0.x/
@@ -394,8 +403,16 @@ https://docs.python.org/3/library/unittest.html#unittest.TestCase
 Assertions list
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug
 
+assertRaises
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
+Organizing tests
+https://docs.python.org/3/library/unittest.html#organizing-tests
+
 Django's custom TestCase (includes custom assertion methods)
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TestCase
+
+Important
 Custom assertions
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
 
