@@ -172,6 +172,9 @@ Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 
 
+realpython.com
+https://realpython.com/
+
 testdriven.io
 https://testdriven.io/
 
@@ -307,6 +310,9 @@ Mythical Man
 ## Dev Environment
 
 <!--
+PyCharm's top keyboard shortcuts
+https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
+
 PyCharm
 https://www.jetbrains.com/help/pycharm/
 https://blog.jetbrains.com/pycharm/
@@ -391,6 +397,7 @@ https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
 Foreign Key
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
 
+
 ## Testing
 
 Python testing tools taxonomy
@@ -398,6 +405,7 @@ https://wiki.python.org/moin/PythonTestingToolsTaxonomy
 
 pytest
 https://docs.pytest.org/en/7.0.x/
+https://docs.pytest.org/en/6.2.x/parametrize.html
 
 PyTest
 https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
@@ -422,10 +430,32 @@ Important
 Custom assertions
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
 
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRaisesMessage
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertWarnsMessage
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertURLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRedirects
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLNotEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLNotEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertInHTML
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONNotEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
+
 Important summary
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/
 To use the test client, instantiate django.test.Client and retrieve web pages:
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#the-test-client
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#making-requests
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#testing-responses
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.Response
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#provided-test-case-classes
@@ -442,6 +472,7 @@ https://docs.djangoproject.com/en/4.0/topics/testing/advanced/#other-testing-fra
 
 Testing tutorial
 https://docs.djangoproject.com/en/4.0/intro/tutorial05/
+
 
 ## Type Hinting
 
