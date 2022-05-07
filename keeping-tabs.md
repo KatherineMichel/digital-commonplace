@@ -377,6 +377,12 @@ https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
 Related Manager (one to many, many to many, set, add, etc.)
 https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
 
+select_related (foreign key, related objects)
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related
+
+prefetch_related (many-to-many)
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.prefetch_related
+
 https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
 
