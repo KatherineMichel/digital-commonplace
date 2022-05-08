@@ -156,6 +156,15 @@ APIs
 Useful Files
 
 
+https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
+
+https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
+
+Network communication protocols
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
+
+
 
 ## Ideas
 
@@ -333,6 +342,8 @@ https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A 
 <!--
 ## Git
 
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+
 https://git-scm.com/ | Git
 https://git-scm.com/docs
 
@@ -352,6 +363,10 @@ https://training.github.com/downloads/github-git-cheat-sheet.pdf
 https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 https://git-scm.com/doc/ext
 
+
+## Modelling
+
+https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
 
 ## Django Database
 
@@ -645,6 +660,9 @@ GitHub
 * [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
 <!--
+https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
+https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+
 https://twitter.com/djangoproject/
 
 https://planetpython.org/ | Planet Python
