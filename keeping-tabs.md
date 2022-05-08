@@ -644,6 +644,10 @@ Python
 Django News
 * [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
 
+<!--
+https://bas.codes/ | Bas codes
+-->
+
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
