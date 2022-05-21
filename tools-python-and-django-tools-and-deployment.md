@@ -1,6 +1,39 @@
 # Python and Django Tools and Deployment
 
 <!--
+## PyScript
+
+https://pyscript.net/ | PyScript | Run Python in your HTML
+https://github.com/pyscript/pyscript | pyscript/pyscript
+https://twitter.com/pyscript_dev | pyscript_dev (@pyscript_dev) / Twitter
+https://www.anaconda.com/blog/pyscript-python-in-the-browser | Anaconda | New from Anaconda: Python in the Browser
+https://twitter.com/jezdez/status/1520459512804777984 | Jannis Leidel 💙💛🐍📦🚲 on Twitter: "Quite excited about what @pwang presented today at #PyCon2022 that a lot of people have worked on: PyScript enables "Programming for the 99%", using browsers as the platform and showcases what Python and the Web may do for data and coding literacy." / Twitter
+https://twitter.com/anthonypjshaw/status/1521303928083648513 | https://twitter.com/anthonypjshaw/status/1521303928083648513
+
+## Tools Matrix
+  
+Tools Diagram
+https://twitter.com/nletcher/status/1487782511543746565 | Ned Letcher on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / Twitter
+https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
+
+## DALLE
+
+https://twitter.com/icymihn/status/1520921032613371904 | ICYMI HN on Twitter: "Limitations of DALL-E https://t.co/oTPp54D3j1 comm: https://t.co/eD5htj3Y2k" / Twitter
+https://openai.com/dall-e-2/ | DALL·E 2
+https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
+https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (--> @dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
+
+## Testing
+
+https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
+
+https://en.wikipedia.org/wiki/Smoke_testing_(software)#:~:text=In%20computer%20programming%20and%20software,reject%20a%20prospective%20software%20release. | Smoke testing (software) - Wikipedia
+
+https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
+
+
+
+
 Pytest DRF
 https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
 
@@ -92,10 +125,6 @@ https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modern
 Important
 https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
-
-Tools Diagram
-https://twitter.com/nletcher/status/1486935088319242245/photo/1 | Ned Letcher on Twitter: "Hey #Python peeps, I'm working on a blog post trying to untangle Python project wrangling tools by their features. Thoughts on this breakdown? Have I missed any major tools or features you'd add? https://t.co/JCuVba7GtF" / Twitter
-https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
 
 
 Dave Beazley- Dataklasses
