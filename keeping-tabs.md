@@ -223,6 +223,8 @@ https://nostarch.com/recursive-book-recursion | The Recursive Book of Recursion 
 
 https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
 
+https://jvns.ca/blog/2022/03/08/tiny-programs/ | Some tiny personal programs I've written
+
 
 http://djangopeople.net/us/
 
