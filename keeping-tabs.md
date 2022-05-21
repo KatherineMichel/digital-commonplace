@@ -328,6 +328,10 @@ Mythical Man
 ## Dev Environment
 
 <!--
+VS Code for Python Dev
+https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
+https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
+
 PyCharm's top keyboard shortcuts
 https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
 
@@ -570,6 +574,19 @@ Debugging and Profiling
 * [pdb](https://docs.python.org/3/library/pdb.html)
 * [ipdb GitHub](https://github.com/gotcha/ipdb)
 * [iPython](http://ipython.org/)
+
+Django Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+Django Shell Plus
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
+https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
+
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+-->
 
 Logging
 * [Sentry](https://sentry.io/welcome/)
