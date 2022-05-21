@@ -66,7 +66,6 @@ https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
 
 https://beeware.org/
 
-https://pypi.org/project/pip-audit/ | pip-audit · PyPI
 
 Game engine and scripting language
 https://www.pygame.org/project-PyWright-904-.html
@@ -304,7 +303,7 @@ https://data-apis.org/blog/announcing_the_consortium/
 
 ## Tools
 
-https://pypi.org/project/pip-audit/
+https://pypi.org/project/pip-audit/ | pip-audit · PyPI
 https://twitter.com/di_codes/status/1466109114442989570 | https://twitter.com/di_codes/status/1466109114442989570
 
 Python Docker Image
@@ -529,6 +528,7 @@ Django Performance and Optimization
 <!--
 Adam tip
 -->
+
 
 ## Python Profiling
 
