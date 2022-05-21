@@ -57,6 +57,9 @@ https://github.com/devict | devICT
 -->
 
 <!--
+The Science of Well Being
+https://www.coursera.org/learn/the-science-of-well-being/home/week/1
+
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 * [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
@@ -66,9 +69,11 @@ https://www.mindtools.com/ | Management Training and Leadership Training - Onlin
 https://www.mindtools.com/pages/article/newHTE_91.htm
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
 
-
 https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
 https://www.nngroup.com/articles/prioritization-matrices/
+
+12 Ways to Get Smarter
+https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
 
 
 Checklist Manifesto
@@ -139,10 +144,21 @@ https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
 
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+Do you use source control?
+Can you make a build in one step?
+Do you make daily builds?
+Do you have a bug database?
+Do you fix bugs before writing new code?
+Do you have an up-to-date schedule?
+Do you have a spec?
+Do programmers have quiet working conditions?
+Do you use the best tools money can buy?
+Do you have testers?
+Do new candidates write code during their interview?
+Do you do hallway usability testing?
 
 https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
-
 
 
 Leetcode
