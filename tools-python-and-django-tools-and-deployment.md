@@ -15,6 +15,10 @@ Httpx
 https://opensource.com/article/22/3/python-httpx | How to use httpx, a web client for Python | Opensource.com
 
 
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+
 ## Django Surveys
 
 https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2022-sh?pcode=976163277515520354 | Developer Ecosystem Survey 2022
@@ -75,20 +79,6 @@ https://github.com/google/python-fire | google/python-fire: Python Fire is a lib
 https://gist.github.com/jefftriplett/e87b36d750f94e48080a2be46e71dbe1 | Django Management Command to print a "Magic Link" for one-click log-in. This is nice for people who project switch or don't want to remember passwords.
 
 
-Security
-https://docs.djangoproject.com/en/dev/internals/security/#reporting-security-issues | Django’s security policies | Django documentation | Django
-
-
-VS Code for Python Dev
-https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
-https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
-
-
-Unit testing and CI
-https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
-https://twitter.com/DataUmbrella/status/1466770451133313037 | Data Umbrella on Twitter: "In case you missed our event: Intro to Unit Testing and Continuous Integration by @mariatta, the video is available. And, subscribe to our YouTube channel for more videos: https://t.co/FVNADa4Vdp" / Twitter
-
-
 Terminal Tutorial
 https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
@@ -98,20 +88,10 @@ Talk
 https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
 
 
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+Unit testing and CI
+https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
+https://twitter.com/DataUmbrella/status/1466770451133313037 | Data Umbrella on Twitter: "In case you missed our event: Intro to Unit Testing and Continuous Integration by @mariatta, the video is available. And, subscribe to our YouTube channel for more videos: https://t.co/FVNADa4Vdp" / Twitter
 
-Testing
-
-https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
-
-JS Scene
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
 
 
 ## Choices
@@ -146,9 +126,6 @@ https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-g
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
 
 
@@ -234,6 +211,7 @@ https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@
 -->
 
 
+
 <!--
 Telemetry
 https://prometheus.io/ | Prometheus - Monitoring system & time series database
@@ -250,12 +228,7 @@ https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension
 
 https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
 
-https://en.wikipedia.org/wiki/Smoke_testing_(software)#:~:text=In%20computer%20programming%20and%20software,reject%20a%20prospective%20software%20release. | Smoke testing (software) - Wikipedia
-
 https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
-
-
-## Testing
 
 https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
 
@@ -284,10 +257,34 @@ https://www.hillelwayne.com/talks/beyond-unit-tests/ | Beyond Unit Tests • Hil
 
 https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
+
+
+Testing
+
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+
+
+
+
+## JS Scene
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
 -->
 
 
 <!--
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
 Pyenv Global
 https://twitter.com/webology/status/699277088256163840
 
@@ -296,9 +293,6 @@ https://docs.djangoproject.com/en/4.0/topics/db/transactions/ | Database transac
 
 https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
 Social Auth
-
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
 
 
 ## Tools
@@ -503,7 +497,7 @@ Python- PEP 8
 
 <!--
 ## Django Security Policy
-
+https://docs.djangoproject.com/en/dev/internals/security/#reporting-security-issues | Django’s security policies | Django documentation | Django
 https://docs.djangoproject.com/en/3.2/internals/security/
 -->
 
@@ -547,30 +541,6 @@ Tracemalloc
 https://docs.python.org/3/library/tracemalloc.html
 -->
 
-
-## Django Third Party Tools- Debugging
-
-Python- Django- Debug Toolbar and Panel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
-<!--
-ipdb
-https://ipython.org/ | Jupyter and the future of IPython — IPython
-https://pypi.org/project/ipdb/ | ipdb · PyPI
-
-Django Shell Plus
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
-https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
-
-Django Shell Plus
-https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
-https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
-
-Simon
-https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
--->
 
 ## Python Debugger and doctests
 
