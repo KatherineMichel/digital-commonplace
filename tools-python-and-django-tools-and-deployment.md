@@ -3,6 +3,36 @@
 <!--
 https://buttercms.com/
 
+Tailwind
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/ | You can now use 'pip' to install Tailwind CSS. Node.js is no longer required! ⚡ | TimOnWeb
+
+Httpx
+https://opensource.com/article/22/3/python-httpx | How to use httpx, a web client for Python | Opensource.com
+
+## Django Surveys
+
+https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2022-sh?pcode=976163277515520354 | Developer Ecosystem Survey 2022
+
+https://lp.jetbrains.com/django-developer-survey-2021-486/ | Django Developers Survey 2021 Results
+
+## Django Releases
+
+Django Async
+https://twitter.com/djangonewsbot/status/1521670962755760128 | Django News on Twitter: "[News] Django 4.1 will have an asynchronous interface for QuerySets! Very exciting news that Django 4.1, expected in August 2022, will have an asynchronous interface for QuerySets! #djangonews https://t.co/W7dfsnZvLv" / Twitter
+
+## Python Releases
+
+Speed
+https://www.python.org/downloads/release/python-3110a6/ | Python Release Python 3.11.0a6 | Python.org
+https://twitter.com/methane/status/1501108529297432577 | Naoki 🇺🇦🇯🇵 on Twitter: "@anthonypjshaw FWIW, Python 3.11.0a6 is significantly faster than 3.10. https://t.co/3km14aauVU" / Twitter
+
+## Profiling
+
+https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profiler for Python
+
+https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
+
 ## PyScript
 
 https://pyscript.net/ | PyScript | Run Python in your HTML
