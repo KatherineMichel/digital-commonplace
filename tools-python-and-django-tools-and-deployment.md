@@ -502,6 +502,40 @@ https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility fo
 https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
 -->
 
+## Tradeoffs
+
+<!--
+Time Zones, Postal Codes
+
+https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
+
+https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
+http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+
+https://www.timeanddate.com/time/map/
+https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
+
+https://en.wikipedia.org/wiki/Postal_code
+https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
+
+
+Calendars
+https://en.wikipedia.org/wiki/Calendar_era
+https://en.wikipedia.org/wiki/Gregorian_calendar
+https://en.wikipedia.org/wiki/Julian_calendar
+https://twitter.com/qntm/status/1500285601438142465 | qntm on Twitter: "JavaScript uses the proleptic Gregorian calendar, Swift apparently switches to the proleptic Julian calendar when you go back beyond 1582" / Twitter
+
+https://twitter.com/Nate_somewhere/status/1484645437785055235 | (1) Nathan Danielsen on Twitter: "Today I've learned about AZ time that is another timezone in Mountain timezone but doesn't do daylight savings." / Twitter
+
+
+https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+
+Falsehoods
+http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
+https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
+https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
+http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+-->
 
 ## Awesome Python and Django
 
