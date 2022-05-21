@@ -1,6 +1,20 @@
 # Keeping Tabs
 
 <!--
+realpython.com
+https://realpython.com/
+
+testdriven.io
+https://testdriven.io/
+
+Code with Anthony
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
+
+https://towardsdatascience.com/
+
+
 ## Pinax
 
 https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
@@ -99,6 +113,7 @@ https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
 https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
 
+https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
 
 
 Great release managers
@@ -180,19 +195,11 @@ Speed Up Your Django Tests
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
 
-realpython.com
-https://realpython.com/
+https://nostarch.com/recursive-book-recursion | The Recursive Book of Recursion | No Starch Press
 
-testdriven.io
-https://testdriven.io/
-
-Code with Anthony
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
-Wordle clone
-https://www.youtube.com/watch?v=dViRI1iovoc
-
-https://towardsdatascience.com/
+https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
 
 
 http://djangopeople.net/us/
@@ -282,6 +289,8 @@ https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Googl
 https://landing.google.com/sre/books
 
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+
+https://sre.google/books/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
 https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
