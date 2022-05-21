@@ -19,6 +19,11 @@ Important
 https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
 
+Faster Python
+https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf | ideas/FasterCPythonDark.pdf at main · faster-cpython/ideas
+
+
+
 ## Django Surveys
 
 https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2022-sh?pcode=976163277515520354 | Developer Ecosystem Survey 2022
@@ -138,10 +143,6 @@ Dave Beazley
 https://twitter.com/simonw/status/1472788683199631362 | Simon Willison on Twitter: "It took me quite a while to read through this and understand all of the tricks that it uses Here's my heavily annotated copy of @dabeaz's code that attempts to explain how it all works: https://t.co/A4hzo9Tay2" / Twitter
 
 
-Faster Python
-https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf | ideas/FasterCPythonDark.pdf at main · faster-cpython/ideas
-
-
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 
 Python + Web Assembly
@@ -208,75 +209,6 @@ https://twitter.com/simonw/status/1481020195074293761 | Simon Willison on Twitte
 
 setuptools-scm
 https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@AlbinPCLarsson @easyaspython I used to do the exact sand thing. Then I discovered the setuptools-scm package and twine. Have ya tried them?" / Twitter
--->
-
-
-
-<!--
-Telemetry
-https://prometheus.io/ | Prometheus - Monitoring system & time series database
-https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
-
-
-## Profiling
-
-https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profiler for Python
-
-https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
-
-## Testing
-
-https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
-
-https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
-
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-https://test-driven-django-development.readthedocs.io/en/v2.0/ | Workshop: Test-Driven Web Development with Django — Test-Driven Django Development 0.1.0 documentation
-
-
-## Testing
-
-https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
-
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-
-https://www.valentinog.com/blog/testing-django/
-
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/ | Improve Your Python: Understanding Unit Testing
-https://blog.ganssle.io/articles/2019/08/test-as-installed.html | Testing your python package as installed
-
-https://hynek.me/articles/testing-packaging/ | Testing & Packaging
-https://hynek.me/articles/document-your-tests/ | Why You Should Document Your Tests
-
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/%20%7C%20Let's%20talk%20about%20testing%20Django%20apps | Page not found
-
-https://www.hillelwayne.com/talks/beyond-unit-tests/ | Beyond Unit Tests • Hillel Wayne
-
-https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
-https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
-
-
-Testing
-
-https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
-
-
-
-
-## JS Scene
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
 -->
 
 
