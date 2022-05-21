@@ -15,6 +15,9 @@ https://anchor.fm/ | Anchor - The easiest way to make a podcast
 Important
 https://twitter.com/emollick/status/1156788598303272960 | Ethan Mollick on Twitter: "The world's top published happiness researchers were asked to rank the most effective &amp; feasible strategies to happiness. Here's the list, though most of the results aren't shocking (though pets are lower &amp; shortening commutes are higher than expected) https://t.co/JglJfpZmHi https://t.co/c3InSDovtb" / Twitter
 
+https://www.cnbc.com/2019/05/13/i-took-yales-most-popular-class-ever-and-it-completely-changed-how-i-spend-my-money.html | I took Yale's most popular class ever—and it changed how I spend money
+https://twitter.com/heykahn/status/1473341250908549120 | Zain Kahn on Twitter: "Yale's most popular class in it's 320 year history: Psychology and the Good Life. Here are 7 lessons from the course to help you live a happier life:" / Twitter
+
 
 Topgrading competencies
 https://strategyandexecution.com.au/topgrading-hiring-for-attitude/
@@ -35,10 +38,13 @@ https://www.chrismytton.com/be-prolific/ | Be prolific - Chris Mytton
 
 https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
 https://drive.google.com/file/d/12V2WISNqWeArYfzUKXMgX88paZeBW6Zm/view
+https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
 
 https://lifehacker.com/the-nine-types-of-intelligence-every-person-has-1772693736 | The Nine Types of Intelligence Every Person Has
 
 https://twitter.com/ShaneAParrish/status/1356658536751779844 | Shane Parrish on Twitter: "I've taught thousands of people make smart decisions without getting lucky. Here is a thread on 5 of the biggest reasons we fail to make effective decisions." / Twitter
+
+nonviolent communication - Google Search
 
 
 ## Fear-Setting, Habit Engineering, Goals, Learning
@@ -106,12 +112,6 @@ https://medium.com/@unrelatedwaffle/battle-of-the-spaced-repetition-heavyweights
 https://github.com/pytest-dev/pytest/blob/master/RELEASING.rst
 https://github.com/pytest-dev/pytest/blob/master/CONTRIBUTING.rst
 
-
-Mariatta: Automation
-https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
-https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
-
-
 Rusts Community automation
 https://www.youtube.com/watch?v=407nwX6__70 | Rust's Community Automation - CodeConf 2016 - YouTube
 http://talks.edunham.net/ | Index of /
@@ -162,10 +162,7 @@ https://twitter.com/acemarke/status/1330545336646037508 | Mark Erikson on Twitte
 
 Interesting
 https://rossdawson.com/blog/timeline-emerging-science-technology-visual-framework/ | Timeline of Emerging Science and Technology: A visual framework - Ross Dawson
--->
 
-
-<!--
 ## Design Principles
 
 Games with a Purpose
@@ -176,78 +173,20 @@ esp game - Google Search
 Interesting
 https://twitter.com/patrickc/status/1404217558266351617 | Patrick Collison on Twitter: "Dang's principles for online forums are quite interesting. • Curiosity withers under repetition. • Generic discussion is not interesting. • We want reflective rather than reflexive conversation. • Diffs are what make a conversation interesting. https://t.co/GLIUk4WCJc" / Twitter
 
-Idea
-https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
-https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+## Biases
 
-https://twitter.com/jennleaver/status/1448137494445260800 | Jenn Leaver on Twitter: "Hey-o! My talk on docs leadership for #WriteTheDocs Prague is up! If you’re new to docs leadership or interested in learning about how I approach this work, check it out 😻 If you have questions or feedback, DMs are open! https://t.co/X0IfKbfDbN" / Twitter
+https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
+https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
 
-Wharton
-http://www.susannaberkouwer.com/files/theme/LowandBerkouwer-Inclusionchecklist.pdf | LowandBerkouwer-Inclusionchecklist.pdf
-https://twitter.com/BerkouwerS/status/1437514447229112321 | Susanna Berkouwer on Twitter: "1/4 Proud that @Wharton has adopted the "Course Checklist for Diversity, Equity, and Inclusion" that @femonomics and I put together! Even prouder that it is listed on the resources page as the "Low-Berkouwer checklist"☑️ It's available here: https://t.co/2MzJTT8jl1 Some notes:" / Twitter
+## Blogs and Stuff
 
-Postmortems
-https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
--->
-
-
-<!--
 http://www.collaborativefund.com/blog
 https://search.firstround.com/lists
 https://a16z.com/articles/#66 | articles Archives - Andreessen Horowitz
 https://a16z.com/2020/12/31/top-20-a16z-podcasts-of-2020/ | Our Top 20 Podcasts of 2020 - Andreessen Horowitz
+-->
 
-Biases
-https://twitter.com/hunterwalk/status/1353109998713229317 | 👨🏻‍💻☕️ on Twitter: "the single most useful page on the internet https://t.co/rrbLBixREK" / Twitter
-https://en.wikipedia.org/wiki/List_of_cognitive_biases | List of cognitive biases - Wikipedia
-
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
-
-Projects
-Progress
-https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-
-
-
-Web browser
-https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
-https://browser.engineering/ | Web Browser Engineering
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-
-https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
-
-
-https://2019.djangocon.us/talks/awesome-automated-apis-with-automagic/
-https://speakerdeck.com/flipperpa/introspective-restful-apis-with-postgres-and-django
-
-PyTexas schedule
-https://twitter.com/jmwatt3/status/1501393663091482624 | Jason Wattier on Twitter: "@KatiMichel @pytexas @OctopusEnergyUS 🙌" / Twitter
-https://www.pytexas.org/schedule/talks/ | PyTexas 2022
-https://library.austintexas.gov/central/tours | Central Library Tours and Group Visits | Austin Public Library
-https://library.austintexas.gov/central/tours?fbclid=IwAR0GQgj6A4fpSoEn_xlV0eoG7NcjGSO9pdGZ4sGi9X9C0Gg2FCxvjn5wABw | Central Library Tours and Group Visits | Austin Public Library
-
-
-
-https://www.cnbc.com/2019/05/13/i-took-yales-most-popular-class-ever-and-it-completely-changed-how-i-spend-my-money.html | I took Yale's most popular class ever—and it changed how I spend money
-https://twitter.com/heykahn/status/1473341250908549120 | Zain Kahn on Twitter: "Yale's most popular class in it's 320 year history: Psychology and the Good Life. Here are 7 lessons from the course to help you live a happier life:" / Twitter
-
-Learning
-https://www.weforum.org/agenda/2018/02/how-to-be-smarter-infographic | 12 ways to get smarter – in one chart | World Economic Forum
-https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
-
-nonviolent communication - Google Search
-
-https://twitter.com/ValaAfshar/status/1489816015806644226 | Vala Afshar on Twitter: "KOBE BRYANT’S 10 RULES 1. Get better every single day 2. Prove them wrong 3. Work on your weaknesses 4. Execute what you practiced 5. Learn from greatness 6. Learn from wins and losses 7. Practice mindfulness 8. Be ambitious 9. Believe in your team 10. Learn storytelling https://t.co/9hYozBqWzW" / Twitter
-
-
+<!--
 ## Digital Reset
 
 https://github.com/jwithington/100-days-of-healthing | jwithington/100-days-of-healthing: Fork this template for the 100 days of healthing - to keep yourself accountable
@@ -257,6 +196,26 @@ https://twitter.com/chaddickerson/status/1478026104027947010 | Chad Dickerson on
 https://twitter.com/anildash/status/1477312673775767557 | Anil Dash on Twitter: "A lot of folks really like to use a New Year to make a fresh start, so here’s my piece on how do to a Personal Digital Reset, many told me they found it useful. https://t.co/K9NEo1hsaq" / Twitter
 
 
+Mariatta: Automation
+https://twitter.com/mariatta/status/1391853939658694657 | https://twitter.com/mariatta/status/1391853939658694657
+https://twitter.com/webology/status/1391857677576380417 | https://twitter.com/webology/status/1391857677576380417
+
+Idea
+https://github.com/HangarOrg/defaults | HangarOrg/defaults: All else being equal, these are the tools we use.
+https://twitter.com/jacobian/status/1234523089070960641 | jacobian on Twitter: "3/ This is a great opportunity for someone who wants a chance to own technical decision-making. We have some "default choices" that we generally prefer (https://t.co/9xokaBfFwe) but ultimately you'll get to call your shots." / Twitter
+
+## Inclusion
+
+Wharton
+http://www.susannaberkouwer.com/files/theme/LowandBerkouwer-Inclusionchecklist.pdf | LowandBerkouwer-Inclusionchecklist.pdf
+https://twitter.com/BerkouwerS/status/1437514447229112321 | Susanna Berkouwer on Twitter: "1/4 Proud that @Wharton has adopted the "Course Checklist for Diversity, Equity, and Inclusion" that @femonomics and I put together! Even prouder that it is listed on the resources page as the "Low-Berkouwer checklist"☑️ It's available here: https://t.co/2MzJTT8jl1 Some notes:" / Twitter
+
+## Project Management
+
+Postmortems
+https://www.datadoghq.com/blog/incident-postmortem-process-best-practices/?utm_source=advertisement&utm_medium=social&utm_campaign=dg-twitter-coreplatform-blog-promotedpost-postmortem-2021q4 | Best Practices for Writing Incident Postmortems | Datadog
+
+https://twitter.com/marcusoftnet/status/1065617723995156480 | Marcus Hammarberg on Twitter: "This lecture was amazing. I'm a (ignorant) fan of @douglashubb and his work on #measurement Two highlights: https://t.co/Cd77QXps4Q Second: how many of you have seen a project get cancelled due to a bad business case? https://t.co/x8ANGT9Ec2 This talk was amazing. Thanks"
 
 ## PAGNI and YAGNI
 
@@ -268,6 +227,7 @@ https://twitter.com/simonw/status/1412072182524481542 | Simon Willison on Twitte
 YAGNI
 https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "Taking inspiration from @simonw's Probably Are Gonna Need It list (https://t.co/fvMLHKDJya), I'm writing a list of Security PAGNIs — security features you're (probably) going to need and are thus worth building early. What would be on your list of Security PAGNIs?" / Twitter
 
+## Practical
 
 https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
 https://jvns.ca/blog/good-questions/ | How to ask good questions
@@ -278,12 +238,37 @@ https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Hel
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
 
+## Monrepo
 
 Interesting
 https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monorepo
 https://monorepo-book.github.io/detection.html | Detecting problems | Maintaining a Monorepo
 https://github.com/github/git-sizer | github/git-sizer: Compute various size metrics for a Git repository, flagging those that might cause problems
 
+## End of Life
+
+https://endoflife.date/ | Home | endoflife.date
+https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
+
+## Programming Paradigms
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+-->
+
+
+
+
+<!--
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 
 
@@ -300,6 +285,7 @@ TLA+
 https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
 https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.html#pluscal?unhideBut@EQhide-pluscal@AMPunhideDiv@EQpluscal | A Simple Example
 
+
 http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
 https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
 -->
@@ -314,9 +300,6 @@ https://blog.upperdine.dev/the-rules-engine-pattern | The Rules Engine Pattern
 
 https://en.wikipedia.org/wiki/Multitenancy
 https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wikipedia
-
-https://endoflife.date/ | Home | endoflife.date
-https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
 
 
 https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
@@ -379,11 +362,6 @@ https://www.udemy.com/draft/2461/ | CS 106A: Programming Methodology | Udemy
 https://twitter.com/amaarora/status/1325359679505985540 | Aman Arora on Twitter: "What are some of the best books that really help you think about "how to design software?" Particularly after something that is: - Ideally for Python users - Mentions the key steps in designing/testing software - Mentions the tools - Helps think about key design decisions" / Twitter
 https://classroom.udacity.com/courses/cs212 | Design of Computer Programs - Udacity
 
-
-## Programming Paradigms
-
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 -->
 
 <!--
@@ -430,9 +408,101 @@ https://github.com/gwen001/pentest-tools
 -->
 
 <!--
+What happens when
+
+Web browser
+https://twitter.com/addyosmani/status/1492398000500404227 | Addy Osmani on Twitter: "*Must read* for web developers: how modern browsers work by @kosamari 1️⃣ https://t.co/2BzopOug4f 2️⃣ https://t.co/0lJCl25O4j 3️⃣ https://t.co/iuRlwaba3j 4️⃣ https://t.co/FYhCmhB9Hs and https://t.co/rlPc8Y8mKn by @BrowserBook https://t.co/X7zcoSKXxE" / Twitter
+https://browser.engineering/ | Web Browser Engineering
+
+https://github.com/mraible/history-of-web-frameworks-timeline/ | mraible/history-of-web-frameworks-timeline: The history of web frameworks as described by a timeline of releases.
+
+https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
+
+https://danluu.com/navigate-url/
+https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
+https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
+https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
+https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
+https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
+
+Internet Topics
+https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid on Twitter: "Internet topics to have a basic understanding as a developer: 1. How internet works ( frontend side) 2. How internet works ( backend side) 3. How https works 4. How DNS works 5. How hosting works What would you add?" / Twitter
+-->
+
+## Systems
+
+* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
+* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
+
+<!--
+Stacks
+https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
+
+Maintainability
+https://github.com/Droogans/unmaintainable-code
+
+
+
+Resilience
+https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
+
+Architecture
+https://github.com/in28minutes/first-steps-to-software-architect
+https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
+https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
+
+
+Distributed Systems
+https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
+
+System Design
+
+* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
+
+
+https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
+https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
+https://github.com/rShetty/awesome-distributed-systems
+
+https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
+https://github.com/lorin/systems-thinking
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
+
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+
+Laws and Stuff
+https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
+https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
+
+http://rob.conery.io/2016/07/04/imposters-handbook/
+https://bigmachine.io/imposter/
+
+https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
+
+https://github.com/webpro/programming-principles
+
+Good advice
+http://www.catb.org/~esr/faqs/hacker-howto.html
+
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
+-->
+
+
+<!--
 Docs
 
-https://twitter.com/jennleaver/status/1410357649552687106 | Jenn Leaver on Twitter: "Just submitted a proposal for a conference talk. I DID NOT go with my original title, "A+ Docs Leadership, Really Good Stuff" because I was told it was "not good, at all."" / Twitter
+Stripe
+https://markdoc.io/ | Markdoc | A powerful, flexible, Markdown-based authoring framework
+
+https://twitter.com/jennleaver/status/1448137494445260800 | Jenn Leaver on Twitter: "Hey-o! My talk on docs leadership for #WriteTheDocs Prague is up! If you’re new to docs leadership or interested in learning about how I approach this work, check it out 😻 If you have questions or feedback, DMs are open! https://t.co/X0IfKbfDbN" / Twitter
+
+
 
 https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
 
@@ -456,6 +526,10 @@ https://developers.google.com/style/inclusive-documentation | Writing inclusive 
 ## Learning to Code and Portfolio
 
 <!--
+Projects
+Progress
+https://dev.to/afonsopacifer/how-i-became-a-senior-javascript-developer-with-personal-projects-1lpo
+
 https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-learn-app-architecture-by-building-apps-7ec029db6e00 | The Best Way to Learn to Code is to Code: Learn App Architecture by Building Apps
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
@@ -563,54 +637,6 @@ https://www.atlassian.com/devops/tools-and-technologies
 https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
 -->
 
-
-## Engineering Management
-
-Team Management
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-<!--
-## Team Management 
-
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
-
-https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
-
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
-
-https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-
-Interviews
-https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
-https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
-https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
-https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
-
-## Meetings and Schedules
-
-Silent critique (Figma)
-https://twitter.com/dustanner/status/1176518182850351104
-
-Gasca- Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
-https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-
-## Teams and PM
-
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
-https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
--->
 
 ## Engineering Performance Resources
 
@@ -734,9 +760,6 @@ https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitt
 
 <!--
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
 -->
 
 <!--
@@ -750,6 +773,60 @@ SCQA framework
 https://www.heavybit.com/library/video/executive-communication/
 https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
 https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
+-->
+
+
+## Engineering Management
+
+Team Management
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+<!--
+## People
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+
+## Team Management 
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
+
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+
+Interviews
+https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
+https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
+https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
+
+## Meetings and Schedules
+
+Silent critique (Figma)
+https://twitter.com/dustanner/status/1176518182850351104
+
+Gasca- Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+
+## Teams and PM
+
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
+https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
 -->
 
 
@@ -1264,41 +1341,6 @@ Robustness Diagrams: An Agile Introduction
 http://www.agilemodeling.com/artifacts/robustnessDiagram.htm
 -->
 
-
-<!--
-Time Zones, Postal Codes
-
-https://www.google.com/url?q=https://en.wikipedia.org/wiki/Official_languages_of_the_United_Nations&sa=D&source=editors&ust=1644087974263719&usg=AOvVaw15HZSmdWTG9V38_kHsqLV4 | Redirect Notice
-
-https://qntm.org/abolish | So You Want To Abolish Time Zones @ Things Of Interest
-http://www.columbia.edu/~fdc/postal/#mideast | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
-
-https://www.timeanddate.com/time/map/
-https://en.wikipedia.org/wiki/Abolition_of_time_zones | Abolition of time zones - Wikipedia
-
-https://en.wikipedia.org/wiki/Postal_code
-https://en.wikipedia.org/wiki/Postcodes_in_the_United_Kingdom
-
-
-Calendars
-https://en.wikipedia.org/wiki/Calendar_era
-https://en.wikipedia.org/wiki/Gregorian_calendar
-https://en.wikipedia.org/wiki/Julian_calendar
-https://twitter.com/qntm/status/1500285601438142465 | qntm on Twitter: "JavaScript uses the proleptic Gregorian calendar, Swift apparently switches to the proleptic Julian calendar when you go back beyond 1582" / Twitter
-
-https://twitter.com/Nate_somewhere/status/1484645437785055235 | (1) Nathan Danielsen on Twitter: "Today I've learned about AZ time that is another timezone in Mountain timezone but doesn't do daylight savings." / Twitter
-
-
-https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
-
-Falsehoods
-http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
-https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
-https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
-http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
--->
-
-
 ## X Driven Development
 
 Fear
@@ -1343,13 +1385,6 @@ https://medium.com/@liran.tal/a-suggested-approach-for-your-next-project-rdd-rea
 
 https://twitter.com/carltongibson/status/1259466017358647296 | Carlton Gibson 🇪🇺 on Twitter: "The older I get the more I think, optimise for the beginner’s use-case." / Twitter
 
-Discussions
-https://twitter.com/_tomchristie/status/1259781217685307392 | Tom Christie on Twitter: "Don't know when it'll land, but I'm *really* looking forward to @GitHub's "discussions" feature. Going to put up a nice big sign in front of issues directing users to the discussions tab as the starting point, and ensure that the maintenance team gets to decide what to escalate." / Twitter
-
-Maintainer driven issues and PRs
-https://gist.github.com/tomchristie/0cbcf8405223fe992788e893771c9c46 | CONTRIBUTING.md
-https://mobile.twitter.com/_tomchristie/status/1243140019688267777 | Tom Christie on Twitter: "I get that it's a bit different from how folks normally manage stuff, but burnout, stress, and issue churn are continual challenges in OSS, and I'd really like to try to find ways we can manage things with a quieter more focused approach." / Twitter
-
 * [Object-Oriented Modeling Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_modeling)
 
 https://domainlanguage.com/ddd/reference/
@@ -1387,178 +1422,6 @@ https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Fre
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
 -->
-
-## Useful Files
-
-Shells
-* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
-* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
-* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
-* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
-
-Maintenance
-* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
-* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
-
-Shebang File
-* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
-
-
-Permissions
-* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
-
-Rake and Make
-* [Ruby Rake File GitHub](https://github.com/ruby/rake)
-* [Make Wikipedia](https://en.wikipedia.org/wiki/Make_(software))
-* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
-
-Files
-* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
-
-EditorConfig (tabs versus spaces, ect) .editorconfig
-* [EditorConfig](http://editorconfig.org)
-* [EditorConfig Plugins](http://editorconfig.org/#download)
-
-Markdown
-* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
-
-
-<!--
-ZSH, Bash and command line, aliases/bash script aliases
-
-https://en.wikipedia.org/wiki/List_of_file_formats
-https://en.wikipedia.org/wiki/File_format
-https://en.wikipedia.org/wiki/List_of_filename_extensions
-https://en.wikipedia.org/wiki/Filename_extension
-https://en.wikipedia.org/wiki/Binary_file
-https://en.wikipedia.org/wiki/Text_file
-https://en.wikipedia.org/wiki/System_file
-https://en.wikipedia.org/wiki/File_system
-https://en.wikipedia.org/wiki/Directory_structure
-
-https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-unix performance tools - Google Search
-
-
-http://www.linfo.org/usr_sbin.html
-https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
-
-https://opensource.com/article/19/4/bash-vs-python
-
-
-Bash versus Python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
-
-
-https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
-
-https://www.gnu.org/software/bash/manual/
-https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
-https://www.gnu.org/software/bash/manual/bashref.html
-http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
-http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
-Advanced Bash-Scripting Guide
-http://tldp.org/LDP/abs/html/
-http://www.tldp.org/LDP/abs/html/why-shell.html
-
-
-https://www.tutorialspoint.com/unix/
-https://www.tutorialspoint.com/unix/unix-useful-commands.htm
-https://en.wikipedia.org/wiki/List_of_Unix_commands
-https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
-
-https://www.tutorialspoint.com/unix/unix-quick-guide.htm
-https://www.tutorialspoint.com/unix_commands/index.htm
-https://www.tutorialspoint.com/unix_system_calls/index.htm
-
-https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
-https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
-
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
-https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
-
-https://www.linuxjournal.com/content/understanding-bash-elements-programming
--->
-
-<!--
-http://www.brendangregg.com/perf.html | Linux perf Examples
-
-ZSH	
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-https://github.com/hmml/awesome-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-https://opensource.com/article/20/1/bash-scripts-aliases
-
-https://github.com/topics/bash | Topic: bash
-https://github.com/Idnan/bash-guide
-https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
-Intro - Hello Web Books
-
-https://regexcrossword.com/ | Regex Crossword
-https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
-https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
-
-https://learnxinyminutes.com/docs/yaml/
-http://www.yaml.org/refcard.html
-https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
-
-https://www.gnu.org/software/make/manual/make.html
-https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
-
-Dotfiles
-https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
-https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
-https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
-https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
-https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
-File security
-http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
-
-https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
-https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
-https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
-
-Brew script
-
-Homebrew
-https://github.com/Linuxbrew/homebrew-core
-https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
-https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
-
-https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
-https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
-https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
--->
-
 
 ## VS Code
 
@@ -1813,90 +1676,6 @@ https://twitter.com/PierreDeWulf/status/1235216215620169728 | Pierre de Wulf on 
 https://twitter.com/upgundecha/status/1234005221426073601 | Unmesh Gundecha on Twitter: "This is my list of top 21 books on Software testing and automation. These helped me immensely shape my career in software testing and QA for last 20 years https://t.co/XkhI8H8tet" / Twitter
 https://twitter.com/aidanfeldman/status/1233454590957408256 | Aidan Feldman on Twitter: "another phrasing: "if you could ensure all new [engineering] managers read one book, what would it be?"" / Twitter
 -->
-
-
-<!--
-What happens when
-
-https://github.com/mraible/history-of-web-frameworks-timeline/ | mraible/history-of-web-frameworks-timeline: The history of web frameworks as described by a timeline of releases.
-
-https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
-
-https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
-https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
-https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
-https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
-https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on Twitter: "Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build to complete, so I'm gonna tell you. https://t.co/62dvNKWeGv" / Twitter
-
-Internet Topics
-https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid on Twitter: "Internet topics to have a basic understanding as a developer: 1. How internet works ( frontend side) 2. How internet works ( backend side) 3. How https works 4. How DNS works 5. How hosting works What would you add?" / Twitter
--->
-
-## Systems
-
-* [Low Level Programming University GitHub](https://github.com/gurugio/lowlevelprogramming-university)
-* [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
-
-<!--
-Stacks
-https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
-
-Maintainability
-https://github.com/Droogans/unmaintainable-code
-
-
-
-Resilience
-https://github.com/lorin/resilience-engineering/blob/master/intro.md | resilience-engineering/intro.md at master · lorin/resilience-engineering
-
-Architecture
-https://github.com/in28minutes/first-steps-to-software-architect
-https://github.com/xingshaocheng/architect-awesome | Xingshaocheng/architect-awesome: Backend Architect Technical Atlas
-https://github.com/davideuler/architecture.of.internet-product | davideuler/architecture.of.internet-product: 互联网公司技术架构，微信/淘宝/腾讯/阿里/美团点评/百度/微博/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
-
-
-Distributed Systems
-https://github.com/aphyr/distsys-class | aphyr/distsys-class: Class materials for a distributed systems lecture series
-
-System Design
-
-* [System Design Primer GitHub](https://github.com/donnemartin/system-design-primer)
-
-
-https://github.com/madd86/awesome-system-design | madd86/awesome-system-design: A curated list of awesome System Design (A.K.A. Distributed Computing) resources.
-https://github.com/theanalyst/awesome-distributed-systems | theanalyst/awesome-distributed-systems: A curated list to learn about distributed systems
-https://github.com/rShetty/awesome-distributed-systems
-
-https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrave's Crowd-Sourced System Programming Book used at UIUC
-https://github.com/lorin/systems-thinking
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
-
-
-Laws and Stuff
-https://github.com/dwmkerr/hacker-laws#kernighans-law | dwmkerr/hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws
-https://github.com/binhnguyennus/awesome-scalability#principles | binhnguyennus/awesome-scalability: :100: High Scalability, High Availability, High Stability, High Performance, and High Intelligence Back-end Designs
-
-http://rob.conery.io/2016/07/04/imposters-handbook/
-https://bigmachine.io/imposter/
-
-https://github.com/mr-mig/every-programmer-should-know | mr-mig/every-programmer-should-know: A collection of (mostly) technical things every software developer should know
-
-https://github.com/webpro/programming-principles
-
-Good advice
-http://www.catb.org/~esr/faqs/hacker-howto.html
-
-https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding-advice | sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.
--->
-
 
 ## Digital Commonplace and Knowledge Base
 
