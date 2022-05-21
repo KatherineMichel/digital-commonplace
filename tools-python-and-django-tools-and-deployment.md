@@ -1,6 +1,14 @@
 # Python and Django Tools and Deployment
 
 <!--
+Talk
+https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
+
+Unit testing and CI
+https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
+https://twitter.com/DataUmbrella/status/1466770451133313037 | Data Umbrella on Twitter: "In case you missed our event: Intro to Unit Testing and Continuous Integration by @mariatta, the video is available. And, subscribe to our YouTube channel for more videos: https://t.co/FVNADa4Vdp" / Twitter
+
+
 https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
 
 
@@ -43,6 +51,13 @@ https://www.python.org/downloads/release/python-3110a6/ | Python Release Python 
 https://twitter.com/methane/status/1501108529297432577 | Naoki 🇺🇦🇯🇵 on Twitter: "@anthonypjshaw FWIW, Python 3.11.0a6 is significantly faster than 3.10. https://t.co/3km14aauVU" / Twitter
 
 
+## Tools Matrix
+  
+Tools Diagram
+https://twitter.com/nletcher/status/1487782511543746565 | Ned Letcher on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / Twitter
+https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
+
+
 ## PyScript
 
 https://pyscript.net/ | PyScript | Run Python in your HTML
@@ -51,13 +66,6 @@ https://twitter.com/pyscript_dev | pyscript_dev (@pyscript_dev) / Twitter
 https://www.anaconda.com/blog/pyscript-python-in-the-browser | Anaconda | New from Anaconda: Python in the Browser
 https://twitter.com/jezdez/status/1520459512804777984 | Jannis Leidel 💙💛🐍📦🚲 on Twitter: "Quite excited about what @pwang presented today at #PyCon2022 that a lot of people have worked on: PyScript enables "Programming for the 99%", using browsers as the platform and showcases what Python and the Web may do for data and coding literacy." / Twitter
 https://twitter.com/anthonypjshaw/status/1521303928083648513 | https://twitter.com/anthonypjshaw/status/1521303928083648513
-
-
-## Tools Matrix
-  
-Tools Diagram
-https://twitter.com/nletcher/status/1487782511543746565 | Ned Letcher on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / Twitter
-https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
 
 ## DALLE
 
@@ -88,14 +96,6 @@ Terminal Tutorial
 https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
 
-
-Talk
-https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
-
-
-Unit testing and CI
-https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
-https://twitter.com/DataUmbrella/status/1466770451133313037 | Data Umbrella on Twitter: "In case you missed our event: Intro to Unit Testing and Continuous Integration by @mariatta, the video is available. And, subscribe to our YouTube channel for more videos: https://t.co/FVNADa4Vdp" / Twitter
 
 
 
@@ -501,6 +501,7 @@ https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on 
 https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
 https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
 -->
+
 
 ## Tradeoffs
 
