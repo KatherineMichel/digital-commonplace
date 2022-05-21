@@ -1,6 +1,22 @@
 # Tools- Python and Django Testing, Profiling, and Security
 
 <!--
+## Testing
+
+https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
+
+https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
+
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://test-driven-django-development.readthedocs.io/en/v2.0/ | Workshop: Test-Driven Web Development with Django — Test-Driven Django Development 0.1.0 documentation
+
+
+https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
+
+https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
+
+
 Django Testing
 https://twitter.com/brianokken/status/1320487278137913344 | Brian Okken on Twitter: "Great thread for anyone testing Django applications." / Twitter
 
@@ -12,57 +28,7 @@ https://github.com/pythonsd/test-driven-django-development | pythonsd/test-drive
 https://github.com/emeryberger/scalene | emeryberger/scalene: a high-performance, high-precision CPU and memory profiler for Python
 
 https://boto3.readthedocs.io/en/latest/index.html
--->
 
-
-<!--
-Advice 
-
-Important
-https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
-https://www.mattlayman.com/blog/2020/django-testing-toolbox/ | Django Testing Toolbox · Matt Layman
-
-DRF Testing
-http://www.tomchristie.com/rest-framework-2-docs/api-guide/testing | Testing - Django REST framework
-http://www.tomchristie.com/rest-framework-2-docs/api-guide/filtering#filtering-and-object-lookups | Filtering - Django REST framework
-
-https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
-https://github.com/carltongibson/rest-framework-tutorial/blob/master/snippets/tests.py | rest-framework-tutorial/tests.py at master · carltongibson/rest-framework-tutorial
-
-https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
-
-
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-Thea
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
-
-Simon testing
-https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
-
-Jacob
-https://jacobian.org/writing/getting-started-with-pytest
-
-http://linkis.com/ana-balica.github.io/x9FCx
-
-https://www.slideshare.net/JanGiacomelli/complete-python-toolbox-for-modern-developers | Complete python toolbox for modern developers
-
-https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
-
-https://hynek.me/articles/document-your-tests/
-
-Django Testing
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-
-https://www.hillelwayne.com/talks/beyond-unit-tests/
-https://www.youtube.com/watch?v=MYucYon2-lk
-
-https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
-
-DjangoCon Keynote by Ana
 
 https://pythontesting.net/framework/pytest/pytest-introduction/
 
@@ -75,6 +41,86 @@ https://learntdd.in/concepts.html
 https://en.wikipedia.org/wiki/Scenario_testing
 https://martinfowler.com/articles/mocksArentStubs.html
 https://thoughtbot.com/blog/i-mock-your-fixtures-too
+-->
+
+
+
+<!--
+## JS Scene
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
+## Telemetry
+
+https://prometheus.io/ | Prometheus - Monitoring system & time series database
+https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
+
+## Profiling
+
+https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profiler for Python
+
+https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
+
+## Testing Opinion
+
+Important
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+https://www.mattlayman.com/blog/2020/django-testing-toolbox/ | Django Testing Toolbox · Matt Layman
+
+Thea
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
+
+Simon testing
+https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
+
+https://hynek.me/articles/document-your-tests/
+https://hynek.me/articles/testing-packaging/ | Testing & Packaging
+
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+
+Jacob
+https://jacobian.org/writing/getting-started-with-pytest
+
+Test Driven article?
+https://www.slideshare.net/JanGiacomelli/complete-python-toolbox-for-modern-developers | Complete python toolbox for modern developers
+
+https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
+
+https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
+https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
+https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
+
+https://www.hillelwayne.com/talks/beyond-unit-tests/
+https://www.youtube.com/watch?v=MYucYon2-lk
+
+https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
+
+DjangoCon Keynote by Ana
+http://linkis.com/ana-balica.github.io/x9FCx
+
+https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/ | Improve Your Python: Understanding Unit Testing
+https://blog.ganssle.io/articles/2019/08/test-as-installed.html | Testing your python package as installed
+
+https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
+https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
+
+## DRF Testing
+
+http://www.tomchristie.com/rest-framework-2-docs/api-guide/testing | Testing - Django REST framework
+http://www.tomchristie.com/rest-framework-2-docs/api-guide/filtering#filtering-and-object-lookups | Filtering - Django REST framework
+
+https://www.django-rest-framework.org/api-guide/testing/ | Testing - Django REST framework
+https://github.com/carltongibson/rest-framework-tutorial/blob/master/snippets/tests.py | rest-framework-tutorial/tests.py at master · carltongibson/rest-framework-tutorial
+
+https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
 -->
 
 ## Debugging
@@ -125,9 +171,8 @@ Other Types of Testing
 https://en.wikipedia.org/wiki/Behavior-driven_development
 -->
 
-## Big O Notation
 
-* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+## Test Automation University
 
 <!--
 OOP
@@ -135,8 +180,6 @@ https://go.applitools.com/applying-object-oriented-programming-principles-to-tes
 
 https://testautomationu.applitools.com/selenium-webdriver-python-tutorial/chapter2.html | Chapter 2 - Setting Up pytest
 https://testautomationu.applitools.com/python-tutorial/chapter8.html | Chapter 8 - Classes
-
-## Test Automation University
 
 https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://testautomationu.applitools.com/learningpaths.html | Learning Paths | Applitools
@@ -223,6 +266,7 @@ https://twitter.com/AutomationPanda/status/1023346925771345920
 BDD
 https://twitter.com/AutomationPanda/status/1061393338165837825
 -->
+
 
 ## Performance
 
@@ -342,6 +386,11 @@ https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms
 https://en.wikipedia.org/wiki/Computational_complexity_of_mathematical_operations#Arithmetic_functions
 -->
 
+
+## Big O Notation
+
+* [Big O Cheat Sheet](http://www.bigocheatsheet.com)
+
 ## General Big O Rules
 
 Concepts- Time and Space Complexity
@@ -405,6 +454,7 @@ https://www.khanacademy.org/computing/computer-science/algorithms/asymptotic-not
 Analysis of Algorithms
 https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 -->
+
 
 ## Security Model
 
