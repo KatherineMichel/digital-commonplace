@@ -3,7 +3,9 @@
 <!--
 https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
 
+
 https://buttercms.com/
+
 
 Tailwind
 https://github.com/timonweb/pytailwindcss
@@ -12,11 +14,13 @@ https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-i
 Httpx
 https://opensource.com/article/22/3/python-httpx | How to use httpx, a web client for Python | Opensource.com
 
+
 ## Django Surveys
 
 https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2022-sh?pcode=976163277515520354 | Developer Ecosystem Survey 2022
 
 https://lp.jetbrains.com/django-developer-survey-2021-486/ | Django Developers Survey 2021 Results
+
 
 ## Django Releases
 
@@ -29,11 +33,6 @@ Speed
 https://www.python.org/downloads/release/python-3110a6/ | Python Release Python 3.11.0a6 | Python.org
 https://twitter.com/methane/status/1501108529297432577 | Naoki 🇺🇦🇯🇵 on Twitter: "@anthonypjshaw FWIW, Python 3.11.0a6 is significantly faster than 3.10. https://t.co/3km14aauVU" / Twitter
 
-## Profiling
-
-https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profiler for Python
-
-https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
 
 ## PyScript
 
@@ -43,6 +42,7 @@ https://twitter.com/pyscript_dev | pyscript_dev (@pyscript_dev) / Twitter
 https://www.anaconda.com/blog/pyscript-python-in-the-browser | Anaconda | New from Anaconda: Python in the Browser
 https://twitter.com/jezdez/status/1520459512804777984 | Jannis Leidel 💙💛🐍📦🚲 on Twitter: "Quite excited about what @pwang presented today at #PyCon2022 that a lot of people have worked on: PyScript enables "Programming for the 99%", using browsers as the platform and showcases what Python and the Web may do for data and coding literacy." / Twitter
 https://twitter.com/anthonypjshaw/status/1521303928083648513 | https://twitter.com/anthonypjshaw/status/1521303928083648513
+
 
 ## Tools Matrix
   
@@ -56,14 +56,6 @@ https://twitter.com/icymihn/status/1520921032613371904 | ICYMI HN on Twitter: "L
 https://openai.com/dall-e-2/ | DALL·E 2
 https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
 https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (@dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
-
-## Testing
-
-https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
-
-https://en.wikipedia.org/wiki/Smoke_testing_(software)#:~:text=In%20computer%20programming%20and%20software,reject%20a%20prospective%20software%20release. | Smoke testing (software) - Wikipedia
-
-https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
 
 
 
@@ -249,6 +241,21 @@ https://prometheus.io/ | Prometheus - Monitoring system & time series database
 https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.30.0-rc.0 / 2021-09-08 · prometheus/prometheus
 
 
+## Profiling
+
+https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profiler for Python
+
+https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
+
+## Testing
+
+https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
+
+https://en.wikipedia.org/wiki/Smoke_testing_(software)#:~:text=In%20computer%20programming%20and%20software,reject%20a%20prospective%20software%20release. | Smoke testing (software) - Wikipedia
+
+https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
+
+
 ## Testing
 
 https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
@@ -398,6 +405,7 @@ Video 5, 13:25 Recap
 http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaScript, C, C++, Ruby code execution
 -->
 
+
 ## Awesome Python and Django
 
 Awesome Python
@@ -441,7 +449,6 @@ Django Architecture and Scaling
 * [Does Django Scale?](https://docs.djangoproject.com/en/dev/faq/general/#does-django-scale)
 * [Django Design Philosophies](https://docs.djangoproject.com/en/dev/misc/design-philosophies)
 
-
 ## Structuring Your Python Project
 
 Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
@@ -455,6 +462,57 @@ Kenneth Reitz- Sample Project Structure, Sample Module, and setup.py
 Python- Django- Project Stucture
 * [RevSys Recommended Django Project Layout](http://www.revsys.com/blog/2014/nov/21/recommended-django-project-layout)
 * [SIBTC Starting a New Django 1.8 Project](http://simpleisbetterthancomplex.com/2015/11/30/starting-a-new-django-18-project.html)
+
+## Python and Django Links- Style
+
+Python Style
+* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
+* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
+
+Django Coding Style Guide
+* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
+
+Django JavaScript Style Guide
+* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
+
+## Python Non-Official Styleguides and Code Formatting
+
+Style
+* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
+* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
+
+Python- Kenneth Reitz Contributor's Guide and Style Guides
+* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
+
+Python- Style Guides
+* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
+* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
+* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
+
+<!--
+https://docs.python-guide.org/#writing-great-python-code
+-->
+
+Python- PEP 8
+* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
+
+
+## Django Core Dev Security
+
+* [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
+* [How Django Discloses Security Issues](https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues)
+
+<!--
+## Django Security Policy
+
+https://docs.djangoproject.com/en/3.2/internals/security/
+-->
+
+### Django Security
+
+* [Clickjacking Protection](https://docs.djangoproject.com/en/dev/ref/clickjacking/)
+* [HTTP Strict Transport Security](https://docs.djangoproject.com/en/dev/ref/middleware/#http-strict-transport-security)
+* [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
 
 
 ## Django Deployment
@@ -488,6 +546,59 @@ Basic Memory Profiler
 Tracemalloc
 https://docs.python.org/3/library/tracemalloc.html
 -->
+
+
+## Django Third Party Tools- Debugging
+
+Python- Django- Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+ipdb
+https://ipython.org/ | Jupyter and the future of IPython — IPython
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+
+Django Shell Plus
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
+https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
+
+Django Shell Plus
+https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
+https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
+
+Simon
+https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
+-->
+
+## Python Debugger and doctests
+
+<!--
+GDB
+https://stripe.com/en-ca/blog/exploring-python-using-gdb | Exploring Python Using GDB
+https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
+
+Python Debugger
+https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
+
+Nina
+https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
+
+Debugger
+https://www.youtube.com/watch?v=5AYIe-3cD-s
+https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
+
+Good Print, hello debugger, DjangoCon
+https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
+https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
+https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
+https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
+
+https://twitter.com/laceynwilliams/status/1360052934268968964 | Lacey Williams Henschel on Twitter: "It’s a beautiful day when you introduce someone to pdb.set_trace() ☀️" / Twitter
+https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on Twitter: "#Python tip: Debuggers are wonderful, but sometimes just adding "print(locals())" is the easiest way to go ;-)" / Twitter
+-->
+
 
 ## Python Debugger and doctests
 
@@ -550,386 +661,6 @@ https://docs.djangoproject.com/en/2.2/topics/testing/tools/#django.test.Transact
 
 
 https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests | JavaScript | Django documentation | Django
--->
-
-## Django Core Dev Security
-
-* [Django Security](https://docs.djangoproject.com/en/dev/releases/security/)
-* [How Django Discloses Security Issues](https://docs.djangoproject.com/en/dev/internals/security/#how-django-discloses-security-issues)
-
-<!--
-## Django Security Policy
-
-https://docs.djangoproject.com/en/3.2/internals/security/
--->
-
-### Django Security
-
-* [Clickjacking Protection](https://docs.djangoproject.com/en/dev/ref/clickjacking/)
-* [HTTP Strict Transport Security](https://docs.djangoproject.com/en/dev/ref/middleware/#http-strict-transport-security)
-* [Security Middleware](https://docs.djangoproject.com/en/dev/ref/middleware/#django.middleware.security.SecurityMiddleware)
-
-
-## Python and Django Links- Style
-
-Python Style
-* [PEP 0008 Style Guide for Python Code](https://www.python.org/dev/peps/pep-0008) and [PEP 0008 Style Guide for Python Code .txt](https://hg.python.org/peps/file/tip/pep-0008.txt)
-* [PEP 0257 Doc String Conventions](https://www.python.org/dev/peps/pep-0257)
-
-Django Coding Style Guide
-* [Django Coding Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/coding-style)
-
-Django JavaScript Style Guide
-* [Django JavaScript Style Guide](https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript)
-
-## Python Non-Official Styleguides and Code Formatting
-
-Style
-* [Coding Conventions Wikipedia](https://en.wikipedia.org/wiki/Coding_conventions)
-* [Programming Style Wikipedia](https://en.wikipedia.org/wiki/Programming_style)
-
-Python- Kenneth Reitz Contributor's Guide and Style Guides
-* [Kenneth Reitz: The Hitchhiker’s Guide to Python! Code Style](http://docs.python-guide.org/en/latest/writing/style)
-
-Python- Style Guides
-* [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-* [Khan Academy Python Style Guide Python](https://github.com/Khan/style-guides/blob/master/style/python.md)
-* [The Chromium Project Python Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
-
-<!--
-https://docs.python-guide.org/#writing-great-python-code
--->
-
-Python- PEP 8
-* [Kenneth Reitz: PEP 8 — the Style Guide for Python](http://pep8.org) and [Kenneth Reitz: PEP 8 — the Style Guide for Python GitHub](https://github.com/kennethreitz/pep8.org)
-
-
-## General Python and Django Links
-
-Django Views
-* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
-
-Django ORM
-* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
-
-Django Request/Response
-
-<!--
-https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
-
-https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
-https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
-
-https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
-https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
-
-
-https://docs.djangoproject.com/en/3.1/ref/request-response/
-https://docs.djangoproject.com/en/3.1/ref/request-response/#module-django.http
-https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects
-https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects
-https://docs.djangoproject.com/en/3.1/ref/request-response/#jsonresponse-objects
--->
-
-## Django Source
-
-<!--
-https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
-https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
-https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
-https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
-
-https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
-https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
-
-Django Source Code
-https://github.com/django/django/blob/master/django/__init__.py	
-https://github.com/django/django/tree/master/django/apps	
-https://github.com/django/django/blob/master/django/apps/config.py	
-https://github.com/django/django/blob/master/django/apps/registry.py
-https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/urls/conf.py	
-https://github.com/django/django/blob/master/django/urls/resolvers.py
-https://github.com/django/django/blob/master/django/middleware/common.py
-
-https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
-https://github.com/django/django/blob/master/django/http
-https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
-https://github.com/django/django/blob/master/django/http/response.py	
-
-https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
-https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
-	
-https://github.com/django/django/blob/master/django/shortcuts.py
-https://github.com/django/django/blob/master/django/core/exceptions.py	
-	
-https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
-https://github.com/django/django/blob/master/django/db/models/__init__.py 	
-https://github.com/django/django/blob/master/django/db/models/query.py	
-https://github.com/django/django/blob/master/django/db/models/query.py#L337	
-https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
-https://github.com/django/django/blob/master/django/db/models/lookups.py
--->
-
-## Django Serialization
-
-Python- Django- Rest Framework (Serialization/Deserialization)
-* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
-* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
-* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
-
-## Django Internationalization and Localization, Translation
-
-* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
-* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
-* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
-* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
-* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
-* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
-* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
-* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
-
-<!--
-https://github.com/django/django-formtools
-https://github.com/django/django-contrib-comments
--->
-
-## Python and Django Geo
-
-GeoDjango
-* [GeoDjango](http://geodjango.org)  
-* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
-
-Python- Django- Rest Framework GIS
-* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
-* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
-* [Django Rest Framework GIS PyPI](https://pypi.python.org/pypi/djangorestframework-gis)  
-* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
-
-PostGIS (Spatial Database Extender for PostgreSQL)
-* [PostGIS](http://postgis.net)  
-* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
-* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
-* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
-* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
-
-SpatiaLite (Spatial Database Extender for SQLite)
-* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
-* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
-* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
-
-<!--
-GIS
-
-DjangoCon US Talk
-https://www.youtube.com/watch?v=Ow9P8UsKZzM&feature=emb_logo
-
-Important
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
-
-https://realpython.com/location-based-app-with-geodjango-tutorial/ | Make a Location-Based Web App With Django and GeoDjango – Real Python
-https://en.wikipedia.org/wiki/Spatial_database | Spatial database - Wikipedia
-
-https://postgis.net/docs/manual-3.0/
-https://postgis.net/docs/manual-3.0/ch06.html
-https://www.gaia-gis.it/fossil/libspatialite/index
-
-GIS
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
-https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
--->
-
-
-
-## Django Third Party Tools- Local
-
-<!--
-poetry
-
-## Environment and DevOps
-
-Important!
-https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
-https://twitter.com/DawnWagesSays/status/1429843476447830016 | dawn (she/her) on Twitter: "Imma be real, I’ve been trying to phase pipenv out but I like it. Thanks to @FlipperPA , when I venv I use it like dis: https://t.co/w2OQvj1WIc" / Twitter
-
-Go Django
-https://godjango.com/blog/working-with-environment-variables-in-python/
-
-Jeff's trifecta
-https://direnv.net/
-https://github.com/direnv
-cortesi/devd
-https://github.com/casey/just
-
-Recommended: pip-tools
-https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
-https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
-
-python-dotenv
-https://pypi.org/project/python-dotenv/ | python-dotenv · PyPI
-https://github.com/theskumar/python-dotenv
-
-https://github.com/joke2k/django-environ
-
-https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
--->
-
-
-## Django Third Party Tools- Debugging
-
-Python- Django- Debug Toolbar and Panel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
-<!--
-ipdb
-https://ipython.org/ | Jupyter and the future of IPython — IPython
-https://pypi.org/project/ipdb/ | ipdb · PyPI
-
-Django Shell Plus
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
-https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
-
-Django Shell Plus
-https://twitter.com/KatiMichel/status/1302455369353039873 | Katherine Michel on Twitter: "The tutorial threw something at me that I can't remember ever having heard of before... `python https://t.co/jyO6G4g0ui shell_plus` autoloads the settings and the model classes." / Twitter
-https://twitter.com/aliasoltaani/status/1302475667867676673 | Sol on Twitter: "@KatiMichel Check this, it's awesome! pip install jupyter python https://t.co/HI9CpiHRiU shell_plus --notebook" / Twitter
-
-Simon
-https://twitter.com/simonw/status/1321612923442098177 | (26) Simon Willison on Twitter: "Just found out Jupyter is available via Homebrew: brew install jupyter I wonder if this could be a good recommended starting point for newcomers to Python? You can pip install packages for it in the right place directly in a cell using: %pip install httpx" / Twitter
--->
-
-## Python Debugger and doctests
-
-<!--
-GDB
-https://stripe.com/en-ca/blog/exploring-python-using-gdb | Exploring Python Using GDB
-https://www.gnu.org/software/gdb/ | GDB: The GNU Project Debugger
-
-Python Debugger
-https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twitter: "I spend much of my time fixing things with Python's debugger, pdb, or often its extended version ipdb. @codewithanthony 's video is a good introduction! https://t.co/Yj7QfBnmWc" / Twitter
-
-Nina
-https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
-
-Debugger
-https://www.youtube.com/watch?v=5AYIe-3cD-s
-https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
-
-Good Print, hello debugger, DjangoCon
-https://appletree.or.kr/quick_reference_cards/Python/Python%20Debugger%20Cheatsheet.pdf | Python Debugger Cheatsheet
-https://www.youtube.com/watch?v=5AYIe-3cD-s | (5) Goodbye Print, Hello Debugger! - Nina Zakharenko - Talk - YouTube
-https://www.nnja.io/post/2020/pycon2020-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger (Remote) for PyCon 2020 - Nina Zakharenko
-https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
-
-https://twitter.com/laceynwilliams/status/1360052934268968964 | Lacey Williams Henschel on Twitter: "It’s a beautiful day when you introduce someone to pdb.set_trace() ☀️" / Twitter
-https://twitter.com/raymondh/status/1429490076388630529 | Raymond Hettinger on Twitter: "#Python tip: Debuggers are wonderful, but sometimes just adding "print(locals())" is the easiest way to go ;-)" / Twitter
--->
-
-
-## Django Third Party Tools- Templates
-
-<!--
-curlylint
-https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
-
-https://github.com/adamchainz/django-htmx
-
-HTMX + Django
-https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
-
-Django Tool
-https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
-
-https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HTML Template Linter and Formatter. Use with Django, Jinja, Nunjucks and Handlebars templates.
--->
-
-
-## Django Classy
-
-Django Classy
-* [Classy Class-Based Views](http://ccbv.co.uk)
-* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
-* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
-
-
-
-<!--
-## Common Django Features
-
-https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
-
-http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
-https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
-
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-Django Request and Response Cycle
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
-
-
-## F-Strings
-
-https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
-https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
-
-## Feature Flags
-
-https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
-https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
-
-https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
-https://github.com/search?q=django+feature+flags | Search · django feature flags
-https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
-https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
-
-
-django_deprecate_fields
-https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on Twitter: "If you haven't read a piece yet by my colleague @danpoirier, you really should especially if you develop with #Django. This one... django_deprecate_fields... 🤯 Truly a "I can't believe I haven't been using this before" moment. https://t.co/ArgrMXl8CK" / Twitter
-https://twitter.com/CaktusGroup/status/1418316667776606215 | Caktus Group on Twitter: "By using django-add-default-value and django-deprecate-fields to simplify the migration and deployment process, you will eliminate a common #Django #deployment headache. This has been a challenge for a while now. https://t.co/Fi0j51BmmX" / Twitter
-
-django-lifecycle
-https://github.com/rsinger86/django-lifecycle/ | rsinger86/django-lifecycle: Declarative model lifecycle hooks, an alternative to Signals.
-https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
-https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
-
-django-allauth
-https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
-https://pyphilly.org/know-thy-user-custom-user-models-django-allauth/
-https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
-
-
-Django filter
-https://github.com/carltongibson/django-filter | carltongibson/django-filter: A generic system for filtering Django QuerySets based on user selections
-https://django-filter.readthedocs.io/en/
-https://pypi.org/project/django-filter/ | django-filter · PyPI
-https://pypi.org/project/djangorestframework-filters/ | djangorestframework-filters · PyPI
-https://www.django-rest-framework.org/api-guide/filtering/ | Filtering - Django REST framework
-https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
-
-Django Crispy Forms
-http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
-https://pypi.org/project/django-crispy-forms/ | django-crispy-forms · PyPI
-https://github.com/django-crispy-forms/django-crispy-forms | django-crispy-forms/django-crispy-forms: The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
-
-https://pypi.org/project/django-countries/ | django-countries · PyPI
-https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
-
-
-Django cities
-https://github.com/coderholic/django-cities | coderholic/django-cities: Countries and cities of the world for Django projects
-
-
-Model History
-https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
 -->
 
 
@@ -1160,72 +891,342 @@ Django Nose
 * [Django Nose GitHub](https://github.com/django-nose/django-nose)
 
 
-## Eldarion and Pinax
+## Django Classy
 
-Package Tools
-* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
-
-<!--
-https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
--->
-
-Kubernetes
-* [Kubernetes](https://kubernetes.io)
-
-Webpack Versus Browserify
-* [Vue](https://vuejs.org/)
-* [Webpack](https://webpack.js.org)
-* [Copy Webpack Plugin GitHub](https://github.com/webpack-contrib/copy-webpack-plugin)
-* [Browserify](http://browserify.org)
-* [Browsersync](https://www.browsersync.io/)
-
-<!--
-http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
-https://fontawesome.com | Font Awesome 5 | Font Awesome
--->
+Django Classy
+* [Classy Class-Based Views](http://ccbv.co.uk)
+* [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
+* [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
 
 
+## General Python and Django Links
+
+Django Views
+* [Class-Based Views](https://docs.djangoproject.com/en/dev/topics/class-based-views/)
+
+Django ORM
+* [Queries](https://docs.djangoproject.com/en/dev/topics/db/queries)
+
+Django Request/Response
 
 <!--
-## Testing and Debugging Tools
+https://docs.djangoproject.com/en/2.2/_modules/django/http/request/ | django.http.request | Django documentation | Django
 
-https://pypi.python.org/pypi/pycodestyle/1.8.0.dev0
+https://docs.djangoproject.com/en/dev/_modules/django/http/request/#HttpRequest
+https://docs.djangoproject.com/en/dev/ref/request-response/#jsonresponse-objects
 
-Pytest
-https://pypi.python.org/pypi/pytest-cov | pytest-cov 2.5.1 : Python Package Index
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-https://github.com/pytest-dev/pluggy | pytest-dev/pluggy: A minimalist production ready plugin system
+https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.HttpRequest.GET
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.HttpRequest.POST
+https://docs.djangoproject.com/en/1.11/ref/request-response/#django.http.QueryDict
 
-https://pypi.org/project/pytest-github-actions-annotate-failures/ | pytest-github-actions-annotate-failures · PyPI
-https://pypi.org/project/pytest-is-running/ | pytest-is-running · PyPI
+
+https://docs.djangoproject.com/en/3.1/ref/request-response/
+https://docs.djangoproject.com/en/3.1/ref/request-response/#module-django.http
+https://docs.djangoproject.com/en/3.1/ref/request-response/#httprequest-objects
+https://docs.djangoproject.com/en/3.1/ref/request-response/#httpresponse-objects
+https://docs.djangoproject.com/en/3.1/ref/request-response/#jsonresponse-objects
 -->
+
+## Django Source
 
 <!--
-attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L71 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/core/handlers/base.py#L85 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/resolvers.py#L66 | django/resolvers.py at master · django/django
+https://github.com/django/django/blob/master/django/template/context.py | django/context.py at master · django/django
+https://github.com/django/django/blob/master/django/template/response.py | django/response.py at master · django/django
+https://github.com/django/django/blob/master/django/http/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/core/files/uploadhandler.py | django/uploadhandler.py at master · django/django
 
+https://www.youtube.com/watch?v=tkwZ1jG3XgA | James Bennett - Django in Depth - PyCon 2015 - YouTube	
+https://twitter.com/ubernostrum/status/1115023968925130752 | James Bennett on Twitter: "Let me know if you have questions. It's old/out-of-date, and tried to cover too much stuff (which is why I switched to doing an ORM-focused tutorial last year).… https://t.co/btm7lzK7rI"
 
-## Django Third Party Tools- Package Tools and Testing
+Django Source Code
+https://github.com/django/django/blob/master/django/__init__.py	
+https://github.com/django/django/tree/master/django/apps	
+https://github.com/django/django/blob/master/django/apps/config.py	
+https://github.com/django/django/blob/master/django/apps/registry.py
+https://github.com/django/django/blob/master/django/conf/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/urls/conf.py	
+https://github.com/django/django/blob/master/django/urls/resolvers.py
+https://github.com/django/django/blob/master/django/middleware/common.py
 
-* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+https://github.com/django/django/blob/master/django/core/handlers/wsgi.py | django/wsgi.py at master · django/django
+https://github.com/django/django/blob/master/django/http
+https://github.com/django/django/blob/master/django/http/request.py | django/request.py at master · django/django	
+https://github.com/django/django/blob/master/django/http/response.py	
 
-https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
-
-https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
-
-
-Not used- but could be?
-* [attrs GitHub](https://github.com/python-attrs/attrs)
-
-## attrs
-
-https://www.attrs.org/en/stable/
-https://pypi.org/project/attrs/
-https://rich.readthedocs.io/en/stable/introduction.html
-https://pydantic-docs.helpmanual.io/
-https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
-https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
+https://github.com/django/django/blob/master/django/views/generic/__init__.py | django/__init__.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/base.py#L83 | django/base.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/detail.py | django/detail.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py | django/list.py at master · django/django
+https://github.com/django/django/blob/master/django/views/generic/list.py#L113	
+	
+https://github.com/django/django/blob/master/django/shortcuts.py
+https://github.com/django/django/blob/master/django/core/exceptions.py	
+	
+https://github.com/django/django/tree/master/django/db/backends | django/django/db/backends at master · django/django	
+https://github.com/django/django/blob/master/django/db/models/__init__.py 	
+https://github.com/django/django/blob/master/django/db/models/query.py	
+https://github.com/django/django/blob/master/django/db/models/query.py#L337	
+https://github.com/django/django/blob/master/django/contrib/auth/base_user.py | 	
+https://github.com/django/django/blob/master/django/db/models/lookups.py
 -->
 
+## Django Serialization
+
+Python- Django- Rest Framework (Serialization/Deserialization)
+* [Django Rest Framework: Tutorial 1: Serialization](http://www.django-rest-framework.org/tutorial/1-serialization)
+* [Serializing Django objects](https://docs.djangoproject.com/en/dev/topics/serialization)
+* [JSON](https://docs.djangoproject.com/en/dev/topics/serialization/#serialization-formats-json)
+
+
+## Django Third Party Tools- Templates
+
+<!--
+curlylint
+https://twitter.com/simonw/status/1302996263550377985 | Simon Willison on Twitter: "This is brilliant. I just ran "curlylint datasette/templates" and it spotted two closing &lt;/a&gt; tags that were not matched by an opening tag. https://t.co/rnfsnmPSoO" / Twitter
+
+https://github.com/adamchainz/django-htmx
+
+HTMX + Django
+https://twitter.com/htmx_org/status/1432498119464259585 | htmx.org on Twitter: "what's really satisfying about this is how htmx + django allows developers to a ditch complicated server side tool in favor of small, properly factored snippets of HTML templates simpler, more dynamic *and* more flexible what's not to like? 🍻 @justdjangocode" / Twitter
+
+Django Tool
+https://github.com/rtts/djhtml | rtts/djhtml: Django/Jinja template indenter
+
+https://github.com/Riverside-Healthcare/djlint | Riverside-Healthcare/djLint: HTML Template Linter and Formatter. Use with Django, Jinja, Nunjucks and Handlebars templates.
+-->
+
+
+<!--
+## Common Django Features
+
+https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Serve .md pages as Django templates
+
+http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
+https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
+
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+
+
+## F-Strings
+
+https://speakerdeck.com/mariatta/f-strings | F-strings - Speaker Deck
+https://www.pydanny.com/python-f-strings-are-fun.html | Python F-Strings Are Fun!
+
+## Feature Flags
+
+https://github.com/cfpb/wagtail-flags | GitHub - cfpb/wagtail-flags: Feature flags for Wagtail sites
+https://github.com/cfpb/django-flags/ | cfpb/django-flags: Feature flags for Django projects
+
+https://bullet-train.io/ | Bullet Train - Feature Flags, Feature Toggles and Remote Config - Ship features with confidence
+https://github.com/search?q=django+feature+flags | Search · django feature flags
+https://github.com/django-waffle/django-waffle | django-waffle/django-waffle: A feature flipper for Django
+https://github.com/disqus/gargoyle | disqus/gargoyle: Feature switches in Django
+
+
+django_deprecate_fields
+https://twitter.com/lalongueduree/status/1418518067294900226 | Jeremy Gibson on Twitter: "If you haven't read a piece yet by my colleague @danpoirier, you really should especially if you develop with #Django. This one... django_deprecate_fields... 🤯 Truly a "I can't believe I haven't been using this before" moment. https://t.co/ArgrMXl8CK" / Twitter
+https://twitter.com/CaktusGroup/status/1418316667776606215 | Caktus Group on Twitter: "By using django-add-default-value and django-deprecate-fields to simplify the migration and deployment process, you will eliminate a common #Django #deployment headache. This has been a challenge for a while now. https://t.co/Fi0j51BmmX" / Twitter
+
+django-lifecycle
+https://github.com/rsinger86/django-lifecycle/ | rsinger86/django-lifecycle: Declarative model lifecycle hooks, an alternative to Signals.
+https://twitter.com/webology/status/1291058206056251393 | Jeff says, "wear a mask" 😷 on Twitter: "@andrewgodwin @carltongibson If you want to see something that's both different and lifted from Rails, check out https://t.co/nvQXTiFIkw I can't unsee them after using them in a few projects." / Twitter
+https://twitter.com/carltongibson/status/1279334203457523713 | Carlton Gibson 🇪🇺 on Twitter: "Folks still using django-lifecycle? What are the thoughts Some Time Later?" / Twitter
+
+django-allauth
+https://github.com/pennersr/django-allauth | pennersr/django-allauth: Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+https://pyphilly.org/know-thy-user-custom-user-models-django-allauth/
+https://twitter.com/FlipperPA/status/1317214250193031168 | Tim A. on Twitter: "@pystar As promised, here's a blog post: https://t.co/M4I1ktg5P3" / Twitter
+
+
+Django filter
+https://github.com/carltongibson/django-filter | carltongibson/django-filter: A generic system for filtering Django QuerySets based on user selections
+https://django-filter.readthedocs.io/en/
+https://pypi.org/project/django-filter/ | django-filter · PyPI
+https://pypi.org/project/djangorestframework-filters/ | djangorestframework-filters · PyPI
+https://www.django-rest-framework.org/api-guide/filtering/ | Filtering - Django REST framework
+https://github.com/philipn/django-rest-framework-filters | philipn/django-rest-framework-filters: Better filtering for Django REST Framework
+
+Django Crispy Forms
+http://django-crispy-forms.readthedocs.io/en/latest/ | Forms have never been this crispy — django-crispy-forms 1.0.0 documentation
+https://pypi.org/project/django-crispy-forms/ | django-crispy-forms · PyPI
+https://github.com/django-crispy-forms/django-crispy-forms | django-crispy-forms/django-crispy-forms: The best way to have DRY Django forms. The app provides a tag and filter that lets you quickly render forms in a div format while providing an enormous amount of capability to configure and control the rendered HTML.
+
+https://pypi.org/project/django-countries/ | django-countries · PyPI
+https://github.com/SmileyChris/django-countries#countryfield | SmileyChris/django-countries: A Django application that provides country choices for use with forms, flag icons static files, and a country field for models.
+
+
+Django cities
+https://github.com/coderholic/django-cities | coderholic/django-cities: Countries and cities of the world for Django projects
+
+
+Model History
+https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
+-->
+
+
+
+## Mypy
+
+Mypy PyCharm
+* [Dropbox: Mypy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
+
+Mypy
+* [Python Mypy GitHub](https://github.com/python/mypy)
+
+<!--
+https://pypi.org/project/mypy-ipython/20.8.0/ | mypy-ipython · PyPI
+https://myst-parser.readthedocs.io/en/latest/using/intro.html | Getting Started
+
+http://mypy-lang.org/
+https://github.com/machinalis/mypy-django
+http://mypy.readthedocs.io
+
+Django stubs?
+https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+-->
+
+## Static Typing
+
+Duck Typing
+* [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
+
+Strong and Weak Typing
+* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
+* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
+
+<!--
+https://realpython.com/python-type-checking/
+
+https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
+https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
+-->
+
+Type Hints
+* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
+* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
+
+More Static Typing Tools
+* [Python Typeshed GitHub](https://github.com/python/typeshed)
+* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
+* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
+* [Google: Pytype GitHub](https://github.com/google/pytype)
+* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
+* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
+
+Django Static Typing Tools
+* [Typed Django](https://github.com/typeddjango)
+* [DEP Draft for Django Type Checking](https://github.com/django/deps/pull/65)
+
+<!--
+https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+
+Encode Typesystem
+https://twitter.com/webology/status/1227286423109279744
+https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
+
+machine verified documentation
+https://twitter.com/pganssle/status/1180224777350520835
+
+https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+
+Guido- Type Annotations
+https://us.pycon.org/2016/schedule/presentation/2266/
+-->
+
+
+
+
+## Django Internationalization and Localization, Translation
+
+* [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
+* [Python Gettext Multilingual Internationalization Services](https://docs.python.org/2/library/gettext.html)  
+* [Django Local Flavor](https://docs.djangoproject.com/en/dev/topics/localflavor)  
+* [Django Local Flavor Read the Docs](https://django-localflavor.readthedocs.org/en/latest)  
+* [Django Local Flavor GitHub](https://github.com/django/django-localflavor)  
+* [Django Local Flavor PyPi](https://pypi.python.org/pypi/django-localflavor)  
+* [Django Internationalization and Localization](https://docs.djangoproject.com/en/dev/topics/i18n)  
+* [Django Internationalization and Localization, Translation](https://docs.djangoproject.com/en/dev/topics/i18n/translation) 
+
+<!--
+https://github.com/django/django-formtools
+https://github.com/django/django-contrib-comments
+-->
+
+## Python and Django Geo
+
+GeoDjango
+* [GeoDjango](http://geodjango.org)  
+* [GeoDjango Installation Postgresapp](https://docs.djangoproject.com/en/1.9/ref/contrib/gis/install/#postgresapp)
+
+Python- Django- Rest Framework GIS
+* [Django Rest Framework GIS API Guide Fields](http://www.django-rest-framework.org/api-guide/fields/#django-rest-framework-gis)  
+* [Django Rest Framework GIS GitHub](https://github.com/djangonauts/django-rest-framework-gis)  
+* [Django Rest Framework GIS PyPI](https://pypi.python.org/pypi/djangorestframework-gis)  
+* [Django Rest Framework GIS Forum](https://groups.google.com/forum/#!forum/django-rest-framework-gis)  
+
+PostGIS (Spatial Database Extender for PostgreSQL)
+* [PostGIS](http://postgis.net)  
+* [PostGIS Wikipedia](http://en.wikipedia.org/wiki/PostGIS)  
+* [UbuntuGIS](https://wiki.ubuntu.com/UbuntuGIS)  
+* [UbuntuGIS Wiki](http://trac.osgeo.org/ubuntugis/wiki)  
+* [Heroku PostGIS Wiki](https://devcenter.heroku.com/articles/postgis)  
+
+SpatiaLite (Spatial Database Extender for SQLite)
+* [SpatiaLite](https://www.gaia-gis.it/fossil/libspatialite/index)  
+* [SpatiaLite Downloads Page](http://www.gaia-gis.it/gaia-sins/libspatialite-sources)  
+* [SpatiaLite Wikipedia](http://en.wikipedia.org/wiki/SpatiaLite)  
+
+<!--
+GIS
+
+DjangoCon US Talk
+https://www.youtube.com/watch?v=Ow9P8UsKZzM&feature=emb_logo
+
+Important
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+
+https://realpython.com/location-based-app-with-geodjango-tutorial/ | Make a Location-Based Web App With Django and GeoDjango – Real Python
+https://en.wikipedia.org/wiki/Spatial_database | Spatial database - Wikipedia
+
+https://postgis.net/docs/manual-3.0/
+https://postgis.net/docs/manual-3.0/ch06.html
+https://www.gaia-gis.it/fossil/libspatialite/index
+
+GIS
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/ | GeoDjango | Django documentation | Django
+https://docs.djangoproject.com/en/3.2/ref/contrib/gis/tutorial/ | GeoDjango Tutorial | Django documentation | Django
+-->
+
+## Django Third Party Tools- Code Formatting Tools
+
+Code Formatting
+* [Black GitHub](https://github.com/psf/black)
+* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
+* [Black Out GitHub](https://github.com/mariatta/black_out)
+* [White GitHub](https://github.com/kennethreitz/white)
+* [Google YAPF](https://github.com/google/yapf)
+
+<!--
+https://pypi.org/project/black/ | black · PyPI
+
+https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
+
+https://github.com/bots-for-humanity/black-out
+
+https://black.now.sh/ | Black Playground
+
+Black and single quotes
+https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
+https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+-->
 
 ## CI/CD and Coverage
 
@@ -1334,97 +1335,102 @@ noqa: E501
 https://pypi.org/project/flake8-confusables/ | flake8-confusables · Warehouse (PyPI)
 -->
 
+## Eldarion and Pinax
 
-## Django Third Party Tools- Code Formatting Tools
-
-Code Formatting
-* [Black GitHub](https://github.com/psf/black)
-* [Black Online (Playground) GitHub](https://github.com/jpadilla/black-online)
-* [Black Out GitHub](https://github.com/mariatta/black_out)
-* [White GitHub](https://github.com/kennethreitz/white)
-* [Google YAPF](https://github.com/google/yapf)
+Package Tools
+* [django-appconf Read the Docs](https://django-appconf.readthedocs.io) and [django-appconf PyPI](https://pypi.org/project/django-appconf)
 
 <!--
-https://pypi.org/project/black/ | black · PyPI
-
-https://black.readthedocs.io/en/stable/installation_and_usage.html | Installation and usage — Black 19.10b1.dev0+g6bedb5c.d20191029 documentation
-
-https://github.com/bots-for-humanity/black-out
-
-https://black.now.sh/ | Black Playground
-
-Black and single quotes
-https://github.com/peterjc/flake8-black | peterjc/flake8-black: flake8 plugin to run black for checking Python coding style
-https://github.com/python/black/issues/118 | Single quotes option · Issue #118 · python/black
+https://github.com/django-compressor/django-appconf | django-compressor/django-appconf: An app to handle configuration defaults of packaged Django apps gracefully
 -->
 
-## Mypy
+Kubernetes
+* [Kubernetes](https://kubernetes.io)
 
-Mypy PyCharm
-* [Dropbox: Mypy PyCharm Plugin](https://github.com/dropbox/mypy-PyCharm-plugin)
-
-Mypy
-* [Python Mypy GitHub](https://github.com/python/mypy)
+Webpack Versus Browserify
+* [Vue](https://vuejs.org/)
+* [Webpack](https://webpack.js.org)
+* [Copy Webpack Plugin GitHub](https://github.com/webpack-contrib/copy-webpack-plugin)
+* [Browserify](http://browserify.org)
+* [Browsersync](https://www.browsersync.io/)
 
 <!--
-https://pypi.org/project/mypy-ipython/20.8.0/ | mypy-ipython · PyPI
-https://myst-parser.readthedocs.io/en/latest/using/intro.html | Getting Started
-
-http://mypy-lang.org/
-https://github.com/machinalis/mypy-django
-http://mypy.readthedocs.io
-
-Django stubs?
-https://github.com/typeddjango/django-stubs | typeddjango/django-stubs: PEP-484 stubs for Django
+http://fontawesome.io/ | Font Awesome, the iconic font and CSS toolkit
+https://fontawesome.com | Font Awesome 5 | Font Awesome
 -->
 
-## Static Typing
-
-Duck Typing
-* [Duck Typing Wikipedia](https://en.wikipedia.org/wiki/Duck_typing)
-
-Strong and Weak Typing
-* [Strong and Weak Typing Wikipedia](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
-* [Type System Wikipedia](https://en.wikipedia.org/wiki/Type_system)
-* [Type System- Static and Dynamic Wikipedia](https://en.wikipedia.org/wiki/Type_system#Static_and_dynamic_type_checking_in_practice)
 
 <!--
-https://realpython.com/python-type-checking/
+## Testing and Debugging Tools
 
-https://en.wikipedia.org/wiki/Type_system#Static_type_checking | Type system - Wikipedia
-https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information | Type system - Wikipedia
+https://pypi.python.org/pypi/pycodestyle/1.8.0.dev0
+
+Pytest
+https://pypi.python.org/pypi/pytest-cov | pytest-cov 2.5.1 : Python Package Index
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+https://github.com/pytest-dev/pluggy | pytest-dev/pluggy: A minimalist production ready plugin system
+
+https://pypi.org/project/pytest-github-actions-annotate-failures/ | pytest-github-actions-annotate-failures · PyPI
+https://pypi.org/project/pytest-is-running/ | pytest-is-running · PyPI
 -->
 
-Type Hints
-* [PEP 484- Type Hints](https://www.python.org/dev/peps/pep-0484)
-* [Guido van Rossum: Stanford Seminar- Optional Static Typing for Python](https://www.youtube.com/watch?time_continue=1&v=GiZKuyLKvAA)
+<!--
+attrs, pre-commit, tox, nox, flake8, check-manifest, twine, isort, seed-isort-config, black, pytest-cov, codecov action, flake8-black
 
-More Static Typing Tools
-* [Python Typeshed GitHub](https://github.com/python/typeshed)
-* [Dropbox: PyAnnotate GitHub](https://github.com/dropbox/pyannotate)
-* [Facebook: Pyre Check GitHub](https://github.com/facebook/pyre-check)
-* [Google: Pytype GitHub](https://github.com/google/pytype)
-* [Instagram: Monkey Type GitHub](https://github.com/Instagram/MonkeyType)
-* [Microsoft: Pyright GitHub](https://github.com/Microsoft/pyright)
 
-Django Static Typing Tools
-* [Typed Django](https://github.com/typeddjango)
-* [DEP Draft for Django Type Checking](https://github.com/django/deps/pull/65)
+## Django Third Party Tools- Package Tools and Testing
+
+* [pytest-cov Read the Docs](https://pytest-cov.readthedocs.io)
+
+https://github.com/codecov/codecov-action | codecov/codecov-action: GitHub Action that uploads coverage to Codecov
+
+https://github.com/pytest-dev/pytest-cov | pytest-dev/pytest-cov: Coverage plugin for pytest.
+
+
+Not used- but could be?
+* [attrs GitHub](https://github.com/python-attrs/attrs)
+
+## attrs
+
+https://www.attrs.org/en/stable/
+https://pypi.org/project/attrs/
+https://rich.readthedocs.io/en/stable/introduction.html
+https://pydantic-docs.helpmanual.io/
+https://twitter.com/willmcgugan/status/1440780146290532352 | Will McGugan on Twitter: "Just a reminder that Rich can pretty print objects from the awesome "attrs" library from @hynek I'm hoping to have PyDantic integration soon so Rich will pretty print the trifecta of dataclasses, attrs, and PyDantic! https://t.co/cL26LSFuU0" / Twitter
+https://glyph.twistedmatrix.com/2016/08/attrs.html | Deciphering Glyph :: The One Python Library Everyone Needs
+-->
+
+## Django Third Party Tools- Local
 
 <!--
-https://dustingram.com/talks/2020/03/19/static-typing-in-python/
+poetry
 
-Encode Typesystem
-https://twitter.com/webology/status/1227286423109279744
-https://github.com/encode/typesystem | encode/typesystem: A type system library for Python.
+## Environment and DevOps
 
-machine verified documentation
-https://twitter.com/pganssle/status/1180224777350520835
+Important!
+https://pyphilly.org/virtualenvwrapper-aliases-venv-users/ | virtualenvwrapper Aliases for venv Users - PyPhilly: Home of Tim Allen, aka FlipperPA
+https://twitter.com/DawnWagesSays/status/1429843476447830016 | dawn (she/her) on Twitter: "Imma be real, I’ve been trying to phase pipenv out but I like it. Thanks to @FlipperPA , when I venv I use it like dis: https://t.co/w2OQvj1WIc" / Twitter
 
-https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/
+Go Django
+https://godjango.com/blog/working-with-environment-variables-in-python/
 
-Guido- Type Annotations
-https://us.pycon.org/2016/schedule/presentation/2266/
+Jeff's trifecta
+https://direnv.net/
+https://github.com/direnv
+cortesi/devd
+https://github.com/casey/just
+
+Recommended: pip-tools
+https://github.com/jazzband/pip-tools | jazzband/pip-tools: A set of tools to keep your pinned Python dependencies fresh.
+https://lincolnloop.com/blog/python-dependency-locking-pip-tools/ | Python Dependency Locking with pip-tools | Lincoln Loop
+
+python-dotenv
+https://pypi.org/project/python-dotenv/ | python-dotenv · PyPI
+https://github.com/theskumar/python-dotenv
+
+https://github.com/joke2k/django-environ
+
+https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
 -->
 
 ## Flask
