@@ -23,7 +23,7 @@ https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek
 https://twitter.com/icymihn/status/1520921032613371904 | ICYMI HN on Twitter: "Limitations of DALL-E https://t.co/oTPp54D3j1 comm: https://t.co/eD5htj3Y2k" / Twitter
 https://openai.com/dall-e-2/ | DALL·E 2
 https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
-https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (--> @dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
+https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (@dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
 
 ## Testing
 
