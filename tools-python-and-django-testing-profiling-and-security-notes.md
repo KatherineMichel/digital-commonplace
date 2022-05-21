@@ -1,51 +1,6 @@
 # Tools- Python and Django Testing, Profiling, and Security
 
 <!--
-## Testing
-
-https://testdriven.io/tips/ | Tips and Tricks | TestDriven.io
-
-https://www.provartesting.com/blog/product/mock-api-responses/ | Mock API Responses: A ‘How To’ with Provar - Provar
-
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-https://test-driven-django-development.readthedocs.io/en/v2.0/ | Workshop: Test-Driven Web Development with Django — Test-Driven Django Development 0.1.0 documentation
-
-
-https://www.tutorialspoint.com/software_testing_dictionary/test_data_management.htm | Test Data Management
-
-https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing | The different types of testing in Software | Atlassian
-
-
-Django Testing
-https://twitter.com/brianokken/status/1320487278137913344 | Brian Okken on Twitter: "Great thread for anyone testing Django applications." / Twitter
-
-Python- Testing
-https://twitter.com/jangiacomelli/status/1310965946127966208 | Jan Giacomelli on Twitter: "@macerub, @dmokafa, @MikeHerman, @easyaspython any toughts?" / Twitter
-
-https://github.com/pythonsd/test-driven-django-development | pythonsd/test-driven-django-development: This repository contains materials for a San Diego Python workshop on learning Django with test inspired development
-
-https://github.com/emeryberger/scalene | emeryberger/scalene: a high-performance, high-precision CPU and memory profiler for Python
-
-https://boto3.readthedocs.io/en/latest/index.html
-
-
-https://pythontesting.net/framework/pytest/pytest-introduction/
-
-https://pythontesting.net/agile/test-first-programming/
-http://www.extremeprogramming.org/rules/testfirst.html
-https://martinfowler.com/bliki/SelfTestingCode.html
-https://martinfowler.com/bliki/TestDrivenDevelopment.html
-https://learntdd.in/concepts.html
-
-https://en.wikipedia.org/wiki/Scenario_testing
-https://martinfowler.com/articles/mocksArentStubs.html
-https://thoughtbot.com/blog/i-mock-your-fixtures-too
--->
-
-
-
-<!--
 ## JS Scene
 
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
@@ -68,6 +23,19 @@ https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profi
 https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
 
 ## Testing Opinion
+
+https://pythontesting.net/framework/pytest/pytest-introduction/
+
+https://pythontesting.net/agile/test-first-programming/
+http://www.extremeprogramming.org/rules/testfirst.html
+https://martinfowler.com/bliki/SelfTestingCode.html
+https://martinfowler.com/bliki/TestDrivenDevelopment.html
+https://learntdd.in/concepts.html
+
+https://en.wikipedia.org/wiki/Scenario_testing
+https://martinfowler.com/articles/mocksArentStubs.html
+https://thoughtbot.com/blog/i-mock-your-fixtures-too
+
 
 Important
 https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
@@ -122,6 +90,7 @@ https://github.com/carltongibson/rest-framework-tutorial/blob/master/snippets/te
 
 https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
 -->
+
 
 ## Debugging
 
