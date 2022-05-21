@@ -1142,8 +1142,6 @@ https://us.pycon.org/2016/schedule/presentation/2266/
 -->
 
 
-
-
 ## Django Internationalization and Localization, Translation
 
 * [Django i18n Forum](https://groups.google.com/forum/#!forum/django-i18n)  
