@@ -331,6 +331,178 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 -->
 
 
+## Useful Files
+
+Shells
+* [Comparison of Command Shells Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_command_shells)
+* [Unix Shell Wikipedia](http://en.wikipedia.org/wiki/Unix_shell)  
+* [Bash (Unix Shell) Wikipedia](http://en.wikipedia.org/wiki/Bash_(Unix_shell))  
+* [Shell Script Wikipedia](https://en.wikipedia.org/wiki/Shell_script)  
+
+Maintenance
+* [Cron Wikipedia](https://en.wikipedia.org/wiki/Cron)
+* [Lint](https://en.wikipedia.org/wiki/Lint_(software))
+
+Shebang File
+* [Shebang File Wikipedia](https://en.wikipedia.org/wiki/Shebang_(Unix))
+
+
+Permissions
+* [File System Permissions](https://en.wikipedia.org/wiki/File_system_permissions)
+
+Rake and Make
+* [Ruby Rake File GitHub](https://github.com/ruby/rake)
+* [Make Wikipedia](https://en.wikipedia.org/wiki/Make_(software))
+* [GNU Makefile](https://www.gnu.org/software/make) and [Makefile Wikipedia](https://en.wikipedia.org/wiki/Makefile)
+
+Files
+* [Manifest File Wikipedia](https://en.wikipedia.org/wiki/Manifest_file)
+
+EditorConfig (tabs versus spaces, ect) .editorconfig
+* [EditorConfig](http://editorconfig.org)
+* [EditorConfig Plugins](http://editorconfig.org/#download)
+
+Markdown
+* [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown) 
+
+
+<!--
+ZSH, Bash and command line, aliases/bash script aliases
+
+https://en.wikipedia.org/wiki/List_of_file_formats
+https://en.wikipedia.org/wiki/File_format
+https://en.wikipedia.org/wiki/List_of_filename_extensions
+https://en.wikipedia.org/wiki/Filename_extension
+https://en.wikipedia.org/wiki/Binary_file
+https://en.wikipedia.org/wiki/Text_file
+https://en.wikipedia.org/wiki/System_file
+https://en.wikipedia.org/wiki/File_system
+https://en.wikipedia.org/wiki/Directory_structure
+
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+unix performance tools - Google Search
+
+
+http://www.linfo.org/usr_sbin.html
+https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
+
+https://opensource.com/article/19/4/bash-vs-python
+
+
+Bash versus Python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
+
+
+https://tldp.org/LDP/abs/html/sha-bang.html | Starting Off With a Sha-Bang
+
+https://www.gnu.org/software/bash/manual/
+https://www.gnu.org/software/bash/manual/bash.html | Bash Reference Manual
+https://www.gnu.org/software/bash/manual/bashref.html
+http://tldp.org/LDP/Bash-Beginners-Guide/html/sect_02_01.html
+http://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html
+Advanced Bash-Scripting Guide
+http://tldp.org/LDP/abs/html/
+http://www.tldp.org/LDP/abs/html/why-shell.html
+
+
+https://www.tutorialspoint.com/unix/
+https://www.tutorialspoint.com/unix/unix-useful-commands.htm
+https://en.wikipedia.org/wiki/List_of_Unix_commands
+https://www.tutorialspoint.com/unix/if-fi-statement.htm | Unix / Linux Shell - The if...fi statement - Tutorialspoint
+
+https://www.tutorialspoint.com/unix/unix-quick-guide.htm
+https://www.tutorialspoint.com/unix_commands/index.htm
+https://www.tutorialspoint.com/unix_system_calls/index.htm
+
+https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
+https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
+
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
+https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
+
+https://www.linuxjournal.com/content/understanding-bash-elements-programming
+-->
+
+<!--
+http://www.brendangregg.com/perf.html | Linux perf Examples
+
+ZSH	
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+https://opensource.com/article/20/1/bash-scripts-aliases
+
+https://github.com/topics/bash | Topic: bash
+https://github.com/Idnan/bash-guide
+https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
+Intro - Hello Web Books
+
+https://regexcrossword.com/ | Regex Crossword
+https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
+
+https://learnxinyminutes.com/docs/yaml/
+http://www.yaml.org/refcard.html
+https://yaml.org/spec/1.2/spec.html | YAML Ain’t Markup Language (YAML™) Version 1.2
+
+https://www.gnu.org/software/make/manual/make.html
+https://www.gnu.org/software/make/manual/html_node/Phony-Targets.html | GNU make: Phony Targets
+
+Dotfiles
+https://github.com/paulirish/dotfiles | paulirish/dotfiles: paul's shell, git, etc config files. also homebrew, migration setup. good stuff.
+https://github.com/Miserlou/dotfiles-osx | Miserlou/dotfiles-osx: Updated dotfiles. For me not you.
+https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal dotfiles.
+https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
+https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
+
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
+File security
+http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
+
+https://developers.redhat.com/promotions/linux-cheatsheet/ | Linux Commands Cheat Sheet | Red Hat Developer
+https://tldp.org/LDP/GNU-Linux-Tools-Summary/html/x11655.htm
+https://frontendmasters.com/courses/linux-command-line/ | ​​Learn the fundamentals of Linux and the Command-Line in this course with Brian Holt of Microsoft.
+
+Brew script
+
+Homebrew
+https://github.com/Linuxbrew/homebrew-core
+https://github.com/Homebrew/homebrew-cask | Homebrew/homebrew-cask: 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
+https://docs.brew.sh/Homebrew-and-Python | Python — Homebrew Documentation
+
+https://twitter.com/ShaneAParrish/status/1258574825091739649 | Shane Parrish on Twitter: "What's the best piece of software you use on a mac that few people have ever heard of?" / Twitter
+https://c-command.com/toothfairy/ | ToothFairy: AirPods and Bluetooth utility for Mac
+https://twitter.com/Jonsamp/status/1258578441370247169 | Jon Samp on Twitter: "@ShaneAParrish Pastebot! Search copied things, and sequential copy/paste 🙀😍 https://t.co/4evMNoTafX" / Twitter
+-->
+
+
 ## Awesome Python and Django
 
 Awesome Python
