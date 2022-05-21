@@ -494,35 +494,6 @@ https://github.com/sdmg15/Best-websites-a-programmer-should-visit#general-coding
 -->
 
 
-<!--
-Docs
-
-Stripe
-https://markdoc.io/ | Markdoc | A powerful, flexible, Markdown-based authoring framework
-
-https://twitter.com/jennleaver/status/1448137494445260800 | Jenn Leaver on Twitter: "Hey-o! My talk on docs leadership for #WriteTheDocs Prague is up! If you’re new to docs leadership or interested in learning about how I approach this work, check it out 😻 If you have questions or feedback, DMs are open! https://t.co/X0IfKbfDbN" / Twitter
-
-
-
-https://hashnode.com/bootcamp/batch-2 | Hashnode Technical Writing Bootcamp II
-
-https://twitter.com/evildmp/status/1022043729195159552 | Daniele Procida on Twitter: "Slides as used in my #EuroPython "Let's get your documentation right" workshop yesterday: https://t.co/KTs8UFDTOu See also https://t.co/U7aCoFermL" / Twitter
-https://www.dropbox.com/s/9c7slv6ets15so4/Get%20your%20documentation%20right.pdf?dl=0 | Get your documentation right.pdf
-https://documentation.divio.com/ | The documentation system — Documentation system documentation
-https://diataxis.fr/ | Home - Diátaxis
-https://speakerdeck.com/evildmp/documentation-driven-development?slide=15 | Documentation-driven development - Speaker Deck
-https://docs.google.com/document/d/15mvm71sjniQ8f-_kyVlzfWU6G4trw0Oh6mhC_4Lzq4o/edit# | Diátaxis workshop 16th June 2021 - Google Docs
-
-https://twitter.com/newsycombinator/status/1356664323234488320 | Hacker News on Twitter: "A Framework for Writing Better Documentation https://t.co/nTDEFR6yd6" / Twitter
-https://twitter.com/divio/status/1349493545489596416 | DIVIO on Twitter: "@JoaquimLozano @pydanny With a few lines of glue code in your https://t.co/FR0eaa8PeP to pick up env vars, you can adapt a Django application for Divio deployment on Docker in a few minutes, including Postgres DB, S3 media, metrics, logs, backups, etc. https://t.co/vvKymzjC4a (Last updated: December)" / Twitter
-
-Docs Audit
-https://twitter.com/GoogleOSS/status/1367882772916953098 | Google Open Source on Twitter: "📂 Are you struggling to understand what docs your open source project has, what docs your project needs, and how to bridge that gap? Check out this new documentation content maturity checklist and guide from @ddbeck, open sourced by Google → https://t.co/Yt3ObDc8sx https://t.co/YG1yVKcJm3" / Twitter
-https://github.com/google/opendocs/tree/main/audit | opendocs/audit at main · google/opendocs · GitHub
-https://developers.google.com/style/inclusive-documentation | Writing inclusive documentation
--->
-
-
 ## Learning to Code and Portfolio
 
 <!--
