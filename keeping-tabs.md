@@ -149,6 +149,7 @@ Leetcode
 https://leetcode.com/
 
 
+https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition
 https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
 
 https://www.algorist.com/ | The Algorithm Design Manual
@@ -187,10 +188,15 @@ DjangoCon US 2021
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 
 
+https://pyvideo.org/ | PyVideo.org
+
+
 Boost Your Django DX
 https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
 
 Speed Up Your Django Tests
+https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
+https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
 
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
@@ -332,16 +338,30 @@ VS Code for Python Dev
 https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
 https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
 
+https://blog.jetbrains.com/pycharm/2022/03/2021-3-3/ | PyCharm 2021.3.3 Is Available | The PyCharm Blog
+
+Release
+https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
+
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf | PyCharm_ReferenceCard.pdf
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
+
 PyCharm's top keyboard shortcuts
 https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
+https://www.jetbrains.com/help/pycharm/keymap-reference.html | Keymap reference | PyCharm
 
-PyCharm
 https://www.jetbrains.com/help/pycharm/
 https://blog.jetbrains.com/pycharm/
 https://www.jetbrains.com/help/pycharm/installation-guide.html | Install PyCharm | PyCharm
 
-Release
-https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
+https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
+
+https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1196/coursehandouts/installingpycharm.html | Installing PyCharm
+
+## PyCharm and Security
+
+https://pycharm-security.readthedocs.io/en/latest/checks/index.html#shell | List of Checks — PyCharm Python Security plugin documentation
+https://twitter.com/anthonypjshaw/status/1527048060194258944 | Anthony Shaw 🇦🇺🤝🇺🇦 on Twitter: "@dabeaz @JohnNyquest1001 @driscollis Absolutely. Here's a list of 4 major issues https://t.co/EIouyrTOBK" / Twitter
 
 ## Awesome
 
@@ -517,12 +537,6 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 -->
 
 <!--
-## Debugging
-
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html
-
-https://sentry.io/welcome/
-
 ## Profiling
 
 https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
@@ -541,6 +555,8 @@ Diagrams and Mockups
 * [Mermaid](https://mermaid-js.github.io/mermaid/)
 
 <!--
+https://github.blog/2022-05-19-math-support-in-markdown/
+
 (Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
 https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
 -->
@@ -557,6 +573,10 @@ Project Management
 Continuous Integration
 * [GitHub](https://github.com/)
 * [CircleCI](https://circleci.com/)
+
+<!--
+https://pre-commit.com/ | pre-commit
+-->
 
 Platform
 * [AWS](https://aws.amazon.com/)
@@ -582,6 +602,7 @@ Django Debug Toolbar and Panel
 
 <!--
 Django Shell Plus
+https://django-extensions.readthedocs.io/en/latest/list_model_info.html | list_model_info — django-extensions 3.1.2 documentation
 https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
 https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
 
@@ -592,6 +613,12 @@ Logging
 * [Sentry](https://sentry.io/welcome/)
 * [Loggly](https://www.loggly.com/)
 * [Datadog](https://www.datadoghq.com/)
+
+<!--
+https://sentry.io/welcome/
+https://develop.sentry.dev/testing/ | Testing Tips | Sentry Developer Documentation
+https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
+-->
 
 Database
 * [Postgres](https://www.postgresql.org/)
