@@ -1,14 +1,6 @@
 # Python and Django Tools and Deployment
 
 <!--
-Talk
-https://2019.djangocon.us/talks/postgres-index-types-and-where-to-find/ | Postgres Index types and where to find them | DjangoCon US
-
-Unit testing and CI
-https://twitter.com/mariatta/status/1483230947914829824 | Mariatta 🤦 on Twitter: "Thanks again @mtlpy for having me to talk about Unit testing and Continuous Integration. For those who missed it, here's the session on YouTube: https://t.co/N2yqTE3whb Slides: https://t.co/p8QLINfSnt" / Twitter
-https://twitter.com/DataUmbrella/status/1466770451133313037 | Data Umbrella on Twitter: "In case you missed our event: Intro to Unit Testing and Continuous Integration by @mariatta, the video is available. And, subscribe to our YouTube channel for more videos: https://t.co/FVNADa4Vdp" / Twitter
-
-
 https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
 
 
@@ -25,10 +17,6 @@ https://opensource.com/article/22/3/python-httpx | How to use httpx, a web clien
 
 Important
 https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-
-Faster Python
-https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf | ideas/FasterCPythonDark.pdf at main · faster-cpython/ideas
 
 
 
@@ -49,6 +37,20 @@ https://twitter.com/djangonewsbot/status/1521670962755760128 | Django News on Tw
 Speed
 https://www.python.org/downloads/release/python-3110a6/ | Python Release Python 3.11.0a6 | Python.org
 https://twitter.com/methane/status/1501108529297432577 | Naoki 🇺🇦🇯🇵 on Twitter: "@anthonypjshaw FWIW, Python 3.11.0a6 is significantly faster than 3.10. https://t.co/3km14aauVU" / Twitter
+
+
+## CPython
+
+Faster Python
+https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf | ideas/FasterCPythonDark.pdf at main · faster-cpython/ideas
+
+Dave Beazley- Dataklasses
+https://github.com/dabeaz/dataklasses | dabeaz/dataklasses: A different spin on dataclasses.
+https://twitter.com/dabeaz/status/1472742536649351173
+https://twitter.com/simonw/status/1472765515793788929 | https://twitter.com/simonw/status/1472765515793788929
+
+Dave Beazley
+https://twitter.com/simonw/status/1472788683199631362 | Simon Willison on Twitter: "It took me quite a while to read through this and understand all of the tricks that it uses Here's my heavily annotated copy of @dabeaz's code that attempts to explain how it all works: https://t.co/A4hzo9Tay2" / Twitter
 
 
 ## Tools Matrix
@@ -74,31 +76,6 @@ https://openai.com/dall-e-2/ | DALL·E 2
 https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
 https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (@dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
 
-
-
-
-Pytest DRF
-https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
-
-
-https://beeware.org/
-
-
-Game engine and scripting language
-https://www.pygame.org/project-PyWright-904-.html
-
-https://github.com/google/python-fire | google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-
-https://gist.github.com/jefftriplett/e87b36d750f94e48080a2be46e71dbe1 | Django Management Command to print a "Magic Link" for one-click log-in. This is nice for people who project switch or don't want to remember passwords.
-
-
-Terminal Tutorial
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-
-
-
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -113,54 +90,12 @@ https://devchecklists.com
 https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
-
-Shopify Engineering
-https://twitter.com/simonw/status/1467638412253433856 | Simon Willison on Twitter: "Lots of impressive numbers in this thread, but delivering 11.67 billion webhooks stood out to me - webhooks are pretty fiddly to implement at scale due to the challenges of delivering to slow/error-prone/potentially even malicious endpoints" / Twitter
-
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
-
-Python Graph Gallery
-https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
-https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
-
-PEPs Graph
-https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
-
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-
-Dave Beazley- Dataklasses
-https://github.com/dabeaz/dataklasses | dabeaz/dataklasses: A different spin on dataclasses.
-https://twitter.com/dabeaz/status/1472742536649351173
-https://twitter.com/simonw/status/1472765515793788929 | https://twitter.com/simonw/status/1472765515793788929
-
-Dave Beazley
-https://twitter.com/simonw/status/1472788683199631362 | Simon Willison on Twitter: "It took me quite a while to read through this and understand all of the tricks that it uses Here's my heavily annotated copy of @dabeaz's code that attempts to explain how it all works: https://t.co/A4hzo9Tay2" / Twitter
-
-
-https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
-
-Python + Web Assembly
-https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
-https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
-https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
-
-WAS
-https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
-
-
 ## Madelene Campos
 
 https://twitter.com/maddiecampos3/status/1432370389259329537 | Madelene Campos on Twitter: "Getting "braver". Recently gave a lightning talk as part of @PyLadiesSWFL @MiamiPyladies about AWS Secrets Manager as a possible solution for storing and managing code that should be a bit more protected and not quite so out there in the world. #security https://t.co/ifzGBWl4W1" / Twitter
 
 Django- Important
 https://twitter.com/maddiecampos3/status/1412238127184461824 | Madelene Campos on Twitter: "Want to know how to get a Django app up and running? Here's a recording from my recent talk: "Understanding Django" at @PyLadiesSWFL (Thank you, @InessaPawson for recording the event!) #django #python #pyladies https://t.co/UAM0SuExap" / Twitter
-
 
 ## Eric
 
@@ -185,6 +120,56 @@ https://docs.saaspegasus.com/
 https://www.saaspegasus.com/
 
 https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
+
+
+
+
+
+
+
+https://beeware.org/
+
+
+Game engine and scripting language
+https://www.pygame.org/project-PyWright-904-.html
+
+https://github.com/google/python-fire | google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+
+https://gist.github.com/jefftriplett/e87b36d750f94e48080a2be46e71dbe1 | Django Management Command to print a "Magic Link" for one-click log-in. This is nice for people who project switch or don't want to remember passwords.
+
+
+Terminal Tutorial
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+
+
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+
+Python Graph Gallery
+https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
+https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+
+Python + Web Assembly
+https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
+https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
+https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
+
+WAS
+https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
+
 
 
 ## Python- Configs
@@ -256,6 +241,7 @@ https://twitter.com/laceynwilliams/status/1052635673667153920 | Lacey @ DjangoCo
 
 More itertools
 https://more-itertools.readthedocs.io/en/stable/api.html#more_itertools.all_equal | API Reference — more-itertools 8.10.0 documentation
+
 
 
 ## CLI
@@ -1665,6 +1651,9 @@ Python- Django- Alternative Rest Framework
 * [django-tastypie Read the Docs](http://django-tastypie.readthedocs.org)
 
 <!--
+Pytest DRF
+https://pypi.org/project/pytest-drf/ | pytest-drf · PyPI
+
 https://swagger.io/docs/
 
 https://github.com/caktus/drf-sample | caktus/drf-sample: Django REST Framework Sample
