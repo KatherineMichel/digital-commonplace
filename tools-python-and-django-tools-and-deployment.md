@@ -1,6 +1,8 @@
 # Python and Django Tools and Deployment
 
 <!--
+https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
+
 https://buttercms.com/
 
 Tailwind
