@@ -160,6 +160,11 @@ https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
 
 
+## Documenting
+
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+
+
 Leetcode
 https://leetcode.com/
 
@@ -183,8 +188,6 @@ https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
 APIs
-
-Useful Files
 
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
@@ -392,6 +395,8 @@ https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A 
 <!--
 ## Git
 
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
 https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
 
 https://git-scm.com/ | Git
@@ -463,7 +468,13 @@ Foreign Key
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
 
 
-## Testing
+## Exceptions, Errors, and Testing
+
+Exceptions
+https://docs.python.org/3/library/exceptions.html
+https://docs.python.org/3/tutorial/errors.html
+https://realpython.com/python-exceptions/
+
 
 Python testing tools taxonomy
 https://wiki.python.org/moin/PythonTestingToolsTaxonomy
@@ -563,6 +574,30 @@ https://en.wikipedia.org/wiki/Cardinality
 https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
 -->
 
+## Useful Files
+
+<!--
+## Local Dev Tools
+
+https://tldp.org/LDP/abs/html/aliases.html | Aliases
+
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
+
+http://www.w3schools.com/sql/default.asp
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+
+https://www.sqlite.org/index.html
+https://www.sqlite.org/docs.html
+https://www.postgresql.org/docs/current/sql.html
+https://www.postgresql.org/docs/current/app-psql.html
+
+https://www.sqlite.org/changes.html | Release History Of SQLite
+https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
+https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
+-->
 
 ## Stack
 
@@ -678,24 +713,11 @@ Background Processing
 * https://docs.python.org/3/library/asyncio.html
 -->
 
-## Other Tools
-
-<!--
-http://www.w3schools.com/sql/default.asp
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
--->
-
-
 ## Release
 
 <!--
 https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 documentation
 https://docs.djangoproject.com/en/3.2/releases/ | Release notes | Django documentation | Django
-
-https://www.sqlite.org/changes.html | Release History Of SQLite
-https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
 
 https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
 https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
