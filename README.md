@@ -245,6 +245,9 @@ https://monorepo-book.github.io/ | Maintaining a Monorepo | Maintaining a Monore
 https://monorepo-book.github.io/detection.html | Detecting problems | Maintaining a Monorepo
 https://github.com/github/git-sizer | github/git-sizer: Compute various size metrics for a Git repository, flagging those that might cause problems
 
+Mono repo
+https://twitter.com/swyx/status/1478180887884083200 | swyx 🌉 SF on Twitter: "✨Monorepos Masterclass✨ Excited to learn from @jeffbcross + @victorsavkin: ✅ Origin story at Google ✅ @NxDevTools vs @turborepo ✅ Monorepos: the Hard parts ✅ When do you need Monorepos? ✅ @Temporalio & the Distributed Task Execution problem https://t.co/IYLSKxHIzk" / Twitter
+
 ## End of Life
 
 https://endoflife.date/ | Home | endoflife.date
@@ -303,7 +306,6 @@ https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wiki
 
 
 https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 
 ## System and Architecture
@@ -315,11 +317,14 @@ https://en.wikipedia.org/wiki/Category_theory | Category theory - Wikipedia
 
 https://book.systemsapproach.org/ | Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation
 
-https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
-
 https://github.com/stemmlerjs/software-design-and-architecture-roadmap | stemmlerjs/software-design-and-architecture-roadmap: 🧱 The software design and architecture roadmap for any developer
 
 https://nocomplexity.com/documents/arplaybook/index.html | Architecture Playbook — Architecture Playbook
+
+
+https://twitter.com/allafarce/status/1387912036542078979 | Dave Guarino on Twitter: "Belated share, but this @18f post on web app architectural choices for govt strongly resonated with me. TLDR: 1. Static site 2. Server rendered app 3. ^, but with a little JS 4. Single page app Choose the first approach of the above that can meet the need." / Twitter
+
+https://twitter.com/Nedra/status/1518871922909585409 | Nedra Weinreich 🗺 on Twitter: "This is a fantastic resource for designing behaviorally-informed communications. It's concise but really useful! The RESPONSE checklist: R Recipient E Effect S Sender P Pain Points O Opportunities N Nudge S Spillovers E Evaluate https://t.co/wnenlVbfbL" / Twitter
 
 
 ## Programming Language Constructs
@@ -435,6 +440,15 @@ https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid o
 * [Awesome Scalability GitHub](https://github.com/binhnguyennus/awesome-scalability)
 
 <!--
+https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
+https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS | AdminTurnedDevOps/DevOps-The-Hard-Way-AWS: This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS
+https://github.com/MichaelCade/90DaysOfDevOps | MichaelCade/90DaysOfDevOps: This repository is my documenting repository for learning the world of DevOps. I started this journey on the 1st January 2022 and I plan to run to March 31st for a complete 90-day romp on spending an hour a day including weekends to get a foundational knowledge across a lot of different areas that make up DevOps.
+
+Sys Admin
+https://github.com/trimstray/sysadmin-interview-questions
+https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
+
+
 Stacks
 https://github.com/stackshareio/awesome-stacks | stackshareio/awesome-stacks: A curated list of tech stacks for building different applications & features
 
@@ -468,12 +482,6 @@ https://github.com/angrave/SystemProgramming | angrave/SystemProgramming: Angrav
 https://github.com/lorin/systems-thinking
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 https://github.com/checkcheckzz/system-design-interview | checkcheckzz/system-design-interview: System design interview for IT companies
-
-https://github.com/bregman-arie/devops-exercises | bregman-arie/devops-exercises: Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions
-
-Sys Admin
-https://github.com/trimstray/sysadmin-interview-questions
-https://github.com/trimstray/test-your-sysadmin-skills | GitHub - trimstray/test-your-sysadmin-skills: A collection of *nix Sysadmin Test Questions and Answers for Interview/Exam (2018 Edition).
 
 
 Laws and Stuff
@@ -630,6 +638,7 @@ https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The
 Code Review Checklist/Code Test Checklist (RITE Way)
 https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
 
+
 Growth Rubric
 https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721
 https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
@@ -638,20 +647,8 @@ https://medium.engineering/engineering-interviews-what-we-screen-for-af2d8412241
 software development competency framework
 http://sijinjoseph.com/programmer-competency-matrix/
 
-Principle/Distinguished
-https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
-https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
 
-Great
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
 
-10X Results
-Problem solver, skilled, mentor/teacher, excellent learner, passionate
-Honest, communicative, efficient, collaborative, committed
-
-See chart/Table 1
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-Top five distinguishing characteristics: writing good code, adjusting behaviors to account for future value and costs, practicing informed decision-making, avoiding making others’ jobs harder, and learning continuously
 
 https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
 Look at their total contribution.
@@ -673,6 +670,29 @@ https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twit
 
 https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
 https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
+
+
+## Characteristics of a Good Dev
+
+Principle/Distinguished
+https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
+https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
+
+Great
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
+10X Results
+Problem solver, skilled, mentor/teacher, excellent learner, passionate
+Honest, communicative, efficient, collaborative, committed
+
+See chart/Table 1
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+Top five distinguishing characteristics: writing good code, adjusting behaviors to account for future value and costs, practicing informed decision-making, avoiding making others’ jobs harder, and learning continuously
+
+
+https://twitter.com/LBacaj/status/1514694596965638147 | Louie Bacaj on Twitter: "The top 10 predictors of successful engineering careers. I've helped hire 100s of engineers in my 12+ year career. I've managed and steered the careers of multiple engineering teams. Some of these may surprise you, but I am confident they predict career success in our industry." / Twitter
+
+https://twitter.com/svpino/status/1513124651764895749 | Santiago 🇺🇸🇺🇦 on Twitter: "The two unnegotiable prerequisites to becoming a good developer: 1. Get good at writing software (duh!) 2. Get good at talking about what your software does Strong technical + communication skills. Neither one is more important than the other." / Twitter
 -->
 
 
@@ -731,9 +751,8 @@ https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitt
 
 <!--
 http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
--->
 
-<!--
+
 https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
 
 
@@ -817,8 +836,6 @@ https://github.com/joelparkerhenderson/ways-of-working
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
 https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
 
-
-https://uxdesign.cc/a-comprehensive-list-of-ux-design-methods-deliverables-2021-2feb3e70e168 | A comprehensive list of UX design methods & deliverables | by Fabricio Teixeira | UX Collective
 
 https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
 
