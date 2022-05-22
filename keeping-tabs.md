@@ -1,11 +1,18 @@
 # Keeping Tabs
 
 <!--
-realpython.com
-https://realpython.com/
+## Python Learning Resources- Set Aside
 
-testdriven.io
-https://testdriven.io/
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
+
 
 Code with Anthony
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
