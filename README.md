@@ -238,6 +238,8 @@ https://stackoverflow.com/help/how-to-ask/ | How do I ask a good question? - Hel
 https://pastebin.com/ | Pastebin.com - #1 paste tool since 2002!
 https://gist.github.com/ | Create a new Gist
 
+https://dontasktoask.com/ | Don't ask to ask, just ask
+
 ## Monrepo
 
 Interesting
@@ -263,6 +265,9 @@ https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 
 
 <!--
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
 
@@ -279,10 +284,7 @@ Hardware... interesting
 https://en.algorithmica.org/ | Algorithmica
 
 
-
-TLA+
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
 
 TLA+
 https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
