@@ -451,9 +451,6 @@ https://github.com/kennethreitz/dotfiles | kennethreitz/dotfiles: My personal do
 https://github.com/nnja/new-computer/blob/master/setup.sh#L253 | new-computer/setup.sh at master · nnja/new-computer
 https://twitter.com/andrewgodwin/status/1180286950344818689 | Andrew Godwin on Twitter: "@simonw This is exactly what I do for my dotfiles. Recommend also having a script in the repo that makes the links for you." / Twitter
 
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
 File security
 http://www.tldp.org/LDP/intro-linux/html/sect_03_04.html
 
