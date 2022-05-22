@@ -75,7 +75,6 @@ https://www.nngroup.com/articles/prioritization-matrices/
 12 Ways to Get Smarter
 https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
 
-
 Checklist Manifesto
 
 Knowledge base
