@@ -228,12 +228,16 @@ Watchman
 https://blog.acolyer.org/2020/09/21/watchman/ | Watchman: monitoring dependency conflicts for Python library ecosystem | the morning paper
 
 
+Date and Timezone
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
 
+Anthony
 https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
 
+
 https://github.com/facebookincubator/Bowler | facebookincubator/Bowler: Safe code refactoring for modern Python.
+
 https://opensource.google.com/projects/python-fire | Python Fire – opensource.google.com
 
 https://github.com/Microsoft/knack | Microsoft/knack: Knack - A Python command line interface framework
@@ -358,6 +362,13 @@ Markdown
 
 
 <!--
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+
+
 ZSH, Bash and command line, aliases/bash script aliases
 
 https://en.wikipedia.org/wiki/List_of_file_formats
@@ -370,23 +381,10 @@ https://en.wikipedia.org/wiki/System_file
 https://en.wikipedia.org/wiki/File_system
 https://en.wikipedia.org/wiki/Directory_structure
 
-https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-unix performance tools - Google Search
-
 
 http://www.linfo.org/usr_sbin.html
 https://www.techopedia.com/definition/5585/cgi-bin#:~:text=A%20CGI%2Dbin%20is%20a,of%20scripts%20in%20Web%20design. | What is a CGI-Bin? - Definition from Techopedia
 
-https://opensource.com/article/19/4/bash-vs-python
-
-
-Bash versus Python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
 
 https://www.linux.com/training-tutorials/writing-simple-bash-script/ | Writing a Simple Bash Script - Linux.com
 
@@ -415,10 +413,6 @@ https://www.tutorialspoint.com/unix_system_calls/index.htm
 https://www.geeksforgeeks.org/grep-command-in-unixlinux/ | grep command in Unix/Linux - GeeksforGeeks
 https://www.geeksforgeeks.org/seq-command-in-linux-with-examples/
 
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
 
 https://twitter.com/varcharr/status/1258795317102735361 | casey on Twitter: "What are your favorite and/or the most useful bash commands?" / Twitter
 https://dev.to/ben/what-do-you-google-every-single-time-and-never-just-memorize-ajj | What do you Google EVERY. SINGLE. TIME. and never just memorize? - DEV Community 👩‍💻👨‍💻
@@ -427,33 +421,19 @@ https://www.linuxjournal.com/content/understanding-bash-elements-programming
 -->
 
 <!--
-http://www.brendangregg.com/perf.html | Linux perf Examples
+unix performance tools - Google Search
 
-ZSH	
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-https://github.com/hmml/awesome-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-https://opensource.com/article/20/1/bash-scripts-aliases
+http://www.brendangregg.com/perf.html | Linux perf Examples
 
 https://github.com/topics/bash | Topic: bash
 https://github.com/Idnan/bash-guide
 https://github.com/dylanaraps/pure-bash-bible | dylanaraps/pure-bash-bible: 📖 A collection of pure bash alternatives to external processes.
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 https://hellowebbooks.com/learn-command-line/ | Really Friendly Command Line 
 Intro - Hello Web Books
 
 https://regexcrossword.com/ | Regex Crossword
 https://www.youtube.com/watch?v=yFRSpPwrJzQ&feature=youtu.be&list=PLWBKAf81pmOaP9naRiNAqug6EBnkPakvY | (2) regular expressions crash course (beginner - intermediate) anthony explains #052 - YouTube
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
 
 https://github.com/serhii-londar/open-source-mac-os-apps | serhii-londar/open-source-mac-os-apps: 🚀 Awesome list of open source applications for macOS.
 
