@@ -1,6 +1,11 @@
 # Python and Django Tools and Deployment
 
 <!--
+https://pozorvlak.dreamwidth.org/174323.html | pozorvlak | Falsehoods programmers believe about build systems
+http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/
+https://www.netmeister.org/blog/cs-falsehoods.html | Falsehoods CS Students (Still) Believe Upon Graduating
+
+
 https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
 
 
