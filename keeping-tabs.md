@@ -287,6 +287,8 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 
 https://github.com/KatherineMichel/organizations
 
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
 Useful Websites
 * [High Scalability](http://highscalability.com/)
 * [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
@@ -346,12 +348,25 @@ Clean Code
 Code Complete
 TDD
 Extreme Programming
+
 Mythical Man
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 -->
 
 
 
 ## Dev Environment
+
+<!--
+Shortcuts
+
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf | PyCharm_ReferenceCard.pdf
+
+PyCharm's top keyboard shortcuts
+https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
+https://www.jetbrains.com/help/pycharm/keymap-reference.html | Keymap reference | PyCharm
+-->
 
 <!--
 VS Code for Python Dev
@@ -362,13 +377,6 @@ https://blog.jetbrains.com/pycharm/2022/03/2021-3-3/ | PyCharm 2021.3.3 Is Avail
 
 Release
 https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
-
-https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf | PyCharm_ReferenceCard.pdf
-https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
-
-PyCharm's top keyboard shortcuts
-https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
-https://www.jetbrains.com/help/pycharm/keymap-reference.html | Keymap reference | PyCharm
 
 https://www.jetbrains.com/help/pycharm/
 https://blog.jetbrains.com/pycharm/
@@ -417,8 +425,9 @@ Resources
 https://training.github.com/downloads/github-git-cheat-sheet.pdf
 https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 https://git-scm.com/doc/ext
+-->
 
-
+<!--
 ## Modelling
 
 https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
@@ -579,10 +588,31 @@ https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitte
 <!--
 ## Local Dev Tools
 
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://opensource.com/article/19/4/bash-vs-python
+
+Bash versus Python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
 https://tldp.org/LDP/abs/html/aliases.html | Aliases
 
 https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
 https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+https://opensource.com/article/20/1/bash-scripts-aliases
+
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
 
 http://www.w3schools.com/sql/default.asp
 
