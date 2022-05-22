@@ -120,6 +120,7 @@ https://basecamp.com/gettingreal
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
 
 
+
 Great release managers
 https://github.com/hynek
 https://github.com/pganssle
@@ -129,18 +130,29 @@ Great examples
 Twitter
 https://glitch.com/@simonw | Simon Willison
 https://github.com/simonw
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+
 https://simonwillison.net/2021/Jul/17/standing-out/
-
-
-https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
 
 Simon
 https://simonwillison.net/2022/
-https://simonwillison.net/2021/Jul/17/standing-out/
+
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
+Is it described as “production ready”?
+Is there sufficient documentation?
+Is there a changelog?
+Is someone responding to bug reports?
+Are there sufficient tests?
+Are the tests running with the latest <Language> version?
+Are the tests running with the latest <Integration> version?
+Is there a Continuous Integration (CI) configuration?
+Is the CI passing?
+Does it seem relatively well used?
+Has there been a commit in the last year?
+Has there been a release in the last year?
 
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 Do you use source control?
