@@ -216,6 +216,7 @@ Speed Up Your Django Tests
 https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
 https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
 
+
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 
@@ -360,6 +361,9 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - 
 <!--
 Shortcuts
 
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
 https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
 https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf | PyCharm_ReferenceCard.pdf
 
@@ -400,9 +404,9 @@ https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-py
 https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
 -->
 
-<!--
 ## Git
 
+<!--
 https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
 
 https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
@@ -426,6 +430,58 @@ https://training.github.com/downloads/github-git-cheat-sheet.pdf
 https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 https://git-scm.com/doc/ext
 -->
+
+## Useful Files
+
+<!--
+## Local Dev Tools
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://opensource.com/article/19/4/bash-vs-python
+
+Bash versus Python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+https://tldp.org/LDP/abs/html/aliases.html | Aliases
+
+
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+https://opensource.com/article/20/1/bash-scripts-aliases
+
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+
+http://www.w3schools.com/sql/default.asp
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+
+https://www.sqlite.org/index.html
+https://www.sqlite.org/docs.html
+https://www.postgresql.org/docs/current/sql.html
+https://www.postgresql.org/docs/current/app-psql.html
+
+https://www.sqlite.org/changes.html | Release History Of SQLite
+https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
+https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
+-->
+
 
 <!--
 ## Modelling
@@ -581,52 +637,6 @@ https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wi
 Cardinality
 https://en.wikipedia.org/wiki/Cardinality
 https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
--->
-
-## Useful Files
-
-<!--
-## Local Dev Tools
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://opensource.com/article/19/4/bash-vs-python
-
-Bash versus Python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
-https://tldp.org/LDP/abs/html/aliases.html | Aliases
-
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-https://github.com/hmml/awesome-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-https://opensource.com/article/20/1/bash-scripts-aliases
-
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-
-http://www.w3schools.com/sql/default.asp
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-
-https://www.sqlite.org/index.html
-https://www.sqlite.org/docs.html
-https://www.postgresql.org/docs/current/sql.html
-https://www.postgresql.org/docs/current/app-psql.html
-
-https://www.sqlite.org/changes.html | Release History Of SQLite
-https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
-https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 -->
 
 ## Stack
