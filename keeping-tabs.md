@@ -113,7 +113,6 @@ https://basecamp.com/gettingreal
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
 
 
-
 Great release managers
 https://github.com/hynek
 https://github.com/pganssle
@@ -165,11 +164,6 @@ https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
 
 
-## Documenting
-
-https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-
-
 Leetcode
 https://leetcode.com/
 
@@ -205,15 +199,6 @@ Network communication protocols
 https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
 http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
 
-
-
-## Ideas
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-
-https://pyvideo.org/ | PyVideo.org
 
 
 Boost Your Django DX
@@ -355,6 +340,23 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 
 ## Python Learning Resources- Set Aside
 
+<!--
+https://pyvideo.org/ | PyVideo.org
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+-->
+
 TestDriven.io
 * [Test Driven Blog](https://testdriven.io/blog/)
 
@@ -364,9 +366,13 @@ Simple is Better Than Complex
 Real Python
 * [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
 * [Real Python Courses](https://realpython.com/courses)
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
 <!--
 Code with Anthony
+https://www.youtube.com/anthonywritescode
 https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
 Wordle clone
 https://www.youtube.com/watch?v=dViRI1iovoc
@@ -374,17 +380,10 @@ https://www.youtube.com/watch?v=dViRI1iovoc
 https://towardsdatascience.com/
 -->
 
-## Python Learning Resources
-
 Full Stack Python
 * [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
 * [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
 * [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Real Python
-* [Real Python Materials](https://github.com/realpython/materials)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
 Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
@@ -403,6 +402,7 @@ https://www.crowdcast.io/e/learning
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
 
+## Python Learning Resources
 
 <!--
 https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
@@ -580,6 +580,12 @@ https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 
 
 <!--
+## Documenting
+
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+-->
+
+<!--
 ## Modelling
 
 https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
@@ -627,9 +633,29 @@ Many to One
 https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
 Foreign Key
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+-->
+
+<!--
+Important!
+https://testdriven.io/blog/testing-python/
+https://testdriven.io/blog/modern-tdd/
+https://realpython.com/pytest-python-testing/
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
+
+
+Django/pytest
+https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
 
 
 ## Exceptions, Errors, and Testing
+
+Django raises built-in Python exceptions when appropriate.
+
+Exceptions
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
 
 Exceptions
 https://docs.python.org/3/library/exceptions.html
@@ -663,6 +689,9 @@ https://docs.python.org/3/library/unittest.html#organizing-tests
 Django's custom TestCase (includes custom assertion methods)
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TestCase
 
+Testing Django (Django TestCase)
+https://www.valentinog.com/blog/testing-django/
+
 Important
 Custom assertions
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
@@ -688,6 +717,14 @@ https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTe
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
 
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+
+Python unittest
+https://docs.python.org/3/library/unittest.html#assert-methods
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
 Important summary
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/
 To use the test client, instantiate django.test.Client and retrieve web pages:
@@ -709,8 +746,9 @@ https://docs.djangoproject.com/en/4.0/topics/testing/advanced/#other-testing-fra
 
 Testing tutorial
 https://docs.djangoproject.com/en/4.0/intro/tutorial05/
+-->
 
-
+<!--
 ## Type Hinting
 
 MyPy Cheat Sheet
