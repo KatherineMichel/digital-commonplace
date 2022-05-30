@@ -1,15 +1,54 @@
 # Python and Django Tools and Deployment
 
 <!--
-https://pozorvlak.dreamwidth.org/174323.html | pozorvlak | Falsehoods programmers believe about build systems
-http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/
-https://www.netmeister.org/blog/cs-falsehoods.html | Falsehoods CS Students (Still) Believe Upon Graduating
+Announcing the Consortium for Python Data API Standards
+https://data-apis.org/blog/announcing_the_consortium/
+
+
+Pyenv Global
+https://twitter.com/webology/status/699277088256163840
+
+
+https://beeware.org/
+
+
+
+Terminal Tutorial
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
+
+
+
+
+Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
+
+
+Python Graph Gallery
+https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
+https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+
+Python + Web Assembly
+https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
+https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
+https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
+
+WAS
+https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
+
 
 
 https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
 
-
-https://buttercms.com/
 
 
 Tailwind
@@ -127,56 +166,6 @@ https://www.saaspegasus.com/
 https://twitter.com/webology/status/1402643938842980355 | ✨ Jeff Triplett ✨ on Twitter: "If you are overwhelmed in how to deploy your Django project, please consider reaching out to @KimStacks who is working on trying to fix that. He is a solo-maker who's trying to solve this problem using your existing infrastructure (no lock-in) and is just looking for feedback." / Twitter
 
 
-
-
-
-
-
-https://beeware.org/
-
-
-Game engine and scripting language
-https://www.pygame.org/project-PyWright-904-.html
-
-https://github.com/google/python-fire | google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
-
-https://gist.github.com/jefftriplett/e87b36d750f94e48080a2be46e71dbe1 | Django Management Command to print a "Magic Link" for one-click log-in. This is nice for people who project switch or don't want to remember passwords.
-
-
-Terminal Tutorial
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Skills for Pythonistas by Nina Zakharenko - YouTube
-
-
-
-
-Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
-
-
-Python Graph Gallery
-https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
-https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
-
-PEPs Graph
-https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
-
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
-
-Python + Web Assembly
-https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
-https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
-https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
-
-WAS
-https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
-
-
-
 ## Python- Configs
 
 Configs
@@ -203,24 +192,15 @@ https://twitter.com/FlipperPA/status/1443754401479512066 | Tim A. on Twitter: "@
 
 
 <!--
-Announcing the Consortium for Python Data API Standards
-https://data-apis.org/blog/announcing_the_consortium/
-
-
-Pyenv Global
-https://twitter.com/webology/status/699277088256163840
-
-
-https://docs.djangoproject.com/en/4.0/topics/db/transactions/ | Database transactions | Django documentation | Django
-
-https://docs.djangoproject.com/en/2.2/topics/http/sessions/ | How to use sessions | Django documentation | Django
-Social Auth
-
-
 ## Tools
 
 https://pypi.org/project/pip-audit/ | pip-audit · PyPI
 https://twitter.com/di_codes/status/1466109114442989570 | https://twitter.com/di_codes/status/1466109114442989570
+
+
+Anthony
+https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
+
 
 Python Docker Image
 
@@ -232,13 +212,13 @@ Date and Timezone
 https://dateutil.readthedocs.io/en/stable/ | dateutil - powerful extensions to datetime — dateutil 2.8.1 documentation
 http://pytz.sourceforge.net/ | pytz - World Timezone Definitions for Python — pytz 2014.10 documentation
 
-Anthony
-https://github.com/tonybaloney/Pyjion/releases/tag/1.1.1 | Release v1.1.1 · tonybaloney/Pyjion
-
 
 https://github.com/facebookincubator/Bowler | facebookincubator/Bowler: Safe code refactoring for modern Python.
 
+CLI
 https://opensource.google.com/projects/python-fire | Python Fire – opensource.google.com
+https://github.com/google/python-fire | google/python-fire: Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still Masked and #BlackLivesMatter on Twitter: "Hey #python peeps, any suggestions for a python CLI library that is a good example of how to structure a project?" / Twitter
 
 https://github.com/Microsoft/knack | Microsoft/knack: Knack - A Python command line interface framework
 https://github.com/prompt-toolkit/python-prompt-toolkit | prompt-toolkit/python-prompt-toolkit: Library for building powerful interactive command line applications in Python
@@ -251,11 +231,10 @@ https://twitter.com/laceynwilliams/status/1052635673667153920 | Lacey @ DjangoCo
 More itertools
 https://more-itertools.readthedocs.io/en/stable/api.html#more_itertools.all_equal | API Reference — more-itertools 8.10.0 documentation
 
+https://gist.github.com/jefftriplett/e87b36d750f94e48080a2be46e71dbe1 | Django Management Command to print a "Magic Link" for one-click log-in. This is nice for people who project switch or don't want to remember passwords.
 
-
-## CLI
-
-https://twitter.com/davidouglasmit/status/1413284187965214725 | David is Still Masked and #BlackLivesMatter on Twitter: "Hey #python peeps, any suggestions for a python CLI library that is a good example of how to structure a project?" / Twitter
+Game engine and scripting language
+https://www.pygame.org/project-PyWright-904-.html
 
 
 ## Dict View
@@ -288,6 +267,53 @@ https://github.com/jlooney/extended-user-example | jlooney/extended-user-example
 
 Django User Model
 https://github.com/eleanorstrib/django-user-model-options | eleanorstrib/django-user-model-options: Repo with in-depth coverage of high level concepts from a poster session I did at PyCon 2017 in Portland, OR, May 21, 2017
+-->
+
+
+
+## Butter CMS
+
+<!--
+https://buttercms.com/
+-->
+
+## Flask
+
+<!--
+Flask
+https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+
+
+https://flask.palletsprojects.com/en/2.0.x/views/ | Pluggable Views — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/2.0.x/api/ | API — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/2.0.x/tutorial/views/ | Blueprints and Views — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions | Quickstart — Flask Documentation (1.1.x)
+https://github.com/pallets/flask/blob/master/src/flask/app.py | flask/app.py at master · pallets/flask
+https://github.com/pallets/flask/blob/master/src/flask/config.py | flask/config.py at master · pallets/flask
+
+https://flask.palletsprojects.com/en/2.0.x/async-await/ | Using async and await — Flask Documentation (2.0.x)
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+https://apiflask.com/ | APIFlask
+
+https://github.com/dpgaspar/Flask-AppBuilder | dpgaspar/Flask-AppBuilder: Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+
+## Flask is Production Ready
+
+https://twitter.com/driscollis/status/1438622525471272961 | Mike Driscoll on Twitter: "This is correct. Flask is a successful production-ready #Python web framework" / Twitter
+https://twitter.com/svpino/status/1438427586925826053 | Santiago on Twitter: "I've heard a couple of times that you shouldn't use Flask in production systems. This is not correct. Flask comes with a built-in web server that's not suitable for production. The solution is not to throw Flask away but to pair it with a production-ready WSGI server." / Twitter
+
+## Flask Stack
+
+Interesting
+https://twitter.com/davidism/status/1276205301344026625 | David Lord on Twitter: "Have a client that keeps talking about the "MERN stack", but no one has blogged about huge success stories for the "PFRP" (PostgreSQL, Flask, React, Python) stack even though it's just as valid, it just doen't have the same marketing incentives." / Twitter
 -->
 
 
@@ -326,6 +352,16 @@ http://pythontutor.com/visualize.html#mode=edit | Visualize Python, Java, JavaSc
 -->
 
 
+## Mac
+
+<!--
+https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
+
+Spaces
+https://mobile.twitter.com/andybudd/status/1247815911060451328
+https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
+-->
+
 ## Useful Files
 
 Shells
@@ -362,13 +398,6 @@ Markdown
 
 
 <!--
-https://github.com/sb2nov/mac-setup | sb2nov/mac-setup: Installing Development environment on Mac OS X
-
-Spaces
-https://mobile.twitter.com/andybudd/status/1247815911060451328
-https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac
-
-
 ZSH, Bash and command line, aliases/bash script aliases
 
 https://en.wikipedia.org/wiki/List_of_file_formats
@@ -495,15 +524,21 @@ https://en.wikipedia.org/wiki/Julian_calendar
 https://twitter.com/qntm/status/1500285601438142465 | qntm on Twitter: "JavaScript uses the proleptic Gregorian calendar, Swift apparently switches to the proleptic Julian calendar when you go back beyond 1582" / Twitter
 
 https://twitter.com/Nate_somewhere/status/1484645437785055235 | (1) Nathan Danielsen on Twitter: "Today I've learned about AZ time that is another timezone in Mountain timezone but doesn't do daylight savings." / Twitter
+-->
 
+<!--
+Falsehoods
 
 https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
 
-Falsehoods
 http://www.columbia.edu/~fdc/postal/ | FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
 https://github.com/google/libphonenumber/blob/master/FALSEHOODS.md | libphonenumber/FALSEHOODS.md at master · google/libphonenumber
 https://www.mjt.me.uk/posts/falsehoods-programmers-believe-about-addresses/ | Falsehoods programmers believe about addresses
 http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time
+
+https://pozorvlak.dreamwidth.org/174323.html | pozorvlak | Falsehoods programmers believe about build systems
+http://spaceninja.com/2015/12/08/falsehoods-programmers-believe/
+https://www.netmeister.org/blog/cs-falsehoods.html | Falsehoods CS Students (Still) Believe Upon Graduating
 -->
 
 ## Awesome Python and Django
@@ -701,11 +736,6 @@ Assert
 https://docs.python.org/3/reference/simple_stmts.html#the-assert-statement
 
 https://docs.python.org/3/library/unittest.html#unittest.TestCase | unittest — Unit testing framework — Python 3.8.1 documentation
-
-https://docs.python.org/3/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
 -->
 
 ### Django Testing, System Checks, Error Reporting, Exceptions
@@ -724,12 +754,6 @@ System Checks, Error Reporting, Exceptions
 <!--
 https://docs.djangoproject.com/en/3.2/intro/tutorial05/ | Writing your first Django app, part 5 | Django documentation | Django
 
-
-Django raises built-in Python exceptions when appropriate.
-
-Exceptions
-https://docs.python.org/3/library/exceptions.html#built-in-exceptions
-
 https://docs.djangoproject.com/en/3.0/topics/testing/advanced/#using-different-testing-frameworks | Advanced testing topics | Django documentation | Django
 https://docs.djangoproject.com/en/2.2/topics/testing/tools/#testcase | Testing tools | Django documentation | Django
 
@@ -743,14 +767,8 @@ https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javasc
 
 ## pytest
 
-pytest 
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-
-
 <!--
 https://github.com/pytest-dev/pytest | pytest-dev/pytest: The pytest framework makes it easy to write small tests, yet scales to support complex functional testing
-
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
 https://docs.pytest.org/en/latest/contents.html#toc | Full pytest documentation — pytest documentation
 https://docs.pytest.org/en/latest/reference.html | Reference — pytest documentation
@@ -784,24 +802,7 @@ https://en.wikipedia.org/wiki/Test_Anything_Protocol
 https://twitter.com/mblayman/status/1222200715570970624 | Matt Layman on Twitter: "I released a new version of pytest-tap today that let's you use the Test Anything Protocol (TAP) for #pytest. This version drops support for Python 2. https://t.co/Mm7fKz0Gfg" / Twitter
 -->
 
-
-
 <!--
-Important!
-https://realpython.com/pytest-python-testing/
-https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
-https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
-https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
-https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
-
-Django/pytest
-https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
--->
-
-
-<!--
-https://testdriven.io/ | Test Driven Development Courses
-
 Brian Okken
 http://pythontesting.net/start-here/
 
@@ -817,17 +818,10 @@ https://pragprog.com/book/bopytest/python-testing-with-pytest | Python Testing w
 
 ## Django Third Party Tools- Testing
 
-Django
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
 Django Test Plus
 * [Django Test Plus](http://django-test-plus.readthedocs.io) and [Django Test Plus GitHub](https://github.com/revsys/django-test-plus)
 
 <!--
-pytest-django (plugin)
-https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
-https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
-
 pytest fixture
 django-test-plus
 https://www.revsys.com/tidbits/pytest-support-django-test-plus/ | pytest support for django-test-plus
@@ -1146,7 +1140,6 @@ https://github.com/coderholic/django-cities | coderholic/django-cities: Countrie
 Model History
 https://django-simple-history.readthedocs.io/en/latest/quick_start.html | Quick Start — django-simple-history 3.0.0.post23+ga63eec8 documentation
 -->
-
 
 
 ## Mypy
@@ -1506,45 +1499,6 @@ https://github.com/theskumar/python-dotenv
 https://github.com/joke2k/django-environ
 
 https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
--->
-
-## Flask
-
-<!--
-Flask
-https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
-
-
-https://flask.palletsprojects.com/en/2.0.x/views/ | Pluggable Views — Flask Documentation (2.0.x)
-https://flask.palletsprojects.com/en/2.0.x/api/ | API — Flask Documentation (2.0.x)
-https://flask.palletsprojects.com/en/2.0.x/tutorial/views/ | Blueprints and Views — Flask Documentation (2.0.x)
-https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions | Quickstart — Flask Documentation (1.1.x)
-https://github.com/pallets/flask/blob/master/src/flask/app.py | flask/app.py at master · pallets/flask
-https://github.com/pallets/flask/blob/master/src/flask/config.py | flask/config.py at master · pallets/flask
-
-https://flask.palletsprojects.com/en/2.0.x/async-await/ | Using async and await — Flask Documentation (2.0.x)
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-https://apiflask.com/ | APIFlask
-
-https://github.com/dpgaspar/Flask-AppBuilder | dpgaspar/Flask-AppBuilder: Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
-
-## Flask is Production Ready
-
-https://twitter.com/driscollis/status/1438622525471272961 | Mike Driscoll on Twitter: "This is correct. Flask is a successful production-ready #Python web framework" / Twitter
-https://twitter.com/svpino/status/1438427586925826053 | Santiago on Twitter: "I've heard a couple of times that you shouldn't use Flask in production systems. This is not correct. Flask comes with a built-in web server that's not suitable for production. The solution is not to throw Flask away but to pair it with a production-ready WSGI server." / Twitter
-
-## Flask Stack
-
-Interesting
-https://twitter.com/davidism/status/1276205301344026625 | David Lord on Twitter: "Have a client that keeps talking about the "MERN stack", but no one has blogged about huge success stories for the "PFRP" (PostgreSQL, Flask, React, Python) stack even though it's just as valid, it just doen't have the same marketing incentives." / Twitter
 -->
 
 ## Wagtail
