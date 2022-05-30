@@ -229,10 +229,6 @@ https://docs.python.org/3/library/compileall.html#public-functions
 
 ## Testing
 
-pytest
-https://docs.pytest.org/en/6.2.x/
-https://django-debug-toolbar.readthedocs.io/en/latest/
-
 Assert
 https://docs.python.org/3/reference/simple_stmts.html#grammar-token-assert-stmt
 https://www.tutorialspoint.com/python/assertions_in_python.htm
