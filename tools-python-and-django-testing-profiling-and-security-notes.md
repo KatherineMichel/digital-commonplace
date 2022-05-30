@@ -1,6 +1,14 @@
 # Tools- Python and Django Testing, Profiling, and Security
 
 <!--
+Python Security
+https://snyk.io/blog/python-security-best-practices-cheat-sheet/ | Python security best practices cheat sheet | Snyk
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+
+MacOSX Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+
+
 ## JS Scene
 
 https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
@@ -172,7 +180,6 @@ https://twitter.com/techgirl1908/status/1389327137690296322 | Angie Jones on Twi
 Java
 https://angiejones.tech/free-java-course-test-automation/ | My FREE Java Course - Angie Jones
 https://testautomationu.applitools.com/java-programming-course/ | Java Programming
-
 -->
 
 <!--
@@ -540,13 +547,6 @@ Mixed Content
 
 
 <!--
-Python Security
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
-
-MacOSX Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
-
-
 Feross
 https://twitter.com/feross/status/1310054243559063552 | Feross 🧙🏼‍♂️✨ on Twitter: "@KatiMichel Let me know how you like it. I poured my heart into making that course!" / Twitter
 https://twitter.com/feross/status/1242173582169407488 | (1) Feross on Twitter: "I taught a web security course at Stanford. All the course materials, slides, and videos are freely available online. If you want to learn about secure web programming, this course is for you! ✨ 📝 Website: https://t.co/AJCbZhkTBr 📺 YouTube playlist: https://t.co/A7MtvqbQI9" / Twitter
@@ -565,6 +565,8 @@ https://developers.google.com/web/fundamentals/security/
 https://www.nist.gov/blogs/cybersecurity-insights/threat-models-differential-privacy | Threat Models for Differential Privacy | NIST
 https://www.ncsc.gov.uk/whitepaper/security-architecture-anti-patterns | National Cyber Security Centre
 
+http://www.threatmodelingmanifesto.org/ | Threat Modeling Manifesto
+
 GitHub
 https://github.blog/2020-09-02-how-we-threat-model/
 https://github.blog/2020-09-02-secure-your-software-supply-chain-and-protect-against-supply-chain-threats-github-blog/ | Secure at every step: What is software supply chain security and why does it matter? - The GitHub Blog
@@ -580,6 +582,7 @@ https://samsclass.info/ | samsclass.info: Sam Bowne Class Information
 
 Checklist
 https://securitycheckli.st/ | Security Checklist
+https://brianlovin.com/security | Security Checklist
 https://github.com/brianlovin/security-checklist | brianlovin/security-checklist: A checklist for staying safe on the internet
 Dark PDF and light PDF
 
@@ -600,5 +603,4 @@ https://imgur.com/Mr9pvq9 | Imgur: The magic of the Internet
 
 Snyk
 https://snyk.io/ | Open Source Security Platform | Snyk
-https://snyk.io/blog/python-security-best-practices-cheat-sheet | Python Security Best Practices Cheat Sheet | Snyk
 -->
