@@ -229,6 +229,8 @@ https://twitter.com/jacobian/status/1412068388101398529 | jacobian on Twitter: "
 
 ## Practical
 
+Paul's talk
+
 https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/ | How to get useful answers to your questions
 https://jvns.ca/blog/good-questions/ | How to ask good questions
 
@@ -815,7 +817,8 @@ https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twit
 ## Launch
 
 <!--
-https://github.com/github/docs
+https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
+https://github.com/github/copilot-docs | github/copilot-docs: Documentation for GitHub Copilot
 
 Launch Story
 https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
