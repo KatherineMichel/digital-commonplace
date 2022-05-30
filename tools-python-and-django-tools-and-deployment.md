@@ -697,6 +697,8 @@ https://twitter.com/AdamChainz/status/1355139569805631495 | Adam Johnson on Twit
 Nina
 https://twitter.com/chr1sa/status/1293053795946004481 | Chris Anderson on Twitter: "If you're a Python developer and still using prints to debug, this is a must-watch. Python debuggers are getting good! Between the interactive debugging in Python 3.7 and the fantastic visual debugger in VS Code, it's a whole new game" / Twitter
 
+https://twitter.com/nnja/status/1157475244916928513/photo/1
+
 Debugger
 https://www.youtube.com/watch?v=5AYIe-3cD-s
 https://www.nnja.io/2019/python-debugging-cheatsheet.pdf
