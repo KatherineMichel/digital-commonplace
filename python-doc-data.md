@@ -241,9 +241,6 @@ https://pypi.org/project/ipdb/ | ipdb · PyPI
 28.3. pdb — The Python Debugger
 28.1. bdb — Debugger framework
 
-Nina
-https://twitter.com/nnja/status/1157475244916928513/photo/1
-
 https://docs.python.org/3/library/debug.html
 
 https://docs.python.org/3/library/pdb.html#debugger-commands
