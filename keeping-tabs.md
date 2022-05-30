@@ -696,32 +696,82 @@ https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
 
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRaisesMessage
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertWarnsMessage
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertURLEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRedirects
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLNotEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLNotEqual
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertInHTML
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONNotEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLNotEqual
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
 
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+Method	Checks	Version
+assertTrue	bool(x) is True	 
+assertFalse	bool(x) is False	
+
+assertEqual	a == b	 
+assertNotEqual	a != b	 
+assertAlmostEqual	round(a-b,7) == 0	 
+assertNotAlmostEqual	round(a-b,7) != 0	 
+
+assertGreater	a > b
+assertGreaterEqual	a >= b
+assertLess	a < b
+assertLessEqual	a <= b
+
+assertIs	a is b
+assertIsNot	a is not b
+
+assertIsInstance	is instance(a,b)
+assertNotIsInstance	not is instance(a,b)
+
+assertIsNone	x is None
+assertIsNotNone	x is not None
+
+assertIn	a in b
+assertNotIn	a not in b
+
+assertRaises	fun(*args,**kwds) raises exc	 
+assertRaisesRegexp	fun(*args,**kwds) raises exc(regex)
+
+assertRegexpMatches	r.search(s)
+assertNotRegexpMatches	not r.search(s)
+assertItemsEqual	sorted(a) == sorted(b)
+assertDictContainsSubset	all the key/value pairs in a exist in b
+assertMultiLineEqual	strings
+
+assertSequenceEqual	sequences
+assertListEqual	lists
+assertTupleEqual	tuples
+assertSetEqual	sets or frozensets
+assertDictEqual	dicts
 
 Python unittest
 https://docs.python.org/3/library/unittest.html#assert-methods
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+
 
 Important summary
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/
