@@ -43,6 +43,9 @@ https://github.com/devict | devICT
 -->
 
 <!--
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+
 The Science of Well Being
 https://www.coursera.org/learn/the-science-of-well-being/home/week/1
 
@@ -94,6 +97,10 @@ Shipping/Makers
 ## Engineering Management
 ## Leadership and Product
 ## Project Management and Roadmaps
+
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
 Farming versus mining
@@ -186,6 +193,8 @@ https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
 APIs
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
 
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
@@ -338,6 +347,9 @@ Extreme Programming
 
 Mythical Man
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 -->
 
 
