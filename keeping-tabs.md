@@ -666,8 +666,6 @@ https://realpython.com/python-exceptions/
 Python testing tools taxonomy
 https://wiki.python.org/moin/PythonTestingToolsTaxonomy
 
-pytest
-https://docs.pytest.org/en/7.0.x/
 https://docs.pytest.org/en/6.2.x/parametrize.html
 
 PyTest
@@ -833,6 +831,17 @@ https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus 
 https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
 
 https://pypi.org/project/ipdb/ | ipdb · PyPI
+-->
+
+Testing
+pytest 
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+
+<!--
+pytest-django (plugin)
+https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
+https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 -->
 
 Logging
