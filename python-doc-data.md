@@ -378,6 +378,7 @@ https://docs.python.org/3/library/doctest.html#debugging
 https://docs.python.org/3/library/doctest.html#soapbox
 -->
 
+
 ## Django System Checks, Error Reporting, Exceptions
 
 <!--
@@ -387,23 +388,28 @@ https://docs.djangoproject.com/en/dev/ref/exceptions/#python-exceptions
 https://docs.djangoproject.com/en/2.1/topics/testing/tools/#transactiontestcase
 
 Django Core Exceptions
-AppRegistryNotReady, 1014
+
+URL Resolver exceptions
+Resolver404
+NoReverseMatch, 1017 
+
+`DoesNotExist`
 ObjectDoesNotExist, 1015 
-EmptyResultSet, 1015 
+ViewDoesNotExist, 1016 
 FieldDoesNotExist, 1015 
+
 MultipleObjectsReturned, 1015 
+
+
+AppRegistryNotReady, 1014
+EmptyResultSet, 1015 
 SuspiciousOperation, 1015 
 PermissionDenied, 1016 
-ViewDoesNotExist, 1016 
 MiddlewareNotUsed, 1016 
 ImproperlyConfigured, 1016 
 FieldError, 1016 
 ValidationError, 1016 
 NON_FIELD_ERRORS
-
-URL Resolver exceptions
-Resolver404
-NoReverseMatch, 1017 
 
 Database Exceptions
 
@@ -427,8 +433,8 @@ TemplateDoesNotExist, 276
 
 Django Errors
 PageNotAnInteger, 507 
-ContextPopException, 1376 
 EmptyPage, 507 
+ContextPopException, 1376 
 
 Errors
 IntegrityError, 1017 
@@ -606,6 +612,7 @@ https://docs.python.org/3/library/exceptions.html#built-in-exceptions
 5.4. Exception hierarchy
 https://docs.python.org/3/library/exceptions.html#exception-hierarchy
 
+
 BaseException
   +-- Exception
       +-- StopIteration
@@ -675,6 +682,7 @@ BaseException
       +-- MemoryError     
       +-- BufferError
                
+	       
 Python Warnings
 
       +-- Warning
