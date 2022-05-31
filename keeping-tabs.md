@@ -655,17 +655,27 @@ https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures fo
 
 ## Exceptions, Errors, and Testing
 
+Common Python Exceptions
+* FileNotFoundError
+* IndexError
+* KeyError
+* AssertionError
+
+Common Django Exceptions
+* ObjectDoesNotExist
+
 Django raises built-in Python exceptions when appropriate.
 
 Exceptions
-https://docs.python.org/3/library/exceptions.html#built-in-exceptions
-
-Exceptions
 https://docs.python.org/3/library/exceptions.html
-https://docs.python.org/3/tutorial/errors.html
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
 https://realpython.com/python-exceptions/
 
+Django exceptions
 https://www.cs.mcgill.ca/~swevo/tse2015/html/ref/exceptions.html
+
+Errors
+https://docs.python.org/3/tutorial/errors.html
 
 
 Python testing tools taxonomy
@@ -682,9 +692,6 @@ https://docs.python.org/3/library/unittest.html#unittest.TestCase
 
 Assertions list
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug
-
-assertRaises
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
 
 Organizing tests
 https://docs.python.org/3/library/unittest.html#organizing-tests
@@ -729,13 +736,20 @@ https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTe
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
 
+
+Python unittest
+https://docs.python.org/3/library/unittest.html#assert-methods
+
 https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-Method	Checks	Version
+
 assertTrue	bool(x) is True	 
 assertFalse	bool(x) is False	
 
 assertEqual	a == b	 
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
 assertNotEqual	a != b	 
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
+
 assertAlmostEqual	round(a-b,7) == 0	 
 assertNotAlmostEqual	round(a-b,7) != 0	 
 
@@ -747,14 +761,14 @@ assertLessEqual	a <= b
 assertIs	a is b
 assertIsNot	a is not b
 
-assertIsInstance	is instance(a,b)
-assertNotIsInstance	not is instance(a,b)
-
 assertIsNone	x is None
 assertIsNotNone	x is not None
 
 assertIn	a in b
 assertNotIn	a not in b
+
+assertIsInstance	is instance(a,b)
+assertNotIsInstance	not is instance(a,b)
 
 Data structures
 assertItemsEqual	sorted(a) == sorted(b)
@@ -766,6 +780,7 @@ assertSetEqual	sets or frozensets
 assertDictEqual	dicts
 
 assertRaises	fun(*args,**kwds) raises exc	 
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
 assertRaisesRegexp	fun(*args,**kwds) raises exc(regex)
 
 Regex
@@ -773,12 +788,6 @@ assertRegexpMatches	r.search(s)
 assertNotRegexpMatches	not r.search(s)
 
 assertMultiLineEqual	strings
-
-Python unittest
-https://docs.python.org/3/library/unittest.html#assert-methods
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
-https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
 
 
 Important summary
