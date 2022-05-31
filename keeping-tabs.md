@@ -103,6 +103,9 @@ Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
+https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
+
+
 Farming versus mining
 Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
@@ -131,6 +134,45 @@ https://simonwillison.net/2022/
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
+
+
+APIs
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+
+
+https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
+
+
+Network communication protocols
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
+
+
+
+Boost Your Django DX
+https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
+
+Speed Up Your Django Tests
+https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
+https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
+
+
+http://djangopeople.net/us/
+
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
+Django Snippets
+https://djangosnippets.org/
+
+
+CPython
+https://github.com/python/cpython
+
+https://speed.python.org/ | Python Speed Center
+
 
 https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
 Is it described as “production ready”?
@@ -163,6 +205,17 @@ Do you do hallway usability testing?
 https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
 
+SRE, DevOps, CI/CD
+
+Jez Humble
+Accelerate
+
+
+Software construction tools
+UML, TLA+
+
+Driven Development
+
 
 Leetcode
 https://leetcode.com/
@@ -183,56 +236,6 @@ https://python-patterns.guide/
 https://github.com/kamranahmedse/design-patterns-for-humans
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript
-
-
-
-APIs
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-
-
-https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
-
-https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
-
-Network communication protocols
-https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
-
-
-
-Boost Your Django DX
-https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
-
-Speed Up Your Django Tests
-https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
-https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
-
-
-http://djangopeople.net/us/
-
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
-
-
-CPython
-https://github.com/python/cpython
-
-https://speed.python.org/ | Python Speed Center
-
-
-SRE, DevOps, CI/CD
-
-Jez Humble
-Accelerate
-
-Software construction tools
-UML, TLA+
-
-Driven Development
 
 
 ## Refactoring and Patterns
@@ -662,6 +665,8 @@ https://docs.python.org/3/library/exceptions.html
 https://docs.python.org/3/tutorial/errors.html
 https://realpython.com/python-exceptions/
 
+https://www.cs.mcgill.ca/~swevo/tse2015/html/ref/exceptions.html
+
 
 Python testing tools taxonomy
 https://wiki.python.org/moin/PythonTestingToolsTaxonomy
@@ -751,20 +756,23 @@ assertIsNotNone	x is not None
 assertIn	a in b
 assertNotIn	a not in b
 
-assertRaises	fun(*args,**kwds) raises exc	 
-assertRaisesRegexp	fun(*args,**kwds) raises exc(regex)
-
-assertRegexpMatches	r.search(s)
-assertNotRegexpMatches	not r.search(s)
+Data structures
 assertItemsEqual	sorted(a) == sorted(b)
 assertDictContainsSubset	all the key/value pairs in a exist in b
-assertMultiLineEqual	strings
-
 assertSequenceEqual	sequences
 assertListEqual	lists
 assertTupleEqual	tuples
 assertSetEqual	sets or frozensets
 assertDictEqual	dicts
+
+assertRaises	fun(*args,**kwds) raises exc	 
+assertRaisesRegexp	fun(*args,**kwds) raises exc(regex)
+
+Regex
+assertRegexpMatches	r.search(s)
+assertNotRegexpMatches	not r.search(s)
+
+assertMultiLineEqual	strings
 
 Python unittest
 https://docs.python.org/3/library/unittest.html#assert-methods
