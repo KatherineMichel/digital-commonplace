@@ -382,7 +382,7 @@ https://docs.python.org/3/library/doctest.html#soapbox
 ## Django System Checks, Error Reporting, Exceptions
 
 <!--
-Python Build-in Exceptions
+Python Built-in Exceptions
 https://docs.djangoproject.com/en/dev/ref/exceptions/#python-exceptions
 
 https://docs.djangoproject.com/en/2.1/topics/testing/tools/#transactiontestcase
@@ -657,6 +657,7 @@ BaseException
       +-- ReferenceError
       
       +-- OSError
+      
       |    +-- BlockingIOError
       |    +-- ChildProcessError
       |    +-- ConnectionError
