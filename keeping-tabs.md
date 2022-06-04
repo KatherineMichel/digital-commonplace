@@ -126,12 +126,35 @@ Twitter
 https://glitch.com/@simonw | Simon Willison
 https://github.com/simonw
 
+
 https://simonwillison.net/2021/Jul/17/standing-out/
+
+Start a blog. Post an interesting technical article to it once or twice a year—something you’ve learned, or a bug you’ve fixed, or a problem you’ve solved. After a few years stop bothering entirely, but leave the blog online somewhere.
+
+Build a small personal project and put the code on GitHub. Accompany it with a README with a detailed description of the project and screenshots of it in action—almost no-one does this, it only takes a few hours extra and it massively increases the impact your project will have on hiring managers who are checking you out.
+
+There’s plenty more you can do if you want to put the effort in: build an audience on Twitter, start a newsletter, make videos, give talks (ideally that get recorded and published online), release open source packages, publish TILss.
 
 Simon
 https://simonwillison.net/2022/
 
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://github.com/simonw/simonw/blob/main/releases.md
+https://sqlite-utils.datasette.io/en/stable/cli.html#cli-create-database
+https://github.com/simonw/sqlite-utils/issues/348
+https://sqlite-utils.datasette.io/en/stable/contributing.html
+https://github.com/simonw/python-lib
+https://github.com/simonw/datasette-plugin
+https://github.com/simonw/click-app
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+https://pytest-django.readthedocs.io/en/latest/
+https://pytest-django.readthedocs.io/en/latest/configuring_django.html#configuring-django-settings
+https://pytest-django.readthedocs.io/en/latest/faq.html#faq-tests-not-being-picked-up
+https://github.com/pytest-dev/pytest-xdist
+https://docs.djangoproject.com/en/3.0/topics/testing/tools/#the-test-client
+https://github.com/simonw/datasette/tree/main/tests
+https://github.com/simonw/sqlite-utils/tree/main/tests
+
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
 
