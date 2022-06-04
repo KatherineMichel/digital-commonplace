@@ -1,5 +1,13 @@
 # Projects
 
+<!--
+API
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+JSON APIs
+https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+-->
+
 ## 100 Something
 
 100 Days of Code
