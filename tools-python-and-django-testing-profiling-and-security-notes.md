@@ -12,6 +12,28 @@ https://github.com/carltongibson/rest-framework-tutorial/blob/master/snippets/te
 https://django-test-plus.readthedocs.io/en/latest/usage.html#testing-drf-views
 -->
 
+<!--
+## Networking and Security
+
+https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
+https://cs144.github.io/ | CS 144: Introduction to Computer Networking
+
+https://www.begin.re/ | RE for Beginners | Reverse Engineering
+
+Reverse Engineering
+https://en.wikipedia.org/wiki/Reverse_engineering
+https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
+
+Hidden vulnerabilities of OS Software
+https://twitter.com/cra/status/1242580570451951619
+
+https://github.com/lawsecnet/pentesting-with-python
+
+Social Distancing Survival Guide
+https://twitter.com/Fox0x01/status/1238636233649250304
+https://twitter.com/Fox0x01/status/1238636236962779136
+https://github.com/gwen001/pentest-tools
+-->
 
 ## Debugging
 
