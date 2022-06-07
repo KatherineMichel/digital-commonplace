@@ -256,11 +256,6 @@ https://twitter.com/swyx/status/1478180887884083200 | swyx 🌉 SF on Twitter: "
 
 https://endoflife.date/ | Home | endoflife.date
 https://twitter.com/TheRockstarDBA/status/1498291514685939714 | Kin Shah on Twitter: "https://t.co/SC2Puw4SLm is a community-maintained project to document end-of-life dates, and support lifecycles of various products. e.g. https://t.co/P3tIBKlbkM to .NET, powershell, python + a lot more !" / Twitter
-
-## Programming Paradigms
-
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 -->
 
 
@@ -269,7 +264,15 @@ Hardware... interesting
 https://en.algorithmica.org/ | Algorithmica
 
 
+https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
+
+
+https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
+
+
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
+
+https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
 
 TLA+
 https://lamport.azurewebsites.net/tla/tla.html | The TLA+ Home Page
@@ -278,6 +281,9 @@ https://lamport.azurewebsites.net/tla/peterson.html?back-link=high-level-view.ht
 
 http://widgetsandshit.com/teddziuba/2010/10/taco-bell-programming.html | Taco Bell Programming
 https://twitter.com/kennethreitz/status/1105989404219314178 | Kenneth ☤ Reitz on Twitter: "Taco Bell Programming. https://t.co/GXcVtssS23 this, this, this, this, this. Seriously. This post has been impacted me since the day it was written."
+
+https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
+Richard Feynman 
 -->
 
 
@@ -291,8 +297,6 @@ https://blog.upperdine.dev/the-rules-engine-pattern | The Rules Engine Pattern
 https://en.wikipedia.org/wiki/Multitenancy
 https://en.wikipedia.org/wiki/Write_once_read_many | Write once read many - Wikipedia
 
-
-https://twitter.com/mattrickard/status/1492548554426048514 | Matt Rickard on Twitter: "Hire drivers, not passengers. No more pair programming. https://t.co/Hels2TE1sG" / Twitter
 
 
 ## System and Architecture
@@ -316,9 +320,18 @@ https://twitter.com/Nedra/status/1518871922909585409 | Nedra Weinreich 🗺 on T
 
 ## Programming Language Constructs
 
+Programming Paradigms
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+
 https://www.progsbase.com/blog/flow-charts-of-programming-language-constructs/ | Flow-Charts of Programming Language Constructs – progsbase
 
 https://github.com/ericfischer/if-then-else/blob/master/if-then-else.md | if-then-else/if-then-else.md at master · ericfischer/if-then-else
+
+
+https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
+https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
+https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
 
 
 ## Books
@@ -376,28 +389,6 @@ Luke
 https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of Last Resort
 -->
 
-<!--
-## Networking and Security
-
-https://www.redhat.com/sysadmin/networking-guides | 10 networking guides for Linux sysadmins | Enable Sysadmin
-https://cs144.github.io/ | CS 144: Introduction to Computer Networking
-
-https://www.begin.re/ | RE for Beginners | Reverse Engineering
-
-Reverse Engineering
-https://en.wikipedia.org/wiki/Reverse_engineering
-https://github.com/sigalor/whatsapp-web-reveng/blob/master/README.md | whatsapp-web-reveng/README.md at master · sigalor/whatsapp-web-reveng
-
-Hidden vulnerabilities of OS Software
-https://twitter.com/cra/status/1242580570451951619
-
-https://github.com/lawsecnet/pentesting-with-python
-
-Social Distancing Survival Guide
-https://twitter.com/Fox0x01/status/1238636233649250304
-https://twitter.com/Fox0x01/status/1238636236962779136
-https://github.com/gwen001/pentest-tools
--->
 
 <!--
 What happens when
@@ -420,6 +411,7 @@ https://twitter.com/SteveSyfuhs/status/1297957799079510018 | (2) Steve Syfuhs on
 Internet Topics
 https://twitter.com/thearslankhalid/status/1321534805050302464 | Arslan Khalid on Twitter: "Internet topics to have a basic understanding as a developer: 1. How internet works ( frontend side) 2. How internet works ( backend side) 3. How https works 4. How DNS works 5. How hosting works What would you add?" / Twitter
 -->
+
 
 ## Systems
 
@@ -500,32 +492,11 @@ https://medium.com/javascript-scene/the-best-way-to-learn-to-code-is-to-code-lea
 https://medium.com/javascript-scene/every-developer-needs-a-code-portfolio-cc79c3d92110
 -->
 
+## Sales and Marketing
 
-## Company Playbooks
-
-Handbooks
-* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
-* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
-* [Glitch Handbook](https://handbook.glitch.me/)
-* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
-
-<!--
-Atlassian Team Playbook
-https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
-https://www.atlassian.com/team-playbook/examples
-
-https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
-https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
-
-GitLab Important
-https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
-https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
-
-https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
-
-https://twitter.com/dnsmichi/status/1314267751607869442
-https://twitter.com/melsmo/status/1313180759889305601
--->
+* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
+* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
+* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
 
 ## Stuff
 
@@ -552,596 +523,112 @@ https://www.youtube.com/watch?time_continue=1&v=OEx-g4hvgyA | Design Decisions #
 https://basecamp.com/books/rework | REWORK — our New York Times bestselling book about business.
 -->
 
-## Agile and DevOps
+## Authority Figures
 
-Atlassian Agile
-* [Atlassian Agile](https://www.atlassian.com/agile)
-* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+Authorities
+* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
+* [ThoughtWorks](https://www.thoughtworks.com)
 
-<!--
-https://developer.atlassian.com
+Refactoring
+* [Refactoring](https://refactoring.com/)
 
-https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
-https://www.atlassian.com/devops/tools-and-technologies
-
-https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
--->
-
-
-## Engineering Performance Resources
-
-Results
-* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
-* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
-
-10x Engineer
-* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
-
+Authorities
+* [Kent Beck](https://www.kentbeck.com/) and [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
+* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
+* [Steven C. McConnell](http://stevemcconnell.com) and [Steven C. McConnell Books](http://stevemcconnell.com/books/)
+* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
+* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
 
 <!--
-## 10X and Value
+https://refactoring.guru/collapse-hierarchy
 
-https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
-https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+## Kent Beck
 
-## Qualities and Competency
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
 
-Code Review Checklist/Code Test Checklist (RITE Way)
-https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+## Grady
 
+https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
+https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
 
-Growth Rubric
-https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721
-https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
-https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417
+https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
 
-software development competency framework
-http://sijinjoseph.com/programmer-competency-matrix/
+## Martin Fowler
 
+https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
 
+https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
 
-
-https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
-Look at their total contribution.
-Learn to value the things you can’t track and count directly.
-
-https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
-
-Junior versus Senior/Composing Software
-https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
-
-https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
-
-Abstract
-https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
-
-General
-https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
-https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
-
-https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
-https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
+https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
+https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
 
 
-## Characteristics of a Good Dev
-
-Principle/Distinguished
-https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
-https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
-
-Great
-https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
-
-10X Results
-Problem solver, skilled, mentor/teacher, excellent learner, passionate
-Honest, communicative, efficient, collaborative, committed
-
-See chart/Table 1
-https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
-Top five distinguishing characteristics: writing good code, adjusting behaviors to account for future value and costs, practicing informed decision-making, avoiding making others’ jobs harder, and learning continuously
+https://martinfowler.com/articles/products-over-projects.html
 
 
-https://twitter.com/LBacaj/status/1514694596965638147 | Louie Bacaj on Twitter: "The top 10 predictors of successful engineering careers. I've helped hire 100s of engineers in my 12+ year career. I've managed and steered the careers of multiple engineering teams. Some of these may surprise you, but I am confident they predict career success in our industry." / Twitter
+CI/CD
+https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
+https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
+https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
+https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
+https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
 
-https://twitter.com/svpino/status/1513124651764895749 | Santiago 🇺🇸🇺🇦 on Twitter: "The two unnegotiable prerequisites to becoming a good developer: 1. Get good at writing software (duh!) 2. Get good at talking about what your software does Strong technical + communication skills. Neither one is more important than the other." / Twitter
+
+Tests
+https://martinfowler.com/testing/
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
+https://martinfowler.com/bliki/UnitTest.html
+https://martinfowler.com/articles/nonDeterminism.html
+
+
+https://martinfowler.com/bliki/C3.html | C3
+https://en.wikipedia.org/wiki/High-level_design
+https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
+https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
+https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
+
+
+Feature Toggles
+https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
+
+https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
+https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
+https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
+
+https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
+
+https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
+https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
 -->
 
 
 
-
 <!--
-https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
-https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
-https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
+https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
 
-https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
 
-Read
-https://news.ycombinator.com/item?id=21870889
-https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+http://www.cc2e.com
+https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
 
-Staff Engineer's Path
-https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/
-https://twitter.com/whereistanya/status/1453510557122846722 | https://twitter.com/whereistanya/status/1453510557122846722
+Use
+http://aosabook.org/en/index.html
+https://github.com/aosabook/500lines
 
-## Camille Fournier
 
-https://skamille.medium.com/ | Camille Fournier – Medium
-http://www.camilletalk.com/ | Camille Fournier
+http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
 
-https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
-https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
-https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
-
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
-
-## Sarah
-
-https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
-
-https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
-https://sarah.dev/writing/ | Sarah Drasner's Site
-https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
-
-Career ladders
-https://career-ladders.dev/
-https://css-tricks.com/the-importance-of-career-laddering/
-https://www.engmanagement.dev/the-value-of-values
-https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
-https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
-https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
-
-Developer experience
-https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
-https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
--->
-
-
-## Engineering Management
-
-<!--
-http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
-
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-
-https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
-
-
-SCQA framework
-https://www.heavybit.com/library/video/executive-communication/
-https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
-https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
--->
-
-
-## Engineering Management
-
-Team Management
-* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
-
-<!--
-## People
-
-https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
-https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
-
-## Team Management 
-
-https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
-https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
-
-https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
-
-https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
-
-https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
-https://jacobian.org/2018/may/2/engmanager-reading-list/
-https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
-
-Interviews
-https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
-https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
-https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
-https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
-
-## Meetings and Schedules
-
-Silent critique (Figma)
-https://twitter.com/dustanner/status/1176518182850351104
-
-Gasca- Silent Meeting
-https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
-https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
-https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
-
-https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
-https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
-
-## Teams and PM
-
-https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
-http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
-
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
-https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
--->
-
-
-## Leadership and Product
-
-Product
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-
-<!--
-https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
-
-Ways of Working... different companies
-https://github.com/joelparkerhenderson/ways-of-working
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
-https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
-
-
-https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
-
-"The history of product management"
-https://www.atlassian.com/agile/product-management
-https://www.atlassian.com/agile/product-management/product-manager
-https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
-https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
-
-https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
-
-Empowered versus feature
-https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
-https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
-https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
-https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
-
-https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
--->
-
-## Sales and Marketing
-
-* [Marketing for Engineers GitHub](https://github.com/goabstract/Marketing-for-Engineers)
-* [Side Project Marketing GitHub](https://github.com/portable-cto/side-project-marketing)
-* [Side Project Sales GitHub](https://github.com/portable-cto/side-project-sales)
-
-
-## Launch
-
-<!--
-https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
-https://github.com/github/copilot-docs | github/copilot-docs: Documentation for GitHub Copilot
-
-Launch Story
-https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
-https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
-https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
-
-Rapid dev
-https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
--->
-
-## Project Management and Roadmaps
-
-* [GitHub Roadmap](https://github.com/github/roadmap)
-* [Twitter Developer Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap)
-
-<!--
-Project Management
-https://opensource.com/business/15/11/open-development-method
-
-https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
-
-https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
-
-GitHub and Twitter Roadmaps
-https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
-
-Slack Roadmap
-https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
-https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
-
-Asana
-https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
-https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
-
-https://github.com/vuejs/vue/projects/6
-
-https://redwoodjs.com/roadmap
-https://github.com/11ty/eleventy#major-roadmapped-features
-
-Gumroad Roadmap
-https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
-
-https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
--->
-
-
-## Success and Failure
-
-Site Deaths and Failures
-* [Site Deaths](https://indieweb.org/site-deaths)
-* [Failure Museum](http://failuremuseum.com)
-
-<!--
-Creativity
-https://bored.solutions/
-https://www.khanacademy.org/partner-content/pixar
-https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
--->
-
-## Case Studies
-
-<!--
-Simon
-https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
-
-Sarah
-https://vuejs.org/v2/guide/ | Introduction — Vue.js
-https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
-
-Netlify
-https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
-https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
-
-Next
-https://nextjs.org/showcase | Showcase | Next.js
-https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
-Interesting
-https://nextjs.org/docs/migrating/from-gatsby
-
-https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
-
-Gatsby Case Study
-https://twitter.com/gatsbyjs
-https://www.gatsbyjs.com/use-cases/
-https://www.gatsbyjs.org/contributing/
-https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
-
-https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
-https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
-
-Redwood
-https://app.livestorm.co/redwood/redwoodjs-meetup | RedwoodJS Meetup | RedwoodJS
-https://twitter.com/redwoodjs/status/1364255377324302341 | RedwoodJS on Twitter: "Redwood *Prerender* (aka SSG for those who prefer acronyms) is about to 🚀 Join this week's Meetup for a full walkthrough presentation followed by discussion + Q&amp;A. It’s Thursday the 25th. Details and free registration 👇 https://t.co/F4lfDeUPj8" / Twitter
-
-Redwood/React
-https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
-https://redwoodjs.com/docs/introduction
-https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
-https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
-
-Redwood JS
-https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
-https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
-https://twitter.com/mojombo/status/1313572403595759616
-https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter: "✨ Today at 1pm PST ✨ @mojombo and members of the @redwoodjs core team are live-streaming a Fireside chat during the JS Bootcamp Olympics. Free and Everyone’s invited! https://t.co/i8YLrsj00l" / Twitter
-https://twitter.com/mojombo/status/1329097078102913025 | Tom Preston-Werner on Twitter: "5k stars! @RedwoodJS is picking up steam and getting close to a 1.0 release. Watch the video tutorial today! https://t.co/JasJrDNacj" / Twitter
-https://dev.to/ajcwebdev/my-redwood-js-history-3kdp | my redwood.js history - DEV Community 👩‍💻👨‍💻
-
-Jake
-http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
-https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
-https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
-
-Ansible
-https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
-https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
-https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
--->
-
-
-## High Performance
-
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-* [Ilya Grigorik](https://www.igvita.com/)
-
-<!--
-http://highscalability.com/all-time-favorites/
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/OSI_model
--->
-
-
-## High Performance
-
-<!--
-https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
-https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
-https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
-
-https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
-
-
-https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-https://www.redhat.com/en/resources/digital-transformation-ebook
-https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
-
-http://engineering.khanacademy.org/posts/engineering-principles.htm
-
-https://stackify.com/premature-optimization-evil/ | Why Premature Optimization Is the Root of All Evil
-Richard Feynman 
--->
-
-<!--
-Google
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
-
-https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
--->
-
-## Site Reliability
-
-Google Site Reliability Engineering Books
-* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
-
-Site Reliability Engineering
-* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
-
-<!--
-https://hpbn.co/primer-on-web-performance/#anatomy-of-a-modern-web-application
-
-https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
-
-https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
-https://github.com/dastergon/awesome-sre
-https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
-
-https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
--->
-
-## More DevOps
-
-Atlassian DevOps
-* [Atlassian DevOps](https://www.atlassian.com/devops)
-* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
-
-DevOps
-* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
-
-DevOp Tools Landscapes
-* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
-
-How Companies Do DevOps
-* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
-* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
-* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
-
-Ops Schools and DevOps Bootcamps
-* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
-* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
-* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
-* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
-
-<!--
-Coursera DevOps Course
-https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
-https://www.coursera.org/learn/devops-culture-and-mindset
-
-https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
-
-https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
-https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
-https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
-https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
-
-https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
-
-https://puppet.com/resources/whitepaper/state-of-devops-report
-
-https://devops.com
-
-https://devopsbootcamp.osuosl.org/daycamp.html
-http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
-
-https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
-http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
-https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
-
-* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
--->
-
-## CI/CD
-
-<!--
-Release note automation
-https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
-
-
-https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
-
-https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
-https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
-https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
-https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
-
-https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
-
-https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
-
-https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
-
-https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
--->
-
-## GitLab
-
-GitLab- Notable Features
-* [GitLab Features](https://about.gitlab.com/features)
-* [GitLab Packages](http://packages.gitlab.com)
-
-GitLab
-* [GitLab Docs](http://docs.gitlab.com)
-* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
-
-Tools and Landscapes
-* [About GitLab](https://about.gitlab.com/)
-* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
-
-<!--
-https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
-
-https://docs.gitlab.com/ee/install/README.html
-
-https://docs.gitlab.com/ee/ci/README.html
-https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
-https://docs.gitlab.com/ee/workflow/
-https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
-https://docs.gitlab.com/ee/topics/autodevops/index.html
-
-https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
-https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
-https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
-
-gitlab continuous integration and deployment
-https://www.youtube.com/watch?v=1iXFbchozdY
-https://docs.gitlab.com/ce/ci/
-https://docs.gitlab.com/ce/ci/quick_start/README.html
-https://docs.gitlab.com/ce/ci/environments.html
-https://docs.gitlab.com/ee/ci/autodeploy/index.html
-https://docs.gitlab.com/ee/integration/
-https://about.gitlab.com/features/gitlab-ci-cd/
-https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
-https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
-https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
-https://about.gitlab.com/2016/11/22/introducing-review-apps/
--->
-
-## Jez Humble
-
-<!--
-https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
-
-https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
-
-https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
-https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
-
-https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+???
+http://wiki.c2.com/ | Welcome Visitors
+http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
+http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
+http://wiki.c2.com/?BusNumber | Bus Number
 -->
 
 
@@ -1335,6 +822,631 @@ https://martinfowler.com/tags/domain%20driven%20design.html | domain driven desi
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215 | Domain-Driven Design: Tackling Complexity in the Heart of Software: Eric Evans: 8601300201665: Amazon.com: Books
 -->
 
+
+
+## Engineering Performance Resources
+
+Results
+* ["Getting to 10x (Results): What Any Developer Can Learn from the Best"](https://medium.com/javascript-scene/getting-to-10x-results-what-any-developer-can-learn-from-the-best-54b6c296a5ef)
+* ["How to Build a High Velocity Development Team"](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+
+10x Engineer
+* [Andrew Godwin: 10x Engineer](https://twitter.com/andrewgodwin/status/1149875609969090565)
+
+
+<!--
+## 10X and Value
+
+https://medium.com/javascript-scene/how-to-learn-to-code-9f5803506bac | How to Learn to Code. 10 Tips to 10x Your Coding Skills | by Eric Elliott | JavaScript Scene | Medium
+https://medium.com/javascript-scene/the-secret-of-simple-code-a2cacd8004dd | The Secret of Simple Code. How 10x Developers Produce 10x Value | by Eric Elliott | JavaScript Scene | Jun, 2020 | Medium
+
+
+
+Growth Rubric
+https://docs.google.com/spreadsheets/d/1EO-Dbsayn8Nz9Ii3MKcwRbt-EIJ2MjQdpoyhh0tBdZk/edit#gid=1098466721
+https://medium.com/s/engineering-growth-framework | Engineering Growth Framework – Medium
+https://medium.engineering/engineering-interviews-what-we-screen-for-af2d84122417
+
+software development competency framework
+http://sijinjoseph.com/programmer-competency-matrix/
+
+
+
+
+https://medium.com/javascript-scene/assessing-employee-performance-1a8bdee45c1a | Assessing Employee Performance - JavaScript Scene - Medium
+Look at their total contribution.
+Learn to value the things you can’t track and count directly.
+
+https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f | Effective_Engineer.md
+
+Junior versus Senior/Composing Software
+https://medium.com/javascript-scene/what-is-the-difference-between-a-junior-and-a-senior-developer-63c1594d7a98 | What is the Difference Between a Junior and a Senior Developer? | by Eric Elliott | JavaScript Scene | Medium
+
+https://twitter.com/jamesmh_dev/status/1080455811048984576 | James Hickey 🇨🇦 on Twitter: "Thread for Junior Developers/Engineers: Bad news - the ability to be a master/elite coder is only the first step in your career 😞 You'll soon find that coding is the easy part. Some of the hard parts - if you want to progress as a software engineer/developer - are:"
+
+Abstract
+https://thereader.mitpress.mit.edu/habits-of-expert-software-designers/ | Eight Habits of Expert Software Designers: An Illustrated Guide | The MIT Press Reader
+
+General
+https://medium.freecodecamp.org/qualities-of-great-software-engineers-621f4094f5ab | The qualities that make a great software engineer – freeCodeCamp.org
+https://twitter.com/skbolton/status/1299440338357026816 | Stephen Bolton on Twitter: "When you worked with great software engineers, ones that really stood out, what qualities did you notice the most? What did they seem to pull off that others didn’t? Please retweet for reach!" / Twitter
+
+https://twitter.com/jkup/status/1215380918145290240 | Jon Kuperman on Twitter: "I've never been a business minded person, but I do wonder what it is that allows some companies to consistently ship great new features, while others lag behind." / Twitter
+https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations-ebook/dp/B07B9F83WM
+
+
+## Characteristics of a Good Dev
+
+Principle/Distinguished
+https://blog.jessfraz.com/post/defining-a-distinguished-engineer/ | Jessie Frazelle's Blog: Defining a Distinguished Engineer
+https://blog.dbsmasher.com/2019/01/28/on-being-a-principal-engineer.html | On Being A Principal Engineer
+
+Great
+https://skamille.medium.com/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f | An incomplete list of skills senior engineers need, beyond coding | by Camille Fournier | Jun, 2021 | Medium
+
+10X Results
+Problem solver, skilled, mentor/teacher, excellent learner, passionate
+Honest, communicative, efficient, collaborative, committed
+
+See chart/Table 1
+https://faculty.washington.edu/ajko/papers/Li2019WhatDistinguishesEngineers.pdf | What distinguishes great software engineers?
+Top five distinguishing characteristics: writing good code, adjusting behaviors to account for future value and costs, practicing informed decision-making, avoiding making others’ jobs harder, and learning continuously
+
+
+https://twitter.com/LBacaj/status/1514694596965638147 | Louie Bacaj on Twitter: "The top 10 predictors of successful engineering careers. I've helped hire 100s of engineers in my 12+ year career. I've managed and steered the careers of multiple engineering teams. Some of these may surprise you, but I am confident they predict career success in our industry." / Twitter
+
+https://twitter.com/svpino/status/1513124651764895749 | Santiago 🇺🇸🇺🇦 on Twitter: "The two unnegotiable prerequisites to becoming a good developer: 1. Get good at writing software (duh!) 2. Get good at talking about what your software does Strong technical + communication skills. Neither one is more important than the other." / Twitter
+-->
+
+
+
+## Engineering Management
+
+<!--
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+
+https://twitter.com/codinghorror/status/1380567174238986242 | Jeff Atwood on Twitter: "software engineering in a nutshell.. https://t.co/NjrsCVWnGT" / Twitter
+
+
+
+## Qualities and Competency
+
+Code Review Checklist/Code Test Checklist (RITE Way)
+https://medium.com/javascript-scene/managing-remote-teams-use-checklists-301aae93e7a5 | Managing Remote Teams — Use Checklists | by Eric Elliott | JavaScript Scene | Medium
+
+https://news.ycombinator.com/item?id=20914236 | Show HN: A Senior Engineer's CheckList | Hacker News
+
+
+## Roadmap, CTO
+
+https://github.com/kuchin/awesome-cto | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+https://github.com/raylene/eng-handbook | ratline/eng-handbook: A developer's guide to management: an open-sourced handbook for leading software engineering teams.
+
+
+https://en.wikipedia.org/wiki/Technology_roadmap | Technology roadmap - Wikipedia
+
+SCQA framework
+https://www.heavybit.com/library/video/executive-communication/
+https://twitter.com/jasoncwarner/status/1372239081959157762 | Jason Warner on Twitter: "@craigkerstiens I hadn't seen that before. That is excellent, which I guess should almost be expected from who Heavybit invites to speak Except for you, Craig. Except for you." / Twitter
+https://www.richardhare.com/2007/09/03/the-minto-pyramid-principle-scqa/
+
+
+https://github.com/coryhouse/7-pillar-developer | coryhouse/7-pillar-developer: Repo for my ThatConference Keynote
+https://www.infoq.com/presentations/lifestyle-software-developer | Going Pro: Lifestyle Systems for the Exceptional Developer
+https://twitter.com/johncutlefish/status/1299339702559019008 | https://twitter.com/johncutlefish/status/1299339702559019008
+
+
+Read
+https://news.ycombinator.com/item?id=21870889
+https://twitter.com/tobi/status/1209520488860528642 | Tobi Lutke 🌳🌲 on Twitter: "Agreed. https://t.co/aDoGbX6FP4" / Twitter
+
+-->
+
+
+
+<!--
+## People
+
+https://twitter.com/ericwryan | Eric Ryan 🎪 🐻 (@ericwryan) / Twitter
+https://ericwryan.com/blog/sustainable-engineering-balancing-your-teams-portfolio/ | Sustainable Engineering Practices: Balancing your Team's Portfolio
+
+
+Staff Engineer's Path
+https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/
+https://twitter.com/whereistanya/status/1453510557122846722 | https://twitter.com/whereistanya/status/1453510557122846722
+
+## Camille Fournier
+
+https://skamille.medium.com/ | Camille Fournier – Medium
+http://www.camilletalk.com/ | Camille Fournier
+
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+https://github.com/mgp/book-notes/blob/master/the-managers-path.markdown | book-notes/the-managers-path.markdown at master · map/book-notes
+https://github.com/keyvanakbary/learning-notes/blob/master/books/the-managers-path.md
+
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+https://medium.com/@skamille/the-management-flywheel-c076f398969b | The Management Flywheel. Have you ever worked on a team that… | by Camille Fournier | Sep, 2020 | Medium
+
+## Sarah
+
+https://css-tricks.com/balancing-time/ | Balancing Time | CSS-Tricks
+
+https://www.engmanagement.dev/ | Engineering Management for the Rest of Us
+https://sarah.dev/writing/ | Sarah Drasner's Site
+https://twitter.com/sarah_edo/status/1488182123450142723 | https://twitter.com/sarah_edo/status/1488182123450142723
+
+Career ladders
+https://career-ladders.dev/
+https://css-tricks.com/the-importance-of-career-laddering/
+https://www.engmanagement.dev/the-value-of-values
+https://twitter.com/sarah_edo/status/1483838354823151616 | Sarah Drasner on Twitter: "🗯 I’m open sourcing some chapters from my book! This one is one of the most foundational pieces, it connects to a lot of other conversations and themes: The Value of Values. Enjoy! https://t.co/V5eUEZ2w5h" / Twitter
+https://css-tricks.com/mistakes-ive-made-as-an-engineering-manager/ | Mistakes I've Made as an Engineering Manager | CSS-Tricks
+https://css-tricks.com/splitting-time-between-product-and-engineering-efforts/ | Splitting Time Between Product and Engineering Efforts | CSS-Tricks
+
+Developer experience
+https://www.netlify.com/blog/2021/01/06/developer-experience-at-netlify/ | Developer Experience at Netlify
+https://twitter.com/jennleaver/status/1346845264385089544 | Jenn Leaver on Twitter: "@sarah_edo It’s so interesting to see documentation included in DX (it can fit in so many places!). 🎉 I’d love to hear how DX engineers collaborate with writers so you ensure a good experience for people across all types of content. I’ve never been aligned well enough to figure that out!" / Twitter
+-->
+
+## Engineering Management
+
+Team Management
+* ["The Essential Guide to Building Balanced Development Teams"](https://medium.com/javascript-scene/the-essential-guide-to-building-balanced-development-teams-b051a62acc80)
+
+<!--
+https://jacobian.org/2021/jan/5/designing-engineering-organizations/ | Designing Engineering Organizations - Jacob Kaplan-Moss
+
+https://medium.com/javascript-scene/why-development-teams-are-slow-89107985c75c | Why Development Teams are Slow. Common Software Jams and Solutions | by Eric Elliott | JavaScript Scene | Medium
+
+http://www.elidedbranches.com/2017/09/how-do-managers-get-stuck.html | Elided Branches: How do managers* get stuck?
+
+## Minimum Viable Teams
+
+https://twitter.com/simonw/status/1307708021447905288 | Simon Willison on Twitter: "@jeremybowers Did you see Anna's piece on durable teams? https://t.co/hfIoroQKpE" / Twitter
+http://www.sachinrekhi.com/blog/2016/01/11/minimum-viable-team
+
+## Leadership, Team Management 
+
+https://github.com/LappleApple/awesome-leading-and-managing | LappleApple/awesome-leading-and-managing: Awesome List of resources on leading people and being a manager. Geared toward tech, but potentially useful to anyone.
+https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut | How to lead people and be a manager - Google Docs
+
+## Interviews
+
+https://jacobian.org/2020/sep/14/measuring-hiring-manager-effectiveness/ | Measuring Hiring Manager Effectiveness - Jacob Kaplan-Moss
+https://jacobian.org/2020/sep/8/training-interviewers/ | Training Interviewers - Jacob Kaplan-Moss
+https://twitter.com/jacobian/status/1357703988796342279 | jacobian on Twitter: "Next week on my blog, I'll be publishing five of my best interview questions, one each day, and unpacking them in depth — when to ask them, how to evaluate answers, etc. I'm really excited about this series, it's shaping up really well. https://t.co/ekjYS7AJ0k" / Twitter
+https://twitter.com/jacobian/status/1358875274767708161 | jacobian on Twitter: "Repost for the afternoon crowd: each day this week I'm sharing an interview question I use, including detailed answered rubrics. First one's here: https://t.co/KY75RkXKtT Tomorrow: measuring managers' ability to lead projects, and weeding out micromanagers. Watch this space!" / Twitter
+
+## Reading Lists
+
+https://twitter.com/__apf__/status/1379973544759582725 | Adrienne Porter Felt on Twitter: "My 9 book picks for engineering leaders 👇 https://t.co/PqwnxRxu3S" / Twitter
+
+https://jacobian.org/2018/may/2/engmanager-reading-list/
+https://jacobian.org/writing/engmanager-reading-list/ | A reading list for new engineering managers « Jacob Kaplan-Moss
+
+## Meetings
+
+Silent critique (Figma)
+https://twitter.com/dustanner/status/1176518182850351104
+
+Gasca- Silent Meeting
+https://medium.com/@gascasf/the-silent-meeting-manifesto-v1-189e9e3487eb | The Silent Meeting Manifesto v1 – David Gasca – Medium
+https://runtheworld.substack.com/p/a-new-way-to-run-the-world | A New Way To Run The World - Run The World Newsletter
+https://twitter.com/gasca/status/1233243472645124096 | Gasca on Twitter: "Nighttime reading https://t.co/KjR2SJZVPK" / Twitter
+
+## Schedules
+
+https://medium.com/@Pinterest_Engineering/three-day-no-meeting-schedule-for-engineers-fca9f857a567 | Three-day no-meeting schedule for engineers – Pinterest Engineering – Medium
+https://twitter.com/Richard_Florida/status/1207790189264998400 | Richard Florida on Twitter: "I have long subscribed to the “Maker’s Schedule” and suggest all my colleagues and collaborators, everyone I work with, and my students read it. https://t.co/NpPYEaMsR9" / Twitter
+
+Ways of Working... different companies
+https://github.com/joelparkerhenderson/ways-of-working
+-->
+
+
+## Product
+
+Product
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+<!--
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+"The history of product management"
+https://www.atlassian.com/agile/product-management
+https://www.atlassian.com/agile/product-management/product-manager
+https://www.atlassian.com/agile/product-management/requirements | Creating a lean, mean product requirements machine
+https://www.atlassian.com/agile/product-management/product-roadmaps Agile Roadmaps: Build, Share, Use, Evolve The Agile Coach
+
+https://www.atlassian.com/agile/tutorials/how-to-do-kanban-with-jira-software | Learn kanban with Jira Software | Atlassian
+
+Empowered versus feature
+https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon-ebook/dp/B08LPKRD5L | Amazon.com: EMPOWERED: Ordinary People, Extraordinary Products (Silicon Valley Product Group) eBook: Cagan, Marty: Kindle Store
+https://blog.pragmaticengineer.com/empowered-review/ | EMPOWERED Review: I Needed This Book 4 Years Ago - The Pragmatic Engineer
+https://svpg.com/product-vs-feature-teams/ | Product vs. Feature Teams | Silicon Valley Product Group
+https://svpg.com/empowered-product-teams/ | Empowered Product Teams | Silicon Valley Product Group
+
+https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/ | PM at Microsoft – Steven Sinofsky's Microsoft TechTalk
+https://www.amazon.com/dp/B002XXGIJY | Amazon.com: One Strategy: Organization, Planning, and Decision Making eBook: Steven Sinofsky, Marco Iansiti: Kindle Store
+
+https://twitter.com/stevesi/status/1366989345106759680 | Steven Sinofsky on Twitter: "In the most recent Hardcore Software substack post, I shared the "turning point" for learning how to ship software. It was a memo/presentation based on the work of Excel 5 that shipped 11 days late. Let's look at the first "massive" project to ship on exactly time, Office XP. 1/ https://t.co/OXXO4jVOE2" / Twitter
+-->
+
+
+## Company Playbooks
+
+Handbooks
+* [Atlassian Team Playbook](https://www.atlassian.com/team-playbook)
+* [GitLab Handbook](https://about.gitlab.com/handbook), [GitLab About Company](https://about.gitlab.com/company/), and [GitLab Company Culture](https://about.gitlab.com/company/culture/)
+* [Glitch Handbook](https://handbook.glitch.me/)
+* [Basecamp About](https://basecamp.com/about), [Basecamp Handbook GitHub](https://github.com/basecamp/handbook), [Basecamp Books](https://basecamp.com/books), and [Signal V. Noise](https://m.signalvnoise.com)
+
+<!--
+Atlassian Team Playbook
+https://www.atlassian.com/blog/inside-atlassian/10-ways-to-get-started-with-the-team-playbook
+https://www.atlassian.com/team-playbook/examples
+
+https://about.gitlab.com/blog/2020/09/30/start-contributing-to-gitlab-today/
+https://twitter.com/samdbeckham/status/1306169886788513792 | Sam Beckham on Twitter: "Ever wanted to contribute to @gitlab but didn't know where to start? We need your help to migrate all out bootstrap buttons. Here's 192 easy contributions that anyone can pick up. You only need to do a handful to be in our top contributors for the year! https://t.co/zhXHXgAC2Z" / Twitter
+
+GitLab Important
+https://about.gitlab.com/handbook/engineering/#velocity-over-predictability | Engineering | GitLab
+https://observablehq.com/@troymagennis/how-does-utilization-impact-lead-time-of-work
+
+https://about.gitlab.com/handbook/ceo/ | CEO | GitLab
+
+https://twitter.com/dnsmichi/status/1314267751607869442
+https://twitter.com/melsmo/status/1313180759889305601
+-->
+
+
+
+## Success and Failure
+
+Site Deaths and Failures
+* [Site Deaths](https://indieweb.org/site-deaths)
+* [Failure Museum](http://failuremuseum.com)
+
+<!--
+Creativity
+https://bored.solutions/
+https://www.khanacademy.org/partner-content/pixar
+https://www.khanacademy.org/humanities/hass-storytelling/imagineering-in-a-box | Imagineering in a Box | Storytelling | Arts and humanities | Khan Academy
+-->
+
+## Launch
+
+<!--
+https://github.com/github/docs | github/docs: The open-source repo for docs.github.com
+https://github.com/github/copilot-docs | github/copilot-docs: Documentation for GitHub Copilot
+
+Launch Story
+https://github.blog/2020-10-14-how-we-open-sourced-docs-github-com/ | How we open sourced docs.github.com - The GitHub Blog
+https://github.blog/2020-07-02-how-we-launched-docs-github-com/ | How we launched docs.github.com - The GitHub Blog
+https://medium.com/@broccolini/design-systems-at-github-c8e5378d2542? | Design Systems at GitHub - Diana Mounter - Medium
+
+Rapid dev
+https://dev.to/mscccc/how-we-use-ship-small-to-rapidly-build-new-features-at-github-5cl9 | How we use "ship small" to rapidly build new features at GitHub - DEV
+-->
+
+## Project Management and Roadmaps
+
+* [GitHub Roadmap](https://github.com/github/roadmap)
+* [Twitter Developer Platform Roadmap](https://trello.com/b/myf7rKwV/twitter-developer-platform-roadmap)
+
+<!--
+Project Management
+https://opensource.com/business/15/11/open-development-method
+
+https://www.industrialempathy.com/posts/design-docs-at-google/ | Design Docs at Google
+
+https://medium.freecodecamp.org/how-to-write-a-good-software-design-document-66fcf019569c | How to write a good software design doc – freeCodeCamp
+
+GitHub and Twitter Roadmaps
+https://github.blog/changelog/2020-07-28-plan-ahead-using-the-github-public-roadmap/
+
+Slack Roadmap
+https://trello.com/b/ZnTQyumQ/slack-platform-roadmap
+https://medium.com/slack-developer-blog/the-slack-platform-roadmap-34067b054177#.l45fqqqp4
+
+Asana
+https://wavelength.asana.com/pyramid-clarity-strategic-alignment/ | The Pyramid of Clarity: A Way to Achieve Strategic Alignment
+https://medium.com/@jackiebo/how-we-build-our-product-roadmap-at-asana-56953b1e25ad | How we build our Product Roadmap at Asana – Building Asana – Medium
+
+https://github.com/vuejs/vue/projects/6
+
+https://redwoodjs.com/roadmap
+https://github.com/11ty/eleventy#major-roadmapped-features
+
+Gumroad Roadmap
+https://www.notion.so/gumroad/Roadmap-ce2ad07c483046e7941227ad7810730d | Notion – The all-in-one workspace for your notes, tasks, wikis, and databases.
+
+https://trello.com/b/kZsVVrc8/front-product-roadmap | Front Product Roadmap | Trello
+-->
+
+## Case Studies
+
+<!--
+Simon
+https://m.signalvnoise.com/html-over-the-wire/ | HTML over the wire - Signal v. Noise
+
+Sarah
+https://vuejs.org/v2/guide/ | Introduction — Vue.js
+https://twitter.com/sarah_edo/status/1285218301581246464 | Sarah Drasner on Twitter: "🎉🎉🎉 So excited about this! Part of this is a brand new version of the docs, too! https://t.co/1N2atctxGi @N_Tepluhina, @bencodezen, @notphanan and I have been working for better part of a year. They are the best teammates in the world ❤️ Gonna thread some highlights:" / Twitter
+
+Netlify
+https://twitter.com/sarah_edo/status/1336018873376624642 | Sarah Drasner on Twitter: "💥 Our team has been working a ton on the developer experience of Next.js on Netlify, you can now one-click deploy without any configuration! Massive shout out to @levlinds, @ehmicky, @cassidoo and @FinnWoelm, but SO many more who are actively and continuously working on this!" / Twitter
+https://twitter.com/sarah_edo/status/1329114688999735296 | Sarah Drasner on Twitter: "🚀 SO thrilled to launch a project our team has been working on for a while: a free learning platform!! Courses on Next.js, Angular, Split Testing (to start!) 👩🏻‍🚀 Jamstack Explorers 👩🏻‍🚀 https://t.co/Q2IWExU0od https://t.co/Jh0V9MNYCD" / Twitter
+
+Next
+https://nextjs.org/showcase | Showcase | Next.js
+https://nextjs.org/docs/advanced-features/measuring-performance | Advanced Features: Measuring performance | Next.js
+Interesting
+https://nextjs.org/docs/migrating/from-gatsby
+
+https://github.com/gatsbyjs/gatsby/blob/master/README.md | gatsby/README.md at master · gatsbyjs/gatsby
+
+Gatsby Case Study
+https://twitter.com/gatsbyjs
+https://www.gatsbyjs.com/use-cases/
+https://www.gatsbyjs.org/contributing/
+https://twitter.com/natehunzaker/status/1097899981434830848 | Nate Hunzaker on Twitter: "The whole experience contributing to @gatsbyjs, from review, to rewards, to nice emails, is so incredible.… "
+
+https://www.gatsbyjs.org/tutorial/part-zero/ | Set Up Your Development Environment | GatsbyJS
+https://twitter.com/simonw/status/1136496105334628352 | Simon Willison on Twitter: "Yeah this is a REALLY good guide to getting a development environment set up from scratch https://t.co/794pjrRPOi… "
+
+Redwood
+https://app.livestorm.co/redwood/redwoodjs-meetup | RedwoodJS Meetup | RedwoodJS
+https://twitter.com/redwoodjs/status/1364255377324302341 | RedwoodJS on Twitter: "Redwood *Prerender* (aka SSG for those who prefer acronyms) is about to 🚀 Join this week's Meetup for a full walkthrough presentation followed by discussion + Q&amp;A. It’s Thursday the 25th. Details and free registration 👇 https://t.co/F4lfDeUPj8" / Twitter
+
+Redwood/React
+https://twitter.com/alvincrespo/status/1292988426359377924 | Alvin Crespo on Twitter: "Yup, so @redwoodjs feels good so far. ✅ Developer experience is seamless (UI &lt;&gt; API) ✅ Top-notch tutorials / guides ✅ Solid architecture decisions Going to continue exploring this through contributions. There are a lot of "good first issues" at this stage of the framework." / Twitter
+https://redwoodjs.com/docs/introduction
+https://github.com/redwoodjs/redwoodjs.com/tree/main/docs
+https://twitter.com/mojombo/status/1293327015165059072 | Tom Preston-Werner on Twitter: "Been meaning to try out @RedwoodJS? Now’s your chance to dig in with fellow devs at a Redwood focused hackathon!" / Twitter
+
+Redwood JS
+https://community.redwoodjs.com/t/redwoodjs-community-wins-a-jammie/1256
+https://www.youtube.com/watch?v=KnvkdF3z85Q&feature=emb_logo
+https://twitter.com/mojombo/status/1313572403595759616
+https://twitter.com/redwoodjs/status/1299749905351741443 | RedwoodJS on Twitter: "✨ Today at 1pm PST ✨ @mojombo and members of the @redwoodjs core team are live-streaming a Fireside chat during the JS Bootcamp Olympics. Free and Everyone’s invited! https://t.co/i8YLrsj00l" / Twitter
+https://twitter.com/mojombo/status/1329097078102913025 | Tom Preston-Werner on Twitter: "5k stars! @RedwoodJS is picking up steam and getting close to a 1.0 release. Watch the video tutorial today! https://t.co/JasJrDNacj" / Twitter
+https://dev.to/ajcwebdev/my-redwood-js-history-3kdp | my redwood.js history - DEV Community 👩‍💻👨‍💻
+
+Jake
+http://docs.astropy.org/en/stable/index.html#developer-documentation | Astropy Documentation — Astropy v3.2.3
+https://twitter.com/jakevdp/status/1109556229284786177 | Jake VanderPlas on Twitter: "@choldgraf I think the @astropy project is a great example: https://t.co/EF4oPQZPeV It even includes a fully-worked example contribution: https://t.co/0Lkb0Ttj5n" / Twitter
+https://twitter.com/jakevdp/status/1033015904185896960 | Jake VanderPlas on Twitter: "The @astropy project is a great example of how a large open source project can be effectively managed by the community that uses and develops it... Organizational details are outlined in section 2:… https://t.co/UUzEnFRjML"
+
+Ansible
+https://docs.ansible.com/ansible/devel/community/ | Ansible Community Guide — Ansible Documentation
+https://www.ansible.com/resources/webinars-training/how-to-make-ansible-community-contributions | How to Make Your Mark: Ansible Community Contributions
+https://twitter.com/lpnotes/status/1093052919929171969 | Linda Peng on Twitter: "Love that @ansible has a recorded screencast showing folks how to get started as a community contributor. https://t.co/zgJ6WcRH62"
+-->
+
+
+## High Performance
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+<!--
+http://highscalability.com/all-time-favorites/
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/OSI_model
+-->
+
+
+## Agile and DevOps
+
+Atlassian Agile
+* [Atlassian Agile](https://www.atlassian.com/agile)
+* [Atlassian Agile Code Reviews](https://www.atlassian.com/agile/code-reviews)
+
+<!--
+https://developer.atlassian.com
+
+https://www.atlassian.com/agile/git | How Git fits into an agile workflow The Agile Coach
+https://www.atlassian.com/devops/tools-and-technologies
+
+https://about.gitlab.com/2018/03/05/gitlab-for-agile-software-development/ | How to use GitLab for Agile software development | GitLab
+
+
+https://about.gitlab.com/blog/2020/01/30/all-aboard-merge-trains/
+https://about.gitlab.com/2017/10/26/triage-issues-gitmate/ | Triage issues in 7 simple steps | GitLab
+https://about.gitlab.com/2017/12/13/an-agile-approach-to-documentation-and-structure/ | An Agile approach to documentation and structure | GitLab
+-->
+
+
+## High Performance
+
+<!--
+https://docs.microsoft.com/en-us/azure/devops/repos/get-started/key-concepts-repos | Key concepts and terminology used for Azure Repos - Azure Repos | Microsoft Docs
+
+
+https://cloud.google.com/solutions/twelve-factor-app-development-on-gcp | Twelve-factor app development on GCP  |  Solutions  |  Google Cloud
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+https://www.redhat.com/en/resources/digital-transformation-ebook
+https://www.redhat.com/en/resources/microservices-improved-architecture-design | Microservices: An improved architecture design
+
+http://engineering.khanacademy.org/posts/engineering-principles.htm
+
+
+Google
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+https://queue.acm.org/detail.cfm?id=3404974 | Debugging Incidents in Google's Distributed Systems - ACM Queue
+
+https://classroom.udacity.com/courses/ud303/lessons/e666fd9d-84e8-4e06-a5f7-bd3ea26a1693/concepts/bd27be20-dfcc-45f5-9c0d-ae566d35a14e | HTTP & Web Servers - Udacity
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+-->
+
+
+## Site Reliability
+
+Google Site Reliability Engineering Books
+* [Google Site Reliability Engineering Book and Workbook](https://landing.google.com/sre/books)
+
+Site Reliability Engineering
+* [Site Reliability Engineering Wikipedia](https://en.wikipedia.org/wiki/Site_reliability_engineering)
+
+<!--
+https://hpbn.co/primer-on-web-performance/#anatomy-of-a-modern-web-application
+
+https://cloud.google.com/blog/products/management-tools/sre-principles-in-practice-for-business-continuity | SRE principles in practice for business continuity | Google Cloud Blog
+
+https://blog.alicegoldfuss.com/how-to-get-into-sre/ | How to Get Into SRE – Alice Goldfuss
+https://github.com/dastergon/awesome-sre
+https://www.atlassian.com/it-unplugged/devops/site-reliability-engineering-sre | Love DevOps? Wait until you meet SRE | Atlassian
+
+https://www.coursera.org/learn/site-reliability-engineering-slos/ | Site Reliability Engineering: Measuring and Managing Reliability | Coursera
+-->
+
+## More DevOps
+
+Atlassian DevOps
+* [Atlassian DevOps](https://www.atlassian.com/devops)
+* [Atlassian Start your DevOps Journey](https://www.atlassian.com/devops/start-your-journey)
+
+DevOps
+* [DevOps Wikipedia](https://en.wikipedia.org/wiki/DevOps)
+
+DevOp Tools Landscapes
+* [Kenneth Reitz: "or 'use Heroku'." DevOps Lifecycle Mesh (2018)](https://harness.io/2018/01/devops-tools-lifecycle-mesh-2018/)
+
+How Companies Do DevOps
+* [The Practical DevOps Playbook](https://www.shippable.com/devops-playbook.html)
+* ["How New Relic Does DevOps"](https://blog.newrelic.com/2017/01/26/how-new-relic-does-devops)
+* ["DevOps at Microsoft – lots of videos"](https://blogs.msdn.microsoft.com/bharry/2017/11/13/devops-at-microsoft-lots-of-videos)
+
+Ops Schools and DevOps Bootcamps
+* [OSU DevOps Bootcamp](https://devopsbootcamp.osuosl.org) and [OSU DevOps Bootcamp GitHub](https://github.com/devopsbootcamp)
+* [OSU DevOps Bootcamp Content](https://devopsbootcamp.osuosl.org/bootcamp_content.html), [OSU DevOps Bootcamp Slides](https://devopsbootcamp.osuosl.org/slides.html), [OSU DevOps Bootcamp Start Here](http://devopsbootcamp.osuosl.org/start-here.html), and [OSU DevOps Bootcamp YouTube](https://www.youtube.com/playlist?list=PLqzbgtiNz4A6uhXKv65xRRYa3IpjH8QN1)
+* [Ops School](http://www.opsschool.org/en/latest) and [Ops School GitHub](https://github.com/opsschool/curriculum)
+* [Ops School Sysadmin 101]http://www.opsschool.org/en/latest/sysadmin_101.html)
+
+<!--
+Coursera DevOps Course
+https://www.coursera.org/lecture/devops-culture-and-mindset/the-importance-of-iteration-and-the-evolution-of-roles-9Z6uN
+https://www.coursera.org/learn/devops-culture-and-mindset
+
+https://cloud.google.com/blog/products/devops-sre/the-2019-accelerate-state-of-devops-elite-performance-productivity-and-scaling | The 2019 Accelerate State of DevOps: Elite performance, productivity, and scaling | Google Cloud Blog
+
+https://about.gitlab.com/2018/02/20/whats-wrong-with-devops/ | 3 things that are wrong with DevOps today | GitLab
+https://about.gitlab.com/2019/06/12/devops-team-structure/ | The ideal DevOps team structure | GitLab
+https://about.gitlab.com/stages-devops-lifecycle/package/ | Package | GitLab
+https://about.gitlab.com/2017/10/06/complete-devops-live-event/ | Join us live from GitLab HQ! | GitLab
+
+https://azure.microsoft.com/mediahandler/files/resourcefiles/effective-devops/Effective_DevOps.pdf | Effective DevOps
+
+https://puppet.com/resources/whitepaper/state-of-devops-report
+
+https://devops.com
+
+https://devopsbootcamp.osuosl.org/daycamp.html
+http://slides.osuosl.org/devopsbootcamp/#7 | DevOps BootCamp — OSU DevOps BootCamp 0.0.1 documentation
+
+https://github.com/devsecops/bootcamp | devsecops/bootcamp: A open contribute bootcamp to develop DevSecOps skills...
+http://wiki.osdev.org/Main_Page | Expanded Main Page - OSDev Wiki
+https://www.slideshare.net/mrembetsy/devops-picc12-management-talk | DevOps Picc12 Management Talk
+
+* [Deployments Best Practices](http://guides.beanstalkapp.com/deployments/best-practices.html)
+-->
+
+## CI/CD
+
+<!--
+Release note automation
+https://cloudblogs.microsoft.com/opensource/2018/09/06/how-to-automate-software-release-notes | How to automate your release notes
+
+
+https://confluence.atlassian.com/bitbucket/deploy-with-pull-requests-856832274.html
+
+https://www.atlassian.com/continuous-delivery/continuous-deployment-tutorial
+https://www.atlassian.com/continuous-delivery/business-case-for-continuous-delivery | The Business Case for Continuous Delivery | Atlassian Continuous Delivery
+https://legacy-developer.atlassian.com/blog/2016/03/code-approval-policies-explained/ | Code Approval Policies Explained - Atlassian Developers
+https://about.gitlab.com/2018/01/17/craftsman-looks-at-continuous-integration/ | A Craftsman looks at continuous integration | GitLab
+
+https://cloud.google.com/docs/ci-cd/ | CI/CD with Google Cloud  |  Google Cloud
+
+https://github.com/travis-ci/build-stages-demo | travis-ci/build-stages-demo: Demos for Travis CI build stages
+
+https://docs.python-guide.org/scenarios/ci/ | Continuous Integration — The Hitchhiker's Guide to Python
+
+https://github.com/ciandcd/awesome-ciandcd | ciandcd/awesome-ciandcd: continuous integration and continuous delivery
+-->
+
+## GitLab
+
+GitLab- Notable Features
+* [GitLab Features](https://about.gitlab.com/features)
+* [GitLab Packages](http://packages.gitlab.com)
+
+GitLab
+* [GitLab Docs](http://docs.gitlab.com)
+* ["Get started with GitLab"](http://docs.gitlab.com/ce/intro/README.html)
+
+Tools and Landscapes
+* [About GitLab](https://about.gitlab.com/)
+* [GitLab DevOp Tools Landscape](https://about.gitlab.com/devops-tools)
+
+<!--
+https://twitter.com/jezdez/status/1182321743811231744 | Jannis Leidel on Twitter: "@webology @simonw @dokku FWIW there is a GitLab CI and GitHub CI deploy integration, https://t.co/tQkgOlQTcQ is deployed via the latter." / Twitter
+
+https://docs.gitlab.com/ee/install/README.html
+
+https://docs.gitlab.com/ee/ci/README.html
+https://docs.gitlab.com/ee/ci/pipelines.html | Introduction to pipelines and jobs - GitLab Documentation
+https://docs.gitlab.com/ee/workflow/
+https://about.gitlab.com/2016/10/25/gitlab-workflow-an-overview/
+https://docs.gitlab.com/ee/topics/autodevops/index.html
+
+https://about.gitlab.com/2017/07/13/making-ci-easier-with-gitlab/ | Making CI Easier with GitLab | GitLab
+https://www.youtube.com/watch?v=AgKc_KUQEtE | Auto DevOps in GitLab 10.0 - YouTube
+https://about.gitlab.com/2017/10/04/devops-strategy/ | Beyond CI/CD: GitLab's DevOps vision | GitLab
+
+gitlab continuous integration and deployment
+https://www.youtube.com/watch?v=1iXFbchozdY
+https://docs.gitlab.com/ce/ci/
+https://docs.gitlab.com/ce/ci/quick_start/README.html
+https://docs.gitlab.com/ce/ci/environments.html
+https://docs.gitlab.com/ee/ci/autodeploy/index.html
+https://docs.gitlab.com/ee/integration/
+https://about.gitlab.com/features/gitlab-ci-cd/
+https://about.gitlab.com/2017/05/22/fast-and-natural-continuous-integration-with-gitlab-ci/
+https://about.gitlab.com/2016/08/05/continuous-integration-delivery-and-deployment-with-gitlab/
+https://about.gitlab.com/2016/04/19/gitlab-partners-with-digitalocean-to-make-continuous-integration-faster-safer-and-more-affordable/
+https://about.gitlab.com/2016/11/22/introducing-review-apps/
+-->
+
+## Jez Humble
+
+<!--
+https://www.amazon.com/dp/B07B9F83WM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations 1, Nicole Forsgren PhD, Jez Humble, Gene Kim, eBook - Amazon.com
+
+https://media.pragprog.com/newsletters/2017-08-23.html | Release It! Second Edition: Design and Deploy Production-Ready 
+
+https://gcppodcast.com/post/episode-205-devops-with-nathen-harvey-and-jez-humble/ | DevOps with Nathen Harvey and Jez Humble | Google Cloud Platform Podcast
+https://www.amazon.com/dp/B01M9ASFQ3/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1 | Amazon.com: The DevOps Handbook:: How to Create World-Class Agility, Reliability, and Security in Technology Organizations eBook: Gene Kim, Jez Humble, Patrick Debois, John Willis, John Allspaw: Kindle Store
+
+https://www.amazon.co.uk/dp/1449368425 | Lean Enterprise: How High Performance Organizations Innovate at Scale (Lean (O'Reilly)): Amazon.co.uk: Jez Humble, Joanne Molesky, Barry O'Reilly: 9781449368425: Books
+-->
+
 ## Other Interesting
 
 Incident Response
@@ -1361,205 +1473,6 @@ Lynn Root's talks
 https://www.gremlin.com/blog/introducing-gremlin-free/ | Introducing Gremlin Free
 https://www.gremlin.com/chaos-monkey/ | What Is Chaos Monkey? A Complete Guide for Engineers, DevOps & SREs
 https://blog.gremlininc.com/the-discipline-of-chaos-engineering-e39d2383c459
--->
-
-## VS Code
-
-### Visual Studio Code
-
-* [Visual Studio Code](https://code.visualstudio.com) and [Visual Studio GitHub](https://github.com/Microsoft/vscode)
-* [Visual Studio Code Docs](https://code.visualstudio.com/docs)
-* [Visual Studio Code Languages](https://code.visualstudio.com/Docs/languages/overview)
-
-<!--
-https://marketplace.visualstudio.com/search?term=javascript&target=VSCode&category=All%20categories&sortBy=Relevance
-https://marketplace.visualstudio.com/search?term=python&target=VSCode&category=All%20categories&sortBy=Relevance
-
-https://gist.github.com/paltman/6d99cc0ffdb4cc28eb5226b52f7c8dd7 | My VSCode settings for Django + Vue development
-
-https://code.visualstudio.com/docs/editor/emmet | Emmet in Visual Studio Code
-
-node.js
-https://code.visualstudio.com/docs/nodejs/nodejs-tutorial
-
-C++
-https://code.visualstudio.com/docs/cpp/launch-json-reference
-
-tasks.json
-https://code.visualstudio.com/docs/editor/tasks
-settings
-https://code.visualstudio.com/docs/getstarted/settings
-
-https://code.visualstudio.com/docs/editor/versioncontrol | Version Control in Visual Studio Code
-
-https://github.com/microsoft/vscode
-https://github.com/Microsoft/vscode-python
-https://github.com/DonJayamanne/pythonVSCode | DonJayamanne/pythonVSCode: This extension is now maintained in the Microsoft fork.
-
-https://code.visualstudio.com/docs/languages/python#_other-popular-python-extensions | Python in Visual Studio Code
-
-Installed
-https://github.com/Microsoft/vscode-pull-request-github | Microsoft/vscode-pull-request-github: VS Code Pull Request Provider for GitHub
-
-https://code.visualstudio.com/docs/editor/codebasics#_save-auto-save | Basic Editing in Visual Studio Code
-
-https://marketplace.visualstudio.com/vscode
-
-https://code.visualstudio.com/docs/python/environments
-https://code.visualstudio.com/docs/python/tutorial-django
-https://code.visualstudio.com/docs/python/python-tutorial | Get Started Tutorial for Python in Visual Studio Code
-https://code.visualstudio.com/docs/languages/python
-https://code.visualstudio.com/docs/python/python-tutorial#_prerequisites
-https://code.visualstudio.com/docs/python/editing#_autocomplete-and-intellisense
-https://code.visualstudio.com/docs/python/editing#_formatting
-https://pypi.org/project/autopep8/
-https://github.com/psf/black
-https://code.visualstudio.com/docs/python/linting
-https://code.visualstudio.com/docs/python/linting#_specific-linters
-https://code.visualstudio.com/docs/python/debugging
-https://code.visualstudio.com/docs/python/python-tutorial#_configure-and-run-the-debugger
-https://code.visualstudio.com/docs/python/debugging#_debugging-specific-app-types
-https://code.visualstudio.com/docs/python/testing
-https://code.visualstudio.com/docs/python/testing#_enable-a-test-framework | Testing Python in Visual Studio Code
-https://docs.python.org/3/library/unittest.html
-https://docs.pytest.org/en/latest/
-https://code.visualstudio.com/docs/python/editing#_refactoring
-https://code.visualstudio.com/docs/python/data-science-tutorial | Python and Data Science Tutorial in Visual Studio Code
-
-https://github.com/github/VisualStudio/blob/master/docs/using/publishing-an-existing-project-to-github.md
--->
-
-### Visual Studio Code
-
-Python and Visual Studio Code
-* [Dan Taylor: "Get Productive with Python in Visual Studio Code" (EuroPython 2018)](https://ep2018.europython.eu/conference/talks/get-productive-with-python-in-visual-studio-code) and ["Get Productive with Python in Visual Studio Code" GitHub](https://github.com/qubitron/pydemo)
-
-<!--
-https://developers.google.com/web/updates/2017/04/headless-chrome
-https://github.com/auchenberg/vscode-browser-preview | auchenberg/vscode-browser-preview: A real browser preview inside your editor that you can debug.
-https://medium.com/@auchenberg/introducing-simultaneous-nirvana-javascript-debugging-for-node-js-and-chrome-in-vs-code-d898a4011ab1
-
-https://code.visualstudio.com/docs/editor/userdefinedsnippets | Creating your own snippets in Visual Studio Code
-
-https://www.kennethreitz.org/essays/why-you-should-use-vs-code-if-youre-a-python-developer
-https://github.com/viatsko/awesome-vscode | viatsko/awesome-vscode: A curated list of delightful VS Code packages and resources.
-
-VC Studio Code
-https://blogs.msdn.microsoft.com/visualstudio/2018/06/14/getting-started-with-microsofts-python-developer-tools/ | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/08/30/improving-your-productivity-in-the-visual-studio-editor/ | Improving your productivity in the Visual Studio Editor | The Visual Studio Blog
-https://blogs.msdn.microsoft.com/visualstudio/2018/07/24/visual-studio-intellicode-expands-ai-assisted-coding-to-python-in-visual-studio-code/
-
-https://blog.github.com/2019-01-07-create-pull-requests-in-vscode/ | VS Code: Now creating pull requests | The GitHub Blog
-https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests
-
-https://devblogs.microsoft.com/devops/introducing-the-new-pull-request-experience-for-azure-repos/
--->
-
-## Authority Figures and Books
-
-Authorities
-* [Martin Fowler](https://martinfowler.com) and [Martin Fowler Wikipedia](https://en.wikipedia.org/wiki/Martin_Fowler)
-* [ThoughtWorks](https://www.thoughtworks.com)
-
-Refactoring
-* [Refactoring](https://refactoring.com/)
-
-Authorities
-* [Kent Beck](https://www.kentbeck.com/) and [Kent Beck Wikipedia](https://en.wikipedia.org/wiki/Kent_Beck)
-* [Kent Beck, Cynthia Andres: Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658)
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com) and [Robert C. Martin Wikipedia](https://en.wikipedia.org/wiki/Robert_C._Martin)
-* [Steven C. McConnell](http://stevemcconnell.com) and [Steven C. McConnell Books](http://stevemcconnell.com/books/)
-* [Steven C. McConnell: Code Complete Wikipedia](https://en.wikipedia.org/wiki/Code_Complete)
-* [Andrew Hunt, David Thomas: The Programmatic Programmer](https://en.wikipedia.org/wiki/The_Pragmatic_Programmer)
-
-<!--
-https://www.amazon.com/Ultra-Large-Scale-Systems-Software-Challenge-Future/dp/0978695607 | Ultra-Large-Scale Systems The Software Challenge of the Future: Software Engineering Institute: 9780978695606: Amazon.com: Books
-https://twitter.com/Grady_Booch/status/1259927893775245313 | Grady Booch on Twitter: "See https://t.co/MHEF2rETkJ and https://t.co/kFyLQo2Fpa" / Twitter
-
-Grady
-https://www.computer.org/publications/tech-news/on-architecture | On Architecture Podcast | IEEE Computer Society
-
-https://martinfowler.com/articles/is-tdd-dead/ | Is TDD Dead?
-
-https://github.com/cosmicpython/book/blob/master/chapter_05_high_gear_low_gear.asciidoc | book/chapter_05_high_gear_low_gear.asciidoc at master · cosmicpython/book
-
-https://martinfowler.com/articles/refactoring-external-service.html | Refactoring code that accesses external services
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html | Singular Update Queue
-https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html | Single Socket Channel
-
-https://refactoring.guru/collapse-hierarchy
-
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530 | Test Driven Development: By Example: Kent Beck: 8601400403228: Amazon.com: Books
--->
-
-
-<!--
-https://blogs.msdn.microsoft.com/willy-peter_schaub/2009/10/22/getting-your-priorities-right-p0-p1-p2/ | Getting your priorities right … P0, P1, P2, … – Willy's Reflections
-
-https://twitter.com/GergelyOrosz/status/1213396636627587074 | Gergely Orosz on Twitter: "Five essential software engineering skills I didn’t learn during my 5 years of CS degree at university: 🔴(Unit) testing 🔄 Refactoring 🧐 Debugging techniques &amp; skills 👥 Code reviews 📊 Trade-offs and multiple approaches to solving the same problem" / Twitter
-
-https://www.quora.com/What-are-some-common-trade-offs-in-software-development | What are some common trade-offs in software development? - Quora
-
-http://www.cc2e.com
-https://web.archive.org/web/20170214164327/http://www.cc2e.com/Default.aspx
-
-Use
-http://aosabook.org/en/index.html
-https://github.com/aosabook/500lines
-
-https://martinfowler.com/articles/products-over-projects.html
-
-
-CI/CD
-https://www.thoughtworks.com/continuous-integration | Continuous integration | ThoughtWorks
-https://martinfowler.com/articles/continuousIntegration.html#PracticesOfContinuousIntegration | Continuous Integration
-https://www.martinfowler.com/articles/continuousIntegration.html | Continuous Integration
-https://martinfowler.com/books/continuousDelivery.html | Continuous Delivery
-https://martinfowler.com/bliki/DeploymentPipeline.html | DeploymentPipeline
-
-Feature Toggles
-https://en.wikipedia.org/wiki/Feature_toggle | Feature toggle - Wikipedia
-
-https://martinfowler.com/bliki/FeatureToggle.html | FeatureToggle
-https://martinfowler.com/articles/feature-toggles.html | Feature Toggles
-https://www.thoughtworks.com/insights/blog/managing-feature-toggles-teams | Managing feature toggles in teams | ThoughtWorks
-
-https://arialdomartini.wordpress.com/2011/11/02/help-me-because-i-think-martin-fowler-has-a-merge-paranoia/
-
-
-https://martinfowler.com/bliki/CanaryRelease.html | CanaryRelease
-https://martinfowler.com/bliki/BlueGreenDeployment.html | BlueGreenDeployment
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://martinfowler.com/bliki/FeatureBranch.html | FeatureBranch
-
-High-level structure
-https://martinfowler.com/testing/
-https://en.wikipedia.org/wiki/High-level_design
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://martinfowler.com/bliki/TestPyramid.html | TestPyramid
-https://martinfowler.com/bliki/UnitTest.html
-https://martinfowler.com/articles/nonDeterminism.html
-
-https://twitter.com/unclebobmartin/status/1010660993851117569 | Uncle Bob Martin on Twitter: "Programs are made up of Dijkstra’s three structures: Sequence, Selection, and Iteration. Each of these is based upon jumps. Sequential statements jump from the end of the first to be beginning of the second."
-https://twitter.com/_ericelliott/status/1067585128933851137 | Eric Elliott on Twitter: "In programmer lingo, algebras are abstractions made up of functions (operations) accompanied by specific laws enforced by unit tests those functions must pass (axioms/equations)."
-https://twitter.com/vbhvsgr/status/1122901493877805058 | Vaibhav Sagar on Twitter: "a compiler is a function that turns a sequence into a tree, turns that tree into a graph, and then turns that graph back into a sequence"
-
-http://wiki.c2.com/?AlanKaysDefinitionOfObjectOriented | Alan Kays Definition Of Object Oriented
-
-???
-http://wiki.c2.com/ | Welcome Visitors
-http://wiki.c2.com/?TechnologyAdoptionLifeCycle | Technology Adoption Life Cycle
-http://wiki.c2.com/?WhyItIsSoHardToSellExtremeProgramming | Why It Is So Hard To Sell Extreme Programming
-http://wiki.c2.com/?BusNumber | Bus Number
-
-https://martinfowler.com/bliki/C3.html | C3
-https://martinfowler.com/articles/lean-inception/write-product-vision.html | Write the Product Vision
-https://www.martinfowler.com/bliki/StranglerApplication.html | StranglerApplication
-https://martinfowler.com/articles/rise-test-impact-analysis.html | The Rise of Test Impact Analysis
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://martinfowler.com/bliki/OpportunisticRefactoring.html | OpportunisticRefactoring
 -->
 
 ## Books
