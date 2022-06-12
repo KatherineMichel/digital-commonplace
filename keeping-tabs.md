@@ -157,11 +157,33 @@ https://pytest-django.readthedocs.io/en/latest/configuring_django.html#configuri
 https://pytest-django.readthedocs.io/en/latest/faq.html#faq-tests-not-being-picked-up
 https://github.com/pytest-dev/pytest-xdist
 https://docs.djangoproject.com/en/3.0/topics/testing/tools/#the-test-client
+
+Test examples
 https://github.com/simonw/datasette/tree/main/tests
 https://github.com/simonw/sqlite-utils/tree/main/tests
 
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
+
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+https://testdriven.io/blog/python-project-workflow/ | Python Project Workflow | TestDriven.io
+
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://testdriven.io/guides/flask-deep-dive/ | Deep Dive Into Flask Guide| TestDriven.io
+
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+
+https://testdriven.io/blog/tdd-benefits/ | Improving Code Confidently with Test-Driven Development | TestDriven.io
+
+Testing
+https://testdriven.io/blog/testing-python/
+https://testdriven.io/blog/modern-tdd/
+https://realpython.com/pytest-python-testing/
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
 
 
 
@@ -546,6 +568,9 @@ https://git-scm.com/book/en/v2
 
 https://git-scm.com/docs/git#_git_commands | Git - git Documentation
 https://git-scm.com/docs/git-commit | Git - git-commit Documentation
+https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt | Git - git-commit Documentation
+https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---autosquash | Git - git-rebase Documentation
+
 https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
 
 reflog
@@ -592,21 +617,6 @@ http://www.awklang.org/ | awklang.org – Τhe site for things related to the aw
 https://grymoire.com/Unix/Awk.html
 https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
-
-
-http://www.w3schools.com/sql/default.asp
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-
-https://www.sqlite.org/index.html
-https://www.sqlite.org/docs.html
-https://www.postgresql.org/docs/current/sql.html
-https://www.postgresql.org/docs/current/app-psql.html
-
-https://www.sqlite.org/changes.html | Release History Of SQLite
-https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
-https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 -->
 
 
@@ -616,10 +626,61 @@ https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 -->
 
+
 <!--
+## Request versus Response
+
+https://docs.djangoproject.com/en/4.0/ref/request-response/ | Request and response objects | Django documentation | Django
+
+
+## URLs and Regex
+
+https://docs.djangoproject.com/en/4.0/topics/http/urls/ | URL dispatcher | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/topics/http/urls/#path-converters | URL dispatcher | Django documentation | Django
+
+Regex capture groups
+https://docs.python.org/3/howto/regex.html | Regular Expression HOWTO — Python 3.10.5 documentation
+
+
+## Templates, Tags, and Filters
+
+https://www.mattlayman.com/understand-django/templates-user-interfaces/
+
+https://docs.djangoproject.com/en/4.0/ref/templates/api/ | The Django template language: for Python programmers | Django documentation | Django
+https://docs.djangoproject.com/en/3.0/howto/custom-template-tags/ | Custom template tags and filters | Django documentation | Django
+https://docs.djangoproject.com/en/4.0/ref/templates/builtins/ | Built-in template tags and filters | Django documentation | Django
+
+
+## JSON
+
+https://www.json.org/json-en.html | JSON
+https://docs.python.org/3/library/json.html | json — JSON encoder and decoder — Python 3.10.5 documentation
+https://docs.djangoproject.com/en/4.0/topics/serialization/ | Serializing Django objects | Django documentation | Django
+
+
+## Databases
+
+http://www.w3schools.com/sql/default.asp
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://www.sqlite.org/docs.html
+
+https://www.postgresql.org/docs/current/sql.html
+https://www.postgresql.org/docs/current/app-psql.html
+
+PostgreSQL database adapter for Python
+https://www.psycopg.org/docs/ | Psycopg – PostgreSQL database adapter for Python — Psycopg 2.9.3 documentation
+
+https://www.sqlite.org/changes.html | Release History Of SQLite
+https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
+https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
+
+
 ## Modelling
 
 https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
+
 
 ## Django Database
 
@@ -634,22 +695,36 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups-1
 https://docs.djangoproject.com/en/4.0/ref/models/expressions/
 https://docs.djangoproject.com/en/4.0/ref/models/lookups/
 
-select related and pre-fetch related
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#select-related
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-objects
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-objects
-
-pk
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
+Double underscores to span a relationship
+https://docs.djangoproject.com/en/4.0/topics/db/queries/#lookups-that-span-relationships
 
 Model Fields
 https://docs.djangoproject.com/en/4.0/ref/models/fields/
 
-One to One
+
+pk
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
+
+ForeignKey and ManyToManyField database explainer
+https://www.mattlayman.com/understand-django/store-data-with-models/
+
+ManyToManyField
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+
+ForeignKey (Many to One)
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+Many to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+
+OnetoOneField
 https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
 
-Related Manager (one to many, many to many, set, add, etc.)
+Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
+The “other side” of a ForeignKey relation.
+Both sides of a ManyToManyField relation.
 https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
+
 
 select_related (foreign key, related objects)
 https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related
@@ -657,26 +732,14 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.que
 prefetch_related (many-to-many)
 https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.prefetch_related
 
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
-
-Many to One
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
-Foreign Key
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+select related and pre-fetch related
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#select-related
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-objects
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-objects
 -->
 
+
 <!--
-Important!
-https://testdriven.io/blog/testing-python/
-https://testdriven.io/blog/modern-tdd/
-https://realpython.com/pytest-python-testing/
-https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
-https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
-https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
-https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
-
-
 Django/pytest
 https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
 
@@ -816,6 +879,9 @@ assertRegexpMatches	r.search(s)
 assertNotRegexpMatches	not r.search(s)
 
 assertMultiLineEqual	strings
+
+
+https://docs.djangoproject.com/en/4.0/ref/models/instances/#django.db.models.Model.refresh_from_db | Model instance reference | Django documentation | Django
 
 
 Important summary
