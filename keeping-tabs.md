@@ -558,8 +558,6 @@ https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A 
 <!--
 https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
 
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-
 https://git-scm.com/ | Git
 https://git-scm.com/docs
 
@@ -569,7 +567,25 @@ https://git-scm.com/book/en/v2
 https://git-scm.com/docs/git#_git_commands | Git - git Documentation
 https://git-scm.com/docs/git-commit | Git - git-commit Documentation
 https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt | Git - git-commit Documentation
+
+https://git-scm.com/docs/git-rebase
 https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---autosquash | Git - git-rebase Documentation
+
+https://git-scm.com/docs/git-log
+https://git-scm.com/docs/git-log#Documentation/git-log.txt---oneline
+
+https://git-scm.com/docs/git-show
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://git-scm.com/docs/git-diff
+https://git-scm.com/docs/git-blame
+
+https://git-scm.com/docs/git#_reset_restore_and_revert
+
+https://git-scm.com/docs/git-prune
+
+https://git-scm.com/docs/git-grep
+
+https://git-scm.com/docs/git-bisect
 
 https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
 
