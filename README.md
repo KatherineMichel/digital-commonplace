@@ -391,6 +391,20 @@ https://www.lukew.com/ff/entry.asp?1950 | LukeW | Dropdowns Should be the UI of 
 
 
 <!--
+## Web Architecture, How Browsers work
+
+Preethi Kasireddy: How The Web Works
+* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
+* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
+* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
+
+Explainers
+* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
+* [What Happens When GitHub](https://github.com/alex/what-happens-when)
+* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
+
+
 What happens when
 
 Web browser
@@ -402,7 +416,6 @@ https://github.com/mraible/history-of-web-frameworks-timeline/ | mraible/history
 https://engineering.videoblocks.com/web-architecture-101-a3224e126947?ref=abhimanyu | Web Architecture 101 – VideoBlocks Product & Engineering
 
 https://danluu.com/navigate-url/
-https://github.com/alex/what-happens-when | alex/what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"
 https://twitter.com/kamranahmedse/status/1297131414190776320 | Kamran Ahmed on Twitter: "What happens when you type in a URL in an Address bar in a browser h/t @manekinekko https://t.co/YnfbcGbIQs" / Twitter
 https://github.com/vasanthk/how-web-works | vasanthk/how-web-works: What happens behind the scenes when we type www.google.com in a browser?
 https://twitter.com/jonathansampson/status/1165493206441779200 | Sampson on Twitter: "What happens when you launch Google Chrome for the first time on a Windows 10 machine? When I launched Google Chrome for the first time (and let it sit for a minute), 32 requests were made, and 7.26 MB of data downloaded. https://t.co/UpmrQBUceK" / Twitter
