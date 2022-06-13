@@ -410,19 +410,6 @@ https://medium.com/the-node-js-collection
 https://blog.risingstack.com
 -->
 
-## Web Architecture, How Browsers work
-
-Preethi Kasireddy: How The Web Works
-* ["How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)"](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c#.qr1ahfm3t)
-* ["How the Web Works Part II: Client-Server Model & the Structure of a Web Application"](https://medium.freecodecamp.com/how-the-web-works-part-ii-client-server-model-the-structure-of-a-web-application-735b4b6d76e3#.o3pxzmo8e)
-* ["How the Web Works Part III: HTTP & REST"](https://medium.freecodecamp.com/how-the-web-works-part-iii-http-rest-e61bc50fa0a#.86uihrcmp)
-
-Explainers
-* [Bill Gates: How Computers Work](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-* [What Happens When GitHub](https://github.com/alex/what-happens-when)
-* [Google: Inside Look at Modern Web Browser](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
-* [Mozilla: Getting Started with the Web, How the Web Works](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
-
 ## Web and JavaScript Engines, Google Chrome
 
 * Mozilla Firefox- Spidermonkey
@@ -646,19 +633,6 @@ https://twitter.com/webology/status/1264988165837926401 | Jeff says, "wear a mas
 
 https://twitter.com/rauchg/status/1262414700794376192 | Guillermo Rauch on Twitter: "🤯 new.css is brilliant Go this example https://t.co/4HpNl68cEb and click 'view source' https://t.co/TF9FTaFVCP" / Twitter
 -->
-
-## Python and Django
-
-<!--
-https://stackoverflow.com/questions/17192737/django-class-based-view-for-both-create-and-update/48116803?stw=2#48116803 | Django Class Based View for both Create and Update - Stack Overflow
-
-https://twitter.com/laceynwilliams/status/1232477567141044226 | Lacey Williams Henschel on Twitter: "@webology @shawninman DRF ViewSets are what made CBVs finally make sense to me. I need to think about what clicked in my brain and write that down..." / Twitter
-
-Model Managers
-https://twitter.com/laceynwilliams/status/1075089685704105984 | 🎄 Lacey Winter Holidays ❄️ on Twitter: "Don't feel ashamed! It's awesome that you can look at your older projects with fresh eyes and identify things you've learned since then.… https://t.co/9iLI8Vsno0"
--->
-
-## Django Rest Framework
 
 ## Popular JavaScript Frameworks
 
