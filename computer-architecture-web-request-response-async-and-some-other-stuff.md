@@ -666,6 +666,7 @@ Scripting, Client-Side and Server-Side
 https://en.wikipedia.org/wiki/User_agent
 -->
 
+
 ## Request and Response Cycle, HTTP
 
 Request and Response Cycle- HTTP
@@ -690,7 +691,7 @@ https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
 https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
 
 
-https://en.wikipedia.org/wiki/HTTP_message_body
+https://en.wikipedia.org/wiki/HTTP_message_bodyHH
 
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
 https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
@@ -780,6 +781,7 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduct
 
 https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 -->
+
 
 ## HTTP Sessions and Cookies
 
@@ -887,6 +889,7 @@ https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language�
 JSON and YAML
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
 -->
+
 
 ## Used Less Often
 
