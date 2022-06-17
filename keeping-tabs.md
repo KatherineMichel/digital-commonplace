@@ -187,20 +187,6 @@ https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python –
 
 
 
-APIs
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-
-
-https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
-
-
-Network communication protocols
-https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
-
-
-
 Boost Your Django DX
 https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
 
@@ -261,6 +247,10 @@ Jez Humble
 Accelerate
 
 
+APIs
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+
 Software construction tools
 UML, TLA+
 
@@ -293,16 +283,22 @@ https://github.com/ittus/Refactoring-summary-2nd-javascript
 * [Refactoring](https://refactoring.com/)
 
 https://refactoring.com/catalog/
+
+Guru
 https://refactoring.guru/design-patterns/ | Design Patterns
 
 https://www.martinfowler.com/ | martinfowler.com
 https://martinfowler.com/eaaCatalog/
+
+
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
 
+
+https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
 
 ## Domain Driven Design and Event Sourcing
 
@@ -364,6 +360,10 @@ https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engin
 
 What Happens When
 
+Network communication protocols
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
+
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://en.wikipedia.org/wiki/OSI_model
 
@@ -375,6 +375,7 @@ https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-k
 
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
 
 ## Books
 
