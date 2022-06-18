@@ -22,6 +22,14 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 
 
+Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | 
+
+SQL
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
+
+
 https://egghead.io/
 O'Reilly Media
 
