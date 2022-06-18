@@ -1454,12 +1454,13 @@ https://developer.github.com/apps/building-github-apps/ | Building GitHub Apps |
 https://developer.github.com/apps/building-github-apps/creating-github-apps-from-a-manifest/ | Creating GitHub Apps from a manifest | GitHub Developer Guide
 https://developer.github.com/apps/building-github-apps/authenticating-with-github-apps/#authenticating-as-a-github-app
 
-Using the GitHub AP in Your App
+Using the GitHub API in Your App
 https://developer.github.com/apps/quickstart-guides/
 https://developer.github.com/apps/quickstart-guides/using-the-github-api-in-your-app/
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-1-start-a-new-smee-channel
 https://developer.github.com/apps/quickstart-guides/setting-up-your-development-environment/#step-2-register-a-new-github-app
 -->
+
 
 
 <!--
