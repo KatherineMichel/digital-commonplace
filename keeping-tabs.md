@@ -109,7 +109,14 @@ http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
 https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
-
+* Think big
+* Communicate
+* Simplify
+* Prioritize
+* Forecast and measure
+* Execute
+* Understand good design
+* Write effective copy
 
 Farming versus mining
 Iteration
@@ -185,6 +192,9 @@ https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | T
 https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
 https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
 
+## Documenting
+
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 
 
 Boost Your Django DX
@@ -322,6 +332,8 @@ https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many exa
 Useful Websites
 * [High Scalability](http://highscalability.com/)
 * [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
 
 High Scalability
 http://highscalability.com/start-here/
@@ -554,6 +566,7 @@ https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-py
 https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
 -->
 
+
 ## Git
 
 <!--
@@ -634,13 +647,6 @@ http://www.awklang.org/ | awklang.org – Τhe site for things related to the aw
 https://grymoire.com/Unix/Awk.html
 https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
--->
-
-
-<!--
-## Documenting
-
-https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
 -->
 
 
