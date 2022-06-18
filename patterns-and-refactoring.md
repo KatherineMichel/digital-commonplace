@@ -3,21 +3,6 @@
 <!--
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
-
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
--->
-
-<!--
-Functional programming
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 -->
 
 <!--
@@ -39,6 +24,14 @@ https://github.com/amontalenti/elements-of-python-style | amontalenti/elements-o
 -->
 
 <!--
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+
+
 https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
 
 ## JavaScript
@@ -58,18 +51,9 @@ https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern 
   
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
-https://refactoring.guru/design-patterns/ | Design Patterns
 -->
 
 
-## Programming Languages
-
-Programming Languages
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 ## Software Design Patterns
 
@@ -97,7 +81,6 @@ Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 Design Patterns- General
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
 * [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
 
@@ -106,6 +89,29 @@ Software Design Patterns catalog
 
 https://en.wikipedia.org/wiki/Architectural_pattern
 https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+-->
+
+
+## GRASP and Clean Architecture (Follows SOLID Principles)
+
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Open-Closed Principle Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+* [Interface Segregation Principle Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+<!--
+Pattern
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Separation_of_concerns
+https://en.wikipedia.org/wiki/Inversion_of_control
+
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+Clean Architectures in Python - Leonardo Giordani - PyLondinium19
+https://www.youtube.com/watch?v=wtCQalq7L-E
 -->
 
 
@@ -156,16 +162,12 @@ https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architectu
 -->
 
 
-## Patterns
-
-Martin Fowler, Refactoring, Patterns, ThoughtWorks
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+## Code Complete and Clean Code
 
 Checklists and Cheat Sheets
 * [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
 * [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
 
 <!--
 https://github.com/ittus/Refactoring-summary-2nd-javascript
@@ -226,34 +228,56 @@ https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Desi
 
 
 
-## Enterprise Application Architecture
 
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+## General Software Design Patterns
 
-<!--
-Domain Logic Patterns: Transaction Script (110), Domain Model (116), Table Module (125), Service Layer (133).
+Types of Patterns
+* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
 
-Data Source Architectural Patterns: Table Data Gateway (144), Row Data Gateway (152), Active Record (160), Data Mapper (165).
+Creational Patterns (object creation)
+* [Singleton Pattern Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
+* [Factory Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Factory_method_pattern)
 
-Object-Relational Behavioral Patterns: Unit of Work (184), Identity Map (195), Lazy Load (200)
+Creational Patterns- Can use Singleton in Implementation
+* [Abstract Factory Pattern Wikipedia](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [Builder Pattern Wikipedia](https://en.wikipedia.org/wiki/Builder_pattern)
+* [Prototype Pattern Wikipedia](https://en.wikipedia.org/wiki/Prototype_pattern)
 
-Object-Relational Structural Patterns: Identity Field (216), Foreign Key Mapping (236), Association Table Mapping (248), Dependent Mapping (262), Embedded Value (268), Serialized LOB (272), Single Table Inheritance (278), Class Table Inheritance (285), Concrete Table Inheritance (293), Inheritance Mappers (302).
+Structural Patterns (relationships among entities)
+* [Adapter Pattern Wikipedia](https://en.wikipedia.org/wiki/Adapter_pattern)
+* [Bridge Pattern Wikipedia](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Composite Pattern Wikipedia](https://en.wikipedia.org/wiki/Composite_pattern)
+* [Facade Pattern Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Flyweight Pattern Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)
+* [Proxy Pattern Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)
 
-Object-Relational Metadata Mapping Patterns: Metadata Mapping (306), Query Object (316), Repository (322).
+Structural Patterns (relationships among entities)- Familiar
+* [Decorator Pattern (similar to Chain of Responsibility Pattern; implements Single Responsibility Principal) Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
 
-Web Presentation Patterns: Model View Controller (330), Page Controller (333), Front Controller (344), Template View (350), Transform View (361), Two-Step View (365), Application Controller (379).
+Behavioral Patterns
+* [Command Pattern Wikipedia](https://en.wikipedia.org/wiki/Command_pattern)
+* [Interpreter Pattern Wikipedia](https://en.wikipedia.org/wiki/Interpreter_pattern)
+* [Mediator Pattern Wikipedia](https://en.wikipedia.org/wiki/Mediator_pattern)
+* [Memento Pattern Wikipedia](https://en.wikipedia.org/wiki/Memento_pattern)
+* [Strategy Pattern Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Template Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
+* [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern)
 
-Distribution Patterns: Remote Facade (388), Data Transfer Object (401)
+Behavioral Patterns- Familiar
+* [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
+* [State Pattern Wikipedia](https://en.wikipedia.org/wiki/State_pattern)
+* [Chain-of-Responsibility Pattern (handler, similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 
-Offline Concurrency Patterns: Optimistic Offline Lock (416), Pessimistic Offline Lock (426), Coarse Grained Lock (438), Implicit Lock (449).
+Behavioral Patterns- Built into Python
+* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
 
-Session State Patterns: Client Session State (456), Server Session State (458), Database Session State (462).
-
-Base Patterns: Gateway (466), Mapper (473), Layer Supertype (475), Separated Interface (476), Registry (480), Value Object (486), Money (488), Special Case (496), Plugin (499), Service Stub (504), Record Set (508)
--->
 
 ## Refactoring
 
+Martin Fowler, Refactoring, Patterns, ThoughtWorks
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
 * [Refactoring Catalog](https://refactoring.com/catalog/)
 
 <!--
@@ -422,71 +446,39 @@ Split Variable
 Substitute Algorithm
 -->
 
-## General Software Design Patterns
+## Enterprise Application Architecture
 
-Types of Patterns
-* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
-
-Creational Patterns (object creation)
-* [Singleton Pattern Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
-* [Factory Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Factory_method_pattern)
-
-Creational Patterns- Can use Singleton in Implementation
-* [Abstract Factory Pattern Wikipedia](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder Pattern Wikipedia](https://en.wikipedia.org/wiki/Builder_pattern)
-* [Prototype Pattern Wikipedia](https://en.wikipedia.org/wiki/Prototype_pattern)
-
-Structural Patterns (relationships among entities)
-* [Adapter Pattern Wikipedia](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge Pattern Wikipedia](https://en.wikipedia.org/wiki/Bridge_pattern)
-* [Composite Pattern Wikipedia](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Facade Pattern Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
-* [Flyweight Pattern Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)
-* [Proxy Pattern Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)
-
-Structural Patterns (relationships among entities)- Familiar
-* [Decorator Pattern (similar to Chain of Responsibility Pattern; implements Single Responsibility Principal) Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
-
-Behavioral Patterns
-* [Command Pattern Wikipedia](https://en.wikipedia.org/wiki/Command_pattern)
-* [Interpreter Pattern Wikipedia](https://en.wikipedia.org/wiki/Interpreter_pattern)
-* [Mediator Pattern Wikipedia](https://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento Pattern Wikipedia](https://en.wikipedia.org/wiki/Memento_pattern)
-* [Strategy Pattern Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Template Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern)
-
-Behavioral Patterns- Familiar
-* [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
-* [State Pattern Wikipedia](https://en.wikipedia.org/wiki/State_pattern)
-* [Chain-of-Responsibility Pattern (handler, similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-
-Behavioral Patterns- Built into Python
-* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
-
-## GRASP and Clean Architecture (Follows SOLID Principles)
-
-Software Principles (SOLID)
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Open-Closed Principle Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
-* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-* [Interface Segregation Principle Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 <!--
-Pattern
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Separation_of_concerns
-https://en.wikipedia.org/wiki/Inversion_of_control
+Domain Logic Patterns: Transaction Script (110), Domain Model (116), Table Module (125), Service Layer (133).
 
-https://en.wikipedia.org/wiki/Interface_(computing)
+Data Source Architectural Patterns: Table Data Gateway (144), Row Data Gateway (152), Active Record (160), Data Mapper (165).
 
-Clean Architectures in Python - Leonardo Giordani - PyLondinium19
-https://www.youtube.com/watch?v=wtCQalq7L-E
+Object-Relational Behavioral Patterns: Unit of Work (184), Identity Map (195), Lazy Load (200)
+
+Object-Relational Structural Patterns: Identity Field (216), Foreign Key Mapping (236), Association Table Mapping (248), Dependent Mapping (262), Embedded Value (268), Serialized LOB (272), Single Table Inheritance (278), Class Table Inheritance (285), Concrete Table Inheritance (293), Inheritance Mappers (302).
+
+Object-Relational Metadata Mapping Patterns: Metadata Mapping (306), Query Object (316), Repository (322).
+
+Web Presentation Patterns: Model View Controller (330), Page Controller (333), Front Controller (344), Template View (350), Transform View (361), Two-Step View (365), Application Controller (379).
+
+Distribution Patterns: Remote Facade (388), Data Transfer Object (401)
+
+Offline Concurrency Patterns: Optimistic Offline Lock (416), Pessimistic Offline Lock (426), Coarse Grained Lock (438), Implicit Lock (449).
+
+Session State Patterns: Client Session State (456), Server Session State (458), Database Session State (462).
+
+Base Patterns: Gateway (466), Mapper (473), Layer Supertype (475), Separated Interface (476), Registry (480), Value Object (486), Money (488), Special Case (496), Plugin (499), Service Stub (504), Record Set (508)
 -->
+
+## Programming Languages
+
+Programming Languages
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 
 ## Programming Paradigms
 
@@ -516,6 +508,9 @@ MVCs
 * [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 <!--
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+
 taxonomy of programming paradigms
 https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
 
@@ -529,25 +524,6 @@ data types are the two most popular, but there exist two others, declarative obj
 stateful abstract data types.
 -->
 
-## Programming Concepts and Tools
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-<!--
-https://famicol.in/language_checklist.html | Programming Language Checklist
-https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
-
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-http://users.ece.utexas.edu/~adnan/pike.html
--->
-
 ## Useful Terminology
 
 Object
@@ -555,6 +531,9 @@ Object
 
 Python
 * [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
+
+Composition
+* [Functional Composition Wikipedia](https://en.wikipedia.org/wiki/Function_composition_(computer_science))
 
 Object Oriented Software Characteristics
 * [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
@@ -568,5 +547,33 @@ State
 * [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
 * [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
 
-Functional Programming
+## Functional Programming
+
 * [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
+<!--
+Functional programming
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+## Programming Concepts and Tools
+
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
+
+<!--
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+http://users.ece.utexas.edu/~adnan/pike.html
+-->
