@@ -688,6 +688,165 @@ https://www.grymoire.com/Unix/Sed.html
 -->
 
 
+## HTTP and HTTP Versions
+
+HTTP and HTTPS
+* [Hypertext Wikipedia](https://en.wikipedia.org/wiki/Hypertext)
+* [Hypertext Transfer Protocol (HTTP) Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
+* [Hypertext Transfer Protocol Secure (HTTPS) Wikipedia](https://en.wikipedia.org/wiki/HTTPS)
+
+* [HTTP/3 Wikipedia](https://en.wikipedia.org/wiki/HTTP/3)
+* [HTTP/2 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2)
+* [HTTP/2- Differences from HTTP/1.1 Wikipedia](https://en.wikipedia.org/wiki/HTTP/2#Differences_from_HTTP_1.1)
+
+## Request and Response Cycle, HTTP
+
+Request and Response Cycle
+* [Request Response Wikipedia](https://en.wikipedia.org/wiki/Request%E2%80%93response)
+
+Request and Response Cycle- HTTP
+* [HTTP Body Data Response Example Wikipedia](http://en.wikipedia.org/wiki/HTTP_body_data#Response_example)
+
+Methods
+* [List of HTTP Request Methods Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods) 
+* [Post (HTTP) Wikipedia](https://en.wikipedia.org/wiki/POST_(HTTP)) 
+
+More
+* [List of HTTP Header Fields Wikipedia](http://en.wikipedia.org/wiki/List_of_HTTP_header_fields) 
+* [List of HTTP Status Codes Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
+* [HTTP Referer Wikipedia](https://en.wikipedia.org/wiki/HTTP_referer)
+
+<!--
+https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol#Request_methods
+
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Common_non-standard_request_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Response_fields
+https://en.wikipedia.org/wiki/List_of_HTTP_header_fields#Standard_response_fields
+
+
+https://en.wikipedia.org/wiki/HTTP_message_bodyHH
+
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier#Generic_syntax
+https://en.wikipedia.org/wiki/Uniform_Resource_Identifier | Uniform Resource Identifier - Wikipedia
+https://en.wikipedia.org/wiki/UTM_parameters | UTM parameters - Wikipedia
+https://en.wikipedia.org/wiki/Query_string | Query string - Wikipedia
+https://en.wikipedia.org/wiki/Content_sniffing | Content sniffing - Wikipedia
+
+https://en.wikipedia.org/wiki/Server_log
+-->
+## Mozilla- HTTP, Request and Response Cycle
+
+Mozilla- HTTP- General
+* [Mozilla An Overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
+* [Mozilla Evolution of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Evolution_of_HTTP)
+* [Mozilla HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP)
+
+## Request/Response Cycle
+
+HTTP Request
+* The method
+* The path
+* The version
+* The headers
+* The body
+
+HTTP Response
+* The version
+* The status code
+* The status message
+* The headers
+* The body
+
+## Mozilla- HTTP, Request and Response Cycle
+
+Messages!
+* [Mozilla HTTP Messages](https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages)
+
+Mozilla- HTTP- Specifics
+* [Mozilla HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers)
+
+<!--
+* [Mozilla MIME Types](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_Types)
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types/Common_types
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Type
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Content-Length
+
+Important
+HTTP Headers
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers
+https://developer.mozilla.org/en-US/docs/Glossary/General_header
+https://developer.mozilla.org/en-US/docs/Glossary/Request_header
+https://developer.mozilla.org/en-US/docs/Glossary/Response_header
+-->
+
+Request
+* [Mozilla HTTP Methods](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
+* [Mozilla HTTP Request](https://developer.mozilla.org/en-US/docs/Web/API/Request)
+
+<!--
+Comparison chart
+https://www.w3schools.com/tags/ref_httpmethods.asp
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST
+-->
+
+Response
+* [Mozilla HTTP Request](https://developer.mozilla.org/en-US/docs/Web/API/Response)
+* [Mozilla HTTP Response Status Codes](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+* [Mozilla Identifying resources on the Web](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/Identifying_resources_on_the_Web)
+
+Other Stuff
+* [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
+     
+<!--
+https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
+
+https://www.udacity.com/course/http-web-servers--ud303
+https://github.com/udacity/course-ud303
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+-->
+
+
+## HTTP Sessions and Cookies
+
+Mozilla HTTP Sessions
+* [Mozilla HTTP Sessions](https://developer.mozilla.org/en-US/docs/Web/HTTP/Session)
+
+Sessions
+* [Web Browsing History Wikipedia](https://en.wikipedia.org/wiki/Web_browsing_history)
+* [Session Wikipedia](https://en.wikipedia.org/wiki/Session_(computer_science))
+* [Session ID Wikipedia](https://en.wikipedia.org/wiki/Session_ID)
+
+Cookies
+* [HTTP Cookie Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie)  
+* [Browser Cookie Wikipedia](http://en.wikipedia.org/wiki/Browser_cookie) 
+* [jQuery Cookie GitHub](https://github.com/carhartl/jquery-cookie)  
+
+<!--
+https://en.wikipedia.org/wiki/HTTP_cookie#Http-only_cookie
+"Cookies were designed to be a reliable mechanism for websites to remember stateful information"
+Authentication cookie
+-->
+
+## Mozilla JavaScript- Forms
+
+<!--
+https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
+https://developer.mozilla.org/en-US/docs/Learn/Forms
+-->
+
+
 <!--
 ## Request versus Response
 
