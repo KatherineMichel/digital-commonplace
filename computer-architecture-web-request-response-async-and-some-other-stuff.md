@@ -422,19 +422,6 @@ https://www.fullstackpython.com/task-queues.html
 * [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
 
 <!--
-https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
-
-https://www.thepythoncode.com/article/using-github-api-in-python
-
-https://github.com/realpython/list-of-python-api-wrappers
-
-https://github.com/api-evangelist
-https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
-https://github.com/TonnyL/Awesome_APIs
-https://www.programmableweb.com/category/all/apis
--->
-
-<!--
 https://www.postman.com/ | Postman | The Collaboration Platform for API Development
 https://www.getpostman.com/ | Postman | API Development Environment
 
@@ -649,6 +636,20 @@ Scripting, Client-Side and Server-Side
 <!--
 https://en.wikipedia.org/wiki/User_agent
 -->
+
+<!--
+https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
+
+https://www.udacity.com/course/http-web-servers--ud303
+https://github.com/udacity/course-ud303
+
+https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
+
+https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
+-->
+
 
 ## APIs, Callbacks, Webhooks
 
