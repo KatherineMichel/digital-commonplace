@@ -804,19 +804,6 @@ Response
 Other Stuff
 * [Mozilla Redirections in HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Redirections)
      
-<!--
-https://en.wikipedia.org/wiki/Web_framework | Web framework - Wikipedia
-
-https://www.udacity.com/course/http-web-servers--ud303
-https://github.com/udacity/course-ud303
-
-https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Pages_sites_servers_and_search_engines | What is the difference between webpage, website, web server, and search engine? - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction | Introduction to the server side - Learn web development | MDN
-
-https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
--->
-
 
 ## HTTP Sessions and Cookies
 
@@ -924,6 +911,7 @@ https://docs.djangoproject.com/en/4.0/ref/models/fields/
 
 pk
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
+https://en.wikipedia.org/wiki/Primary_key
 
 ForeignKey and ManyToManyField database explainer
 https://www.mattlayman.com/understand-django/store-data-with-models/
