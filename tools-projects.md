@@ -1,11 +1,22 @@
 # Projects
 
 <!--
-API
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
 JSON APIs
 https://automatetheboringstuff.com/list-of-json-apis.html | List of JSON APIs
+
+
+https://towardsdatascience.com/all-the-things-you-can-do-with-github-api-and-python-f01790fca131 | All the Things You Can Do With GitHub API and Python
+
+https://www.thepythoncode.com/article/using-github-api-in-python
+
+https://github.com/realpython/list-of-python-api-wrappers
+
+https://github.com/api-evangelist
+https://github.com/n0shake/Public-APIs | abhishekbanthia/Public-APIs: 📚 A public list of APIs from round the web.
+https://github.com/TonnyL/Awesome_APIs
+https://www.programmableweb.com/category/all/apis
 -->
 
 ## 100 Something
