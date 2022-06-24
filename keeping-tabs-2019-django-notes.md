@@ -25,26 +25,6 @@ pk
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
 https://en.wikipedia.org/wiki/Primary_key
 
-ForeignKey and ManyToManyField database explainer
-https://www.mattlayman.com/understand-django/store-data-with-models/
-
-ManyToManyField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
-
-ForeignKey (Many to One)
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
-Many to One
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
-
-OnetoOneField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
-
-Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
-The “other side” of a ForeignKey relation.
-Both sides of a ManyToManyField relation.
-https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
-
 
 select_related (foreign key, related objects)
 https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related
@@ -64,10 +44,37 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-obj
 Classes in ```django.db.models```
 
 ```python
-ForeignKey (class in django.db.models), 1117 
-ManyToManyField (class in django.db.models), 1121 
 OneToOneField (class in django.db.models), 1124 
 ```
+
+<!--
+OnetoOneField
+https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
+-->
+
+```python
+ForeignKey (class in django.db.models), 1117 
+ManyToManyField (class in django.db.models), 1121 
+```
+
+<!--
+ForeignKey (Many to One)
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+Many to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+
+ManyToManyField
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+
+Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
+The “other side” of a ForeignKey relation.
+Both sides of a ManyToManyField relation.
+https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
+
+ForeignKey and ManyToManyField database explainer
+https://www.mattlayman.com/understand-django/store-data-with-models/
+-->
 
 Commonly used ```ForeignKey``` attributes
 
