@@ -833,7 +833,6 @@ https://developer.mozilla.org/en-US/docs/Web/API/Document/forms
 https://developer.mozilla.org/en-US/docs/Learn/Forms
 -->
 
-
 <!--
 ## Request versus Response
 
@@ -863,8 +862,9 @@ https://docs.djangoproject.com/en/4.0/ref/templates/builtins/ | Built-in templat
 https://www.json.org/json-en.html | JSON
 https://docs.python.org/3/library/json.html | json — JSON encoder and decoder — Python 3.10.5 documentation
 https://docs.djangoproject.com/en/4.0/topics/serialization/ | Serializing Django objects | Django documentation | Django
+-->
 
-
+<!--
 ## Databases
 
 http://www.w3schools.com/sql/default.asp
@@ -887,65 +887,7 @@ https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 ## Modelling
 
 https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
-
-
-## Django Database
-
-DB Relationships
-
-Queryset API Reference
-Queryset methods
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#queryset-api-1
-Queryset field lookups
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups-1
-https://docs.djangoproject.com/en/4.0/ref/models/expressions/
-https://docs.djangoproject.com/en/4.0/ref/models/lookups/
-
-Double underscores to span a relationship
-https://docs.djangoproject.com/en/4.0/topics/db/queries/#lookups-that-span-relationships
-
-Model Fields
-https://docs.djangoproject.com/en/4.0/ref/models/fields/
-
-
-pk
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
-https://en.wikipedia.org/wiki/Primary_key
-
-ForeignKey and ManyToManyField database explainer
-https://www.mattlayman.com/understand-django/store-data-with-models/
-
-ManyToManyField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
-
-ForeignKey (Many to One)
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
-Many to One
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
-
-OnetoOneField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
-
-Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
-The “other side” of a ForeignKey relation.
-Both sides of a ManyToManyField relation.
-https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
-
-
-select_related (foreign key, related objects)
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related
-
-prefetch_related (many-to-many)
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.prefetch_related
-
-select related and pre-fetch related
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#select-related
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-objects
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-objects
 -->
-
 
 <!--
 Django/pytest
