@@ -39,17 +39,7 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-obj
 -->
 
 
-## Helpful for Debugging
-
-Commonly used ```Model``` attributes
-
-```python
-pk (Model attribute), 1149 
-save() (Model method), 1149 
-delete() (Model method), 1152 
-```
-
-## Helper Functions
+## Help
 
 Enter the Python help utility
 
@@ -69,6 +59,8 @@ Exit the Python help utility
 >>> q
 ```
 
+## Check Objects
+
 Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
 
 ```dir()```
@@ -80,6 +72,18 @@ Return True if the object argument appears callable, False if not.
 With one argument, return the type of an object. 
 
 ```type()```
+
+
+
+## Helpful for Debugging
+
+Commonly used ```Model``` attributes
+
+```python
+pk (Model attribute), 1149 
+save() (Model method), 1149 
+delete() (Model method), 1152 
+```
 
 <!--
 6.3. The dir() Function
@@ -96,6 +100,7 @@ https://docs.python.org/3/library/stdtypes.html#object.__dict__
 
 https://docs.djangoproject.com/en/4.0/intro/tutorial02/
 -->
+
 
 
 ## Classes and Functions
