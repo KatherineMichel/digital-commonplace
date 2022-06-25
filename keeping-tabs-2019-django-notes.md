@@ -296,166 +296,6 @@ SET_NULL (in module django.db.models), 1119
 -->
 
 
-## Model Methods
-
-Commonly used ```Model``` attributes
-
-```python
-pk (Model attribute), 1149 
-save() (Model method), 1149 
-delete() (Model method), 1152 
-```
-
-
-```python
-clean() (Model method), 1147 
-get_absolute_url() (Model method), 1153 
-```
-
-```python
-_base_manager (Model attribute), 136 
-_default_manager (Model attribute), 136 
-objects (Model attribute), 1136 
-
- __eq__() (Model method), 1153 
-__hash__() (Model method), 1153 
-__str__() (Model method), 1152 
-clean_fields() (Model method), 1147 
-full_clean() (Model method), 1146 
-get_deferred_fields() (Model method), 1146 
-get_FOO_display() (Model method), 1154 
-get_next_by_FOO() (Model method), 1155 
-get_previous_by_FOO() (Model method), 1155 
-refresh_from_db() (Model method), 1145 
-validate_unique() (Model method), 1148 
-```
-
-## Model Options
-
-<!--
-https://docs.djangoproject.com/en/2.1/ref/models/options/
-
-Options (class in django.db.models.options), 1129 
--->
-
-Meta- Most commonly used
-
-```python
-get_latest_by (Options attribute), 1138 
-ordering (Options attribute), 1140 
-unique_together (Options attribute), 1142 
-verbose_name (Options attribute), 1143 
-verbose_name_plural (Options attribute), 1143 
-order_with_respect_to (Options attribute), 1139 
-```
-
-```python
-abstract (Options attribute), 1136 
-default_manager_name (Options attribute), 1137 
-default_permissions (Options attribute), 1141 
-default_related_name (Options attribute), 1137 
-app_label (Options attribute), 1136 
-base_manager_name (Options attribute), 1136 
-db_table (Options attribute), 1136 
-db_tablespace (Options attribute), 1137 
-index_together (Options attribute), 1142 
-indexes (Options attribute), 1141 
-label (Options attribute), 1143 
-label_lower (Options attribute), 1143 
-managed (Options attribute), 1138 
-permissions (Options attribute), 1140 
-proxy (Options attribute), 1141 
-required_db_features (Options attribute), 1141 
-required_db_vendor (Options attribute), 1141 
-select_on_save (Options attribute), 1141 
-
-get_field() (Options method), 1129 
-get_fields() (Options method), 1130 
-```
-
-## Model Field Attributes and Methods
-
-<!--
-Model field attributes
--->
-
-Commonly used
-
-```python
-auto_created (Field attribute), 1127 
-blank (Field attribute), 1102 
-choices (Field attribute), 1102 
-default (Field attribute), 1104 
-editable (Field attribute), 1105 
-help_text (Field attribute), 1049, 1105 
-label (Field attribute), 1047 
-null (Field attribute), 1102 
-related_model (Field attribute), 1128 
-required (Field attribute), 1046 
-unique (Field attribute), 1106 
-verbose_name (Field attribute), 1106 
-widget (Field attribute), 1049 
-```
-
-```python
-many_to_many (Field attribute), 1128 
-many_to_one (Field attribute), 1128 
-one_to_many (Field attribute), 1128 
-one_to_one (Field attribute), 1128 
-primary_key (Field attribute), 1105 
-```
-
-```python
-concrete (Field attribute), 1127 
-db_column (Field attribute), 1104 
-db_index (Field attribute), 1104 
-db_tablespace (Field attribute), 1104 
-description (Field attribute), 1125 
-disabled (Field attribute), 1051 
-error_messages (Field attribute), 1050, 1105 
-geom_type (Field attribute), 809 
-hidden (Field attribute), 1127 
-initial (Field attribute), 1048 
-is_relation (Field attribute), 1127 
-label_suffix (Field attribute), 1047 
-localize (Field attribute), 1050 
-model (Field attribute), 1127 
-name (Field attribute), 855 
-precision (Field attribute), 855 
-type (Field attribute), 855 
-type_name (Field attribute), 855 
-unique_for_date (Field attribute), 1106 
-unique_for_month (Field attribute), 1106 
-unique_for_year (Field attribute), 1106 
-validators (Field attribute), 1050, 1107 
-value (Field attribute), 855 
-width (Field attribute), 855 
-```
-
-```python
-as_datetime() (Field method), 856 
-as_double() (Field method), 856 
-as_int() (Field method), 856 
-as_string() (Field method), 856 
-clean() (Field method), 1046 
-db_type() (Field method), 1125 
-deconstruct() (Field method), 1127 
-formfield() (Field method), 1127 
-from_db_value() (Field method), 1126 
-get_bound_field() (Field method), 1043 
-get_db_prep_save() (Field method), 1126 
-get_db_prep_value() (Field method), 1126 
-get_internal_type() (Field method), 1125 
-get_prep_value() (Field method), 1126 
-has_changed() (Field method), 1051 
-pre_save() (Field method), 1126 
-rel_db_type() (Field method), 1125 
-to_python() (Field method), 1126 
-value_from_object() (Field method), 1126 
-value_to_string() (Field method), 1126 
-```
-
-
 <!--
 <Object>.objects.all()
 -->
@@ -696,6 +536,164 @@ regex field lookup type, 1202
 iregex field lookup type, 1202 (Case-Insensitive)
 ```
 
+
+## Model Methods
+
+Commonly used ```Model``` attributes
+
+```python
+pk (Model attribute), 1149 
+save() (Model method), 1149 
+delete() (Model method), 1152 
+```
+
+```python
+clean() (Model method), 1147 
+get_absolute_url() (Model method), 1153 
+```
+
+```python
+_base_manager (Model attribute), 136 
+_default_manager (Model attribute), 136 
+objects (Model attribute), 1136 
+
+ __eq__() (Model method), 1153 
+__hash__() (Model method), 1153 
+__str__() (Model method), 1152 
+clean_fields() (Model method), 1147 
+full_clean() (Model method), 1146 
+get_deferred_fields() (Model method), 1146 
+get_FOO_display() (Model method), 1154 
+get_next_by_FOO() (Model method), 1155 
+get_previous_by_FOO() (Model method), 1155 
+refresh_from_db() (Model method), 1145 
+validate_unique() (Model method), 1148 
+```
+
+## Model Options
+
+<!--
+https://docs.djangoproject.com/en/2.1/ref/models/options/
+
+Options (class in django.db.models.options), 1129 
+-->
+
+Meta- Most commonly used
+
+```python
+get_latest_by (Options attribute), 1138 
+ordering (Options attribute), 1140 
+unique_together (Options attribute), 1142 
+verbose_name (Options attribute), 1143 
+verbose_name_plural (Options attribute), 1143 
+order_with_respect_to (Options attribute), 1139 
+```
+
+```python
+abstract (Options attribute), 1136 
+default_manager_name (Options attribute), 1137 
+default_permissions (Options attribute), 1141 
+default_related_name (Options attribute), 1137 
+app_label (Options attribute), 1136 
+base_manager_name (Options attribute), 1136 
+db_table (Options attribute), 1136 
+db_tablespace (Options attribute), 1137 
+index_together (Options attribute), 1142 
+indexes (Options attribute), 1141 
+label (Options attribute), 1143 
+label_lower (Options attribute), 1143 
+managed (Options attribute), 1138 
+permissions (Options attribute), 1140 
+proxy (Options attribute), 1141 
+required_db_features (Options attribute), 1141 
+required_db_vendor (Options attribute), 1141 
+select_on_save (Options attribute), 1141 
+
+get_field() (Options method), 1129 
+get_fields() (Options method), 1130 
+```
+
+## Model Field Attributes and Methods
+
+<!--
+Model field attributes
+-->
+
+Commonly used
+
+```python
+auto_created (Field attribute), 1127 
+blank (Field attribute), 1102 
+choices (Field attribute), 1102 
+default (Field attribute), 1104 
+editable (Field attribute), 1105 
+help_text (Field attribute), 1049, 1105 
+label (Field attribute), 1047 
+null (Field attribute), 1102 
+related_model (Field attribute), 1128 
+required (Field attribute), 1046 
+unique (Field attribute), 1106 
+verbose_name (Field attribute), 1106 
+widget (Field attribute), 1049 
+```
+
+```python
+many_to_many (Field attribute), 1128 
+many_to_one (Field attribute), 1128 
+one_to_many (Field attribute), 1128 
+one_to_one (Field attribute), 1128 
+primary_key (Field attribute), 1105 
+```
+
+```python
+concrete (Field attribute), 1127 
+db_column (Field attribute), 1104 
+db_index (Field attribute), 1104 
+db_tablespace (Field attribute), 1104 
+description (Field attribute), 1125 
+disabled (Field attribute), 1051 
+error_messages (Field attribute), 1050, 1105 
+geom_type (Field attribute), 809 
+hidden (Field attribute), 1127 
+initial (Field attribute), 1048 
+is_relation (Field attribute), 1127 
+label_suffix (Field attribute), 1047 
+localize (Field attribute), 1050 
+model (Field attribute), 1127 
+name (Field attribute), 855 
+precision (Field attribute), 855 
+type (Field attribute), 855 
+type_name (Field attribute), 855 
+unique_for_date (Field attribute), 1106 
+unique_for_month (Field attribute), 1106 
+unique_for_year (Field attribute), 1106 
+validators (Field attribute), 1050, 1107 
+value (Field attribute), 855 
+width (Field attribute), 855 
+```
+
+```python
+as_datetime() (Field method), 856 
+as_double() (Field method), 856 
+as_int() (Field method), 856 
+as_string() (Field method), 856 
+clean() (Field method), 1046 
+db_type() (Field method), 1125 
+deconstruct() (Field method), 1127 
+formfield() (Field method), 1127 
+from_db_value() (Field method), 1126 
+get_bound_field() (Field method), 1043 
+get_db_prep_save() (Field method), 1126 
+get_db_prep_value() (Field method), 1126 
+get_internal_type() (Field method), 1125 
+get_prep_value() (Field method), 1126 
+has_changed() (Field method), 1051 
+pre_save() (Field method), 1126 
+rel_db_type() (Field method), 1125 
+to_python() (Field method), 1126 
+value_from_object() (Field method), 1126 
+value_to_string() (Field method), 1126 
+```
 
 ## Testing
 
