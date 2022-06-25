@@ -61,9 +61,13 @@ Exit the Python help utility
 
 ## Check Objects
 
-Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
+Without arguments, return the list of names in the current local scope.
 
 ```dir()```
+
+With an argument, attempt to return a list of valid attributes for that object.
+ 
+```dir(object)```
 
 Return True if the object argument appears callable, False if not. 
 
@@ -74,6 +78,16 @@ With one argument, return the type of an object.
 ```type()```
 
 <!--
+6.3. The dir() Function
+https://docs.python.org/3/tutorial/modules.html#the-dir-function
+https://docs.python.org/3/library/functions.html#dir
+
+https://docs.python.org/3/library/functions.html#type
+
+https://docs.python.org/3/reference/datamodel.html
+https://docs.python.org/3/library/stdtypes.html#special-attributes
+https://docs.python.org/3/library/stdtypes.html#object.__dict__
+
 The dir() function returns all properties and methods of the specified object, without the values.
 https://www.w3schools.com/python/ref_func_dir.asp#:~:text=The%20dir()%20function%20returns,are%20default%20for%20all%20object.
 -->
@@ -90,17 +104,7 @@ delete() (Model method), 1152
 ```
 
 <!--
-6.3. The dir() Function
-https://docs.python.org/3/tutorial/modules.html#the-dir-function
-https://docs.python.org/3/library/functions.html#dir
-
-https://docs.python.org/3/library/functions.html#type
-
 https://docs.djangoproject.com/en/4.0/topics/db/queries/
-
-https://docs.python.org/3/reference/datamodel.html
-https://docs.python.org/3/library/stdtypes.html#special-attributes
-https://docs.python.org/3/library/stdtypes.html#object.__dict__
 
 https://docs.djangoproject.com/en/4.0/intro/tutorial02/
 -->
