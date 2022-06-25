@@ -49,7 +49,27 @@ save() (Model method), 1149
 delete() (Model method), 1152 
 ```
 
+## dir() and builtins
+
+Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
+
+```dir()```
+
+Return True if the object argument appears callable, False if not. 
+
+```callable()```
+
+With one argument, return the type of an object. 
+
+```type()```
+
 <!--
+6.3. The dir() Function
+https://docs.python.org/3/tutorial/modules.html#the-dir-function
+https://docs.python.org/3/library/functions.html#dir
+
+https://docs.python.org/3/library/functions.html#type
+
 https://docs.djangoproject.com/en/4.0/topics/db/queries/
 
 https://docs.python.org/3/reference/datamodel.html
@@ -616,6 +636,45 @@ iregex field lookup type, 1202 (Case-Insensitive)
 
 ## Testing
 
+### SimpleTestCase
+
+allow_database_queries (SimpleTestCase attribute), 341 
+client (SimpleTestCase attribute), 344 
+client_class (SimpleTestCase attribute), 345 
+
+assert
+assertContains() (SimpleTestCase method), 351 
+assertFieldOutput() (SimpleTestCase method), 350 
+assertFormError() (SimpleTestCase method), 351 
+assertFormsetError() (SimpleTestCase method), 351 
+assertHTMLEqual() (SimpleTestCase method), 352 
+assertHTMLNotEqual() (SimpleTestCase method), 353 
+assertInHTML() (SimpleTestCase method), 353 
+assertJSONEqual() (SimpleTestCase method), 353 
+assertJSONNotEqual() (SimpleTestCase method), 353 
+assertNotContains() (SimpleTestCase method), 351 
+assertRaisesMessage() (SimpleTestCase method), 350 
+assertRedirects() (SimpleTestCase method), 352 
+assertTemplateNotUsed() (SimpleTestCase method), 352 
+assertTemplateUsed() (SimpleTestCase method), 351 
+assertWarnsMessage() (SimpleTestCase method), 350 
+assertXMLEqual() (SimpleTestCase method), 353 
+assertXMLNotEqual() (SimpleTestCase method), 353 
+
+modify_settings() (SimpleTestCase method), 347 
+settings() (SimpleTestCase method), 347 
+
+### TransactionTestCase
+
+available_apps (TransactionTestCase attribute), 360 
+fixtures (TransactionTestCase attribute), 345 
+multi_db (TransactionTestCase attribute), 346 
+
+assert
+assertNumQueries() (TransactionTestCase method), 354 
+assertQuerysetEqual() (TransactionTestCase method), 353 
+```
+
 <!--
 NON_FIELD_ERRORS (in module django.core.exceptions), 1017 
 
@@ -734,44 +793,6 @@ setup_test_environment() (DiscoverRunner method), 364
 teardown_databases() (DiscoverRunner method), 365 
 teardown_test_environment() (DiscoverRunner method), 365 
 
-### SimpleTestCase
-
-allow_database_queries (SimpleTestCase attribute), 341 
-client (SimpleTestCase attribute), 344 
-client_class (SimpleTestCase attribute), 345 
-
-assert
-assertContains() (SimpleTestCase method), 351 
-assertFieldOutput() (SimpleTestCase method), 350 
-assertFormError() (SimpleTestCase method), 351 
-assertFormsetError() (SimpleTestCase method), 351 
-assertHTMLEqual() (SimpleTestCase method), 352 
-assertHTMLNotEqual() (SimpleTestCase method), 353 
-assertInHTML() (SimpleTestCase method), 353 
-assertJSONEqual() (SimpleTestCase method), 353 
-assertJSONNotEqual() (SimpleTestCase method), 353 
-assertNotContains() (SimpleTestCase method), 351 
-assertRaisesMessage() (SimpleTestCase method), 350 
-assertRedirects() (SimpleTestCase method), 352 
-assertTemplateNotUsed() (SimpleTestCase method), 352 
-assertTemplateUsed() (SimpleTestCase method), 351 
-assertWarnsMessage() (SimpleTestCase method), 350 
-assertXMLEqual() (SimpleTestCase method), 353 
-assertXMLNotEqual() (SimpleTestCase method), 353 
-
-modify_settings() (SimpleTestCase method), 347 
-settings() (SimpleTestCase method), 347 
-
-### TransactionTestCase
-
-available_apps (TransactionTestCase attribute), 360 
-fixtures (TransactionTestCase attribute), 345 
-multi_db (TransactionTestCase attribute), 346 
-
-assert
-assertNumQueries() (TransactionTestCase method), 354 
-assertQuerysetEqual() (TransactionTestCase method), 353 
-```
 
 ## Template Tags
 
