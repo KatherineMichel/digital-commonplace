@@ -73,6 +73,10 @@ With one argument, return the type of an object.
 
 ```type()```
 
+<!--
+The dir() function returns all properties and methods of the specified object, without the values.
+https://www.w3schools.com/python/ref_func_dir.asp#:~:text=The%20dir()%20function%20returns,are%20default%20for%20all%20object.
+-->
 
 
 ## Helpful for Debugging
