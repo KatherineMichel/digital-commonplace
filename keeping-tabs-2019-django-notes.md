@@ -44,19 +44,52 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-obj
 Classes in ```django.db.models```
 
 ```python
-OneToOneField (class in django.db.models), 1124 
-```
-
-<!--
-OnetoOneField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
--->
-
-```python
 ForeignKey (class in django.db.models), 1117 
 ManyToManyField (class in django.db.models), 1121 
 ```
 
+```
+from django.db import models
+
+# Many has ForeignKey
+class Car(models.Model):
+    manufacturer = models.ForeignKey(
+        'Manufacturer',
+        on_delete=models.CASCADE,
+    )
+    # ...
+
+# One
+class Manufacturer(models.Model):
+    # ...
+    pass
+```
+
+```
+from django.db import models
+
+# Many
+class Publication(models.Model):
+    title = models.CharField(max_length=30)
+
+    class Meta:
+        ordering = ['title']
+
+    def __str__(self):
+        return self.title
+
+# Many
+class Article(models.Model):
+    headline = models.CharField(max_length=100)
+    publications = models.ManyToManyField(Publication)
+
+    class Meta:
+        ordering = ['headline']
+
+    def __str__(self):
+        return self.headline
+```
+ 
 <!--
 ForeignKey (Many to One)
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
@@ -67,13 +100,17 @@ ManyToManyField
 https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
 
-Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
-The “other side” of a ForeignKey relation.
-Both sides of a ManyToManyField relation.
-https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
-
 ForeignKey and ManyToManyField database explainer
 https://www.mattlayman.com/understand-django/store-data-with-models/
+-->
+
+```python
+OneToOneField (class in django.db.models), 1124 
+```
+
+<!--
+OnetoOneField
+https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
 -->
 
 Commonly used ```ForeignKey``` attributes
@@ -89,6 +126,16 @@ Commonly used ```ManyToManyField``` attributes
 related_name (ManyToManyField attribute), 1122 
 through (ManyToManyField attribute), 1122 
 ```
+
+<!--
+Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
+The “other side” of a ForeignKey relation.
+Both sides of a ManyToManyField relation.
+https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
+
+related name versus set
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+-->
 
 More ```ForeignKey``` attributes
 
@@ -151,7 +198,10 @@ Commonly used ```Model``` attributes
 pk (Model attribute), 1149 
 save() (Model method), 1149 
 delete() (Model method), 1152 
+```
 
+
+```python
 clean() (Model method), 1147 
 get_absolute_url() (Model method), 1153 
 ```
@@ -346,9 +396,9 @@ exists() (in module django.db.models.query.QuerySet), 1190
 get() (in module django.db.models.query.QuerySet), 1182 
 create() (in module django.db.models.query.QuerySet), 1182 
 get_or_create() (in module django.db.models.query.QuerySet), 1183 
+update() (in module django.db.models.query.QuerySet), 1190 
 update_or_create() (in module django.db.models.query.QuerySet), 1185 
 bulk_create() (in module django.db.models.query.QuerySet), 1185 
-update() (in module django.db.models.query.QuerySet), 1190 
 delete() (in module django.db.models.query.QuerySet), 1191 
 ```
 
