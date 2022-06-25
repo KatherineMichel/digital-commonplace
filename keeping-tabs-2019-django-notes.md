@@ -49,7 +49,25 @@ save() (Model method), 1149
 delete() (Model method), 1152 
 ```
 
-## dir() and builtins
+## Helper Functions
+
+Enter the Python help utility
+
+```python
+>>> help()
+```
+
+Obtain help for a specific object
+
+```python
+>>> help(object)
+```
+
+Exit the Python help utility
+
+```python
+>>> q
+```
 
 Without arguments, return the list of names in the current local scope. With an argument, attempt to return a list of valid attributes for that object.
 
@@ -78,6 +96,38 @@ https://docs.python.org/3/library/stdtypes.html#object.__dict__
 
 https://docs.djangoproject.com/en/4.0/intro/tutorial02/
 -->
+
+
+## Classes and Functions
+
+Define a function or class
+
+```python
+def function():
+class Class:
+```
+
+Function statement
+
+```python
+def function():
+    """Description"""
+    action
+
+function()
+```
+
+Class statement
+
+```python
+class Class:
+    """Description"""
+    def __init__(self, attribute):
+        self.attribute = attribute
+ 
+    def method(self):
+        action
+```
 
 
 ## Models
