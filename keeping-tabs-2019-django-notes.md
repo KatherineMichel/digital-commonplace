@@ -39,6 +39,27 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-obj
 -->
 
 
+## Helpful for Debugging
+
+Commonly used ```Model``` attributes
+
+```python
+pk (Model attribute), 1149 
+save() (Model method), 1149 
+delete() (Model method), 1152 
+```
+
+<!--
+https://docs.djangoproject.com/en/4.0/topics/db/queries/
+
+https://docs.python.org/3/reference/datamodel.html
+https://docs.python.org/3/library/stdtypes.html#special-attributes
+https://docs.python.org/3/library/stdtypes.html#object.__dict__
+
+https://docs.djangoproject.com/en/4.0/intro/tutorial02/
+-->
+
+
 ## Models
 
 Classes in ```django.db.models```
@@ -137,6 +158,7 @@ related name versus set
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
 -->
 
+
 More ```ForeignKey``` attributes
 
 ```python
@@ -189,6 +211,7 @@ SET() (in module django.db.models), 1119
 SET_DEFAULT (in module django.db.models), 1119 
 SET_NULL (in module django.db.models), 1119 
 -->
+
 
 ## Model Methods
 
@@ -349,6 +372,11 @@ value_from_object() (Field method), 1126
 value_to_string() (Field method), 1126 
 ```
 
+
+<!--
+<Object>.objects.all()
+-->
+
 ## QuerySet
 
 ```python
@@ -365,6 +393,7 @@ https://docs.djangoproject.com/en/2.1/ref/request-response/#django.http.QueryDic
 db (QuerySet attribute), 1157 
 ordered (QuerySet attribute), 1157 
 ```
+
 
 ### QuerySet Methods- Commonly Used
 
@@ -386,6 +415,7 @@ Returns a queryset
 ```python
 all() (in module django.db.models.query.QuerySet), 1167 
 ```
+
 
 ## QuerySet Methods That Do Not Return QuerySets
 
@@ -425,6 +455,7 @@ Iterator and Aggregate
 iterator() (in module django.db.models.query.QuerySet), 1187 
 aggregate() (in module django.db.models.query.QuerySet), 1189 
 ```
+
 
 ## QuerySet Methods That Return QuerySets
 
