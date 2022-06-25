@@ -1073,6 +1073,7 @@ Return a proxy object that delegates method calls to a parent or sibling class o
 
 https://docs.python.org/3/library/functions.html#super | 2. Built-in Functions — Python 3.6.3 documentation
 
+
 ### Class and Object `Is` Functions
 
 Return true if the object argument is an instance of the classinfo argument, or of a (direct, indirect or virtual) subclass thereof. 
@@ -1148,6 +1149,7 @@ Return the hash value of the object (if it has one). Hash values are integers.
 https://docs.python.org/3/library/functions.html#hash
 https://docs.python.org/3/library/stdtypes.html#hashing-of-numeric-types
 
+
 ## Print Data Structure and Ascertain Data Type
 
 ```python
@@ -1197,6 +1199,7 @@ Return the length (the number of items) of an object. The argument may be a sequ
 Sums start and the items of an iterable from left to right and returns the total. start defaults to 0. The iterable’s items are normally numbers, and the start value is not allowed to be a string. The preferred, fast way to concatenate a sequence of strings is by calling ''.join(sequence). To add floating point values with extended precision, see math.fsum(). To concatenate a series of iterables, consider using itertools.chain().
 
 ```sum()```
+
 
 ## Less Common Built-In Function
 
