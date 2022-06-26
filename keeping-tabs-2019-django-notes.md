@@ -1,6 +1,12 @@
 # Django Code Notes
 
 <!--
+MyPy Cheat Sheet
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+
+
 ## Django Database
 
 DB Relationships
@@ -142,14 +148,14 @@ class Class:
         action
 ```
 
-
 ## Models
+
+### ForeignKey
 
 Classes in ```django.db.models```
 
 ```python
 ForeignKey (class in django.db.models), 1117 
-ManyToManyField (class in django.db.models), 1121 
 ```
 
 ```
@@ -167,6 +173,55 @@ class Car(models.Model):
 class Manufacturer(models.Model):
     # ...
     pass
+```
+
+Commonly used ```ForeignKey``` attributes
+
+```python
+related_name (ForeignKey attribute), 1120 
+on_delete (ForeignKey attribute), 1118 
+```
+
+<!--
+ForeignKey (Many to One)
+https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
+Many to One
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+
+ForeignKey and ManyToManyField database explainer
+https://www.mattlayman.com/understand-django/store-data-with-models/
+-->
+
+### Related Manager
+
+<!--
+Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
+The “other side” of a ForeignKey relation.
+Both sides of a ManyToManyField relation.
+https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
+
+related name versus set
+https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+-->
+
+
+### OnetoOneField
+
+```python
+OneToOneField (class in django.db.models), 1124 
+```
+
+<!--
+OnetoOneField
+https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
+-->
+
+### ManytoManyField
+
+Classes in ```django.db.models```
+
+```python
+ManyToManyField (class in django.db.models), 1121 
 ```
 
 ```
@@ -193,36 +248,6 @@ class Article(models.Model):
     def __str__(self):
         return self.headline
 ```
- 
-<!--
-ForeignKey (Many to One)
-https://docs.djangoproject.com/en/4.0/ref/models/fields/#django.db.models.ForeignKey
-Many to One
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
-
-ManyToManyField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
-https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
-
-ForeignKey and ManyToManyField database explainer
-https://www.mattlayman.com/understand-django/store-data-with-models/
--->
-
-```python
-OneToOneField (class in django.db.models), 1124 
-```
-
-<!--
-OnetoOneField
-https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
--->
-
-Commonly used ```ForeignKey``` attributes
-
-```python
-related_name (ForeignKey attribute), 1120 
-on_delete (ForeignKey attribute), 1118 
-```
 
 Commonly used ```ManyToManyField``` attributes
 
@@ -232,15 +257,16 @@ through (ManyToManyField attribute), 1122
 ```
 
 <!--
-Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
-The “other side” of a ForeignKey relation.
-Both sides of a ManyToManyField relation.
-https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
-
-related name versus set
+ManyToManyField
+https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_many/
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
+
+ForeignKey and ManyToManyField database explainer
+https://www.mattlayman.com/understand-django/store-data-with-models
 -->
 
+
+### Additional Attributes
 
 More ```ForeignKey``` attributes
 
@@ -320,6 +346,12 @@ ordered (QuerySet attribute), 1157
 
 ### QuerySet Methods- Commonly Used
 
+Returns a queryset
+
+```python
+all() (in module django.db.models.query.QuerySet), 1167 
+```
+
 Does not return a queryset; takes field lookup types as keyword arguments (same as SQL WHERE clause)
 
 ```python
@@ -332,13 +364,6 @@ Return a queryset; take field lookup types as keyword arguments (same as SQL WHE
 filter() (in module django.db.models.query.QuerySet), 1158 
 exclude() (in module django.db.models.query.QuerySet), 1158 
 ```
-
-Returns a queryset
-
-```python
-all() (in module django.db.models.query.QuerySet), 1167 
-```
-
 
 ## QuerySet Methods That Do Not Return QuerySets
 
@@ -695,6 +720,184 @@ value_from_object() (Field method), 1126
 value_to_string() (Field method), 1126 
 ```
 
+
+<!--
+## Exceptions, Errors, and Testing
+
+Common Python Exceptions
+* FileNotFoundError
+* IndexError
+* KeyError
+* AssertionError
+
+Common Django Exceptions
+* ObjectDoesNotExist
+
+Django raises built-in Python exceptions when appropriate.
+
+Exceptions
+https://docs.python.org/3/library/exceptions.html
+https://docs.python.org/3/library/exceptions.html#built-in-exceptions
+https://realpython.com/python-exceptions/
+
+Django exceptions
+https://www.cs.mcgill.ca/~swevo/tse2015/html/ref/exceptions.html
+
+Errors
+https://docs.python.org/3/tutorial/errors.html
+-->
+
+
+<!--
+Django/pytest
+https://realpython.com/django-pytest-fixtures/ | How to Provide Test Fixtures for Django Models in Pytest – Real Python
+
+
+Python testing tools taxonomy
+https://wiki.python.org/moin/PythonTestingToolsTaxonomy
+
+https://docs.pytest.org/en/6.2.x/parametrize.html
+
+PyTest
+https://github.com/augustogoulart/awesome-pytest | augustogoulart/awesome-pytest: A curated list of awesome pytest resources
+
+unittest
+https://docs.python.org/3/library/unittest.html
+https://docs.python.org/3/library/unittest.html#unittest.TestCase
+
+Assertions list
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.debug
+
+Organizing tests
+https://docs.python.org/3/library/unittest.html#organizing-tests
+
+Django's custom TestCase (includes custom assertion methods)
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TestCase
+
+Testing Django (Django TestCase)
+https://www.valentinog.com/blog/testing-django/
+
+
+https://docs.djangoproject.com/en/4.0/ref/models/instances/#django.db.models.Model.refresh_from_db | Model instance reference | Django documentation | Django
+
+
+Important summary
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/
+To use the test client, instantiate django.test.Client and retrieve web pages:
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#the-test-client
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#making-requests
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#testing-responses
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.Response
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#provided-test-case-classes
+Types of Test Cases
+
+Django testing
+https://docs.djangoproject.com/en/4.0/topics/testing/
+https://docs.djangoproject.com/en/4.0/topics/testing/overview/
+Advanced
+https://docs.djangoproject.com/en/4.0/topics/testing/advanced/
+Request factory
+https://docs.djangoproject.com/en/4.0/topics/testing/advanced/#the-request-factory
+https://docs.djangoproject.com/en/4.0/topics/testing/advanced/#other-testing-frameworks
+
+Testing tutorial
+https://docs.djangoproject.com/en/4.0/intro/tutorial05/
+-->
+
+
+<!--
+## Django Custom Assertions
+
+Important
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRaisesMessage
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertWarnsMessage
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertURLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRedirects
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLNotEqual
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertInHTML
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONNotEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLNotEqual
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
+
+
+## Python Assert Methods
+
+Python unittest
+https://docs.python.org/3/library/unittest.html#assert-methods
+
+https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
+
+assertTrue	bool(x) is True	 
+assertFalse	bool(x) is False	
+
+assertEqual	a == b	 
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | unittest — Unit testing framework — Python 3.8.1 documentation
+assertNotEqual	a != b	 
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
+
+assertAlmostEqual	round(a-b,7) == 0	 
+assertNotAlmostEqual	round(a-b,7) != 0	 
+
+assertGreater	a > b
+assertGreaterEqual	a >= b
+assertLess	a < b
+assertLessEqual	a <= b
+
+assertIs	a is b
+assertIsNot	a is not b
+
+assertIsNone	x is None
+assertIsNotNone	x is not None
+
+assertIn	a in b
+assertNotIn	a not in b
+
+assertIsInstance	is instance(a,b)
+assertNotIsInstance	not is instance(a,b)
+
+Data structures
+assertItemsEqual	sorted(a) == sorted(b)
+assertDictContainsSubset	all the key/value pairs in a exist in b
+assertSequenceEqual	sequences
+assertListEqual	lists
+assertTupleEqual	tuples
+assertSetEqual	sets or frozensets
+assertDictEqual	dicts
+
+assertRaises	fun(*args,**kwds) raises exc	 
+https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertRaises
+assertRaisesRegexp	fun(*args,**kwds) raises exc(regex)
+
+Regex
+assertRegexpMatches	r.search(s)
+assertNotRegexpMatches	not r.search(s)
+
+assertMultiLineEqual	strings
+-->
+
+
 ## Testing
 
 ### SimpleTestCase
@@ -736,31 +939,8 @@ assertNumQueries() (TransactionTestCase method), 354
 assertQuerysetEqual() (TransactionTestCase method), 353 
 ```
 
+
 <!--
-NON_FIELD_ERRORS (in module django.core.exceptions), 1017 
-
-### Checks
-
-CheckMessage (class in django.core.checks), 635 
-Critical (class in django.core.checks), 636 
-Debug (class in django.core.checks), 636 
-Error (class in django.core.checks), 636 
-Info (class in django.core.checks), 636 
-register() (in module django.core.checks), 535 
-Warning (class in django.core.checks), 636 
-
-## SafeExceptionReporter
-
-SafeExceptionReporterFilter (class in django.views.debug), 596 
-get_post_parameters() (SafeExceptionReporterFilter method), 596 
-get_traceback_frame_variables() (SafeExceptionReporterFilter method), 596 
-is_active() (SafeExceptionReporterFilter method), 596 
-
-### Runner
-
-DiscoverRunner (class in django.test.runner), 363 
-add_arguments() (django.test.runner.DiscoverRunner class method), 364 
-
 ### Test
 
 setUpTestData() (django.test.TestCase class method), 342 
@@ -789,6 +969,51 @@ teardown_test_environment() (in module django.test.utils), 365
 django.test.signals.setting_changed (built-in variable), 1321 
 django.test.signals.template_rendered (built-in variable), 1321 
 django.test.utils.isolate_apps() (built-in function), 1781 
+
+### Runner
+
+DiscoverRunner (class in django.test.runner), 363 
+add_arguments() (django.test.runner.DiscoverRunner class method), 364 
+
+### DiscoverRunner
+
+```python
+test_loader (DiscoverRunner attribute), 364 
+test_runner (DiscoverRunner attribute), 363 
+test_suite (DiscoverRunner attribute), 363 
+
+build_suite() (DiscoverRunner method), 364 
+get_test_runner_kwargs() (DiscoverRunner method), 364
+run_checks() (DiscoverRunner method), 364 
+run_suite() (DiscoverRunner method), 364 
+run_tests() (DiscoverRunner method), 364 
+suite_result() (DiscoverRunner method), 365 
+
+setup_databases() (DiscoverRunner method), 364 
+setup_test_environment() (DiscoverRunner method), 364 
+teardown_databases() (DiscoverRunner method), 365 
+teardown_test_environment() (DiscoverRunner method), 365 
+
+
+<!--
+NON_FIELD_ERRORS (in module django.core.exceptions), 1017 
+
+### Checks
+
+CheckMessage (class in django.core.checks), 635 
+Critical (class in django.core.checks), 636 
+Debug (class in django.core.checks), 636 
+Error (class in django.core.checks), 636 
+Info (class in django.core.checks), 636 
+register() (in module django.core.checks), 535 
+Warning (class in django.core.checks), 636 
+
+## SafeExceptionReporter
+
+SafeExceptionReporterFilter (class in django.views.debug), 596 
+get_post_parameters() (SafeExceptionReporterFilter method), 596 
+get_traceback_frame_variables() (SafeExceptionReporterFilter method), 596 
+is_active() (SafeExceptionReporterFilter method), 596 
 
 ### Validators (Model and Form Fields
 
@@ -832,27 +1057,6 @@ CallbackFilter (class in django.utils.log), 502
 RequireDebugFalse (class in django.utils.log), 503 
 RequireDebugTrue (class in django.utils.log), 503 
 -->
-
-## Testing
-
-### DiscoverRunner
-
-```python
-test_loader (DiscoverRunner attribute), 364 
-test_runner (DiscoverRunner attribute), 363 
-test_suite (DiscoverRunner attribute), 363 
-
-build_suite() (DiscoverRunner method), 364 
-get_test_runner_kwargs() (DiscoverRunner method), 364
-run_checks() (DiscoverRunner method), 364 
-run_suite() (DiscoverRunner method), 364 
-run_tests() (DiscoverRunner method), 364 
-suite_result() (DiscoverRunner method), 365 
-
-setup_databases() (DiscoverRunner method), 364 
-setup_test_environment() (DiscoverRunner method), 364 
-teardown_databases() (DiscoverRunner method), 365 
-teardown_test_environment() (DiscoverRunner method), 365 
 
 
 ## Template Tags
