@@ -192,17 +192,79 @@ ForeignKey and ManyToManyField database explainer
 https://www.mattlayman.com/understand-django/store-data-with-models/
 -->
 
+
 ### Related Manager
+
+ForeignKey
+
+```
+from django.db import models
+
+class Blog(models.Model):
+    # ...
+    pass
+
+# Many
+class Entry(models.Model):
+    blog = models.ForeignKey(Blog, on_delete=models.CASCADE, null=True)
+```
+
+Related Name
+
+```
+Blog.entry_set.all()
+Blog.entries.all() # related_name set as `entries`
+```
+
+```
+# add
+>>> b = Blog.objects.get(id=1)
+>>> e = Entry.objects.get(id=234)
+>>> b.entry_set.add(e) # Associates Entry e with Blog b.
+
+# create
+>>> b = Blog.objects.get(id=1)
+>>> e = b.entry_set.create(
+...     headline='Hello',
+...     body_text='Hi',
+...     pub_date=datetime.date(2005, 1, 1)
+... )
+
+# get
+>>> b = Blog.objects.get(id=1)
+>>> e = Entry.objects.get(id=234)
+>>> b.entry_set.remove(e) # Disassociates Entry e from Blog b.
+
+# clear
+>>> b = Blog.objects.get(id=1)
+>>> b.entry_set.clear()
+
+# set
+>>> new_list = [obj1, obj2, obj3]
+>>> e.related_set.set(new_list)
+```
+
+More ```ForeignKey``` attributes
+
+```python
+db_constraint (ForeignKey attribute), 1121 
+limit_choices_to (ForeignKey attribute), 1119 
+related_query_name (ForeignKey attribute), 1120 
+swappable (ForeignKey attribute), 1121 
+to_field (ForeignKey attribute), 1121 
+```
 
 <!--
 Related Manager (Used in a one-to-many or many-to-many related context, set, add, etc.)
 The “other side” of a ForeignKey relation.
+https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager
 Both sides of a ManyToManyField relation.
 https://docs.djangoproject.com/en/4.0/ref/models/relations/#django.db.models.fields.related.RelatedManager.add
 
 related name versus set
 https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/
 -->
+
 
 
 ### OnetoOneField
@@ -265,18 +327,7 @@ ForeignKey and ManyToManyField database explainer
 https://www.mattlayman.com/understand-django/store-data-with-models
 -->
 
-
-### Additional Attributes
-
-More ```ForeignKey``` attributes
-
-```python
-db_constraint (ForeignKey attribute), 1121 
-limit_choices_to (ForeignKey attribute), 1119 
-related_query_name (ForeignKey attribute), 1120 
-swappable (ForeignKey attribute), 1121 
-to_field (ForeignKey attribute), 1121 
-```
+### Additional ManytoManyField and OnetoOneField Attributes
 
 More ```ManyToManyField``` attributes
 
@@ -373,11 +424,22 @@ Exists, Get, Create, Update, Delete
 exists() (in module django.db.models.query.QuerySet), 1190 
 get() (in module django.db.models.query.QuerySet), 1182 
 create() (in module django.db.models.query.QuerySet), 1182 
-get_or_create() (in module django.db.models.query.QuerySet), 1183 
 update() (in module django.db.models.query.QuerySet), 1190 
-update_or_create() (in module django.db.models.query.QuerySet), 1185 
-bulk_create() (in module django.db.models.query.QuerySet), 1185 
 delete() (in module django.db.models.query.QuerySet), 1191 
+```
+
+Get or Create, Update or Create
+
+```
+get_or_create() (in module django.db.models.query.QuerySet), 1183 
+update_or_create() (in module django.db.models.query.QuerySet), 1185 
+```
+
+Bulk
+
+```
+bulk_create() (in module django.db.models.query.QuerySet), 1185 
+in_bulk() (in module django.db.models.query.QuerySet), 1187 
 ```
 
 Order- Latest, Earliest, First, Last
@@ -393,7 +455,6 @@ Utility
 
 ```python
 count() (in module django.db.models.query.QuerySet), 1186 
-in_bulk() (in module django.db.models.query.QuerySet), 1187 
 as_manager() (in module django.db.models.query.QuerySet), 1192 
 ```
 
@@ -405,7 +466,7 @@ aggregate() (in module django.db.models.query.QuerySet), 1189
 ```
 
 
-## QuerySet Methods That Return QuerySets
+## Additional QuerySet Methods That Return QuerySets
 
 <!--
 https://docs.djangoproject.com/en/2.1/ref/models/querysets/#none
@@ -415,14 +476,6 @@ None
 
 ```python
 none() (in module django.db.models.query.QuerySet), 1167
-```
-
-Common
-
-```python
-all() (in module django.db.models.query.QuerySet), 1167 
-filter() (in module django.db.models.query.QuerySet), 1158 
-exclude() (in module django.db.models.query.QuerySet), 1158 
 ```
 
 Dates
@@ -806,42 +859,6 @@ https://docs.djangoproject.com/en/4.0/intro/tutorial05/
 
 
 <!--
-## Django Custom Assertions
-
-Important
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRaisesMessage
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertWarnsMessage
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertURLEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRedirects
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLNotEqual
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertInHTML
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONNotEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLNotEqual
-
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
-https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
-
-
 ## Python Assert Methods
 
 Python unittest
@@ -906,6 +923,21 @@ allow_database_queries (SimpleTestCase attribute), 341
 client (SimpleTestCase attribute), 344 
 client_class (SimpleTestCase attribute), 345 
 
+modify_settings() (SimpleTestCase method), 347 
+settings() (SimpleTestCase method), 347 
+
+### TransactionTestCase
+
+available_apps (TransactionTestCase attribute), 360 
+fixtures (TransactionTestCase attribute), 345 
+multi_db (TransactionTestCase attribute), 346 
+
+assert
+assertNumQueries() (TransactionTestCase method), 354 
+assertQuerysetEqual() (TransactionTestCase method), 353 
+```
+
+<!--
 assert
 assertContains() (SimpleTestCase method), 351 
 assertFieldOutput() (SimpleTestCase method), 350 
@@ -925,19 +957,42 @@ assertWarnsMessage() (SimpleTestCase method), 350
 assertXMLEqual() (SimpleTestCase method), 353 
 assertXMLNotEqual() (SimpleTestCase method), 353 
 
-modify_settings() (SimpleTestCase method), 347 
-settings() (SimpleTestCase method), 347 
 
-### TransactionTestCase
+## Django Custom Assertions
 
-available_apps (TransactionTestCase attribute), 360 
-fixtures (TransactionTestCase attribute), 345 
-multi_db (TransactionTestCase attribute), 346 
+Important
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
 
-assert
-assertNumQueries() (TransactionTestCase method), 354 
-assertQuerysetEqual() (TransactionTestCase method), 353 
-```
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRaisesMessage
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertWarnsMessage
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertURLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRedirects
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertHTMLNotEqual
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertInHTML
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONNotEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertXMLNotEqual
+
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertQuerysetEqual
+https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.TransactionTestCase.assertNumQueries
+-->
 
 
 <!--
