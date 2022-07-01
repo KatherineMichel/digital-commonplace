@@ -109,7 +109,17 @@ save() (Model method), 1149
 delete() (Model method), 1152 
 ```
 
+Important gotchas
+
+```
+save() (Model method), 1149 
+obj.refresh_from_db()
+```
+
 <!--
+Testing gotcha
+https://docs.djangoproject.com/en/4.0/ref/models/instances/#refreshing-objects-from-database
+
 https://docs.djangoproject.com/en/4.0/topics/db/queries/
 
 https://docs.djangoproject.com/en/4.0/intro/tutorial02/
@@ -416,21 +426,23 @@ filter() (in module django.db.models.query.QuerySet), 1158
 exclude() (in module django.db.models.query.QuerySet), 1158 
 ```
 
+
 ## QuerySet Methods That Do Not Return QuerySets
 
-Exists, Get, Create, Update, Delete
+Exists
 
 ```python
 exists() (in module django.db.models.query.QuerySet), 1190 
+```
+
+Get, Create, Update, Delete
+
+```python
 get() (in module django.db.models.query.QuerySet), 1182 
 create() (in module django.db.models.query.QuerySet), 1182 
 update() (in module django.db.models.query.QuerySet), 1190 
 delete() (in module django.db.models.query.QuerySet), 1191 
-```
 
-Get or Create, Update or Create
-
-```
 get_or_create() (in module django.db.models.query.QuerySet), 1183 
 update_or_create() (in module django.db.models.query.QuerySet), 1185 
 ```
@@ -874,6 +886,11 @@ https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertEqual | 
 assertNotEqual	a != b	 
 https://docs.python.org/3/library/unittest.html#unittest.TestCase.assertNotEqual
 
+
+assertIn	a in b
+assertNotIn	a not in b
+
+
 assertAlmostEqual	round(a-b,7) == 0	 
 assertNotAlmostEqual	round(a-b,7) != 0	 
 
@@ -887,9 +904,6 @@ assertIsNot	a is not b
 
 assertIsNone	x is None
 assertIsNotNone	x is not None
-
-assertIn	a in b
-assertNotIn	a not in b
 
 assertIsInstance	is instance(a,b)
 assertNotIsInstance	not is instance(a,b)
@@ -966,11 +980,14 @@ https://docs.djangoproject.com/en/4.0/topics/testing/tools/#assertions-1
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRaisesMessage
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertWarnsMessage
 
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertURLEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertRedirects
 
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertContains
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertNotContains
+
 
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateUsed
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertTemplateNotUsed
@@ -980,10 +997,12 @@ https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTe
 
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertInHTML
 
+
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFieldOutput
 
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormError
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertFormsetError
+
 
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONEqual
 https://docs.djangoproject.com/en/4.0/topics/testing/tools/#django.test.SimpleTestCase.assertJSONNotEqual
@@ -1463,6 +1482,7 @@ New
 
 json_script template filter, 1358 
 -->
+
 
 
 ## URLs and Shortcuts
