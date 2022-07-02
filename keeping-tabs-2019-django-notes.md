@@ -20,6 +20,9 @@ https://docs.djangoproject.com/en/4.0/ref/models/querysets/#field-lookups-1
 https://docs.djangoproject.com/en/4.0/ref/models/expressions/
 https://docs.djangoproject.com/en/4.0/ref/models/lookups/
 
+Important
+https://docs.djangoproject.com/en/4.0/topics/db/queries/
+
 Double underscores to span a relationship
 https://docs.djangoproject.com/en/4.0/topics/db/queries/#lookups-that-span-relationships
 
@@ -30,18 +33,6 @@ https://docs.djangoproject.com/en/4.0/ref/models/fields/
 pk
 https://docs.djangoproject.com/en/4.0/ref/models/fields/#primary-key
 https://en.wikipedia.org/wiki/Primary_key
-
-
-select_related (foreign key, related objects)
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related
-
-prefetch_related (many-to-many)
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.prefetch_related
-
-select related and pre-fetch related
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#select-related
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-objects
-https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-objects
 -->
 
 
@@ -540,6 +531,19 @@ prefetch_related() (in module django.db.models.query.QuerySet), 1170
 select_for_update() (in module django.db.models.query.QuerySet), 1180 
 select_related() (in module django.db.models.query.QuerySet), 1168 
 ```
+
+<!--
+select_related (foreign key, related objects)
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.select_related
+
+prefetch_related (many-to-many)
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#django.db.models.query.QuerySet.prefetch_related
+
+select related and pre-fetch related
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#select-related
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-objects
+https://docs.djangoproject.com/en/4.0/ref/models/querysets/#prefetch-related-objects
+-->
 
 Stats
 
