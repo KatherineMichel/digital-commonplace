@@ -1,19 +1,92 @@
 ## Makers
 
 <!--
-## Shipping
+## Twitter API
 
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://developer.twitter.com/en/community/toolbox?ref=ps-tw-twitter-toolbox-overall-org&utm_source=tw&utm_medium=ps&utm_campaign=twitter-toolbox-overall-org | Toolbox | Twitter Developer Platform
 
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+https://twitter.com/ashevat/status/1491109873677139968 | Amir Shevat on Twitter: "We are experimenting with a developer API playground, and you can try it today: 1) Go to the link bellow 👇🏼 2) Click on "Try a live request" ✨ 3) Auth and run the API endpoint 🚀 4) Tell us what you think 📝 https://t.co/K4zPYmnvni Big thanks @i_am_daniele and team for this 💙" / Twitter
+https://twitter.com/ashevat/status/1488655530205843461 | Amir Shevat on Twitter: "A big step forward in our vision to help Twitter users discover solutions developers build over our API, as well as help Twitter developers get more users💙" / Twitter
 
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+
+Great examples
+Twitter
+https://glitch.com/@simonw | Simon Willison
+https://github.com/simonw
+
+
+https://simonwillison.net/2021/Jul/17/standing-out/
+
+Start a blog. Post an interesting technical article to it once or twice a year—something you’ve learned, or a bug you’ve fixed, or a problem you’ve solved. After a few years stop bothering entirely, but leave the blog online somewhere.
+
+Build a small personal project and put the code on GitHub. Accompany it with a README with a detailed description of the project and screenshots of it in action—almost no-one does this, it only takes a few hours extra and it massively increases the impact your project will have on hiring managers who are checking you out.
+
+There’s plenty more you can do if you want to put the effort in: build an audience on Twitter, start a newsletter, make videos, give talks (ideally that get recorded and published online), release open source packages, publish TILss.
+
+Simon
+https://simonwillison.net/2022/
+
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://github.com/simonw/simonw/blob/main/releases.md
+https://sqlite-utils.datasette.io/en/stable/cli.html#cli-create-database
+https://github.com/simonw/sqlite-utils/issues/348
+https://sqlite-utils.datasette.io/en/stable/contributing.html
+https://github.com/simonw/python-lib
+https://github.com/simonw/datasette-plugin
+https://github.com/simonw/click-app
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+https://pytest-django.readthedocs.io/en/latest/
+https://pytest-django.readthedocs.io/en/latest/configuring_django.html#configuring-django-settings
+https://pytest-django.readthedocs.io/en/latest/faq.html#faq-tests-not-being-picked-up
+https://github.com/pytest-dev/pytest-xdist
+https://docs.djangoproject.com/en/3.0/topics/testing/tools/#the-test-client
+
+Test examples
+https://github.com/simonw/datasette/tree/main/tests
+https://github.com/simonw/sqlite-utils/tree/main/tests
+
+https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
+
+
+Boost Your Django DX
+https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
+
+Speed Up Your Django Tests
+https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
+https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
+
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
+Is it described as “production ready”?
+Is there sufficient documentation?
+Is there a changelog?
+Is someone responding to bug reports?
+Are there sufficient tests?
+Are the tests running with the latest <Language> version?
+Are the tests running with the latest <Integration> version?
+Is there a Continuous Integration (CI) configuration?
+Is the CI passing?
+Does it seem relatively well used?
+Has there been a commit in the last year?
+Has there been a release in the last year?
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+Do you use source control?
+Can you make a build in one step?
+Do you make daily builds?
+Do you have a bug database?
+Do you fix bugs before writing new code?
+Do you have an up-to-date schedule?
+Do you have a spec?
+Do programmers have quiet working conditions?
+Do you use the best tools money can buy?
+Do you have testers?
+Do new candidates write code during their interview?
+Do you do hallway usability testing?
 -->
-
-## Makers
-
+  
+  
 Pieter Levels
 * [Pieter Levels Twitter](https://twitter.com/levelsio)
 * ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
@@ -35,74 +108,6 @@ https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on T
 -->
 
 <!--
-## Twitter API
-
-https://developer.twitter.com/en/community/toolbox?ref=ps-tw-twitter-toolbox-overall-org&utm_source=tw&utm_medium=ps&utm_campaign=twitter-toolbox-overall-org | Toolbox | Twitter Developer Platform
-
-https://twitter.com/ashevat/status/1491109873677139968 | Amir Shevat on Twitter: "We are experimenting with a developer API playground, and you can try it today: 1) Go to the link bellow 👇🏼 2) Click on "Try a live request" ✨ 3) Auth and run the API endpoint 🚀 4) Tell us what you think 📝 https://t.co/K4zPYmnvni Big thanks @i_am_daniele and team for this 💙" / Twitter
-https://twitter.com/ashevat/status/1488655530205843461 | Amir Shevat on Twitter: "A big step forward in our vision to help Twitter users discover solutions developers build over our API, as well as help Twitter developers get more users💙" / Twitter
-
-
-## Charlie
-
-https://github.com/charliegerard | charliegerard (Charlie)
-
-Book
-https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
-https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
-
-https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
-https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
-
-Safe Space
-https://charliegerard.dev/blog/github-action-toxic-comments/
-https://github.com/charliegerard
-https://github.com/charliegerard/safe-space/
-https://github.com/charliegerard/safe-space/blob/master/index.js
-
-https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
-
-## Sarah
-
-https://css-tricks.com/author/sdrasner/ | Sarah Drasner on CSS-Tricks - Archive - CSS-Tricks
-
-Articles
-https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
-https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
-https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
-https://css-tricks.com/understanding-async-await/
-https://twitter.com/sarah_edo/status/1456638810343677952
-
-https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
-https://codepen.io/collection/nMgKxJ
-
-https://github.com/sdras?tab=repositories
-https://github.com/sdras/night-owl-vscode-theme
-Chrome Extension
-https://github.com/sdras/productive-twitter/
-https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
-
-
-## Jeff
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-https://lfk.im/ | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
-https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
-
-https://github.com/lfk-im/downtownlawrence-data
-https://github.com/jefftriplett/lfk.im/blob/master/.github/workflows/actions.yml | lfk.im/actions.yml at master · jefftriplett/lfk.im
-https://github.com/jefftriplett/lfk.im | jefftriplett/lfk.im: Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
-https://lfk.im/?fbclid=IwAR1MBwTMMAGVRHjgat6MzqRNwCymwZiyuIyplpyhQBk5dNaWiojYJ8Cv-Ag | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
-
-https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon curbside takeout and delivery for local COVID-19 impacted businesses
-
-https://github.com/jefftriplett/djobs | jefftriplett/djobs
-https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
-
-
 ## Simon
 
 Releases
@@ -637,15 +642,13 @@ https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitte
 https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
 -->
 
+
 ### Anthony Sottile
 
 <!--
-Anthony Explains
-https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
-https://github.com/anthonywritescode/explains | anthonywritescode/explains: more easily searchable list of explains playlist
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
 
-https://github.com/asottile
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 ## Anthony Tools
 
@@ -797,4 +800,375 @@ https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – 
 https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
 https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
 https://github.com/chriskuehl/shipit | chriskuehl/shipit
+-->
+
+<!--
+## Jeff
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+https://lfk.im/ | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
+
+https://github.com/lfk-im/downtownlawrence-data
+https://github.com/jefftriplett/lfk.im/blob/master/.github/workflows/actions.yml | lfk.im/actions.yml at master · jefftriplett/lfk.im
+https://github.com/jefftriplett/lfk.im | jefftriplett/lfk.im: Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://lfk.im/?fbclid=IwAR1MBwTMMAGVRHjgat6MzqRNwCymwZiyuIyplpyhQBk5dNaWiojYJ8Cv-Ag | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+
+https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon curbside takeout and delivery for local COVID-19 impacted businesses
+
+https://github.com/jefftriplett/djobs | jefftriplett/djobs
+https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
+-->
+
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
+
+https://reactjs.org/community/examples.html
+
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+
+https://madewithreactnative.com/
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+-->
+
+
+## Dev Tools, Projects, and Demos
+
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [CodePen Projects](http://codepen.io/projects/)
+* [CodePen Trending](https://codepen.io/trending)
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+Repl Roundup
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+
+Glitch Roundup
+https://blog.glitch.com/post/last-month-on-glitch-the-march-2021-edition | Last Month on Glitch: the March 2021 edition — Glitch Blog
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/@glitch/glitch-team-faves
+https://blog.glitch.com/category/the-playlist | Apps We Love — Glitch Blog
+
+Collections
+https://help.glitch.com/kb/article/4-what-are-collections/
+Find a Collection
+https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
+
+Glitch Gallery
+https://support.glitch.com/c/the-gallery/6 | Latest The Gallery topics - Glitch Support
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+-->
+
+
+## Creation Blogs
+
+Playgrounds
+* [Glitch Blog](https://blog.glitch.com/)
+* [Repl.it Blog](https://blog.repl.it/)
+* [CodePen Blog](https://blog.codepen.io/)
+
+Product
+* [Twilio Blog](https://www.twilio.com/blog)
+
+Deploy
+* [Netlify Blog](https://www.netlify.com/blog/)
+* [Vercel Blog](https://vercel.com/blog)
+
+Web
+* [React Blog](https://reactjs.org/blog/)
+* [Vue News](https://news.vuejs.org/)
+* [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
+* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
+
+Databases
+* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
+* [CouchDB Blog](https://blog.couchbase.com/)
+* [Elastic Blog](https://www.elastic.co/blog/)
+* [MongoDB Blog](https://www.mongodb.com/blog)
+
+
+<!--
+Forum
+https://replit.com/talk/all
+
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+
+Twilio
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
+
+https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+-->
+
+<!--
+https://oo.t9t.io/organizations | Open companies
+
+Couchbase
+https://github.com/couchbase | couchbase
+https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
+
+https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
+https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+
+Elastic
+https://www.elastic.co/what-is/elk-stack
+
+Michael Lynn
+https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
+
+https://www.mongodb.com/resources
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
+https://mongodb.libsyn.com/ | The MongoDB Podcast
+
+MongoDB
+https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
+https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
+http://bsonspec.org/ | BSON (Binary JSON) Serialization
+-->
+
+<!--
+Aaron
+https://github.com/aaronbassett
+https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
+https://github.com/aaronbassett/FARM-starter
+https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
+https://twitter.com/aaronbassett/status/1381816315980218370
+
+Michael Lynn
+https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
+
+Colby Fayock
+https://github.com/colbyfayock
+https://www.youtube.com/colbz/videos
+-->
+
+## Streaming
+
+Twitch Streams
+* [Brian Douglas Twitch](https://www.twitch.tv/bdougieyo), [Brian Douglas YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg), and [Brian Douglas GitHub](https://github.com/bdougie/)
+* [Michelle Mannering Twitch](https://www.twitch.tv/mishmanners), [Mish Manners GitHub](https://github.com/MishManners), and [Mish Manners Twitter](https://twitter.com/MishManners)
+* [Anthony Sottile Twitch](https://www.twitch.tv/anthonywritescode) and [Anthony Sottile YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+
+<!--
+Great Dev Blogs
+https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
+
+GitHub- Twitch
+https://www.twitch.tv/github | (6) GitHub - Twitch
+https://www.twitch.tv/twitterdev
+https://www.twitch.tv/twilio
+https://www.twitch.tv/team/twilio
+
+https://www.twitch.tv/directory/following
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+Brian Douglas
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://twitter.com/bdougieYO
+
+https://github.com/bdougie/github-actions-continuous-delivery
+https://dinnerpeople.app/ | Dinner People
+
+https://discord.com/invite/gZMKK5q | Open Sauced
+https://opensauced.pizza/ | Open Sauced
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This is a project to identify your next open source contribution.
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
+-->
+
+<!--
+## Charlie
+
+https://github.com/charliegerard | charliegerard (Charlie)
+
+Book
+https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
+https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
+
+https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
+https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
+
+Safe Space
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
+
+## Sarah
+
+https://css-tricks.com/author/sdrasner/ | Sarah Drasner on CSS-Tricks - Archive - CSS-Tricks
+
+Articles
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+https://css-tricks.com/understanding-async-await/
+https://twitter.com/sarah_edo/status/1456638810343677952
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
+https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
+-->
+
+## Makers
+
+Women Who Inspire Me- JavaScript
+* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* [Feross Aboukhadijeh GitHub](https://github.com/feross)
+* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
+
+GitHub
+* [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+Women Who Inspire Me- Python
+* [Mariatta GitHub](https://github.com/mariatta)
+* [Lorena Mesa GitHub](https://github.com/lorenanicole)
+* [Jessica Garson GitHub](https://github.com/JessicaGarson)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+
+Women Who Inspire Me
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+<!--
+Makers
+https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
+https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
+https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
+
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+
+https://github.com/tj
+https://github.com/mikeal
+
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+-->
+
+## People
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+People
+* [GitHub Trending Developers](https://github.com/trending/developers)
+
+<!--
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://adventofcode.com/2020/leaderboard
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
 -->
