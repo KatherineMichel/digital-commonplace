@@ -187,6 +187,14 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
 
+<!--
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+-->
+
+
 ## Python Questions
 
 Python Stuff
@@ -207,11 +215,6 @@ PyCon US 2022
 https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
 PyCascades
 https://www.youtube.com/c/PyCascades/playlists
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
 -->
 
 
@@ -317,6 +320,7 @@ https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
+
 
 <!--
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
@@ -454,10 +458,6 @@ UML, TLA+
 Driven Development
 
 
-Leetcode
-https://leetcode.com/
-
-
 ## Interesting
 
 How They
@@ -473,6 +473,11 @@ https://github.com/kamranahmedse/design-patterns-for-humans
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+
+
+Leetcode
+https://leetcode.com/
 
 
 https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition
@@ -516,7 +521,6 @@ Event Sourcing
 https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
 https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
 
 
 ## High Performance Organizations
@@ -1094,6 +1098,7 @@ https://docs.djangoproject.com/en/3.2/releases/ | Release notes | Django documen
 https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
 https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
 -->
+
 
 ## Django Official Roadmap
 
