@@ -1,6 +1,12 @@
 ## Makers
 
 <!--
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+
 ## Twitter API
 
 https://developer.twitter.com/en/community/toolbox?ref=ps-tw-twitter-toolbox-overall-org&utm_source=tw&utm_medium=ps&utm_campaign=twitter-toolbox-overall-org | Toolbox | Twitter Developer Platform
