@@ -187,14 +187,6 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
 
-<!--
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
--->
-
-
 ## Python Questions
 
 Python Stuff
@@ -348,6 +340,10 @@ https://realpython.com/courses/documenting-python-code/ | Documenting Python Cod
 -->
 
 <!--
+https://stylestage.dev/styles/
+http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
+
+
 https://github.com/bradtraversy/vanillawebprojects
 https://github.com/bradtraversy/50projects50days
 
