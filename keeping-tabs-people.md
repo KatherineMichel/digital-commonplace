@@ -1,20 +1,27 @@
 ## Makers
+  
+Pieter Levels
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
+* [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
 
 <!--
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+
+https://nomadlist.com/open | Open Startups - Nomad List
+
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
+-->
 
 
-## Twitter API
-
-https://developer.twitter.com/en/community/toolbox?ref=ps-tw-twitter-toolbox-overall-org&utm_source=tw&utm_medium=ps&utm_campaign=twitter-toolbox-overall-org | Toolbox | Twitter Developer Platform
-
-https://twitter.com/ashevat/status/1491109873677139968 | Amir Shevat on Twitter: "We are experimenting with a developer API playground, and you can try it today: 1) Go to the link bellow 👇🏼 2) Click on "Try a live request" ✨ 3) Auth and run the API endpoint 🚀 4) Tell us what you think 📝 https://t.co/K4zPYmnvni Big thanks @i_am_daniele and team for this 💙" / Twitter
-https://twitter.com/ashevat/status/1488655530205843461 | Amir Shevat on Twitter: "A big step forward in our vision to help Twitter users discover solutions developers build over our API, as well as help Twitter developers get more users💙" / Twitter
-
-
+<!--
 Great examples
 Twitter
 https://glitch.com/@simonw | Simon Willison
@@ -53,27 +60,6 @@ https://github.com/simonw/sqlite-utils/tree/main/tests
 
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
--->
-  
-  
-Pieter Levels
-* [Pieter Levels Twitter](https://twitter.com/levelsio)
-* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
-* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
-* [Bootstrapping](https://levels.io/bootstrapping)
-* [Make Book](https://makebook.io)
-
-<!--
-https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
-
-https://nomadlist.com/open | Open Startups - Nomad List
-
-https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
-https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
-https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
-https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
-https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
-https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
 -->
 
 <!--
@@ -669,10 +655,6 @@ https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitte
 ### Anthony Sottile
 
 <!--
-Wordle clone
-https://www.youtube.com/watch?v=dViRI1iovoc
-
-
 ## Anthony Tools
 
 pre-commit
@@ -684,7 +666,9 @@ https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrep
 
 ## Anthony Project
 
-Projects
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
+
 https://www.youtube.com/watch?v=YZIy4U-2zI4 | The All-American Rejects - One More Sad Song - YouTube
 https://github.com/asottile2/askljdf | asottile2/askljdf
 
@@ -825,26 +809,6 @@ https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
 https://github.com/chriskuehl/shipit | chriskuehl/shipit
 -->
 
-<!--
-## Jeff
-
-https://github.com/jefftriplett/links/
-http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
-https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
-
-https://lfk.im/ | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
-https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
-
-https://github.com/lfk-im/downtownlawrence-data
-https://github.com/jefftriplett/lfk.im/blob/master/.github/workflows/actions.yml | lfk.im/actions.yml at master · jefftriplett/lfk.im
-https://github.com/jefftriplett/lfk.im | jefftriplett/lfk.im: Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
-https://lfk.im/?fbclid=IwAR1MBwTMMAGVRHjgat6MzqRNwCymwZiyuIyplpyhQBk5dNaWiojYJ8Cv-Ag | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
-
-https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon curbside takeout and delivery for local COVID-19 impacted businesses
-
-https://github.com/jefftriplett/djobs | jefftriplett/djobs
-https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
--->
 
 
 ## High Performance Trends
@@ -865,6 +829,8 @@ Stack
 * [SiteStacks](https://sitestacks.com)
 * [Built With](http://builtwith.com) 
 
+
+
 ## Showcases
 
 Python- Django- Sites
@@ -878,19 +844,20 @@ Built With
 * [Vue Showcase](https://madewithvuejs.com/)
 
 <!--
-https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
-
-* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
-https://web.archive.org/web/20200407235333/https://pwa.rocks/
-
 https://reactjs.org/community/examples.html
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
 
 * [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
 * [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
 
+
 https://madewithreactnative.com/
 
-https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
 -->
 
 
@@ -949,6 +916,20 @@ Playgrounds
 Product
 * [Twilio Blog](https://www.twilio.com/blog)
 
+<!--
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+Twilio
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
+
+https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+-->
+
 Deploy
 * [Netlify Blog](https://www.netlify.com/blog/)
 * [Vercel Blog](https://vercel.com/blog)
@@ -976,13 +957,6 @@ https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@The
 https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
 https://dev.to/salesforcedevs/
 https://dev.to/heroku/
-
-Twilio
-https://www.twilio.com/docs/tutorials
-https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
-https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
-
-https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
 -->
 
 <!--
@@ -997,9 +971,6 @@ https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Commun
 
 Elastic
 https://www.elastic.co/what-is/elk-stack
-
-Michael Lynn
-https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
 
 https://www.mongodb.com/resources
 https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
@@ -1021,6 +992,7 @@ https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.
 https://twitter.com/aaronbassett/status/1381816315980218370
 
 Michael Lynn
+https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
 https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
 
 Colby Fayock
@@ -1028,7 +1000,7 @@ https://github.com/colbyfayock
 https://www.youtube.com/colbz/videos
 -->
 
-## Streaming
+## Makers
 
 Twitch Streams
 * [Brian Douglas Twitch](https://www.twitch.tv/bdougieyo), [Brian Douglas YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg), and [Brian Douglas GitHub](https://github.com/bdougie/)
@@ -1068,25 +1040,27 @@ https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot
 -->
 
 <!--
-## Charlie
+## Jeff
 
-https://github.com/charliegerard | charliegerard (Charlie)
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
 
-Book
-https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
-https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
+https://lfk.im/ | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
 
-https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
-https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
+https://github.com/lfk-im/downtownlawrence-data
+https://github.com/jefftriplett/lfk.im/blob/master/.github/workflows/actions.yml | lfk.im/actions.yml at master · jefftriplett/lfk.im
+https://github.com/jefftriplett/lfk.im | jefftriplett/lfk.im: Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://lfk.im/?fbclid=IwAR1MBwTMMAGVRHjgat6MzqRNwCymwZiyuIyplpyhQBk5dNaWiojYJ8Cv-Ag | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
 
-Safe Space
-https://charliegerard.dev/blog/github-action-toxic-comments/
-https://github.com/charliegerard
-https://github.com/charliegerard/safe-space/
-https://github.com/charliegerard/safe-space/blob/master/index.js
+https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon curbside takeout and delivery for local COVID-19 impacted businesses
 
-https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
+https://github.com/jefftriplett/djobs | jefftriplett/djobs
+https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
+-->
 
+<!--
 ## Sarah
 
 https://css-tricks.com/author/sdrasner/ | Sarah Drasner on CSS-Tricks - Archive - CSS-Tricks
@@ -1108,7 +1082,28 @@ https://github.com/sdras/productive-twitter/
 https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
 -->
 
-## Makers
+<!--
+## Charlie
+
+https://github.com/charliegerard | charliegerard (Charlie)
+
+Book
+https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
+https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
+
+https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
+https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
+
+Safe Space
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
+-->
+
+## Makers List
 
 Women Who Inspire Me- JavaScript
 * [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
