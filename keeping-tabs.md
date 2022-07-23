@@ -1,6 +1,143 @@
 # Keeping Tabs
 
 <!--
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
+https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
+
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+https://stylestage.dev/styles/ | Styles Directory | Style Stage
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
+https://www.scala-lang.org/ | The Scala Programming Language
+
+https://github.com/python/cpython
+https://github.com/django/django
+
+https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://git-scm.com/docs | Git - Reference
+
+https://support.apple.com/en-us/HT201236 | Mac keyboard shortcuts - Apple Support
+
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
+https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts | Keymap reference | PyCharm
+https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
+https://www.jetbrains.com/help/pycharm/quick-start-guide.html | Get started | PyCharm
+
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.2.0 documentation
+https://pypi.org/project/django-debug-toolbar/ | django-debug-toolbar · PyPI
+
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+
+https://sentry.io/welcome/ | Application Monitoring and Error Tracking Software | Sentry
+https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
+https://www.datadoghq.com/ | Cloud Monitoring as a Service | Datadog
+https://www.loggly.com/ | Log Analysis | Log Management by Loggly
+
+https://www.django-rest-framework.org/ | Home - Django REST framework
+https://graphql.org/ | GraphQL | A query language for your API
+https://reactjs.org/ | React – A JavaScript library for building user interfaces
+https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
+
+Database GIS
+https://postgis.net/
+https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
+
+
+http://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+https://sre.google/books/ | Google - Site Reliability Engineering
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
+https://mitpress.mit.edu/books/introduction-algorithms-fourth-editionhttps://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Page not found (error) | The MIT Press
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://python-patterns.guide/ | Python Design Patterns
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+
+https://www.djangosites.org/with-source/
+https://djangopackages.org/
+
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+https://egghead.io/ | Build the portfolio you need to be a badass web developer. | egghead.io
+https://www.oreilly.com/online-learning/?utm_medium=search&utm_source=google.com&utm_campaign=B2B+Search&utm_content=live+demo&gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDIJjolrKkCCP0tfciOQrKR5kgtWme9LLw3lWjDc5FMnD8a54msKdj0aAiLdEALw_wcB | Online Learning and Training - O'Reilly Media
+
+Learning resources
+https://realpython.com/ | Python Tutorials – Real Python
+https://towardsdatascience.com/ | Towards Data Science
+https://www.fullstackpython.com/table-of-contents.html | Table of Contents for Full Stack Python
+https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
+
+https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
+https://treyhunner.com/ | Trey Hunner
+https://mherman.org/talks | Talks and Trainings
+
+http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
+https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/ | Page not found - Python Crash Course, 2nd Edition
+
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+
+
+https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
+
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results for python tutorials - DEV Community
+https://dev.to/search?q=python%20tutorial | Search Results for python tutorial - DEV Community
+https://dev.to/search?q=python | Search Results for python - DEV Community
+https://hackernoon.com/search?query=python | https://hackernoon.com/search?query=python
+https://app.hackernoon.com/boot | HackerNoon 2.0
+https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
+https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
+https://www.digitalocean.com/community/tags/python | Python tutorials, questions, and resources | DigitalOcean
+https://dev.to/t/python | Python - DEV Community
+
+https://pyvideo.org/ | PyVideo.org
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl | PyCon US 2022 - YouTube
+https://www.youtube.com/c/PyCascades/playlists | PyCascades - YouTube
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+-->
+
+
+<!--
 ### Art
 
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
