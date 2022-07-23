@@ -92,7 +92,14 @@ https://github.blog/2020-02-27-were-challenging-you-to-create-your-very-own-gith
 -->
 
 <!--
-Games
+## Local Competitions and Hackathons
+
+https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
+https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
+
+https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
+https://github.com/devict | devICT
+
 DevICT Gam Jam
 https://globalgamejam.org/2021/jam-sites/ict-game-jam-devict | ICT Game Jam | Global Game Jam Online
 https://www.facebook.com/events/2660469363985880/ | 2019 ICT Game Jam - July 26-28 at Butler Community College
