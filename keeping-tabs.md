@@ -53,17 +53,6 @@ Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
 -->
 
-<!--
-## Local Competitions and Hackathons
-
-Game Jam
-https://github.com/devict/ictgamejam-guide | devict/ictgamejam-guide: Wisdom commonly shared by the #gamedev channel in the Slack team for devICT
-https://itch.io/jam/2018-february-ict-game-jam | 2018 February ICT Game Jam - itch.io
-
-https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
-https://github.com/devict | devICT
--->
-
 
 ## Top
 
@@ -129,38 +118,6 @@ https://twitter.com/djangoproject/
 -->
 
 
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-
 ## Python Articles and Tutorials
 
 Python Tutorials
@@ -179,6 +136,8 @@ Data Science Articles and Tutorials
 * [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
 <!--
+https://bloggingfordevs.com/python-blogs/
+
 https://dev.to/t/python
 
 https://www.digitalocean.com/community/tags/python
@@ -186,13 +145,11 @@ https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
 
-
 ## Python Questions
 
 Python Stuff
 * [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
 * [Reddit Python](https://www.reddit.com/r/Python)
-
 
 
 ## Python Learning Resources- Set Aside
@@ -267,12 +224,6 @@ https://egghead.io/
 O'Reilly Media
 
 https://www.mattlayman.com/understand-django/templates-user-interfaces/
-
-
-
-https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
-
-https://jvns.ca/blog/2022/03/08/tiny-programs/ | Some tiny personal programs I've written
 
 
 Beyond the Basic Stuff with Python
@@ -502,7 +453,6 @@ https://refactoring.guru/design-patterns/ | Design Patterns
 https://www.martinfowler.com/ | martinfowler.com
 https://martinfowler.com/eaaCatalog/
 
-
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
@@ -532,12 +482,11 @@ Useful Websites
 * [High Scalability](http://highscalability.com/)
 * [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
-
 High Scalability
 http://highscalability.com/blog/category/example
 
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
 
 ## Google
 
@@ -548,12 +497,10 @@ https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Googl
 
 ## SRE
 
-https://landing.google.com/sre/books
-
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 
+https://landing.google.com/sre/books
 https://sre.google/books/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
 https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
@@ -582,7 +529,7 @@ https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.
 
 
 Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | 
+https://github.com/drduh/macOS-Security-and-Privacy-Guide 
 
 
 ## Books
@@ -660,16 +607,19 @@ https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceC
 PyCharm's top keyboard shortcuts
 https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
 https://www.jetbrains.com/help/pycharm/keymap-reference.html | Keymap reference | PyCharm
+
+Profiler
+https://www.jetbrains.com/help/pycharm/profiler.html
 -->
 
+
 <!--
-https://blog.jetbrains.com/pycharm/2022/03/2021-3-3/ | PyCharm 2021.3.3 Is Available | The PyCharm Blog
+https://blog.jetbrains.com/pycharm/
 
 Release
 https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
 
 https://www.jetbrains.com/help/pycharm/
-https://blog.jetbrains.com/pycharm/
 https://www.jetbrains.com/help/pycharm/installation-guide.html | Install PyCharm | PyCharm
 
 https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
@@ -690,11 +640,13 @@ https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-py
 https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
 -->
 
+
 <!--
 VS Code for Python Dev
 https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
 https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
 -->
+
 
 ## Useful Files
 
@@ -766,6 +718,7 @@ http://www.w3schools.com/sql/default.asp
 https://www.sqlite.org/
 https://www.sqlite.org/lang.html
 https://www.sqlite.org/docs.html
+https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://www.postgresql.org/docs/current/sql.html
 https://www.postgresql.org/docs/current/app-psql.html
@@ -994,6 +947,36 @@ https://python-release-cycle.glitch.me/ | Python Release Cycle
 https://django-release-cycle.glitch.me/
 https://jefftriplett.com/django-release-cycle/
 https://twitter.com/webology/status/1235628234148110336
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 -->
 
 ## Git News
