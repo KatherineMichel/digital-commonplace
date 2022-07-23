@@ -1,6 +1,10 @@
 # Keeping Tabs
 
 <!--
+https://egghead.io/
+O'Reilly Media
+
+
 https://github.com/anthonywritescode/explains
 https://testdriven.io/blog/
 https://www.fullstackpython.com/
@@ -29,9 +33,6 @@ SQL
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
 
-
-https://egghead.io/
-O'Reilly Media
 
 GitHub Mobile
 https://github.com/mobile | GitHub Mobile
@@ -87,6 +88,7 @@ https://github.com/devict | devICT
 
 <!--
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
 
 
 The Science of Well Being
@@ -166,11 +168,6 @@ https://basecamp.com/gettingreal
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
 
 
-Great release managers
-https://github.com/hynek
-https://github.com/pganssle
-
-
 Great examples
 Twitter
 https://glitch.com/@simonw | Simon Willison
@@ -209,6 +206,7 @@ https://github.com/simonw/sqlite-utils/tree/main/tests
 
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+
 
 
 https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
@@ -957,6 +955,9 @@ Python, Django
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com/)
 
+Scala
+* [Scala](https://www.scala-lang.org/)
+
 Debugging and Profiling
 * [Django Shell Plus](https://django-extensions.readthedocs.io/en/latest/shell_plus.html)
 * [pdb](https://docs.python.org/3/library/pdb.html)
@@ -1288,6 +1289,8 @@ https://www.digitalocean.com/community/tags/python
 https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
+
+## Lawrence
 
 ### Networking and Events
 
