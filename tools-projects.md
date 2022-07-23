@@ -157,6 +157,11 @@ App Ideas
 * [Project-Based Learning GitHub](https://github.com/tuvtran/project-based-learning)
 
 <!--
+https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
+
+https://jvns.ca/blog/2022/03/08/tiny-programs/ | Some tiny personal programs I've written
+
+
 https://github.com/karan/Projects | karan/Projects: A list of practical projects that anyone can solve in any programming language.
 
 
@@ -188,6 +193,7 @@ https://twitter.com/ravinwashere/status/1266322607873257472 | 𝗥𝗮𝘃𝗶�
 
 https://github.com/mahmoud/apatite | mahmoud/apatite: Awesomer awesome list management and analysis, originally designed for Awesome Python Applications
 -->
+
 
 <!--
 ## Important
