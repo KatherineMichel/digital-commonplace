@@ -53,43 +53,6 @@ https://github.com/simonw/sqlite-utils/tree/main/tests
 
 https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
 https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
-
-
-
-Boost Your Django DX
-https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
-
-Speed Up Your Django Tests
-https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
-https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
-
-https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
-Is it described as “production ready”?
-Is there sufficient documentation?
-Is there a changelog?
-Is someone responding to bug reports?
-Are there sufficient tests?
-Are the tests running with the latest <Language> version?
-Are the tests running with the latest <Integration> version?
-Is there a Continuous Integration (CI) configuration?
-Is the CI passing?
-Does it seem relatively well used?
-Has there been a commit in the last year?
-Has there been a release in the last year?
-
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-Do you use source control?
-Can you make a build in one step?
-Do you make daily builds?
-Do you have a bug database?
-Do you fix bugs before writing new code?
-Do you have an up-to-date schedule?
-Do you have a spec?
-Do programmers have quiet working conditions?
-Do you use the best tools money can buy?
-Do you have testers?
-Do new candidates write code during their interview?
-Do you do hallway usability testing?
 -->
   
   
@@ -425,6 +388,14 @@ https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on 
 
 ## Adam
 
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+
+Uniform commit messages
+https://github.com/adamchainz/django-perf-rec
+https://gumroad.com/l/suydt
+
+
+## Git Rebase
 https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
 
 ## Django HTMX
@@ -448,6 +419,34 @@ https://adamj.eu/tech/2021/11/04/the-well-maintained-test/ | The Well-Maintained
 https://twitter.com/ryancheley/status/1462970339768426498 | The B Is Silent on Twitter: "New Post: The Well Maintained Test https://t.co/xigqGCpcxT which was inspired by an article written by @AdamChainz and tools built by @simonw @willmcgugan! Such a great #Python community out there with lots of tools to help you build cool stuff! 💯" / Twitter
 https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
 
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
+Is it described as “production ready”?
+Is there sufficient documentation?
+Is there a changelog?
+Is someone responding to bug reports?
+Are there sufficient tests?
+Are the tests running with the latest <Language> version?
+Are the tests running with the latest <Integration> version?
+Is there a Continuous Integration (CI) configuration?
+Is the CI passing?
+Does it seem relatively well used?
+Has there been a commit in the last year?
+Has there been a release in the last year?
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+Do you use source control?
+Can you make a build in one step?
+Do you make daily builds?
+Do you have a bug database?
+Do you fix bugs before writing new code?
+Do you have an up-to-date schedule?
+Do you have a spec?
+Do programmers have quiet working conditions?
+Do you use the best tools money can buy?
+Do you have testers?
+Do new candidates write code during their interview?
+Do you do hallway usability testing?
+
 ## Django Optimization
 
 Optimize ORM
@@ -455,13 +454,14 @@ https://twitter.com/AdamChainz/status/1405805494158123008 | Adam Johnson on Twit
 how to optimize your use of the ORM: https://t.co/vWPPa6Sckr" / Twitter
 
 
+## Books
 
-https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+Boost Your Django DX
+https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
 
-Uniform commit messages
-https://github.com/adamchainz/django-perf-rec
-https://gumroad.com/l/suydt
-
+Speed Up Your Django Tests
+https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
+https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
 
 https://adamchainz.gumroad.com/l/byddx | Boost Your Django DX
 
