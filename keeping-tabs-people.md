@@ -425,14 +425,43 @@ https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on 
 
 ## Adam
 
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
+## Django HTMX
+
+https://github.com/adamchainz/django-htmx
+https://twitter.com/AdamChainz/status/1456031360167157765 | Adam Johnson on Twitter: "A set of videos demonstrating several UI patterns using Django with HTMX" / Twitter
+
+## Single Something
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+
+## Well Maintained
+
+The Well Maintained Test
+https://twitter.com/AdamChainz/status/1456347321415917569 | Adam Johnson on Twitter: "✍️ I’ve come up with a test that we can use to decide whether a new package we’re considering depending on is well-maintained. https://t.co/vW08nG67cH" / Twitter
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/ | The Well-Maintained Test: 12 Questions for New Dependencies - Adam Johnson
+https://twitter.com/ryancheley/status/1462970339768426498 | The B Is Silent on Twitter: "New Post: The Well Maintained Test https://t.co/xigqGCpcxT which was inspired by an article written by @AdamChainz and tools built by @simonw @willmcgugan! Such a great #Python community out there with lots of tools to help you build cool stuff! 💯" / Twitter
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+## Django Optimization
+
+Optimize ORM
+https://twitter.com/AdamChainz/status/1405805494158123008 | Adam Johnson on Twitter: "This is your infrequent reminder that the Django docs has a great page on 
+how to optimize your use of the ORM: https://t.co/vWPPa6Sckr" / Twitter
+
+
+
 https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
 
 Uniform commit messages
 https://github.com/adamchainz/django-perf-rec
 https://gumroad.com/l/suydt
 
-htmx
-https://twitter.com/AdamChainz/status/1456031360167157765 | Adam Johnson on Twitter: "A set of videos demonstrating several UI patterns using Django with HTMX" / Twitter
 
 https://adamchainz.gumroad.com/l/byddx | Boost Your Django DX
 
@@ -440,12 +469,13 @@ Important!!!!!!!
 https://twitter.com/AdamChainz/status/1458767133190594566 | Adam Johnson on Twitter: "Does this chapter have enough tools in it? https://t.co/UGyiFH0wSM" / Twitter
 https://twitter.com/Ry_Austin/status/1481290364770209793 | Ryan on Twitter: "In the first few pages of @AdamChainz new book BYDDX I picked up a few nice resources. From https://t.co/FLgTynB3Ns and https://t.co/A553BpfTPj where I picked up {% empty %} and used it in a neat little for-(if-else)-empty combination." / Twitter
 
-Single something
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
-https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
-https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
-https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
-https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+DevOps
+Watchman
+https://adamj.eu/tech/2021/01/20/efficient-reloading-in-djangos-runserver-with-watchman/
+https://stackoverflow.com/questions/55831728/what-is-statreloader-while-running-django | What is StatReloader while running Django? - Stack Overflow
+
+
+## Tips
 
 Type hints
 https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/ | Python Type Hints - Use Cases for the types Module - Adam Johnson
@@ -455,16 +485,6 @@ https://adamj.eu/tech/2019/04/30/getting-a-django-application-to-100-percent-cov
 Test
 https://adamj.eu/tech/2021/01/04/2021-01-04-better-exception-output-in-djangos-test-runner-with-better-exceptions/ | 404: Page not found - Adam Johnson
 https://adamj.eu/tech/2020/09/05/what-happens-when-you-run-manage.py-test/ | What happens when you run manage.py test? - Adam Johnson
-
-The Well Maintained Test
-https://twitter.com/AdamChainz/status/1456347321415917569 | Adam Johnson on Twitter: "✍️ I’ve come up with a test that we can use to decide whether a new package we’re considering depending on is well-maintained. https://t.co/vW08nG67cH" / Twitter
-https://adamj.eu/tech/2021/11/04/the-well-maintained-test/ | The Well-Maintained Test: 12 Questions for New Dependencies - Adam Johnson
-https://twitter.com/ryancheley/status/1462970339768426498 | The B Is Silent on Twitter: "New Post: The Well Maintained Test https://t.co/xigqGCpcxT which was inspired by an article written by @AdamChainz and tools built by @simonw @willmcgugan! Such a great #Python community out there with lots of tools to help you build cool stuff! 💯" / Twitter
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-
-Optimize ORM
-https://twitter.com/AdamChainz/status/1405805494158123008 | Adam Johnson on Twitter: "This is your infrequent reminder that the Django docs has a great page on 
-how to optimize your use of the ORM: https://t.co/vWPPa6Sckr" / Twitter
 
 https://adamj.eu/tech/2020/02/25/use-python-m-pip-everywhere/ | Use ‘python -m pip’ Everywhere - Adam Johnson
 
@@ -486,26 +506,23 @@ Memory Leaks
 https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
 https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
 
-django-htmx
-https://github.com/adamchainz/django-htmx
-
 Database Instrumentation Tooling
 https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
 https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
 
-https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
-https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
 
-DevOps
-Watchman
-https://adamj.eu/tech/2021/01/20/efficient-reloading-in-djangos-runserver-with-watchman/
-https://stackoverflow.com/questions/55831728/what-is-statreloader-while-running-django | What is StatReloader while running Django? - Stack Overflow
+## Upgrade
 
 Django Upgrade
 https://adamj.eu/tech/2021/09/16/introducing-django-upgrade/ | Introducing django-upgrade, a tool for upgrading your Django projects - Adam Johnson
 
 PyUpgrade
 https://adamj.eu/tech/2021/05/21/python-type-hints-how-to-upgrade-syntax-with-pyupgrade/ | Python Type Hints - How to Upgrade Syntax with pyupgrade - Adam Johnson
+
+## Adam's Packages
+
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
 
 Django Browser Reload
 https://twitter.com/AdamChainz/status/1472497566810001418 | Adam Johnson on Twitter: "👨‍💻 With a little bit of morning coding I have got django-browser-reload triggering a reload when a static asset changes. I want to also make it work on Django’s debug page before doing a second release. https://t.co/Pw9k5cmO2G" / Twitter
