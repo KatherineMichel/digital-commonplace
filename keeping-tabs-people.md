@@ -369,10 +369,10 @@ Datasette Desktop App
 https://simonwillison.net/2021/Aug/30/datasette-app/ | Building a desktop application for Datasette (and weeknotes)
 https://github.com/simonw/datasette.app | simonw/datasette.app: Electron app wrapping Datasette
 
-<!--
+
 Electron
 https://twitter.com/pydanny/status/1481345258084442112 | Daniel Roy Greenfeld on Twitter: "Dear lazy web: Is there a way to bundle Electron apps to integrate with Python code that works across all platforms, especially Windows?" / Twitter
--->
+
 
 Datasette Desktop App
 https://twitter.com/simonw/status/1432211934179323904 | Simon Willison on Twitter: "Building a desktop application for Datasette - my progress so far researching a proof-of-concept Electron app wrapping Datasette, for ease of installation by new users https://t.co/9arCNKwJK1" / Twitter
