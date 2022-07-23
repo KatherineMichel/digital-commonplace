@@ -83,33 +83,6 @@ https://github.com/sdras/productive-twitter/
 https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
 
 
-## Anthony
-
-Anthony Explains
-https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
-https://github.com/anthonywritescode/explains | anthonywritescode/explains: more easily searchable list of explains playlist
-
-https://github.com/asottile
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-## Anthony Tools
-
-pre-commit
-https://pre-commit.com/ | pre-commit
-https://github.com/pre-commit/pre-commit/
-
-https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
-https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
-
-## Anthony Project
-
-Projects
-https://www.youtube.com/watch?v=YZIy4U-2zI4 | The All-American Rejects - One More Sad Song - YouTube
-https://github.com/asottile2/askljdf | asottile2/askljdf
-
-https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
-
-
 ## Jeff
 
 https://github.com/jefftriplett/links/
@@ -653,6 +626,8 @@ https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d9599
 ### Paul Ganssle
 
 <!--
+https://github.com/pganssle
+
 https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
 
 https://twitter.com/pganssle/status/1262094764004040707 | Paul Ganssle on Twitter: "If anyone has strong feelings about how to get a list of available time zones on Python, please comment here — feature freeze is tomorrow! Issue: https://t.co/OnxWURMV1N PR: https://t.co/jOShLh47kD Bit of an oversight that this wasn't in PEP 615... #python" / Twitter
@@ -663,6 +638,33 @@ https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitte
 -->
 
 ### Anthony Sottile
+
+<!--
+Anthony Explains
+https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
+https://github.com/anthonywritescode/explains | anthonywritescode/explains: more easily searchable list of explains playlist
+
+https://github.com/asottile
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+## Anthony Tools
+
+pre-commit
+https://pre-commit.com/ | pre-commit
+https://github.com/pre-commit/pre-commit/
+
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
+## Anthony Project
+
+Projects
+https://www.youtube.com/watch?v=YZIy4U-2zI4 | The All-American Rejects - One More Sad Song - YouTube
+https://github.com/asottile2/askljdf | asottile2/askljdf
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+-->
+
 
 Builds lots of productivity tools, linters, and code formatters
 
