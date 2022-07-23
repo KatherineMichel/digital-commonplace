@@ -1,56 +1,6 @@
 # Keeping Tabs
 
 <!--
-https://egghead.io/
-O'Reilly Media
-
-
-https://github.com/anthonywritescode/explains
-https://testdriven.io/blog/
-https://www.fullstackpython.com/
-
-https://github.com/abhivaikar/howtheytest
-
-http://highscalability.com/start-here/
-http://highscalability.com/all-time-favorites/
-
-https://inventwithpython.com/bigbookpython/
-
-https://github.com/bradtraversy/vanillawebprojects
-https://github.com/bradtraversy/50projects50days
-
-https://python-patterns.guide/
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-
-
-Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | 
-
-SQL
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
-
-
-GitHub Mobile
-https://github.com/mobile | GitHub Mobile
-
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
-
-
-## Shipping
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
-
-
 ### Art
 
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
@@ -68,6 +18,23 @@ https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussio
 https://www.python.org/events/
 
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+
+GitHub Mobile
+https://github.com/mobile | GitHub Mobile
+
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
+
+## Shipping
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 -->
 
 <!--
@@ -97,9 +64,298 @@ https://devict-hacktoberfest.herokuapp.com/profile | devICT Hacktoberfest 2020
 https://github.com/devict | devICT
 -->
 
+
+## Top
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+Django News
+* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
+
+GitHub Trending Python
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+<!--
+https://github.com/python/cpython
+https://github.com/django/django
+
+https://speed.python.org/ | Python Speed Center
+
+
+http://djangopeople.net/us/
+
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
+Django Snippets
+https://djangosnippets.org/
+
+
+https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
+https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+
+https://planetpython.org/ | Planet Python
+
+https://bas.codes/ | Bas codes
+https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
+-->
+
+## Python and Django Official
+
+Python
+* [Pythonic News](https://news.python.sc/)
+* [What's New](https://docs.python.org/dev/whatsnew/)
+* [Python Insider](https://pythoninsider.blogspot.com/)
+
+PEPs
+* [PEP Index](https://www.python.org/dev/peps)
+
+Django Blog and Announcements
+* [Django Blog](https://www.djangoproject.com/weblog/)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+<!--
+https://twitter.com/djangoproject/
+-->
+
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+
+## Python Articles and Tutorials
+
+Python Tutorials
+* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
+* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
+
+Python Articles
+* [The Practical Dev Python](https://dev.to/search?q=python)
+* [Hacker Noon Python](https://hackernoon.com/search?query=python)
+* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
+* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Medium Python](https://medium.com/tag/python)
+
+Data Science Articles and Tutorials
+* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
+
+<!--
+https://dev.to/t/python
+
+https://www.digitalocean.com/community/tags/python
+https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
+https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
+-->
+
+
+## Python Questions
+
+Python Stuff
+* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
+* [Reddit Python](https://www.reddit.com/r/Python)
+
+
+
+## Python Learning Resources- Set Aside
+
+<!--
+https://pyvideo.org/ | PyVideo.org
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+-->
+
+
+TestDriven.io
+* [Test Driven Blog](https://testdriven.io/blog/)
+
+Simple is Better Than Complex
+* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
+
+Real Python
+* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
+* [Real Python Courses](https://realpython.com/courses)
+* [Real Python Materials](https://github.com/realpython/materials)
+* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
+
+<!--
+Code with Anthony
+https://www.youtube.com/anthonywritescode
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
+
+Anthony Explains
+https://github.com/anthonywritescode/explains
+https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
+
+https://github.com/asottile
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://towardsdatascience.com/
+-->
+
+Full Stack Python
+* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
+* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
+* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
+
+Trey Hunner
+* [Trey Hunner](https://treyhunner.com/)
+
+Michael
+* [Michael Herman](https://mherman.org/talks)
+
+<!--
+https://mherman.org/presentations/pytn-2018/#1
+https://mherman.org/presentations/flask-kubernetes/#1
+https://mherman.org/presentations/dockercon-2018/#1
+https://mherman.org/presentations/test-driven-writing/#1
+https://www.crowdcast.io/e/learning
+-->
+
+David Beazley
+* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
+## Python Learning Resources
+
+<!--
+https://egghead.io/
+O'Reilly Media
+
+
+https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
+
+https://jvns.ca/blog/2022/03/08/tiny-programs/ | Some tiny personal programs I've written
+
+
+Beyond the Basic Stuff with Python
+https://inventwithpython.com/beyond/
+
+Impractical Python Projects
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+
+Al
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
+https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
+
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+http://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
+
+https://nostarch.com/recursive-book-recursion | The Recursive Book of Recursion | No Starch Press
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
+
+
+No Starch
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://nostarch.com/seriouspython | Serious Python | No Starch Press
+
+Eric
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
+
+https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
+
+https://github.com/rmpr/atbswp
+https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
+
+https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
+https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
+https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+-->
+
+<!--
+https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
+https://testdriven.io/blog/python-project-workflow/ | Python Project Workflow | TestDriven.io
+
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://testdriven.io/guides/flask-deep-dive/ | Deep Dive Into Flask Guide| TestDriven.io
+
+https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
+
+https://testdriven.io/blog/tdd-benefits/ | Improving Code Confidently with Test-Driven Development | TestDriven.io
+
+Testing
+https://testdriven.io/blog/testing-python/
+https://testdriven.io/blog/modern-tdd/
+https://realpython.com/pytest-python-testing/
+https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
+https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
+https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
+https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
+
+## Documenting
+
+https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
+-->
+
+<!--
+https://github.com/bradtraversy/vanillawebprojects
+https://github.com/bradtraversy/50projects50days
+
+SQL
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
+-->
+
+
+
 <!--
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
 
 
 The Science of Well Being
@@ -179,122 +435,6 @@ https://basecamp.com/gettingreal
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
 
 
-Great examples
-Twitter
-https://glitch.com/@simonw | Simon Willison
-https://github.com/simonw
-
-
-https://simonwillison.net/2021/Jul/17/standing-out/
-
-Start a blog. Post an interesting technical article to it once or twice a year—something you’ve learned, or a bug you’ve fixed, or a problem you’ve solved. After a few years stop bothering entirely, but leave the blog online somewhere.
-
-Build a small personal project and put the code on GitHub. Accompany it with a README with a detailed description of the project and screenshots of it in action—almost no-one does this, it only takes a few hours extra and it massively increases the impact your project will have on hiring managers who are checking you out.
-
-There’s plenty more you can do if you want to put the effort in: build an audience on Twitter, start a newsletter, make videos, give talks (ideally that get recorded and published online), release open source packages, publish TILss.
-
-Simon
-https://simonwillison.net/2022/
-
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
-https://github.com/simonw/simonw/blob/main/releases.md
-https://sqlite-utils.datasette.io/en/stable/cli.html#cli-create-database
-https://github.com/simonw/sqlite-utils/issues/348
-https://sqlite-utils.datasette.io/en/stable/contributing.html
-https://github.com/simonw/python-lib
-https://github.com/simonw/datasette-plugin
-https://github.com/simonw/click-app
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
-https://pytest-django.readthedocs.io/en/latest/
-https://pytest-django.readthedocs.io/en/latest/configuring_django.html#configuring-django-settings
-https://pytest-django.readthedocs.io/en/latest/faq.html#faq-tests-not-being-picked-up
-https://github.com/pytest-dev/pytest-xdist
-https://docs.djangoproject.com/en/3.0/topics/testing/tools/#the-test-client
-
-Test examples
-https://github.com/simonw/datasette/tree/main/tests
-https://github.com/simonw/sqlite-utils/tree/main/tests
-
-https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
-https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
-
-
-
-https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
-https://testdriven.io/blog/python-project-workflow/ | Python Project Workflow | TestDriven.io
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://testdriven.io/guides/flask-deep-dive/ | Deep Dive Into Flask Guide| TestDriven.io
-
-https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
-
-https://testdriven.io/blog/tdd-benefits/ | Improving Code Confidently with Test-Driven Development | TestDriven.io
-
-Testing
-https://testdriven.io/blog/testing-python/
-https://testdriven.io/blog/modern-tdd/
-https://realpython.com/pytest-python-testing/
-https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
-https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
-https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
-https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
-
-## Documenting
-
-https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
-
-
-Boost Your Django DX
-https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
-
-Speed Up Your Django Tests
-https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
-https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
-
-
-http://djangopeople.net/us/
-
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
-
-
-CPython
-https://github.com/python/cpython
-
-https://speed.python.org/ | Python Speed Center
-
-
-https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
-Is it described as “production ready”?
-Is there sufficient documentation?
-Is there a changelog?
-Is someone responding to bug reports?
-Are there sufficient tests?
-Are the tests running with the latest <Language> version?
-Are the tests running with the latest <Integration> version?
-Is there a Continuous Integration (CI) configuration?
-Is the CI passing?
-Does it seem relatively well used?
-Has there been a commit in the last year?
-Has there been a release in the last year?
-
-https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
-Do you use source control?
-Can you make a build in one step?
-Do you make daily builds?
-Do you have a bug database?
-Do you fix bugs before writing new code?
-Do you have an up-to-date schedule?
-Do you have a spec?
-Do programmers have quiet working conditions?
-Do you use the best tools money can buy?
-Do you have testers?
-Do new candidates write code during their interview?
-Do you do hallway usability testing?
-
 https://en.wikipedia.org/wiki/Cron
 https://en.wikipedia.org/wiki/Continuous_integration
 
@@ -318,6 +458,23 @@ Leetcode
 https://leetcode.com/
 
 
+## Interesting
+
+How They
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre
+
+http://highscalability.com/start-here/
+http://highscalability.com/all-time-favorites/
+
+https://python-patterns.guide/
+https://github.com/ittus/Refactoring-summary-2nd-javascript
+https://github.com/kamranahmedse/design-patterns-for-humans
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+
+
 https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition
 https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
 
@@ -327,12 +484,6 @@ https://github.com/faif/python-patterns | faif/python-patterns: A collection of 
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
-
-Python Patterns
-https://python-patterns.guide/
-https://github.com/kamranahmedse/design-patterns-for-humans
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript
 
 
 ## Refactoring and Patterns
@@ -351,9 +502,6 @@ https://martinfowler.com/eaaCatalog/
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
-
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
 
@@ -370,6 +518,7 @@ https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 
 
+
 ## High Performance Organizations
 
 https://github.com/KatherineMichel/organizations
@@ -383,16 +532,9 @@ Useful Websites
 https://martinfowler.com/architecture/ | Software Architecture Guide
 
 High Scalability
-http://highscalability.com/start-here/
-http://highscalability.com/all-time-favorites/
 http://highscalability.com/blog/category/example
 
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-## How They
-
-https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre
 
 ## Google
 
@@ -436,6 +578,10 @@ https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-k
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 
+Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | 
+
+
 ## Books
 
 Clean Code
@@ -448,120 +594,6 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - 
 
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
--->
-
-
-## Python Learning Resources- Set Aside
-
-<!--
-https://pyvideo.org/ | PyVideo.org
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
--->
-
-TestDriven.io
-* [Test Driven Blog](https://testdriven.io/blog/)
-
-Simple is Better Than Complex
-* [Simple is Better Than Complex](https://simpleisbetterthancomplex.com/)
-
-Real Python
-* [Real Python](https://realpython.com/) and [Real Python GitHub](https://github.com/realpython/)
-* [Real Python Courses](https://realpython.com/courses)
-* [Real Python Materials](https://github.com/realpython/materials)
-* [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
-* [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
-
-<!--
-Code with Anthony
-https://www.youtube.com/anthonywritescode
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
-Wordle clone
-https://www.youtube.com/watch?v=dViRI1iovoc
-
-https://towardsdatascience.com/
--->
-
-Full Stack Python
-* [Matt Makai: Full Stack Python](https://www.fullstackpython.com)
-* [Matt Makai: Full Stack Python Table of Contents](https://www.fullstackpython.com/table-of-contents.html)
-* [Matt Makai: Full Stack Python GitHub](https://github.com/fullstackpython) and [Full Stack Python Code Examples GitHub](https://github.com/fullstackpython/book-code-examples)
-
-Trey Hunner
-* [Trey Hunner](https://treyhunner.com/)
-
-Michael
-* [Michael Herman](https://mherman.org/talks)
-
-<!--
-https://mherman.org/presentations/pytn-2018/#1
-https://mherman.org/presentations/flask-kubernetes/#1
-https://mherman.org/presentations/dockercon-2018/#1
-https://mherman.org/presentations/test-driven-writing/#1
-https://www.crowdcast.io/e/learning
--->
-
-David Beazley
-* [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
-
-## Python Learning Resources
-
-<!--
-https://github.com/Python-World/python-mini-projects | Python-World/python-mini-projects: A collection of simple python mini projects to enhance your python skills
-
-https://jvns.ca/blog/2022/03/08/tiny-programs/ | Some tiny personal programs I've written
-
-
-Beyond the Basic Stuff with Python
-https://inventwithpython.com/beyond/
-
-Impractical Python Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-
-Al
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
-https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-http://inventwithpython.com/beyond/
-https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
-
-https://nostarch.com/recursive-book-recursion | The Recursive Book of Recursion | No Starch Press
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
-
-
-No Starch
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-https://nostarch.com/seriouspython | Serious Python | No Starch Press
-
-Eric
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
-https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
-
-https://github.com/rmpr/atbswp
-https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on Twitter: "atbswp - Literally Automate the boring stuff with Python, allows the user to record his mouse and keyboard actions and reproduce them identically as many times as he wants. https://t.co/4dJKkeL9HB #python #automation https://t.co/RpS4trr4En" / Twitter
-
-https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
-https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
-https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
 
 
@@ -924,6 +956,7 @@ https://en.wikipedia.org/wiki/Cardinality
 https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
 -->
 
+
 ## Stack
 
 Diagrams and Mockups
@@ -1062,65 +1095,6 @@ https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
 https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
 -->
 
-
-## Top
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-Python
-* [Pythonic News](https://news.python.sc/)
-
-Django News
-* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
-
-<!--
-https://bas.codes/ | Bas codes
--->
-
-Django Blog and Announcements
-* [Django Blog](https://www.djangoproject.com/weblog/)
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-
-GitHub Trending Python
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Topic Python](https://github.com/topics/python)
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-<!--
-https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
-https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
-
-https://twitter.com/djangoproject/
-
-https://planetpython.org/ | Planet Python
-
-https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-
 ## Django Official Roadmap
 
 New Releases
@@ -1142,16 +1116,9 @@ https://www.djangoproject.com/community/ | Django Community | Django
 
 ## Python Official
 
-General
-* [What's New](https://docs.python.org/dev/whatsnew/)
-* [Python Insider](https://pythoninsider.blogspot.com/)
-
 * [What's New Python 3](https://docs.python.org/3/whatsnew/)
 
 * [Python Discuss](https://discuss.python.org)
-
-PEPs
-* [PEP Index](https://www.python.org/dev/peps)
 
 <!--
 PSF Minutes
@@ -1214,6 +1181,25 @@ Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
 
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
 
 ## Trending and Top of All Time
 
@@ -1232,74 +1218,6 @@ Top Links of All Times
 * [Hacker News Search Engine](https://hndex.org/) 
 * [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## Python Questions
-
-Python Stuff
-* [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
-* [Reddit Python](https://www.reddit.com/r/Python)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Python Articles and Tutorials
-
-Python Tutorials
-* [The Practical Dev Python Tutorials](https://dev.to/search?q=python%20tutorial)
-* [The Practical Dev Python Tutorials Most Relevant](https://dev.to/search?q=python%20tutorials&filters=class_name:Article)
-
-Python Articles
-* [The Practical Dev Python](https://dev.to/search?q=python)
-* [Hacker Noon Python](https://hackernoon.com/search?query=python)
-* [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
-* [Medium Python](https://medium.com/tag/python)
-
-Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
-* [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
-
-<!--
-https://dev.to/t/python
-
-https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
-https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
 
 ## Lawrence
 
