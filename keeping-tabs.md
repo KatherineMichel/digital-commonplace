@@ -3,11 +3,11 @@
 <!--
 https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
 
-https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
-
 https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
 
 https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
 
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
@@ -16,8 +16,6 @@ https://stylestage.dev/styles/ | Styles Directory | Style Stage
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 https://www.scala-lang.org/ | The Scala Programming Language
 
@@ -26,7 +24,6 @@ https://github.com/django/django
 
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 https://git-scm.com/docs | Git - Reference
@@ -49,10 +46,15 @@ https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
 https://www.datadoghq.com/ | Cloud Monitoring as a Service | Datadog
 https://www.loggly.com/ | Log Analysis | Log Management by Loggly
 
+
 https://www.django-rest-framework.org/ | Home - Django REST framework
 https://graphql.org/ | GraphQL | A query language for your API
 https://reactjs.org/ | React – A JavaScript library for building user interfaces
 https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
 
 Database GIS
 https://postgis.net/
@@ -68,11 +70,6 @@ https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many exa
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
 https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 
-https://sre.google/books/ | Google - Site Reliability Engineering
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
-
 https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
 https://mitpress.mit.edu/books/introduction-algorithms-fourth-editionhttps://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Page not found (error) | The MIT Press
 https://www.algorist.com/ | The Algorithm Design Manual
@@ -86,6 +83,13 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+
+https://sre.google/books/ | Google - Site Reliability Engineering
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
 https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
 
