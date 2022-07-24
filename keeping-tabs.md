@@ -10,6 +10,14 @@ https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use u
 https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
 
 
+Adam Johnson
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 https://stylestage.dev/styles/ | Styles Directory | Style Stage
@@ -84,6 +92,7 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 
+
 https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
 
 https://sre.google/books/ | Google - Site Reliability Engineering
@@ -124,15 +133,16 @@ https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Proje
 
 https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
 
+https://dev.to/t/python | Python - DEV Community
 https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results for python tutorials - DEV Community
 https://dev.to/search?q=python%20tutorial | Search Results for python tutorial - DEV Community
 https://dev.to/search?q=python | Search Results for python - DEV Community
+
 https://hackernoon.com/search?query=python | https://hackernoon.com/search?query=python
 https://app.hackernoon.com/boot | HackerNoon 2.0
 https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
-https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
 https://www.digitalocean.com/community/tags/python | Python tutorials, questions, and resources | DigitalOcean
-https://dev.to/t/python | Python - DEV Community
+https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
 
 https://pyvideo.org/ | PyVideo.org
 https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl | PyCon US 2022 - YouTube
