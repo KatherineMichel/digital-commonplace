@@ -41,9 +41,6 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 
-https://www.django-rest-framework.org/ | Home - Django REST framework
-https://graphql.org/ | GraphQL | A query language for your API
-
 https://reactjs.org/ | React – A JavaScript library for building user interfaces
 https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
 
@@ -72,10 +69,8 @@ https://developer.chrome.com/docs/devtools/javascript/snippets/ | Run Snippets o
 https://developer.chrome.com/docs/devtools/workspaces/ | Edit and save files with Workspaces - Chrome Developers
 https://developer.chrome.com/docs/devtools/javascript/reference/ | JavaScript debugging reference - Chrome Developers
 
-Network
-https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
-https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
+Lighthouse
+https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
 
 Performance
 https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runtime performance - Chrome Developers
@@ -83,8 +78,10 @@ https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Per
 https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
 https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
 
-Lighthouse
-https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
+Network requests, HTTP headers
+https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
+https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
 
 https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
 
@@ -159,6 +156,10 @@ https://www.loggly.com/ | Log Analysis | Log Management by Loggly
 
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
+
+https://www.django-rest-framework.org/ | Home - Django REST framework
+https://graphql.org/ | GraphQL | A query language for your API
 
 
 Database GIS
@@ -539,31 +540,6 @@ https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
 
-
-<!--
-https://realpython.com/python-application-layouts/ | Python Application Layouts: A Reference – Real Python
-https://testdriven.io/blog/python-project-workflow/ | Python Project Workflow | TestDriven.io
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://testdriven.io/guides/flask-deep-dive/ | Deep Dive Into Flask Guide| TestDriven.io
-
-https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
-
-https://testdriven.io/blog/tdd-benefits/ | Improving Code Confidently with Test-Driven Development | TestDriven.io
-
-Testing
-https://testdriven.io/blog/testing-python/
-https://testdriven.io/blog/modern-tdd/
-https://realpython.com/pytest-python-testing/
-https://realpython.com/pytest-python-testing/#fixtures-managing-state-and-dependencies | Effective Python Testing With Pytest – Real Python
-https://realpython.com/testing-in-django-part-1-best-practices-and-examples/ | Testing in Django (Part 1) – Best Practices and Examples – Real Python
-https://realpython.com/lessons/assertions-and-tryexcept/ | Assertions and Try/Except – Real Python
-https://dbader.org/blog/python-assert-tutorial | Assert Statements in Python – dbader.org
-
-## Documenting
-
-https://realpython.com/courses/documenting-python-code/ | Documenting Python Code: A Complete Guide – Real Python
--->
 
 <!--
 https://stylestage.dev/styles/
