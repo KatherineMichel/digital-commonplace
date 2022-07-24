@@ -82,6 +82,8 @@ https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runti
 https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Performance features reference - Chrome Developers
 https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
 https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
+
+Lighthouse
 https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
 
 https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
