@@ -1,15 +1,6 @@
 # Keeping Tabs
 
 <!--
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
-
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
-
-
 Octopus
 Lint All the Things
 https://ep2022.europython.eu/session/lint-all-the-things
@@ -20,8 +11,41 @@ https://pyvideo.org/speaker/frederike-jaeger.html
 Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 
+## Shipping
 
-Adam Johnson
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+
+## Projects and Code
+
+Projects
+https://github.com/
+
+https://github.com/trending/python
+https://github.com/topics/python
+
+https://www.djangosites.org/with-source/
+https://djangopackages.org/
+
+## News
+
+https://django-news.com/
+
+https://bas.codes/ | Bas codes
+
+## Tutorials and Articles
+
+https://news.ycombinator.com/
+https://lobste.rs/
+
+https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
+https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+
 
 Miguel Grinberg
 https://www.twilio.com/blog/author/mgrinberg
@@ -29,7 +53,63 @@ Sam Agnew
 https://www.twilio.com/blog/author/sagnew
 
 
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+Learning
+https://egghead.io/ | Build the portfolio you need to be a badass web developer. | egghead.io
+https://www.oreilly.com/online-learning/?utm_medium=search&utm_source=google.com&utm_campaign=B2B+Search&utm_content=live+demo&gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDIJjolrKkCCP0tfciOQrKR5kgtWme9LLw3lWjDc5FMnD8a54msKdj0aAiLdEALw_wcB | Online Learning and Training - O'Reilly Media
+
+Learning resources
+https://realpython.com/ | Python Tutorials – Real Python
+https://towardsdatascience.com/ | Towards Data Science
+https://www.fullstackpython.com/table-of-contents.html | Table of Contents for Full Stack Python
+https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
+
+https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
+https://treyhunner.com/ | Trey Hunner
+https://mherman.org/talks | Talks and Trainings
+
+http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
+https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
+https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+
+Trending
+https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
+
+Python articles and tutorials
+https://dev.to/t/python | Python - DEV Community
+https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results for python tutorials - DEV Community
+https://dev.to/search?q=python%20tutorial | Search Results for python tutorial - DEV Community
+https://dev.to/search?q=python | Search Results for python - DEV Community
+
+https://hackernoon.com/search?query=python | https://hackernoon.com/search?query=python
+https://app.hackernoon.com/boot | HackerNoon 2.0
+https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
+https://www.digitalocean.com/community/tags/python | Python tutorials, questions, and resources | DigitalOcean
+https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
+
+Django cheatsheet
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/ | Page not found - Python Crash Course, 2nd Edition
+
+## Django
+
+Adam Johnson
+
+## Testing
+
+https://docs.pytest.org/en/latest/
+http://pytest-django.readthedocs.org
+
+## API
+
+https://www.django-rest-framework.org/ | Home - Django REST framework
+https://graphql.org/ | GraphQL | A query language for your API
+
+## CSS/HTML/JavaScript
+
+https://reactjs.org/ | React – A JavaScript library for building user interfaces
+https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
 
 https://stylestage.dev/styles/ | Styles Directory | Style Stage
 
@@ -40,9 +120,51 @@ https://stylestage.dev/styles/css/aerojet-505.css
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
+## Productivity Tips
 
-https://reactjs.org/ | React – A JavaScript library for building user interfaces
-https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+## Algorithms
+
+https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
+
+https://mitpress.mit.edu/books/introduction-algorithms-fourth-editionhttps://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Page not found (error) | The MIT Press
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+## Events
+
+Talks
+https://pyvideo.org/ | PyVideo.org
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl | PyCon US 2022 - YouTube
+https://www.youtube.com/c/PyCascades/playlists | PyCascades - YouTube
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+
+
+
+
+
+https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
+
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
+
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 
 https://developer.chrome.com/docs/devtools/
@@ -92,11 +214,6 @@ https://developer.chrome.com/docs/devtools/accessibility/reference/ | Accessibil
 https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate Chrome DevTools with assistive technology - Chrome Developers
 https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
 
-
-https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
 
 https://git-scm.com/docs | Git - Reference
@@ -158,26 +275,16 @@ https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book comp
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 
-https://www.django-rest-framework.org/ | Home - Django REST framework
-https://graphql.org/ | GraphQL | A query language for your API
-
-
 Database GIS
 https://postgis.net/
 https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
 
 
-https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
 
-https://mitpress.mit.edu/books/introduction-algorithms-fourth-editionhttps://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Page not found (error) | The MIT Press
-https://www.algorist.com/ | The Algorithm Design Manual
+## Refactoring and Design Pattorns
 
-https://python-patterns.guide/ | Python Design Patterns
 https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
 https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
-
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 
 
 https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
@@ -191,72 +298,6 @@ https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn,
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 
 https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-
-
-Projects
-https://github.com/
-
-https://github.com/trending/python
-https://github.com/topics/python
-
-https://www.djangosites.org/with-source/
-https://djangopackages.org/
-
-
-News
-https://django-news.com/
-
-
-Learning
-https://egghead.io/ | Build the portfolio you need to be a badass web developer. | egghead.io
-https://www.oreilly.com/online-learning/?utm_medium=search&utm_source=google.com&utm_campaign=B2B+Search&utm_content=live+demo&gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDIJjolrKkCCP0tfciOQrKR5kgtWme9LLw3lWjDc5FMnD8a54msKdj0aAiLdEALw_wcB | Online Learning and Training - O'Reilly Media
-
-Learning resources
-https://realpython.com/ | Python Tutorials – Real Python
-https://towardsdatascience.com/ | Towards Data Science
-https://www.fullstackpython.com/table-of-contents.html | Table of Contents for Full Stack Python
-https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
-
-https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
-https://treyhunner.com/ | Trey Hunner
-https://mherman.org/talks | Talks and Trainings
-
-http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
-https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-
-
-Django cheatsheet
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/ | Page not found - Python Crash Course, 2nd Edition
-
-
-Trending
-https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
-
-Python articles and tutorials
-https://dev.to/t/python | Python - DEV Community
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results for python tutorials - DEV Community
-https://dev.to/search?q=python%20tutorial | Search Results for python tutorial - DEV Community
-https://dev.to/search?q=python | Search Results for python - DEV Community
-
-https://hackernoon.com/search?query=python | https://hackernoon.com/search?query=python
-https://app.hackernoon.com/boot | HackerNoon 2.0
-https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
-https://www.digitalocean.com/community/tags/python | Python tutorials, questions, and resources | DigitalOcean
-https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
-
-Talks
-https://pyvideo.org/ | PyVideo.org
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl | PyCon US 2022 - YouTube
-https://www.youtube.com/c/PyCascades/playlists | PyCascades - YouTube
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 
 
 http://highscalability.com/start-here/ | Start Here - High Scalability -
@@ -291,17 +332,6 @@ GitHub Mobile
 https://github.com/mobile | GitHub Mobile
 
 https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
-
-
-## Shipping
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 -->
 
 <!--
