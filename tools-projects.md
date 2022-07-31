@@ -19,6 +19,765 @@ https://github.com/TonnyL/Awesome_APIs
 https://www.programmableweb.com/category/all/apis
 -->
 
+
+## Makers
+  
+Pieter Levels
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* ["Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder"](https://www.youtube.com/watch?v=m3nb_Qj3mRA)
+* [How Pieter Levels Works](http://coastery.com/2016/how-pieter-levels-works/)
+* [Bootstrapping](https://levels.io/bootstrapping)
+* [Make Book](https://makebook.io)
+
+<!--
+https://twitter.com/levelsio/status/958019841356541952 | Pieter Levels 🏝 on Twitter: "I've won 2x @ProductHunt Awards this year: 🏆 Maker of the Year 2017 🏆 Side Project of the Year 💖 Thank you @ProductHunt and everyone for supporting throughout the years! I want to dedicate these awards to all the indie makers around the 🌎 world… https://t.co/ND6P5F7AdP"
+
+https://nomadlist.com/open | Open Startups - Nomad List
+
+https://levels.io/hoodmaps/ | Building a startup in public: from first line of code to frontpage of Reddit
+https://www.youtube.com/watch?v=6reLWfFNer0 | Turning Side Projects into Profitable Startups - YouTube
+https://www.youtube.com/watch?v=m3nb_Qj3mRA | Bootstrapping Side Projects To Profit by Pieter Levels, Nomad List Founder - YouTube
+https://www.facebook.com/dojobali/videos/2059070471004913/ | Dojo Bali - Dojo Bali | Special Live Stream - Public Bootstrapping...
+https://www.facebook.com/pg/dojobali/posts/ | (27) Dojo Bali - Posts
+https://twitter.com/levelsio/status/956176482958639105 | Pieter Levels 🏝 on Twitter: "✨ The most important presentation of my life: Turning 🛠 side projects into 💰 profitable startups Everything I learnt in the last 4 years building startups in 60 minutes 💡 Idea 🛠 Build 🚀 Launch 🌱 Grow 💰 Monetize 🤖 Automate 🚪 Exit Full video 👉 https://t.co/6KqrvsgHpi… https://t.co/z11yGWZd5X"
+-->
+
+<!--
+## Jeremy Howard
+
+https://twitter.com/_ScottCondron/status/1441695317683023874 | Scott Condron on Twitter: "If you want to learn about GitHub Actions, here’s a tutorial by @jeremyphoward to use ghapi, a Python wrapper for the @github API, and Github Actions. It shows how to reply “thank you” to all PRs, then shows how to run a scheduled multi-job workflow 🤩 https://t.co/pzufSBA5lp" / Twitter
+
+## Fast AI
+
+https://twitter.com/jeremyphoward/status/1423459917776658437 | Jeremy Howard on Twitter: "I've now released a library that lets you use comments as documentation, which I call "docments". You can get it from here: https://t.co/7qOe3dwdLE https://t.co/KNW9zEWEux" / Twitter
+
+Fastpages
+https://fastpages.fast.ai/
+
+https://fastpages.fast.ai/fastcore/ | fastcore: An Underrated Python Library | fastpages
+https://twitter.com/fastdotai/status/1455310812696879104 | fast.ai on Twitter: "New #fastcore release: v1.3.27. https://t.co/OznRqDFXzB ### New Features - add loop functions, thanks to @willmcgugan ([#363](https://t.co/EOVp253Pon)) - add `walk` function ([#355](https://t.co/9jfm7OJAi1…" / Twitter
+
+https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/
+https://twitter.com/jeremyphoward/status/1325878408132194304 | Jeremy Howard on Twitter: "If you're not using #nbdev yet, then the thread below shows you the great new docs, examples, and tutorials to help you get started on this powerful and easy-to-use coding system." / Twitter
+
+Important
+https://twitter.com/jeremyphoward/status/1328780892769120256 | Jeremy Howard on Twitter: "Here's how to get started with socket programming in Python - a minimal webserver, with a little less boilerplate thanks to `fastcore` https://t.co/YqeSk6rgii https://t.co/m6ZmUmGeph" / Twitter
+
+https://twitter.com/jeremyphoward/status/1322710888416071680 | Jeremy Howard on Twitter: "How to convert 16 lines (from the python standard library) of complex nested code with multiple return paths to three lines of clear code with one return path. https://t.co/FXddFjcuvO https://t.co/nmBOseot55" / Twitter
+-->
+
+<!--
+Great examples
+Twitter
+https://glitch.com/@simonw | Simon Willison
+https://github.com/simonw
+
+
+https://simonwillison.net/2021/Jul/17/standing-out/
+
+Start a blog. Post an interesting technical article to it once or twice a year—something you’ve learned, or a bug you’ve fixed, or a problem you’ve solved. After a few years stop bothering entirely, but leave the blog online somewhere.
+
+Build a small personal project and put the code on GitHub. Accompany it with a README with a detailed description of the project and screenshots of it in action—almost no-one does this, it only takes a few hours extra and it massively increases the impact your project will have on hiring managers who are checking you out.
+
+There’s plenty more you can do if you want to put the effort in: build an audience on Twitter, start a newsletter, make videos, give talks (ideally that get recorded and published online), release open source packages, publish TILss.
+
+Simon
+https://simonwillison.net/2022/
+
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/
+https://github.com/simonw/simonw/blob/main/releases.md
+https://sqlite-utils.datasette.io/en/stable/cli.html#cli-create-database
+https://github.com/simonw/sqlite-utils/issues/348
+https://sqlite-utils.datasette.io/en/stable/contributing.html
+https://github.com/simonw/python-lib
+https://github.com/simonw/datasette-plugin
+https://github.com/simonw/click-app
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+https://pytest-django.readthedocs.io/en/latest/
+https://pytest-django.readthedocs.io/en/latest/configuring_django.html#configuring-django-settings
+https://pytest-django.readthedocs.io/en/latest/faq.html#faq-tests-not-being-picked-up
+https://github.com/pytest-dev/pytest-xdist
+https://docs.djangoproject.com/en/3.0/topics/testing/tools/#the-test-client
+
+Test examples
+https://github.com/simonw/datasette/tree/main/tests
+https://github.com/simonw/sqlite-utils/tree/main/tests
+
+https://simonwillison.net/2021/Nov/4/publish-open-source-python-library/
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/
+-->
+
+
+<!--
+## Simon
+
+Releases
+https://github.com/simonw/simonw/blob/main/releases.md | simonw/releases.md at main · simonw/simonw
+
+Baked Data Pattern
+https://twitter.com/pydanny/status/1420632669302366212 | https://twitter.com/pydanny/status/1420632669302366212
+https://simonwillison.net/2021/Jul/28/baked-data/ | The Baked Data architectural pattern
+Baked Data
+https://twitter.com/simonw/status/1437635617324605440 | Simon Willison on Twitter: "Here's a fun new Baked Data example: the https://t.co/WMWqQhdQyC page that promotes my new Datasette Desktop application needed a download button that automatically linked to the most recently released version..." / Twitter
+
+https://twitter.com/jacobian/status/1217844436748701700 | jacobian on Twitter: "Much of my time over the last year has been spent building demos, prototypes, or MVPs. People often use these terms interchangeably, but they're not the same thing! I wrote about what I mean when I use each of these terms: https://t.co/6vaLviCsNJ" / Twitter
+https://twitter.com/simonw/status/1217900599716352000 | Simon Willison on Twitter: "I really like a Jacob's distinction between a demo which illustrates a concept to a customer and a prototype which is internally facing and proves that something can be built https://t.co/4lgo0dEp7g" / Twitter
+
+## Show running
+
+http://okbjgm.weebly.com/uploads/3/1/5/0/31506003/11_laws_of_showrunning_nice_version.pdf | 11 laws of showrunning NICE VERSION
+https://twitter.com/simonw/status/1490083623587876865 | https://twitter.com/simonw/status/1490083623587876865
+https://twitter.com/simonw/status/1490087121360617472 | Simon Willison on Twitter: "Here's a longer version of the Twitter thread I linked to above" / Twitter
+
+## Documentation
+
+Promoting the stable version of the documentation using rel=canonical
+https://til.simonwillison.net/readthedocs/documentation-seo-canonical
+https://twitter.com/simonw/status/1484306978843160576 | https://twitter.com/simonw/status/1484306978843160576
+https://twitter.com/simonw/status/184287724773203971 | https://twitter.com/simonw/status/1484287724773203971
+
+## Doc Unit Tests
+
+https://twitter.com/kjaymiller/status/1283892356098297856 | Jay Miller - 🐍🎮💼 #BlackLivesMatter on Twitter: "Is there a coverage framework for docs? Like a way to see what parts of your code is covered with documentation? #AskingForAFriend" / Twitter
+http://www.pydocstyle.org/en/5.0.2/ | pydocstyle’s documentation — pydocstyle 1.0.0 documentation
+https://simonwillison.net/2018/Jul/28/documentation-unit-tests/ | Documentation unit tests
+https://github.com/simonw/datasette/blob/master/tests/test_docs.py | datasette/test_docs.py at master · simonw/datasette
+
+## Building a new feature
+
+Talk
+https://twitter.com/simonw/status/1300193439573708800
+
+https://twitter.com/simonw/status/1481328382755282947 | Simon Willison on Twitter: "Wrote up a detailed blog entry about my process for building a new feature: issue, tests, implementation, documentation all bundled together in a single commit - then a release with release notes https://t.co/rCWvcdJozr" / Twitter
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/
+This is a good starting point for getting Python, Django, Postgres running as a service, pytest, black, and pip caching rolling with GitHub Actions.
+https://adamj.eu/tech/2020/06/15/how-to-unit-test-a-django-form/ | How to Unit Test a Django Form - Adam Johnson
+
+https://www.youtube.com/watch?v=qPqWDWd4IW4&t=1111s
+https://docs.google.com/document/d/179RCKpPHk8QzNBqcXIzAxuGR4wwXaDZ2a1xAd1QrSGc/edit | Datasette - PyCon Argentina 2020, Q&A - Google Docs
+https://twitter.com/simonw/status/1400497876577312771 | Simon Willison on Twitter: "@ChekosWH I touched on it a bit in a keynote I gave for PyCon Argentina last year https://t.co/AOc8zUYmOt" / Twitter
+
+https://simonwillison.net/2017/Oct/17/free-continuous-deployment/ | How to set up world-class continuous deployment using free hosted tools
+
+## How to build, test, and publish an open source Python library
+
+How to build, test, and publish an open source Python library
+https://twitter.com/simonw/status/1456383020756189212 | https://twitter.com/simonw/status/1456383020756189212
+https://twitter.com/simonw/status/1457508794817146885 | (1) Simon Willison on Twitter: "@gjbernat @_ScottCondron I recorded the video before that setup. py article was published, so I correct that in the accompanying write-up here https://t.co/Xn1OeOo9t0" / Twitter
+https://twitter.com/_ScottCondron/status/1457270492407140354 | Scott Condron on Twitter: "How to build, test and publish a Python package by @simonw This video goes from creating a Python package ➡️ publishing it to PyPI so it’s pip installable ➡️ automating tests and publishing using GitHub Actions. https://t.co/yMO2wrXXpv Documented here: https://t.co/pWubEYkJnz" / Twitter
+
+https://til.simonwillison.net/homebrew/packaging-python-cli-for-homebrew | Packaging a Python CLI tool for Homebrew | Simon Willison’s TILs
+https://twitter.com/wuoulf/status/1492813061497008129 | Wolf Vollprecht on Twitter: "@willmcgugan @simonw You should try packaging on @condaforge, too – it'll work across Win, macOS and Linux right away." / Twitter
+
+## Scraping
+
+Git scraping and Datasette workshop
+https://twitter.com/simonw/status/1456825994199789571 | https://twitter.com/simonw/status/1456825994199789571
+
+Git scraping: track changes over time by scraping to a Git repository
+https://simonwillison.net/2020/Oct/9/git-scraping/
+https://twitter.com/simonw/status/1314654153646383104
+https://twitter.com/alexsoble/status/1489728492686098435 | https://twitter.com/alexsoble/status/1489728492686098435
+
+My latest big project is git-history: a tool for analyzing scraped data collected using Git and SQLite
+https://twitter.com/simonw/status/1468348488379367426 | https://twitter.com/simonw/status/1468348488379367426
+
+## Scraping Workshops and Talks
+
+Git scraping and Datasette
+https://twitter.com/simonw/status/1456825994199789571 | Simon Willison on Twitter: "I'm presenting a workshop next week about Git scraping and Datasette - I'll be showing how to build a scraper using GitHub Actions and how to publish the resulting scraped data as a website and accompanying API using Datasette" / Twitter
+
+https://twitter.com/simonw/status/1367632117127995393 | Simon Willison on Twitter: "Here's the 5 minute lightning talk about Git scraping I presented at #NICAR21 today - in the video I live-code a new scraper for the CDC's state-by-state vaccination numbers https://t.co/9Tn8MSSkRQ" / Twitter
+
+
+
+
+## Personal Data Warehouse
+
+https://www.thomasdziedzic0.com/blog/building-a-personal-data-warehouse-in-snowflake-for-fun-and-no-profit | Building a personal data warehouse in Snowflake for fun and no profit. — Thomas Dziedzic
+
+https://next.github.com/speakerseries/SimonWillison/
+https://twitter.com/simonw/status/1326939521817047040 | https://twitter.com/simonw/status/1326939521817047040
+https://quaran.to/data-export-or-die-4387f773d8d34a99b2f5bbe8e4d554a6 | Data export, or die
+
+Personal Data Warehouse
+https://www.youtube.com/watch?time_continue=228&v=CPQCD3Qxxik&feature=emb_logo | (5) Build your own data warehouse for personal analytics with SQLite and Datasette - YouTube
+https://docs.google.com/document/d/1q0sH954Iv83sctmB_sfHJg2zZMYZGhY_n2s38yOCpOU/edit#heading=h.b1b8d2228j9 | Build your own data warehouse for personal analytics with SQLite and Datasette - Google Docs
+https://blog.stephenwolfram.com/2019/02/seeking-the-productive-life-some-details-of-my-personal-infrastructure/ | Seeking the Productive Life: Some Details of My Personal Infrastructure—Stephen Wolfram Blog
+https://blog.stephenwolfram.com/2017/12/what-do-i-do-all-day-livestreamed-technology-ceoing/ | What Do I Do All Day? Livestreamed Technology CEOing—Stephen Wolfram Blog
+
+Personal Data Warehouse
+https://simonwillison.net/2020/Nov/14/personal-data-warehouses/ | Personal Data Warehouses: Reclaiming Your Data
+https://docs.google.com/document/d/1rFp2tXLvaCK5khbPbSfV8nfVjZLGTX3KkMZ2FMpgi-k/edit#heading=h.118bmi7ztpzo | Personal Data Warehouses: Reclaiming Your Data - Google Docs
+https://twitter.com/simonw/status/1327461144353652736 | (1) Simon Willison on Twitter: "I've created an extended, annotated version of my talk on Personal Data Warehouses, including screenshots, links and code examples https://t.co/BkrqggPcTL" / Twitter
+https://gazit.me/writing/static-to-animated/ | Static to Animated | Idan Gazit
+
+Personal Data Warehouse
+https://twitter.com/simonw/status/1323703015732174849 | Simon Willison on Twitter: "I'm giving a talk titled "Personal Data Warehouses: Reclaiming your Data" for the GitHub OCTO speaker series next week!" / Twitter
+
+Talks
+https://twitter.com/simonw/status/1286098770652930048 | Simon Willison on Twitter: "Just gave a talk on @datasetteproj and https://t.co/De1Loc05WM at the @bostonpython meetup - it was really fun! Used a Google Doc for the Q&amp;A which worked great - I've fleshed out all the answers with extra links here: https://t.co/X8VKa9vZ0N" / Twitter
+https://www.youtube.com/watch?v=lmP75mp3-Rg | How to Instantly Publish Data to the Internet with Datasette | Simon Willison @ PyBay2018 - YouTube
+https://twitter.com/simonw/status/1315715789471670274 | Simon Willison on Twitter: "Notes, links and notebook from my #JupyterCon2020 session on Datasette and sqlite-utils this morning: https://t.co/3y2rLcS7qn - I live-coded a SQLite database containing earthquakes from last week using data from USGS" / Twitter
+https://twitter.com/simonw/status/1283123754059456512 | Simon Willison on Twitter: "Just gave a talk about @datasetteproj at @djangolondon - here are my notes from the talk, with additional links from things we talked about in the Q&amp;A at the bottom https://t.co/CMMGukpV9o" / Twitter
+
+
+## Datasette Talk
+
+https://twitter.com/simonw/status/1418275153956413440 | Simon Willison on Twitter: "Realized I never posted the video from my PyGotham talk last year: Datasette - an ecosystem of tools for working with small data Here's the video, plus a transcript with additional links and code examples https://t.co/GdKc1sIoNB" / Twitter
+
+
+## Dogsheep
+
+Dogsheep Inspiration
+https://writings.stephenwolfram.com/ | Stephen Wolfram Writings
+
+Dogsheep Weeknotes
+https://simonwillison.net/2021/Aug/22/weeknotes-dogsheep/ | Weeknotes: Getting my personal Dogsheep up and running again
+https://twitter.com/simonw/status/1181292173020368896
+https://simonwillison.net/2020/May/21/dogsheep-photos/ | Using SQL to find my best photo of a pelican according to Apple Photos
+https://simonwillison.net/2019/Oct/7/dogsheep/
+
+
+## Datasette Example
+
+https://twitter.com/anildash/status/1475483162050445312 | anildash on Twitter: "This is a really great writeup of how to make a handy analysis of your tweets, using @Glitch and @simonw’s amazing Datasette tools. There’s even a handy preconfigured app to remix." / Twitter
+
+https://glitch.com/edit/#!/motley-familiar-beard | README.md – motley-familiar-beard
+https://twitter.com/swyx/status/1475209724727795717 | (2) swyx on Twitter: "🆕 Using Datasette for an ELT Personal Twitter Data Warehouse on Glitch https://t.co/hR0KUd7Sxs I spent some time today trying out @simonw's awesome Datasette tool with the new @TwitterDev APIs, deployed to @glitch. Here are all my notes! https://t.co/wea2F1f465" / Twitter
+https://dev.to/swyx/using-datasette-for-an-elt-personal-twitter-data-warehouse-h6i | Using Datasette for an ELT Personal Twitter Data Warehouse - DEV Community 👩‍💻👨‍💻
+
+
+## Self-Rewriting README
+
+https://twitter.com/simonw/status/1281435464474324993 | Simon Willison on Twitter: "Made myself a self-updating GitHub personal README! It uses a GitHub Action to update itself with my latest GitHub releases, blog entries and TILs https://t.co/Eve7FOrwYK https://t.co/oJPXLtFdgM" / Twitter
+https://simonwillison.net/2020/Apr/20/self-rewriting-readme/ | Using a self-rewriting README powered by GitHub Actions to track TILs
+https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/ | Building a self-updating profile README for GitHub
+
+
+## Flat Data
+
+Git Scraping/Flat Data
+https://simonwillison.net/2021/Mar/5/git-scraping/ | Git scraping, the five minute lightning talk
+https://twitter.com/github/status/1394767308212502528 | GitHub on Twitter: "Take a peek into lightweight data workflows from the future. 🔮 The Developer Experience research team in GitHub’s Office of the CTO has released Flat Data!" / Twitter
+https://twitter.com/simonw/status/1394729289346519041 | Simon Willison on Twitter: "This is so exciting! Git scraping is now an officially supported pattern at GitHub, and they've released a flurry of neat new tools that help people take advantage of the technique" / Twitter
+https://github.com/marketplace/actions/flat-data | Flat Data · Actions · GitHub Marketplace
+https://twitter.com/Wattenberger/status/1395008085782061056 | Amelia Wattenberger 🍓 華曼如 on Twitter: "not to play favorites, but this is 💯% my favorite part of the new Flat Data workflow. And one that can be used all on its own! Add "flat" to any https://t.co/166YAljBjc repo url and browse through any csv/json file, with helpful bits like filter, sort, sticky col, diffs, etc!" / Twitter
+https://twitter.com/kachkaev/status/1395141903633506312 | Alexander Kachkaev on Twitter: "@githubOCTO Using git to manage data is a really powerful approach! I used it to track changes in a recent #OpenStreetMap mapping party for 40+ days. Generating nightly json snapshots of ≈50K buildings made it easy to analyse results! Vises for data I stored in git: https://t.co/3iysPbQ4WI https://t.co/9Yo49bDh4e" / Twitter
+Important
+https://twitter.com/aborruso/status/1395407403802365953 | Andrea Borruso on Twitter: "Using bash as postprocess script for GitHub's Flat Data actions cc @githubOCTO 🌟🌟 Flat Data 🌟🌟 Thank you to @pierrotsmnrd for its inspirational python way https://t.co/oPqThFyYcH" / Twitter
+
+
+## GeoDjango
+
+https://simonwillison.net/2021/May/3/adding-geodjango-to-an-existing-django-project/ | Adding GeoDjango to an existing Django project
+https://twitter.com/simonw/status/1389107419649765378 | Simon Willison on Twitter: "Weeknotes: Adding GeoDjango to an existing Django project https://t.co/qHLEFs0QLA" / Twitter
+
+
+## Simon Repos
+
+General
+https://github.com/simonw | simonw (Simon Willison)
+https://github.com/simonw/simonw | simonw/simonw: https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
+https://github.com/simonw/simonwillisonblog | simonw/simonwillisonblog: The source code behind my blog
+https://github.com/simonw/simonwillisonblog-backup | simonw/simonwillisonblog-backup: Backups of the database for simonwillison.net
+
+
+TIL
+https://github.com/simonw/til | simonw/til: Today I Learned
+https://github.com/simonw/til/blob/main/build_database.py | til/build_database.py at main · simonw/til
+https://github.com/simonw/til/issues/25 | Downloading the previous database file no longer works (>5MB) · Issue #25 · simonw/til
+
+Self-rewriting README
+https://github.com/simonw/simonw/blob/main/build_readme.py | simonw/build_readme.py at main · simonw/simonw
+
+
+Django SQL Dashboard
+https://github.com/simonw/django-sql-dashboard | simonw/django-sql-dashboard: Django app for building dashboards using raw SQL queries
+https://twitter.com/simonw/status/1391782401395675139 | Simon Willison on Twitter: "Announcing Django SQL Dashboard, now out of alpha and ready for people to try out on their own Django+PostgreSQL projects: https://t.co/4E1zT0ampK" / Twitter
+https://twitter.com/simonw/status/1373715351146430464 | Simon Willison on Twitter: "First evidence of someone other than me trying out django-sql-dashboard!" / Twitter
+
+Dogsheep
+https://github.com/dogsheep | Dogsheep
+https://github.com/orgs/dogsheep/repositories | Dogsheep
+https://github.com/dogsheep/dogsheep.github.io | dogsheep/dogsheep.github.io: Tools for personal analytics using SQLite and Datasette
+
+Dogsheep Search
+https://github.com/dogsheep/dogsheep-beta | dogsheep/dogsheep-beta: Build a search index across content from multiple SQLite database tables and run faceted searches against it using Datasette
+
+Important
+https://datasette.io/tools/twitter-to-sqlite | twitter-to-sqlite - a tool for Datasette
+https://github.com/dogsheep/twitter-to-sqlite | dogsheep/twitter-to-sqlite: Save data from Twitter to a SQLite database
+https://github.com/dogsheep/twitter-to-sqlite#how-to-install | dogsheep/twitter-to-sqlite: Save data from Twitter to a SQLite database
+https://github.com/dogsheep/twitter-to-sqlite/blob/master/README.md#retrieving-your-mentions | twitter-to-sqlite/README.md at master · dogsheep/twitter-to-sqlite
+
+More Dogsheep Tools
+https://github.com/dogsheep/github-to-sqlite | dogsheep/github-to-sqlite: Save data from GitHub to a SQLite database
+https://github.com/dogsheep/hacker-news-to-sqlite | dogsheep/hacker-news-to-sqlite: Create a SQLite database containing data pulled from Hacker News
+https://github.com/dogsheep/dogsheep-photos/tree/0.4.1#serving-photos-locally-with-datasette-media | dogsheep/dogsheep-photos at 0.4.1
+
+
+Datasette GraphQL Plugin
+https://github.com/simonw/datasette-graphql | simonw/datasette-graphql: A GraphQL endpoint for Datasette
+https://twitter.com/simonw/status/1291591436735926274 | Simon Willison on Twitter: "GraphQL in Datasette with the new datasette-graphql plugin (also my weeknotes) https://t.co/tUD4TZoJas" / Twitter
+https://twitter.com/simonw/status/1297677574219341824 | Simon Willison on Twitter: "Released version 1.0 of datasette-graphql, my Datasette plugin for adding a GraphQL interface on top of any SQLite database https://t.co/qGOsqd3lHL" / Twitter
+
+Datasette
+https://github.com/simonw/datasette | simonw/datasette: An open source multi-tool for exploring and publishing data
+https://github.com/simonw/datasette.io | simonw/datasette.io: The official project website for Datasette
+
+Datasette Website
+https://datasette.io/ | Datasette: An open source multi-tool for exploring and publishing data
+https://twitter.com/simonw/status/1337180586880847873 | Simon Willison on Twitter: "After just over three years, @datasetteproj finally has a dedicated project website! I put it live this afternoon: https://t.co/qwkNwYfxCY You'll be unsurprised to learn that it's running on Datasette, using custom templates and CSS - source code here: https://t.co/IGIxdVEBti https://t.co/zOkEvhMVtT" / Twitter
+
+Datasette Docs
+http://datasette.readthedocs.io
+https://dataset.readthedocs.io/en/latest/index.html | dataset: databases for lazy people — dataset 1.0.8 documentation
+https://datasette.readthedocs.io/en/latest/authentication.html#defining-permissions-with-allow-blocks | Authentication and permissions — Datasette documentation
+https://docs.datasette.io/en/stable/ | Datasette — Datasette documentation
+https://docs.datasette.io/en/stable/installation.html#installing-plugins | Installation — Datasette documentation
+https://twitter.com/simonw/status/1321899418207969280 | Simon Willison on Twitter: "New Datasette plugin documentation: Designing URLs for your plugin https://t.co/H2B2pPARYE" / Twitter
+
+Datasette on Glitch
+https://twitter.com/simonw/status/1128889505522413568 | Simon Willison on Twitter: "The Datasette "Getting Started" documentation now recommends @glitch as a zero-installation way to start playing with the software: https://t.co/HixDQUHovP"
+https://twitter.com/simonw/status/1121576047852396544 | Simon Willison on Twitter: "If you just want to view source without remixing your own copy, go here: https://t.co/ZNgvKYAoEg"
+https://changelog.com/news/running-datasette-on-glitch-0PND | Running Datasette on Glitch |> News and podcasts for developers |> Changeling
+
+Datasette Desktop App
+https://simonwillison.net/2021/Aug/30/datasette-app/ | Building a desktop application for Datasette (and weeknotes)
+https://github.com/simonw/datasette.app | simonw/datasette.app: Electron app wrapping Datasette
+
+
+Electron
+https://twitter.com/pydanny/status/1481345258084442112 | Daniel Roy Greenfeld on Twitter: "Dear lazy web: Is there a way to bundle Electron apps to integrate with Python code that works across all platforms, especially Windows?" / Twitter
+
+
+Datasette Desktop App
+https://twitter.com/simonw/status/1432211934179323904 | Simon Willison on Twitter: "Building a desktop application for Datasette - my progress so far researching a proof-of-concept Electron app wrapping Datasette, for ease of installation by new users https://t.co/9arCNKwJK1" / Twitter
+https://twitter.com/simonw/status/1435755618384564224 | Simon Willison on Twitter: "This is for https://t.co/WMWqQhdQyC - I want a menu option which sets it up so user can type "datasette" in a terminal to run "~/.datasette-app/venv/bin/datasette" - but I don't want to add anything else in "~/.datasette-app/venv/bin" to path because of https://t.co/zautZH794k" / Twitter
+https://twitter.com/simonw/status/1435685713727557639 | Simon Willison on Twitter: "One of the most time-consuming parts of this project was learning how to sign and notarize macOS apps for distribution - I wrote up an extensive TIL about that here: https://t.co/VyBbQhPNXt" / Twitter
+https://twitter.com/simonw/status/1435753757527064576 | Simon Willison on Twitter: "With a 5 second cameo from Datasette Desktop at the start!" / Twitter
+https://twitter.com/simonw/status/1346209590577250304 | Simon Willison on Twitter: "Anyone on a Mac want to test something for me? I've figured out how to bundle Datasette as a standalone executable using pyinstaller - no separate Python install required If you're up for trying out you can download a zip file from https://t.co/uJby4Hqr8A" / Twitter
+https://twitter.com/simonw/status/1433140449225576451 | Simon Willison on Twitter: "Any good patterns out there for version numbers for things that model the version numbers of the combined components? Eg if I have a Datasette desktop app where the outer wrapper Electron all is at v1.2 but it bundles datasette 0.59 as an internal dependency?" / Twitter
+
+Datasette Plugin Template
+https://github.com/simonw/datasette-plugin | simonw/datasette-plugin: Cookiecutter template for creating Datasette plugins
+https://github.com/simonw/datasette-plugin-template-demo | simonw/datasette-plugin-template-demo: Demonstrating https://github.com/simonw/datasette-plugin
+https://github.com/simonw/datasette-plugin-template-repository | simonw/datasette-plugin-template-repository: GitHub template repository for creating new Datasette plugins, using the simonw/datasette-plugin cookiecutter template
+https://github.com/simonw/datasette-plugin-template-repository-demo | simonw/datasette-plugin-template-repository-demo: Demo of simonw/datasette-plugin-template-repository
+
+Python lib Template Demo
+https://github.com/simonw/python-lib-template-demo | simonw/python-lib-template-demo: Demo for https://github.com/simonw/python-lib
+https://github.com/simonw/python-lib-template-repository | simonw/python-lib-template-repository: GitHub template repository for creating new Python libarries, using the simonw/python-lib cookiecutter template
+https://github.com/simonw/python-lib-template-repository-demo | simonw/python-lib-template-repository-demo: Demo of simonw/python-lib-template-repository
+
+CLI Template
+https://twitter.com/carltongibson/status/1376077806304649216 | Carlton Gibson 🇪🇺 on Twitter: "Hi @simonw is there a template for ...-to-sqlite tools, or is it dig around and copy what you see? Ta!" / Twitter
+
+Click App
+https://github.com/simonw/click-app | simonw/click-app: Cookiecutter template for creating new Click command-line tools
+https://github.com/simonw/click-app-template-demo | simonw/click-app-template-demo: Demo for https://github.com/simonw/click-app
+https://github.com/simonw/click-app-template-repository | simonw/click-app-template-repository: GitHub template repository for creating new Python Click CLI tools, using the simonw/click-app cookiecutter template
+https://github.com/simonw/click-app-template-repository-demo | simonw/click-app-template-repository-demo: Demo of simonw/click-app-template-repository
+
+## Museums
+
+https://www.niche-museums.com/
+https://github.com/simonw/museums | simonw/museums: A website recommending niche museums to visit
+https://simonwillison.net/2019/Nov/25/niche-museums/ | niche-museums.com, powered by Datasette
+
+
+## NYT JSON/Scraping
+
+https://twitter.com/idangazit/status/1324748491134939136
+https://twitter.com/simonw/status/1324479958710849536 | Simon Willison on Twitter: "Here's the GitHub actions script Alex wrote to grab the latest NYT JSON data every 5 minutes https://t.co/XZS7DbFcSO" / Twitter
+https://alex.github.io/nyt-2020-election-scraper/battleground-state-changes.html | Election 2020 Results
+https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scraper
+-->
+
+
+## High Performance Trends
+
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
+
+## Stack
+
+* [Programming Languages Used in Most Popular Websites Wikipedia](https://en.m.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Stack
+* [StackShare Stacks](http://stackshare.io/stacks), [StackShare Trending](http://stackshare.io/trending), [StackShare Trending Tools](http://stackshare.io/trending/tools), [StackShare Blog](https://stackshare.io/posts), and [StackShare News](https://stackshare.io/news)
+* [SiteStacks](https://sitestacks.com)
+* [Built With](http://builtwith.com) 
+
+
+
+## Showcases
+
+Python- Django- Sites
+* [Django Sites](https://www.djangosites.org/with-source) 
+* [Python 2 Sites](http://python2sites.com)
+
+Built With
+* [React Showcase](https://madewithreactjs.com/)
+* [Made with React](http://madewithreact.com)
+* [React Native Showcase](https://reactnative.dev/showcase.html)
+* [Vue Showcase](https://madewithvuejs.com/)
+
+<!--
+https://reactjs.org/community/examples.html
+
+https://foundation.nodejs.org/resources/app-showcase | Application Showcase - Node Foundation
+
+* [Built with Node](http://builtinnode.com) and [Built with Node GitHub](https://github.com/joyent/node/wiki/Projects,-Applications,-and-Companies-Using-Node)  
+* [Companies Using express.js](https://expressjs.com/en/resources/companies-using-express.html)
+
+
+https://madewithreactnative.com/
+
+https://github.com/hemanth/awesome-pwa | hemanth/awesome-pwa: Awesome list of progressive web apps! (PR welcomed ;))
+
+* [pwa.rocks](https://pwa.rocks) and [pwa.rocks GitHub](https://github.com/pwarocks/pwa.rocks)
+https://web.archive.org/web/20200407235333/https://pwa.rocks/
+-->
+
+
+## Dev Tools, Projects, and Demos
+
+Show Hacker News and IH
+* [Show Hacker News](https://hn.algolia.com/?q=Show+HN)
+* [Show IH](https://www.indiehackers.com/search?q=Show%20IH)
+
+Fun Stuff
+* [Glitch Websites](https://glitch.com/@websites)
+
+Python
+* [Glitch Python](https://glitch.com/@python)
+* [CodePen Python](https://codepen.io/tag/python)
+
+CodePen
+* [CodePen Projects](http://codepen.io/projects/)
+* [CodePen Trending](https://codepen.io/trending)
+* [Top Pens of 2020 on CodePen](https://codepen.io/2020/popular/pens/)
+* [Top Pens of 2019 on CodePen](https://codepen.io/2019/popular/pens)
+* [Top Pens of 2018 on CodePen](https://codepen.io/2018/popular/pens)
+* [Top Pens of 2017 on CodePen](https://codepen.io/2017/popular/pens)
+
+<!--
+Repl Roundup
+https://replit.com/talk/announcements/Monthly-Repls-March-2021/132682
+
+Glitch Roundup
+https://blog.glitch.com/post/last-month-on-glitch-the-march-2021-edition | Last Month on Glitch: the March 2021 edition — Glitch Blog
+https://blog.glitch.com/post/last-month-on-glitch-january-2021 | Last Month on Glitch, the January 2021 edition — Glitch Blog
+https://glitch.com/culture/looky-what-we-made | Looky What We Made
+https://glitch.com/@glitch/glitch-team-faves
+https://blog.glitch.com/category/the-playlist | Apps We Love — Glitch Blog
+
+Collections
+https://help.glitch.com/kb/article/4-what-are-collections/
+Find a Collection
+https://help.glitch.com/kb/article/3-how-can-i-discover-cool-things-made-on-glitch/
+
+Glitch Gallery
+https://support.glitch.com/c/the-gallery/6 | Latest The Gallery topics - Glitch Support
+
+https://glitch.dev/ | Using Glitch for Developer Relations
+https://cdn.glitch.com/397b22cb-b0ea-4417-a6c3-00517a4fd68e%2Fv9_Using%20Glitch%20for%20DevRel%20Brochure.pdf?v=1588630097886
+-->
+
+
+## Creation Blogs
+
+Playgrounds
+* [Glitch Blog](https://blog.glitch.com/)
+* [Repl.it Blog](https://blog.repl.it/)
+* [CodePen Blog](https://blog.codepen.io/)
+
+Product
+* [Twilio Blog](https://www.twilio.com/blog)
+
+<!--
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+Twilio
+https://www.twilio.com/docs/tutorials
+https://www.twilio.com/docs/api | API Reference - In-Depth Reference for all Twilio APIs and SDKs - Twilio
+https://www.twilio.com/docs/quickstart | Quickstart - Guides for Voice, SMS, Video, Chat, Notifications, and More - Twilio
+
+https://www.twilio.com/quest/mission/28 | TwilioQuest: Contributing to Open Source Projects on GitHub
+-->
+
+Deploy
+* [Netlify Blog](https://www.netlify.com/blog/)
+* [Vercel Blog](https://vercel.com/blog)
+
+Web
+* [React Blog](https://reactjs.org/blog/)
+* [Vue News](https://news.vuejs.org/)
+* [Next Blog](https://nextjs.org/blog/)
+* [Redwood News](https://redwoodjs.com/news)
+* [Gatsby Blog](https://www.gatsbyjs.com/blog/)
+
+Databases
+* [CockroachDB Blog](https://www.cockroachlabs.com/blog/)
+* [CouchDB Blog](https://blog.couchbase.com/)
+* [Elastic Blog](https://www.elastic.co/blog/)
+* [MongoDB Blog](https://www.mongodb.com/blog)
+
+
+<!--
+Forum
+https://replit.com/talk/all
+
+Dev Cos
+https://twitter.com/ThePracticalDev | DEV Community 👩‍💻👨‍💻 (@ThePracticalDev) / Twitter
+https://dev.to/aws/aws-open-source-news-and-updates-no-42-24bf | AWS open source news and updates No.42 - DEV Community 👩‍💻👨‍💻
+https://dev.to/salesforcedevs/
+https://dev.to/heroku/
+-->
+
+<!--
+https://oo.t9t.io/organizations | Open companies
+
+Couchbase
+https://github.com/couchbase | couchbase
+https://www.couchbase.com/about | About Us – Awards, Affiliations, History & More | Couchbase
+
+https://www.heroku.com/customers/community-stories | Stories from the Community | Heroku
+https://www.elastic.co/blog/community-organizer-spotlight-december-2020 | Community organizer spotlight - December 2020 | Elastic Blog
+
+Elastic
+https://www.elastic.co/what-is/elk-stack
+
+https://www.mongodb.com/resources
+https://resources.mongodb.com/mongodb-architects | MongoDB for Architects
+https://developer.mongodb.com/article/behind-scenes-mongodb-podcast | Behind the Scenes of the MongoDB Podcast
+https://mongodb.libsyn.com/ | The MongoDB Podcast
+
+MongoDB
+https://www.mongodb.com/cloud/atlas/lp/try2 | MongoDB Atlas: Cloud Document Database | MongoDB
+https://www.mongodb.com/json-and-bson | JSON and BSON | MongoDB
+http://bsonspec.org/ | BSON (Binary JSON) Serialization
+-->
+
+<!--
+Aaron
+https://github.com/aaronbassett
+https://github.com/mongodb-developer/FARM-Auth | mongodb-developer/FARM-Auth: Adding authentication to FARM stack
+https://github.com/aaronbassett/FARM-starter
+https://github.com/aaronbassett/FARM-starter/blob/main/backend/apps/todo/models.py | FARM-starter/models.py at main · aaronbassett/FARM-starter
+https://twitter.com/aaronbassett/status/1381816315980218370
+
+Michael Lynn
+https://twitter.com/mlynn | mlynn (@mlynn) / Twitter
+https://www.instagram.com/p/CI6ucTNjAzz/ | Michael Lynn (@mlynnstagram) • Instagram photos and videos
+
+Colby Fayock
+https://github.com/colbyfayock
+https://www.youtube.com/colbz/videos
+-->
+
+## Makers
+
+Twitch Streams
+* [Brian Douglas Twitch](https://www.twitch.tv/bdougieyo), [Brian Douglas YouTube](https://www.youtube.com/channel/UC7iJhl4CsLxzKUWfAw69Qkg), and [Brian Douglas GitHub](https://github.com/bdougie/)
+* [Michelle Mannering Twitch](https://www.twitch.tv/mishmanners), [Mish Manners GitHub](https://github.com/MishManners), and [Mish Manners Twitter](https://twitter.com/MishManners)
+* [Anthony Sottile Twitch](https://www.twitch.tv/anthonywritescode) and [Anthony Sottile YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w)
+
+<!--
+Great Dev Blogs
+https://twittercommunity.com/t/announcing-the-twitterdev-twitch-channel/146509 | Announcing the TwitterDev Twitch channel - Twitter API - Twitter Developers
+
+GitHub- Twitch
+https://www.twitch.tv/github | (6) GitHub - Twitch
+https://www.twitch.tv/twitterdev
+https://www.twitch.tv/twilio
+https://www.twitch.tv/team/twilio
+
+https://www.twitch.tv/directory/following
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+
+Brian Douglas
+https://www.bdougie.live/ | bdougie.live
+https://github.com/bdougie/blog | bdougie/blog: My blog
+https://twitter.com/bdougieYO
+
+https://github.com/bdougie/github-actions-continuous-delivery
+https://dinnerpeople.app/ | Dinner People
+
+https://discord.com/invite/gZMKK5q | Open Sauced
+https://opensauced.pizza/ | Open Sauced
+https://twitter.com/saucedopen/
+https://www.meetup.com/Open-Sauced-Meetup/
+https://github.com/bdougie/open-sauced | bdougie/open-sauced: This is a project to manage data to identify your next open source contribution.
+https://github.com/open-sauced/open-sauced | open-sauced/open-sauced: 🍕 This is a project to identify your next open source contribution.
+https://github.com/open-sauced/assets | open-sauced/assets: Repo for assets and logos associated with the Open Sauced project
+https://github.com/open-sauced/beybot | open-sauced/beybot: This is a twitch bot built with the ComfyJS library 💅🏾
+-->
+
+<!--
+## Jeff
+
+https://github.com/jefftriplett/links/
+http://links.jefftriplett.com/ | Home | Jeff Triplett's Link Blog
+https://github.com/jefftriplett/packinglists | jefftriplett/packinglists: Travel/packing planner based on length of stay, activities, and location (wip)
+
+https://lfk.im/ | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://github.com/lfk-im/lfk.im/actions | Actions · lfk-im/lfk.im
+
+https://github.com/lfk-im/downtownlawrence-data
+https://github.com/jefftriplett/lfk.im/blob/master/.github/workflows/actions.yml | lfk.im/actions.yml at master · jefftriplett/lfk.im
+https://github.com/jefftriplett/lfk.im | jefftriplett/lfk.im: Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+https://lfk.im/?fbclid=IwAR1MBwTMMAGVRHjgat6MzqRNwCymwZiyuIyplpyhQBk5dNaWiojYJ8Cv-Ag | LFK.im - Lawrence, Kansas curbside takeout and delivery for local COVID-19 impacted businesses
+
+https://so-curbside-grfh9.ondigitalocean.app/ | SOCurbside.com - Southern Oregon curbside takeout and delivery for local COVID-19 impacted businesses
+
+https://github.com/jefftriplett/djobs | jefftriplett/djobs
+https://twitter.com/webology/status/1215773524134113280 | ✨ Jeff Triplett ✨ on Twitter: "A lot of inspiration came from Jacob's https://t.co/5HyW9vXB3q repo too when we worked on https://t.co/VZfV21Gacu. So ya, maybe this isn't that bad of a side project for someone." / Twitter
+-->
+
+<!--
+## Sarah
+
+https://css-tricks.com/author/sdrasner/ | Sarah Drasner on CSS-Tricks - Archive - CSS-Tricks
+
+Articles
+https://www.smashingmagazine.com/2020/11/playfulness-code-supercharge-fun-learning/ | Playfulness In Code: Supercharge Your Learning By Having Fun — Smashing Magazine
+https://leaddev.com/culture-engagement-motivation/why-flow-matters-more-passion
+https://css-tricks.com/in-defense-of-a-fussy-website/ | In Defense of a Fussy Website | CSS-Tricks
+https://css-tricks.com/understanding-async-await/
+https://twitter.com/sarah_edo/status/1456638810343677952
+
+https://t.co/R46VmoT0Hy | Sarah Drasner on Twitter: "Periodic reminder that I've been maintaining a collection of Useful Pens for Everyday Frontend Development for a few years. There's a lot of great stuff to reverse engineer in here!" / Twitter
+https://codepen.io/collection/nMgKxJ
+
+https://github.com/sdras?tab=repositories
+https://github.com/sdras/night-owl-vscode-theme
+Chrome Extension
+https://github.com/sdras/productive-twitter/
+https://github.com/sdras/object-explorer | sdras/object-explorer: 🔥 A resource to help figure out what JavaScript object method would be best to use at any given time
+-->
+
+<!--
+## Charlie
+
+https://github.com/charliegerard | charliegerard (Charlie)
+
+Book
+https://twitter.com/KatiMichel/status/1322247727430946819 | https://twitter.com/KatiMichel/status/1322247727430946819
+https://twitter.com/devdevcharlie/status/1322205823746166786 | Charlie Gerard 🏳️‍🌈 on Twitter: "So... I WROTE A BOOK ABOUT TENSORFLOW.JS! 📘🥳 I didn't realise it was already in pre-order on multiple websites &amp; I'm FREAKING OUT!!! 😱😳 It took about 6 months of "free" time to research, write, edit, and build small projects. I can't wait for it to be out! 🎉 https://t.co/3lJbEdkMIj" / Twitter
+
+https://twitter.com/devdevcharlie/status/1483655079638880256 | Charlie Gerard 🏳️‍🌈 on Twitter: "I made a new thing! 😃 Quick experiment building a plugin for @figmadesign to create UIs with hand movements using TensorFlow.js. Figma doesn't allow access to the webcam in a plugin for security reasons, so it was interesting figuring out how to make it work! https://t.co/dUowD4nc3C" / Twitter
+https://twitter.com/devdevcharlie/status/1483655079638880256 | https://twitter.com/devdevcharlie/status/1483655079638880256
+
+Safe Space
+https://charliegerard.dev/blog/github-action-toxic-comments/
+https://github.com/charliegerard
+https://github.com/charliegerard/safe-space/
+https://github.com/charliegerard/safe-space/blob/master/index.js
+
+https://css-tricks.com/getting-started-with-the-file-system-access-api/ | Getting Started With the File System Access API | CSS-Tricks - CSS-Tricks
+-->
+
+## Makers List
+
+Women Who Inspire Me- JavaScript
+* [Sarah Drasner GitHub](https://github.com/sdras) and [Sarah Drasner Twitter](https://twitter.com/sarah_edo)
+* [Cassidy Williams](https://cassidoo.co/) and [Cassidy Williams GitHub](https://github.com/cassidoo/)
+
+Django, GitHub, SQL
+* [Jeff Triplett Twitter](https://twitter.com/webology)
+* [Simon Willison](https://static.simonwillison.net)
+
+Product
+* [Pieter Levels Twitter](https://twitter.com/levelsio)
+* [Feross Aboukhadijeh GitHub](https://github.com/feross)
+* [Sindre Sorhus GitHub](https://github.com/sindresorhus)
+
+GitHub
+* [Froilan Irizarry Rivera GitHub](https://github.com/froi/)
+* [Steve Winton GitHub](https://github.com/swinton/)
+* [Jason Etco GitHub](https://github.com/JasonEtco/)
+* [Gregor Martynus GitHub](https://github.com/gr2m/)
+* [Mike Coutermarsh GitHub](https://github.com/mscoutermarsh/)
+
+Women Who Inspire Me- Python
+* [Mariatta GitHub](https://github.com/mariatta)
+* [Lorena Mesa GitHub](https://github.com/lorenanicole)
+* [Jessica Garson GitHub](https://github.com/JessicaGarson)
+* [Nina Zakharenko Twitter](https://twitter.com/nnja)
+
+Women Who Inspire Me
+* [Michelle Mannering GitHub](https://github.com/MishManners) and [Michelle Mannering Twitter](https://twitter.com/MishManners)
+* [Alice Goldfuss Twitter](https://twitter.com/alicegoldfuss)
+* [Ashley Willis (McNamara) Twitter](https://twitter.com/ashleymcnamara)
+* [Camille Fournier Twitter](https://twitter.com/skamille)
+* [Chloe Condon Twitter](https://twitter.com/ChloeCondon)
+* [Jess Frazelle GitHub](https://github.com/jessfraz)
+* [Leigh Honeywell](https://hypatia.ca)
+* [Paige Bailey Twitter](https://twitter.com/DynamicWebPaige)
+* [Suz Hinton Twitter](https://twitter.com/noopkat)
+
+<!--
+Makers
+https://twitter.com/swyx/status/1405124789056901121 | swyx on Twitter: "Check out this list for an upgrade to your timeline 👇 I consider it an honor of a lifetime to be on it and aim to stay that way🙇‍♂️ Pieter was a huge part of why I decided to switch careers into webdev in the first place" / Twitter
+https://twitter.com/i/lists/1368738285263159296 | @levelsio/Build in public / Twitter
+https://www.petecodes.io/how-much-it-costs-to-run-my-businesses-may-2021/ | How much it costs to run my businesses (May 2021)
+
+https://dev.to/gr2m/ | Gregor Martynus - DEV
+https://github.com/gr2m/
+
+https://mikecoutermarsh.com/ | Mike Coutermarsh
+https://jasonet.co/ | Jason Etcovitch · jasonet.co
+
+https://github.com/tj
+https://github.com/mikeal
+
+https://twitter.com/jessfraz
+https://blog.jessfraz.com/
+-->
+
+## People
+
+Product Hunt Maker Leader Boards
+* [Top 500 Makers (sorted by votes)](http://500makers.com/?sort=votes)
+* [Top 500 Hunters](http://500hunters.com)
+* [Maker Rank](https://makerrank.co)
+* [Golden Kitty Awards 2018 (Nominations)](https://www.producthunt.com/golden-kitty-awards-2018/) and [Golden Kitty Awards 2017](https://www.producthunt.com/golden-kitty-awards-2017)
+
+People
+* [GitHub Trending Developers](https://github.com/trending/developers)
+
+<!--
+https://www.producthunt.com/golden-kitty-awards-2020/remote-work-tools | Remote Work Tools - Golden Kitty Awards 2020 | Product Hunt
+https://www.producthunt.com/golden-kitty-awards-2020/diversity-and-inclusion | Diversity and Inclusion - Golden Kitty Awards 2020 | Product Hunt
+
+https://www.producthunt.com/newsletter/2411 | And the Golden Kitty Award Winners are...🏆 - Product Hunt
+
+https://adventofcode.com/2020/leaderboard
+
+https://repl.it/leaders | Repl.it - Leaderboard
+
+https://github.com/maintainers | Open Source Maintainers on GitHub
+https://maintainers.github.com/
+https://github.com/orgs/maintainers/people
+
+https://github.com/wongmjane?tab=following | wongmjane (Jane Manchun Wong) / Following
+
+https://github.com/dear-github/dear-github/issues/304 | Host Github by itself as an open source project · Issue #304 · dear-github/dear-github
+-->
+
+
 ## 100 Something
 
 100 Days of Code
