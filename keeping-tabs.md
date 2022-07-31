@@ -1,6 +1,99 @@
 # Keeping Tabs
 
 <!--
+https://docs.python.org/3/library/functions.html#vars
+
+https://rnevius.github.io/django_request_response_cycle.png
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
+
+## PyScript
+
+https://pyscript.net/
+
+## Single File
+
+https://github.com/wsvincent/django-microframework
+
+## Anthony
+
+https://github.com/asottile
+https://github.com/getsentry/
+
+## Nina
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4
+
+## Mozilla
+
+https://mdn.dev/
+https://developer.mozilla.org/en-US/
+
+## HTML
+
+https://htmx.org/
+
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
+
+## Python and JavaScript
+
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+http://coodict.github.io/python3-in-one-pic/
+https://github.com/coodict/javascript-in-one-pic
+
+## Tools Matrix
+
+https://twitter.com/nletcher/status/1487782511543746565
+
+## Tools
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+
+https://github.com/FlipperPA/django-s3-sqlite
+
+## Classy
+
+https://ccbv.co.uk/
+https://cdf.9vo.lt/
+
+## PEPs
+
+https://github.com/vinayak-mehta/python-peps-graph
+
+## Testing Tools
+
+https://pythontest.com/
+
+https://adamj.eu/tech/2020/06/03/introducing-time-machine/
+https://github.com/spulec/freezegun
+https://factoryboy.readthedocs.io/en/stable/
+https://docs.python.org/3/library/doctest.html
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+
+https://selenium-python.readthedocs.io/page-objects.html
+https://django-selenium.readthedocs.io/en/latest/
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
+
+https://playwright.dev/
+
+## Security
+
+https://docs.djangoproject.com/en/dev/releases/security/
+https://owasp.org/?gclid=CjwKCAjwrZOXBhACEiwA0EoRD1nb56uFvL91qib7YY3GgTYUIVtv5ICz5luqFmxu-l_bBsLkjAChKRoCPVwQAvD_BwE
+
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+-->
+
+<!--
 Octopus
 Lint All the Things
 https://ep2022.europython.eu/session/lint-all-the-things
