@@ -508,6 +508,446 @@ https://developer.mozilla.org/en-US/docs/Learn/Forms
 -->
 
 
+## Great Release Managers
+
+<!--
+People and Projects
+
+Includes issues links
+* [Python Packaging Key Projects](https://packaging.python.org/key_projects)
+https://www.encode.io/projects/
+
+https://twitter.com/PalletsTeam
+
+https://github.com/orgs/pytest-dev/people
+https://github.com/orgs/pypa/people
+https://github.com/orgs/python/people
+https://github.com/orgs/tox-dev/people
+https://github.com/orgs/pallets/people
+https://github.com/orgs/pre-commit/people
+https://github.com/python/cpython/graphs/contributors
+
+Encode
+
+https://www.encode.io/projects/
+
+https://www.encode.io/reports/july-2019/ | Encode
+http://www.django-rest-framework.org/topics/kickstarter-announcement/ | Kickstarter Announcement - Django REST framework
+https://discuss.encode.io/ | Encode
+-->
+
+### Projects
+
+### Ned Batchelder
+
+* [coverage.py GitHub](https://github.com/nedbat/coveragepy/)
+
+<!--
+https://github.com/nedbat/coveragepy/issues/
+-->
+
+
+### Hynek Schlawack
+
+* [Hynek GitHub](https://github.com/hynek)
+* [Hynek Talks](https://hynek.me/talks/)
+
+<!--
+https://hynek.me/talks/python-foss/
+https://pyvideo.org/pygotham-2019/maintaining-a-python-project-when-its-not-your-job.html
+https://speakerdeck.com/hynek/maintaining-a-python-project-when-its-not-your-job
+https://www.google.com/search?q=hynek+schlawack+not+your+job&oq=hynek+schlawack+not+your+job&aqs=chrome.0.69i59j33.6804j0j7&sourceid=chrome&ie=UTF-8 | hynek schlawack not your job - Google Search
+
+https://pyvideo.org/pycon-us-2018/how-to-write-deployment-friendly-applications.html
+https://www.youtube.com/watch?v=wuCpCkrfeMs | Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018 - YouTube
+-->
+
+<!--
+## Talks
+
+Contributing- Important
+https://github.com/python-attrs/attrs/blob/master/.github/CONTRIBUTING.rst
+
+Not sure...
+https://setuptools.readthedocs.io/en/latest/setuptools.html#declaring-extras-optional-features-with-their-own-dependencies
+
+PyPI long description
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/tox.ini#L63-L71
+http://mypy-lang.org/
+
+Formatting and Stuff
+
+fan of 79 characters line lengths. 
+https://github.com/python-attrs/attrs/blob/de84609505845edc0e05c2ff918a44085816e35e/pyproject.toml#L6-L7
+https://treyhunner.com/2017/07/craft-your-python-like-poetry/
+
+settings
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.cfg#L20-L31
+https://prettier.io/
+pre-commit config
+https://github.com/python-attrs/attrs/blob/master/.pre-commit-config.yaml
+
+Change Log
+https://pypi.org/project/towncrier/
+
+Packaging
+https://hynek.me/articles/sharing-your-labor-of-love-pypi-quick-and-dirty/
+
+Alex Grönholm - Automating testing and deployment with Github and Travis
+https://www.youtube.com/watch?v=btqFjNDdTlE
+
+credential management
+https://github.com/joerick/cibuildwheel
+https://github.com/explosion/wheelwright
+
+setup.py
+https://github.com/python-attrs/attrs/blob/master/setup.py
+canonical package data
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/src/attr/__init__.py#L21-L33
+rexexps
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L67-L79
+https://github.com/sdispater/poetry/issues/1036
+
+Change Log
+https://github.com/hynek/structlog/blob/master/CHANGELOG.rst
+https://raw.githubusercontent.com/python-attrs/attrs/master/CHANGELOG.rst
+
+Extra change log entries
+https://github.com/python-attrs/attrs/blob/6fa28b3b074a935038dd701382eb67f0e953d097/setup.py#L84-L97
+Example
+https://pypi.org/project/attrs/
+
+https://github.com/hynek/structlog/commit/92f46e5ff2d014c8e7e6a11166165a3e6dc1288b
+https://www.sphinx-doc.org/en/master/usage/builders/index.html#sphinx.builders.linkcheck.CheckExternalLinksBuilder
+https://github.com/hynek/structlog/commit/1468a34661d2035198ff3eb925883a8b8d959919
+-->
+
+### Paul Ganssle
+
+<!--
+https://github.com/pganssle
+
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+https://twitter.com/pganssle/status/1262094764004040707 | Paul Ganssle on Twitter: "If anyone has strong feelings about how to get a list of available time zones on Python, please comment here — feature freeze is tomorrow! Issue: https://t.co/OnxWURMV1N PR: https://t.co/jOShLh47kD Bit of an oversight that this wasn't in PEP 615... #python" / Twitter
+
+https://github.com/python/cpython/commit/b17e49e0def23238b9e7f48c8a02e2d7bbf1f653
+https://twitter.com/pganssle/status/1230848453321904130 | Paul Ganssle on Twitter: "Oh boy. Standard library time zone implementation is now passing a lot of tests. Still a bunch of TODO comments and tests to write but I think the API might be close to final. Looks like it's time to start in on the documentation.😬 #python #timezones #documentation" / Twitter
+https://twitter.com/pganssle/status/1213826961182744576 | Paul Ganssle on Twitter: "I soft-launched this a few weeks back, but here is my most polished (i.e. not very) @rustlang project to date: metadata-backup, a tool for backing up your file system metadata. Contributions welcome! https://t.co/dg43qKxjFR" / Twitter
+-->
+
+
+### Anthony Sottile
+
+<!--
+## Anthony Tools
+
+pre-commit
+https://pre-commit.com/ | pre-commit
+https://github.com/pre-commit/pre-commit/
+
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.	
+https://adamj.eu/tech/2020/04/02/maintaining-multiple-python-projects-with-myrepos/ | Maintaining Multiple Python Projects With myrepos - Adam Johnson
+
+## Anthony Project
+
+Wordle clone
+https://www.youtube.com/watch?v=dViRI1iovoc
+
+https://www.youtube.com/watch?v=YZIy4U-2zI4 | The All-American Rejects - One More Sad Song - YouTube
+https://github.com/asottile2/askljdf | asottile2/askljdf
+
+https://github.com/anthonywritescode/twitch-chat-bot | anthonywritescode/twitch-chat-bot
+-->
+
+
+Builds lots of productivity tools, linters, and code formatters
+
+Sponsor Bio
+* [Anthony Sponsor Bio](https://github.com/sponsors/asottile)
+
+Regular Accounts
+* [Anthony Sottile GitHub](https://github.com/asottile/)
+* [Anthony Sottile Archive GitHub](https://github.com/asottile-archive)
+
+Twitch-Related
+* [Twitch](https://www.twitch.tv/anthonywritescode)
+* [Twitch GitHub](https://github.com/anthonywritescode)
+* [Twitch YouTube](https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w/videos)
+* [Anthony Sottile Twitter](https://twitter.com/codewithanthony)
+
+Advent of Code
+* [Advent of Code GitHub](https://github.com/anthonywritescode/aoc2019/)
+
+Creator
+* [pre-commit](https://pre-commit.com)
+* [seed-isort-config GitHub](https://github.com/asottile/seed-isort-config)
+
+Core Developer
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/)
+* [Tox Read the Docs](https://tox.readthedocs.org)
+
+Maintainer (maintain pyflakes as a member of the @PyCQA)
+* [Flake8 GitHub](https://gitlab.com/pycqa/flake8) and [Flake8 Docs](http://flake8.pycqa.org)
+* [Pyflakes GitHub](https://gitlab.com/pycqa/flake8)
+
+pycodestyle
+* [pycodestyle GitHub](https://github.com/PyCQA/pycodestyle)
+
+<!--
+https://github.com/PyCQA/pycodestyle/issues/466
+-->
+
+Special Projects
+* [babi](https://github.com/asottile/babi)
+* [babi-editor](https://github.com/babi-editor)
+
+<!--
+Anthony
+https://github.com/asottile2/demo2 | asottile2/demo2
+https://github.com/asottile/setup-cfg-fmt | asottile/setup-cfg-fmt: apply a consistent format to `setup.cfg` files
+https://github.com/asottile/no-manylinux/blob/master/setup.cfg | no-manylinux/setup.cfg at master · asottile/no-manylinux
+https://github.com/asottile/blacken-docs | asottile/blacken-docs: Run `black` on python code blocks in documentation files
+
+https://keeb.io/products/bdn9-3x3-9-key-macropad-rotary-encoder-support | BDN9 - 3x3 9-key Macropad - Rotary Encoder Support – Keebio
+
+deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa | New Python Versions : “deadsnakes” team
+https://github.com/deadsnakes-issues-bot/test | deadsnakes-issues-bot/test
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+https://github.com/deadsnakes/python3.10-nightly/blob/master/.github/workflows/main.yml | python3.10-nightly/main.yml at master · deadsnakes/python3.10-nightly
+-->
+
+<!--
+https://github.com/pre-commit-ci | pre-commit-ci
+https://github.com/pre-commit-ci/pre-commit.ci | pre-commit-ci/pre-commit.ci: Website for https://pre-commit.ci
+
+https://discordapp.com/invite/HxpQ3px | anthonywritescode
+https://www.twitch.tv/team/livecoders | (1) Twitch
+
+https://www.youtube.com/watch?v=gQM0s7hu-58 | Music for your relax | Chill music - YouTube
+https://www.youtube.com/watch?v=C2xVBGRXiMY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=80 | (2) Infinity | Beautiful Chill Mix - YouTube
+https://www.youtube.com/watch?v=eAD3YI354kY&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=166 | Deeper | Beautiful Chill Mix - YouTube
+https://www.youtube.com/watch?v=o6jTTZZ9EFQ&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=67 | Triton - Borealis - YouTube
+https://www.youtube.com/watch?v=eN9fGWaihZw&list=PL44UysF4ZQ23B_ITIqM8Fqt1UXgsA9yD6&index=66 | A Gon - You - YouTube
+
+https://github.com/anthonywritescode/thumbnails/blob/master/assets/pythonk.svg | thumbnails/pythonk.svg at master · anthonywritescode/thumbnails
+
+https://www.youtube.com/watch?v=XLRdSxlIIfc | Keep Your Code Clean Using pre-commit with Anthony Sottile - YouTube
+https://testandcode.com/104
+
+deadsnakes
+https://github.com/deadsnakes/action | deadsnakes/action: a GitHub action to install (pre-release) pythons from deadsnakes
+
+Builds backported/forwardported pythons for ubuntu with @deadsnakes
+https://twitter.com/codewithanthony/status/1242245981590007808
+https://github.com/deadsnakes/nightly | deadsnakes/nightly: (experimental) nightly debian packaging of pythons
+https://github.com/deadsnakes
+https://launchpad.net/~deadsnakes/+archive/ubuntu/ppa
+
+https://github.com/pre-commit/mirrors-autopep8/commit/5985fb24f71421cd14f9cda5d6c7a06fc30b321c
+https://github.com/anthonywritescode/cfp/blob/master/lyftvenv.md
+
+https://github.com/asottile/babi/blob/master/requirements-dev.txt | babi/requirements-dev.txt at master · asottile/babi
+
+all-repos
+https://github.com/asottile/all-repos | asottile/all-repos: Clone all your repositories and apply sweeping changes.
+
+https://github.com/anthonywritescode/twitch-chat-bot
+
+https://github.com/asottile/onigurumacffi/pull/20/files
+https://github.com/asottile/scratch/wiki | Home · asottile/scratch Wiki
+https://github.com/asottile/add-trailing-comma
+https://github.com/asottile/t
+https://github.com/asottile/git-code-debt
+
+https://github.com/asottile/hecate | asottile/hecate: A terrible way of testing terminal applications
+
+Drop python 2 / python3.5 support in pre-commit
+https://github.com/pre-commit/pre-commit/releases/tag/v2.0.0
+https://github.com/pre-commit/pre-commit/issues/1260
+https://github.com/pre-commit/pre-commit/pull/1277
+
+https://pre-commit.com/#python
+https://pre-commit.com/hooks.html
+
+http://linter-runner.com
+https://twitter.com/codewithanthony/status/1208048314987548673 | Anthony Sottile on Twitter: "@KatiMichel https://t.co/S6NBCRYnJj coming soon ;)" / Twitter
+https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks | Git - Git Hooks
+
+PyTest
+https://twitter.com/codewithanthony/status/1195477147537657856
+https://twitter.com/nicoddemus/status/1195088740118618112
+https://twitter.com/blueyed/status/1222578734676484096
+https://twitter.com/codewithanthony/status/1213573183879692289 | Anthony Sottile on Twitter: "#pytest 4.6.9 has been released! this marks the beginning of community supported 4.6 maintenance of python 2 / python 3.4 (core will still accept patches to 4.6 but will no longer be actively backporting to 4.6) -- long live python 2! more details here: https://t.co/6b7Ilkr8ko" / Twitter
+
+https://github.com/asottile/pyupgrade/blob/997f4452c82848afdeda08ec3d2bef8b08d5ebe1/.travis.yml | pyupgrade/.travis.yml at 997f4452c82848afdeda08ec3d2bef8b08d5ebe1 · asottile/pyupgrade
+https://github.com/asottile/pyupgrade/blob/34a269fd7650d264e4de7603157c10d0a9bb8211/azure-pipelines.yml#L23 | pyupgrade/azure-pipelines.yml at 34a269fd7650d264e4de7603157c10d0a9bb8211 · asottile/pyupgrade
+https://github.com/search?l=YAML&o=desc&q=-+++env%3A+TOXENV%3Dpy36&s=indexed&type=Code | Search · - env: TOXENV=py36
+https://tox.readthedocs.io/en/latest/config.html | tox configuration specification — tox 3.14.2.dev12 documentation
+
+https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en | Tampermonkey - Chrome Web Store
+https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/ | Greasemonkey – Get this Extension for 🦊 Firefox (en-US)
+
+https://github.myshopify.com/collections/collectibles/products/ship-it-enamel-pin | Ship It Pin – GitHub
+https://chriskuehl.github.io/shipit/ | https://chriskuehl.github.io/shipit/
+https://github.com/chriskuehl/shipit | chriskuehl/shipit
+-->
+
+<!--
+## Adam
+
+https://twitter.com/AdamChainz | Adam Johnson (@AdamChainz) / Twitter
+
+Uniform commit messages
+https://github.com/adamchainz/django-perf-rec
+https://gumroad.com/l/suydt
+
+
+## Git Rebase
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
+## Django HTMX
+
+https://github.com/adamchainz/django-htmx
+https://twitter.com/AdamChainz/status/1456031360167157765 | Adam Johnson on Twitter: "A set of videos demonstrating several UI patterns using Django with HTMX" / Twitter
+
+
+## Single Something
+
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2019/09/14/a-single-file-async-django-app/ | A Single File Asynchronous Django Application - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://blog.tinbrain.net/blog/simplest-api.html | Kitty Litter - The simplest API
+https://adamj.eu/tech/2019/05/27/the-simplest-wsgi-middleware/ | The Simplest WSGI Middleware - Adam Johnson
+
+
+## Well Maintained
+
+The Well Maintained Test
+https://twitter.com/AdamChainz/status/1456347321415917569 | Adam Johnson on Twitter: "✍️ I’ve come up with a test that we can use to decide whether a new package we’re considering depending on is well-maintained. https://t.co/vW08nG67cH" / Twitter
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/ | The Well-Maintained Test: 12 Questions for New Dependencies - Adam Johnson
+https://twitter.com/ryancheley/status/1462970339768426498 | The B Is Silent on Twitter: "New Post: The Well Maintained Test https://t.co/xigqGCpcxT which was inspired by an article written by @AdamChainz and tools built by @simonw @willmcgugan! Such a great #Python community out there with lots of tools to help you build cool stuff! 💯" / Twitter
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+
+https://adamj.eu/tech/2021/11/04/the-well-maintained-test/
+Is it described as “production ready”?
+Is there sufficient documentation?
+Is there a changelog?
+Is someone responding to bug reports?
+Are there sufficient tests?
+Are the tests running with the latest <Language> version?
+Are the tests running with the latest <Integration> version?
+Is there a Continuous Integration (CI) configuration?
+Is the CI passing?
+Does it seem relatively well used?
+Has there been a commit in the last year?
+Has there been a release in the last year?
+
+https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/ | The Joel Test: 12 Steps to Better Code – Joel on Software
+Do you use source control?
+Can you make a build in one step?
+Do you make daily builds?
+Do you have a bug database?
+Do you fix bugs before writing new code?
+Do you have an up-to-date schedule?
+Do you have a spec?
+Do programmers have quiet working conditions?
+Do you use the best tools money can buy?
+Do you have testers?
+Do new candidates write code during their interview?
+Do you do hallway usability testing?
+
+## Django Optimization
+
+Optimize ORM
+https://twitter.com/AdamChainz/status/1405805494158123008 | Adam Johnson on Twitter: "This is your infrequent reminder that the Django docs has a great page on 
+how to optimize your use of the ORM: https://t.co/vWPPa6Sckr" / Twitter
+
+
+## Books
+
+Boost Your Django DX
+https://app.gumroad.com/d/3135fe9085532956233f6993272af8b5
+
+Speed Up Your Django Tests
+https://drive.google.com/drive/u/3/folders/1ygABKMyfRBbWijaXlmZlMv_DcFo_nDG0 | speed-up-your-django-tests – Google Drive
+https://github.com/adamchainz/django-startproject-templates | adamchainz/django-startproject-templates
+
+https://adamchainz.gumroad.com/l/byddx | Boost Your Django DX
+
+Important!!!!!!!
+https://twitter.com/AdamChainz/status/1458767133190594566 | Adam Johnson on Twitter: "Does this chapter have enough tools in it? https://t.co/UGyiFH0wSM" / Twitter
+https://twitter.com/Ry_Austin/status/1481290364770209793 | Ryan on Twitter: "In the first few pages of @AdamChainz new book BYDDX I picked up a few nice resources. From https://t.co/FLgTynB3Ns and https://t.co/A553BpfTPj where I picked up {% empty %} and used it in a neat little for-(if-else)-empty combination." / Twitter
+
+DevOps
+Watchman
+https://adamj.eu/tech/2021/01/20/efficient-reloading-in-djangos-runserver-with-watchman/
+https://stackoverflow.com/questions/55831728/what-is-statreloader-while-running-django | What is StatReloader while running Django? - Stack Overflow
+
+
+## Tips
+
+Type hints
+https://adamj.eu/tech/2021/09/08/python-type-hints-use-cases-for-the-types-module/ | Python Type Hints - Use Cases for the types Module - Adam Johnson
+
+https://adamj.eu/tech/2019/04/30/getting-a-django-application-to-100-percent-coverage/ | Getting a Django Application to 100% Test Coverage - Adam Johnson
+
+Test
+https://adamj.eu/tech/2021/01/04/2021-01-04-better-exception-output-in-djangos-test-runner-with-better-exceptions/ | 404: Page not found - Adam Johnson
+https://adamj.eu/tech/2020/09/05/what-happens-when-you-run-manage.py-test/ | What happens when you run manage.py test? - Adam Johnson
+
+https://adamj.eu/tech/2020/02/25/use-python-m-pip-everywhere/ | Use ‘python -m pip’ Everywhere - Adam Johnson
+
+https://adamj.eu/tech/2014/07/16/extending-djangos-queryset-to-return-approximate-counts/ | Extending Django's QuerySet to return approximate COUNTs · Adam Johnson's Blog
+https://twitter.com/AdamChainz/status/1481275696949473292 | Adam Johnson on Twitter: "What are some basic URL's and patterns you might need to build in a (Django) site? Thinking of more tutorials to write. So far I have... 🧵" / Twitter
+https://twitter.com/AdamChainz/status/1462095800301928449 | Adam Johnson on Twitter: "✍️ An old post I found myself referring to this week: redirecting https://t.co/l2Ej67Zp69 to https://t.co/N47ft93GhX in Django https://t.co/gAR8JiUbtX" / Twitter
+
+https://www.youtube.com/user/djangoconeurope/playlists | (2) DjangoCon Europe - YouTube
+https://github.com/adamchainz/talk-how-to-hack-a-django-website/blob/master/how-to-hack-a-django-website.pdf | talk-how-to-hack-a-django-website/how-to-hack-a-django-website.pdf at master · adamchainz/talk-how-to-hack-a-django-website
+https://twitter.com/aspigirlcodes/status/1307667083996651520/photo/1 | Sara on Twitter: "By @AdamChainz. When a speaker says this talk exists of 4 parts, and you boldly divide your page in 4, always keep some place for a bonus point... https://t.co/8wICENVut6" / Twitter
+
+Security 
+https://securityheaders.com/
+https://adamj.eu/tech/2020/04/08/django-security-headers-hall-of-fame/
+https://adamj.eu/tech/2019/04/10/how-to-score-a+-for-security-headers-on-your-django-website/
+https://adamj.eu/tech/2020/02/18/safely-including-data-for-javascript-in-a-django-template/
+
+Memory Leaks
+https://twitter.com/simonw/status/1174661745429770240 | Simon Willison on Twitter: "This is really useful - a whole bunch of tips that on detecting and avoiding memory leaks that I've not seen documented together anywhere else https://t.co/eG95ClX5zy" / Twitter
+https://adamj.eu/tech/2019/09/19/working-around-memory-leaks-in-your-django-app/ | Working Around Memory Leaks in Your Django Application - Adam Johnson
+
+Database Instrumentation Tooling
+https://docs.djangoproject.com/en/3.1/topics/db/instrumentation/ | Database instrumentation | Django documentation | Django
+https://twitter.com/simonw/status/1315670877292249089 | Simon Willison on Twitter: "This is a neat hack built on top of Django's database instrumentation tooling which allows you to doable writes using an environment variable - handy for if you're poking around in manage shell to debug a production issue https://t.co/SYTqT4YMVn" / Twitter
+
+
+## Upgrade
+
+Django Upgrade
+https://adamj.eu/tech/2021/09/16/introducing-django-upgrade/ | Introducing django-upgrade, a tool for upgrading your Django projects - Adam Johnson
+
+PyUpgrade
+https://adamj.eu/tech/2021/05/21/python-type-hints-how-to-upgrade-syntax-with-pyupgrade/ | Python Type Hints - How to Upgrade Syntax with pyupgrade - Adam Johnson
+
+## Adam's Packages
+
+https://adamj.eu/tech/2020/10/12/prevent-unintended-data-modification-with-django-read-only/ | Prevent Unintended Data Modification With django-read-only - Adam Johnson
+https://github.com/adamchainz/django-read-only | adamchainz/django-read-only: Disable Django database writes.
+
+Django Browser Reload
+https://twitter.com/AdamChainz/status/1472497566810001418 | Adam Johnson on Twitter: "👨‍💻 With a little bit of morning coding I have got django-browser-reload triggering a reload when a static asset changes. I want to also make it work on Django’s debug page before doing a second release. https://t.co/Pw9k5cmO2G" / Twitter
+https://twitter.com/AdamChainz/status/1471094853241036802 | https://twitter.com/AdamChainz/status/1471094853241036802
+
+Django Minify HTML
+https://twitter.com/AdamChainz/status/1475778548275236871 | Adam Johnson on Twitter: "📦 New package: django-minify-html 📦 This provides a Django middleware for running minify-html, the “extremely fast and smart HTML + JS + CSS minifier”. It minifies HTML, and any inline JS and CSS, with little overhead. https://t.co/vqVXATLl5t" / Twitter
+
+Repos
+https://github.com/adamchainz/chainz-scripts | adamchainz/chainz-scripts: Useful little scripts that I use on commandline. Work in OS-X + zsh at least.
+https://github.com/adamchainz/django-cors-headers | adamchainz/django-cors-headers: Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS)
+-->
+
+
 ## Programming Language Comparisons
 ## General Software Design Patterns
 ## Architectures
