@@ -1,13 +1,26 @@
 # Python and Django Tools and Deployment
 
 <!--
-Python Security
-https://snyk.io/blog/python-security-best-practices-cheat-sheet/ | Python security best practices cheat sheet | Snyk
-https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
-MacOSX Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
 
+
+## Choices
+
+Vinta Django Apps Checklist	
+* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
+
+Vinta API Checklist	
+* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
+
+https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
+
+https://devchecklists.com
+https://devchecklists.com/django-production-launch/
+https://devchecklists.com/vintas-high-quality-standards/
 
 ## JS Scene
 
@@ -19,6 +32,15 @@ https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | 
 
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
 
+
+
+Python Security
+https://snyk.io/blog/python-security-best-practices-cheat-sheet/ | Python security best practices cheat sheet | Snyk
+https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
+
+MacOSX Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: A practical guide to securing macOS.
+
 ## Telemetry
 
 https://prometheus.io/ | Prometheus - Monitoring system & time series database
@@ -29,6 +51,7 @@ https://github.com/prometheus/prometheus/releases/tag/v2.30.0-rc.0 | Release 2.3
 https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profiler for Python
 
 https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
+
 
 ## Testing Opinion
 
@@ -120,9 +143,6 @@ PEPs Graph
 https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
 
 
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
 
 https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
 
@@ -146,10 +166,6 @@ https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-i
 
 Httpx
 https://opensource.com/article/22/3/python-httpx | How to use httpx, a web client for Python | Opensource.com
-
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
 
 
@@ -208,20 +224,6 @@ https://twitter.com/icymihn/status/1520921032613371904 | ICYMI HN on Twitter: "L
 https://openai.com/dall-e-2/ | DALL·E 2
 https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
 https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (@dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
-
-## Choices
-
-Vinta Django Apps Checklist	
-* [Vinta Django Apps Checklist](https://devchecklists.com/django-apps-checklist)	
-
-Vinta API Checklist	
-* [Vinta API Checklist](https://devchecklists.com/python-api-checklist) and [Vinta API Checklist GitHub](https://github.com/vintasoftware/python-api-checklist)
-
-https://github.com/vintasoftware/python-api-checklist/blob/master/checklist-en.md | python-api-checklist/checklist-en.md at master · vintasoftware/python-api-checklist
-
-https://devchecklists.com
-https://devchecklists.com/django-production-launch/
-https://devchecklists.com/vintas-high-quality-standards/
 
 ## Madelene Campos
 
@@ -358,52 +360,6 @@ Django User Model
 https://github.com/eleanorstrib/django-user-model-options | eleanorstrib/django-user-model-options: Repo with in-depth coverage of high level concepts from a poster session I did at PyCon 2017 in Portland, OR, May 21, 2017
 -->
 
-
-
-## Butter CMS
-
-<!--
-https://buttercms.com/
--->
-
-## Flask
-
-<!--
-Flask
-https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
-https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
-
-
-https://flask.palletsprojects.com/en/2.0.x/views/ | Pluggable Views — Flask Documentation (2.0.x)
-https://flask.palletsprojects.com/en/2.0.x/api/ | API — Flask Documentation (2.0.x)
-https://flask.palletsprojects.com/en/2.0.x/tutorial/views/ | Blueprints and Views — Flask Documentation (2.0.x)
-https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions | Quickstart — Flask Documentation (1.1.x)
-https://github.com/pallets/flask/blob/master/src/flask/app.py | flask/app.py at master · pallets/flask
-https://github.com/pallets/flask/blob/master/src/flask/config.py | flask/config.py at master · pallets/flask
-
-https://flask.palletsprojects.com/en/2.0.x/async-await/ | Using async and await — Flask Documentation (2.0.x)
-
-https://github.com/realpython/flask-boilerplate
-https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
-https://github.com/mozilla/flask-elasticsearch-skeleton
-https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
-https://github.com/mjhea0/awesome-flask
-https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
-
-https://apiflask.com/ | APIFlask
-
-https://github.com/dpgaspar/Flask-AppBuilder | dpgaspar/Flask-AppBuilder: Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
-
-## Flask is Production Ready
-
-https://twitter.com/driscollis/status/1438622525471272961 | Mike Driscoll on Twitter: "This is correct. Flask is a successful production-ready #Python web framework" / Twitter
-https://twitter.com/svpino/status/1438427586925826053 | Santiago on Twitter: "I've heard a couple of times that you shouldn't use Flask in production systems. This is not correct. Flask comes with a built-in web server that's not suitable for production. The solution is not to throw Flask away but to pair it with a production-ready WSGI server." / Twitter
-
-## Flask Stack
-
-Interesting
-https://twitter.com/davidism/status/1276205301344026625 | David Lord on Twitter: "Have a client that keeps talking about the "MERN stack", but no one has blogged about huge success stories for the "PFRP" (PostgreSQL, Flask, React, Python) stack even though it's just as valid, it just doen't have the same marketing incentives." / Twitter
--->
 
 
 ## Programming Language Comparisons
@@ -1151,6 +1107,12 @@ Django Classy
 * [Classy Django Forms](http://cdf.9vo.lt) and [Classy Django Forms GitHub](https://github.com/ana-balica/classy-django-forms)
 * [Classy Django REST Framework](http://cdrf.co) and [Classy Django REST Framework GitHub](https://github.com/vintasoftware/classy-django-rest-framework)
 
+<!--
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
+
+Django Request and Response Cycle
+* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
+-->
 
 ## General Python and Django Links
 
@@ -1260,11 +1222,6 @@ https://github.com/rgs258/django-markdown-view | rgs258/django-markdown-view: Se
 
 http://django-vanilla-views.org/ | Django Vanilla Views - Beautifully simple class based views
 https://github.com/tomchristie/django-vanilla-views | tomchristie/django-vanilla-views: Beautifully simple class-based views.
-
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application | Understanding the request-response lifecycle of a Django web application | DiscoverSDK Blog
-
-Django Request and Response Cycle
-* [Django Request and Response Cycle](http://rnevius.github.io/django_request_response_cycle.png)
 
 
 ## F-Strings
@@ -1683,6 +1640,45 @@ https://github.com/joke2k/django-environ
 https://github.com/DanielJDufour/djenv | DanielJDufour/djenv: Load Django Settings from Environmental Variables with One Magical Line of Code
 -->
 
+## Flask
+
+<!--
+Flask
+https://github.com/pallets/flask/ | pallets/flask: The Python micro framework for building web applications.
+https://github.com/pytest-dev/pytest-flask | pytest-dev/pytest-flask: A set of pytest fixtures to test Flask applications
+
+
+https://flask.palletsprojects.com/en/2.0.x/views/ | Pluggable Views — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/2.0.x/api/ | API — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/2.0.x/tutorial/views/ | Blueprints and Views — Flask Documentation (2.0.x)
+https://flask.palletsprojects.com/en/1.1.x/quickstart/#sessions | Quickstart — Flask Documentation (1.1.x)
+https://github.com/pallets/flask/blob/master/src/flask/app.py | flask/app.py at master · pallets/flask
+https://github.com/pallets/flask/blob/master/src/flask/config.py | flask/config.py at master · pallets/flask
+
+https://flask.palletsprojects.com/en/2.0.x/async-await/ | Using async and await — Flask Documentation (2.0.x)
+
+https://github.com/realpython/flask-boilerplate
+https://github.com/realpython/cookiecutter-flask-skeleton | realpython/cookiecutter-flask-skeleton: Real Python Flask Starter Project
+https://github.com/mozilla/flask-elasticsearch-skeleton
+https://github.com/flask-admin/flask-admin | flask-admin/flask-admin: Simple and extensible administrative interface framework for Flask
+https://github.com/mjhea0/awesome-flask
+https://testdriven.io/blog/flask-htmx-tailwind/ | Rapid Prototyping with Flask, htmx, and Tailwind CSS | TestDriven.io
+
+https://apiflask.com/ | APIFlask
+
+https://github.com/dpgaspar/Flask-AppBuilder | dpgaspar/Flask-AppBuilder: Simple and rapid application development framework, built on top of Flask. includes detailed security, auto CRUD generation for your models, google charts and much more. Demo (login with guest/welcome) - http://flaskappbuilder.pythonanywhere.com/
+
+## Flask is Production Ready
+
+https://twitter.com/driscollis/status/1438622525471272961 | Mike Driscoll on Twitter: "This is correct. Flask is a successful production-ready #Python web framework" / Twitter
+https://twitter.com/svpino/status/1438427586925826053 | Santiago on Twitter: "I've heard a couple of times that you shouldn't use Flask in production systems. This is not correct. Flask comes with a built-in web server that's not suitable for production. The solution is not to throw Flask away but to pair it with a production-ready WSGI server." / Twitter
+
+## Flask Stack
+
+Interesting
+https://twitter.com/davidism/status/1276205301344026625 | David Lord on Twitter: "Have a client that keeps talking about the "MERN stack", but no one has blogged about huge success stories for the "PFRP" (PostgreSQL, Flask, React, Python) stack even though it's just as valid, it just doen't have the same marketing incentives." / Twitter
+-->
+
 ## Wagtail
 
 Wagtail
@@ -1699,6 +1695,12 @@ https://wagtail.io/packages/ | Packages | Wagtail CMS
 https://wagtail.io/blog/wagtail-packages/ | Wagtail Packages | Wagtail CMS
 https://github.com/vsalvino/wagtail-tutorial | vsalvino/wagtail-tutorial: Build your first simple wagtail website!
 https://github.com/coderedcorp/coderedcms | coderedcorp/coderedcms: A content management system for marketing websites based on Django and Wagtail.
+-->
+
+## Butter CMS
+
+<!--
+https://buttercms.com/
 -->
 
 ## Django Rest Framework
