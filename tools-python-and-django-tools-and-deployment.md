@@ -8,6 +8,11 @@ Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
 
 
+## Anthony/Sentry
+
+https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
+
+
 ## Choices
 
 Vinta Django Apps Checklist	
@@ -31,6 +36,76 @@ https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 
 https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
 
 https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
+## Django Surveys
+
+https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2022-sh?pcode=976163277515520354 | Developer Ecosystem Survey 2022
+
+https://lp.jetbrains.com/django-developer-survey-2021-486/ | Django Developers Survey 2021 Results
+
+## Django Releases
+
+Django Async
+https://twitter.com/djangonewsbot/status/1521670962755760128 | Django News on Twitter: "[News] Django 4.1 will have an asynchronous interface for QuerySets! Very exciting news that Django 4.1, expected in August 2022, will have an asynchronous interface for QuerySets! #djangonews https://t.co/W7dfsnZvLv" / Twitter
+
+## Python Releases
+
+Speed
+https://www.python.org/downloads/release/python-3110a6/ | Python Release Python 3.11.0a6 | Python.org
+https://twitter.com/methane/status/1501108529297432577 | Naoki 🇺🇦🇯🇵 on Twitter: "@anthonypjshaw FWIW, Python 3.11.0a6 is significantly faster than 3.10. https://t.co/3km14aauVU" / Twitter
+
+## PEPs
+
+Python Graph Gallery
+https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
+https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
+
+PEPs Graph
+https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
+
+## Tools Matrix
+  
+Tools Diagram
+https://twitter.com/nletcher/status/1487782511543746565 | Ned Letcher on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / Twitter
+https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
+
+## Tailwind
+
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/ | You can now use 'pip' to install Tailwind CSS. Node.js is no longer required! ⚡ | TimOnWeb
+
+## Httpx
+
+https://opensource.com/article/22/3/python-httpx | How to use httpx, a web client for Python | Opensource.com
+
+## PyScript
+
+https://pyscript.net/ | PyScript | Run Python in your HTML
+https://github.com/pyscript/pyscript | pyscript/pyscript
+https://twitter.com/pyscript_dev | pyscript_dev (@pyscript_dev) / Twitter
+https://www.anaconda.com/blog/pyscript-python-in-the-browser | Anaconda | New from Anaconda: Python in the Browser
+https://twitter.com/jezdez/status/1520459512804777984 | Jannis Leidel 💙💛🐍📦🚲 on Twitter: "Quite excited about what @pwang presented today at #PyCon2022 that a lot of people have worked on: PyScript enables "Programming for the 99%", using browsers as the platform and showcases what Python and the Web may do for data and coding literacy." / Twitter
+https://twitter.com/anthonypjshaw/status/1521303928083648513 | https://twitter.com/anthonypjshaw/status/1521303928083648513
+
+## Webassembly
+
+https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
+
+Python + Web Assembly
+https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
+https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
+https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
+
+WAS
+https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
+
+## DALLE
+
+https://twitter.com/icymihn/status/1520921032613371904 | ICYMI HN on Twitter: "Limitations of DALL-E https://t.co/oTPp54D3j1 comm: https://t.co/eD5htj3Y2k" / Twitter
+https://openai.com/dall-e-2/ | DALL·E 2
+https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
+https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (@dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
+
 
 
 
@@ -112,6 +187,7 @@ https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Bett
 https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
 
 
+## Miscellaneous
 
 Announcing the Consortium for Python Data API Standards
 https://data-apis.org/blog/announcing_the_consortium/
@@ -135,58 +211,6 @@ https://www.youtube.com/watch?v=ZsT7nSRQ8S4 | DjangoCon US 2018 - Code Review Sk
 Check if you need a Django app or a regular Python package: Django apps need to be added to INSTALLED_APPS . Regular Python packages do not. Examples of regular Python packages:
 
 
-Python Graph Gallery
-https://matplotlib.org/matplotblog/posts/python-graph-gallery.com/
-https://python-graph-gallery.com/ | The Python Graph Gallery – Visualizing data – with Python
-
-PEPs Graph
-https://github.com/vinayak-mehta/python-peps-graph | vinayak-mehta/python-peps-graph: Click on a PEP to see other PEPs it mentions.
-
-
-
-https://twitter.com/raymondh/status/1104802401326755840 | Raymond Hettinger on Twitter: "An emergent problem is that #Python was designed around being launched from a command-line by people who are experienced shell users. Ideally, we should be able to do everything important from the Python interactive prompt, including using pip and changing/setting virtual envs.… https://t.co/vO1frJcTzi"
-
-Python + Web Assembly
-https://twitter.com/sadhlife/status/1485336904342315009 | Tushar Sadhwani on Twitter: "🐍Python news: CPython's main branch now compiles to webassembly! Thanks to @ethanhs and @ChristianHeimes Meaning: You can natively download and run Python in the browser. It's about a 5MB package right now. There's plans to make it smaller. Try it here: https://t.co/cvC92sR7IQ" / Twitter
-https://twitter.com/treyhunner/status/1486506111758831620 | Trey Hunner (Python trainer) on Twitter: "I am really excited that a lot of Python code will be able to run in web browsers pretty soon. 🥳 That doesn't mean everything will work of course (many things won't). But it does mean library authors will be able to at least *test* their code against a Python build for wasm. 🌟" / Twitter
-https://twitter.com/treyhunner/status/1486509550513446912 | Trey Hunner (Python trainer) on Twitter: "Here's a thread on Python+WebAssembly, including a demo site and a lot of discussion about what this does and doesn't mean. You can try building Python to WebAssembly and running your own code against it here: https://t.co/5TATuGZncv https://t.co/xszdyemRki" / Twitter
-
-WAS
-https://twitter.com/ChristianHeimes/status/1463820413016944640 | Christian Heimes on Twitter: "very early work in progress: cpython/builddir/wasi$ ./configure -C --host=wasm32-wasi --build=x86_64-pc-linux-gnu" / Twitter
-
-
-
-https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
-
-
-
-Tailwind
-https://github.com/timonweb/pytailwindcss
-https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/ | You can now use 'pip' to install Tailwind CSS. Node.js is no longer required! ⚡ | TimOnWeb
-
-Httpx
-https://opensource.com/article/22/3/python-httpx | How to use httpx, a web client for Python | Opensource.com
-
-
-
-## Django Surveys
-
-https://surveys.jetbrains.com/s3/developer-ecosystem-survey-2022-sh?pcode=976163277515520354 | Developer Ecosystem Survey 2022
-
-https://lp.jetbrains.com/django-developer-survey-2021-486/ | Django Developers Survey 2021 Results
-
-
-## Django Releases
-
-Django Async
-https://twitter.com/djangonewsbot/status/1521670962755760128 | Django News on Twitter: "[News] Django 4.1 will have an asynchronous interface for QuerySets! Very exciting news that Django 4.1, expected in August 2022, will have an asynchronous interface for QuerySets! #djangonews https://t.co/W7dfsnZvLv" / Twitter
-
-## Python Releases
-
-Speed
-https://www.python.org/downloads/release/python-3110a6/ | Python Release Python 3.11.0a6 | Python.org
-https://twitter.com/methane/status/1501108529297432577 | Naoki 🇺🇦🇯🇵 on Twitter: "@anthonypjshaw FWIW, Python 3.11.0a6 is significantly faster than 3.10. https://t.co/3km14aauVU" / Twitter
-
 
 ## CPython
 
@@ -201,29 +225,6 @@ https://twitter.com/simonw/status/1472765515793788929 | https://twitter.com/simo
 Dave Beazley
 https://twitter.com/simonw/status/1472788683199631362 | Simon Willison on Twitter: "It took me quite a while to read through this and understand all of the tricks that it uses Here's my heavily annotated copy of @dabeaz's code that attempts to explain how it all works: https://t.co/A4hzo9Tay2" / Twitter
 
-
-## Tools Matrix
-  
-Tools Diagram
-https://twitter.com/nletcher/status/1487782511543746565 | Ned Letcher on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / Twitter
-https://twitter.com/hynek/status/1486938131374948354 | https://twitter.com/hynek/status/1486938131374948354
-
-
-## PyScript
-
-https://pyscript.net/ | PyScript | Run Python in your HTML
-https://github.com/pyscript/pyscript | pyscript/pyscript
-https://twitter.com/pyscript_dev | pyscript_dev (@pyscript_dev) / Twitter
-https://www.anaconda.com/blog/pyscript-python-in-the-browser | Anaconda | New from Anaconda: Python in the Browser
-https://twitter.com/jezdez/status/1520459512804777984 | Jannis Leidel 💙💛🐍📦🚲 on Twitter: "Quite excited about what @pwang presented today at #PyCon2022 that a lot of people have worked on: PyScript enables "Programming for the 99%", using browsers as the platform and showcases what Python and the Web may do for data and coding literacy." / Twitter
-https://twitter.com/anthonypjshaw/status/1521303928083648513 | https://twitter.com/anthonypjshaw/status/1521303928083648513
-
-## DALLE
-
-https://twitter.com/icymihn/status/1520921032613371904 | ICYMI HN on Twitter: "Limitations of DALL-E https://t.co/oTPp54D3j1 comm: https://t.co/eD5htj3Y2k" / Twitter
-https://openai.com/dall-e-2/ | DALL·E 2
-https://www.bramadams.dev/projects/dalle-tricks | A Few Things To Try With DALL·E
-https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Twitter: ""Minimum Viable Fidelity" (@dhof) + Midjourney or DALL-E = 🤯 Quick renders of my Loot bag: https://t.co/TWlFPF1USq" / Twitter
 
 ## Madelene Campos
 
