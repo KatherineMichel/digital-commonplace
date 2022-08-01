@@ -1,5 +1,10 @@
 # Conferences
 
+<!--
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl | PyCon US 2022 - YouTube
+https://www.youtube.com/c/PyCascades/playlists | PyCascades - YouTube
+-->
+
 ## DjangoCon US
 
 https://2022.djangocon.us/schedule/
