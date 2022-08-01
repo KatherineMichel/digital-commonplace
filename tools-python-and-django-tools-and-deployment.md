@@ -1,13 +1,6 @@
 # Python and Django Tools and Deployment
 
 <!--
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
 ## Anthony/Sentry
 
 https://github.com/getsentry/responses | getsentry/responses: A utility for mocking out the Python Requests library.
@@ -27,15 +20,6 @@ https://devchecklists.com
 https://devchecklists.com/django-production-launch/
 https://devchecklists.com/vintas-high-quality-standards/
 
-## JS Scene
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
 
 ## Django Surveys
 
@@ -108,7 +92,6 @@ https://twitter.com/fabianstelzer/status/1516398676792557569 | fabians.eth on Tw
 
 
 
-
 Python Security
 https://snyk.io/blog/python-security-best-practices-cheat-sheet/ | Python security best practices cheat sheet | Snyk
 https://github.com/guardrailsio/awesome-python-security | guardrailsio/awesome-python-security: Awesome Python Security resources 🕶🐍🔐
@@ -127,64 +110,6 @@ https://github.com/bloomberg/memray | bloomberg/memray: Memray is a memory profi
 
 https://github.com/tonybaloney/perflint | tonybaloney/perflint: pylint extension for performance anti patterns
 
-
-## Testing Opinion
-
-https://pythontesting.net/framework/pytest/pytest-introduction/
-
-https://pythontesting.net/agile/test-first-programming/
-http://www.extremeprogramming.org/rules/testfirst.html
-https://martinfowler.com/bliki/SelfTestingCode.html
-https://martinfowler.com/bliki/TestDrivenDevelopment.html
-https://learntdd.in/concepts.html
-
-https://en.wikipedia.org/wiki/Scenario_testing
-https://martinfowler.com/articles/mocksArentStubs.html
-https://thoughtbot.com/blog/i-mock-your-fixtures-too
-
-
-Important
-https://www.valentinog.com/blog/testing-django/ | Django Testing Cheat Sheet
-https://www.mattlayman.com/blog/2020/django-testing-toolbox/ | Django Testing Toolbox · Matt Layman
-
-Thea
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-https://twitter.com/webology/status/1372206722815774722 | Jeff Triplett 😷 on Twitter: "✨ Damn, this is good advice. Even better because it's written down and shared by @theavalkyrie h/t to @brianokken or I would have missed it." / Twitter
-
-Simon testing
-https://til.simonwillison.net/django/testing-django-admin-with-pytest | Writing tests for the Django admin with pytest-django | Simon Willison’s TILs
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
-
-https://hynek.me/articles/document-your-tests/
-https://hynek.me/articles/testing-packaging/ | Testing & Packaging
-
-https://www.mattcrampton.com/blog/a_list_of_all_python_assert_methods/
-
-Jacob
-https://jacobian.org/writing/getting-started-with-pytest
-
-Test Driven article?
-https://www.slideshare.net/JanGiacomelli/complete-python-toolbox-for-modern-developers | Complete python toolbox for modern developers
-
-https://lukeplant.me.uk/blog/posts/test-smarter-not-harder/ | Test smarter, not harder - lukeplant.me.uk
-
-https://www.b-list.org/weblog/2017/apr/03/testing-django-apps/ | Let's talk about testing Django apps
-https://lincolnloop.com/blog/using-setuppy-your-django-project/ | Using setup.py in Your (Django) Project | Lincoln Loop
-https://www.ericholscher.com/blog/2009/jun/29/enable-setuppy-test-your-django-apps/ | Enable setup.py test in your Django apps — Eric Holscher - Surfing in Kansas
-
-https://www.hillelwayne.com/talks/beyond-unit-tests/
-https://www.youtube.com/watch?v=MYucYon2-lk
-
-https://pyvideo.org/pyohio-2019/adopt-a-pytest.html
-
-DjangoCon Keynote by Ana
-http://linkis.com/ana-balica.github.io/x9FCx
-
-https://jeffknupp.com/blog/2013/12/09/improve-your-python-understanding-unit-testing/ | Improve Your Python: Understanding Unit Testing
-https://blog.ganssle.io/articles/2019/08/test-as-installed.html | Testing your python package as installed
-
-https://www.youtube.com/watch?v=z0XC0tGGFXI | Egad! How Do We Start Writing Better Tests? - YouTube
-https://www.youtube.com/watch?v=Z9ghRBEgnps&t=257s | Beyond Unit Tests: End to End Web UI Testing - YouTube
 
 
 ## Miscellaneous
