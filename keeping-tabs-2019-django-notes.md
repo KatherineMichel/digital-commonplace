@@ -1,6 +1,46 @@
 # Django Code Notes
 
 <!--
+https://docs.python.org/3/library/functions.html#vars
+
+
+## Request/Response Cycle
+
+https://rnevius.github.io/django_request_response_cycle.png
+http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
+
+## Classy
+
+https://ccbv.co.uk/
+https://cdf.9vo.lt/
+
+## Testing Tools
+
+https://pythontest.com/
+
+https://adamj.eu/tech/2020/06/03/introducing-time-machine/
+https://github.com/spulec/freezegun
+https://factoryboy.readthedocs.io/en/stable/
+https://docs.python.org/3/library/doctest.html
+
+https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
+
+https://selenium-python.readthedocs.io/page-objects.html
+https://django-selenium.readthedocs.io/en/latest/
+https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
+
+https://playwright.dev/
+
+## Security
+
+https://docs.djangoproject.com/en/dev/releases/security/
+https://owasp.org/?gclid=CjwKCAjwrZOXBhACEiwA0EoRD1nb56uFvL91qib7YY3GgTYUIVtv5ICz5luqFmxu-l_bBsLkjAChKRoCPVwQAvD_BwE
+-->
+
+
+<!--
 ## Django Database
 
 DB Relationships
@@ -134,6 +174,8 @@ obj.refresh_from_db()
 ```
 
 <!--
+del versus delete
+
 Testing gotcha
 https://docs.djangoproject.com/en/4.0/ref/models/instances/#refreshing-objects-from-database
 
