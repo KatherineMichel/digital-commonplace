@@ -1,10 +1,16 @@
 # Keeping Tabs
 
 <!--
-https://docs.python.org/3/library/functions.html#vars
+## JS Scene
 
-https://rnevius.github.io/django_request_response_cycle.png
-http://www.discoversdk.com/blog/understanding-the-request-response-lifecycle-of-a-django-web-application
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
 
 ## PyScript
 
@@ -12,17 +18,40 @@ https://pyscript.net/
 
 ## Single File
 
-https://github.com/wsvincent/django-microframework
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
 
-## Anthony
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+
+## Release Manager/Maintainer
 
 https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
 https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
+## Tools Matrix
+
+https://twitter.com/nletcher/status/1487782511543746565
+
+## PEPs
+
+https://github.com/vinayak-mehta/python-peps-graph
+
 
 ## Nina
 
 https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4
+
 
 ## Mozilla
 
@@ -43,10 +72,6 @@ https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
 http://coodict.github.io/python3-in-one-pic/
 https://github.com/coodict/javascript-in-one-pic
 
-## Tools Matrix
-
-https://twitter.com/nletcher/status/1487782511543746565
-
 ## Tools
 
 https://blog.acolyer.org/2020/09/21/watchman/
@@ -54,39 +79,6 @@ https://blog.acolyer.org/2020/09/21/watchman/
 https://prometheus.io/
 
 https://github.com/FlipperPA/django-s3-sqlite
-
-## Classy
-
-https://ccbv.co.uk/
-https://cdf.9vo.lt/
-
-## PEPs
-
-https://github.com/vinayak-mehta/python-peps-graph
-
-## Testing Tools
-
-https://pythontest.com/
-
-https://adamj.eu/tech/2020/06/03/introducing-time-machine/
-https://github.com/spulec/freezegun
-https://factoryboy.readthedocs.io/en/stable/
-https://docs.python.org/3/library/doctest.html
-
-https://docs.djangoproject.com/en/dev/internals/contributing/writing-code/javascript/#javascript-tests
-
-https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Cross_browser_testing
-
-https://selenium-python.readthedocs.io/page-objects.html
-https://django-selenium.readthedocs.io/en/latest/
-https://pytest-selenium.readthedocs.io/en/latest/user_guide.html
-
-https://playwright.dev/
-
-## Security
-
-https://docs.djangoproject.com/en/dev/releases/security/
-https://owasp.org/?gclid=CjwKCAjwrZOXBhACEiwA0EoRD1nb56uFvL91qib7YY3GgTYUIVtv5ICz5luqFmxu-l_bBsLkjAChKRoCPVwQAvD_BwE
 
 ## Deployment
 
@@ -115,6 +107,7 @@ https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQY
 Shipping Fridays
 https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 
+
 ## Projects and Code
 
 Projects
@@ -127,6 +120,8 @@ https://www.djangosites.org/with-source/
 https://djangopackages.org/
 
 ## News
+
+Python news
 
 https://django-news.com/
 
@@ -151,6 +146,7 @@ Learning
 https://egghead.io/ | Build the portfolio you need to be a badass web developer. | egghead.io
 https://www.oreilly.com/online-learning/?utm_medium=search&utm_source=google.com&utm_campaign=B2B+Search&utm_content=live+demo&gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDIJjolrKkCCP0tfciOQrKR5kgtWme9LLw3lWjDc5FMnD8a54msKdj0aAiLdEALw_wcB | Online Learning and Training - O'Reilly Media
 
+
 Learning resources
 https://realpython.com/ | Python Tutorials – Real Python
 https://towardsdatascience.com/ | Towards Data Science
@@ -161,11 +157,16 @@ https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
 https://treyhunner.com/ | Trey Hunner
 https://mherman.org/talks | Talks and Trainings
 
+
 http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
 https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+
+Projects
 https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
 https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
+
+https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
+
 
 Trending
 https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
@@ -235,14 +236,11 @@ https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms i
 
 ## Events
 
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
 Talks
 https://pyvideo.org/ | PyVideo.org
 
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl | PyCon US 2022 - YouTube
-https://www.youtube.com/c/PyCascades/playlists | PyCascades - YouTube
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 
 
@@ -341,6 +339,15 @@ Settings
 Headers
 
 
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+
+https://sentry.io/welcome/ | Application Monitoring and Error Tracking Software | Sentry
+https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
+https://www.datadoghq.com/ | Cloud Monitoring as a Service | Datadog
+https://www.loggly.com/ | Log Analysis | Log Management by Loggly
+
+
 https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.2.0 documentation
 
 
@@ -354,15 +361,6 @@ Tests
 https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-
-https://sentry.io/welcome/ | Application Monitoring and Error Tracking Software | Sentry
-https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
-https://www.datadoghq.com/ | Cloud Monitoring as a Service | Datadog
-https://www.loggly.com/ | Log Analysis | Log Management by Loggly
 
 
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
@@ -1469,7 +1467,7 @@ Top Links of All Times
 * [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
-## Lawrence
+### Lawrence
 
 ### Networking and Events
 
