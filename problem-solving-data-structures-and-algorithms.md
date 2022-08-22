@@ -299,6 +299,28 @@ https://en.wikipedia.org/wiki/Category:Search_algorithms
 https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
 -->
 
+<!--
+https://www.geeksforgeeks.org/binary-representations-in-digital-logic/
+
+https://www.cdn.geeksforgeeks.org/data-structures/#Misc
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/matrix/
+-->
+
+<!--
+## Sequence
+
+Also, examples of sequences
+https://en.wikipedia.org/wiki/Sequence#Analysis
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
+
+https://en.wikipedia.org/wiki/N-gram
+-->
+
+
 
 ## Data
 
@@ -319,11 +341,13 @@ Data Structure
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [Data Structures Wikipedia](https://en.wikibooks.org/wiki/Data_Structures)
 
-
+### Data Structures- Lists and Comparisons
 
 List of Data Structures and Comparison of Data Structures
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 * [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
+
+
 
 <!--
 https://www.geeksforgeeks.org/abstract-data-types/
@@ -372,6 +396,7 @@ Data Structures- Linear
 * [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
 * Vectors/Arraylists 
 
+Heap or Unordered Array
 * [Priority Queue Wikipedia (similar to a queue or stack- implemented with heap or unordered array)](https://en.wikipedia.org/wiki/Priority_queue)
 
 Singly-Linked, Doubly-Linked Lists, and Circular Linked List
@@ -442,20 +467,9 @@ Binary Heap (Binary Tree)
 
 ## Bit and Binary
 
-<!--
-Bit and Binary
-https://en.wikipedia.org/wiki/Binary_number
-https://www.geeksforgeeks.org/binary-representations-in-digital-logic/
-https://en.wikipedia.org/wiki/Bit_array
--->
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Bit Array Wikipedia](https://en.wikipedia.org/wiki/Bit_array)
 
-<!--
-https://www.cdn.geeksforgeeks.org/data-structures/#Misc
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-3-graph-trie-segment-tree-and-suffix-tree/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/matrix/
--->
 
 
 <!--
@@ -512,21 +526,6 @@ Subsequence and substring
 * [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
 * [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
 * [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
-
-
-
-### Sequences
-
-<!--
-## Sequence
-
-Also, examples of sequences
-https://en.wikipedia.org/wiki/Sequence#Analysis
-
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
-
-https://en.wikipedia.org/wiki/N-gram
--->
 
 
 
@@ -625,21 +624,14 @@ https://ide.geeksforgeeks.org/12C5bP
 https://xlinux.nist.gov/dads/HTML/optimization.html
 https://xlinux.nist.gov/dads/HTML/optimalsoltn.html
 
-
-https://en.wikipedia.org/wiki/Order_statistic
-https://en.wikipedia.org/wiki/Merge_algorithm
-https://en.wikipedia.org/wiki/Merge_algorithm#Python
--->
-
-## Types of Algorithms
-
-<!--
 Types of Optimization
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Combinatorial_optimization
 
 
-https://en.wikipedia.org/wiki/Iterative_method
+https://en.wikipedia.org/wiki/Order_statistic
+https://en.wikipedia.org/wiki/Merge_algorithm
+https://en.wikipedia.org/wiki/Merge_algorithm#Python
 
 https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues
 
@@ -650,6 +642,14 @@ https://en.wikipedia.org/wiki/Greedy_algorithm#Examples
 
 https://en.wikipedia.org/wiki/Dynamic_programming#Examples:_Computer_algorithms
 https://en.wikipedia.org/wiki/Dynamic_programming#Algorithms_that_use_dynamic_programming
+-->
+
+## Types of Algorithms
+
+<!--
+
+
+https://en.wikipedia.org/wiki/Iterative_method
 
 
 ## Sorting
@@ -949,6 +949,7 @@ F*: Special algorithm to merge the two arrays
 https://en.wikipedia.org/wiki/F*_Merge_Algorithm
 
 https://en.wikipedia.org/wiki/Backtracking
+
 https://en.wikipedia.org/wiki/Eight_queens_puzzle
 https://en.wikipedia.org/wiki/Constraint_satisfaction_problem
 https://en.wikipedia.org/wiki/Sudoku_solving_algorithms
