@@ -303,8 +303,19 @@ https://www.geeksforgeeks.org/abstract-data-types/
 * [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
 -->
 
+### Data Structure Concepts
 
 ### Common Data Structures and Algorithms
+
+String
+* [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
+
+Contiguous versus Linked Data Structures
+* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
+* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
+* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
 
 Data Structures- Linear
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
@@ -313,12 +324,17 @@ Data Structures- Linear
 * [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
 * Vectors/Arraylists 
 
-* Trees, Tries, & Graphs
-* [Heap (tree) Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-* [Trie Wikipedia](https://en.wikipedia.org/wiki/Trie)
+* [Priority Queue Wikipedia (similar to a queue or stack- implemented with heap or unordered array)](https://en.wikipedia.org/wiki/Priority_queue)
 
-Data Structures- Hash
+Singly-Linked, Doubly-Linked Lists, and Circular Linked List
+* [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+* [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+* Circular Linked List
+
+Data Structures- Hash/Hash Table (Python Dictionary, "implements an associative array abstract data type")
 * [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+* [Associative Array Wikipedia](https://en.wikipedia.org/wiki/Associative_array)
 
 Algorithms- Search
 * [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
@@ -329,34 +345,13 @@ Algorithms- Sort
 * [Merge Sort Wikipedia](https://en.wikipedia.org/wiki/Merge_sort)
 * [Quicksort Wikipedia](https://en.wikipedia.org/wiki/Quicksort)
 
+Trees, Tries, & Graphs
+* [Heap (tree) Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Trie Wikipedia](https://en.wikipedia.org/wiki/Trie)
+
 Concepts- Memory (Stack vs. Heap)
 * [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
-* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
-
-
-### Strings, Arrays, and Lists
-
-String
-* [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
-
-Contiguous versus Linked Data Structures
-* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
-* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
-* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
-
-Linked
-* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
-* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
-
-Singly-Linked, Doubly-Linked Lists, and Circular Linked List
-* [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
-* [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
-* Circular Linked List
-
-Hash Table (Python Dictionary, "implements an associative array abstract data type")
-* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
-* [Associative Array Wikipedia](https://en.wikipedia.org/wiki/Associative_array)
+* [Heap Wikipedia (Specialized tree data structure)](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
 <!--
 https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
@@ -382,19 +377,23 @@ https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
 Heaps (Specialized tree data structure)
 * [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
 
-<!--
-https://en.wikipedia.org/wiki/Priority_queue
+Graph and Tree Traversal
+* [Graph Traversal Wikipedia](https://en.wikipedia.org/wiki/Graph_traversal)
+* [Tree Traversal Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal)
+* [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
 
-https://en.wikipedia.org/wiki/Tree_(graph_theory)
-https://en.wikipedia.org/wiki/Tree_(data_structure)
+Tree
+* [Tree- Data Structure Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
+* [Tree- Graph Theory Wikipedia](https://en.wikipedia.org/wiki/Tree_(graph_theory))
 
 Binary Heap (Binary Tree)
-https://en.wikipedia.org/wiki/Binary_heap
-https://en.wikipedia.org/wiki/Binary_tree
+* [Binary Heap Wikipedia](https://en.wikipedia.org/wiki/Binary_heap)
+* [Binary Tree Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
+* [Binary Search Tree Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree)
 
-https://en.wikipedia.org/wiki/Binary_search_tree
 
 
+<!--
 Advanced Data Structures
 https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
 
@@ -431,13 +430,52 @@ https://www.geeksforgeeks.org/matrix/
 
 
 <!--
-Common problems
+Memory
+* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
 
-https://en.wikipedia.org/wiki/Fibonacci_number
+Stack
+* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
+* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
+* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
 
-https://en.wikipedia.org/wiki/Permutation
-https://en.wikipedia.org/wiki/Combination
+Pointer/node
+
+* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
+* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
+
+* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
+
+* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
+* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
+
+Dynamic Data Structures
+https://en.wikipedia.org/wiki/Dynamization
+
+Sequential Versus Random (Direct) Access
+* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
+* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
+* Sequential Access List
+* Random (Direct) Access List
 -->
+
+
+
+### Common Interview Questions
+
+* [Fibonacci Sequence Wikipedia](https://en.wikipedia.org/wiki/Fibonacci_number)
+* Fizzbuzz
+
+### Types of Interview Techniques
+
+* [Permutation Wikipedia](https://en.wikipedia.org/wiki/Permutation)
+* [Combination Wikipedia](https://en.wikipedia.org/wiki/Combination)
+
+Sequences
+* [Palindrome Wikipedia (word/phrase/number reads the same forward or backwards)](https://en.wikipedia.org/wiki/Palindrome)
+* [Anagram Wikipedia (word/phrase formed by rearranging letters of different word/phrase, often used exactly once)](https://en.wikipedia.org/wiki/Anagram)
+* [Pangram Wikipedia (use every letter of the alphabet once)](https://en.wikipedia.org/wiki/Pangram)
+
+
 
 ### Sequences
 
@@ -457,44 +495,10 @@ Subsequence and substring
 * [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
 * [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
 https://en.wikipedia.org/wiki/N-gram
-
-A word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar
-https://en.wikipedia.org/wiki/Palindrome
-
-A word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once
-https://en.wikipedia.org/wiki/Anagram
-
-Uses every letter of the alphabet once
-https://en.wikipedia.org/wiki/Pangram
 -->
 
 
-<!--
-Memory
-* [Random Access Memory Wikipedia](https://en.wikipedia.org/wiki/Random-access_memory)
 
-Stack
-* [Call Stack Wikipedia](https://en.wikipedia.org/wiki/Call_stack)
-* [Call Stack Stack and Frame Pointers Wikipedia](https://en.wikipedia.org/wiki/Call_stack#Stack_and_frame_pointers)
-* [Stack-Based Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Stack-based_memory_allocation)
-
-* [Pointer Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming))
-* [Pointer Dynamic Memory Allocation Wikipedia](https://en.wikipedia.org/wiki/Pointer_(computer_programming)#Dynamic_memory_allocation)
-
-* [Subroutine Wikipedia](https://en.wikipedia.org/wiki/Subroutine)
-
-* [Address Space Wikipedia](https://en.wikipedia.org/wiki/Address_space)
-* [Memory Address Wikipedia](https://en.wikipedia.org/wiki/Memory_address)
-
-Dynamic Data Structures
-https://en.wikipedia.org/wiki/Dynamization
-
-Sequential Versus Random (Direct) Access
-* [Sequential Access Wikipedia](https://en.wikipedia.org/wiki/Sequential_access)
-* [Random (Direct) Access Wikipedia](https://en.wikipedia.org/wiki/Random_access)
-* Sequential Access List
-* Random (Direct) Access List
--->
 
 
 ## Algorithmic Paradigms
@@ -672,11 +676,8 @@ https://en.wikipedia.org/wiki/List_of_algorithms#Graph_algorithms
 Graph and tree search algorithms
 https://en.wikipedia.org/wiki/Category:Graph_algorithms
 https://en.wikipedia.org/wiki/Category:Search_algorithms
-https://en.wikipedia.org/wiki/Graph_traversal
 https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
-https://en.wikipedia.org/wiki/Tree_traversal
 
-* [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
 -->
 
 
