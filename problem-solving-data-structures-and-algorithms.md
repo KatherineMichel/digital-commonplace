@@ -9,13 +9,8 @@ https://docs.python.org/3/library/stdtypes.html?highlight=range#ranges
 
 https://en.wikipedia.org/wiki/Algorithm#Expressing_algorithms
 
-http://oeis.org/wiki/Welcome#Some_Famous_Sequences | Welcome - OeisWiki
-https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html | Mathematical symbols list (+,-,x,/,=,<,>,...)
-
 https://en.wikipedia.org/wiki/Probabilistic_logic | Probabilistic logic - Wikipedia
 https://en.wikipedia.org/wiki/Lambda_calculus | Lambda calculus - Wikipedia
-
-https://en.wikipedia.org/wiki/Priority_queue | Priority queue - Wikipedia
 
 https://en.wikipedia.org/wiki/Archimedes | Archimedes - Wikipedia, the free encyclopedia
 https://www.wikiwand.com/en/Sieve_of_Eratosthenes | Sieve of Eratosthenes - Wikiwand
@@ -200,6 +195,9 @@ https://github.com/jiayihu/pretty-algorithms | jiayihu/pretty-algorithms: 🌊 P
 
 https://www.youtube.com/user/AlgoRythmics/videos | AlgoRythmics - YouTube - YouTube
 https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An open source book that describes a large number of algorithmic techniques from the the fields of Biologically Inspired Computation, Computational Intelligence and Metaheuristics in a complete, consistent, and centralized manner such that they are accessible, usable, and understandable.
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
 -->
 
 
@@ -207,9 +205,6 @@ https://github.com/jbrownlee/CleverAlgorithms | jbrownlee/CleverAlgorithms: An o
 https://github.com/afatcoder/LeetcodeTop | afatcoder/LeetcodeTop: Summarize high-frequency leetcode questions that are easy to investigate by major Internet companies🔥
 https://github.com/MysteryVaibhav/leetcode_company_wise_questions | MysteryVaibhav/leetcode_company_wise_questions: This is a repository containing the list of company wise questions available on leetcode premium
 https://github.com/labuladong/fucking-algorithm | labuladong/fucking-algorithm: 手把手撕LeetCode题目，扒各种算法套路的裤子。English version supported! Crack LeetCode, not only how, but also why.
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://github.com/TheAlgorithms/Javascript | TheAlgorithms/Javascript: A repository for All algorithms implemented in Javascript (for educational purposes only)
 
 Code challenges
 https://github.com/donnemartin/interactive-coding-challenges | donnemartin/interactive-coding-challenges: 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards.
@@ -220,6 +215,10 @@ https://github.com/kdn251/interviews | kdn251/interviews: Everything you need to
 
 <!--
 ## Famous
+
+
+http://oeis.org/wiki/Welcome#Some_Famous_Sequences | Welcome - OeisWiki
+https://www.rapidtables.com/math/symbols/Basic_Math_Symbols.html | Mathematical symbols list (+,-,x,/,=,<,>,...)
 
 
 https://en.wikipedia.org/wiki/Raymond_Smullyan#Logic_problems | Raymond Smullyan - Wikipedia
@@ -249,9 +248,6 @@ https://en.wikipedia.org/wiki/Abramowitz_and_Stegun | Abramowitz and Stegun - Wi
 Algorithms
 * [Algorithm Wikipedia](https://en.wikipedia.org/wiki/Algorithm)
 
-Lists of Algorithms
-* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
-
 <!--
 https://en.wikibooks.org/wiki/Algorithms | Algorithms - Wikibooks, open books for an open world
 
@@ -271,7 +267,37 @@ https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 https://en.wikipedia.org/wiki/Category:Algorithms_and_data_structures
 -->
 
+<!--
+Lists of Algorithms
+* [List of Algorithms Wikipedia](https://en.wikipedia.org/wiki/List_of_algorithms)
 
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
+https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
+https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
+https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
+
+Types of Algorithms
+https://www.geeksforgeeks.org/searching-algorithms/
+https://www.geeksforgeeks.org/sorting-algorithms/
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
+https://www.geeksforgeeks.org/bitwise-algorithms/
+https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
+https://www.geeksforgeeks.org/geometric-algorithms/
+https://www.geeksforgeeks.org/mathematical-algorithms/
+https://www.geeksforgeeks.org/randomized-algorithms/
+https://www.geeksforgeeks.org/game-theory/
+
+## Graph and Traversal
+
+https://en.wikipedia.org/wiki/List_of_algorithms#Graph_algorithms
+
+Graph and tree search algorithms
+https://en.wikipedia.org/wiki/Category:Graph_algorithms
+https://en.wikipedia.org/wiki/Category:Search_algorithms
+https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
+-->
 
 
 ## Data
@@ -293,6 +319,8 @@ Data Structure
 * [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
 * [Data Structures Wikipedia](https://en.wikibooks.org/wiki/Data_Structures)
 
+
+
 List of Data Structures and Comparison of Data Structures
 * [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
 * [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
@@ -301,21 +329,41 @@ List of Data Structures and Comparison of Data Structures
 https://www.geeksforgeeks.org/abstract-data-types/
 
 * [Geeks for Geeks Data Structures](https://www.geeksforgeeks.org/data-structures)
+
+Advanced Data Structures
+https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
+
+Data Structures
+https://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/
+https://www.geeksforgeeks.org/array-data-structure/
+https://www.geeksforgeeks.org/data-structures/linked-list/
+https://www.geeksforgeeks.org/stack-data-structure/
+https://www.geeksforgeeks.org/queue-data-structure/
+
+https://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/
+https://www.geeksforgeeks.org/binary-tree-data-structure/
+https://www.geeksforgeeks.org/binary-search-tree-data-structure/
+https://www.geeksforgeeks.org/heap-data-structure/
+https://www.geeksforgeeks.org/hashing-data-structure/
 -->
 
+
 ### Data Structure Concepts
+
+Contiguous versus Linked Data Structures
+* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
+* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
+* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 
 ### Common Data Structures and Algorithms
 
 String
 * [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
 
-Contiguous versus Linked Data Structures
-* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
-* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+List
 * [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
-* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
-* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
 
 Data Structures- Linear
 * [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
@@ -328,7 +376,6 @@ Data Structures- Linear
 
 Singly-Linked, Doubly-Linked Lists, and Circular Linked List
 * [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
-* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
 * [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
 * Circular Linked List
 
@@ -383,33 +430,15 @@ Graph and Tree Traversal
 * [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
 
 Tree
-* [Tree- Data Structure Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
-* [Tree- Graph Theory Wikipedia](https://en.wikipedia.org/wiki/Tree_(graph_theory))
+* [Tree (Data Structure) Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
+* [Tree (Graph Theory) Wikipedia](https://en.wikipedia.org/wiki/Tree_(graph_theory))
+* [Graph Theory Wikipedia]([https://en.wikipedia.org/wiki/Graph_theory)
 
 Binary Heap (Binary Tree)
 * [Binary Heap Wikipedia](https://en.wikipedia.org/wiki/Binary_heap)
 * [Binary Tree Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
 * [Binary Search Tree Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree)
 
-
-
-<!--
-Advanced Data Structures
-https://www.cdn.geeksforgeeks.org/data-structures/#AdvancedDataStructure
-
-Data Structures
-https://www.geeksforgeeks.org/overview-of-data-structures-set-1-linear-data-structures/
-https://www.geeksforgeeks.org/array-data-structure/
-https://www.geeksforgeeks.org/data-structures/linked-list/
-https://www.geeksforgeeks.org/stack-data-structure/
-https://www.geeksforgeeks.org/queue-data-structure/
-
-https://www.geeksforgeeks.org/overview-of-data-structures-set-2-binary-tree-bst-heap-and-hash/
-https://www.geeksforgeeks.org/binary-tree-data-structure/
-https://www.geeksforgeeks.org/binary-search-tree-data-structure/
-https://www.geeksforgeeks.org/heap-data-structure/
-https://www.geeksforgeeks.org/hashing-data-structure/
--->
 
 ## Bit and Binary
 
@@ -470,10 +499,19 @@ Sequential Versus Random (Direct) Access
 * [Permutation Wikipedia](https://en.wikipedia.org/wiki/Permutation)
 * [Combination Wikipedia](https://en.wikipedia.org/wiki/Combination)
 
-Sequences
+Sub
+* [Subsequence Wikipedia](https://en.wikipedia.org/wiki/Subsequence)
+* [Substring Wikipedia](https://en.wikipedia.org/wiki/Substring)
+
+Wordplay sequences
 * [Palindrome Wikipedia (word/phrase/number reads the same forward or backwards)](https://en.wikipedia.org/wiki/Palindrome)
 * [Anagram Wikipedia (word/phrase formed by rearranging letters of different word/phrase, often used exactly once)](https://en.wikipedia.org/wiki/Anagram)
 * [Pangram Wikipedia (use every letter of the alphabet once)](https://en.wikipedia.org/wiki/Pangram)
+
+Subsequence and substring
+* [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
+* [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
+* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
 
 
 
@@ -485,15 +523,8 @@ Sequences
 Also, examples of sequences
 https://en.wikipedia.org/wiki/Sequence#Analysis
 
-https://en.wikipedia.org/wiki/Subsequence | Subsequence - Wikipedia
-https://en.wikipedia.org/wiki/Substring
-
 https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_algorithms | List of algorithms - Wikipedia
 
-Subsequence and substring
-* [Longest Common Subsequence Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_subsequence_problem)
-* [Longest Increasing Subsequence Wikipedia](https://en.wikipedia.org/wiki/Longest_increasing_subsequence)
-* [Longest Common Substring Problem Wikipedia](https://en.wikipedia.org/wiki/Longest_common_substring_problem)
 https://en.wikipedia.org/wiki/N-gram
 -->
 
@@ -603,24 +634,6 @@ https://en.wikipedia.org/wiki/Merge_algorithm#Python
 ## Types of Algorithms
 
 <!--
-https://en.wikipedia.org/wiki/List_of_algorithms#Computer_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Computational_science
-https://en.wikipedia.org/wiki/List_of_algorithms#Sequence_alignment
-https://en.wikipedia.org/wiki/List_of_algorithms#Combinatorial_algorithms
-https://en.wikipedia.org/wiki/List_of_algorithms#Software_engineering
-
-Types of Algorithms
-https://www.geeksforgeeks.org/searching-algorithms/
-https://www.geeksforgeeks.org/sorting-algorithms/
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
-https://www.geeksforgeeks.org/bitwise-algorithms/
-https://www.geeksforgeeks.org/algorithms-gq/pattern-searching/
-https://www.geeksforgeeks.org/geometric-algorithms/
-https://www.geeksforgeeks.org/mathematical-algorithms/
-https://www.geeksforgeeks.org/randomized-algorithms/
-https://www.geeksforgeeks.org/game-theory/
-
-<!--
 Types of Optimization
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Combinatorial_optimization
@@ -665,18 +678,6 @@ Sequence Search
 * [Linear Search Wikipedia](https://en.wikipedia.org/wiki/Linear_search)
 * [Selection Algorithm Wikipedia](https://en.wikipedia.org/wiki/Selection_algorithm)
 * [Ternary Search Wikipedia](https://en.wikipedia.org/wiki/Ternary_search)
-
-
-## Graph and Traversal
-
-https://en.wikipedia.org/wiki/Graph_theory
-
-https://en.wikipedia.org/wiki/List_of_algorithms#Graph_algorithms
-
-Graph and tree search algorithms
-https://en.wikipedia.org/wiki/Category:Graph_algorithms
-https://en.wikipedia.org/wiki/Category:Search_algorithms
-https://en.wikipedia.org/wiki/Graph_traversal#Graph_traversal_algorithms
 
 -->
 
