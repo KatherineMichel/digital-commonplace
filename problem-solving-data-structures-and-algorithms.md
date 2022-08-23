@@ -13,7 +13,6 @@ https://en.wikipedia.org/wiki/Probabilistic_logic | Probabilistic logic - Wikipe
 https://en.wikipedia.org/wiki/Lambda_calculus | Lambda calculus - Wikipedia
 
 https://en.wikipedia.org/wiki/Archimedes | Archimedes - Wikipedia, the free encyclopedia
-https://www.wikiwand.com/en/Sieve_of_Eratosthenes | Sieve of Eratosthenes - Wikiwand
 -->
 
 
