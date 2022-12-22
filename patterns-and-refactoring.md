@@ -51,7 +51,6 @@ https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-
   * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
   * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
   
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
 -->
 
@@ -95,10 +94,19 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval
 
 ## Software Design Patterns
 
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
 Design Patterns- General
 * [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 * [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+
+Design Patterns for Humans
 * [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+<!--
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+-->
 
 Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
@@ -114,9 +122,6 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 
 https://github.com/charlax/antipatterns | charlax/antipatterns: A list of random antipatterns
 -->
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
 Design Patterns- General
 * [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
@@ -220,7 +225,7 @@ https://martinfowler.com/articles/collection-pipeline/
 -->
 
 
-## Python Patterns
+## Python Design Patterns
 
 Python Design Patterns and Algorithms
 * [Python Design Patterns GitHub](https://github.com/faif/python-patterns)
@@ -265,6 +270,113 @@ https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Desi
 -->
 
 
+
+
+## Programming Languages
+
+Programming Languages
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+
+## Programming Paradigms
+
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+Software Paradigm Types
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+
+React?
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+
+MVCs
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+<!--
+https://famicol.in/language_checklist.html | Programming Language Checklist
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+-->
+
+## Useful Terminology
+
+Object
+* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
+
+Python
+* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
+
+Composition
+* [Functional Composition Wikipedia](https://en.wikipedia.org/wiki/Function_composition_(computer_science))
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+State
+* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
+* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
+
+## Functional Programming
+
+* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
+<!--
+Functional programming
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+## Programming Concepts and Tools
+
+Concepts
+* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
+* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
+* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
+* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
+
+<!--
+https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
+
+http://users.ece.utexas.edu/~adnan/pike.html
+-->
 
 
 ## General Software Design Patterns
@@ -508,110 +620,4 @@ Offline Concurrency Patterns: Optimistic Offline Lock (416), Pessimistic Offline
 Session State Patterns: Client Session State (456), Server Session State (458), Database Session State (462).
 
 Base Patterns: Gateway (466), Mapper (473), Layer Supertype (475), Separated Interface (476), Registry (480), Value Object (486), Money (488), Special Case (496), Plugin (499), Service Stub (504), Record Set (508)
--->
-
-## Programming Languages
-
-Programming Languages
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
-
-## Programming Paradigms
-
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-Software Paradigm Types
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-
-React?
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
-
-MVCs
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-<!--
-https://famicol.in/language_checklist.html | Programming Language Checklist
-https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
-
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
-Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
-state.
-Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
-data types are the two most popular, but there exist two others, declarative objects and
-stateful abstract data types.
--->
-
-## Useful Terminology
-
-Object
-* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
-
-Python
-* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
-
-Composition
-* [Functional Composition Wikipedia](https://en.wikipedia.org/wiki/Function_composition_(computer_science))
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-State
-* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
-* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
-* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
-* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
-
-## Functional Programming
-
-* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
-
-<!--
-Functional programming
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
--->
-
-## Programming Concepts and Tools
-
-Concepts
-* [Anti-Pattern Wikipedia](https://en.wikipedia.org/wiki/Anti-pattern)
-* [Don't Repeat Yourself Wikipedia](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-* [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
-* [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
-* [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
-* [KISS Principle Wikipedia](https://en.wikipedia.org/wiki/KISS_principle)
-
-<!--
-https://en.wikipedia.org/wiki/Lehman%27s_laws_of_software_evolution
-
-http://users.ece.utexas.edu/~adnan/pike.html
 -->
