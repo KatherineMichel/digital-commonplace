@@ -1,15 +1,40 @@
 # Keeping Tabs
 
 <!--
-Octopus
-Lint All the Things
-https://ep2022.europython.eu/session/lint-all-the-things
-EuroPython
-https://www.youtube.com/c/EuroPythonConference/videos
-Frederike Jaeger
-https://pyvideo.org/speaker/frederike-jaeger.html
-Spreading Our Tentacles, Taking a Django App Global
-https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
+https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/
+https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+
+https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
+
+https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
+
+https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
+
+## SICP
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs#:~:text=Structure%20and%20Interpretation%20of%20Computer%20Programs%20(SICP)%20is%20a%20computer,Wizard%20Book%22%20in%20hacker%20culture. | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+
+## CS Books
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
 -->
 
 <!--
@@ -305,11 +330,24 @@ https://discord.com/channels/767860528562307082/797226343938392065 | shipping-fr
 <!--
 ## Algorithm
 
-Leetcode
-https://leetcode.com/
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
+https://theprimeagen.github.io/fem-algos/ | The Last Algorithms Course You'll Need
+https://github.com/ThePrimeagen/kata-machine | ThePrimeagen/kata-machine
 
-https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition
-https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
+https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-1&linkCode=sl1&tag=theprimeagen-20&linkId=83c55b2c018fbe94a1de79ebd447b66a&language=en_US&ref_=as_li_ss_tl | Introduction to Algorithms, fourth edition: 9780262046305: Computer Science Books @ Amazon.com
+
+https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-16&linkCode=sl1&tag=theprimeagen-20&linkId=2000de29907b98b5ac7a98aa6b52c1d9&language=en_US&ref_=as_li_ss_tl | A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills: Wengrow, Jay: 9781680507225: Amazon.com: Books
+
+
+Sites
+https://leetcode.com/
+https://www.hackerrank.com/ | HackerRank
+https://adventofcode.com/ | Advent of Code 2022
+
+https://neetcode.io/ | NeetCode.io
+https://neetcode.io/practice | Practice
+https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
+https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
 
 https://www.algorist.com/ | The Algorithm Design Manual
 
@@ -319,6 +357,33 @@ https://github.com/faif/python-patterns | faif/python-patterns: A collection of 
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 -->
+
+## Python and Django Official
+
+Python
+* [What's New](https://docs.python.org/dev/whatsnew/)
+* [Python Insider](https://pythoninsider.blogspot.com/)
+* [Python Discuss](https://discuss.python.org)
+
+PEPs
+* [PEP Index](https://www.python.org/dev/peps)
+
+Django Blog and Announcements
+* [Django Blog](https://www.djangoproject.com/weblog/)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+
+<!--
+* [Pythonic News](https://news.python.sc/)
+
+https://twitter.com/djangoproject/
+
+https://github.com/python/cpython
+https://github.com/django/django
+
+https://speed.python.org/ | Python Speed Center
+-->
+
 
 ## Release
 
@@ -350,11 +415,9 @@ https://www.djangoproject.com/community/ | Django Community | Django
 
 ## Python Official
 
+<!--
 * [What's New Python 3](https://docs.python.org/3/whatsnew/)
 
-* [Python Discuss](https://discuss.python.org)
-
-<!--
 PSF Minutes
 https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
 
@@ -403,92 +466,7 @@ https://twitter.com/webology/status/1235628234148110336
 -->
 
 
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-## Trending and Top of All Time
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-
-## Git News
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-## Top
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
+## Python and Django News and Projects
 
 Django News
 * [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
@@ -497,23 +475,7 @@ GitHub Trending Python
 * [GitHub Trending Python](https://github.com/trending/python)
 * [GitHub Topic Python](https://github.com/topics/python)
 
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
 <!--
-https://github.com/
-
-
-https://github.com/python/cpython
-https://github.com/django/django
-
-https://speed.python.org/ | Python Speed Center
-
-
 http://djangopeople.net/us/
 
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
@@ -522,32 +484,13 @@ https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites
 Django Snippets
 https://djangosnippets.org/
 
-
 https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
 https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
 
 https://planetpython.org/ | Planet Python
 
 https://bas.codes/ | Bas codes
--->
-
-
-## Python and Django Official
-
-Python
-* [Pythonic News](https://news.python.sc/)
-* [What's New](https://docs.python.org/dev/whatsnew/)
-* [Python Insider](https://pythoninsider.blogspot.com/)
-
-PEPs
-* [PEP Index](https://www.python.org/dev/peps)
-
-Django Blog and Announcements
-* [Django Blog](https://www.djangoproject.com/weblog/)
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-
-<!--
-https://twitter.com/djangoproject/
+https://bas.codes/posts/this-week-python-052 | This Week in Python (February 24, 2023) - Bas codes
 -->
 
 
@@ -583,7 +526,6 @@ https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 Python Stuff
 * [Stack Overflow Python Questions Sorted by Votes](https://stackoverflow.com/questions/tagged/python?sort=votes)
 * [Reddit Python](https://www.reddit.com/r/Python)
-
 
 ## Python Learning Resources- Set Aside
 
@@ -647,7 +589,13 @@ O'Reilly Media
 
 https://www.mattlayman.com/understand-django/templates-user-interfaces/
 
+
 Al
+https://alsweigart.com/ | Al Sweigart's Website
+https://inventwithpython.com/ | Invent with Python
+
+https://inventwithpython.com/pythongently/ | Python Programming Exercises, Gently Explained
+
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
@@ -685,6 +633,100 @@ https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
 -->
+
+
+## Trending and Top of All Time
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## Git News
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+https://github.com/trending/developers | Trending developers on GitHub today
+
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
 
 
 
@@ -812,6 +854,7 @@ How They
 https://github.com/abhivaikar/howtheytest
 https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
+
 https://python-patterns.guide/
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
@@ -827,11 +870,15 @@ https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clea
 
 https://refactoring.com/catalog/
 
+https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
 Guru
 https://refactoring.guru/design-patterns/ | Design Patterns
 
 https://www.martinfowler.com/ | martinfowler.com
 https://martinfowler.com/eaaCatalog/
+
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
@@ -850,7 +897,6 @@ Event Sourcing
 https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
 https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
 
 
 ## Google
@@ -1304,4 +1350,16 @@ Background Processing
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.python.org/3/library/asyncio.html
+-->
+
+<!--
+Octopus
+Lint All the Things
+https://ep2022.europython.eu/session/lint-all-the-things
+EuroPython
+https://www.youtube.com/c/EuroPythonConference/videos
+Frederike Jaeger
+https://pyvideo.org/speaker/frederike-jaeger.html
+Spreading Our Tentacles, Taking a Django App Global
+https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 -->
