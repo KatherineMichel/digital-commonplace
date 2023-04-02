@@ -1,92 +1,6 @@
 # Keeping Tabs
 
 <!--
-## JS Scene
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
-
-
-## PyScript
-
-https://pyscript.net/
-
-## Single File
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
-
-## Tools Matrix
-
-https://twitter.com/nletcher/status/1487782511543746565
-
-## PEPs
-
-https://github.com/vinayak-mehta/python-peps-graph
-
-
-## Nina
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4
-
-
-## Mozilla
-
-https://mdn.dev/
-https://developer.mozilla.org/en-US/
-
-## HTML
-
-https://htmx.org/
-
-https://github.com/timonweb/pytailwindcss
-https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
-
-## Python and JavaScript
-
-https://sayazamurai.github.io/python-vs-javascript/
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
-http://coodict.github.io/python3-in-one-pic/
-https://github.com/coodict/javascript-in-one-pic
-
-## Tools
-
-https://blog.acolyer.org/2020/09/21/watchman/
-
-https://prometheus.io/
-
-https://github.com/FlipperPA/django-s3-sqlite
-
-## Deployment
-
-https://ehmatthes.com/blog/simplified_heroku/
--->
-
-
-<!--
 Octopus
 Lint All the Things
 https://ep2022.europython.eu/session/lint-all-the-things
@@ -96,164 +10,49 @@ Frederike Jaeger
 https://pyvideo.org/speaker/frederike-jaeger.html
 Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
+-->
 
-## Shipping
+<!--
+### Art
 
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
 
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
 
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+## Pinax
 
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
 
-## Projects and Code
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
 
-Projects
-https://github.com/
 
-https://github.com/trending/python
-https://github.com/topics/python
+GitHub Mobile
+https://github.com/mobile | GitHub Mobile
 
-https://www.djangosites.org/with-source/
-https://djangopackages.org/
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+-->
 
-## News
+<!--
+## HTML
 
-Python news
+https://htmx.org/
 
-https://django-news.com/
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
 
-https://bas.codes/ | Bas codes
+## Mozilla
 
-## Tutorials and Articles
+https://mdn.dev/
+https://developer.mozilla.org/en-US/
 
-https://news.ycombinator.com/
-https://lobste.rs/
+## JS Scene
 
-https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
-https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
 
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
 
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
-
-
-Learning
-https://egghead.io/ | Build the portfolio you need to be a badass web developer. | egghead.io
-https://www.oreilly.com/online-learning/?utm_medium=search&utm_source=google.com&utm_campaign=B2B+Search&utm_content=live+demo&gclid=Cj0KCQjwuO6WBhDLARIsAIdeyDIJjolrKkCCP0tfciOQrKR5kgtWme9LLw3lWjDc5FMnD8a54msKdj0aAiLdEALw_wcB | Online Learning and Training - O'Reilly Media
-
-
-Learning resources
-https://realpython.com/ | Python Tutorials – Real Python
-https://towardsdatascience.com/ | Towards Data Science
-https://www.fullstackpython.com/table-of-contents.html | Table of Contents for Full Stack Python
-https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
-
-https://simpleisbetterthancomplex.com/ | Simple is Better Than Complex
-https://treyhunner.com/ | Trey Hunner
-https://mherman.org/talks | Talks and Trainings
-
-
-http://inventwithpython.com/beyond/ | Beyond the Basic Stuff with Python
-https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-
-Projects
-https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
-https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
-
-https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
-
-
-Trending
-https://bloggingfordevs.com/python-blogs/ | 20 Best Python Blogs to Read in 2021
-
-Python articles and tutorials
-https://dev.to/t/python | Python - DEV Community
-https://dev.to/search?q=python%20tutorials&filters=class_name:Article | Search Results for python tutorials - DEV Community
-https://dev.to/search?q=python%20tutorial | Search Results for python tutorial - DEV Community
-https://dev.to/search?q=python | Search Results for python - DEV Community
-
-https://hackernoon.com/search?query=python | https://hackernoon.com/search?query=python
-https://app.hackernoon.com/boot | HackerNoon 2.0
-https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
-https://www.digitalocean.com/community/tags/python | Python tutorials, questions, and resources | DigitalOcean
-https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
-
-Django cheatsheet
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
-https://ehmatthes.github.io/pcc_2e/recommended_reading/ | Page not found - Python Crash Course, 2nd Edition
-
-## Django
-
-Adam Johnson
-
-## Testing
-
-https://docs.pytest.org/en/latest/
-http://pytest-django.readthedocs.org
-
-## API
-
-https://www.django-rest-framework.org/ | Home - Django REST framework
-https://graphql.org/ | GraphQL | A query language for your API
-
-## CSS/HTML/JavaScript
-
-https://reactjs.org/ | React – A JavaScript library for building user interfaces
-https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
-
-https://stylestage.dev/styles/ | Styles Directory | Style Stage
-
-Aerojet
-view-source:https://stylestage.dev/styles/aerojet-505/
-https://stylestage.dev/styles/css/aerojet-505.css
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-## Productivity Tips
-
-https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-## Algorithms
-
-https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
-
-https://mitpress.mit.edu/books/introduction-algorithms-fourth-editionhttps://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Page not found (error) | The MIT Press
-https://www.algorist.com/ | The Algorithm Design Manual
-
-https://python-patterns.guide/ | Python Design Patterns
-
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-Talks
-https://pyvideo.org/ | PyVideo.org
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-
-
-
-
-
-https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
-
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
-
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
 
 
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
@@ -307,11 +106,7 @@ https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate 
 https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
 
 
-
-https://git-scm.com/docs | Git - Reference
-
 https://support.apple.com/en-us/HT201236 | Mac keyboard shortcuts - Apple Support
-
 
 Shortcuts
 https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
@@ -339,92 +134,429 @@ Settings
 Headers
 
 
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+## CSS/HTML/JavaScript
 
-https://sentry.io/welcome/ | Application Monitoring and Error Tracking Software | Sentry
-https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
-https://www.datadoghq.com/ | Cloud Monitoring as a Service | Datadog
-https://www.loggly.com/ | Log Analysis | Log Management by Loggly
+https://reactjs.org/ | React – A JavaScript library for building user interfaces
+https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
 
+https://stylestage.dev/styles/
+http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
 
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.2.0 documentation
+Aerojet
+view-source:https://stylestage.dev/styles/aerojet-505/
+https://stylestage.dev/styles/css/aerojet-505.css
 
-
-https://www.scala-lang.org/ | The Scala Programming Language
-
-https://github.com/python/cpython
-https://github.com/django/django
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 
-Tests
-https://docs.pytest.org/en/latest/ | pytest: helps you write better programs — pytest documentation
-
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-
+SQL
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 
-Database GIS
-https://postgis.net/
-https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
+## Testing
 
+https://docs.pytest.org/en/latest/
+http://pytest-django.readthedocs.org
+-->
 
+### Lawrence
 
-## Refactoring and Design Pattorns
+### Networking and Events
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
+Society of Women Engineers Wichita Section
+* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
 
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
 
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+Tech Events
+* [DevICT Events](https://www.meetup.com/devict/events/)
+* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
+* [Startup Grind Events](https://www.startupgrind.com/events)
+* [Groover Labs Events](https://www.grooverlabs.org/events)
 
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
 
-https://hpbn.co/ | High Performance Browser Networking (O'Reilly)
+### DevICT
 
-https://sre.google/books/ | Google - Site Reliability Engineering
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+Coworking Spaces
+* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
 
-https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+Entrepreneurship
+* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
 
+Salary
+* [DevICT Salary Survey](http://devict.org/survey/)
 
-http://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
+## Regional News
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+## City of Wichita
+
+City of Wichita
+* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
+
+The Chung Report
+* [The Chung Report](https://thechungreport.com/)
+
+### Hutch
+
+* [Startup Hutch](https://www.startuphutch.com/)
+
+## Travel
+
+* [Wichita Community Foundation](https://twitter.com/WichitaCF)
+* [Wichita By E.B.](https://www.wichitabyeb.com/)
+* [One Delightful Life](https://onedelightfullife.com/)
+
+<!--
+https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
+
+https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
+
+https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
 
 
 <!--
-### Art
+2022
+https://2022.djangocon.us/schedule/
 
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 
-
-## Pinax
-
-https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
-
-https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
-
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
 
 ## Events
 
 https://www.python.org/events/
 
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 
+https://pyvideo.org/ | PyVideo.org
 
-GitHub Mobile
-https://github.com/mobile | GitHub Mobile
-
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 -->
+
+<!--
+## Shipping
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+-->
+
+<!--
+## Algorithm
+
+Leetcode
+https://leetcode.com/
+
+https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition
+https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
+
+https://www.algorist.com/ | The Algorithm Design Manual
+
+https://python-patterns.guide/ | Python Design Patterns
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+-->
+
+## Release
+
+<!--
+https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 documentation
+https://docs.djangoproject.com/en/3.2/releases/ | Release notes | Django documentation | Django
+
+https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
+https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
+-->
+
+## Django Official Roadmap
+
+New Releases
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+
+Roadmaps
+* [Django Roadmaps](https://code.djangoproject.com/wiki)
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+<!--
+https://www.djangoproject.com/community/ | Django Community | Django
+-->
+
+## Python Official
+
+* [What's New Python 3](https://docs.python.org/3/whatsnew/)
+
+* [Python Discuss](https://discuss.python.org)
+
+<!--
+PSF Minutes
+https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
+
+https://www.python.org/downloads/release/python-390a5/
+
+https://docs.python.org/3.7/whatsnew/changelog.html#changelog
+
+https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
+https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
+
+## Feature Roundups
+
+Roundup
+https://realpython.com/python38-new-features/
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+
+Encode
+http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
+https://twitter.com/_tomchristie/status/1256210735056785409
+-->
+
+## Python Roadmap
+
+New Releases and Pre-Releases
+* [Python Downloads](https://www.python.org/downloads)
+* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
+
+Release Schedules
+* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+<!--
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## Git News
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+## Trending and Top of All Time
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+
+
+
+
+
+
+<!--
+## PyScript
+
+https://pyscript.net/
+
+## Single File
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+
+## Release Manager/Maintainer
+
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
+## Tools Matrix
+
+https://twitter.com/nletcher/status/1487782511543746565
+
+## PEPs
+
+https://github.com/vinayak-mehta/python-peps-graph
+
+
+## Nina
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4
+
+
+
+## Python and JavaScript
+
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+http://coodict.github.io/python3-in-one-pic/
+https://github.com/coodict/javascript-in-one-pic
+
+## Tools
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+
+https://github.com/FlipperPA/django-s3-sqlite
+
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+-->
+
+
+<!--
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+
+
+
+
+## Django
+
+Adam Johnson
+
+
+## Productivity Tips
+
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+
+
+
+
+
+https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
+
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
+
+-->
+
+
+
+
 
 <!--
 ## Livestream
@@ -440,6 +572,17 @@ https://discord.com/channels/576802746850869258/599621603931717632 | #general
 
 Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+
+
+<!--
+## Tutorials and Articles
+
+Python articles and tutorials
+https://app.hackernoon.com/boot | HackerNoon 2.0
+https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
+https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
 -->
 
 
@@ -488,7 +631,6 @@ https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
 https://planetpython.org/ | Planet Python
 
 https://bas.codes/ | Bas codes
-https://bloggingfordevs.com/python-blogs/ | 17 Best Python Blogs to Read in 2021
 -->
 
 ## Python and Django Official
@@ -546,22 +688,6 @@ Python Stuff
 
 ## Python Learning Resources- Set Aside
 
-<!--
-https://pyvideo.org/ | PyVideo.org
-
-2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
--->
-
-
 TestDriven.io
 * [Test Driven Blog](https://testdriven.io/blog/)
 
@@ -599,7 +725,7 @@ Trey Hunner
 * [Trey Hunner](https://treyhunner.com/)
 
 Michael
-* [Michael Herman](https://mherman.org/talks)
+* [Michael Herman Talks](https://mherman.org/talks)
 
 <!--
 https://mherman.org/presentations/pytn-2018/#1
@@ -615,14 +741,17 @@ David Beazley
 ## Python Learning Resources
 
 <!--
-https://egghead.io/
+Learning
+https://egghead.io/ | Build the portfolio you need to be a badass web developer. | egghead.io
 O'Reilly Media
+
 
 https://www.mattlayman.com/understand-django/templates-user-interfaces/
 
 
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
+https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
 
 Impractical Python Projects
 https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
@@ -647,9 +776,9 @@ No Starch
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 https://nostarch.com/seriouspython | Serious Python | No Starch Press
 
-Eric
-https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/
-
+Django cheatsheet
+https://ehmatthes.github.io/pcc_2e/cheat_sheets/cheat_sheets/ | Cheat Sheets - Python Crash Course, 2nd Edition
+https://ehmatthes.github.io/pcc_2e/recommended_reading/ | Page not found - Python Crash Course, 2nd Edition
 https://ehmatthes.github.io/pcc_2e/recommended_reading/general_python/ | General Python Resources - Python Crash Course, 2nd Edition
 https://ehmatthes.github.io/pcc_2e/recommended_reading/django/ | Django Resources - Python Crash Course, 2nd Edition
 https://ehmatthes.github.io/pcc_2e/updates/django3_1/ | Django 3.1 - Python Crash Course, 2nd Edition
@@ -660,20 +789,6 @@ https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on T
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
--->
-
-
-<!--
-https://stylestage.dev/styles/
-http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
-
-
-https://github.com/bradtraversy/vanillawebprojects
-https://github.com/bradtraversy/50projects50days
-
-SQL
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects
 -->
 
 
@@ -726,7 +841,6 @@ https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Prof
 http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
 
 Barbara Oakley
-
 
 
 Shipping/Makers
@@ -782,33 +896,15 @@ Driven Development
 
 How They
 https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre
-
-http://highscalability.com/start-here/
-http://highscalability.com/all-time-favorites/
+https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
 
 https://python-patterns.guide/
-https://github.com/ittus/Refactoring-summary-2nd-javascript
-https://github.com/kamranahmedse/design-patterns-for-humans
 
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
 
-
-
-Leetcode
-https://leetcode.com/
-
-
-https://mitpress.mit.edu/books/introduction-algorithms-fourth-edition
-https://www.amazon.com/Introduction-Algorithms-3rd-MIT-Press/dp/0262033844/ref=asc_df_0262033844/?tag=hyprod-20&linkCode=df0&hvadid=312118197030&hvpos=&hvnetw=g&hvrand=16379323349551694418&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023872&hvtargid=pla-422923046610&psc=1 | Introduction to Algorithms, 3rd Edition (The MIT Press): Cormen, Thomas H.: 8601419521876: Amazon.com: Books
-
-https://www.algorist.com/ | The Algorithm Design Manual
-
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
 
 
 ## Refactoring and Patterns
@@ -852,6 +948,9 @@ Useful Websites
 * [High Scalability](http://highscalability.com/)
 * [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
 
+http://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
 High Scalability
 http://highscalability.com/blog/category/example
 
@@ -876,6 +975,7 @@ https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
 
 ## Interesting
 
@@ -923,7 +1023,7 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
 
 https://git-scm.com/ | Git
-https://git-scm.com/docs
+https://git-scm.com/docs | Git - Reference
 
 Pro Git book
 https://git-scm.com/book/en/v2
@@ -1125,7 +1225,7 @@ https://www.grymoire.com/Unix/Sed.html
 ## Type Hinting
 
 MyPy Cheat Sheet
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
 
 http://mypy-lang.org/ | mypy - Optional Static Typing for Python
 https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
@@ -1155,7 +1255,6 @@ http://www.w3schools.com/sql/default.asp
 https://www.sqlite.org/
 https://www.sqlite.org/lang.html
 https://www.sqlite.org/docs.html
-https://www.gaia-gis.it/fossil/libspatialite/index
 
 https://www.postgresql.org/docs/current/sql.html
 https://www.postgresql.org/docs/current/app-psql.html
@@ -1167,6 +1266,10 @@ https://www.sqlite.org/changes.html | Release History Of SQLite
 https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
 https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 
+## Database GIS
+
+https://postgis.net/
+https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
 
 ## Modelling
 
@@ -1225,11 +1328,6 @@ Debugging and Profiling
 * [ipdb GitHub](https://github.com/gotcha/ipdb)
 * [iPython](http://ipython.org/)
 
-Django Debug Toolbar and Panel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
 <!--
 Django Shell Plus
 https://django-extensions.readthedocs.io/en/latest/list_model_info.html | list_model_info — django-extensions 3.1.2 documentation
@@ -1239,8 +1337,12 @@ https://github.com/django-extensions/django-extensions | django-extensions/djang
 https://pypi.org/project/ipdb/ | ipdb · PyPI
 -->
 
+Django Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
 Testing
-pytest 
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
@@ -1300,237 +1402,4 @@ Background Processing
 * HTTP and REST APIs
 * Celery and async processing
 * https://docs.python.org/3/library/asyncio.html
--->
-
-## Release
-
-<!--
-https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 documentation
-https://docs.djangoproject.com/en/3.2/releases/ | Release notes | Django documentation | Django
-
-https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
-https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
--->
-
-
-## Django Official Roadmap
-
-New Releases
-* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
-
-Roadmaps
-* [Django Roadmaps](https://code.djangoproject.com/wiki)
-
-Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
-
-DEPs (Django Enhancement Proposals)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-
-
-<!--
-https://www.djangoproject.com/community/ | Django Community | Django
--->
-
-## Python Official
-
-* [What's New Python 3](https://docs.python.org/3/whatsnew/)
-
-* [Python Discuss](https://discuss.python.org)
-
-<!--
-PSF Minutes
-https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
-
-https://www.python.org/downloads/release/python-390a5/
-
-https://docs.python.org/3.7/whatsnew/changelog.html#changelog
-
-https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-
-## Feature Roundups
-
-Roundup
-https://realpython.com/python38-new-features/
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-Encode
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-https://twitter.com/_tomchristie/status/1256210735056785409
--->
-
-## Python Roadmap
-
-New Releases and Pre-Releases
-* [Python Downloads](https://www.python.org/downloads)
-* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
-
-Release Schedules
-* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
-* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
-* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
-
-<!--
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
-
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://python-release-cycle.glitch.me/ | Python Release Cycle
-
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
--->
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Git News
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-## Trending and Top of All Time
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-### Lawrence
-
-### Networking and Events
-
-Society of Women Engineers Wichita Section
-* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
-
-PyLadies
-* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
-
-Tech Events
-* [DevICT Events](https://www.meetup.com/devict/events/)
-* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
-* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
-* [Startup Grind Events](https://www.startupgrind.com/events)
-* [Groover Labs Events](https://www.grooverlabs.org/events)
-
-Alumni
-* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
-* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
-
-### DevICT
-
-Coworking Spaces
-* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
-
-Entrepreneurship
-* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
-
-Salary
-* [DevICT Salary Survey](http://devict.org/survey/)
-
-## Regional News
-
-News
-* [Hutchinson News](https://www.hutchnews.com/)
-* [The Wichita Eagle](https://www.kansas.com/)
-
-Business Journal
-* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
-* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
-
-## City of Wichita
-
-City of Wichita
-* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
-
-The Chung Report
-* [The Chung Report](https://thechungreport.com/)
-
-### Hutch
-
-* [Startup Hutch](https://www.startuphutch.com/)
-
-## Travel
-
-* [Wichita Community Foundation](https://twitter.com/WichitaCF)
-* [Wichita By E.B.](https://www.wichitabyeb.com/)
-* [One Delightful Life](https://onedelightfullife.com/)
-
-<!--
-https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
-
-https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
-
-https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
