@@ -1,6 +1,8 @@
 # Keeping Tabs
 
 <!--
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
 
 https://jacobian.org/2020/mar/13/layoffs-are-coming/
