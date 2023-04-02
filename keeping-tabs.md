@@ -58,82 +58,6 @@ https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE
 https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 
 
-https://developer.chrome.com/docs/devtools/
-https://developer.chrome.com/docs/devtools/shortcuts/
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/css/
-https://developer.chrome.com/docs/devtools/css/reference/
-https://developer.chrome.com/docs/devtools/dom/
-https://developer.chrome.com/docs/devtools/dom/properties/
-
-JavaScript
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/console/log/
-https://developer.chrome.com/docs/devtools/console/javascript/
-https://developer.chrome.com/docs/devtools/console/live-expressions/
-https://developer.chrome.com/docs/devtools/javascript/breakpoints/
-https://developer.chrome.com/docs/devtools/console/format-style/ | Format and style messages in the Console - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/reference/ | Console features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/api/ | Console API reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/utilities/ | Console Utilities API reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/sources/ | Sources panel overview - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/ | Debug JavaScript - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/snippets/ | Run Snippets of JavaScript - Chrome Developers
-https://developer.chrome.com/docs/devtools/workspaces/ | Edit and save files with Workspaces - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/reference/ | JavaScript debugging reference - Chrome Developers
-
-Lighthouse
-https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
-
-Performance
-https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runtime performance - Chrome Developers
-https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Performance features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
-
-Network requests, HTTP headers
-https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
-https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
-
-https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
-
-https://developer.chrome.com/docs/devtools/search/ | Search: Find text across all loaded resources - Chrome Developers
-
-Accessibility
-https://developer.chrome.com/docs/devtools/accessibility/reference/ | Accessibility features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate Chrome DevTools with assistive technology - Chrome Developers
-https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
-
-
-https://support.apple.com/en-us/HT201236 | Mac keyboard shortcuts - Apple Support
-
-Shortcuts
-https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
-https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts | Keymap reference | PyCharm
-
-Debug Toolbar
-https://www.jetbrains.com/help/pycharm/debug-tool-window.html#debugtoolbar
-Debugging
-https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
-Evaluating expressions
-https://www.jetbrains.com/help/pycharm/examining-suspended-program.html#evaluating-expressions
-Tool window types
-https://www.jetbrains.com/help/pycharm/tool-windows.html#general-tool-windows-layout
-
-https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
-https://www.jetbrains.com/help/pycharm/quick-start-guide.html | Get started | PyCharm
-
-https://django-debug-toolbar.readthedocs.io/en/latest/panels.html
-Request
-SQL
-Template
-
-History
-Settings
-Headers
-
-
 ## CSS/HTML/JavaScript
 
 https://reactjs.org/ | React – A JavaScript library for building user interfaces
@@ -153,13 +77,107 @@ https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days
 SQL
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
-
-
-## Testing
-
-https://docs.pytest.org/en/latest/
-http://pytest-django.readthedocs.org
 -->
+
+
+<!--
+## PyScript
+
+https://pyscript.net/
+
+## Single File
+
+Carlton- single file
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+
+## Release Manager/Maintainer
+
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
+## Tools Matrix
+
+https://twitter.com/nletcher/status/1487782511543746565
+
+## PEPs
+
+https://github.com/vinayak-mehta/python-peps-graph
+
+
+## Nina
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4
+
+
+## Python and JavaScript
+
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+http://coodict.github.io/python3-in-one-pic/
+https://github.com/coodict/javascript-in-one-pic
+
+## Tools
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+
+https://github.com/FlipperPA/django-s3-sqlite
+
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+-->
+
+
+<!--
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+## Django
+
+Adam Johnson
+
+## Productivity Tips
+
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
+-->
+
+<!--
+## Tutorials and Articles
+
+Python articles and tutorials
+https://app.hackernoon.com/boot | HackerNoon 2.0
+https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
+https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
+-->
+
 
 ### Lawrence
 
@@ -229,6 +247,23 @@ https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best 
 https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
 
+
+
+<!--
+## Livestream
+
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
 
 <!--
 2022
@@ -367,6 +402,7 @@ https://jefftriplett.com/django-release-cycle/
 https://twitter.com/webology/status/1235628234148110336
 -->
 
+
 ## Articles
 
 The Practical Dev and Hackernoon
@@ -394,19 +430,6 @@ https://stackshare.io/featured-posts
 https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
 
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Git News
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
 
 ## Product Sites
@@ -448,143 +471,18 @@ Top Links of All Times
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
 
+## Git News
 
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com) 
 
-
-
-
-<!--
-## PyScript
-
-https://pyscript.net/
-
-## Single File
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
-
-## Tools Matrix
-
-https://twitter.com/nletcher/status/1487782511543746565
-
-## PEPs
-
-https://github.com/vinayak-mehta/python-peps-graph
-
-
-## Nina
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4
-
-
-
-## Python and JavaScript
-
-https://sayazamurai.github.io/python-vs-javascript/
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
-http://coodict.github.io/python3-in-one-pic/
-https://github.com/coodict/javascript-in-one-pic
-
-## Tools
-
-https://blog.acolyer.org/2020/09/21/watchman/
-
-https://prometheus.io/
-
-https://github.com/FlipperPA/django-s3-sqlite
-
-## Deployment
-
-https://ehmatthes.com/blog/simplified_heroku/
--->
-
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
 
 <!--
-## Projects and Code
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
-
-
-
-
-
-## Django
-
-Adam Johnson
-
-
-## Productivity Tips
-
-https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-
-
-
-
-
-https://www.google.com/search?q=jez+humble+accelerate&oq=jez+humble+accelerate&aqs=chrome..69i57j35i39i362l3j69i60l4.2407j0j7&sourceid=chrome&ie=UTF-8 | jez humble accelerate - Google Search
-
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
-
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
-
-
-
-
-
-<!--
-## Livestream
-
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-
-
-<!--
-## Tutorials and Articles
-
-Python articles and tutorials
-https://app.hackernoon.com/boot | HackerNoon 2.0
-https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
-https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
--->
-
 
 ## Top
 
@@ -632,6 +530,7 @@ https://planetpython.org/ | Planet Python
 
 https://bas.codes/ | Bas codes
 -->
+
 
 ## Python and Django Official
 
@@ -748,23 +647,19 @@ O'Reilly Media
 
 https://www.mattlayman.com/understand-django/templates-user-interfaces/
 
-
+Al
 Beyond the Basic Stuff with Python
 https://inventwithpython.com/beyond/
 https://www.youtube.com/watch?v=kSrnLbioN6w | (42) Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
+https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
+http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
 
 Impractical Python Projects
 https://github.com/rlvaugh/Impractical_Python_Projects | rlvaugh/Impractical_Python_Projects: Code & supporting files for chapters in book
 
-Al
 https://inventwithpython.com/bigbookpython/ | The Big Book of Small Python Projects
 https://nostarch.com/big-book-small-python-projects | The Big Book of Small Python Projects | No Starch Press
 https://twitter.com/AlSweigart/status/1373416775866576901 | Al Sweigart on Twitter: "Finished editing a two minute video commercial for my upcoming book, "The Big Book of Small Python Projects" Use code MIGHTYSMALL to get 35% off your preorder at https://t.co/mYQXor5Ior https://t.co/ygDnGZgOBt" / Twitter
-
-https://nostarch.com/beyond-basic-stuff-python | Beyond the Basic Stuff with Python | No Starch Press
-http://inventwithpython.com/beyond/
-https://www.youtube.com/watch?v=kSrnLbioN6w | Beyond the Basic Stuff with Python - Al Sweigart - Part 1 - YouTube
-http://inventwithpython.com/beyond/chapter15.html | Chapter 15 - Object-Oriented Programming and Classes
 
 https://nostarch.com/recursive-book-recursion | The Recursive Book of Recursion | No Starch Press
 
@@ -894,6 +789,25 @@ Driven Development
 
 ## Interesting
 
+## High Performance Organizations
+
+https://github.com/KatherineMichel/organizations
+
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+http://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
+High Scalability
+http://highscalability.com/blog/category/example
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+
 How They
 https://github.com/abhivaikar/howtheytest
 https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
@@ -937,24 +851,6 @@ https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
 https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 
-
-## High Performance Organizations
-
-https://github.com/KatherineMichel/organizations
-
-https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
-
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
-http://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
-
-High Scalability
-http://highscalability.com/blog/category/example
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 
 
 ## Google
@@ -1066,59 +962,9 @@ https://git-scm.com/doc/ext
 ## Dev Environment
 
 <!--
-https://developer.chrome.com/docs/devtools/
-https://developer.chrome.com/docs/devtools/shortcuts/
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/css/
-https://developer.chrome.com/docs/devtools/css/reference/
-https://developer.chrome.com/docs/devtools/dom/
-https://developer.chrome.com/docs/devtools/dom/properties/
+https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
 
-https://developer.chrome.com/docs/devtools/javascript/breakpoints/
-](https://developer.chrome.com/docs/devtools/
-https://developer.chrome.com/docs/devtools/shortcuts/
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/css/
-https://developer.chrome.com/docs/devtools/css/reference/
-https://developer.chrome.com/docs/devtools/dom/
-https://developer.chrome.com/docs/devtools/dom/properties/
-
-JavaScript
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/console/log/
-https://developer.chrome.com/docs/devtools/console/javascript/
-https://developer.chrome.com/docs/devtools/console/live-expressions/
-https://developer.chrome.com/docs/devtools/javascript/breakpoints/
-https://developer.chrome.com/docs/devtools/console/format-style/ | Format and style messages in the Console - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/reference/ | Console features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/api/ | Console API reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/utilities/ | Console Utilities API reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/sources/ | Sources panel overview - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/ | Debug JavaScript - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/snippets/ | Run Snippets of JavaScript - Chrome Developers
-https://developer.chrome.com/docs/devtools/workspaces/ | Edit and save files with Workspaces - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/reference/ | JavaScript debugging reference - Chrome Developers
-
-Network
-https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
-https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
-
-Performance
-https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runtime performance - Chrome Developers
-https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Performance features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
-https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
-
-https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
-
-https://developer.chrome.com/docs/devtools/search/ | Search: Find text across all loaded resources - Chrome Developers
-
-Accessibility
-https://developer.chrome.com/docs/devtools/accessibility/reference/ | Accessibility features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate Chrome DevTools with assistive technology - Chrome Developers
-https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
+https://www.jetbrains.com/help/pycharm/quick-start-guide.html | Get started | PyCharm
 
 
 Shortcuts
@@ -1154,9 +1000,6 @@ Release
 https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
 
 https://www.jetbrains.com/help/pycharm/
-https://www.jetbrains.com/help/pycharm/installation-guide.html | Install PyCharm | PyCharm
-
-https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
 
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1196/coursehandouts/installingpycharm.html | Installing PyCharm
 
@@ -1184,6 +1027,54 @@ https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Stu
 https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
 -->
 
+<!--
+https://developer.chrome.com/docs/devtools/
+https://developer.chrome.com/docs/devtools/shortcuts/
+https://developer.chrome.com/docs/devtools/console/
+https://developer.chrome.com/docs/devtools/css/
+https://developer.chrome.com/docs/devtools/css/reference/
+https://developer.chrome.com/docs/devtools/dom/
+https://developer.chrome.com/docs/devtools/dom/properties/
+
+JavaScript
+https://developer.chrome.com/docs/devtools/console/
+https://developer.chrome.com/docs/devtools/console/log/
+https://developer.chrome.com/docs/devtools/console/javascript/
+https://developer.chrome.com/docs/devtools/console/live-expressions/
+https://developer.chrome.com/docs/devtools/javascript/breakpoints/
+https://developer.chrome.com/docs/devtools/console/format-style/ | Format and style messages in the Console - Chrome Developers
+https://developer.chrome.com/docs/devtools/console/reference/ | Console features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/console/api/ | Console API reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/console/utilities/ | Console Utilities API reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/sources/ | Sources panel overview - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/ | Debug JavaScript - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/snippets/ | Run Snippets of JavaScript - Chrome Developers
+https://developer.chrome.com/docs/devtools/workspaces/ | Edit and save files with Workspaces - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/reference/ | JavaScript debugging reference - Chrome Developers
+
+Network requests, HTTP headers
+https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
+https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
+
+Lighthouse
+https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
+
+Performance
+https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runtime performance - Chrome Developers
+https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Performance features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
+
+https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
+
+https://developer.chrome.com/docs/devtools/search/ | Search: Find text across all loaded resources - Chrome Developers
+
+Accessibility
+https://developer.chrome.com/docs/devtools/accessibility/reference/ | Accessibility features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate Chrome DevTools with assistive technology - Chrome Developers
+https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
+-->
 
 ## Useful Files
 
@@ -1341,6 +1232,17 @@ Django Debug Toolbar and Panel
 * [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
 * [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
 * [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+https://django-debug-toolbar.readthedocs.io/en/latest/panels.html
+Request
+SQL
+Template
+
+History
+Settings
+Headers
+-->
 
 Testing
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
