@@ -1,14 +1,28 @@
 # Keeping Tabs
 
 <!--
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
 
 https://jacobian.org/2020/mar/13/layoffs-are-coming/
 https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+
+## Adrienne
+
+https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
+https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
+
+## Kathleen
 
 https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
+
+https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
+https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
+https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
+https://github.com/kvignos | kvignos (Kathleen Vignos)
+
+
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
 
 https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
 
