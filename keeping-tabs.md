@@ -7,6 +7,8 @@ https://jacobian.org/2020/mar/13/layoffs-are-coming/
 https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
 https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
 
+https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner/dp/B0BHX8BQ9C/ | Engineering Management for the Rest of Us: Drasner, Sarah: 9798986769301: Amazon.com: Books
+
 ## Adrienne
 
 https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
