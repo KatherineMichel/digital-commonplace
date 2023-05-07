@@ -15,7 +15,10 @@ https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
 
+
 ## Find People
+
+https://linktr.ee/
 
 https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
 https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
@@ -50,8 +53,11 @@ Mind the Product
 https://www.mindtheproduct.com/
 Dev conferences
 https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
 
 ## Interesting Ideas
+
+https://www.infoq.com/
 
 Product
 https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
@@ -68,6 +74,7 @@ https://twitter.com/waitbutwhy/
 https://jamesclear.com/
 https://calnewport.com/
 http://www.stevemagness.com/
+https://taylorpearson.me/free/
 
 Tiny Habits
 Atomic Habits
@@ -137,33 +144,98 @@ https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen
 
 https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
 
+## Survey
+
+https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosystem in 2022 Infographic | JetBrains: Developer Tools for Professionals and Teams
+
+## Mobile
+
+https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
+
+
+## Postgres Architecture
+
+https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
+
+## Architecture and Tools
+
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+
+https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
+
+https://architecturenotes.co/
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+
+## System Design
+
+https://github.com/donnemartin/system-design-primer
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
+
+## Database
+
+https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
+
+https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
+
+## Patterns
+
+https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+
+## CSS
+
+https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
 
 ## Python Learning Resources
+
+https://www.python.org/ | Welcome to Python.org
 
 https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
 https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
 
-https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
-
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-
-
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
+https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
+https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
+
 Lerner
-https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://store.lerner.co.il/ace-python-interviews | Ace Python Interviews
 
-https://cs50.harvard.edu/x/2020/
+https://cs50.harvard.edu/x/2022/ | CS50x 2022
+https://cs50.harvard.edu/web/2020/ | CS50's Web Programming with Python and JavaScript
+
+Harvard courses
+https://twitter.com/newsyc150/status/1553797731726008321 | Hacker News 150 on Twitter: "Harvard CS109A, fully open and free https://t.co/wW5u7cnPAw (https://t.co/seu0389a8l)" / Twitter
+https://harvard-iacs.github.io/2019-CS109A/pages/materials.html | CS109A - Materials
+
 https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
 https://www.fullstackpython.com/
 
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
+
+## Django
+
+https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
+
+https://www.mattlayman.com/ | Matt Layman
+https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
+
+## Interesting
+
+Low Level C Programming
+https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
+
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
+
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
 -->
 
 
