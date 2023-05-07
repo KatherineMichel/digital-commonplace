@@ -390,75 +390,6 @@ https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | Dat
 -->
 
 
-### Lawrence
-
-### Networking and Events
-
-Society of Women Engineers Wichita Section
-* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
-
-PyLadies
-* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
-
-Tech Events
-* [DevICT Events](https://www.meetup.com/devict/events/)
-* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
-* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
-* [Startup Grind Events](https://www.startupgrind.com/events)
-* [Groover Labs Events](https://www.grooverlabs.org/events)
-
-Alumni
-* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
-* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
-
-### DevICT
-
-Coworking Spaces
-* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
-
-Entrepreneurship
-* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
-
-Salary
-* [DevICT Salary Survey](http://devict.org/survey/)
-
-## Regional News
-
-News
-* [Hutchinson News](https://www.hutchnews.com/)
-* [The Wichita Eagle](https://www.kansas.com/)
-
-Business Journal
-* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
-* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
-
-## City of Wichita
-
-City of Wichita
-* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
-
-The Chung Report
-* [The Chung Report](https://thechungreport.com/)
-
-### Hutch
-
-* [Startup Hutch](https://www.startuphutch.com/)
-
-## Travel
-
-* [Wichita Community Foundation](https://twitter.com/WichitaCF)
-* [Wichita By E.B.](https://www.wichitabyeb.com/)
-* [One Delightful Life](https://onedelightfullife.com/)
-
-<!--
-https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
-
-https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
-
-https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
--->
-
-
 
 <!--
 ## Livestream
@@ -543,6 +474,333 @@ https://github.com/faif/python-patterns | faif/python-patterns: A collection of 
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 -->
+
+
+
+
+<!--
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+
+The Science of Well Being
+https://www.coursera.org/learn/the-science-of-well-being/home/week/1
+
+* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
+
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+https://www.mindtools.com/ | Management Training and Leadership Training - Online
+
+https://www.mindtools.com/pages/article/newHTE_91.htm
+https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
+
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+https://www.nngroup.com/articles/prioritization-matrices/
+
+12 Ways to Get Smarter
+https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
+
+Checklist Manifesto
+
+Knowledge base
+
+
+## Goals
+
+Fear setting
+
+Marshall Goldsmith
+Habit Engineering
+Atomic Habits
+
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
+
+## Learning
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
+
+Barbara Oakley
+
+
+Shipping/Makers
+## Engineering Management
+## Leadership and Product
+## Project Management and Roadmaps
+
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+
+https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
+* Think big
+* Communicate
+* Simplify
+* Prioritize
+* Forecast and measure
+* Execute
+* Understand good design
+* Write effective copy
+
+Farming versus mining
+Iteration
+https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
+
+https://basecamp.com/shapeup/webbook
+https://basecamp.com/gettingreal
+
+https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
+
+
+https://en.wikipedia.org/wiki/Cron
+https://en.wikipedia.org/wiki/Continuous_integration
+
+SRE, DevOps, CI/CD
+
+Jez Humble
+Accelerate
+
+
+APIs
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+
+Software construction tools
+UML, TLA+
+
+Driven Development
+
+
+## Interesting
+
+## High Performance Organizations
+
+https://github.com/KatherineMichel/organizations
+
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
+Useful Websites
+* [High Scalability](http://highscalability.com/)
+* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
+
+http://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
+High Scalability
+http://highscalability.com/blog/category/example
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+
+How They
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+
+https://python-patterns.guide/
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
+
+https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
+https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
+
+
+## Refactoring and Patterns
+
+* [Refactoring](https://refactoring.com/)
+
+https://refactoring.com/catalog/
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+Guru
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+https://www.martinfowler.com/ | martinfowler.com
+https://martinfowler.com/eaaCatalog/
+
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+
+https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
+
+## Domain Driven Design and Event Sourcing
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+Event Sourcing
+https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
+https://martinfowler.com/bliki/CQRS.html | CQRS
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+
+
+## Google
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+## SRE
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+
+https://landing.google.com/sre/books
+https://sre.google/books/ | Google - Site Reliability Engineering
+
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+
+## Interesting
+
+What Happens When
+
+Network communication protocols
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/OSI_model
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide 
+
+
+## Books
+
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+
+Mythical Man
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+-->
+
+
+## Trending and Top of All Time
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## Git News
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+https://github.com/trending/developers | Trending developers on GitHub today
+
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+
 
 ## Python and Django Official
 
@@ -821,529 +1079,6 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 -->
 
 
-## Trending and Top of All Time
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## Git News
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-https://github.com/trending/developers | Trending developers on GitHub today
-
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-
-
-<!--
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
-
-The Science of Well Being
-https://www.coursera.org/learn/the-science-of-well-being/home/week/1
-
-* [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-https://www.mindtools.com/ | Management Training and Leadership Training - Online
-
-https://www.mindtools.com/pages/article/newHTE_91.htm
-https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
-
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
-https://www.nngroup.com/articles/prioritization-matrices/
-
-12 Ways to Get Smarter
-https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
-
-Checklist Manifesto
-
-Knowledge base
-
-
-## Goals
-
-Fear setting
-
-Marshall Goldsmith
-Habit Engineering
-Atomic Habits
-
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
-
-## Learning
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
-http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
-
-Barbara Oakley
-
-
-Shipping/Makers
-## Engineering Management
-## Leadership and Product
-## Project Management and Roadmaps
-
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-
-https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
-* Think big
-* Communicate
-* Simplify
-* Prioritize
-* Forecast and measure
-* Execute
-* Understand good design
-* Write effective copy
-
-Farming versus mining
-Iteration
-https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
-
-https://basecamp.com/shapeup/webbook
-https://basecamp.com/gettingreal
-
-https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
-
-
-https://en.wikipedia.org/wiki/Cron
-https://en.wikipedia.org/wiki/Continuous_integration
-
-SRE, DevOps, CI/CD
-
-Jez Humble
-Accelerate
-
-
-APIs
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-
-Software construction tools
-UML, TLA+
-
-Driven Development
-
-
-## Interesting
-
-## High Performance Organizations
-
-https://github.com/KatherineMichel/organizations
-
-https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
-
-Useful Websites
-* [High Scalability](http://highscalability.com/)
-* [Steve Souders: High Performance Web Sites Blog](http://stevesouders.com/)
-
-http://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
-
-High Scalability
-http://highscalability.com/blog/category/example
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-
-How They
-https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
-
-
-https://python-patterns.guide/
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
-
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-
-## Refactoring and Patterns
-
-* [Refactoring](https://refactoring.com/)
-
-https://refactoring.com/catalog/
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-Guru
-https://refactoring.guru/design-patterns/ | Design Patterns
-
-https://www.martinfowler.com/ | martinfowler.com
-https://martinfowler.com/eaaCatalog/
-
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-
-https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
-
-## Domain Driven Design and Event Sourcing
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-Event Sourcing
-https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
-https://martinfowler.com/bliki/CQRS.html | CQRS
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
-
-## Google
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-## SRE
-
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-
-https://landing.google.com/sre/books
-https://sre.google/books/ | Google - Site Reliability Engineering
-
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
-
-
-## Interesting
-
-What Happens When
-
-Network communication protocols
-https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/OSI_model
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-* [Ilya Grigorik](https://www.igvita.com/)
-
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
-
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide 
-
-
-## Books
-
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-
-Mythical Man
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
--->
-
-
-## Git
-
-<!--
-https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
-
-https://git-scm.com/ | Git
-https://git-scm.com/docs | Git - Reference
-
-Pro Git book
-https://git-scm.com/book/en/v2
-
-https://git-scm.com/docs/git#_git_commands | Git - git Documentation
-https://git-scm.com/docs/git-commit | Git - git-commit Documentation
-https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt | Git - git-commit Documentation
-
-https://git-scm.com/docs/git-rebase
-https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---autosquash | Git - git-rebase Documentation
-
-https://git-scm.com/docs/git-log
-https://git-scm.com/docs/git-log#Documentation/git-log.txt---oneline
-
-https://git-scm.com/docs/git-show
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://git-scm.com/docs/git-diff
-https://git-scm.com/docs/git-blame
-
-https://git-scm.com/docs/git#_reset_restore_and_revert
-
-https://git-scm.com/docs/git-prune
-
-https://git-scm.com/docs/git-grep
-
-https://git-scm.com/docs/git-bisect
-
-https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
-
-reflog
-https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
-https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
-
-Resources
-https://training.github.com/downloads/github-git-cheat-sheet.pdf
-https://ndpsoftware.com/git-cheatsheet.html#loc=index;
-https://git-scm.com/doc/ext
--->
-
-## Dev Environment
-
-<!--
-https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
-
-https://www.jetbrains.com/help/pycharm/quick-start-guide.html | Get started | PyCharm
-
-
-Shortcuts
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
-https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
-https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf | PyCharm_ReferenceCard.pdf
-
-PyCharm's top keyboard shortcuts
-https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
-https://www.jetbrains.com/help/pycharm/keymap-reference.html | Keymap reference | PyCharm
-
-Debug Toolbar
-https://www.jetbrains.com/help/pycharm/debug-tool-window.html#debugtoolbar
-Debugging
-https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
-Evaluating expressions
-https://www.jetbrains.com/help/pycharm/examining-suspended-program.html#evaluating-expressions
-Tool window types
-https://www.jetbrains.com/help/pycharm/tool-windows.html#general-tool-windows-layout
-
-Profiler
-https://www.jetbrains.com/help/pycharm/profiler.html
--->
-
-
-<!--
-https://blog.jetbrains.com/pycharm/
-
-Release
-https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
-
-https://www.jetbrains.com/help/pycharm/
-
-https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1196/coursehandouts/installingpycharm.html | Installing PyCharm
-
-
-## PyCharm and Security
-
-https://pycharm-security.readthedocs.io/en/latest/checks/index.html#shell | List of Checks — PyCharm Python Security plugin documentation
-https://twitter.com/anthonypjshaw/status/1527048060194258944 | Anthony Shaw 🇦🇺🤝🇺🇦 on Twitter: "@dabeaz @JohnNyquest1001 @driscollis Absolutely. Here's a list of 4 major issues https://t.co/EIouyrTOBK" / Twitter
-
-## Awesome
-
-PyCharm
-https://github.com/JetBrains/awesome-pycharm | JetBrains/awesome-pycharm: A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
-https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
-
-
-https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-pycharm-course: Course demos and handouts for Talk Python's Mastering PyCharm course
-https://github.com/fcurella/pycharm-configs | fcurella/pycharm-configs: A collection of configuration files for PyCharm that I find useful
--->
-
-
-<!--
-VS Code for Python Dev
-https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
-https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
--->
-
-<!--
-https://developer.chrome.com/docs/devtools/
-https://developer.chrome.com/docs/devtools/shortcuts/
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/css/
-https://developer.chrome.com/docs/devtools/css/reference/
-https://developer.chrome.com/docs/devtools/dom/
-https://developer.chrome.com/docs/devtools/dom/properties/
-
-JavaScript
-https://developer.chrome.com/docs/devtools/console/
-https://developer.chrome.com/docs/devtools/console/log/
-https://developer.chrome.com/docs/devtools/console/javascript/
-https://developer.chrome.com/docs/devtools/console/live-expressions/
-https://developer.chrome.com/docs/devtools/javascript/breakpoints/
-https://developer.chrome.com/docs/devtools/console/format-style/ | Format and style messages in the Console - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/reference/ | Console features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/api/ | Console API reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/console/utilities/ | Console Utilities API reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/sources/ | Sources panel overview - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/ | Debug JavaScript - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/snippets/ | Run Snippets of JavaScript - Chrome Developers
-https://developer.chrome.com/docs/devtools/workspaces/ | Edit and save files with Workspaces - Chrome Developers
-https://developer.chrome.com/docs/devtools/javascript/reference/ | JavaScript debugging reference - Chrome Developers
-
-Network requests, HTTP headers
-https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
-https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
-
-Lighthouse
-https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
-
-Performance
-https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runtime performance - Chrome Developers
-https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Performance features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
-
-https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
-
-https://developer.chrome.com/docs/devtools/search/ | Search: Find text across all loaded resources - Chrome Developers
-
-Accessibility
-https://developer.chrome.com/docs/devtools/accessibility/reference/ | Accessibility features reference - Chrome Developers
-https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate Chrome DevTools with assistive technology - Chrome Developers
-https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
--->
-
-## Useful Files
-
-<!--
-## Local Dev Tools
-
-https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://opensource.com/article/19/4/bash-vs-python
-
-Bash versus Python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-https://tldp.org/LDP/abs/html/aliases.html | Aliases
-
-
-https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
-https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
-https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
-https://github.com/hmml/awesome-zsh
-http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
-https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
-https://opensource.com/article/20/1/bash-scripts-aliases
-
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
--->
-
 <!--
 ## Type Hinting
 
@@ -1548,4 +1283,268 @@ Frederike Jaeger
 https://pyvideo.org/speaker/frederike-jaeger.html
 Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
+-->
+
+
+<!--
+## Bash versus Python
+
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+
+## Useful Local Dev Tools
+
+
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
+
+https://www.iterm2.com/
+https://kapeli.com/dash_guide
+
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+https://tldp.org/LDP/abs/html/aliases.html | Aliases
+
+
+https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
+https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
+https://github.com/ohmyzsh/ohmyzsh/wiki | Home · ohmyzsh/ohmyzsh Wiki
+https://github.com/hmml/awesome-zsh
+http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
+https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
+https://opensource.com/article/20/1/bash-scripts-aliases
+
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+-->
+
+
+<!--
+## PyCharm and VS Code
+
+https://realpython.com/pycharm-guide/ | PyCharm for Productive Python Development (Guide) – Real Python
+
+https://www.jetbrains.com/help/pycharm/quick-start-guide.html | Get started | PyCharm
+
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard_mac.pdf | PyCharm_ReferenceCard_mac.pdf
+https://resources.jetbrains.com/storage/products/pycharm/docs/PyCharm_ReferenceCard.pdf | PyCharm_ReferenceCard.pdf
+
+PyCharm's top keyboard shortcuts
+https://www.jetbrains.com/help/pycharm/keymap-reference.html#top_shortcuts
+https://www.jetbrains.com/help/pycharm/keymap-reference.html | Keymap reference | PyCharm
+
+Debug Toolbar
+https://www.jetbrains.com/help/pycharm/debug-tool-window.html#debugtoolbar
+Debugging
+https://www.jetbrains.com/help/pycharm/debugging-your-first-python-application.html
+Evaluating expressions
+https://www.jetbrains.com/help/pycharm/examining-suspended-program.html#evaluating-expressions
+Tool window types
+https://www.jetbrains.com/help/pycharm/tool-windows.html#general-tool-windows-layout
+
+Profiler
+https://www.jetbrains.com/help/pycharm/profiler.html
+
+
+https://blog.jetbrains.com/pycharm/
+
+Release
+https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
+
+https://www.jetbrains.com/help/pycharm/
+
+https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1196/coursehandouts/installingpycharm.html | Installing PyCharm
+
+## PyCharm and Security
+
+https://pycharm-security.readthedocs.io/en/latest/checks/index.html#shell | List of Checks — PyCharm Python Security plugin documentation
+https://twitter.com/anthonypjshaw/status/1527048060194258944 | Anthony Shaw 🇦🇺🤝🇺🇦 on Twitter: "@dabeaz @JohnNyquest1001 @driscollis Absolutely. Here's a list of 4 major issues https://t.co/EIouyrTOBK" / Twitter
+
+## Awesome
+
+PyCharm
+https://github.com/JetBrains/awesome-pycharm | JetBrains/awesome-pycharm: A curated list of resources for learning and using PyCharm, a Python IDE from JetBrains
+https://github.com/dropbox/mypy-PyCharm-plugin | dropbox/mypy-PyCharm-plugin: A simple plugin that allows running mypy from PyCharm and navigate between errors
+
+https://github.com/talkpython/mastering-pycharm-course | talkpython/mastering-pycharm-course: Course demos and handouts for Talk Python's Mastering PyCharm course
+https://github.com/fcurella/pycharm-configs | fcurella/pycharm-configs: A collection of configuration files for PyCharm that I find useful
+-->
+
+<!--
+VS Code for Python Dev
+https://realpython.com/advanced-visual-studio-code-python/ | Advanced Visual Studio Code for Python Developers – Real Python
+https://twitter.com/anthonypjshaw/status/1458529515831844867 | Anthony Shaw 🐍 on Twitter: "Take @code to the next level for Python Development! Months in the making. here's my definitive guide on VS Code for Python Development.. https://t.co/Vstt4RCYRO" / Twitter
+-->
+
+<!--
+## Chrome Dev Tools
+
+https://developer.chrome.com/docs/devtools/
+https://developer.chrome.com/docs/devtools/shortcuts/
+https://developer.chrome.com/docs/devtools/console/
+https://developer.chrome.com/docs/devtools/css/
+https://developer.chrome.com/docs/devtools/css/reference/
+https://developer.chrome.com/docs/devtools/dom/
+https://developer.chrome.com/docs/devtools/dom/properties/
+
+JavaScript
+https://developer.chrome.com/docs/devtools/console/
+https://developer.chrome.com/docs/devtools/console/log/
+https://developer.chrome.com/docs/devtools/console/javascript/
+https://developer.chrome.com/docs/devtools/console/live-expressions/
+https://developer.chrome.com/docs/devtools/javascript/breakpoints/
+https://developer.chrome.com/docs/devtools/console/format-style/ | Format and style messages in the Console - Chrome Developers
+https://developer.chrome.com/docs/devtools/console/reference/ | Console features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/console/api/ | Console API reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/console/utilities/ | Console Utilities API reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/sources/ | Sources panel overview - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/ | Debug JavaScript - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/snippets/ | Run Snippets of JavaScript - Chrome Developers
+https://developer.chrome.com/docs/devtools/workspaces/ | Edit and save files with Workspaces - Chrome Developers
+https://developer.chrome.com/docs/devtools/javascript/reference/ | JavaScript debugging reference - Chrome Developers
+
+Network requests, HTTP headers
+https://developer.chrome.com/docs/devtools/network/ | Inspect network activity - Chrome Developers
+https://developer.chrome.com/docs/devtools/network/reference/ | Network features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/resources/ | View page resources - Chrome Developers
+
+Lighthouse
+https://developer.chrome.com/docs/devtools/speed/get-started/ | Lighthouse: Optimize website speed - Chrome Developers
+
+Performance
+https://developer.chrome.com/docs/devtools/evaluate-performance/ | Analyze runtime performance - Chrome Developers
+https://developer.chrome.com/docs/devtools/evaluate-performance/reference/ | Performance features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/evaluate-performance/performance-reference/ | Timeline Event Reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/performance-insights/ | Performance insights: Get actionable insights on your website's performance - Chrome Developers
+
+https://developer.chrome.com/docs/devtools/security/ | Security: Understand security issues - Chrome Developers
+
+https://developer.chrome.com/docs/devtools/search/ | Search: Find text across all loaded resources - Chrome Developers
+
+Accessibility
+https://developer.chrome.com/docs/devtools/accessibility/reference/ | Accessibility features reference - Chrome Developers
+https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate Chrome DevTools with assistive technology - Chrome Developers
+https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
+-->
+
+<!--
+## Git
+
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs | Git - Reference
+
+Pro Git book
+https://git-scm.com/book/en/v2
+
+https://git-scm.com/docs/git#_git_commands | Git - git Documentation
+https://git-scm.com/docs/git-commit | Git - git-commit Documentation
+https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt | Git - git-commit Documentation
+
+https://git-scm.com/docs/git-rebase
+https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---autosquash | Git - git-rebase Documentation
+
+https://git-scm.com/docs/git-log
+https://git-scm.com/docs/git-log#Documentation/git-log.txt---oneline
+
+https://git-scm.com/docs/git-show
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://git-scm.com/docs/git-diff
+https://git-scm.com/docs/git-blame
+
+https://git-scm.com/docs/git#_reset_restore_and_revert
+
+https://git-scm.com/docs/git-prune
+
+https://git-scm.com/docs/git-grep
+
+https://git-scm.com/docs/git-bisect
+
+https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
+
+reflog
+https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
+https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
+
+Resources
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+https://git-scm.com/doc/ext
+-->
+
+### Lawrence
+
+### Networking and Events
+
+Society of Women Engineers Wichita Section
+* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
+
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
+
+Tech Events
+* [DevICT Events](https://www.meetup.com/devict/events/)
+* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
+* [Startup Grind Events](https://www.startupgrind.com/events)
+* [Groover Labs Events](https://www.grooverlabs.org/events)
+
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+### DevICT
+
+Coworking Spaces
+* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
+
+Entrepreneurship
+* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
+
+Salary
+* [DevICT Salary Survey](http://devict.org/survey/)
+
+## Regional News
+
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+## City of Wichita
+
+City of Wichita
+* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
+
+The Chung Report
+* [The Chung Report](https://thechungreport.com/)
+
+### Hutch
+
+* [Startup Hutch](https://www.startuphutch.com/)
+
+## Travel
+
+* [Wichita Community Foundation](https://twitter.com/WichitaCF)
+* [Wichita By E.B.](https://www.wichitabyeb.com/)
+* [One Delightful Life](https://onedelightfullife.com/)
+
+<!--
+https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
+
+https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
+
+https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
