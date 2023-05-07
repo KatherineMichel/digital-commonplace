@@ -5,6 +5,46 @@
 <!--
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
+
+
+## Formal Annual Review
+
+Check Notes
+https://www.annualreview.life/ | The Ultimate Annual Review
+
+2022 Personal Annual Report
+https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
+https://fs.blog/annual-review/ | My Annual Report Framework
+
+## Managing Projects
+
+The Definition of Priority Codes (P0, P1, P2, P3, P4)
+https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technical-victor-pudeyev/
+
+## Leverage Points
+
+https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
+
+
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
+
+https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
+
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
+
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
 https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
@@ -20,18 +60,6 @@ https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 https://www.fullstackpython.com/
 
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
-
-
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
 -->
 
 
