@@ -161,6 +161,8 @@ https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter
 
 https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/
+
 https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
 
 https://architecturenotes.co/
