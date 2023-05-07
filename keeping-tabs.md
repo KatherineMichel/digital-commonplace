@@ -3,23 +3,7 @@
 # Learning Resources
 
 <!--
-https://2023.djangocon.eu/
-https://us.pycon.org/2023/
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-http://pyvideo.org/
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/keeping-tabs.md
-
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
-
-Practice
-* [LeetCode](https://leetcode.com)
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-
-Advent
-* [Advent of Code 2020](https://adventofcode.com/2020/)
 
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
@@ -33,149 +17,36 @@ https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-in
 
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
-
 https://www.fullstackpython.com/
 
 * [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
+
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
-
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-Java version?
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-
-Product
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-
-https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
-
-
-Python
-* [Real Python](https://realpython.com)
-
-Authorities
-* [Martin Fowler](https://martinfowler.com)
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
-
-Refactoring, Patterns, Clean Code
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-
-Types of Patterns
-* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
-
-Programming Paradigms
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-High Availability
-* [High Scalability](http://highscalability.com/)
-
-
-Introduction to Algorithms
-https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_3
-
-Clean Architecture
-Clean Code
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-The Mythical Man Month
-Software Design for Flexibility
-https://www.amazon.com/dp/0262045494/?asin=0262045494&revisionId=&format=4&depth=1 | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-
-
-Joel Spolsky
-* [Joel on Software](https://www.joelonsoftware.com/)
-
-Basecamp Product
-* [Basecamp Shape Up](https://basecamp.com/shapeup/)
-* [Basecamp Getting Real PDF](https://basecamp.com/books/getting-real)
-
-Management
-* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
-
-
-Engineering management
-https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
-
-
-Excellence
-* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-
-Performance Management
-* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
-* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
-
-Mental Models and Cognitive Biases
-* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
-* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
-
-Learning Methods
-* [Dr. Barbara Oakley: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-Productivity
-* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
-
-Prioritization
-* [Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm)
-* [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-
-http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
-
-https://en.wikipedia.org/wiki/Pomodoro_Technique
-
-Checklist Manifesto
 -->
 
+
+
 <!--
+## Skills
+
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
 
 https://jacobian.org/2020/mar/13/layoffs-are-coming/
 https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
 https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
 
-https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner/dp/B0BHX8BQ9C/ | Engineering Management for the Rest of Us: Drasner, Sarah: 9798986769301: Amazon.com: Books
+## Great at Self-Promotion
 
 ## Adrienne
 
@@ -190,37 +61,6 @@ https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos o
 https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
 https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
 https://github.com/kvignos | kvignos (Kathleen Vignos)
-
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
-
-https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
-
-## SICP
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
-https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
-
-https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
-
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs#:~:text=Structure%20and%20Interpretation%20of%20Computer%20Programs%20(SICP)%20is%20a%20computer,Wizard%20Book%22%20in%20hacker%20culture. | Structure and Interpretation of Computer Programs - Wikipedia
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
-
-## End of SICP
-
-https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
-https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
-
-## CS Books
-
-https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
-
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-
-https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
-https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
 -->
 
 <!--
@@ -234,12 +74,6 @@ https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
 https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
 
 https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
-
-
-GitHub Mobile
-https://github.com/mobile | GitHub Mobile
-
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
 -->
 
 <!--
@@ -285,27 +119,17 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 
-SQL
+## SQL
+
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 -->
 
 
 <!--
-## PyScript
+## C Language
 
-https://pyscript.net/
-
-## Single File
-
-Carlton- single file
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
+https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
 
 
 ## Release Manager/Maintainer
@@ -335,12 +159,39 @@ https://twitter.com/nnja/status/1217933709577342976
 https://www.youtube.com/watch?v=ZsT7nSRQ8S4
 
 
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+
+
+## Single File
+
+Carlton- single file
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+## Django
+
+Adam Johnson
+
+
+## PyScript
+
+https://pyscript.net/
+
+
 ## Python and JavaScript
 
 https://sayazamurai.github.io/python-vs-javascript/
 https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
 http://coodict.github.io/python3-in-one-pic/
 https://github.com/coodict/javascript-in-one-pic
+
 
 ## Tools
 
@@ -349,49 +200,14 @@ https://blog.acolyer.org/2020/09/21/watchman/
 https://prometheus.io/
 
 https://github.com/FlipperPA/django-s3-sqlite
-
-## Deployment
-
-https://ehmatthes.com/blog/simplified_heroku/
 -->
 
 
 <!--
-## Projects and Code
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
-
-## Django
-
-Adam Johnson
-
-## Productivity Tips
-
-https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-https://github.com/drduh/macOS-Security-and-Privacy-Guide | drduh/macOS-Security-and-Privacy-Guide: Guide to securing and improving privacy on macOS
--->
-
-<!--
-## Tutorials and Articles
-
-Python articles and tutorials
-https://app.hackernoon.com/boot | HackerNoon 2.0
-https://www.freecodecamp.org/news/tag/python | Python - freeCodeCamp.org
-https://www.datacamp.com/tutorial | Data Science Tutorials | DataCamp Blog | DataCamp
--->
+GitHub Mobile
+https://github.com/mobile | GitHub Mobile
 
 
-
-<!--
 ## Livestream
 
 Django Discord
@@ -400,15 +216,24 @@ https://discord.com/invite/Psc75Cb8 | Django
 Organizer Discord
 https://discord.com/channels/753457391072444506/753457391072444509 | #general
 
+
 Anthony
 https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
 
 Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
 -->
 
 <!--
-2022
+https://2023.djangocon.eu/
+https://us.pycon.org/2023/
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+DjangoCon US 2022
 https://2022.djangocon.us/schedule/
 
 DjangoCon US 2021
@@ -444,27 +269,75 @@ Shipping Fridays
 https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 -->
 
+
 <!--
+## Books
+
+Clean Architecture
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+
+Mythical Man
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+## SICP
+
+## Python
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+
+## More CS Books
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://www.amazon.com/dp/0262045494/?asin=0262045494&revisionId=&format=4&depth=1 | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
+-->
+
+<!--
+## Problem Solving Platforms
+
+Practice
+* [LeetCode](https://leetcode.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+
+Advent
+* [Advent of Code](https://adventofcode.com/)
+
 ## Algorithm
-
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
-https://theprimeagen.github.io/fem-algos/ | The Last Algorithms Course You'll Need
-https://github.com/ThePrimeagen/kata-machine | ThePrimeagen/kata-machine
-
-https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-1&linkCode=sl1&tag=theprimeagen-20&linkId=83c55b2c018fbe94a1de79ebd447b66a&language=en_US&ref_=as_li_ss_tl | Introduction to Algorithms, fourth edition: 9780262046305: Computer Science Books @ Amazon.com
-
-https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-16&linkCode=sl1&tag=theprimeagen-20&linkId=2000de29907b98b5ac7a98aa6b52c1d9&language=en_US&ref_=as_li_ss_tl | A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills: Wengrow, Jay: 9781680507225: Amazon.com: Books
-
-
-Sites
-https://leetcode.com/
-https://www.hackerrank.com/ | HackerRank
-https://adventofcode.com/ | Advent of Code 2022
 
 https://neetcode.io/ | NeetCode.io
 https://neetcode.io/practice | Practice
 https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
 https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
+
+
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
+https://theprimeagen.github.io/fem-algos/ | The Last Algorithms Course You'll Need
+https://github.com/ThePrimeagen/kata-machine | ThePrimeagen/kata-machine
+
+https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ | Introduction to Algorithms, fourth edition: 9780262046305: Computer Science Books @ Amazon.com
+
+https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-16&linkCode=sl1&tag=theprimeagen-20&linkId=2000de29907b98b5ac7a98aa6b52c1d9&language=en_US&ref_=as_li_ss_tl | A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills: Wengrow, Jay: 9781680507225: Amazon.com: Books
+
 
 https://www.algorist.com/ | The Algorithm Design Manual
 
@@ -487,20 +360,51 @@ https://www.coursera.org/learn/the-science-of-well-being/home/week/1
 
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
 
-https://www.mindtools.com/ | Management Training and Leadership Training - Online
+Excellence
+* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+
+Performance Management
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+
+
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
 
 https://www.mindtools.com/pages/article/newHTE_91.htm
 https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
 
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
-https://www.nngroup.com/articles/prioritization-matrices/
-
 12 Ways to Get Smarter
 https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
 
+Memory
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+Productivity
+* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
+
+Prioritization
+* [Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm)
+* [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+Mental Models and Cognitive Biases
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+
+
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+
 Checklist Manifesto
+
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+https://www.nngroup.com/articles/prioritization-matrices/
+
 
 Knowledge base
 
@@ -521,21 +425,41 @@ https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "
 
 ## Learning
 
+Learning Methods
+* [Dr. Barbara Oakley: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
 https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
 
 http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
 
-Barbara Oakley
-
 
 Shipping/Makers
-## Engineering Management
-## Leadership and Product
-## Project Management and Roadmaps
 
+## Engineering Management
+
+Engineering management
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+
+https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner/dp/B0BHX8BQ9C/ | Engineering Management for the Rest of Us: Drasner, Sarah: 9798986769301: Amazon.com: Books
+
+
+Management
+* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
 
 Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+
+
+## Leadership and Product
+
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+
+## Project Management and Roadmaps
+
+https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
 
 
 https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
@@ -548,6 +472,15 @@ https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product
 * Understand good design
 * Write effective copy
 
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/getting-real)
+
+
 Farming versus mining
 Iteration
 https://basecamp.com/gettingreal/getting-real.pdf | getting-real.pdf
@@ -556,6 +489,11 @@ https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
 
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
+
+
+
+APIs
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
 
 
 https://en.wikipedia.org/wiki/Cron
@@ -567,19 +505,18 @@ Jez Humble
 Accelerate
 
 
-APIs
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-
 Software construction tools
 UML, TLA+
 
 Driven Development
 
 
-## Interesting
-
 ## High Performance Organizations
+
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+
+## Architectures at Scale
 
 https://github.com/KatherineMichel/organizations
 
@@ -598,38 +535,67 @@ http://highscalability.com/blog/category/example
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 
 
-How They
-https://github.com/abhivaikar/howtheytest
-https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+Authorities
+* [Martin Fowler](https://martinfowler.com)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
+
+Refactoring, Patterns, Clean Code
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
+Types of Patterns
+* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
+
+Programming Paradigms
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
 
 
-https://python-patterns.guide/
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-https://github.com/kamranahmedse/design-patterns-for-humans | kamranahmedse/design-patterns-for-humans: An ultra-simplified explanation to design patterns
 
-https://www.matthewjmiller.net/files/cc2e_checklists.pdf | cc2e_checklists.pdf
-https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf | professional-programming/Clean-Code-V2.4.pdf at master · charlax/professional-programming
-
-
-## Refactoring and Patterns
-
-* [Refactoring](https://refactoring.com/)
-
-https://refactoring.com/catalog/
+## Refactoring
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
 
-Guru
-https://refactoring.guru/design-patterns/ | Design Patterns
-
-https://www.martinfowler.com/ | martinfowler.com
-https://martinfowler.com/eaaCatalog/
+## Patterns
 
 https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+
+## Python Patterns
+
+https://python-patterns.guide/
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+Java version?
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
 
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
@@ -667,6 +633,11 @@ https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliabili
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 
 
+How They
+https://github.com/abhivaikar/howtheytest
+https://github.com/upgundecha/howtheysre | upgundecha/howtheysre: A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)
+
+
 ## Interesting
 
 What Happens When
@@ -684,121 +655,14 @@ High Performance Browser Networking
 
 https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
 
+
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
 
 Security
 https://github.com/drduh/macOS-Security-and-Privacy-Guide 
-
-
-## Books
-
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-
-Mythical Man
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
 -->
-
-
-## Trending and Top of All Time
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## Git News
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-https://github.com/trending/developers | Trending developers on GitHub today
-
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
 
 
 
@@ -948,11 +812,11 @@ Python Articles
 * [The Practical Dev Python](https://dev.to/search?q=python)
 * [Hacker Noon Python](https://hackernoon.com/search?query=python)
 * [Hacker Noon Tagged Python](https://hackernoon.com/tagged/python)
-* [Free Code Camp Medium Python](https://medium.freecodecamp.org/tagged/python)
+* [Free Code Camp Medium Python](https://www.freecodecamp.org/news/tag/python)
 * [Medium Python](https://medium.com/tag/python)
 
 Data Science Articles and Tutorials
-* [DataCamp Python Tutorials](https://www.datacamp.com/community/tutorials?tag=python)
+* [DataCamp Python Tutorials](https://www.datacamp.com/tutorial/category/python)
 * [DataCamp Python Tutorials Must Read](https://www.datacamp.com/community/tutorials?posts_selected_tab=must_read&tag=python)
 
 <!--
@@ -961,9 +825,19 @@ https://bloggingfordevs.com/python-blogs/
 https://dev.to/t/python
 
 https://www.digitalocean.com/community/tags/python
-https://www.digitalocean.com/community/tutorials | Tutorials | DigitalOcean
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
+
+
+<!--
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+-->
+
 
 ## Python Questions
 
@@ -1103,7 +977,6 @@ Cardinality
 https://en.wikipedia.org/wiki/Cardinality
 https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
 -->
-
 
 <!--
 ## Databases
@@ -1273,6 +1146,7 @@ Background Processing
 * https://docs.python.org/3/library/asyncio.html
 -->
 
+
 <!--
 Octopus
 Lint All the Things
@@ -1284,6 +1158,100 @@ https://pyvideo.org/speaker/frederike-jaeger.html
 Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 -->
+
+
+## Trending and Top of All Time
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## Git News
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+https://github.com/trending/developers | Trending developers on GitHub today
+
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
 
 
 <!--
