@@ -1,5 +1,173 @@
 # Keeping Tabs
 
+# Learning Resources
+
+<!--
+https://2023.djangocon.eu/
+https://us.pycon.org/2023/
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+http://pyvideo.org/
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/keeping-tabs.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
+
+Practice
+* [LeetCode](https://leetcode.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+
+Advent
+* [Advent of Code 2020](https://adventofcode.com/2020/)
+
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+
+https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+
+https://cs50.harvard.edu/x/2020/
+https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
+
+https://www.fullstackpython.com/
+
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
+
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
+
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+Java version?
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+
+Product
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
+
+
+Python
+* [Real Python](https://realpython.com)
+
+Authorities
+* [Martin Fowler](https://martinfowler.com)
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
+
+Refactoring, Patterns, Clean Code
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
+Types of Patterns
+* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
+
+Programming Paradigms
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+High Availability
+* [High Scalability](http://highscalability.com/)
+
+
+Introduction to Algorithms
+https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ref=sr_1_3
+
+Clean Architecture
+Clean Code
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+The Mythical Man Month
+Software Design for Flexibility
+https://www.amazon.com/dp/0262045494/?asin=0262045494&revisionId=&format=4&depth=1 | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+
+
+Joel Spolsky
+* [Joel on Software](https://www.joelonsoftware.com/)
+
+Basecamp Product
+* [Basecamp Shape Up](https://basecamp.com/shapeup/)
+* [Basecamp Getting Real PDF](https://basecamp.com/books/getting-real)
+
+Management
+* [Andy Grove: High Output Management](https://www.amazon.com/dp/B015VACHOK)
+
+
+Engineering management
+https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897
+
+
+Excellence
+* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+
+Performance Management
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+
+Mental Models and Cognitive Biases
+* [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
+* [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+
+Learning Methods
+* [Dr. Barbara Oakley: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+Productivity
+* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
+
+Prioritization
+* [Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm)
+* [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+
+http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Schedule
+
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+Checklist Manifesto
+-->
+
 <!--
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
 
