@@ -15,6 +15,104 @@ https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
 
+## Find People
+
+https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
+https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
+
+https://twitter.com/home | Home / Twitter
+https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
+https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
+https://fosstodon.org/notifications | Notifications - Fosstodon
+https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
+https://snort.social/posts | snort.social - Nostr interface
+https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
+https://www.youtube.com/ | (185) YouTube
+
+## Women in Architecture
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+## Women in Product
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+## Conferences
+
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+Mind the Product
+https://www.mindtheproduct.com/
+Dev conferences
+https://leaddev.com/
+
+## Interesting Ideas
+
+Product
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
+https://twitter.com/johncutlefish/
+
+Cal Paterson
+https://calpaterson.com
+
+https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+https://www.nirandfar.com
+https://fs.blog/
+https://waitbutwhy.com/
+https://twitter.com/waitbutwhy/
+https://jamesclear.com/
+https://calnewport.com/
+http://www.stevemagness.com/
+
+Tiny Habits
+Atomic Habits
+
+https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
+
+https://twitter.com/natfriedman/
+https://twitter.com/swyx/
+https://twitter.com/levelsio/
+https://blog.samaltman.com/
+
+https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
+
+## Simon's Talk
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+## Julie
+
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
+https://jvns.ca/blog/good-questions/ | How to ask good questions
+https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
+
+Julie debugging zine
+https://twitter.com/BajoranEngineer/status/1604956282695593984
+
+## Pragmatic Engineer
+
+Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://blog.pragmaticengineer.com/
+https://twitter.com/GergelyOrosz/
+
+# Timeboxing and Habit Tracking
+
+https://www.nirandfar.com/timeboxing/
+https://www.nirandfar.com/habit-tracker/
+https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
+
+## Mastery! 
+
+Very Important!
+https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
+https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
+https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
 
 ## Formal Annual Review
 
@@ -35,7 +133,12 @@ https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technica
 https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
 https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
 
+## Growth Metrics
 
+https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
+
+
+## Python Learning Resources
 
 https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
 https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
@@ -47,6 +150,7 @@ https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on T
 
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
+Lerner
 https://store.lerner.co.il/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
 
 https://cs50.harvard.edu/x/2020/
@@ -486,6 +590,8 @@ https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resourc
 
 
 ## Project Management and Roadmaps
+
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 
 https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
 
