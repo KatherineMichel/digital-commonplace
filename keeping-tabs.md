@@ -3,6 +3,18 @@
 # Learning Resources
 
 <!--
+https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
+1️⃣ "Python Crash Course" by Eric Matthes
+2️⃣ "Fluent Python" by Luciano Ramalho
+3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
+4️⃣ "Clean Code" by Robert C. (Bob) Martin
+5️⃣ "Domain-Driven Design" by Eric Evans
+6️⃣ "Building Microservices" by Sam Newman
+7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
+8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
+9️⃣ "Cloud Native Python" by Manish Sethi
+🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
+
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
