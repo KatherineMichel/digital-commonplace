@@ -3,6 +3,12 @@
 # Learning Resources
 
 <!--
+https://www.kanopy.com/en/plano
+
+Pluto
+https://pluto.tv/en/on-demand/category/618c3cc54a27070007796ab4/58c34fd4250dc501634e608b/view-all?gclid=Cj0KCQjwsIejBhDOARIsANYqkD28yDOhMIwVCsCHPi6RX8z8VOk8whyskqf6bW3fS270rq3z88jtJg0aAhsxEALw_wcB
+
+
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
@@ -235,6 +241,11 @@ Pragmatic Engineer
 https://twitter.com/Pragmatic_Eng
 https://blog.pragmaticengineer.com/
 https://twitter.com/GergelyOrosz/
+
+
+## Carlota Perez
+
+https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
 
 
 ## Managing Projects
