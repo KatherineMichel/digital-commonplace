@@ -3,18 +3,6 @@
 # Learning Resources
 
 <!--
-https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
-1️⃣ "Python Crash Course" by Eric Matthes
-2️⃣ "Fluent Python" by Luciano Ramalho
-3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
-4️⃣ "Clean Code" by Robert C. (Bob) Martin
-5️⃣ "Domain-Driven Design" by Eric Evans
-6️⃣ "Building Microservices" by Sam Newman
-7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
-8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
-9️⃣ "Cloud Native Python" by Manish Sethi
-🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
-
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
@@ -44,13 +32,6 @@ https://snort.social/posts | snort.social - Nostr interface
 https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
 https://www.youtube.com/ | (185) YouTube
 
-## Women in Architecture
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-## Women in Product
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
 
 ## Conferences
 
@@ -66,6 +47,141 @@ https://www.mindtheproduct.com/
 Dev conferences
 https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+-->
+
+<!--
+https://2023.djangocon.eu/
+https://us.pycon.org/2023/
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+
+## Events
+
+https://www.python.org/events/
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+https://pyvideo.org/ | PyVideo.org
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+-->
+
+
+<!--
+## Skills
+
+https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/
+https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
+## Great at Self-Promotion
+
+## Adrienne
+
+https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
+https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
+
+## Kathleen
+
+https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
+
+https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
+https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
+https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
+https://github.com/kvignos | kvignos (Kathleen Vignos)
+
+
+## Formal Annual Review
+
+Check Notes
+https://www.annualreview.life/ | The Ultimate Annual Review
+
+2022 Personal Annual Report
+https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
+https://fs.blog/annual-review/ | My Annual Report Framework
+
+## Timeboxing and Habit Tracking
+
+https://www.nirandfar.com/timeboxing/
+https://www.nirandfar.com/habit-tracker/
+https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
+
+## Mastery! 
+
+Very Important!
+https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
+https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
+https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
+-->
+
+<!--
+https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
+https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
+
+
+Python Developer LinkedIn Group
+https://www.linkedin.com/groups/6986570/
+
+https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
+https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+https://www.bitecode.dev/archive | Archive - Bite code!
+
+
+https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
+
+7 Leetcode articles I wish I’d read sooner.
+This would have saved me from solving 1500+ problems:
+Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
+Substring Problem Patterns: https://lnkd.in/gdGtE72g
+Backtracking Problem Patterns: https://lnkd.in/gVkQX5vA
+Two Pointers Patterns: https://lnkd.in/gBfWgHYe
+Binary Search Patterns: https://lnkd.in/gKEm_qUK
+Sliding Window Patterns: https://lnkd.in/gjatQ5pK
+Graph Patterns: https://lnkd.in/gKE6w7Jb
+
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+
+https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
+1️⃣ "Python Crash Course" by Eric Matthes
+2️⃣ "Fluent Python" by Luciano Ramalho
+3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
+4️⃣ "Clean Code" by Robert C. (Bob) Martin
+5️⃣ "Domain-Driven Design" by Eric Evans
+6️⃣ "Building Microservices" by Sam Newman
+7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
+8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
+9️⃣ "Cloud Native Python" by Manish Sethi
+🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
+
+
+
+## Women in Architecture
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+## Women in Product
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
 
 ## Interesting Ideas
 
@@ -120,27 +236,6 @@ https://twitter.com/Pragmatic_Eng
 https://blog.pragmaticengineer.com/
 https://twitter.com/GergelyOrosz/
 
-# Timeboxing and Habit Tracking
-
-https://www.nirandfar.com/timeboxing/
-https://www.nirandfar.com/habit-tracker/
-https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
-
-## Mastery! 
-
-Very Important!
-https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
-https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
-https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
-
-## Formal Annual Review
-
-Check Notes
-https://www.annualreview.life/ | The Ultimate Annual Review
-
-2022 Personal Annual Report
-https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
-https://fs.blog/annual-review/ | My Annual Report Framework
 
 ## Managing Projects
 
@@ -165,9 +260,33 @@ https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosyst
 https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
 
 
+## Programming Languages
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+
+https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
+
+
+## Database
+
+https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
+https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
+
+https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
+
+
 ## Postgres Architecture
 
 https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
+
+https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
+
+
+## SQL
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
 
 ## Architecture and Tools
 
@@ -186,19 +305,11 @@ https://github.com/donnemartin/system-design-primer
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
 
-## Database
-
-https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
-
-https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
 
 ## Patterns
 
 https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
-## CSS
-
-https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
 
 ## Python Learning Resources
 
@@ -238,48 +349,19 @@ https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.
 https://www.mattlayman.com/ | Matt Layman
 https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
 
+
 ## Interesting
+
+C Language
+https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
 
 Low Level C Programming
 https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
 
 https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-
-
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
 -->
 
 
-
-<!--
-## Skills
-
-https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/
-https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
-https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
-
-## Great at Self-Promotion
-
-## Adrienne
-
-https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
-https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
-
-## Kathleen
-
-https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
-
-https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
-https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
-https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
-https://github.com/kvignos | kvignos (Kathleen Vignos)
--->
 
 <!--
 ### Art
@@ -336,20 +418,11 @@ https://stylestage.dev/styles/css/aerojet-505.css
 https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
-
-## SQL
-
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
 -->
 
 
 <!--
-## C Language
-
-https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
-
-
 ## Release Manager/Maintainer
 
 https://github.com/asottile
@@ -444,35 +517,6 @@ https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | progr
 
 Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-<!--
-https://2023.djangocon.eu/
-https://us.pycon.org/2023/
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
-
-## Events
-
-https://www.python.org/events/
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-https://pyvideo.org/ | PyVideo.org
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 -->
 
 <!--
