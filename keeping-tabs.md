@@ -3,6 +3,29 @@
 # Learning Resources
 
 <!--
+### Art
+
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+
+
+## Pinax
+
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+-->
+
+<!--
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+-->
+
+
+<!--
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
@@ -35,13 +58,6 @@ https://www.youtube.com/ | (185) YouTube
 
 ## Conferences
 
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
 Mind the Product
 https://www.mindtheproduct.com/
 Dev conferences
@@ -50,9 +66,26 @@ https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web App
 -->
 
 <!--
-https://2023.djangocon.eu/
-https://us.pycon.org/2023/
+## Events
+
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
 https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+https://pyvideo.org/ | PyVideo.org
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
 
 DjangoCon US 2022
 https://2022.djangocon.us/schedule/
@@ -64,22 +97,12 @@ PyCon US 2022
 https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
 PyCascades
 https://www.youtube.com/c/PyCascades/playlists
-
-## Events
-
-https://www.python.org/events/
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-https://pyvideo.org/ | PyVideo.org
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 -->
 
 
 <!--
+https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
+
 ## Skills
 
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
@@ -88,6 +111,7 @@ https://jacobian.org/2020/mar/13/layoffs-are-coming/
 https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
 https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
 https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
 
 ## Great at Self-Promotion
 
@@ -214,13 +238,18 @@ https://twitter.com/swyx/
 https://twitter.com/levelsio/
 https://blog.samaltman.com/
 
+## Casey Newton
+
 https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
+https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
 
 ## Simon's Talk
 
 https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
 
 ## Julie
+
+https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
 
 https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
 https://jvns.ca/blog/good-questions/ | How to ask good questions
@@ -251,6 +280,7 @@ https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technica
 
 https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
 https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
+
 
 ## Growth Metrics
 
@@ -364,21 +394,6 @@ Low Level C Programming
 https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
 
 https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
--->
-
-
-
-<!--
-### Art
-
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
-
-
-## Pinax
-
-https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
-
-https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
 -->
 
 <!--
@@ -859,8 +874,6 @@ https://refactoring.guru/design-patterns/ | Design Patterns
 
 https://python-patterns.guide/
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 
 Java version?
@@ -1095,16 +1108,6 @@ https://dev.to/t/python
 
 https://www.digitalocean.com/community/tags/python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
--->
-
-
-<!--
-## Projects and Code
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
 -->
 
 
