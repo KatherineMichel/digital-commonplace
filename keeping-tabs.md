@@ -3,12 +3,6 @@
 # Learning Resources
 
 <!--
-https://www.kanopy.com/en/plano
-
-Pluto
-https://pluto.tv/en/on-demand/category/618c3cc54a27070007796ab4/58c34fd4250dc501634e608b/view-all?gclid=Cj0KCQjwsIejBhDOARIsANYqkD28yDOhMIwVCsCHPi6RX8z8VOk8whyskqf6bW3fS270rq3z88jtJg0aAhsxEALw_wcB
-
-
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
