@@ -101,6 +101,10 @@ https://www.youtube.com/c/PyCascades/playlists
 
 
 <!--
+Leadership versus Management 
+https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?
+
+Growth Mindset
 https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
 
 ## Skills
@@ -623,12 +627,6 @@ https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/168050
 
 
 https://www.algorist.com/ | The Algorithm Design Manual
-
-https://python-patterns.guide/ | Python Design Patterns
-
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 -->
 
 
