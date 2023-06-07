@@ -3,6 +3,12 @@
 # Learning Resources
 
 <!--
+https://github.com/KatherineMichel/portfolio/tree/master/
+
+AWS Global Certification Community
+https://aws-certification.influitive.com/forum/
+
+
 ### Art
 
 https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
