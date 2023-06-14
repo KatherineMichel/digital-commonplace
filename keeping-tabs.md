@@ -597,7 +597,7 @@ https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouT
 
 https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
 
-https://www.amazon.com/dp/0262045494/?asin=0262045494&revisionId=&format=4&depth=1 | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
 
 https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
