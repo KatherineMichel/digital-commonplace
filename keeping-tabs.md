@@ -351,51 +351,6 @@ https://sayazamurai.github.io/python-vs-javascript/
 https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
 http://coodict.github.io/python3-in-one-pic/
 https://github.com/coodict/javascript-in-one-pic
-
-
-## Nina
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4
-
-
-## Python Learning Resources
-
-https://www.python.org/ | Welcome to Python.org
-
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
-
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-
-https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
-https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
-
-Lerner
-https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
-https://store.lerner.co.il/ace-python-interviews | Ace Python Interviews
-
-https://cs50.harvard.edu/x/2022/ | CS50x 2022
-https://cs50.harvard.edu/web/2020/ | CS50's Web Programming with Python and JavaScript
-
-Harvard courses
-https://twitter.com/newsyc150/status/1553797731726008321 | Hacker News 150 on Twitter: "Harvard CS109A, fully open and free https://t.co/wW5u7cnPAw (https://t.co/seu0389a8l)" / Twitter
-https://harvard-iacs.github.io/2019-CS109A/pages/materials.html | CS109A - Materials
-
-https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
-
-https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-
-https://www.fullstackpython.com/
-
-* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
-
-## Django
-
-https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
-
-https://www.mattlayman.com/ | Matt Layman
-https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
 -->
 
 
@@ -598,7 +553,6 @@ Fear setting
 
 Marshall Goldsmith
 Habit Engineering
-Atomic Habits
 
 https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
 
@@ -1092,6 +1046,7 @@ Real Python
 * [Dan Bader Blog](https://dbader.org/blog) and [Dan Bader YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
+
 <!--
 Code with Anthony
 https://www.youtube.com/anthonywritescode
@@ -1128,6 +1083,7 @@ https://www.crowdcast.io/e/learning
 
 David Beazley
 * [Practical Programming](https://dabeaz-course.github.io/practical-python/) and [Practical Programming GitHub](https://github.com/dabeaz-course/practical-python)
+
 
 ## Python Learning Resources
 
@@ -1182,6 +1138,49 @@ https://twitter.com/PythonWeekly/status/1272982337660346371 | Python Weekly on T
 https://www.dabeaz.com/bits/back-to-a-user.html | Back to a User
 https://dabeaz-course.github.io/practical-python/Notes/00_Setup.html
 https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Numbers.html
+-->
+
+
+<!--
+## Nina
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4
+
+
+## Python Learning Resources
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
+
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+
+https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
+https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
+
+Lerner
+https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+https://store.lerner.co.il/ace-python-interviews | Ace Python Interviews
+
+https://cs50.harvard.edu/x/2022/ | CS50x 2022
+https://cs50.harvard.edu/web/2020/ | CS50's Web Programming with Python and JavaScript
+
+Harvard courses
+https://twitter.com/newsyc150/status/1553797731726008321 | Hacker News 150 on Twitter: "Harvard CS109A, fully open and free https://t.co/wW5u7cnPAw (https://t.co/seu0389a8l)" / Twitter
+https://harvard-iacs.github.io/2019-CS109A/pages/materials.html | CS109A - Materials
+
+https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
+
+https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
+
+## Django
+
+https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
+
+https://www.mattlayman.com/ | Matt Layman
+https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
 -->
 
 
