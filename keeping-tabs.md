@@ -578,6 +578,7 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - 
 ## SICP
 
 ## Python
+
 https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
 https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
 
@@ -785,9 +786,6 @@ APIs
 https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
 
 
-https://en.wikipedia.org/wiki/Cron
-https://en.wikipedia.org/wiki/Continuous_integration
-
 SRE, DevOps, CI/CD
 
 Jez Humble
@@ -953,89 +951,55 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide
 
 
 
-## Python and Django Official
+## Python Unofficial News and Projects
 
-Python
-* [What's New](https://docs.python.org/dev/whatsnew/)
-* [Python Insider](https://pythoninsider.blogspot.com/)
-* [Python Discuss](https://discuss.python.org)
-
-PEPs
-* [PEP Index](https://www.python.org/dev/peps)
-
-Django Blog and Announcements
-* [Django Blog](https://www.djangoproject.com/weblog/)
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-
+Django News
+* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
 
 <!--
-* [Pythonic News](https://news.python.sc/)
+https://bas.codes/ | Bas codes
 
-https://twitter.com/djangoproject/
-
-https://github.com/python/cpython
-https://github.com/django/django
-
-https://speed.python.org/ | Python Speed Center
+https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
+https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
 -->
 
+## Django Unofficial News and Projects
 
-## Release
+GitHub Trending Python
+* [GitHub Trending Python](https://github.com/trending/python)
+* [GitHub Topic Python](https://github.com/topics/python)
+
+## Python Official News
+
+Python News
+* [What's New](https://docs.python.org/dev/whatsnew/)
+* [Python Insider](https://pythoninsider.blogspot.com/)
+
+Python Discuss and PEPs
+* [Python Discuss](https://discuss.python.org)
+* [PEP Index](https://www.python.org/dev/peps)
+
+<!--
+https://speed.python.org/ | Python Speed Center
+
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+-->
+
 
 <!--
 https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 documentation
-https://docs.djangoproject.com/en/3.2/releases/ | Release notes | Django documentation | Django
+https://docs.python.org/3.7/whatsnew/changelog.html#changelog
 
-https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
-https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
--->
-
-## Django Official Roadmap
-
-New Releases
-* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
-
-Roadmaps
-* [Django Roadmaps](https://code.djangoproject.com/wiki)
-
-Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
-
-DEPs (Django Enhancement Proposals)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-
-<!--
-https://www.djangoproject.com/community/ | Django Community | Django
--->
-
-## Python Official
-
-<!--
 * [What's New Python 3](https://docs.python.org/3/whatsnew/)
 
-PSF Minutes
-https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
-
 https://www.python.org/downloads/release/python-390a5/
-
-https://docs.python.org/3.7/whatsnew/changelog.html#changelog
 
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
 
-## Feature Roundups
-
-Roundup
-https://realpython.com/python38-new-features/
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
-
-Encode
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-https://twitter.com/_tomchristie/status/1256210735056785409
+* [Pythonic News](https://news.python.sc/)
 -->
+
 
 ## Python Roadmap
 
@@ -1049,28 +1013,74 @@ Release Schedules
 * [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
 
 <!--
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
-
 https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
 
 https://python-release-cycle.glitch.me/ | Python Release Cycle
+-->
 
+## Django Official News
+
+Django Blog and Announcements
+* [Django Blog](https://www.djangoproject.com/weblog/)
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+Django New Releases and Notes
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+## Django Official Roadmap and Versions
+
+Roadmaps
+* [Django Roadmaps](https://code.djangoproject.com/wiki)
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+
+<!--
 https://django-release-cycle.glitch.me/
 https://jefftriplett.com/django-release-cycle/
 https://twitter.com/webology/status/1235628234148110336
 -->
 
-
-## Python and Django News and Projects
-
-Django News
-* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
-
-GitHub Trending Python
-* [GitHub Trending Python](https://github.com/trending/python)
-* [GitHub Topic Python](https://github.com/topics/python)
+## Python Unofficial Feature Roundups
 
 <!--
+Roundup
+https://realpython.com/python38-new-features/
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+-->
+
+## Django Unofficial Feature Roundups
+
+<!--
+DRF, Wagtail
+
+Encode
+http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
+https://twitter.com/_tomchristie/status/1256210735056785409
+-->
+
+
+## Python Official
+
+<!--
+PSF Minutes
+https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
+
+https://planetpython.org/ | Planet Python
+
+https://www.djangoproject.com/community/ | Django Community | Django
+
+https://twitter.com/djangoproject/
+
+https://github.com/python/cpython
+https://github.com/django/django
+
 http://djangopeople.net/us/
 
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
@@ -1078,14 +1088,6 @@ https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites
 
 Django Snippets
 https://djangosnippets.org/
-
-https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
-https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
-
-https://planetpython.org/ | Planet Python
-
-https://bas.codes/ | Bas codes
-https://bas.codes/posts/this-week-python-052 | This Week in Python (February 24, 2023) - Bas codes
 -->
 
 
@@ -1114,7 +1116,6 @@ https://dev.to/t/python
 https://www.digitalocean.com/community/tags/python
 https://www.digitalocean.com/community/tutorial_series/how-to-code-in-python-3
 -->
-
 
 ## Python Questions
 
@@ -1230,30 +1231,10 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 -->
 
 
-<!--
-## Type Hinting
 
-MyPy Cheat Sheet
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
+## Databases
 
-http://mypy-lang.org/ | mypy - Optional Static Typing for Python
-https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
-https://mypy.readthedocs.io/en/stable/kinds_of_types.html | Kinds of types — Mypy 0.931 documentation
-https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.930 documentation
-
-Python 3 supports an annotation syntax for function declarations.
-https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
--->
-
-<!--
-## Profiling
-
-https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
--->
+* [Postgres](https://www.postgresql.org/)
 
 <!--
 ## Databases
@@ -1284,51 +1265,13 @@ https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
 https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
 -->
 
-
-## Stack
-
-Diagrams and Mockups
-* [Miro](https://miro.com/)
-* [Figma](https://www.figma.com/)
-* [Mermaid](https://mermaid-js.github.io/mermaid/)
-
-<!--
-https://github.blog/2022-05-19-math-support-in-markdown/
-
-(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
-https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
--->
-
-Domain Modelling
-* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-
-Project Management
-* Google Docs
-* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
-* [Asana](https://asana.com/)
-* [Basecamp](https://basecamp.com/)
-
-Continuous Integration
-* [GitHub](https://github.com/)
-* [CircleCI](https://circleci.com/)
-
-<!--
-https://pre-commit.com/ | pre-commit
--->
-
-Platform
-* [AWS](https://aws.amazon.com/)
-* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
-* [Terraform](https://www.terraform.io/)
-* [Packer](https://www.packer.io/)
-* [Consul](https://www.consul.io/)
+## Python and Django
 
 Python, Django
 * [Python](https://www.python.org/)
 * [Django](https://www.djangoproject.com/)
 
-Scala
-* [Scala](https://www.scala-lang.org/)
+## Python and Django Profiling
 
 Debugging and Profiling
 * [Django Shell Plus](https://django-extensions.readthedocs.io/en/latest/shell_plus.html)
@@ -1361,6 +1304,20 @@ Settings
 Headers
 -->
 
+## Performance
+
+<!--
+## Profiling
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
+
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+-->
+
+## Python and Django Testing
+
 Testing
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 * [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
@@ -1371,165 +1328,86 @@ https://pytest-django.readthedocs.io/en/latest/database.html | Database creation
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 -->
 
-Logging
-* [Sentry](https://sentry.io/welcome/)
-* [Loggly](https://www.loggly.com/)
-* [Datadog](https://www.datadoghq.com/)
+## Quality Tools
 
 <!--
-https://sentry.io/welcome/
-https://develop.sentry.dev/testing/ | Testing Tips | Sentry Developer Documentation
-https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
+https://pre-commit.com/ | pre-commit
+
+## Type Hinting
+
+MyPy Cheat Sheet
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html | Type hints cheat sheet (Python 3) - mypy 0.971 documentation
+
+http://mypy-lang.org/ | mypy - Optional Static Typing for Python
+https://mypy.readthedocs.io/en/stable/ | Welcome to mypy documentation! — Mypy 0.910 documentation
+https://mypy.readthedocs.io/en/stable/kinds_of_types.html | Kinds of types — Mypy 0.931 documentation
+https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.930 documentation
+
+Python 3 supports an annotation syntax for function declarations.
+https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 -->
 
-Database
-* [Postgres](https://www.postgresql.org/)
+## Continuous Integration
 
-Database Tools
-* [Postico](https://eggerapps.at/postico/)
-* [TablePlus](https://setapp.com/apps/tableplus)
-
-Miscellaneous Tools
-* [Setapp](https://setapp.com/)
-* [Dash](https://kapeli.com/dash)
-
-API
-* [GraphQL](http://graphql.org/)
-* [Django REST Framework](https://www.django-rest-framework.org/)
-
-Frontend and Mobile
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [React Native](https://reactnative.dev/)
-* [SASS](https://sass-lang.com/)
-
-Analysis and Forecasting
-* [Databricks](https://databricks.com/)
-* [Pandas](https://pandas.pydata.org/)
-* [NumPy](https://numpy.org/)
-* [Jupyter](https://jupyter.org/)
-
-Background Processing
-* [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Celery](https://docs.celeryproject.org/)
-* [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
-* [Apache Airflow](https://airflow.apache.org/)
-* [CloudWatch](https://aws.amazon.com/cloudwatch/)
+* [CircleCI](https://circleci.com/)
 
 <!--
-* HTTP and REST APIs
-* Celery and async processing
-* https://docs.python.org/3/library/asyncio.html
+https://en.wikipedia.org/wiki/Continuous_integration
 -->
 
+## Git
+
+* [GitHub](https://github.com/)
 
 <!--
-Octopus
-Lint All the Things
-https://ep2022.europython.eu/session/lint-all-the-things
-EuroPython
-https://www.youtube.com/c/EuroPythonConference/videos
-Frederike Jaeger
-https://pyvideo.org/speaker/frederike-jaeger.html
-Spreading Our Tentacles, Taking a Django App Global
-https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs | Git - Reference
+
+Pro Git book
+https://git-scm.com/book/en/v2
+
+https://git-scm.com/docs/git#_git_commands | Git - git Documentation
+https://git-scm.com/docs/git-commit | Git - git-commit Documentation
+https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt | Git - git-commit Documentation
+
+https://git-scm.com/docs/git-rebase
+https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---autosquash | Git - git-rebase Documentation
+
+https://git-scm.com/docs/git-log
+https://git-scm.com/docs/git-log#Documentation/git-log.txt---oneline
+
+https://git-scm.com/docs/git-show
+https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
+https://git-scm.com/docs/git-diff
+https://git-scm.com/docs/git-blame
+
+https://git-scm.com/docs/git#_reset_restore_and_revert
+
+https://git-scm.com/docs/git-prune
+
+https://git-scm.com/docs/git-grep
+
+https://git-scm.com/docs/git-bisect
+
+https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
+
+reflog
+https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
+https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
+
+Resources
+https://training.github.com/downloads/github-git-cheat-sheet.pdf
+https://ndpsoftware.com/git-cheatsheet.html#loc=index;
+https://git-scm.com/doc/ext
 -->
 
-
-## Trending and Top of All Time
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## Git News
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
+## Command Line
 
 <!--
-https://github.com/trending/developers | Trending developers on GitHub today
-
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+https://en.wikipedia.org/wiki/Cron
 -->
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
 
 <!--
 ## Bash versus Python
@@ -1546,8 +1424,6 @@ https://support.apple.com/en-us/HT201236
 
 
 https://www.iterm2.com/
-https://kapeli.com/dash_guide
-
 
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
@@ -1571,6 +1447,7 @@ https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
 -->
 
+## IDE
 
 <!--
 ## PyCharm and VS Code
@@ -1680,51 +1557,221 @@ https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate 
 https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
 -->
 
+## Project Management
+
+* Google Docs
+* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
+* [Asana](https://asana.com/)
+* [Basecamp](https://basecamp.com/)
+
+
+## Cloud
+
+* [AWS](https://aws.amazon.com/)
+
+
+## Stack
+
+Domain Modelling
+* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+
+Platform
+* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
+* [Terraform](https://www.terraform.io/)
+* [Packer](https://www.packer.io/)
+* [Consul](https://www.consul.io/)
+
+Background Processing
+* [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Celery](https://docs.celeryproject.org/)
+* [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
+* [Apache Airflow](https://airflow.apache.org/)
+* [CloudWatch](https://aws.amazon.com/cloudwatch/)
+
 <!--
-## Git
-
-https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
-
-https://git-scm.com/ | Git
-https://git-scm.com/docs | Git - Reference
-
-Pro Git book
-https://git-scm.com/book/en/v2
-
-https://git-scm.com/docs/git#_git_commands | Git - git Documentation
-https://git-scm.com/docs/git-commit | Git - git-commit Documentation
-https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---fixupamendrewordltcommitgt | Git - git-commit Documentation
-
-https://git-scm.com/docs/git-rebase
-https://git-scm.com/docs/git-rebase#Documentation/git-rebase.txt---autosquash | Git - git-rebase Documentation
-
-https://git-scm.com/docs/git-log
-https://git-scm.com/docs/git-log#Documentation/git-log.txt---oneline
-
-https://git-scm.com/docs/git-show
-https://git-scm.com/docs/git-whatchanged | Git - git-whatchanged Documentation
-https://git-scm.com/docs/git-diff
-https://git-scm.com/docs/git-blame
-
-https://git-scm.com/docs/git#_reset_restore_and_revert
-
-https://git-scm.com/docs/git-prune
-
-https://git-scm.com/docs/git-grep
-
-https://git-scm.com/docs/git-bisect
-
-https://git-scm.com/docs/git-reflog | Git - git-reflog Documentation
-
-reflog
-https://www.youtube.com/watch?v=R8R9_eT2law | (1) fixing a git mistake with reflog (intermediate) anthony explains #046 - YouTube
-https://twitter.com/codewithanthony/status/1502123080822444035 | Anthony Sottile on Twitter: "@KatiMichel hope you've got `reflog` too to save you from a botched one of those" / Twitter
-
-Resources
-https://training.github.com/downloads/github-git-cheat-sheet.pdf
-https://ndpsoftware.com/git-cheatsheet.html#loc=index;
-https://git-scm.com/doc/ext
+* HTTP and REST APIs
+* Celery and async processing
+* https://docs.python.org/3/library/asyncio.html
 -->
+
+
+## Diagrams and Mockups
+
+* [Miro](https://miro.com/)
+* [Figma](https://www.figma.com/)
+* [Mermaid](https://mermaid-js.github.io/mermaid/)
+
+<!--
+https://github.blog/2022-05-19-math-support-in-markdown/
+
+(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
+https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
+-->
+
+## API
+
+* [GraphQL](http://graphql.org/)
+* [Django REST Framework](https://www.django-rest-framework.org/)
+  
+## Frontend and Mobile
+
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [React Native](https://reactnative.dev/)
+* [SASS](https://sass-lang.com/)
+
+## Data Analysis
+
+Analysis and Forecasting
+* [Databricks](https://databricks.com/)
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Jupyter](https://jupyter.org/)
+
+## Logging
+
+* [Sentry](https://sentry.io/welcome/)
+* [Loggly](https://www.loggly.com/)
+* [Datadog](https://www.datadoghq.com/)
+
+<!--
+https://sentry.io/welcome/
+https://develop.sentry.dev/testing/ | Testing Tips | Sentry Developer Documentation
+https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
+-->
+
+## Utilities
+
+Database Tools
+* [Postico](https://eggerapps.at/postico/)
+* [TablePlus](https://setapp.com/apps/tableplus)
+
+Miscellaneous Tools
+* [Setapp](https://setapp.com/)
+* [Dash](https://kapeli.com/dash)
+
+<!--
+https://kapeli.com/dash_guide
+-->
+
+## Other Languages/Frameworks and Releases
+
+Scala
+* [Scala](https://www.scala-lang.org/)
+
+<!--
+https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
+https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
+-->
+
+
+<!--
+Octopus
+Lint All the Things
+https://ep2022.europython.eu/session/lint-all-the-things
+EuroPython
+https://www.youtube.com/c/EuroPythonConference/videos
+Frederike Jaeger
+https://pyvideo.org/speaker/frederike-jaeger.html
+Spreading Our Tentacles, Taking a Django App Global
+https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
+-->
+
+
+## Trending and Top of All Time
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news) and [Hacker News Newest](https://news.ycombinator.com/newest)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## Git News
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com) 
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+https://github.com/trending/developers | Trending developers on GitHub today
+
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
 
 ### Lawrence
 
