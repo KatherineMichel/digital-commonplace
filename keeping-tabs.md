@@ -168,33 +168,6 @@ https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Int
 https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
 
 
-Python Developer LinkedIn Group
-https://www.linkedin.com/groups/6986570/
-
-https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
-https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
-https://www.bitecode.dev/archive | Archive - Bite code!
-
-
-https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
-
-7 Leetcode articles I wish I’d read sooner.
-This would have saved me from solving 1500+ problems:
-Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
-Substring Problem Patterns: https://lnkd.in/gdGtE72g
-Backtracking Problem Patterns: https://lnkd.in/gVkQX5vA
-Two Pointers Patterns: https://lnkd.in/gBfWgHYe
-Binary Search Patterns: https://lnkd.in/gKEm_qUK
-Sliding Window Patterns: https://lnkd.in/gjatQ5pK
-Graph Patterns: https://lnkd.in/gKE6w7Jb
-
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
-
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
-
 https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
 1️⃣ "Python Crash Course" by Eric Matthes
 2️⃣ "Fluent Python" by Luciano Ramalho
@@ -208,7 +181,6 @@ https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuo
 🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
 
 
-
 ## Women in Architecture
 
 https://thewomeninarchitecture.org/ | Women In Architecture
@@ -217,42 +189,6 @@ https://thewomeninarchitecture.org/ | Women In Architecture
 
 https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
 
-
-## Interesting Ideas
-
-https://www.infoq.com/
-
-Product
-https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
-https://twitter.com/johncutlefish/
-
-Cal Paterson
-https://calpaterson.com
-
-https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
-https://www.nirandfar.com
-https://fs.blog/
-https://waitbutwhy.com/
-https://twitter.com/waitbutwhy/
-https://jamesclear.com/
-https://calnewport.com/
-http://www.stevemagness.com/
-https://taylorpearson.me/free/
-
-Tiny Habits
-Atomic Habits
-
-https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
-
-https://twitter.com/natfriedman/
-https://twitter.com/swyx/
-https://twitter.com/levelsio/
-https://blog.samaltman.com/
-
-## Casey Newton
-
-https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
-https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
 
 ## Simon's Talk
 
@@ -268,13 +204,6 @@ https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some way
 
 Julie debugging zine
 https://twitter.com/BajoranEngineer/status/1604956282695593984
-
-## Pragmatic Engineer
-
-Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
-https://blog.pragmaticengineer.com/
-https://twitter.com/GergelyOrosz/
 
 
 ## Carlota Perez
@@ -312,6 +241,16 @@ https://www.mcmillen.dev/language_checklist.html | Programming Language Checklis
 
 https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
 
+## Interesting
+
+C Language
+https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
+
+Low Level C Programming
+https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
+
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
 
 ## Database
 
@@ -345,6 +284,14 @@ https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture o
 https://architecturenotes.co/
 https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 
+## Pragmatic Engineer
+
+Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://blog.pragmaticengineer.com/
+https://twitter.com/GergelyOrosz/
+
+
 ## System Design
 
 https://github.com/donnemartin/system-design-primer
@@ -355,6 +302,59 @@ http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelop
 ## Patterns
 
 https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+
+
+
+## Release Manager/Maintainer
+
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
+## Django
+
+Adam Johnson
+
+
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+
+
+## Single File
+
+Carlton- single file
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+## PyScript
+
+https://pyscript.net/
+
+
+## Python and JavaScript
+
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+http://coodict.github.io/python3-in-one-pic/
+https://github.com/coodict/javascript-in-one-pic
+
+
+## Nina
+
+https://twitter.com/nnja/status/1217933709577342976
+https://www.youtube.com/watch?v=ZsT7nSRQ8S4
 
 
 ## Python Learning Resources
@@ -394,18 +394,8 @@ https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.
 
 https://www.mattlayman.com/ | Matt Layman
 https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
-
-
-## Interesting
-
-C Language
-https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
-
-Low Level C Programming
-https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
-
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
 -->
+
 
 <!--
 ## HTML
@@ -436,9 +426,6 @@ https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d
 
 ## CSS/HTML/JavaScript
 
-https://reactjs.org/ | React – A JavaScript library for building user interfaces
-https://sass-lang.com/ | Sass: Syntactically Awesome Style Sheets
-
 https://stylestage.dev/styles/
 http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
 
@@ -454,67 +441,6 @@ https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cas
 
 
 <!--
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
-
-## Tools Matrix
-
-https://twitter.com/nletcher/status/1487782511543746565
-
-## PEPs
-
-https://github.com/vinayak-mehta/python-peps-graph
-
-
-## Nina
-
-https://twitter.com/nnja/status/1217933709577342976
-https://www.youtube.com/watch?v=ZsT7nSRQ8S4
-
-
-## Deployment
-
-https://ehmatthes.com/blog/simplified_heroku/
-
-
-## Single File
-
-Carlton- single file
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-## Django
-
-Adam Johnson
-
-
-## PyScript
-
-https://pyscript.net/
-
-
-## Python and JavaScript
-
-https://sayazamurai.github.io/python-vs-javascript/
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
-http://coodict.github.io/python3-in-one-pic/
-https://github.com/coodict/javascript-in-one-pic
-
-
 ## Tools
 
 https://blog.acolyer.org/2020/09/21/watchman/
@@ -604,39 +530,6 @@ https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design 
 https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
 https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
 -->
-
-<!--
-## Problem Solving Platforms
-
-Practice
-* [LeetCode](https://leetcode.com)
-* [Geeks for Geeks](https://www.geeksforgeeks.org)
-* [HackerRank](https://www.hackerrank.com)
-
-Advent
-* [Advent of Code](https://adventofcode.com/)
-
-## Algorithm
-
-https://neetcode.io/ | NeetCode.io
-https://neetcode.io/practice | Practice
-https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
-https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
-
-
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
-https://theprimeagen.github.io/fem-algos/ | The Last Algorithms Course You'll Need
-https://github.com/ThePrimeagen/kata-machine | ThePrimeagen/kata-machine
-
-https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ | Introduction to Algorithms, fourth edition: 9780262046305: Computer Science Books @ Amazon.com
-
-https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-16&linkCode=sl1&tag=theprimeagen-20&linkId=2000de29907b98b5ac7a98aa6b52c1d9&language=en_US&ref_=as_li_ss_tl | A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills: Wengrow, Jay: 9781680507225: Amazon.com: Books
-
-
-https://www.algorist.com/ | The Algorithm Design Manual
--->
-
-
 
 
 <!--
@@ -738,19 +631,18 @@ Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
-## Leadership and Product
-
-* [Open Product Management](https://github.com/ProductHired/open-product-management)
-
-https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
-
-
 ## Project Management and Roadmaps
 
 http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 
 https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
 
+
+## Leadership and Product
+
+* [Open Product Management](https://github.com/ProductHired/open-product-management)
+
+https://www.sachinrekhi.com/top-resources-for-product-managers | Top 100 Resources for Product Managers | Sachin Rekhi
 
 https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
 * Think big
@@ -779,7 +671,6 @@ https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
 
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
-
 
 
 APIs
@@ -820,7 +711,6 @@ High Scalability
 http://highscalability.com/blog/category/example
 
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
 
 
 Authorities
@@ -950,6 +840,48 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide
 -->
 
 
+<!--
+## Interesting Ideas
+
+https://www.infoq.com/
+
+Product
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
+https://twitter.com/johncutlefish/
+
+## Engineering
+
+Cal Paterson
+https://calpaterson.com
+
+## General
+
+https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+https://fs.blog/
+https://waitbutwhy.com/
+https://twitter.com/waitbutwhy/
+
+https://www.nirandfar.com
+https://calnewport.com/
+Tiny Habits
+Atomic Habits
+https://jamesclear.com/
+http://www.stevemagness.com/
+https://taylorpearson.me/free/
+
+https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
+
+https://twitter.com/natfriedman/
+https://twitter.com/swyx/
+https://twitter.com/levelsio/
+https://blog.samaltman.com/
+
+## Casey Newton
+
+https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
+https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
+-->
+
 
 ## Python Unofficial News and Projects
 
@@ -957,10 +889,17 @@ Django News
 * [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
 
 <!--
+Python Developer LinkedIn Group
+https://www.linkedin.com/groups/6986570/
+
 https://bas.codes/ | Bas codes
 
 https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
 https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+
+https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
+https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+https://www.bitecode.dev/archive | Archive - Bite code!
 -->
 
 ## Django Unofficial News and Projects
@@ -982,6 +921,8 @@ Python Discuss and PEPs
 <!--
 https://speed.python.org/ | Python Speed Center
 
+https://github.com/vinayak-mehta/python-peps-graph
+
 http://python-peps-graph.glitch.me/ | Python PEPs Graph
 -->
 
@@ -991,8 +932,6 @@ https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 d
 https://docs.python.org/3.7/whatsnew/changelog.html#changelog
 
 * [What's New Python 3](https://docs.python.org/3/whatsnew/)
-
-https://www.python.org/downloads/release/python-390a5/
 
 https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
 https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
@@ -1231,45 +1170,69 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 -->
 
 
-
-## Databases
-
-* [Postgres](https://www.postgresql.org/)
+## Algorithms
 
 <!--
-## Databases
+https://www.algorist.com/ | The Algorithm Design Manual
 
-http://www.w3schools.com/sql/default.asp
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
+https://theprimeagen.github.io/fem-algos/ | The Last Algorithms Course You'll Need
+https://github.com/ThePrimeagen/kata-machine | ThePrimeagen/kata-machine
 
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-https://www.sqlite.org/docs.html
+https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X/ | Introduction to Algorithms, fourth edition: 9780262046305: Computer Science Books @ Amazon.com
 
-https://www.postgresql.org/docs/current/sql.html
-https://www.postgresql.org/docs/current/app-psql.html
+https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-16&linkCode=sl1&tag=theprimeagen-20&linkId=2000de29907b98b5ac7a98aa6b52c1d9&language=en_US&ref_=as_li_ss_tl | A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills: Wengrow, Jay: 9781680507225: Amazon.com: Books
 
-PostgreSQL database adapter for Python
-https://www.psycopg.org/docs/ | Psycopg – PostgreSQL database adapter for Python — Psycopg 2.9.3 documentation
-
-https://www.sqlite.org/changes.html | Release History Of SQLite
-https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
-https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
-
-## Database GIS
-
-https://postgis.net/
-https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
-
-## Modelling
-
-https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
 -->
 
-## Python and Django
 
-Python, Django
-* [Python](https://www.python.org/)
-* [Django](https://www.djangoproject.com/)
+<!--
+## Problem Solving Platforms
+
+Practice
+* [LeetCode](https://leetcode.com)
+* [Geeks for Geeks](https://www.geeksforgeeks.org)
+* [HackerRank](https://www.hackerrank.com)
+
+Advent
+* [Advent of Code](https://adventofcode.com/)
+
+## Algorithm
+
+https://neetcode.io/ | NeetCode.io
+https://neetcode.io/practice | Practice
+https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
+https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
+
+
+https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
+
+7 Leetcode articles I wish I’d read sooner.
+This would have saved me from solving 1500+ problems:
+Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
+Substring Problem Patterns: https://lnkd.in/gdGtE72g
+Backtracking Problem Patterns: https://lnkd.in/gVkQX5vA
+Two Pointers Patterns: https://lnkd.in/gBfWgHYe
+Binary Search Patterns: https://lnkd.in/gKEm_qUK
+Sliding Window Patterns: https://lnkd.in/gjatQ5pK
+Graph Patterns: https://lnkd.in/gKE6w7Jb
+
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+-->
+
+## Performance
+
+<!--
+## Profiling
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
+
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+-->
 
 ## Python and Django Profiling
 
@@ -1304,17 +1267,12 @@ Settings
 Headers
 -->
 
-## Performance
 
-<!--
-## Profiling
+## Python and Django
 
-https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
--->
+Python, Django
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
 
 ## Python and Django Testing
 
@@ -1331,6 +1289,11 @@ https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 ## Quality Tools
 
 <!--
+## Tools Matrix
+
+https://twitter.com/nletcher/status/1487782511543746565
+
+
 https://pre-commit.com/ | pre-commit
 
 ## Type Hinting
@@ -1345,6 +1308,47 @@ https://mypy.readthedocs.io/en/stable/more_types.html | More types — Mypy 0.93
 
 Python 3 supports an annotation syntax for function declarations.
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
+-->
+
+## Databases
+
+* [Postgres](https://www.postgresql.org/)
+
+<!--
+## Databases
+
+http://www.w3schools.com/sql/default.asp
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+https://www.sqlite.org/docs.html
+
+https://www.postgresql.org/docs/current/sql.html
+https://www.postgresql.org/docs/current/app-psql.html
+
+PostgreSQL database adapter for Python
+https://www.psycopg.org/docs/ | Psycopg – PostgreSQL database adapter for Python — Psycopg 2.9.3 documentation
+
+Release
+https://www.sqlite.org/changes.html | Release History Of SQLite
+https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
+https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
+
+## Database GIS
+
+https://postgis.net/
+https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
+
+## Modelling
+
+https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
+-->
+
+## Domain Modelling
+
+<!--
+Domain Modelling
+* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 -->
 
 ## Continuous Integration
@@ -1402,6 +1406,7 @@ https://training.github.com/downloads/github-git-cheat-sheet.pdf
 https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 https://git-scm.com/doc/ext
 -->
+
 
 ## Command Line
 
@@ -1571,9 +1576,6 @@ https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element 
 
 
 ## Stack
-
-Domain Modelling
-* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 
 Platform
 * [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
