@@ -212,17 +212,6 @@ https://twitter.com/BajoranEngineer/status/1604956282695593984
 https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
 
 
-## Managing Projects
-
-The Definition of Priority Codes (P0, P1, P2, P3, P4)
-https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technical-victor-pudeyev/
-
-## Leverage Points
-
-https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
-
-
 ## Growth Metrics
 
 https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
@@ -587,13 +576,6 @@ Andy Grove's 100 point guide to being a better manager
 http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 
 
-## Project Management and Roadmaps
-
-http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-
-https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
-
-
 ## Leadership and Product
 
 * [Open Product Management](https://github.com/ProductHired/open-product-management)
@@ -609,6 +591,24 @@ https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product
 * Execute
 * Understand good design
 * Write effective copy
+
+
+## Project Management and Roadmaps
+
+http://www.scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
+
+https://agilemanifesto.org/principles.html | Principles behind the Agile Manifesto
+
+
+## Managing Projects
+
+The Definition of Priority Codes (P0, P1, P2, P3, P4)
+https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technical-victor-pudeyev/
+
+## Leverage Points
+
+https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
 
 
 Joel Spolsky
@@ -810,12 +810,7 @@ https://twitter.com/johncutlefish/
 Cal Paterson
 https://calpaterson.com
 
-## General
-
-https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
-https://fs.blog/
-https://waitbutwhy.com/
-https://twitter.com/waitbutwhy/
+## Books
 
 Hooked, Indistractible
 https://www.nirandfar.com
@@ -833,8 +828,17 @@ Steve Magness
 Do Hard Things
 http://www.stevemagness.com/
 
+
+## General
+
+https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+https://fs.blog/
+https://waitbutwhy.com/
+https://twitter.com/waitbutwhy/
+
 Sahil Bloom
 https://taylorpearson.me/free/
+
 
 https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
@@ -883,6 +887,7 @@ GitHub Trending Python
 
 Python News
 * [What's New](https://docs.python.org/dev/whatsnew/)
+* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
 * [Python Insider](https://pythoninsider.blogspot.com/)
 
 Python Discuss and PEPs
@@ -899,14 +904,6 @@ http://python-peps-graph.glitch.me/ | Python PEPs Graph
 
 
 <!--
-https://docs.python.org/3/whatsnew/changelog.html | Changelog — Python 3.9.7 documentation
-https://docs.python.org/3.7/whatsnew/changelog.html#changelog
-
-* [What's New Python 3](https://docs.python.org/3/whatsnew/)
-
-https://www.djangoproject.com/weblog/2021/apr/06/django-32-released/ | Django 3.2 released | Weblog | Django
-https://docs.djangoproject.com/en/3.2/releases/3.2/#what-s-new-in-django-3-2 | Django 3.2 release notes | Django documentation | Django
-
 * [Pythonic News](https://news.python.sc/)
 -->
 
@@ -1095,6 +1092,12 @@ https://egghead.io/ | Build the portfolio you need to be a badass web developer.
 O'Reilly Media
 
 
+## Django
+
+https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
+
+https://www.mattlayman.com/ | Matt Layman
+https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
 https://www.mattlayman.com/understand-django/templates-user-interfaces/
 
 
@@ -1144,6 +1147,10 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 
 
 <!--
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
+
+
 ## Nina
 
 https://twitter.com/nnja/status/1217933709577342976
@@ -1152,17 +1159,12 @@ https://www.youtube.com/watch?v=ZsT7nSRQ8S4
 
 ## Python Learning Resources
 
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
-
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-
-https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
-https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
+* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
 Lerner
 https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
 https://store.lerner.co.il/ace-python-interviews | Ace Python Interviews
+
 
 https://cs50.harvard.edu/x/2022/ | CS50x 2022
 https://cs50.harvard.edu/web/2020/ | CS50's Web Programming with Python and JavaScript
@@ -1173,16 +1175,14 @@ https://harvard-iacs.github.io/2019-CS109A/pages/materials.html | CS109A - Mater
 
 https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
 
+
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
-* [Luciano Ramalho: Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008), [Fluent Python GitHub](https://github.com/fluentpython), and [Fluent Python Example Code GitHub](https://github.com/fluentpython/example-code)
 
-## Django
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
-https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
-
-https://www.mattlayman.com/ | Matt Layman
-https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
+https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
+https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
 -->
 
 
@@ -1294,7 +1294,7 @@ Python, Django
 
 Testing
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-* [pytest-django PyPi](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
+* [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
 <!--
 pytest-django (plugin)
@@ -1578,13 +1578,6 @@ https://developer.chrome.com/docs/devtools/accessibility/navigation/ | Navigate 
 https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element focus - Chrome Developers
 -->
 
-## Project Management
-
-* Google Docs
-* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
-* [Asana](https://asana.com/)
-* [Basecamp](https://basecamp.com/)
-
 
 ## Cloud
 
@@ -1593,20 +1586,13 @@ https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element 
 
 ## Automation
 
+* [Kubernetes](https://kubernetes.io/)
 * [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
 * [Terraform](https://www.terraform.io/)
-
-<!--
-https://kubernetes.io/
--->
 
 
 ## Stack
  
-Platform
-* [Packer](https://www.packer.io/)
-* [Consul](https://www.consul.io/)
-
 Background Processing
 * [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
 * [RabbitMQ](https://www.rabbitmq.com/)
@@ -1622,23 +1608,10 @@ Background Processing
 -->
 
 
-## Diagrams and Mockups
-
-* [Miro](https://miro.com/)
-* [Figma](https://www.figma.com/)
-* [Mermaid](https://mermaid-js.github.io/mermaid/)
-
-<!--
-https://github.blog/2022-05-19-math-support-in-markdown/
-
-(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
-https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
--->
-
 ## API
 
-* [GraphQL](http://graphql.org/)
 * [Django REST Framework](https://www.django-rest-framework.org/)
+* [GraphQL](http://graphql.org/)
   
 ## Frontend and Mobile
 
@@ -1662,7 +1635,6 @@ Analysis and Forecasting
 * [Datadog](https://www.datadoghq.com/)
 
 <!--
-https://sentry.io/welcome/
 https://develop.sentry.dev/testing/ | Testing Tips | Sentry Developer Documentation
 https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
 -->
@@ -1681,6 +1653,10 @@ Miscellaneous Tools
 https://kapeli.com/dash_guide
 -->
 
+Moar Automation
+* [Packer](https://www.packer.io/)
+* [Consul](https://www.consul.io/)
+  
 ## Other Languages/Frameworks and Releases
 
 Scala
@@ -1690,6 +1666,27 @@ Scala
 https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
 https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
 -->
+
+## Diagrams and Mockups
+
+* [Miro](https://miro.com/)
+* [Figma](https://www.figma.com/)
+* [Mermaid](https://mermaid-js.github.io/mermaid/)
+
+<!--
+https://github.blog/2022-05-19-math-support-in-markdown/
+
+(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
+https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
+-->
+
+## Project Management
+
+* Google Docs
+* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
+* [Asana](https://asana.com/)
+* [Basecamp](https://basecamp.com/)
+
 
 
 <!--
