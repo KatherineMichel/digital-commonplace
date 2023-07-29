@@ -688,6 +688,8 @@ Types of Patterns
 * [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
 * [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
 
+
+
 Programming Paradigms
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
