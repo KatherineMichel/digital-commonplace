@@ -110,6 +110,7 @@ https://www.youtube.com/c/PyCascades/playlists
 Leadership versus Management 
 https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?
 
+
 Growth Mindset
 https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
 
@@ -316,6 +317,7 @@ https://github.com/getsentry/
 https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
 
 https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
 
 ## Django
 
@@ -843,8 +845,6 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide
 <!--
 ## Interesting Ideas
 
-https://www.infoq.com/
-
 Product
 https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
 https://twitter.com/johncutlefish/
@@ -861,20 +861,34 @@ https://fs.blog/
 https://waitbutwhy.com/
 https://twitter.com/waitbutwhy/
 
+Hooked, Indistractible
 https://www.nirandfar.com
+
+Deep Work
 https://calnewport.com/
-Tiny Habits
+
+Tiny Habits (BJ Fogg)
+https://www.amazon.com/Tiny-Habits-Changes-Change-Everything/dp/0358003326
+
 Atomic Habits
 https://jamesclear.com/
+
+Steve Magness
+Do Hard Things
 http://www.stevemagness.com/
+
+Sahil Bloom
 https://taylorpearson.me/free/
 
 https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
+Investor/CEOs
+https://blog.samaltman.com/
 https://twitter.com/natfriedman/
+
+Makers
 https://twitter.com/swyx/
 https://twitter.com/levelsio/
-https://blog.samaltman.com/
 
 ## Casey Newton
 
@@ -898,8 +912,9 @@ https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
 https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
 
 https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
-https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
 https://www.bitecode.dev/archive | Archive - Bite code!
+
+https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
 -->
 
 ## Django Unofficial News and Projects
@@ -1575,11 +1590,19 @@ https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element 
 * [AWS](https://aws.amazon.com/)
 
 
-## Stack
+## Automation
 
-Platform
 * [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
 * [Terraform](https://www.terraform.io/)
+
+<!--
+https://kubernetes.io/
+-->
+
+
+## Stack
+ 
+Platform
 * [Packer](https://www.packer.io/)
 * [Consul](https://www.consul.io/)
 
@@ -1680,6 +1703,10 @@ Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 -->
 
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
 
 ## Trending and Top of All Time
 
@@ -1768,11 +1795,6 @@ Product Hunt Product Leader Boards
 * [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
 * [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
 * [Top 500 Products](http://500products.com)
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
 
 
 ### Lawrence
