@@ -3,6 +3,148 @@
 # Learning Resources
 
 <!--
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
+https://hynek.me/articles/ditch-codecov-python/
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+Python Cheat Sheet- Wow!
+https://gto76.github.io/python-cheatsheet/
+
+Simon
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+
+https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+
+https://opensource.com/
+
+https://upgradedjango.com/ | Upgrade Django
+
+https://www.reddit.com/ | Reddit - Dive into anything
+
+Important
+https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
+
+https://when-of-python.github.io
+
+https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
+https://www.bitecode.dev/ | Bite code! | Nobody has time for Python | Substack
+https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
+https://www.bitecode.dev/archive | Archive - Bite code!
+
+https://twitter.com/djangonewsbot/
+
+https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
+
+https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
+
+https://pythonspeed.com/ | Write faster Python code, and ship your code faster
+
+https://superfastpython.com/
+https://superfastpython.com/python-asyncio/ | Python Asyncio: The Complete Guide
+
+https://www.pythonmorsels.com/articles/ | Python Articles - Python Morsels
+https://www.pythonmorsels.com/terms/ | Python Terminology - Python Morsels
+https://fosstodon.org/@treyhunner@mastodon.social/
+
+https://realpython.com/ | Python Tutorials – Real Python
+https://realpython.com/search?kind=article&kind=course&order=newest | Tutorial Library – Real Python
+https://twitter.com/realpython? | Real Python (@realpython) / Twitter
+
+https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+
+https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
+https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
+https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
+https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+
+https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+
+https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
+
+https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
+
+Jeremy- Install and Use Python the Right Way
+https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
+
+https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
+
+https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
+
+## Learning Resources
+
+https://www.pluralsight.com/guides/
+https://app.pluralsight.com/library/free | Pluralsight
+
+https://www.geeksforgeeks.org/
+https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
+
+Frontend Masters
+
+CTO
+https://github.com/92bondstreet/cto | 92bondstreet/cto: 👩‍🚀 A curated list of CTO resources.
+https://github.com/kuchin/awesome-ct
+https://github.com/mateusz-brainhub/awesome-cto-resources | mateusz-brainhub/awesome-cto-resources: A community-curated list of awesome resources to help you grow as a CTO
+
+https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+
+https://github.com/donnemartin/system-design-primer
+
+## Python
+
+https://code.djangoproject.com/ | Django
+
+https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+
+https://www.python.org/community/lists/ | Mailing Lists | Python.org
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
+https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
+
+## Fix Python
+
+https://github.com/faster-cpython/ | faster-cpython
+
+https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
+
+## Finance
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
+
+https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
+
+https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
+https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
+https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+
+## Math and Engineering Code and Formulas
+
+https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
+
+https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
+
+## DevOps, SRE, and Incidents
+
+SRE
+https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
+
+https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
+
+https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
+https://browser.engineering/ | Web Browser Engineering
+
+Browser
+https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
+
+https://incident.io/guide/ | Incident Management Guide
+
+
+
 https://github.com/KatherineMichel/portfolio/tree/master/
 
 AWS Global Certification Community
@@ -74,14 +216,15 @@ https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web App
 <!--
 ## Events
 
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
 https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
 
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
 https://pyvideo.org/ | PyVideo.org
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
 
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 
@@ -244,6 +387,9 @@ https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on T
 
 ## Database
 
+PlanetScale
+https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
+
 https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
 https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
 
@@ -265,20 +411,24 @@ https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyad
 
 ## Architecture and Tools
 
+https://architecturenotes.co/
+https://architecturenotes.co/newsletter/ | Weekly Newsletters
+
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+
 https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
+
 
 https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-https://architecturenotes.co/
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 
 ## Pragmatic Engineer
 
 Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
 https://blog.pragmaticengineer.com/
+https://twitter.com/Pragmatic_Eng
 https://twitter.com/GergelyOrosz/
 
 
@@ -324,6 +474,13 @@ Carlton- single file
 
 Important
 https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Single File
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://arunrocks.com/django-application-in-one-file/ | Fitting a Django Application in One File · Arunrocks
+https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, World 5 Different Ways | LearnDjango.com
+
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
@@ -1095,6 +1252,7 @@ O'Reilly Media
 ## Django
 
 https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
+https://github.com/feldroy/two-scoops-of-django-3.x | feldroy/two-scoops-of-django-3.x: The issue tracker, changelog, and code repository for Two Scoops of Django 3.x
 
 https://www.mattlayman.com/ | Matt Layman
 https://www.mattlayman.com/understand-django/media-files/ | User File Use · Matt Layman
@@ -1223,7 +1381,7 @@ https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
 https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
 
 
-https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
+https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5 | (4) Post | LinkedIn
 
 7 Leetcode articles I wish I’d read sooner.
 This would have saved me from solving 1500+ problems:
