@@ -3,6 +3,11 @@
 # Learning Resources
 
 <!--
+https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+
+https://opensource.com/
+
+
 https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
 https://hynek.me/articles/ditch-codecov-python/
 
@@ -11,17 +16,35 @@ https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Stylegui
 Python Cheat Sheet- Wow!
 https://gto76.github.io/python-cheatsheet/
 
-Simon
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
-
-https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
-
-https://opensource.com/
 
 https://upgradedjango.com/ | Upgrade Django
 
 https://www.reddit.com/ | Reddit - Dive into anything
+
+
+http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
+
+
+https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution
+
+Important!!!
+https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
+
+
+## Debugger
+
+https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
+
+## Testing
+
+https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
+
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+
+
+https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
 
 Important
 https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
@@ -37,7 +60,11 @@ https://twitter.com/djangonewsbot/
 
 https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
 
-https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+
+https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+
 
 https://pythonspeed.com/ | Write faster Python code, and ship your code faster
 
@@ -54,27 +81,28 @@ https://twitter.com/realpython? | Real Python (@realpython) / Twitter
 
 https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
 
-https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
 https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
 https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
 
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
-
-https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
 
 https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
+
 
 https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
 
 Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
 
+
 https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
 
+
 https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
+
+
+https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
+
 
 ## Learning Resources
 
@@ -334,20 +362,29 @@ https://thewomeninarchitecture.org/ | Women In Architecture
 https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
 
 
+https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
+
 ## Simon's Talk
 
 https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
 
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+
 ## Julie
 
-https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
+https://wizardzines.com/ | wizard zines
 
 https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
 https://jvns.ca/blog/good-questions/ | How to ask good questions
 https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
 
+https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
+
 Julie debugging zine
 https://twitter.com/BajoranEngineer/status/1604956282695593984
+
+https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
 
 
 ## Carlota Perez
@@ -877,6 +914,7 @@ https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://refactoring.guru/design-patterns/ | Design Patterns
+https://refactoring.guru/design-patterns/python
 
 ## Python Patterns
 
@@ -1489,6 +1527,15 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 * [Postgres](https://www.postgresql.org/)
 
 <!--
+https://www.cockroachlabs.com/ | Cockroach Labs, the company building CockroachDB
+
+https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
+https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
+
+https://planetscale.com/ | PlanetScale: The world’s most advanced database platform
+
+https://www.cloudfoundry.org/ | Cloud Foundry – Open Source Cloud Native Application Delivery
+
 ## Databases
 
 http://www.w3schools.com/sql/default.asp
@@ -1496,6 +1543,8 @@ http://www.w3schools.com/sql/default.asp
 https://www.sqlite.org/
 https://www.sqlite.org/lang.html
 https://www.sqlite.org/docs.html
+
+https://www.iso.org/standard/76584.html | ISO/IEC 9075-2:2023 - Information technology — Database languages SQL — Part 2: Foundation (SQL/Foundation)
 
 https://www.postgresql.org/docs/current/sql.html
 https://www.postgresql.org/docs/current/app-psql.html
