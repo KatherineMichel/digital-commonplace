@@ -3,48 +3,173 @@
 # Learning Resources
 
 <!--
-https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
-
-https://opensource.com/
-
-
-https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
-https://hynek.me/articles/ditch-codecov-python/
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-Python Cheat Sheet- Wow!
-https://gto76.github.io/python-cheatsheet/
+GitHub Mobile
+https://github.com/mobile | GitHub Mobile
 
 
-https://upgradedjango.com/ | Upgrade Django
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
+
+
+https://github.com/KatherineMichel/portfolio/tree/master/
+
+AWS Global Certification Community
+https://aws-certification.influitive.com/forum/
+
+### Art
+
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+
+## Pinax
+
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+
+
+## Conferences
+
+Mind the Product
+https://www.mindtheproduct.com/
+Dev conferences
+https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
+## Events
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://pyvideo.org/ | PyVideo.org
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+-->
+
+<!--
+## Livestream
+
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+<!--
+Leadership versus Management 
+https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?
+
+Growth Mindset
+https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
+
+## Skills
+
+https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/
+https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
+## Great at Self-Promotion
+
+## Adrienne
+
+https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
+https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
+
+## Kathleen
+
+https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
+
+https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
+https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
+https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
+https://github.com/kvignos | kvignos (Kathleen Vignos)
+
+## Formal Annual Review
+
+Check Notes
+https://www.annualreview.life/ | The Ultimate Annual Review
+
+2022 Personal Annual Report
+https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
+https://fs.blog/annual-review/ | My Annual Report Framework
+
+## Timeboxing and Habit Tracking
+
+https://www.nirandfar.com/timeboxing/
+https://www.nirandfar.com/habit-tracker/
+https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
+
+## Mastery! 
+
+Very Important!
+https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
+https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
+https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
+-->
+
+<!--
+## Shipping
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+-->
+
+<!--
+## News Sources
 
 https://www.reddit.com/ | Reddit - Dive into anything
-
-
-http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
-
-
-https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution
-
-Important!!!
-https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
-
-
-## Debugger
-
-https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
-
-## Testing
-
-https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
-
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-
-
-https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
 
 Important
 https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
@@ -60,11 +185,211 @@ https://twitter.com/djangonewsbot/
 
 https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
 
-
 https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
 
-https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
 
+## Social
+
+https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+
+
+## Find People
+
+https://linktr.ee/
+
+https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
+https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
+
+https://twitter.com/home | Home / Twitter
+https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
+https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
+https://fosstodon.org/notifications | Notifications - Fosstodon
+https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
+https://snort.social/posts | snort.social - Nostr interface
+https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
+https://www.youtube.com/ | (185) YouTube
+
+
+## Mojo
+
+https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
+https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
+
+
+## Programming Languages
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+
+https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
+
+## Programming Parallel Computers, Distributed Algorithms
+
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
+
+## C Language
+
+C Language
+https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
+
+https://en.wikipedia.org/wiki/C_(programming_language) | C (programming language) - Wikipedia
+https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628 | Amazon.com: C Programming Language, 2nd Edition (8601410794231): Brian W. Kernighan, Dennis M. Ritchie: Books
+
+https://realpython.com/c-for-python-programmers/ | C for Python Programmers – Real Python
+
+https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
+
+Low Level C Programming
+https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
+
+https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/ | Debugging a Mixed Python and C Language Stack | NVIDIA Technical Blog
+
+## CPython Internals
+
+Dragon Book
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811
+
+https://realpython.com/cpython-source-code-guide/ | Your Guide to the CPython Source Code – Real Python
+
+https://realpython.com/products/cpython-internals-book/
+https://realpython.com/lessons/cpython-book-download/
+https://realpython.com/cpython-internals/resources/
+https://github.com/tonybaloney/cpython-book-samples | tonybaloney/cpython-book-samples: Sample scripts and examples for my CPython Internals book
+
+## Fix Python
+
+https://github.com/faster-cpython/ | faster-cpython
+
+https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
+
+## Tests
+
+https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
+
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+
+Speed Up Your Django Tests
+
+David Winterbottom on tests
+https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987
+
+Test Driven
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+
+https://testdriven.io/blog/ | Web Development Tutorials | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
+https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+
+## Debugger
+
+https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
+
+## Code Execution
+
+https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution
+
+Important!!!
+https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
+
+## Python Cheat Sheet
+
+Python Cheat Sheet- Wow!
+https://gto76.github.io/python-cheatsheet/
+
+## Python/Django Standards
+
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
+https://hynek.me/articles/ditch-codecov-python/
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+## Paradigms
+
+http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
+
+## Python Upgrade
+
+https://upgradedjango.com/ | Upgrade Django
+
+## Release Manager/Maintainer
+
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
+## Django
+
+Adam Johnson
+
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+
+## Single File
+
+Carlton- single file
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Single File
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://arunrocks.com/django-application-in-one-file/ | Fitting a Django Application in One File · Arunrocks
+https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, World 5 Different Ways | LearnDjango.com
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+## Finance
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
+
+https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
+
+https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
+https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
+https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+
+## Math and Engineering Code and Formulas
+
+https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
+
+https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
+
+## Database
+
+PlanetScale
+https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
+
+https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
+https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
+
+https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
+
+## Postgres Architecture
+
+https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
+
+https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
+
+## SQL
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
+## Python Learning Resources
+
+https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
 
 https://pythonspeed.com/ | Write faster Python code, and ship your code faster
 
@@ -85,14 +410,101 @@ https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifyin
 https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
 
-
-https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
-
+## Jeremy
 
 https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
 
 Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
+
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+## Growth Metrics
+
+https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
+
+## Survey
+
+https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosystem in 2022 Infographic | JetBrains: Developer Tools for Professionals and Teams
+
+## Mobile
+
+https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
+
+## DevOps, SRE, and Incidents
+
+SRE
+https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
+
+https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
+
+https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
+https://browser.engineering/ | Web Browser Engineering
+
+Browser
+https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
+
+https://incident.io/guide/ | Incident Management Guide
+-->
+
+<!--
+## HTML
+
+https://htmx.org/
+
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
+
+## Mozilla
+
+https://mdn.dev/
+https://developer.mozilla.org/en-US/
+
+## JS Scene
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+
+## CSS/HTML/JavaScript
+
+https://stylestage.dev/styles/
+http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
+
+Aerojet
+view-source:https://stylestage.dev/styles/aerojet-505/
+https://stylestage.dev/styles/css/aerojet-505.css
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+-->
+
+
+
+
+
+https://opensource.com/
+
+
+
+
+https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
+
 
 
 https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
@@ -133,207 +545,9 @@ https://www.python.org/community/lists/ | Mailing Lists | Python.org
 https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
 https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
 
-## Fix Python
-
-https://github.com/faster-cpython/ | faster-cpython
-
-https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
-
-## Finance
-
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
-
-https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
-
-https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
-https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
-https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
-
-## Math and Engineering Code and Formulas
-
-https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
-
-https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
-
-## DevOps, SRE, and Incidents
-
-SRE
-https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
-
-https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
-
-https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
-https://browser.engineering/ | Web Browser Engineering
-
-Browser
-https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
-
-https://incident.io/guide/ | Incident Management Guide
-
-
-
-https://github.com/KatherineMichel/portfolio/tree/master/
-
-AWS Global Certification Community
-https://aws-certification.influitive.com/forum/
-
-
-### Art
-
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
-
-
-## Pinax
-
-https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
-
-https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
--->
-
-<!--
-## Projects and Code
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
 -->
 
 
-<!--
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
-
-
-## Find People
-
-https://linktr.ee/
-
-https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
-https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
-
-https://twitter.com/home | Home / Twitter
-https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
-https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
-https://fosstodon.org/notifications | Notifications - Fosstodon
-https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
-https://snort.social/posts | snort.social - Nostr interface
-https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
-https://www.youtube.com/ | (185) YouTube
-
-
-## Conferences
-
-Mind the Product
-https://www.mindtheproduct.com/
-Dev conferences
-https://leaddev.com/
-https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
--->
-
-<!--
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://pyvideo.org/ | PyVideo.org
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
--->
-
-
-<!--
-Leadership versus Management 
-https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?
-
-
-Growth Mindset
-https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
-
-## Skills
-
-https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/
-https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
-https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
-
-
-## Great at Self-Promotion
-
-## Adrienne
-
-https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
-https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
-
-## Kathleen
-
-https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
-
-https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
-https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
-https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
-https://github.com/kvignos | kvignos (Kathleen Vignos)
-
-
-## Formal Annual Review
-
-Check Notes
-https://www.annualreview.life/ | The Ultimate Annual Review
-
-2022 Personal Annual Report
-https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
-https://fs.blog/annual-review/ | My Annual Report Framework
-
-## Timeboxing and Habit Tracking
-
-https://www.nirandfar.com/timeboxing/
-https://www.nirandfar.com/habit-tracker/
-https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
-
-## Mastery! 
-
-Very Important!
-https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
-https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
-https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
--->
 
 <!--
 https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
@@ -392,58 +606,6 @@ https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
 https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
 
 
-## Growth Metrics
-
-https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
-
-## Survey
-
-https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosystem in 2022 Infographic | JetBrains: Developer Tools for Professionals and Teams
-
-## Mobile
-
-https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
-
-
-## Programming Languages
-
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
-
-https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
-
-## Interesting
-
-C Language
-https://lists.gnu.org/archive/html/info-gnu/2022-09/msg00005.html | GNU C Language Intro and Reference Manual
-
-Low Level C Programming
-https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) CSE325 Lecture Videos - YouTube
-
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-
-
-## Database
-
-PlanetScale
-https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
-
-https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
-https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
-
-https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
-
-
-## Postgres Architecture
-
-https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
-
-https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
-
-
-## SQL
-
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 
 ## Architecture and Tools
@@ -482,46 +644,6 @@ https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
 
 
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
-
-
-## Django
-
-Adam Johnson
-
-
-## Deployment
-
-https://ehmatthes.com/blog/simplified_heroku/
-
-
-## Single File
-
-Carlton- single file
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Single File
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
-https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
-https://arunrocks.com/django-application-in-one-file/ | Fitting a Django Application in One File · Arunrocks
-https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, World 5 Different Ways | LearnDjango.com
-
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
 
 ## PyScript
 
@@ -537,48 +659,6 @@ https://github.com/coodict/javascript-in-one-pic
 -->
 
 
-<!--
-## HTML
-
-https://htmx.org/
-
-https://github.com/timonweb/pytailwindcss
-https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
-
-## Mozilla
-
-https://mdn.dev/
-https://developer.mozilla.org/en-US/
-
-## JS Scene
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-
-## CSS/HTML/JavaScript
-
-https://stylestage.dev/styles/
-http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
-
-Aerojet
-view-source:https://stylestage.dev/styles/aerojet-505/
-https://stylestage.dev/styles/css/aerojet-505.css
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
--->
-
 
 <!--
 ## Tools
@@ -588,44 +668,6 @@ https://blog.acolyer.org/2020/09/21/watchman/
 https://prometheus.io/
 
 https://github.com/FlipperPA/django-s3-sqlite
--->
-
-
-<!--
-GitHub Mobile
-https://github.com/mobile | GitHub Mobile
-
-
-## Livestream
-
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
-
-
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-<!--
-## Shipping
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 -->
 
 
