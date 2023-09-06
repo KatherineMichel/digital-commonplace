@@ -36,6 +36,18 @@ https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitt
 https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
 
 
+https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
+https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
+
+
+## Women in Architecture
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+## Women in Product
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
 ## Conferences
 
 Mind the Product
@@ -167,27 +179,6 @@ https://discord.com/channels/767860528562307082/797226343938392065 | shipping-fr
 -->
 
 <!--
-## News Sources
-
-https://www.reddit.com/ | Reddit - Dive into anything
-
-Important
-https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
-
-https://when-of-python.github.io
-
-https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
-https://www.bitecode.dev/ | Bite code! | Nobody has time for Python | Substack
-https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
-https://www.bitecode.dev/archive | Archive - Bite code!
-
-https://twitter.com/djangonewsbot/
-
-https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
-
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
-
-
 ## Social
 
 https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
@@ -208,12 +199,6 @@ https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
 https://snort.social/posts | snort.social - Nostr interface
 https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
 https://www.youtube.com/ | (185) YouTube
-
-
-## Mojo
-
-https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
-https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
 
 
 ## Programming Languages
@@ -262,6 +247,13 @@ https://github.com/faster-cpython/ | faster-cpython
 
 https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
 
+
+## Mojo
+
+https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
+https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
+
+
 ## Tests
 
 https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
@@ -293,21 +285,6 @@ https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaSc
 Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
 
-## Python Cheat Sheet
-
-Python Cheat Sheet- Wow!
-https://gto76.github.io/python-cheatsheet/
-
-## Python/Django Standards
-
-https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
-https://hynek.me/articles/ditch-codecov-python/
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-## Paradigms
-
-http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
 
 ## Python Upgrade
 
@@ -387,6 +364,153 @@ https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL 
 https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
+
+https://opensource.com/
+
+
+## Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://blog.pragmaticengineer.com/
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
+
+## Architecture and Tools
+
+https://architecturenotes.co/
+https://architecturenotes.co/newsletter/ | Weekly Newsletters
+
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
+
+
+https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
+
+
+## System Design
+
+https://github.com/donnemartin/system-design-primer
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
+
+
+## Patterns
+
+https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+
+
+## Python Cheat Sheet
+
+Python Cheat Sheet- Wow!
+https://gto76.github.io/python-cheatsheet/
+
+## Python/Django Standards
+
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
+https://hynek.me/articles/ditch-codecov-python/
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+## Tools
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+
+https://github.com/FlipperPA/django-s3-sqlite
+
+
+## Paradigms
+
+http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
+
+
+
+## News Sources
+
+https://www.reddit.com/ | Reddit - Dive into anything
+
+
+## Learning Resources
+
+https://www.pluralsight.com/guides/
+https://app.pluralsight.com/library/free | Pluralsight
+
+https://www.geeksforgeeks.org/
+https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
+
+Frontend Masters
+
+CTO
+https://github.com/92bondstreet/cto | 92bondstreet/cto: 👩‍🚀 A curated list of CTO resources.
+https://github.com/kuchin/awesome-ct
+https://github.com/mateusz-brainhub/awesome-cto-resources | mateusz-brainhub/awesome-cto-resources: A community-curated list of awesome resources to help you grow as a CTO
+
+https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+
+https://github.com/donnemartin/system-design-primer
+
+
+https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
+1️⃣ "Python Crash Course" by Eric Matthes
+2️⃣ "Fluent Python" by Luciano Ramalho
+3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
+4️⃣ "Clean Code" by Robert C. (Bob) Martin
+5️⃣ "Domain-Driven Design" by Eric Evans
+6️⃣ "Building Microservices" by Sam Newman
+7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
+8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
+9️⃣ "Cloud Native Python" by Manish Sethi
+🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
+
+
+## Python
+
+https://code.djangoproject.com/ | Django
+
+https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+
+https://www.python.org/community/lists/ | Mailing Lists | Python.org
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
+https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
+
+
+## PyScript
+
+https://pyscript.net/
+
+
+## Python and JavaScript
+
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+http://coodict.github.io/python3-in-one-pic/
+https://github.com/coodict/javascript-in-one-pic
+
+
+## Python Newsletters
+
+Important
+https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
+
+https://when-of-python.github.io
+
+https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
+https://www.bitecode.dev/ | Bite code! | Nobody has time for Python | Substack
+https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
+https://www.bitecode.dev/archive | Archive - Bite code!
+
+https://twitter.com/djangonewsbot/
+
+https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+
+
 ## Python Learning Resources
 
 https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
@@ -410,6 +534,41 @@ https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifyin
 https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
 
+
+https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
+
+## Simon's Talk
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+
+## Julie
+
+https://wizardzines.com/ | wizard zines
+
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
+https://jvns.ca/blog/good-questions/ | How to ask good questions
+https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
+
+https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
+
+Julie debugging zine
+https://twitter.com/BajoranEngineer/status/1604956282695593984
+
+https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
+
+
+https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
+
+https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
+
+https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
+
+https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
+
+
 ## Jeremy
 
 https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
@@ -417,12 +576,14 @@ https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
 Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
 
+
 ## Projects and Code
 
 Miguel Grinberg
 https://www.twilio.com/blog/author/mgrinberg
 Sam Agnew
 https://www.twilio.com/blog/author/sagnew
+
 
 ## Growth Metrics
 
@@ -435,6 +596,7 @@ https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosyst
 ## Mobile
 
 https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
+
 
 ## DevOps, SRE, and Incidents
 
@@ -450,9 +612,8 @@ Browser
 https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
 
 https://incident.io/guide/ | Incident Management Guide
--->
 
-<!--
+
 ## HTML
 
 https://htmx.org/
@@ -492,182 +653,6 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
--->
-
-
-
-
-
-https://opensource.com/
-
-
-
-
-https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
-
-
-
-https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
-
-
-https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
-
-
-https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
-
-
-## Learning Resources
-
-https://www.pluralsight.com/guides/
-https://app.pluralsight.com/library/free | Pluralsight
-
-https://www.geeksforgeeks.org/
-https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
-
-Frontend Masters
-
-CTO
-https://github.com/92bondstreet/cto | 92bondstreet/cto: 👩‍🚀 A curated list of CTO resources.
-https://github.com/kuchin/awesome-ct
-https://github.com/mateusz-brainhub/awesome-cto-resources | mateusz-brainhub/awesome-cto-resources: A community-curated list of awesome resources to help you grow as a CTO
-
-https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
-
-https://github.com/donnemartin/system-design-primer
-
-## Python
-
-https://code.djangoproject.com/ | Django
-
-https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
-
-https://www.python.org/community/lists/ | Mailing Lists | Python.org
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
-
--->
-
-
-
-<!--
-https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
-https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
-
-
-https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
-1️⃣ "Python Crash Course" by Eric Matthes
-2️⃣ "Fluent Python" by Luciano Ramalho
-3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
-4️⃣ "Clean Code" by Robert C. (Bob) Martin
-5️⃣ "Domain-Driven Design" by Eric Evans
-6️⃣ "Building Microservices" by Sam Newman
-7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
-8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
-9️⃣ "Cloud Native Python" by Manish Sethi
-🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
-
-
-## Women in Architecture
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-## Women in Product
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-
-https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
-
-## Simon's Talk
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
-
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
-
-## Julie
-
-https://wizardzines.com/ | wizard zines
-
-https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
-https://jvns.ca/blog/good-questions/ | How to ask good questions
-https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
-
-https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
-
-Julie debugging zine
-https://twitter.com/BajoranEngineer/status/1604956282695593984
-
-https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
-
-
-## Carlota Perez
-
-https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
-
-
-
-
-## Architecture and Tools
-
-https://architecturenotes.co/
-https://architecturenotes.co/newsletter/ | Weekly Newsletters
-
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
-
-https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
-
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
-
-
-https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-## Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://blog.pragmaticengineer.com/
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
-
-
-## System Design
-
-https://github.com/donnemartin/system-design-primer
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
-
-
-## Patterns
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
-
-
-
-
-## PyScript
-
-https://pyscript.net/
-
-
-## Python and JavaScript
-
-https://sayazamurai.github.io/python-vs-javascript/
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
-http://coodict.github.io/python3-in-one-pic/
-https://github.com/coodict/javascript-in-one-pic
--->
-
-
-
-<!--
-## Tools
-
-https://blog.acolyer.org/2020/09/21/watchman/
-
-https://prometheus.io/
-
-https://github.com/FlipperPA/django-s3-sqlite
 -->
 
 
@@ -715,6 +700,11 @@ https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials o
 
 
 <!--
+## Carlota Perez
+
+https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
+
+
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
 
@@ -1039,6 +1029,7 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide
 ## Interesting Ideas
 
 Product
+https://cutlefish.substack.com/
 https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
 https://twitter.com/johncutlefish/
 
@@ -1074,6 +1065,7 @@ https://waitbutwhy.com/
 https://twitter.com/waitbutwhy/
 
 Sahil Bloom
+https://www.sahilbloom.com/
 https://taylorpearson.me/free/
 
 
