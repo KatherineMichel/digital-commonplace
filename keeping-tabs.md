@@ -91,27 +91,6 @@ https://www.youtube.com/c/PyCascades/playlists
 -->
 
 <!--
-## Livestream
-
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
-
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
-
-
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
-
-https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
-
-
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
--->
-
-<!--
 Leadership versus Management 
 https://www.linkedin.com/posts/marcus-koehnlein_leadership-management-organization-activity-7070036302271762432-Hhly/?
 
@@ -201,6 +180,68 @@ https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwq
 https://www.youtube.com/ | (185) YouTube
 
 
+## Livestream
+
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+https://www.youtube.com/anthonywritescode | (42) anthonywritescode - YouTube
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+
+
+## Python Upgrade
+
+https://upgradedjango.com/ | Upgrade Django
+
+## Release Manager/Maintainer
+
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+
+
+## Django
+
+Adam Johnson
+
+## Deployment
+
+https://ehmatthes.com/blog/simplified_heroku/
+
+## Single File
+
+Carlton- single file
+
+Important
+https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
+
+Single File
+https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
+https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
+https://arunrocks.com/django-application-in-one-file/ | Fitting a Django Application in One File · Arunrocks
+https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, World 5 Different Ways | LearnDjango.com
+
+Raymond- Twitter
+https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
 ## Programming Languages
 
 https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
@@ -286,46 +327,6 @@ Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
 
 
-## Python Upgrade
-
-https://upgradedjango.com/ | Upgrade Django
-
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
-
-## Django
-
-Adam Johnson
-
-## Deployment
-
-https://ehmatthes.com/blog/simplified_heroku/
-
-## Single File
-
-Carlton- single file
-
-Important
-https://github.com/wsvincent/django-microframework | wsvincent/django-microframework: Single page Django app via Carlton Gibson's DjangoCon talk!
-
-Single File
-https://adamj.eu/tech/2019/04/03/django-versus-flask-with-single-file-applications/ | Django versus Flask with Single File Applications - Adam Johnson
-https://adamj.eu/tech/2020/10/15/a-single-file-rest-api-in-django/ | A Django REST API in a Single File - Adam Johnson
-https://arunrocks.com/django-application-in-one-file/ | Fitting a Django Application in One File · Arunrocks
-https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, World 5 Different Ways | LearnDjango.com
-
-Raymond- Twitter
-https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
 ## Finance
 
 https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
@@ -342,6 +343,7 @@ https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "
 https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
 
 https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
+
 
 ## Database
 
@@ -365,42 +367,6 @@ https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book comp
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 
-https://opensource.com/
-
-
-## Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://blog.pragmaticengineer.com/
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
-
-## Architecture and Tools
-
-https://architecturenotes.co/
-https://architecturenotes.co/newsletter/ | Weekly Newsletters
-
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
-
-https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
-
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
-
-
-https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-
-## System Design
-
-https://github.com/donnemartin/system-design-primer
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
-
-
-## Patterns
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
 
 ## Python Cheat Sheet
@@ -577,6 +543,86 @@ Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
 
 
+https://opensource.com/
+
+## Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://blog.pragmaticengineer.com/
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
+
+## Architecture and Tools
+
+https://architecturenotes.co/
+https://architecturenotes.co/newsletter/ | Weekly Newsletters
+
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
+
+
+https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
+
+
+## System Design
+
+https://github.com/donnemartin/system-design-primer
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
+
+
+## Patterns
+
+https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+-->
+
+<!--
+## Books
+
+Clean Architecture
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+
+Mythical Man
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+## SICP
+
+## Python
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+
+## More CS Books
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
+-->
+
+<!--
 ## Projects and Code
 
 Miguel Grinberg
@@ -653,49 +699,6 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
--->
-
-
-<!--
-## Books
-
-Clean Architecture
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-
-Mythical Man
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-## SICP
-
-## Python
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
-https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
-
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
-
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
-
-## End of SICP
-
-https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
-https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
-
-## More CS Books
-
-https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
-
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-
-https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
-https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
 -->
 
 
