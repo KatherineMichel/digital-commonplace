@@ -3,6 +3,45 @@
 # Learning Resources
 
 <!--
+## Python Cheat Sheet
+
+Python Cheat Sheet- Wow!
+https://gto76.github.io/python-cheatsheet/
+
+## Python/Django Standards
+
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
+https://hynek.me/articles/ditch-codecov-python/
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+## Finance
+
+Bank Python
+https://calpaterson.com/bank-python.html
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
+
+https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
+
+https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
+https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
+https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+
+## CPython
+
+https://www.youtube.com/watch?v=AHT2l3hcIJg | Python 3.10 Release Stream — with Pablo Galindo - YouTube
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
+https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
+
+## Python News
+
+https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
+https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b | Python Software Foundation
+
+
+
 GitHub Mobile
 https://github.com/mobile | GitHub Mobile
 
@@ -55,6 +94,7 @@ https://www.mindtheproduct.com/
 Dev conferences
 https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
 
 ## Events
 
@@ -327,16 +367,7 @@ Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
 
 
-## Finance
 
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
-
-https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
-
-https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
-https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
-https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
 
 ## Math and Engineering Code and Formulas
 
@@ -367,19 +398,6 @@ https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book comp
 https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
 
 
-
-
-## Python Cheat Sheet
-
-Python Cheat Sheet- Wow!
-https://gto76.github.io/python-cheatsheet/
-
-## Python/Django Standards
-
-https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
-https://hynek.me/articles/ditch-codecov-python/
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
 ## Tools
 
