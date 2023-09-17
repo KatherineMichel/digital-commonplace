@@ -35,10 +35,6 @@ https://www.youtube.com/watch?v=AHT2l3hcIJg | Python 3.10 Release Stream — wit
 https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
 https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
 
-## Python News
-
-https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
-https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b | Python Software Foundation
 
 
 
@@ -414,10 +410,6 @@ http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
 
 
 
-## News Sources
-
-https://www.reddit.com/ | Reddit - Dive into anything
-
 
 ## Learning Resources
 
@@ -452,17 +444,6 @@ https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuo
 🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
 
 
-## Python
-
-https://code.djangoproject.com/ | Django
-
-https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
-
-https://www.python.org/community/lists/ | Mailing Lists | Python.org
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
-
-
 ## PyScript
 
 https://pyscript.net/
@@ -474,25 +455,6 @@ https://sayazamurai.github.io/python-vs-javascript/
 https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
 http://coodict.github.io/python3-in-one-pic/
 https://github.com/coodict/javascript-in-one-pic
-
-
-## Python Newsletters
-
-Important
-https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
-
-https://when-of-python.github.io
-
-https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
-https://www.bitecode.dev/ | Bite code! | Nobody has time for Python | Substack
-https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
-https://www.bitecode.dev/archive | Archive - Bite code!
-
-https://twitter.com/djangonewsbot/
-
-https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
-
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
 
 
 ## Python Learning Resources
@@ -1107,98 +1069,113 @@ https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Appl
 -->
 
 
-## Python Unofficial News and Projects
+## News Sites
 
-Django News
-* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+## Trending
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
 
 <!--
-Python Developer LinkedIn Group
-https://www.linkedin.com/groups/6986570/
-
-https://bas.codes/ | Bas codes
-
-https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
-https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
-
-https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
-https://www.bitecode.dev/archive | Archive - Bite code!
-
-https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+In operation
+https://fosstodon.org/@HackerNewsBot@m.einverne.info
 -->
 
-## Django Unofficial News and Projects
+## GitHub News
+
+GitHub
+* [GitHub Blog](https://github.blog)  
+* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+## GitHub Trending
 
 GitHub Trending Python
 * [GitHub Trending Python](https://github.com/trending/python)
 * [GitHub Topic Python](https://github.com/topics/python)
+* [GitHub Trending Python Developers](https://github.com/trending/developers/python?since=daily)
 
-## Python Official News
+<!--
+https://github.com/trending/developers | Trending developers on GitHub today
+
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Python Unofficial News and Projects
+
+Django News
+* [Django News (Jeff and William S. Vincent)](https://django-news.com/), [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
+* [Bite Code Archive](https://www.bitecode.dev/archive)
+* [Bas Codes](https://bas.codes/)
+
+<!--
+https://twitter.com/djangonewsbot/
+https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
+
+Important
+https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
+https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+
+Good tweets? (See also Real Python and testdriven)
+https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
+https://www.bitecode.dev/ | Bite code! | Nobody has time for Python | Substack
+
+Python Developer LinkedIn Group
+https://www.linkedin.com/groups/6986570/
+
+No longer in operation
+https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
+https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+-->
+
+<!--
+## Python Newsletters
+
+https://when-of-python.github.io
+
+https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+-->
+
+
+<!--
+Core Dev and Maintainer
+
+https://github.com/asottile
+-->
+
+<!--
+## Python
+
+https://code.djangoproject.com/ | Django
+
+https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+
+https://www.python.org/community/lists/ | Mailing Lists | Python.org
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
+https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
+-->
+
+
+## Python and Django Official News
 
 Python News
-* [What's New](https://docs.python.org/dev/whatsnew/)
-* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
 * [Python Insider](https://pythoninsider.blogspot.com/)
-
-Python Discuss and PEPs
-* [Python Discuss](https://discuss.python.org)
-* [PEP Index](https://www.python.org/dev/peps)
-
-<!--
-https://speed.python.org/ | Python Speed Center
-
-https://github.com/vinayak-mehta/python-peps-graph
-
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
--->
-
-
-<!--
-* [Pythonic News](https://news.python.sc/)
--->
-
-
-## Python Roadmap
-
-New Releases and Pre-Releases
-* [Python Downloads](https://www.python.org/downloads)
-* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
-
-Release Schedules
-* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
-* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
-* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
-
-<!--
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://python-release-cycle.glitch.me/ | Python Release Cycle
--->
-
-## Django Official News
+* [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
 
 Django Blog and Announcements
 * [Django Blog](https://www.djangoproject.com/weblog/)
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
 
-Django New Releases and Notes
-* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
-
-DEPs (Django Enhancement Proposals)
-* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
-
-## Django Official Roadmap and Versions
-
-Roadmaps
-* [Django Roadmaps](https://code.djangoproject.com/wiki)
-
-Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
-
 <!--
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
+https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
+
+* [Pythonic News](https://news.python.sc/)
 -->
 
 ## Python Unofficial Feature Roundups
@@ -1221,6 +1198,66 @@ Encode
 http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
 https://twitter.com/_tomchristie/status/1256210735056785409
 -->
+
+  
+## Python Release Notes, Discuss, and PEPs
+
+* [What's New](https://docs.python.org/dev/whatsnew/)
+* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
+
+Python Discuss and PEPs
+* [Python Discuss](https://discuss.python.org)
+* [PEP Index](https://www.python.org/dev/peps)
+
+
+<!--
+https://speed.python.org/ | Python Speed Center
+
+https://github.com/vinayak-mehta/python-peps-graph
+
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+-->
+
+
+## Python Roadmap
+
+New Releases and Pre-Releases
+* [Python Downloads](https://www.python.org/downloads)
+* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
+
+Release Schedules
+* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+<!--
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+-->
+
+## Django New Releases, Release Notes, and DEPs
+
+Django New Releases and Notes
+* [Release Notes](https://docs.djangoproject.com/en/dev/releases/)
+
+DEPs (Django Enhancement Proposals)
+* [DEPs (Django Enhancement Proposals) GitHub](https://github.com/django/deps)
+
+## Django Official Roadmap and Versions
+
+Roadmaps
+* [Django Roadmaps](https://code.djangoproject.com/wiki)
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+
+<!--
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
+-->
+
 
 
 ## Python Official
@@ -1305,7 +1342,6 @@ Anthony Explains
 https://github.com/anthonywritescode/explains
 https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
 
-https://github.com/asottile
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://towardsdatascience.com/
@@ -1963,16 +1999,7 @@ Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 -->
 
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
 ## Trending and Top of All Time
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
 
 Hacker News
 * [Hacker News Current Best](https://news.ycombinator.com/best) 
@@ -1990,27 +2017,16 @@ Top Links of All Times
 * [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
-## Git News
+## More Git News
 
 GitHub Trending
 * [GitHub Trending](https://github.com/trending)
-
-GitHub
-* [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
 
 GitHub Engineering
 * [GitHub Engineering](https://githubengineering.com) 
 
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-https://github.com/trending/developers | Trending developers on GitHub today
-
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
 
 ## Articles
 
@@ -2027,6 +2043,11 @@ https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPo
 
 ## Trends
 
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
 https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
@@ -2034,11 +2055,6 @@ https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
 https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
 https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
 https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
 -->
 
 ## Product Sites
