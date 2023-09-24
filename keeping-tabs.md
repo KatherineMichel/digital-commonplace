@@ -3,41 +3,6 @@
 # Learning Resources
 
 <!--
-## Python Cheat Sheet
-
-Python Cheat Sheet- Wow!
-https://gto76.github.io/python-cheatsheet/
-
-## Python/Django Standards
-
-https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
-https://hynek.me/articles/ditch-codecov-python/
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-## Finance
-
-Bank Python
-https://calpaterson.com/bank-python.html
-
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
-
-https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
-
-https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
-https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
-https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
-
-## CPython
-
-https://www.youtube.com/watch?v=AHT2l3hcIJg | Python 3.10 Release Stream — with Pablo Galindo - YouTube
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
-https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
-
-
-
-
 GitHub Mobile
 https://github.com/mobile | GitHub Mobile
 
@@ -236,21 +201,42 @@ Twitch Category
 https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
 
 
+## Python Cheat Sheet
+
+Python Cheat Sheet- Wow!
+https://gto76.github.io/python-cheatsheet/
+
+## Python/Django Standards
+
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
+https://hynek.me/articles/ditch-codecov-python/
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+## Finance
+
+Bank Python
+https://calpaterson.com/bank-python.html
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
+
+https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
+
+https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
+https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
+https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+
+## CPython
+
+https://www.youtube.com/watch?v=AHT2l3hcIJg | Python 3.10 Release Stream — with Pablo Galindo - YouTube
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
+https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
+
+
 ## Python Upgrade
 
 https://upgradedjango.com/ | Upgrade Django
-
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
 
 
 ## Django
@@ -1146,7 +1132,17 @@ https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts 
 <!--
 Core Dev and Maintainer
 
+## Release Manager/Maintainer
+
 https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
 -->
 
 <!--
