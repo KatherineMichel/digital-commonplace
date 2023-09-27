@@ -179,21 +179,6 @@ https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
 https://snort.social/posts | snort.social - Nostr interface
 https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
 https://www.youtube.com/ | (185) YouTube
-
-
-
-## Tools
-
-https://blog.acolyer.org/2020/09/21/watchman/
-
-https://prometheus.io/
-
-https://github.com/FlipperPA/django-s3-sqlite
-
-
-## Paradigms
-
-http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
 -->
 
 
@@ -317,8 +302,6 @@ https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days
 
 https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
 -->
-
-
 
 
 <!--
@@ -633,6 +616,10 @@ http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelop
 ## Patterns
 
 https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+
+## Paradigms
+
+http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
 -->
 
 
@@ -994,7 +981,6 @@ Python Stuff
 * [Reddit Python](https://www.reddit.com/r/Python)
 
 
-
 ## Python Learning Resources- Set Aside
 
 TestDriven.io
@@ -1011,6 +997,16 @@ Real Python
 * [Dan Bader: Python Tricks](https://dbader.org/python-tricks)
 
 <!--
+https://realpython.com/search?kind=article&kind=course&order=newest | Tutorial Library – Real Python
+https://twitter.com/realpython? | Real Python (@realpython) / Twitter
+
+https://www.pythonmorsels.com/articles/ | Python Articles - Python Morsels
+https://www.pythonmorsels.com/terms/ | Python Terminology - Python Morsels
+https://fosstodon.org/@treyhunner@mastodon.social/
+
+https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
+https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
+
 https://towardsdatascience.com/
 -->
 
@@ -1120,6 +1116,12 @@ https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introductio
 https://store.lerner.co.il/ace-python-interviews | Ace Python Interviews
 
 
+https://pythonspeed.com/ | Write faster Python code, and ship your code faster
+
+https://superfastpython.com/
+https://superfastpython.com/python-asyncio/ | Python Asyncio: The Complete Guide
+
+
 https://cs50.harvard.edu/x/2022/ | CS50x 2022
 https://cs50.harvard.edu/web/2020/ | CS50's Web Programming with Python and JavaScript
 
@@ -1134,30 +1136,7 @@ https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
 
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-
-https://www.blog.pythonlibrary.org/ | Mouse Vs Python - Where You Can Learn All About Python Programming
-https://www.youtube.com/c/MouseVsPython | Mouse Vs Python - YouTube
 -->
-
-
-
-
-<!--
-Core Dev and Maintainer
-
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
--->
-
 
 
 <!--
@@ -1186,30 +1165,30 @@ https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
 http://coodict.github.io/python3-in-one-pic/
 https://github.com/coodict/javascript-in-one-pic
 
+-->
 
-## Python Learning Resources
 
-https://store.lerner.co.il/view/courses/ace-python-interviews/166238-introduction/489574-00-introduction | 00 Introduction
+<!--
+Core Dev and Maintainer
 
-https://pythonspeed.com/ | Write faster Python code, and ship your code faster
+## Release Manager/Maintainer
 
-https://superfastpython.com/
-https://superfastpython.com/python-asyncio/ | Python Asyncio: The Complete Guide
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
 
-https://www.pythonmorsels.com/articles/ | Python Articles - Python Morsels
-https://www.pythonmorsels.com/terms/ | Python Terminology - Python Morsels
-https://fosstodon.org/@treyhunner@mastodon.social/
+https://github.com/asottile-sentry
+https://github.com/getsentry/
 
-https://realpython.com/ | Python Tutorials – Real Python
-https://realpython.com/search?kind=article&kind=course&order=newest | Tutorial Library – Real Python
-https://twitter.com/realpython? | Real Python (@realpython) / Twitter
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
 
-https://dbader.org/python-tricks | Improve Your Python With Python Tricks – dbader.org
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+-->
 
+
+<!--
 https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
 https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
-
 
 https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
 
@@ -1251,6 +1230,15 @@ https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
 
 Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
+
+
+## Tools
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+
+https://github.com/FlipperPA/django-s3-sqlite
 -->
 
 
