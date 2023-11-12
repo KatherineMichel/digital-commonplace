@@ -26,6 +26,12 @@ Dragon Book, Knuth Books
 
 https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
 
+Two Scoops
+https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
+
+Python Cheatsheet
+https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
+
 
 30 years(!) of Python Development Visualized. Amazing! : Python
 https://www.visualsource.net/repo/github.com/python/cpython
