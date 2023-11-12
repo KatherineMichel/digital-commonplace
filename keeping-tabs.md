@@ -3,7 +3,20 @@
 # Learning Resources
 
 <!--
+Dead Simple Python
+
+Hacker News Stats
+https://hackernews-insight.vercel.app/user-analysis | Evidence
+https://hackernews-insight.vercel.app/keyword-analysis | Evidence
+https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
+
+GitHub Star History Graph 
+https://twitter.com/newsycombinator/status/1530625174114078721
+
+https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+
 https://frontendmasters.com/sale/ | Frontend Masters Exploration Sale | Frontend Masters
+https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
 
 CockroachDB University
 https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
@@ -21,8 +34,6 @@ https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newslette
 
 https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
-
-https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
 
 https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
 
