@@ -21,6 +21,9 @@ https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writin
 https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
 https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
 
+Architecture Notes
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+
 
 https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
