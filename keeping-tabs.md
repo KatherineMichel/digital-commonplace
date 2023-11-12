@@ -3,6 +3,56 @@
 # Learning Resources
 
 <!--
+Python/Django Core Devs List
+Python Language Summit and Python Core Dev Sprint
+PEPs/DEPs
+Dragon Book, Knuth Books
+
+https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+
+https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
+https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+
+30 years(!) of Python Development Visualized. Amazing! : Python
+https://www.visualsource.net/repo/github.com/python/cpython
+https://old.reddit.com/r/Python/comments/kl3cyk/30_years_of_python_development_visualized_amazing/ | 30 years(!) of Python Development Visualized. Amazing! : Python
+
+https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/ | Composition over inheritance: The case for function-based views - Matthias Kestenholz
+https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of standards - Matthias Kestenholz
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/ | How ruff changed my Python programming habits - Matthias Kestenholz
+
+Tools matrix
+https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / X
+
+Django Survey
+https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
+
+## Bloomberg Tool
+
+https://github.com/bloomberg/memray/
+
+
+https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b
+https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
+
+https://www.linkedin.com/groups/25827/ | (38) Python Developers Community (moderated) | Groups | LinkedIn
+https://www.linkedin.com/groups/6986570/ | Python Developer | Groups | LinkedIn
+
+https://www.reddit.com/r/Python/
+
+https://www.bitecode.dev/p/whats-up-in-the-python-community-790/comment/16584826 | Comments - What's up in the Python community?
+
+https://devblogs.microsoft.com/python/announcing-python-pulse/ | The Python Pulse: A Monthly Microsoft Stream - Python
+https://twitter.com/DawnWagesSays/status/1569698566612066305 | (dawn) bajoran engineer on Twitter: "What are your favorite places to keep track of #Python news? RT for reach." / Twitter
+https://twitter.com/PyCommunityNews/
+
+https://realpython.com/python-news-august-2023/ | Python News: What's New From August 2023 – Real Python
+https://realpython.com/python-news-may-2022/ | Python News: What's New From May 2022 – Real Python
+https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
+
+https://pycoders.com/
+
+
 GitHub Mobile
 https://github.com/mobile | GitHub Mobile
 
@@ -40,13 +90,13 @@ https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Int
 https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
 
 
-## Women in Architecture
+## Women
 
 https://thewomeninarchitecture.org/ | Women In Architecture
 
-## Women in Product
-
 https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
 
 ## Conferences
 
@@ -57,12 +107,17 @@ https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
 
 
+## DFW
+
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+
 ## Events
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
 
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 
+https://www.python.org/events/python-events/ | Our Events | Python.org
 https://www.python.org/events/
 https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
 
