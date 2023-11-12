@@ -3,6 +3,42 @@
 # Learning Resources
 
 <!--
+https://frontendmasters.com/sale/ | Frontend Masters Exploration Sale | Frontend Masters
+
+CockroachDB University
+https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
+https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
+
+JPMC Python training
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+
+Flask
+https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
+https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
+
+https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+https://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ | Summary Of Python Profiling Tools – Part I - Performance Engineering
+https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/ | More than 90 Profiling Tools for Desktop to Larget Supercomputers
+
+https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
+
+
+
 https://twitter.com/johncutlefish
 https://cutlefish.substack.com/
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
@@ -16,8 +52,6 @@ https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introducti
 Architecture Notes
 https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
 
-
-https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
 Python/Django Core Devs List
 Python Language Summit and Python Core Dev Sprint
