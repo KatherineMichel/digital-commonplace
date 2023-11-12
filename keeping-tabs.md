@@ -22,6 +22,8 @@ https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for In
 https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
 
 
+https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
 Python/Django Core Devs List
 Python Language Summit and Python Core Dev Sprint
 PEPs/DEPs
