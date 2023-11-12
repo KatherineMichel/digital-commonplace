@@ -3,6 +3,25 @@
 # Learning Resources
 
 <!--
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+
+High Output Management
+Pragmatic Engineer
+Mythical Man Month
+
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
+
+https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
+
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+
+
 Python/Django Core Devs List
 Python Language Summit and Python Core Dev Sprint
 PEPs/DEPs
@@ -51,6 +70,13 @@ https://realpython.com/python-news-may-2022/ | Python News: What's New From May 
 https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
 
 https://pycoders.com/
+
+## Raft
+
+https://thesecretlivesofdata.com/raft/ | Raft
+https://raft.github.io/ | Raft Consensus Algorithm
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
 
 
 GitHub Mobile
