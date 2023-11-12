@@ -8,18 +8,10 @@ https://cutlefish.substack.com/
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
 
-High Output Management
-Pragmatic Engineer
-Mythical Man Month
 
 https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
 
 https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
-
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
-https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
-https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
 
 Architecture Notes
 https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
@@ -34,8 +26,6 @@ Dragon Book, Knuth Books
 
 https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
 
-https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
-https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
 
 30 years(!) of Python Development Visualized. Amazing! : Python
 https://www.visualsource.net/repo/github.com/python/cpython
@@ -45,16 +35,10 @@ https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-
 https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of standards - Matthias Kestenholz
 https://406.ch/writing/how-ruff-changed-my-python-programming-habits/ | How ruff changed my Python programming habits - Matthias Kestenholz
 
-Tools matrix
-https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / X
 
-Django Survey
-https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
 
-## Bloomberg Tool
-
-https://github.com/bloomberg/memray/
-
+PSF Community links
+https://pyfound.blogspot.com/2022/11/where-is-psf.html | Python Software Foundation News: Where is the PSF?
 
 https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b
 https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
@@ -70,11 +54,27 @@ https://devblogs.microsoft.com/python/announcing-python-pulse/ | The Python Puls
 https://twitter.com/DawnWagesSays/status/1569698566612066305 | (dawn) bajoran engineer on Twitter: "What are your favorite places to keep track of #Python news? RT for reach." / Twitter
 https://twitter.com/PyCommunityNews/
 
+https://pycoders.com/
+
+Django Survey
+https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
+
+## Python Release
+
+https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
+https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+
 https://realpython.com/python-news-august-2023/ | Python News: What's New From August 2023 – Real Python
 https://realpython.com/python-news-may-2022/ | Python News: What's New From May 2022 – Real Python
 https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
 
-https://pycoders.com/
+## Tools Matrix
+
+https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / X
+
+## Bloomberg Tool
+
+https://github.com/bloomberg/memray/
 
 ## Raft
 
@@ -82,6 +82,19 @@ https://thesecretlivesofdata.com/raft/ | Raft
 https://raft.github.io/ | Raft Consensus Algorithm
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
+
+## Public Speaker
+
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+
+## Books
+
+High Output Management
+Pragmatic Engineer
+Mythical Man Month
 
 
 GitHub Mobile
