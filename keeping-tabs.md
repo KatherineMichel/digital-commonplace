@@ -176,6 +176,11 @@ https://github.com/bloomberg/memray/
 
 
 
+http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
+
+https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls | Packagecloud Blog
+
+
 JPMC Python training
 https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
 
@@ -212,6 +217,39 @@ https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python 
 https://pycoders.com/
 
 https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+Don Knuth's Annual Christmas Lecture
+https://twitter.com/Grady_Booch/status/1607118853410271232
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages | HTTP Messages - HTTP | MDN
+
+https://programmingmylife.com/2023-10-30-moving-from-django-microframework-to-django.html | Moving from Django Microframework to Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+https://talkback.sh/ | Talkback
+
+https://btn.dev/ | Button — A simpler deployment story
+
+https://docs.google.com/document/d/1dnjXoHpVL5YmZTqVEC9b9JOfu6EzQiizZAHVAeDoIlo/edit#heading=h.qc1u3okpsxa2 | Mobile Application Risk Scoring - Google Docs
+
+https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X: "Still comes in handy sometimes https://t.co/pCJRgQ01ui" / X
+
+argon 2 algorithm - Google Search
+
+Django Microframeworks
+https://fosstodon.org/@programmylife/111325237088389893 | Andrew Mshar: "https://programmingmylife.com/…" - Fosstodon
+
+https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
 
 
 
