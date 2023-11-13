@@ -48,6 +48,9 @@ https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_enginee
 
 https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
 
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
 
 
 https://twitter.com/johncutlefish
