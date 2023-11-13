@@ -25,6 +25,8 @@ https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+shor
 JPMC Python training
 https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
 
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
 Flask
 https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
 https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
