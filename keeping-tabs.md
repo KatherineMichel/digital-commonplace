@@ -176,6 +176,19 @@ https://github.com/bloomberg/memray/
 
 
 
+https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
+
+Strip Mall User Research
+https://twitter.com/realEstateTrent/status/1692527765604434153 | StripMallGuy on X: "I secretly go on vacations to random US suburbs, and there is nothing like it! Just got back from one, and fired up. Let me explain: When you go to a place like Rome or Barcelona, you want to see as much as you can, experience the area like a local, and hit all the top spots.…" / X
+
+Part time creator manifesto
+https://twitter.com/jasonleowsg/status/1536836425026371585 | Jason Leow on Twitter: "@valhalla_dev @swyx https://t.co/ZKhij5Bof6" / Twitter
+
+https://github.com/readme/guides/finish-your-projects | Finish your projects
+
+https://www.viktor.ai/white-papers/how-to-build-successful-apps
+
+
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
 
 https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls | Packagecloud Blog
