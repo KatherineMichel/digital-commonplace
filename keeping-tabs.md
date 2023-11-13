@@ -3,7 +3,58 @@
 # Learning Resources
 
 <!--
-Dead Simple Python
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
+
+https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
+
+https://web.dev/learn/accessibility/ | Learn Accessibility
+
+https://bun.sh/
+
+Architecture Notes
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/
+
+Chris May
+https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
+https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
+
+## Public Speaker
+
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+
+## John Cutler
+
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+
+## Ryan Peterman
+
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
+
+## Books
+
+High Output Management
+Pragmatic Engineer
+Mythical Man Month
+
+## Learning Resources
+
+https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+
+https://frontendmasters.com/sale/ | Frontend Masters Exploration Sale | Frontend Masters
+
+## Stats
 
 Hacker News Stats
 https://hackernews-insight.vercel.app/user-analysis | Evidence
@@ -13,71 +64,25 @@ https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopulari
 GitHub Star History Graph 
 https://twitter.com/newsycombinator/status/1530625174114078721
 
-https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+## Algorithms
 
-https://frontendmasters.com/sale/ | Frontend Masters Exploration Sale | Frontend Masters
 https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
 
-CockroachDB University
+## CockroachDB University
+
 https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
 https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
 
-JPMC Python training
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+## Raft
 
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+https://thesecretlivesofdata.com/raft/ | Raft
+https://raft.github.io/ | Raft Consensus Algorithm
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
 
-Visualizing the CPython Release Process
-https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post | Feed | LinkedIn
+## Python and Django Resources
 
-Flask
-https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
-https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-https://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ | Summary Of Python Profiling Tools – Part I - Performance Engineering
-https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/ | More than 90 Profiling Tools for Desktop to Larget Supercomputers
-
-https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
-
-https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
-
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
-https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
-
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-
-
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
-
-https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
-
-Architecture Notes
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-
-
-Python/Django Core Devs List
-Python Language Summit and Python Core Dev Sprint
-PEPs/DEPs
-Dragon Book, Knuth Books
-
-https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+Dead Simple Python
 
 Two Scoops
 https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.x
@@ -85,27 +90,42 @@ https://www.feldroy.com/books/two-scoops-of-django-3-x | Two Scoops of Django 3.
 Python Cheatsheet
 https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
 
-
-30 years(!) of Python Development Visualized. Amazing! : Python
-https://www.visualsource.net/repo/github.com/python/cpython
-https://old.reddit.com/r/Python/comments/kl3cyk/30_years_of_python_development_visualized_amazing/ | 30 years(!) of Python Development Visualized. Amazing! : Python
-
-https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/ | Composition over inheritance: The case for function-based views - Matthias Kestenholz
-https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of standards - Matthias Kestenholz
-https://406.ch/writing/how-ruff-changed-my-python-programming-habits/ | How ruff changed my Python programming habits - Matthias Kestenholz
-
-
+## PSF Newsletter
 
 PSF Community links
 https://pyfound.blogspot.com/2022/11/where-is-psf.html | Python Software Foundation News: Where is the PSF?
 
+Python Newsletter
 https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b
+
 https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
 
-https://www.linkedin.com/groups/25827/ | (38) Python Developers Community (moderated) | Groups | LinkedIn
-https://www.linkedin.com/groups/6986570/ | Python Developer | Groups | LinkedIn
+## Python Release
 
-https://www.reddit.com/r/Python/
+https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
+https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+
+## Python Core
+
+Python/Django Core Devs List
+Python Language Summit and Python Core Dev Sprint
+PEPs/DEPs
+
+https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+
+core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
+
+Dragon Book, Knuth Books
+
+Visualizing the CPython Release Process
+https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post | Feed | LinkedIn
+
+## Python News
+
+https://realpython.com/python-news-august-2023/ | Python News: What's New From August 2023 – Real Python
+https://realpython.com/python-news-may-2022/ | Python News: What's New From May 2022 – Real Python
+https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
 
 https://www.bitecode.dev/p/whats-up-in-the-python-community-790/comment/16584826 | Comments - What's up in the Python community?
 
@@ -113,19 +133,38 @@ https://devblogs.microsoft.com/python/announcing-python-pulse/ | The Python Puls
 https://twitter.com/DawnWagesSays/status/1569698566612066305 | (dawn) bajoran engineer on Twitter: "What are your favorite places to keep track of #Python news? RT for reach." / Twitter
 https://twitter.com/PyCommunityNews/
 
-https://pycoders.com/
+## Python Development Visualized
+
+30 years(!) of Python Development Visualized. Amazing! : Python
+https://www.visualsource.net/repo/github.com/python/cpython
+https://old.reddit.com/r/Python/comments/kl3cyk/30_years_of_python_development_visualized_amazing/ | 30 years(!) of Python Development Visualized. Amazing! : Python
+
+## Python Community
+
+https://www.linkedin.com/groups/25827/ | (38) Python Developers Community (moderated) | Groups | LinkedIn
+https://www.linkedin.com/groups/6986570/ | Python Developer | Groups | LinkedIn
+
+https://www.reddit.com/r/Python/
+
+## Style Guides
+
+https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
+
+## Django Official
+
+Diátaxis
+https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework | What is Diátaxis and should you be using it with your documentation? | I'd Rather Be Writing Blog and API doc course
 
 Django Survey
 https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
 
-## Python Release
+## Django Patterns
 
-https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
-https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
-
-https://realpython.com/python-news-august-2023/ | Python News: What's New From August 2023 – Real Python
-https://realpython.com/python-news-may-2022/ | Python News: What's New From May 2022 – Real Python
-https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://www.martinfowler.com/eaaCatalog/activeRecord.html | P of EAA: Active Record
+domain model pattern - Google Search
+https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
 
 ## Tools Matrix
 
@@ -135,25 +174,45 @@ https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok
 
 https://github.com/bloomberg/memray/
 
-## Raft
 
-https://thesecretlivesofdata.com/raft/ | Raft
-https://raft.github.io/ | Raft Consensus Algorithm
-https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
-https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
 
-## Public Speaker
+JPMC Python training
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
 
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
-https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
-https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+Python in VS Code
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
 
-## Books
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
 
-High Output Management
-Pragmatic Engineer
-Mythical Man Month
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+
+Flask
+https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
+https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+
+https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/ | Composition over inheritance: The case for function-based views - Matthias Kestenholz
+https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of standards - Matthias Kestenholz
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/ | How ruff changed my Python programming habits - Matthias Kestenholz
+
+https://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ | Summary Of Python Profiling Tools – Part I - Performance Engineering
+https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/ | More than 90 Profiling Tools for Desktop to Larget Supercomputers
+
+https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
+
+
+https://pycoders.com/
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
 
 
 GitHub Mobile
