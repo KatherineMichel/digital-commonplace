@@ -265,6 +265,34 @@ https://fosstodon.org/@programmylife/111325237088389893 | Andrew Mshar: "https:/
 https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
 
 
+https://edu.chainguard.dev/chainguard/chainguard-images/images-compared/ | Comparison of Vulnerabilities in Container Images — Chainguard Academy
+
+https://twitter.com/hnasr/status/1686552725449064448 | Hussein Nasser on Twitter: "p.s. I recommend taking the Fundamentals of Network engineering course first followed by Fundamentals of Backend engineering then the performance course. The other courses can be taken in any order. Direct link https://t.co/tyX388seyr BACK-AUG2023-A NET-AUG2023-A…" / X
+
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+
+https://stackshare.io/posts/top-developer-tools-2022 | 🏆 The Top 100 Developer Tools of 2022 | StackShare
+
+https://github.com/TylerJewell/DevLandscape | TylerJewell/DevLandscape: Developer-Led Landscape
+
+https://twitter.com/stubbornella/status/1664753839835348993 | Nicole Sullivan on Twitter: "I tried to make a cute little graphic about the skills front end folks have... and it exploded the edges! I probably even missed things 🤦🏼‍♀️ I think each developer has general skills as well as specialties. Did I miss something? https://t.co/vjtbLLorQS" / Twitter
+
+https://github.com/raunofreiberg/interfaces | raunofreiberg/interfaces: A non-exhaustive list of details that make a good web interface.
+
+https://github.com/wmariuss/awesome-devops | wmariuss/awesome-devops: A curated list of awesome DevOps platforms, tools, practices and resources
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
+https://hardcoresoftware.learningbyshipping.com/p/ultimate-guide-to-platforms?r=1j4m3&utm_campaign=post&utm_medium=web | 208. Ultimate Guide to Platforms
+
+https://twitter.com/0xAsm0d3us/status/1685311449210781696 | Devansh (⚡, 🥷) on Twitter: "This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand! https://t.co/6EEcdgFlTc https://t.co/gBK81Y9gVR" / X
+https://github.com/devanshbatham/Vulnerabilities-Unmasked | devanshbatham/Vulnerabilities-Unmasked: This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://hbr.org/2018/10/help-your-team-do-more-without-burning-out?utm_medium=social&utm_campaign=hbr&utm_source=Linkedin&tpcc=orgsocial_edit | Help Your Team Do More Without Burning Out
+
+
 
 GitHub Mobile
 https://github.com/mobile | GitHub Mobile
