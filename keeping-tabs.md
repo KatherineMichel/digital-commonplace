@@ -48,6 +48,7 @@ High Output Management
 Pragmatic Engineer
 Mythical Man Month
 
+
 ## Learning Resources
 
 https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
@@ -64,6 +65,7 @@ https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopulari
 GitHub Star History Graph 
 https://twitter.com/newsycombinator/status/1530625174114078721
 
+
 ## Algorithms
 
 https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
@@ -79,6 +81,7 @@ https://thesecretlivesofdata.com/raft/ | Raft
 https://raft.github.io/ | Raft Consensus Algorithm
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
+
 
 ## Python and Django Resources
 
