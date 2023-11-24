@@ -1551,7 +1551,7 @@ Frontend Masters
 
 CTO
 https://github.com/92bondstreet/cto | 92bondstreet/cto: 👩‍🚀 A curated list of CTO resources.
-https://github.com/kuchin/awesome-ct
+https://github.com/kuchin/awesome-cto
 https://github.com/mateusz-brainhub/awesome-cto-resources | mateusz-brainhub/awesome-cto-resources: A community-curated list of awesome resources to help you grow as a CTO
 
 https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
