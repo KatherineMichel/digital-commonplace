@@ -3,6 +3,62 @@
 # Learning Resources
 
 <!--
+PyVideo
+
+JPMC
+
+Check Notes
+https://www.annualreview.life/ | The Ultimate Annual Review
+
+2022 Personal Annual Report
+https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
+https://fs.blog/annual-review/ | My Annual Report Framework
+
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/
+https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
+https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
+
+Memory
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+http://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+
+Bash docs
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs | Git - Reference
+
+Bitbucket
+
+Git Book
+Boost your DX
+-->
+
+<!--
 ## Algorithms
 
 https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
