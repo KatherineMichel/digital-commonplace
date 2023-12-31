@@ -1650,8 +1650,6 @@ https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
 Anthony Explains
 https://github.com/anthonywritescode/explains
 https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 -->
 
 <!--
@@ -2339,6 +2337,7 @@ GitHub Engineering
 
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
+
 
 ## Articles
 
