@@ -3,9 +3,172 @@
 # Learning Resources
 
 <!--
-PyVideo
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
-JPMC
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
+
+https://github.com/KatherineMichel/portfolio/tree/master/
+
+
+AWS Global Certification Community
+https://aws-certification.influitive.com/forum/
+
+### Art
+
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+
+## Pinax
+
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+
+
+GitHub Mobile
+https://github.com/mobile | GitHub Mobile
+
+
+## CockroachDB University
+
+https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
+
+
+https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
+https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
+-->
+
+<!--
+## Social
+
+https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+
+## Find People
+
+https://linktr.ee/
+
+https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
+https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
+
+https://twitter.com/home | Home / Twitter
+https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
+https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
+https://fosstodon.org/notifications | Notifications - Fosstodon
+https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
+https://snort.social/posts | snort.social - Nostr interface
+https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
+https://www.youtube.com/ | (185) YouTube
+-->
+
+<!--
+## Women
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
+
+## Conferences
+
+Mind the Product
+https://www.mindtheproduct.com/
+Dev conferences
+https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
+
+## DFW
+
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+
+## Events
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+https://www.python.org/events/python-events/ | Our Events | Python.org
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://pyvideo.org/ | PyVideo.org
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+-->
+
+<!--
+## HTML
+
+https://htmx.org/
+
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
+
+## Mozilla
+
+https://mdn.dev/
+https://developer.mozilla.org/en-US/
+
+## JS Scene
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+
+## CSS/HTML/JavaScript
+
+https://stylestage.dev/styles/
+http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
+
+Aerojet
+view-source:https://stylestage.dev/styles/aerojet-505/
+https://stylestage.dev/styles/css/aerojet-505.css
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+-->
+
+
+<!--
+## Formal Annual Review
 
 Check Notes
 https://www.annualreview.life/ | The Ultimate Annual Review
@@ -14,24 +177,72 @@ https://www.annualreview.life/ | The Ultimate Annual Review
 https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
 https://fs.blog/annual-review/ | My Annual Report Framework
 
+
 https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
 
 https://jacobian.org/2020/mar/13/layoffs-are-coming/
 
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
 
-Memory
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
+
+
+
+Growth Mindset
+https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
+
+## Skills
+
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
+https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+
+## Great at Self-Promotion
+
+## Adrienne
+
+https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
+https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
+
+## Kathleen
+
+https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
+
+https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
+https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
+https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
+https://github.com/kvignos | kvignos (Kathleen Vignos)
+
+
+## Timeboxing and Habit Tracking
+
+https://www.nirandfar.com/timeboxing/
+https://www.nirandfar.com/habit-tracker/
+https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
+
+## Mastery! 
+
+Very Important!
+https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
+https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
+https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
+-->
+
+
+
+
+
+<!--
+PyVideo
+
+JPMC
 
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
 
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/
-
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
-http://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
 
 https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
 
@@ -39,6 +250,10 @@ https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massi
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
+
+Architecture Notes
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+
 
 Bash docs
 https://grymoire.com/Unix/Awk.html
@@ -56,11 +271,6 @@ Boost your DX
 
 
 <!--
-## Algorithms
-
-https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
-
 ## Interesting
 
 https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
@@ -117,21 +327,8 @@ argon 2 algorithm - Google Search
 
 
 
-https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
-
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
-
-https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
-
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
 
-Architecture Notes
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-
-
-## CockroachDB University
-
-https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
 
 
 
@@ -153,12 +350,11 @@ https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
 https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
 
-https://programmingmylife.com/2023-10-30-moving-from-django-microframework-to-django.html | Moving from Django Microframework to Django
 
-Django Microframeworks
-https://fosstodon.org/@programmylife/111325237088389893 | Andrew Mshar: "https://programmingmylife.com/…" - Fosstodon
+
 
 https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
 
 https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
 
@@ -224,28 +420,6 @@ https://hbr.org/2018/10/help-your-team-do-more-without-burning-out?utm_medium=so
 
 
 
-## Public Speaker
-
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
-https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
-https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
-
-## John Cutler
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-
-## Ryan Peterman
-
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
-https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
-
-
-
 
 ## Learning Resources
 
@@ -260,153 +434,9 @@ https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopulari
 
 GitHub Star History Graph 
 https://twitter.com/newsycombinator/status/1530625174114078721
-
-
-
-GitHub Mobile
-https://github.com/mobile | GitHub Mobile
-
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
-
-https://github.com/KatherineMichel/portfolio/tree/master/
-
-
-AWS Global Certification Community
-https://aws-certification.influitive.com/forum/
-
-### Art
-
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
-
-## Pinax
-
-https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
-
-https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
-
-
-https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
-https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
-
-
-## Women
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
-
-## Conferences
-
-Mind the Product
-https://www.mindtheproduct.com/
-Dev conferences
-https://leaddev.com/
-https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
-
-
-## DFW
-
-https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-https://www.python.org/events/python-events/ | Our Events | Python.org
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://pyvideo.org/ | PyVideo.org
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
 -->
 
-<!--
-Growth Mindset
-https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
 
-## Skills
-
-https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/
-https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
-https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
-
-## Great at Self-Promotion
-
-## Adrienne
-
-https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
-https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
-
-## Kathleen
-
-https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
-
-https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
-https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
-https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
-https://github.com/kvignos | kvignos (Kathleen Vignos)
-
-## Formal Annual Review
-
-Check Notes
-https://www.annualreview.life/ | The Ultimate Annual Review
-
-2022 Personal Annual Report
-https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
-https://fs.blog/annual-review/ | My Annual Report Framework
-
-## Timeboxing and Habit Tracking
-
-https://www.nirandfar.com/timeboxing/
-https://www.nirandfar.com/habit-tracker/
-https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
-
-## Mastery! 
-
-Very Important!
-https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
-https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
-https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
--->
 
 <!--
 ## Shipping
@@ -420,70 +450,8 @@ Shipping Fridays
 https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
 -->
 
-<!--
-## Social
-
-https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
-
-## Find People
-
-https://linktr.ee/
-
-https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
-https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
-
-https://twitter.com/home | Home / Twitter
-https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
-https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
-https://fosstodon.org/notifications | Notifications - Fosstodon
-https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
-https://snort.social/posts | snort.social - Nostr interface
-https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
-https://www.youtube.com/ | (185) YouTube
--->
 
 
-<!--
-## Books
-
-Clean Architecture
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-
-Mythical Man
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-## SICP
-
-## Python
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
-https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
-
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
-
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
-
-## End of SICP
-
-https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
-https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
-
-## More CS Books
-
-https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
-
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-
-https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
-https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
--->
 
 
 <!--
@@ -526,47 +494,6 @@ Browser
 https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
 
 https://incident.io/guide/ | Incident Management Guide
-
-
-## HTML
-
-https://htmx.org/
-
-https://github.com/timonweb/pytailwindcss
-https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
-
-## Mozilla
-
-https://mdn.dev/
-https://developer.mozilla.org/en-US/
-
-## JS Scene
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-
-## CSS/HTML/JavaScript
-
-https://stylestage.dev/styles/
-http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
-
-Aerojet
-view-source:https://stylestage.dev/styles/aerojet-505/
-https://stylestage.dev/styles/css/aerojet-505.css
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
 -->
 
 
@@ -814,12 +741,6 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 <!--
 https://opensource.com/
 
-## Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
 
 ## Architecture and Tools
 
@@ -897,11 +818,94 @@ https://github.com/drduh/macOS-Security-and-Privacy-Guide
 
 
 <!--
-## Interesting Ideas
+Books
 
-Product
+https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
+1️⃣ "Python Crash Course" by Eric Matthes
+2️⃣ "Fluent Python" by Luciano Ramalho
+3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
+4️⃣ "Clean Code" by Robert C. (Bob) Martin
+5️⃣ "Domain-Driven Design" by Eric Evans
+6️⃣ "Building Microservices" by Sam Newman
+7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
+8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
+9️⃣ "Cloud Native Python" by Manish Sethi
+🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
+-->
+
+<!--
+## Books
+
+Clean Architecture
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+
+Mythical Man
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+## SICP
+
+## Python
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+
+## More CS Books
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
+-->
+
+<!--
+## Public Speaker
+
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+
+## John Cutler
+
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
 https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
-https://twitter.com/johncutlefish/
+
+
+## Ryan Peterman
+
+https://twitter.com/ryanlpeterman/
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
+
+
+## Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
 
 ## Engineering
 
@@ -952,20 +956,6 @@ https://twitter.com/levelsio/
 
 https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
 https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
--->
-
-<!--
-https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
-1️⃣ "Python Crash Course" by Eric Matthes
-2️⃣ "Fluent Python" by Luciano Ramalho
-3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
-4️⃣ "Clean Code" by Robert C. (Bob) Martin
-5️⃣ "Domain-Driven Design" by Eric Evans
-6️⃣ "Building Microservices" by Sam Newman
-7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
-8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
-9️⃣ "Cloud Native Python" by Manish Sethi
-🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
 -->
 
 ## News Sites
@@ -1318,6 +1308,11 @@ https://ehmatthes.com/blog/simplified_heroku/
 
 ## Single File
 
+https://programmingmylife.com/2023-10-30-moving-from-django-microframework-to-django.html | Moving from Django Microframework to Django
+
+Django Microframeworks
+https://fosstodon.org/@programmylife/111325237088389893 | Andrew Mshar: "https://programmingmylife.com/…" - Fosstodon
+
 Carlton- single file
 
 Important
@@ -1615,6 +1610,8 @@ https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpf
 https://jvns.ca/blog/good-questions/ | How to ask good questions
 https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
 
+https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
+
 https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
 
 Julie debugging zine
@@ -1644,10 +1641,11 @@ https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on 
 ## Algorithms
 
 <!--
-https://www.algorist.com/ | The Algorithm Design Manual
-
+https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
 https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
 https://github.com/ThePrimeagen/kata-machine | ThePrimeagen/kata-machine
+
+https://www.algorist.com/ | The Algorithm Design Manual
 
 https://www.amazon.com/Common-Sense-Guide-Structures-Algorithms-Second/dp/1680507222?keywords=introduction+to+algorithms&qid=1660584469&s=books&sprefix=introduction,stripbooks,93&sr=1-16&linkCode=sl1&tag=theprimeagen-20&linkId=2000de29907b98b5ac7a98aa6b52c1d9&language=en_US&ref_=as_li_ss_tl | A Common-Sense Guide to Data Structures and Algorithms, Second Edition: Level Up Your Core Programming Skills: Wengrow, Jay: 9781680507225: Amazon.com: Books
 
@@ -1905,6 +1903,7 @@ https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to
 
 https://git-scm.com/ | Git
 https://git-scm.com/docs | Git - Reference
+
 
 Pro Git book
 https://git-scm.com/book/en/v2
