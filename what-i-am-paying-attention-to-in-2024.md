@@ -12,7 +12,7 @@ The latest tech news that makes it through the Hacker News upvote process.
 
 GitHub news and changelog
 * [GitHub Blog](https://github.blog)  
-* [GitHub Changelog](https://github.blog/changelog/) and [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+* [GitHub Changelog](https://github.blog/changelog/)
 
 ## Python and Django Features and Release
 
@@ -121,7 +121,7 @@ Django release notes, enhancements proposals, blog, roadmap
 ## How CPython Works
 
 * [C for Python Programmers](https://realpython.com/c-for-python-programmers/)
-* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/ )
+* [CPython Source Code Guide](https://realpython.com/cpython-source-code-guide/)
 * [CPython Internals Book](https://realpython.com/products/cpython-internals-book/)
 * [Building a Python C Extension Module](https://realpython.com/build-python-c-extension-module/)
 * [Compilers: Principles, Techniques, Tools (a.k.a. "The Dragon Book")](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811)
