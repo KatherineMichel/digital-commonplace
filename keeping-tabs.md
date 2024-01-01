@@ -35,7 +35,6 @@ http://highscalability.com/all-time-favorites/ | All Time Favorites -
 
 https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
 
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
 
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
@@ -60,6 +59,7 @@ Boost your DX
 ## Algorithms
 
 https://frontendmasters.com/courses/algorithms/introduction/ | Introduction - The Last Algorithms Course You'll Need | Frontend Masters
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews
 
 ## Interesting
 
