@@ -125,47 +125,13 @@ https://www.youtube.com/c/PyCascades/playlists
 -->
 
 <!--
-## HTML
+## Public Speaker
 
-https://htmx.org/
-
-https://github.com/timonweb/pytailwindcss
-https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
-
-## Mozilla
-
-https://mdn.dev/
-https://developer.mozilla.org/en-US/
-
-## JS Scene
-
-https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
-
-Unit Tests/TDD
-https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
-https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
-
-https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
-
-
-https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
-
-
-## CSS/HTML/JavaScript
-
-https://stylestage.dev/styles/
-http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
-
-Aerojet
-view-source:https://stylestage.dev/styles/aerojet-505/
-https://stylestage.dev/styles/css/aerojet-505.css
-
-https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
-https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
-
-https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
 -->
-
 
 <!--
 ## Formal Annual Review
@@ -183,9 +149,6 @@ https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag do
 https://jacobian.org/2020/mar/13/layoffs-are-coming/
 
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
-
-
-https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
 
 
 
@@ -228,244 +191,11 @@ Very Important!
 https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
 https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
 https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
--->
 
-
-
-
-
-<!--
-PyVideo
-
-JPMC
-
-https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
-
-
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-
-Architecture Notes
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-
-
-Bash docs
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-https://git-scm.com/ | Git
-https://git-scm.com/docs | Git - Reference
-
-Bitbucket
-
-Git Book
-Boost your DX
--->
-
-
-<!--
-## Interesting
-
-https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
-
-https://www.viktor.ai/white-papers/how-to-build-successful-apps
-
-Strip Mall User Research
-https://twitter.com/realEstateTrent/status/1692527765604434153 | StripMallGuy on X: "I secretly go on vacations to random US suburbs, and there is nothing like it! Just got back from one, and fired up. Let me explain: When you go to a place like Rome or Barcelona, you want to see as much as you can, experience the area like a local, and hit all the top spots.…" / X
-
-https://docs.google.com/document/d/1dnjXoHpVL5YmZTqVEC9b9JOfu6EzQiizZAHVAeDoIlo/edit#heading=h.qc1u3okpsxa2 | Mobile Application Risk Scoring - Google Docs
-
-Part time creator manifesto
-https://twitter.com/jasonleowsg/status/1536836425026371585 | Jason Leow on Twitter: "@valhalla_dev @swyx https://t.co/ZKhij5Bof6" / Twitter
-
-https://github.com/readme/guides/finish-your-projects | Finish your projects
-
-## Learning
-
-https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
-
-Don Knuth's Annual Christmas Lecture
-https://twitter.com/Grady_Booch/status/1607118853410271232
-
-https://twitter.com/hnasr/status/1686552725449064448 | Hussein Nasser on Twitter: "p.s. I recommend taking the Fundamentals of Network engineering course first followed by Fundamentals of Backend engineering then the performance course. The other courses can be taken in any order. Direct link https://t.co/tyX388seyr BACK-AUG2023-A NET-AUG2023-A…" / X
-
-https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
-
-https://stackshare.io/posts/top-developer-tools-2022 | 🏆 The Top 100 Developer Tools of 2022 | StackShare
-
-https://github.com/TylerJewell/DevLandscape | TylerJewell/DevLandscape: Developer-Led Landscape
-
-https://twitter.com/stubbornella/status/1664753839835348993 | Nicole Sullivan on Twitter: "I tried to make a cute little graphic about the skills front end folks have... and it exploded the edges! I probably even missed things 🤦🏼‍♀️ I think each developer has general skills as well as specialties. Did I miss something? https://t.co/vjtbLLorQS" / Twitter
-
-https://github.com/raunofreiberg/interfaces | raunofreiberg/interfaces: A non-exhaustive list of details that make a good web interface.
-
-https://github.com/wmariuss/awesome-devops | wmariuss/awesome-devops: A curated list of awesome DevOps platforms, tools, practices and resources
-
-https://hardcoresoftware.learningbyshipping.com/p/ultimate-guide-to-platforms?r=1j4m3&utm_campaign=post&utm_medium=web | 208. Ultimate Guide to Platforms
-
-
-
-https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls | Packagecloud Blog
-
-
-
-https://talkback.sh/ | Talkback
-
-https://btn.dev/ | Button — A simpler deployment story
-
-https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X: "Still comes in handy sometimes https://t.co/pCJRgQ01ui" / X
-
-argon 2 algorithm - Google Search
-
-
-
-
-http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
-
-
-
-
-## Django Patterns
-
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://www.martinfowler.com/eaaCatalog/activeRecord.html | P of EAA: Active Record
-domain model pattern - Google Search
-https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
-
-## Patterns
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
-
-
-
-
-## Python and Django
-
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
-
-
-
-
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-Python in VS Code
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-Towncrier
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
-
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
-
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-https://pycoders.com/
-
-
-## Talks
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/
-
-Chris May
-https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
-https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
-
-## Web Design/Dev
-
-https://bun.sh/
-
-https://web.dev/learn/accessibility/ | Learn Accessibility
-
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages | HTTP Messages - HTTP | MDN
-
-
-## Programming Parallel Computers, Distributed Algorithms
-
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-
-## System Design
-
-https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
-
-https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
-
-## Security
-
-https://twitter.com/0xAsm0d3us/status/1685311449210781696 | Devansh (⚡, 🥷) on Twitter: "This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand! https://t.co/6EEcdgFlTc https://t.co/gBK81Y9gVR" / X
-https://github.com/devanshbatham/Vulnerabilities-Unmasked | devanshbatham/Vulnerabilities-Unmasked: This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
-
-https://edu.chainguard.dev/chainguard/chainguard-images/images-compared/ | Comparison of Vulnerabilities in Container Images — Chainguard Academy
 
 ## Management
 
 https://hbr.org/2018/10/help-your-team-do-more-without-burning-out?utm_medium=social&utm_campaign=hbr&utm_source=Linkedin&tpcc=orgsocial_edit | Help Your Team Do More Without Burning Out
-
-
-
-
-## Learning Resources
-
-https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
-
-## Stats
-
-Hacker News Stats
-https://hackernews-insight.vercel.app/user-analysis | Evidence
-https://hackernews-insight.vercel.app/keyword-analysis | Evidence
-https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
-
-GitHub Star History Graph 
-https://twitter.com/newsycombinator/status/1530625174114078721
--->
-
-
-
-<!--
-## Shipping
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
--->
-
-
-
-
-
-<!--
-## Projects and Code
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
-
-Flask
-https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
-https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
-
 
 ## Growth Metrics
 
@@ -480,28 +210,38 @@ https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosyst
 https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
 
 
-## DevOps, SRE, and Incidents
+https://www.viktor.ai/white-papers/how-to-build-successful-apps
 
-SRE
-https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
+Strip Mall User Research
+https://twitter.com/realEstateTrent/status/1692527765604434153 | StripMallGuy on X: "I secretly go on vacations to random US suburbs, and there is nothing like it! Just got back from one, and fired up. Let me explain: When you go to a place like Rome or Barcelona, you want to see as much as you can, experience the area like a local, and hit all the top spots.…" / X
 
-https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
+https://docs.google.com/document/d/1dnjXoHpVL5YmZTqVEC9b9JOfu6EzQiizZAHVAeDoIlo/edit#heading=h.qc1u3okpsxa2 | Mobile Application Risk Scoring - Google Docs
 
-https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
-https://browser.engineering/ | Web Browser Engineering
+Part time creator manifesto
+https://twitter.com/jasonleowsg/status/1536836425026371585 | Jason Leow on Twitter: "@valhalla_dev @swyx https://t.co/ZKhij5Bof6" / Twitter
 
-Browser
-https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
-
-https://incident.io/guide/ | Incident Management Guide
+https://github.com/readme/guides/finish-your-projects | Finish your projects
 -->
 
+<!--
+## Shipping
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+-->
 
 <!--
 ## Carlota Perez
 
 https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
 
+
+https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
 
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
 
@@ -543,6 +283,8 @@ Productivity
 Prioritization
 * [Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm)
 * [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
 
 Mental Models and Cognitive Biases
 * [Mental Model Wikipedia](http://en.wikipedia.org/wiki/Mental_model) 
@@ -586,6 +328,12 @@ http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learnin
 
 
 Shipping/Makers
+
+
+## High Performance Organizations
+
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
 
 ## Engineering Management
 
@@ -633,256 +381,9 @@ https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
 
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
-
-
-APIs
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-
-SRE, DevOps, CI/CD
-
-Jez Humble
-Accelerate
-
-
-Software construction tools
-UML, TLA+
-
-Driven Development
-
-
-## High Performance Organizations
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-
-## Architectures at Scale
-
-https://github.com/KatherineMichel/organizations
-
-https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
-
-http://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
-
-High Scalability
-http://highscalability.com/blog/category/example
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-
-Authorities
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-
-Types of Patterns
-* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
-
-
-
-Programming Paradigms
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-
-## Refactoring
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-## Patterns
-
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://refactoring.guru/design-patterns/ | Design Patterns
-https://refactoring.guru/design-patterns/python
-
-## Python Patterns
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
-
-https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
-
-## Domain Driven Design and Event Sourcing
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-Event Sourcing
-https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
-https://martinfowler.com/bliki/CQRS.html | CQRS
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
--->
-
-
-
-<!--
-https://opensource.com/
-
-
-## Architecture and Tools
-
-https://architecturenotes.co/newsletter/ | Weekly Newsletters
-
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
-
-https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
-
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
-
-
-https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-
-## System Design
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design - High Scalability -
-
-
-## Paradigms
-
-http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
--->
-
-
-<!--
-
-## Google
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
-## SRE
-
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-
-https://landing.google.com/sre/books
-https://sre.google/books/ | Google - Site Reliability Engineering
-
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
-
-
-## Interesting
-
-What Happens When
-
-Network communication protocols
-https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/OSI_model
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-* [Ilya Grigorik](https://www.igvita.com/)
-
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
-
-
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide 
--->
-
-
-<!--
-Books
-
-https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
-1️⃣ "Python Crash Course" by Eric Matthes
-2️⃣ "Fluent Python" by Luciano Ramalho
-3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
-4️⃣ "Clean Code" by Robert C. (Bob) Martin
-5️⃣ "Domain-Driven Design" by Eric Evans
-6️⃣ "Building Microservices" by Sam Newman
-7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
-8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
-9️⃣ "Cloud Native Python" by Manish Sethi
-🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
 -->
 
 <!--
-## Books
-
-Clean Architecture
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-
-Mythical Man
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-## SICP
-
-## Python
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
-https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
-
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
-
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
-
-## End of SICP
-
-https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
-https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
-
-## More CS Books
-
-https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
-
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-
-https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
-https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
--->
-
-<!--
-## Public Speaker
-
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
-https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
-https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
-
 ## John Cutler
 
 https://twitter.com/johncutlefish
@@ -986,6 +487,18 @@ https://github.com/trending/developers | Trending developers on GitHub today
 
 Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+<!--
+## Stats
+
+Hacker News Stats
+https://hackernews-insight.vercel.app/user-analysis | Evidence
+https://hackernews-insight.vercel.app/keyword-analysis | Evidence
+https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
+
+GitHub Star History Graph 
+https://twitter.com/newsycombinator/status/1530625174114078721
 -->
 
 ## Python Unofficial News and Projects
@@ -1517,6 +1030,10 @@ https://github.com/coodict/javascript-in-one-pic
 <!--
 ## Learning Resources
 
+https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+
+## Learning Resources
+
 https://www.pluralsight.com/guides/
 https://app.pluralsight.com/library/free | Pluralsight
 
@@ -1612,6 +1129,8 @@ https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some way
 
 https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
 
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
 https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
 
 Julie debugging zine
@@ -1635,6 +1154,70 @@ https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
 
 Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
+-->
+
+
+<!--
+## Talks
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/
+
+Chris May
+https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
+https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
+
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+Flask
+https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
+https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
+-->
+
+
+<!--
+## Django Patterns
+
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://www.martinfowler.com/eaaCatalog/activeRecord.html | P of EAA: Active Record
+domain model pattern - Google Search
+https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
+
+
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+Python in VS Code
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+https://pycoders.com/
 -->
 
 
@@ -2206,7 +1789,6 @@ https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Includ
 * [Basecamp](https://basecamp.com/)
 
 
-
 <!--
 Octopus
 Lint All the Things
@@ -2217,6 +1799,397 @@ Frederike Jaeger
 https://pyvideo.org/speaker/frederike-jaeger.html
 Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
+-->
+
+
+
+<!--
+PyVideo
+
+JPMC
+
+https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+
+
+Bash docs
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs | Git - Reference
+
+Bitbucket
+
+Git Book
+Boost your DX
+-->
+
+
+<!--
+https://opensource.com/
+
+## Learning
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
+
+Don Knuth's Annual Christmas Lecture
+https://twitter.com/Grady_Booch/status/1607118853410271232
+
+https://twitter.com/hnasr/status/1686552725449064448 | Hussein Nasser on Twitter: "p.s. I recommend taking the Fundamentals of Network engineering course first followed by Fundamentals of Backend engineering then the performance course. The other courses can be taken in any order. Direct link https://t.co/tyX388seyr BACK-AUG2023-A NET-AUG2023-A…" / X
+
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+
+https://stackshare.io/posts/top-developer-tools-2022 | 🏆 The Top 100 Developer Tools of 2022 | StackShare
+
+https://github.com/TylerJewell/DevLandscape | TylerJewell/DevLandscape: Developer-Led Landscape
+
+https://twitter.com/stubbornella/status/1664753839835348993 | Nicole Sullivan on Twitter: "I tried to make a cute little graphic about the skills front end folks have... and it exploded the edges! I probably even missed things 🤦🏼‍♀️ I think each developer has general skills as well as specialties. Did I miss something? https://t.co/vjtbLLorQS" / Twitter
+
+https://github.com/raunofreiberg/interfaces | raunofreiberg/interfaces: A non-exhaustive list of details that make a good web interface.
+
+https://github.com/wmariuss/awesome-devops | wmariuss/awesome-devops: A curated list of awesome DevOps platforms, tools, practices and resources
+
+https://hardcoresoftware.learningbyshipping.com/p/ultimate-guide-to-platforms?r=1j4m3&utm_campaign=post&utm_medium=web | 208. Ultimate Guide to Platforms
+
+
+
+https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls | Packagecloud Blog
+
+
+
+https://talkback.sh/ | Talkback
+
+https://btn.dev/ | Button — A simpler deployment story
+
+https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X: "Still comes in handy sometimes https://t.co/pCJRgQ01ui" / X
+
+argon 2 algorithm - Google Search
+
+
+
+
+http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
+
+-->
+
+
+<!--
+SRE, DevOps, CI/CD
+
+Jez Humble
+Accelerate
+
+
+Software construction tools
+UML, TLA+
+
+Driven Development
+
+## DevOps, SRE, and Incidents
+
+SRE
+https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
+
+https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
+
+https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
+https://browser.engineering/ | Web Browser Engineering
+
+Browser
+https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
+
+https://incident.io/guide/ | Incident Management Guide
+
+
+## Google
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+
+## SRE
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+
+https://landing.google.com/sre/books
+https://sre.google/books/ | Google - Site Reliability Engineering
+
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+
+## Interesting
+
+What Happens When
+
+Network communication protocols
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/OSI_model
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
+
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+
+## System Design
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
+
+## Programming Parallel Computers, Distributed Algorithms
+
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+-->
+
+<!--
+## Architecture and Tools
+
+Architecture Notes
+https://architecturenotes.co/newsletter/ | Weekly Newsletters
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
+
+https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
+
+
+## Architectures at Scale
+
+https://github.com/KatherineMichel/organizations
+
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
+http://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+
+High Scalability
+http://highscalability.com/blog/category/example
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+
+
+Authorities
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
+Types of Patterns
+* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
+
+
+## Paradigms
+
+http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
+
+Programming Paradigms
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+
+## Refactoring
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+## Patterns
+
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
+
+https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+https://refactoring.guru/design-patterns/python
+
+## Python Patterns
+
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+
+
+https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
+
+## Domain Driven Design and Event Sourcing
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+Event Sourcing
+https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
+https://martinfowler.com/bliki/CQRS.html | CQRS
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+-->
+
+<!--
+## Security
+
+Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide 
+
+https://twitter.com/0xAsm0d3us/status/1685311449210781696 | Devansh (⚡, 🥷) on Twitter: "This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand! https://t.co/6EEcdgFlTc https://t.co/gBK81Y9gVR" / X
+https://github.com/devanshbatham/Vulnerabilities-Unmasked | devanshbatham/Vulnerabilities-Unmasked: This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
+
+https://edu.chainguard.dev/chainguard/chainguard-images/images-compared/ | Comparison of Vulnerabilities in Container Images — Chainguard Academy
+-->
+
+
+<!--
+Books
+
+https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
+1️⃣ "Python Crash Course" by Eric Matthes
+2️⃣ "Fluent Python" by Luciano Ramalho
+3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
+4️⃣ "Clean Code" by Robert C. (Bob) Martin
+5️⃣ "Domain-Driven Design" by Eric Evans
+6️⃣ "Building Microservices" by Sam Newman
+7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
+8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
+9️⃣ "Cloud Native Python" by Manish Sethi
+🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
+-->
+
+<!--
+## Books
+
+Clean Architecture
+Clean Code
+Code Complete
+TDD
+Extreme Programming
+
+Mythical Man
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+## SICP
+
+## Python
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+
+## More CS Books
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
+-->
+
+
+<!--
+## Web Design/Dev
+
+https://bun.sh/
+
+https://web.dev/learn/accessibility/ | Learn Accessibility
+
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Messages | HTTP Messages - HTTP | MDN
+
+
+## HTML
+
+https://htmx.org/
+
+https://github.com/timonweb/pytailwindcss
+https://timonweb.com/python/you-can-now-use-pip-to-install-tailwind-css-nodejs-is-no-longer-required/
+
+## Mozilla
+
+https://mdn.dev/
+https://developer.mozilla.org/en-US/
+
+## JS Scene
+
+https://medium.com/javascript-scene/abstraction-composition-cb2849d5bdd6 | Abstraction & Composition – JavaScript Scene – Medium	
+
+Unit Tests/TDD
+https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d | 5 Questions Every Unit Test Must Answer - JavaScript Scene - Medium
+https://medium.com/javascript-scene/testing-software-what-is-tdd-459b2145405c | Testing Software: What is TDD? - JavaScript Scene - Medium
+
+https://medium.com/javascript-scene/tdd-the-rite-way-53c9b46f45e3 | TDD the RITE Way. Test Driven Development (TDD) is a… | by Eric Elliott | JavaScript Scene | Medium
+
+
+https://medium.com/javascript-scene/composing-software-an-introduction-27b72500d6ea | Composing Software: An Introduction | by Eric Elliott | JavaScript Scene | Medium
+
+
+## CSS/HTML/JavaScript
+
+https://stylestage.dev/styles/
+http://csszengarden.com/1 | CSS Zen Garden: The Beauty of CSS Design
+
+Aerojet
+view-source:https://stylestage.dev/styles/aerojet-505/
+https://stylestage.dev/styles/css/aerojet-505.css
+
+https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebprojects: Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries
+https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
+
+https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
 -->
 
 ## Trending and Top of All Time
