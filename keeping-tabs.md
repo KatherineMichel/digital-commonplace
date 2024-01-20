@@ -766,31 +766,6 @@ Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
 
 
-## Python/Django Standards
-
-https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
-https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
-
-https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
-https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/ | Composition over inheritance: The case for function-based views - Matthias Kestenholz
-https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of standards - Matthias Kestenholz
-
-https://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ | Summary Of Python Profiling Tools – Part I - Performance Engineering
-https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/ | More than 90 Profiling Tools for Desktop to Larget Supercomputers
-
-https://hynek.me/articles/ditch-codecov-python/
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-Diátaxis
-https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework | What is Diátaxis and should you be using it with your documentation? | I'd Rather Be Writing Blog and API doc course
-
-## Tools Matrix
-
-https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / X
-
-
 ## Finance
 
 Bank Python
@@ -1006,6 +981,10 @@ https://harvard-iacs.github.io/2019-CS109A/pages/materials.html | CS109A - Mater
 
 https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python | 
 
+https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
+
+https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
+
 
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
@@ -1142,8 +1121,6 @@ https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
 https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
 
 https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
-
-https://www.youtube.com/watch?time_continue=1077&v=nLRL_NcnK-4&embeds_euri=https%3A%2F%2Ftwitter.com%2F&source_ve_path=Mjg2NjY&feature=emb_logo | Harvard CS50’s Introduction to Programming with Python – Full University Course - YouTube
 
 https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
 
@@ -1388,9 +1365,29 @@ https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 ## Quality Tools
 
 <!--
+## Python/Django Standards
+
+https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
+https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+
+https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
+https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/ | Composition over inheritance: The case for function-based views - Matthias Kestenholz
+https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of standards - Matthias Kestenholz
+
+https://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ | Summary Of Python Profiling Tools – Part I - Performance Engineering
+https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/ | More than 90 Profiling Tools for Desktop to Larget Supercomputers
+
+https://hynek.me/articles/ditch-codecov-python/
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+Diátaxis
+https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework | What is Diátaxis and should you be using it with your documentation? | I'd Rather Be Writing Blog and API doc course
+
 ## Tools Matrix
 
-https://twitter.com/nletcher/status/1487782511543746565
+https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / X
 
 
 https://pre-commit.com/ | pre-commit
@@ -1456,15 +1453,15 @@ https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 
 https://postgis.net/
 https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
-
-## Modelling
-
-https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
 -->
 
 ## Domain Modelling
 
 <!--
+## Modelling
+
+https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
+
 Domain Modelling
 * [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
 -->
@@ -1840,8 +1837,6 @@ https://opensource.com/
 
 ## Learning
 
-https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introduction to Computer Science | Harvard University
-
 Don Knuth's Annual Christmas Lecture
 https://twitter.com/Grady_Booch/status/1607118853410271232
 
@@ -1877,9 +1872,7 @@ argon 2 algorithm - Google Search
 
 
 
-
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
-
 -->
 
 
@@ -2004,11 +1997,6 @@ Authorities
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
-Types of Patterns
-* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
-
 
 ## Paradigms
 
@@ -2042,7 +2030,6 @@ https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/03
 
 https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
@@ -2221,7 +2208,6 @@ GitHub Engineering
 GitLab
 * [GitLab Blog](https://about.gitlab.com/blog/)
 
-
 ## Articles
 
 The Practical Dev and Hackernoon
@@ -2265,7 +2251,6 @@ Product Hunt Product Leader Boards
 * [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
 * [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
 * [Top 500 Products](http://500products.com)
-
 
 ### Lawrence
 
