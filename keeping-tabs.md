@@ -1157,14 +1157,6 @@ https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — 
 
 
 <!--
-## Django Patterns
-
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://www.martinfowler.com/eaaCatalog/activeRecord.html | P of EAA: Active Record
-domain model pattern - Google Search
-https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
-
-
 ## Python and Django
 
 https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
@@ -2020,10 +2012,6 @@ Programming Language Comparisons
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
 
 
-## Refactoring
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
 ## Patterns
 
 https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
@@ -2036,10 +2024,8 @@ https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 https://refactoring.guru/design-patterns/ | Design Patterns
 https://refactoring.guru/design-patterns/python
 
+
 ## Python Patterns
-
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
-
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
 
