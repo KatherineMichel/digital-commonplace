@@ -76,6 +76,17 @@ https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structu
 https://en.wikipedia.org/wiki/S-expression
 -->
 
+### Stacks and Queues
+
+LIFO and FIFO
+* [LIFO (Stack) Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
+* [FIFO (Queue) Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
+
+<!--
+Python has built-in functionality
+https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
+-->
+
 ### Trees and Graphs
 
 Heaps (Specialized tree data structure)
@@ -154,10 +165,6 @@ Memoization (a common strategy in dynamic programming, using recursion with memo
 * Only pure functions (functional programming) should be memoized
 * [Memoization Wikipedia](https://en.wikipedia.org/wiki/Memoization)
 * [functools.cache](https://docs.python.org/3/library/functools.html#functools.cache)
-
-Functional Programming
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 
 <!--
 The iterative Fibonacci algorithm is an example of bottom-up dynamic programming. 
