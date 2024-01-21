@@ -82,11 +82,6 @@ LIFO and FIFO
 * [LIFO (Stack) Wikipedia](https://en.wikipedia.org/wiki/LIFO_(computing))
 * [FIFO (Queue) Wikipedia](https://en.wikipedia.org/wiki/FIFO_(computing_and_electronics))
 
-<!--
-Python has built-in functionality
-https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
--->
-
 ### Trees and Graphs
 
 Heaps (Specialized tree data structure)
@@ -111,6 +106,13 @@ Binary Heap (Binary Tree)
 
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Bit Array Wikipedia](https://en.wikipedia.org/wiki/Bit_array)
+
+## Python Build-In Functionality
+
+<!--
+Python has built-in functionality
+https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
+-->
 
 ## Algorithms
 
