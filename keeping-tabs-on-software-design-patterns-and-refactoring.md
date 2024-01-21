@@ -145,6 +145,7 @@ Object Oriented Software Characteristics
 Functional Programming
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
 * [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
 
 Imperative and Declarative
 * [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
@@ -159,6 +160,7 @@ React?
 
 <!--
 Functional programming
+pure function
 
 https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 
@@ -175,9 +177,12 @@ Composition
 
 ## Useful Terminology
 
+Example of stateless protocols
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+* [HTTP](https://en.wikipedia.org/wiki/HTTP)
+
 State
 * [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
-* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
 * [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
 * [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
 
@@ -328,8 +333,8 @@ MVCs
 ## Tidy First?
 
 I. Tidyings
-1. Guard Clauses
-2. Dead Code
+1. Guard Clauses: https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
+2. Dead Code: https://refactoring.com/catalog/removeDeadCode.html
 3. Normalize Symmetries
 4. New Interface, Old Implementation
 5. Reading Order
