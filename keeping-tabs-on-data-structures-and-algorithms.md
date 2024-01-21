@@ -1,6 +1,109 @@
 # Data Structures and Algorithms
 
-## Algorithmic Paradigms
+## Data
+
+### Data Types
+
+Data Type
+* [Data Type Wikipedia](https://en.wikipedia.org/wiki/Data_type)
+
+Abstract Data Type
+* [Abstract Data Type Wikipedia](https://en.wikipedia.org/wiki/Abstract_data_type)
+
+Container
+* [Container (Abstract Data Type) Wikipedia](https://en.wikipedia.org/wiki/Container_(abstract_data_type))
+
+### Data Structures
+
+Data Structure
+* [Data Structure Wikipedia](https://en.wikipedia.org/wiki/Data_structure)
+* [Data Structures Wikipedia](https://en.wikibooks.org/wiki/Data_Structures)
+
+### Data Structures- Lists and Comparisons
+
+List of Data Structures and Comparison of Data Structures
+* [List of Data Structures Wikipedia](https://en.wikipedia.org/wiki/List_of_data_structures)
+* [Comparison of Data Structures Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_data_structures) 
+
+### Data Structure Concepts
+
+Contiguous versus Linked Data Structures
+* [Contiguity Wikipedia](https://en.wikipedia.org/wiki/Contiguity#Computer_science)
+* [Array (Contiguous) Wikipedia](https://en.wikipedia.org/wiki/Array_data_structure)
+* [Linked Data Structure Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure)
+* [Linked List vs. Array Wikipedia](https://en.wikipedia.org/wiki/Linked_data_structure#Linked_list_versus_arrays)
+* [Singly Linked Linear Lists vs. Other Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_linear_lists_vs._other_lists)
+
+### Common Data Structures and Algorithms
+
+String
+* [String Wikipedia](https://en.wikipedia.org/wiki/String_(computer_science))
+
+List
+* [List Wikipedia](https://en.wikipedia.org/wiki/List_(abstract_data_type))
+
+Data Structures- Linear
+* [Linked List Wikipedia](https://en.wikipedia.org/wiki/Linked_list)
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Queue Wikipedia](https://en.wikipedia.org/wiki/Queue_(abstract_data_type))
+* [Double-Ended Queue (Deque) Wikipedia](https://en.wikipedia.org/wiki/Double-ended_queue)
+* Vectors/Arraylists 
+
+Heap or Unordered Array
+* [Priority Queue Wikipedia (similar to a queue or stack- implemented with heap or unordered array)](https://en.wikipedia.org/wiki/Priority_queue)
+
+Singly-Linked, Doubly-Linked Lists, and Circular Linked List
+* [Singly Linked Lists Wikipedia](https://en.wikipedia.org/wiki/Linked_list#Singly_linked_lists)
+* [Doubly Linked List Wikipedia](https://en.wikipedia.org/wiki/Doubly_linked_list)
+* Circular Linked List
+
+Data Structures- Hash/Hash Table (Python Dictionary, "implements an associative array abstract data type")
+* [Hash Table Wikipedia](https://en.wikipedia.org/wiki/Hash_table)
+* [Associative Array Wikipedia](https://en.wikipedia.org/wiki/Associative_array)
+
+Trees, Tries, & Graphs
+* [Heap (tree) Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+* [Trie Wikipedia](https://en.wikipedia.org/wiki/Trie)
+
+Concepts- Memory (Stack vs. Heap)
+* [Stack Wikipedia](https://en.wikipedia.org/wiki/Stack_(abstract_data_type))
+* [Heap Wikipedia (Specialized tree data structure)](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+<!--
+https://en.wikibooks.org/wiki/Data_Structures/Singly_Linked_Lists | Data Structures/Singly Linked Lists - Wikibooks, open books for an open world
+
+"Linked lists can be used to implement several other common abstract data types, including lists, stacks, queues, associative arrays, and S-expressions"
+https://en.wikipedia.org/wiki/S-expression
+-->
+
+### Trees and Graphs
+
+Heaps (Specialized tree data structure)
+* [Heap Wikipedia](https://en.wikipedia.org/wiki/Heap_(data_structure))
+
+Graph and Tree Traversal
+* [Graph Traversal Wikipedia](https://en.wikipedia.org/wiki/Graph_traversal)
+* [Tree Traversal Wikipedia](https://en.wikipedia.org/wiki/Tree_traversal)
+* [Backtracking Wikipedia](https://en.wikipedia.org/wiki/Backtracking)
+
+Tree
+* [Tree (Data Structure) Wikipedia](https://en.wikipedia.org/wiki/Tree_(data_structure))
+* [Tree (Graph Theory) Wikipedia](https://en.wikipedia.org/wiki/Tree_(graph_theory))
+* [Graph Theory Wikipedia]([https://en.wikipedia.org/wiki/Graph_theory)
+
+Binary Heap (Binary Tree)
+* [Binary Heap Wikipedia](https://en.wikipedia.org/wiki/Binary_heap)
+* [Binary Tree Wikipedia](https://en.wikipedia.org/wiki/Binary_tree)
+* [Binary Search Tree Wikipedia](https://en.wikipedia.org/wiki/Binary_search_tree)
+
+### Bit and Binary
+
+* [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
+* [Bit Array Wikipedia](https://en.wikipedia.org/wiki/Bit_array)
+
+## Algorithms
+
+### Algorithmic Paradigms
 
 List of Algorithmic Paradigms
 * [Algorithmic Paradigms Wikipedia](https://en.wikipedia.org/wiki/Algorithmic_paradigm#General)
@@ -25,12 +128,12 @@ Strings
 * [String Algorithm Wikipedia](https://en.wikipedia.org/wiki/String_algorithm)
 * [String Searching Algorithm Wikipedia](https://en.wikipedia.org/wiki/String-searching_algorithm)
 
-## Algorithmic Paradigms- Dynamic Programming
+### Algorithmic Paradigms- Dynamic Programming
 
 * [Optimal Substructure Wikipedia](https://en.wikipedia.org/wiki/Optimal_substructure)
 * [Overlapping Subproblems Wikipedia](https://en.wikipedia.org/wiki/Overlapping_subproblems)
 
-## Algorithmic Paradigms- Recursion
+### Algorithmic Paradigms- Recursion
 
 See also: Al Sweigart's book The Recursive Book of Recursion
 
@@ -50,6 +153,7 @@ Dynamic Programming (break a large program into overlapping subproblems, dynamic
 Memoization (a common strategy in dynamic programming, using recursion with memoization is top-down dynamic programming)
 * Only pure functions (functional programming) should be memoized
 * [Memoization Wikipedia](https://en.wikipedia.org/wiki/Memoization)
+* [functools.cache](https://docs.python.org/3/library/functools.html#functools.cache)
 
 Functional Programming
 * [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
@@ -64,8 +168,14 @@ https://en.wikipedia.org/wiki/Code_reuse
 https://docs.python.org/3/library/functools.html#functools.cache
 -->
 
-## Recursive, Divide-and-Conquer Algorithms
+### Sorting- Recursive, Divide-and-Conquer Algorithms
 
 Dynamic programming techniques aren’t applied to these sorting algorithms, because they are unique: their subproblems do not overlap
 * [Merge Sort Wikipedia](http://en.wikipedia.org/wiki/Merge_sort)
 * [Quicksort Wikipedia](http://en.wikipedia.org/wiki/Quicksort)
+
+### Search Algorithms
+
+* [Breadth-First Search Wikipedia](https://en.wikipedia.org/wiki/Breadth-first_search)
+* [Depth-First Search Wikipedia](https://en.wikipedia.org/wiki/Depth-first_search)
+* [Binary Search Algorithm](https://en.wikipedia.org/wiki/Binary_search_algorithm)
