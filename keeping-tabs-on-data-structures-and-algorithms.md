@@ -26,6 +26,14 @@ Data structures
 https://docs.python.org/3/tutorial/datastructures.html
 -->
 
+## Python Pattern Examples
+
+<!--
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+-->
+
 ## Python Build-In Functionality
 
 <!--
@@ -55,6 +63,10 @@ https://www.geeksforgeeks.org/sort-sorteda-np-argsorta-np-lexsortb-python/ | a.s
 
 https://twitter.com/raymondh/status/1025252216985346048 | Raymond Hettinger on Twitter: "#Python 3.8 news: We now have a Euclidean distance function in the math math module :-) https://t.co/nJZX0cfOcK Now, k-nearest neighbors boils down to: nsmallest(k, training_data, partial(dist, new_point))"
 -->
+
+### Heap Queue Algorithm
+
+#### Heap Queue Algorithm- Priority Queue Implementation
 
 ## Data
 
