@@ -712,11 +712,6 @@ Design Patterns- General
 Design Patterns- Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
-Types of Patterns
-* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
-
 ## Software Design Patterns- General
 
 Design Patterns- General
@@ -725,6 +720,11 @@ Design Patterns- General
 
   
 ## General Software Design Patterns- Types
+
+Types of Patterns
+* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
+* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
+* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
 
 Creational Patterns (object creation)
 * [Factory Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Factory_method_pattern)
@@ -775,16 +775,115 @@ Patterns Talks
 Brandon
 * [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
 
+Gang of Four: Principles
+
 Composition over Inheritance: https://python-patterns.guide/gang-of-four/composition-over-inheritance/
+Problem: the subclass explosion
+Solution #1: The Adapter Pattern
+Solution #2: The Bridge Pattern
+Solution #3: The Decorator Pattern
+Solution #4: Beyond the Gang of Four patterns
+
 * Dodge: “if” statements
 * Dodge: Multiple Inheritance: https://fuhm.net/super-harmful/
 * Dodge: Mixins
 * Dodge: Building classes dynamically
+  
+Python-Specific Patterns
 
+The Global Object Pattern
+The Constant Pattern
+Import-time computation
+Dunder Constants
+The Global Object Pattern
+Global Objects that are mutable
+Import-time I/O
+
+The Prebound Method Pattern
+Alternatives
+The pattern
+The Sentinel Object Pattern
+
+Sentinel Value
+The Null Pointer Pattern
+The Null Object Pattern
+Sentinel Objects
+
+Gang of Four: Creational Patterns¶
+
+The Abstract Factory Pattern
+The Pythonic approach: callable factories
+Restriction: outlaw passing callables
+Restriction: outlaw passing classes
+Generalizing: the complete Abstract Factory
+
+The Builder Pattern
+The Builder as convenience
+Nuance
+Dueling builders
+A degenerate case: simulating optional arguments
+
+The Factory Method Pattern
+Dodge: use Dependency Injection
+Instead: use a Class Attribute Factory
+Instead: use an Instance Attribute Factory
+Instance attributes override class attributes
+Any callables accepted
+Implementing
+
+The Prototype Pattern
+The problem
+Pythonic solutions
+Implementing
+
+The Singleton Pattern
+Disambiguation
+The Gang of Four’s implementation
+A more Pythonic implementation
+Verdict
+
+Gang of Four: Structural Patterns
+
+The Composite Pattern
+Example: the UNIX file system
+On hierarchies
+Example: GUI programming with Tkinter
+Implementation: to inherit, or not?
+
+The Decorator Pattern
+Definition
+Implementing: Static wrapper
+Implementing: Tactical wrapper
+Implementing: Dynamic wrapper
+Caveat: Wrapping doesn’t actually work
+Hack: Monkey-patch each object
+Hack: Monkey-patch the class
+Further Reading
+
+The Flyweight Pattern
+Factory or Constructor
+Implementing
+
+Gang of Four: Behavioral Patterns
+
+The Iterator Pattern
+Iterating with the “for” loop
+The pattern: the iterable and its iterator
+A twist: objects which are their own iterator
+Implementing an Iterable and Iterator
+Python’s extra level of indirection
+
+Bibliography
+Gang of Four book
+Refactoring by Martin Fowler
+
+<!--
 Adapter/facade can work together
 Observer- the inverse of adapter/facade, can take their place? (Django signals is an implentation of observer)
 
-<!--
+simply visit the commit history of this site’s project repository on GitHub, where you can also select “Watch” to get updates.
+With those preliminaries complete, here are the patterns!
+
 https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
 http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
 http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
