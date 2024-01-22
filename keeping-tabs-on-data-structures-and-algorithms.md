@@ -37,6 +37,23 @@ https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
 
 Using lists as queues
 https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
+
+https://en.wikipedia.org/wiki/Timsort | Timsort - Wikipedia
+https://www.geeksforgeeks.org/timsort/ | TimSort - GeeksforGeeks
+
+operators
+list sort, pop, copy
+range() Function (for Statement)
+reversed()
+sorted()
+sort()
+sort(reverse=True)
+sorted(items, reverse=True)
+
+https://www.geeksforgeeks.org/sort-in-python/ | sort() in Python - GeeksforGeeks
+https://www.geeksforgeeks.org/sort-sorteda-np-argsorta-np-lexsortb-python/ | a.sort(), sorted(a), np.argsort(a) and np.lexsort(b, a) in Python - GeeksforGeeks
+
+https://twitter.com/raymondh/status/1025252216985346048 | Raymond Hettinger on Twitter: "#Python 3.8 news: We now have a Euclidean distance function in the math math module :-) https://t.co/nJZX0cfOcK Now, k-nearest neighbors boils down to: nsmallest(k, training_data, partial(dist, new_point))"
 -->
 
 ## Data
