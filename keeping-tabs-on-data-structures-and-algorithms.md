@@ -1,5 +1,25 @@
 # Data Structures and Algorithms
 
+## Python Data Structures and Algorithms
+
+<!--
+Data structures
+https://docs.python.org/3/tutorial/datastructures.html
+-->
+
+## Python Build-In Functionality
+
+<!--
+Python has built-in functionality
+https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
+
+Using lists as stacks
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-stacks
+
+Using lists as queues
+https://docs.python.org/3/tutorial/datastructures.html#using-lists-as-queues
+-->
+
 ## Data
 
 ### Data Types
@@ -106,13 +126,6 @@ Binary Heap (Binary Tree)
 
 * [Binary Number Wikipedia](https://en.wikipedia.org/wiki/Binary_number)
 * [Bit Array Wikipedia](https://en.wikipedia.org/wiki/Bit_array)
-
-## Python Build-In Functionality
-
-<!--
-Python has built-in functionality
-https://en.wikipedia.org/wiki/Double-ended_queue#Implementations
--->
 
 ## Algorithms
 
