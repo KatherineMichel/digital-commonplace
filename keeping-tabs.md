@@ -3,6 +3,191 @@
 # Learning Resources
 
 <!--
+## Cutlefish
+
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+
+
+https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/ | Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+## Problem Solving Platforms
+
+https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
+https://www.hackerrank.com/
+
+## Advent of Code
+
+https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
+
+
+## People
+
+PyLadies Contributors
+https://github.com/pyladies/global-conference/graphs/contributors | Contributors to pyladies/global-conference
+
+https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python Software Foundation
+
+DSF People
+https://twitter.com/djangoproject/following | People followed by Django (@djangoproject) / X
+https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
+
+CPython
+https://github.com/python/cpython/graphs/contributors | Contributors to python/cpython
+
+
+## Python Applications
+
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+
+## Jacob's Template
+
+https://github.com/jacobian/personal-app-template | jacobian/personal-app-template: A cookiecutter template for little personal apps.
+
+## Overthinking
+
+https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ | Probably Overthinking It Notebooks – Probably Overthinking It
+
+
+## Sad Python Girls Club
+
+https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
+
+## Django Chat
+
+https://djangochat.com
+
+## Python Pulse and VS Code
+
+https://www.youtube.com/@code
+
+## core.py Podcast
+
+https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
+https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
+https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
+
+https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
+
+
+## Python Cheatsheet
+
+https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
+
+
+## Compilers
+
+https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
+
+## JiT
+
+https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
+
+https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
+https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
+https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
+
+
+## Python Discussion
+
+https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
+
+## Seth
+
+Weekly Reports
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
+
+SBOM
+https://gist.github.com/sethmlarson/103891c6cac4d41b11daab89e6c84868 | WIP CPython source SBOM
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-12 | Starting on Software Bill-of-Materials (SBOM) for CPython
+https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf | Authoritative Guide to SBOM
+https://www.einpresswire.com/article/665343822/owasp-launches-bom-maturity-model-new-benchmark-for-sbom-quality | OWASP Launches BOM Maturity Model; New Benchmark For SBOM Quality
+https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293 | Create and distribute Software Bill-of-Materials (SBOM) for Python artifacts - Core Development - Discussions on Python.org
+
+https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-language/ | Python's New Security Developer Has Plans to Secure the Language - The New Stack
+https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
+
+https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
+
+## Jobs
+
+https://foxleytalent.com/ | Foxley Talent
+https://jobs.django-news.com/ | Django News Jobs
+
+## Djangonaut Space
+
+https://www.linkedin.com/company/djangonaut-space/ | Djangonaut Space: Overview | LinkedIn
+
+## Django Roadmap
+
+https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
+https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
+
+## Django Sites
+
+https://builtwithdjango.com/projects/ | Built with Django
+https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
+
+## Django Dev
+
+https://www.djangoproject.com/weblog
+
+Django 5.0
+https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
+https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
+https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
+
+## Django Roadmap
+
+https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
+
+## Django Contributing
+
+https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
+
+## Django Translations
+
+https://app.transifex.com/django/django/language/sw/ | Page not found
+https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
+https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
+
+## Git
+
+https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
+
+## Regex
+
+https://regexcrossword.com/ | Regex Crossword
+
+## Top-Down Design
+
+https://paulgraham.com/progbot.html | Programming Bottom-Up
+
+## Data Structures and Algos
+
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
+
+https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
+
+## Canon TDD
+
+https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
+https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
+https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
+
+## Dead Simple Python
+
+https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
+https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
+
+
+
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
@@ -89,18 +274,24 @@ https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web App
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 
+## Event Videos
+
+https://pyvideo.org/ | PyVideo.org
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+https://pyvideo.org/events.html | PyVideo.org · Events
+
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+
 ## Events
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
 
 https://www.python.org/events/python-events/ | Our Events | Python.org
 https://www.python.org/events/
 https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://pyvideo.org/ | PyVideo.org
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
 
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
 
