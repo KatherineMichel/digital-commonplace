@@ -3,6 +3,63 @@
 # Learning Resources
 
 <!--
+## Astral
+
+https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
+https://astral.sh/blog/uv | uv: Python packaging in Rust
+https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
+https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
+
+## Quansight
+
+https://labs.quansight.org/ | Home Page | Labs
+https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
+
+
+PyVideo
+
+JPMC
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+Python in VS Code
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+https://pycoders.com/
+
+## PyScript
+
+https://pyscript.net/
+-->
+
+<!--
 ## Cutlefish
 
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
@@ -56,56 +113,10 @@ https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehens
 https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
 
 
-## core.py Podcast
+## Dead Simple Python
 
-https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
-https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
-
-https://open.spotify.com/episode/6K9BLLnjuYQZAeejeseY3c | Episode 2 - PEP 703: Removing the GIL - core.py | Podcast on Spotify
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
-
-https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
-
-https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
-
-
-## Compilers
-
-https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
-
-## JiT
-
-https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
-
-https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
-https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
-https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
-https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
-
-
-## Python Discussion
-
-https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
-
-## Seth
-
-Weekly Reports
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
-
-SBOM
-https://gist.github.com/sethmlarson/103891c6cac4d41b11daab89e6c84868 | WIP CPython source SBOM
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-12 | Starting on Software Bill-of-Materials (SBOM) for CPython
-https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf | Authoritative Guide to SBOM
-https://www.einpresswire.com/article/665343822/owasp-launches-bom-maturity-model-new-benchmark-for-sbom-quality | OWASP Launches BOM Maturity Model; New Benchmark For SBOM Quality
-https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293 | Create and distribute Software Bill-of-Materials (SBOM) for Python artifacts - Core Development - Discussions on Python.org
-
-https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-language/ | Python's New Security Developer Has Plans to Secure the Language - The New Stack
-https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
-
-https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
+https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
+https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
 
 
 ## Jobs
@@ -127,28 +138,6 @@ https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Infor
 https://builtwithdjango.com/projects/ | Built with Django
 https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
 
-## Django Dev
-
-https://www.djangoproject.com/weblog
-
-Django 5.0
-https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
-https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
-https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
-
-## Django Roadmap
-
-https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
-
-## Django Contributing
-
-https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
-
-## Django Translations
-
-https://app.transifex.com/django/django/language/sw/ | Page not found
-https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
-https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
 
 ## Git
 
@@ -173,11 +162,6 @@ https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&crea
 https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
 https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
 https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
-
-## Dead Simple Python
-
-https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
-https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
 
 
 
@@ -985,9 +969,11 @@ https://github.com/bloomberg/memray/
 https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
 https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
 https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+-->
 
 
-## Python Upgrade
+<!--
+## Django Upgrade
 
 https://upgradedjango.com/ | Upgrade Django
 
@@ -996,6 +982,9 @@ https://upgradedjango.com/ | Upgrade Django
 https://ehmatthes.com/blog/simplified_heroku/
 
 ## Single File
+
+uDjango
+https://www.paulox.net/2023/10/26/udjango_micro_django/ | Paolo Melchiorre - μDjango (micro Django) 🧬
 
 https://programmingmylife.com/2023-10-30-moving-from-django-microframework-to-django.html | Moving from Django Microframework to Django
 
@@ -1015,50 +1004,108 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, W
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+
+## Django Dev
+
+https://www.djangoproject.com/weblog
+
+Django 5.0
+https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
+https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
+https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
+
+## Django Roadmap
+
+https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
+
+## Django Contributing
+
+https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
+
+## Django Translations
+
+https://app.transifex.com/django/django/language/sw/ | Page not found
+https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
+https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
+
+## Django Accessibility
+
+https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
 -->
 
+
 <!--
-PyVideo
+## C API
 
-JPMC
+https://docs.python.org/3/c-api/intro.html#include-files | Introduction — Python 3.12.2 documentation
+https://docs.python.org/3/c-api/index.html | Python/C API Reference Manual — Python 3.12.2 documentation
+https://docs.python.org/3/c-api/arg.html | Parsing arguments and building values — Python 3.12.2 documentation
 
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+## LPython
 
+https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twitter: "Just announced LPython - a high performance compiler for Python with multiple backends. LPython is a novel, fast, and retargetable Python compiler that can compile type-annotated Python code to optimized machine code. It offers several backends such as LLVM, C, C++, WASM,…" / X
 
-## Python and Django
+## Memory Safe
 
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
-
-
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-Python in VS Code
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-Towncrier
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
-
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+https://www.memorysafety.org/docs/memory-safety/
+https://pyfound.blogspot.com/2024/02/white-house-recommends-.html | Python Software Foundation News: White House recommends use of memory-safe languages like Python
+https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/ | PRESS RELEASE: Future Software Should Be Memory Safe | ONCD | The White House
+https://twitter.com/ThePSF/status/1763243792231014483 | Python Software Foundation on X: "Python is a memory-safe programming language that eliminates an entire class of software vulnerabilities 🐍🛡️ Adoption of memory-safe systems languages like #Rust continues to grow in the #Python package ecosystem #security #vulnerability #cybersecurity https://t.co/L339v9R4UG" / X
+https://twitter.com/samuel_colvin/status/1763339372361814187 | Samuel Colvin on X: "The US government explicitly recommends 6 memory safe languages: C# - created by Microsoft Go - created by Google Java - created by Sun, bought by Oracle Rust - create bor Mozilla Swift - created by Apple And ... Python - create by one fucking genius on his own in his Christmas… https://t.co/23ahJIVfiB" / X
 
 
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+## core.py Podcast
 
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
+https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
 
-https://pycoders.com/
+https://open.spotify.com/episode/6K9BLLnjuYQZAeejeseY3c | Episode 2 - PEP 703: Removing the GIL - core.py | Podcast on Spotify
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
 
-## PyScript
+https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
-https://pyscript.net/
+https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
+
+
+## Python Discussion
+
+https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
+
+
+## Seth
+
+Weekly Reports
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
+
+SBOM
+https://gist.github.com/sethmlarson/103891c6cac4d41b11daab89e6c84868 | WIP CPython source SBOM
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-12 | Starting on Software Bill-of-Materials (SBOM) for CPython
+https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf | Authoritative Guide to SBOM
+https://www.einpresswire.com/article/665343822/owasp-launches-bom-maturity-model-new-benchmark-for-sbom-quality | OWASP Launches BOM Maturity Model; New Benchmark For SBOM Quality
+https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293 | Create and distribute Software Bill-of-Materials (SBOM) for Python artifacts - Core Development - Discussions on Python.org
+
+https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-language/ | Python's New Security Developer Has Plans to Secure the Language - The New Stack
+https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
+
+https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
+
+
+## Compilers
+
+https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
+
+## JiT
+
+https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
+
+https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
+https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
+https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
 -->
 
 
