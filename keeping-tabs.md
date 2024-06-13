@@ -21,20 +21,6 @@ https://www.hackerrank.com/
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
 
 
-## People
-
-PyLadies Contributors
-https://github.com/pyladies/global-conference/graphs/contributors | Contributors to pyladies/global-conference
-
-https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python Software Foundation
-
-DSF People
-https://twitter.com/djangoproject/following | People followed by Django (@djangoproject) / X
-https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
-
-CPython
-https://github.com/python/cpython/graphs/contributors | Contributors to python/cpython
-
 
 ## Python Applications
 
@@ -61,15 +47,6 @@ https://djangochat.com
 
 https://www.youtube.com/@code
 
-## core.py Podcast
-
-https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
-https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
-https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
-
-https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
-
 
 ## Python Cheatsheet
 
@@ -77,6 +54,21 @@ https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
 https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
 
 https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
+
+
+## core.py Podcast
+
+https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
+https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
+
+https://open.spotify.com/episode/6K9BLLnjuYQZAeejeseY3c | Episode 2 - PEP 703: Removing the GIL - core.py | Podcast on Spotify
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
+
+https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
+
+https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
 
 
 ## Compilers
@@ -114,6 +106,7 @@ https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-la
 https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
 
 https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
+
 
 ## Jobs
 
@@ -692,6 +685,23 @@ GitHub Star History Graph
 https://twitter.com/newsycombinator/status/1530625174114078721
 -->
 
+
+<!--
+## People
+
+PyLadies Contributors
+https://github.com/pyladies/global-conference/graphs/contributors | Contributors to pyladies/global-conference
+
+https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python Software Foundation
+
+DSF People
+https://twitter.com/djangoproject/following | People followed by Django (@djangoproject) / X
+https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
+
+CPython
+https://github.com/python/cpython/graphs/contributors | Contributors to python/cpython
+-->
+
 ## Python Unofficial News and Projects
 
 Django News
@@ -1007,6 +1017,50 @@ Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
 -->
 
+<!--
+PyVideo
+
+JPMC
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+Python in VS Code
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+https://pycoders.com/
+
+## PyScript
+
+https://pyscript.net/
+-->
+
 
 ## Python Articles and Tutorials
 
@@ -1121,7 +1175,6 @@ https://nostarch.com/recursive-book-recursion | The Recursive Book of Recursion 
 https://automatetheboringstuff.com/ | Automate the Boring Stuff with Python
 https://automatetheboringstuff.com/2e/chapter12/ | Automate the Boring Stuff with Python
 
-
 No Starch
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
@@ -1183,11 +1236,6 @@ https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 * [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
 
 
-## PyScript
-
-https://pyscript.net/
-
-
 ## Python and JavaScript
 
 https://sayazamurai.github.io/python-vs-javascript/
@@ -1228,8 +1276,6 @@ https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for math
 
 https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
 -->
-
-
 
 <!--
 ## Livestream
@@ -1347,40 +1393,6 @@ https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — 
 -->
 
 
-<!--
-## Python and Django
-
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
-
-
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-Python in VS Code
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-Towncrier
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
-
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
-
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-https://pycoders.com/
--->
-
-
 ## Algorithms
 
 <!--
@@ -1495,38 +1507,6 @@ Headers
 -->
 
 
-<!--
-## Database
-
-PlanetScale
-https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
-
-https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
-https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
-
-https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
-
-## Postgres Architecture
-
-https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
-
-https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
-
-## SQL
-
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
-
-
-## Tools
-
-https://github.com/FlipperPA/django-s3-sqlite
-
-https://blog.acolyer.org/2020/09/21/watchman/
-
-https://prometheus.io/
--->
-
 ## Python and Django
 
 Python, Django
@@ -1589,20 +1569,34 @@ Python 3 supports an annotation syntax for function declarations.
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 -->
 
+
 ## Databases
 
 * [Postgres](https://www.postgresql.org/)
 
 <!--
-## Raft
+## Tools
 
-https://thesecretlivesofdata.com/raft/ | Raft
-https://raft.github.io/ | Raft Consensus Algorithm
-
+https://www.oracle.com/
+https://www.postgresql.org/about/press/faq/
+https://sqlite.org/
 
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
 https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
+
+https://cassandra.apache.org/_/index.html
+
+https://www.tigergraph.com/
+
+https://www.elastic.co/elasticsearch
+
+https://redis.io/
+
+## Raft
+
+https://thesecretlivesofdata.com/raft/ | Raft
+https://raft.github.io/ | Raft Consensus Algorithm
 
 
 https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
@@ -1637,6 +1631,39 @@ https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 https://postgis.net/
 https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
 -->
+
+<!--
+## Database
+
+PlanetScale
+https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
+
+https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
+https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
+
+https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
+
+## Postgres Architecture
+
+https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
+
+https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
+
+## SQL
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
+
+## Tools
+
+https://github.com/FlipperPA/django-s3-sqlite
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+-->
+
 
 ## Domain Modelling
 
@@ -1982,20 +2009,7 @@ https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking
 -->
 
 
-
 <!--
-PyVideo
-
-JPMC
-
-https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
-
-
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
 
