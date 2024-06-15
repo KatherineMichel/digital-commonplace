@@ -3,60 +3,11 @@
 # Learning Resources
 
 <!--
-## Astral
-
-https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
-https://astral.sh/blog/uv | uv: Python packaging in Rust
-https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
-https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
-
-## Quansight
-
-https://labs.quansight.org/ | Home Page | Labs
-https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
-
-
 PyVideo
 
 JPMC
 
 https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-
-## Python and Django
-
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
-
-
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-Python in VS Code
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-Towncrier
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
-
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
-
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-https://pycoders.com/
-
-## PyScript
-
-https://pyscript.net/
 -->
 
 <!--
@@ -78,11 +29,6 @@ https://www.hackerrank.com/
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
 
 
-## Django Sites
-
-https://builtwithdjango.com/projects/ | Built with Django
-https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
-
 
 ## Python Cheatsheet
 
@@ -91,6 +37,10 @@ https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehens
 
 https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
 
+## Django Sites
+
+https://builtwithdjango.com/projects/ | Built with Django
+https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
 
 ## Dead Simple Python
 
@@ -969,6 +919,14 @@ https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦
 https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
 
 
+## Astral
+
+https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
+https://astral.sh/blog/uv | uv: Python packaging in Rust
+https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
+https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
+
+
 ## Fix Python
 
 https://github.com/faster-cpython/ | faster-cpython
@@ -1104,6 +1062,45 @@ https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Infor
 
 https://foxleytalent.com/ | Foxley Talent
 https://jobs.django-news.com/ | Django News Jobs
+-->
+
+<!--
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+Python in VS Code
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+https://pycoders.com/
+
+PyScript
+https://pyscript.net/
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+## Quansight
+
+https://labs.quansight.org/ | Home Page | Labs
+https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 -->
 
 
