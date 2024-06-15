@@ -740,23 +740,133 @@ https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has t
 https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
 -->
 
+<!--
+https://planetpython.org/ | Planet Python
+
+https://speed.python.org/ | Python Speed Center
+
+http://djangopeople.net/us/
+
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
+Django Snippets
+https://djangosnippets.org/
+-->
+
+
+## PSF Official
+
+* [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
+
+<!--
+https://www.python.org/community/lists/ | Mailing Lists | Python.org
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
+https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
+
+PSF Minutes
+https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
+
+PSF Community links
+https://pyfound.blogspot.com/2022/11/where-is-psf.html | Python Software Foundation News: Where is the PSF?
+
+https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
+
+https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
+-->
 
 ## Python and Django Official News
 
 Python News
 * [Python Insider](https://pythoninsider.blogspot.com/)
-* [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
 
 Django Announcements
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
 
 <!--
-Python Newsletter
-https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b
-
-https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
-
 * [Pythonic News](https://news.python.sc/)
+
+## Django Official
+
+Django Survey
+https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
+
+https://www.djangoproject.com/community/ | Django Community | Django
+https://twitter.com/djangoproject/
+
+## Django Dev
+
+https://www.djangoproject.com/weblog
+
+Django 5.0
+https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
+https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
+https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
+
+## Django Roadmap
+
+https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
+
+## Django Contributing
+
+https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
+
+## Django Translations
+
+https://app.transifex.com/django/django/language/sw/ | Page not found
+https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
+https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
+
+## Django Accessibility
+
+https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
+-->
+
+  
+## Python Releases
+
+New Releases and Pre-Releases
+* [Python Downloads](https://www.python.org/downloads)
+* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
+
+Release Schedules
+* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+<!--
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+-->
+
+## Python Change Notes
+
+* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
+
+## Python PEPs
+
+<!--
+https://github.com/vinayak-mehta/python-peps-graph
+
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+-->
+
+## Django New Releases, Release Notes, and DEPs
+
+<!--
+https://code.djangoproject.com/ | Django
+-->
+
+## Django Official Roadmap and Versions
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+
+<!--
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
 -->
 
 ## Python Unofficial Feature Roundups
@@ -780,118 +890,36 @@ http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/novemb
 https://twitter.com/_tomchristie/status/1256210735056785409
 -->
 
-  
-## Python Release Notes, Discuss, and PEPs
-
-* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
-
-<!--
-https://speed.python.org/ | Python Speed Center
-
-https://github.com/vinayak-mehta/python-peps-graph
-
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
--->
-
-
-## Python Roadmap
-
-New Releases and Pre-Releases
-* [Python Downloads](https://www.python.org/downloads)
-* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
-
-Release Schedules
-* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
-* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
-* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
-
-<!--
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://python-release-cycle.glitch.me/ | Python Release Cycle
--->
-
-## Django New Releases, Release Notes, and DEPs
-
-<!--
-## Python
-
-https://code.djangoproject.com/ | Django
--->
-
-## Django Official Roadmap and Versions
-
-Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
-
-<!--
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
--->
-
-
-## Python Official
-
-<!--
-## PSF Official
-
-https://www.python.org/community/lists/ | Mailing Lists | Python.org
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
-
-PSF Minutes
-https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
-
-PSF Community links
-https://pyfound.blogspot.com/2022/11/where-is-psf.html | Python Software Foundation News: Where is the PSF?
-
-https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
-
-https://planetpython.org/ | Planet Python
-
-## Django Official
-
-Django Survey
-https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
-
-https://www.djangoproject.com/community/ | Django Community | Django
-https://twitter.com/djangoproject/
-
-http://djangopeople.net/us/
-
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
--->
 
 
 <!--
 https://github.com/python/cpython
 https://github.com/django/django
 
-## Python Core
+## core.py Podcast
 
-Python/Django Core Devs List
-Python Language Summit and Python Core Dev Sprint
-PEPs/DEPs
+https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
+https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
 
-https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+https://open.spotify.com/episode/6K9BLLnjuYQZAeejeseY3c | Episode 2 - PEP 703: Removing the GIL - core.py | Podcast on Spotify
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
 
-## Python Release
+https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
-https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
-https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
 
-Visualizing the CPython Release Process
-https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post | Feed | LinkedIn
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
-https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
+## Python Discussion
 
-## Language Summit
-https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
+
+
+## Programming Languages
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+
+https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
 
 
 ## CPython Internals
@@ -918,22 +946,50 @@ https://www.youtube.com/playlist?list=PL3GWPKM6L17H0RyU2o7p9gCnepjSTaHia | (63) 
 
 https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/ | Debugging a Mixed Python and C Language Stack | NVIDIA Technical Blog
 
-## Fix Python
 
-https://github.com/faster-cpython/ | faster-cpython
+## Compilers
 
-https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
+https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
+https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
 
-## Mojo
+## C API
 
-https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
-https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
+https://docs.python.org/3/c-api/intro.html#include-files | Introduction — Python 3.12.2 documentation
+https://docs.python.org/3/c-api/index.html | Python/C API Reference Manual — Python 3.12.2 documentation
+https://docs.python.org/3/c-api/arg.html | Parsing arguments and building values — Python 3.12.2 documentation
 
-## Programming Languages
 
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+## Memory Safe
 
-https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
+https://www.memorysafety.org/docs/memory-safety/
+https://pyfound.blogspot.com/2024/02/white-house-recommends-.html | Python Software Foundation News: White House recommends use of memory-safe languages like Python
+https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/ | PRESS RELEASE: Future Software Should Be Memory Safe | ONCD | The White House
+https://twitter.com/ThePSF/status/1763243792231014483 | Python Software Foundation on X: "Python is a memory-safe programming language that eliminates an entire class of software vulnerabilities 🐍🛡️ Adoption of memory-safe systems languages like #Rust continues to grow in the #Python package ecosystem #security #vulnerability #cybersecurity https://t.co/L339v9R4UG" / X
+https://twitter.com/samuel_colvin/status/1763339372361814187 | Samuel Colvin on X: "The US government explicitly recommends 6 memory safe languages: C# - created by Microsoft Go - created by Google Java - created by Sun, bought by Oracle Rust - create bor Mozilla Swift - created by Apple And ... Python - create by one fucking genius on his own in his Christmas… https://t.co/23ahJIVfiB" / X
+
+
+## Python Core
+
+Python/Django Core Devs List
+Python Language Summit and Python Core Dev Sprint
+PEPs/DEPs
+
+https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+
+
+## Python Release
+
+https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
+https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+
+Visualizing the CPython Release Process
+https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post | Feed | LinkedIn
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
+https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
+
+## Language Summit
+
+https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
 
 
 ## Python Development Visualized
@@ -949,6 +1005,50 @@ https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaSc
 
 Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
+
+
+## Seth
+
+Weekly Reports
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
+
+SBOM
+https://gist.github.com/sethmlarson/103891c6cac4d41b11daab89e6c84868 | WIP CPython source SBOM
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-12 | Starting on Software Bill-of-Materials (SBOM) for CPython
+https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf | Authoritative Guide to SBOM
+https://www.einpresswire.com/article/665343822/owasp-launches-bom-maturity-model-new-benchmark-for-sbom-quality | OWASP Launches BOM Maturity Model; New Benchmark For SBOM Quality
+https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293 | Create and distribute Software Bill-of-Materials (SBOM) for Python artifacts - Core Development - Discussions on Python.org
+
+https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-language/ | Python's New Security Developer Has Plans to Secure the Language - The New Stack
+https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
+
+https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
+
+
+## JiT
+
+https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
+
+https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
+https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
+https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
+
+
+## Fix Python
+
+https://github.com/faster-cpython/ | faster-cpython
+
+https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
+
+## Mojo
+
+https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
+https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
+
+## LPython
+
+https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twitter: "Just announced LPython - a high performance compiler for Python with multiple backends. LPython is a novel, fast, and retargetable Python compiler that can compile type-annotated Python code to optimized machine code. It offers several backends such as LLVM, C, C++, WASM,…" / X
 
 
 ## Finance
@@ -1004,108 +1104,6 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, W
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
-
-
-## Django Dev
-
-https://www.djangoproject.com/weblog
-
-Django 5.0
-https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
-https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
-https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
-
-## Django Roadmap
-
-https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
-
-## Django Contributing
-
-https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
-
-## Django Translations
-
-https://app.transifex.com/django/django/language/sw/ | Page not found
-https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
-https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
-
-## Django Accessibility
-
-https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
--->
-
-
-<!--
-## C API
-
-https://docs.python.org/3/c-api/intro.html#include-files | Introduction — Python 3.12.2 documentation
-https://docs.python.org/3/c-api/index.html | Python/C API Reference Manual — Python 3.12.2 documentation
-https://docs.python.org/3/c-api/arg.html | Parsing arguments and building values — Python 3.12.2 documentation
-
-## LPython
-
-https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twitter: "Just announced LPython - a high performance compiler for Python with multiple backends. LPython is a novel, fast, and retargetable Python compiler that can compile type-annotated Python code to optimized machine code. It offers several backends such as LLVM, C, C++, WASM,…" / X
-
-## Memory Safe
-
-https://www.memorysafety.org/docs/memory-safety/
-https://pyfound.blogspot.com/2024/02/white-house-recommends-.html | Python Software Foundation News: White House recommends use of memory-safe languages like Python
-https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/ | PRESS RELEASE: Future Software Should Be Memory Safe | ONCD | The White House
-https://twitter.com/ThePSF/status/1763243792231014483 | Python Software Foundation on X: "Python is a memory-safe programming language that eliminates an entire class of software vulnerabilities 🐍🛡️ Adoption of memory-safe systems languages like #Rust continues to grow in the #Python package ecosystem #security #vulnerability #cybersecurity https://t.co/L339v9R4UG" / X
-https://twitter.com/samuel_colvin/status/1763339372361814187 | Samuel Colvin on X: "The US government explicitly recommends 6 memory safe languages: C# - created by Microsoft Go - created by Google Java - created by Sun, bought by Oracle Rust - create bor Mozilla Swift - created by Apple And ... Python - create by one fucking genius on his own in his Christmas… https://t.co/23ahJIVfiB" / X
-
-
-## core.py Podcast
-
-https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
-https://open.spotify.com/show/1PGRfdrLEwgXjQbPBNk1pW | core.py | Podcast on Spotify
-
-https://open.spotify.com/episode/6K9BLLnjuYQZAeejeseY3c | Episode 2 - PEP 703: Removing the GIL - core.py | Podcast on Spotify
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
-https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
-
-https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
-
-https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
-
-
-## Python Discussion
-
-https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
-
-
-## Seth
-
-Weekly Reports
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
-
-SBOM
-https://gist.github.com/sethmlarson/103891c6cac4d41b11daab89e6c84868 | WIP CPython source SBOM
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-12 | Starting on Software Bill-of-Materials (SBOM) for CPython
-https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf | Authoritative Guide to SBOM
-https://www.einpresswire.com/article/665343822/owasp-launches-bom-maturity-model-new-benchmark-for-sbom-quality | OWASP Launches BOM Maturity Model; New Benchmark For SBOM Quality
-https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sbom-for-python-artifacts/39293 | Create and distribute Software Bill-of-Materials (SBOM) for Python artifacts - Core Development - Discussions on Python.org
-
-https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-language/ | Python's New Security Developer Has Plans to Secure the Language - The New Stack
-https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
-
-https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
-
-
-## Compilers
-
-https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
-
-## JiT
-
-https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
-
-https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
-https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
-https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
-https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
 -->
 
 
