@@ -701,6 +701,8 @@ https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request
 ## Django Accessibility
 
 https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
+https://djangochat.com/episodes/accessibility-sarah-abderemane-QEazAT0L | Accessibility - Sarah Abderemane | Django Chat
+https://twitter.com/sabderemane_/status/1725588275849548042 | ⚡ Sarah Abderemane on X: "With the Django Accessibility Team, we are proud to say that Django 5.0 officially supports targets for assistive technologies! 💚 https://t.co/QXweI6lfW4 #django Cc @thibaud_colas @knyghty" / X
 -->
 
   
@@ -786,6 +788,7 @@ https://open.spotify.com/episode/6K9BLLnjuYQZAeejeseY3c | Episode 2 - PEP 703: R
 https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Removing-the-GIL-e2b8egi | Episode 2 - PEP 703: Removing the GIL by core.py
 https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
 https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
+https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-1---Core-Sprint-in-Brno--Python-3-13-0-alpha-1-e2apebk | Episode 1 - Core Sprint in Brno & Python 3.13.0 alpha 1 by core.py
 
 https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
@@ -905,6 +908,12 @@ https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | 
 
 https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
 
+https://training.linuxfoundation.org/express-learning/automating-supply-chain-security-sboms-and-signatures-lfel1007/ | Automating Supply Chain Security: SBOMs and Signatures Training Course | Linux Foundation
+
+
+## Anthony
+
+https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
 
 ## JiT
 
@@ -919,9 +928,15 @@ https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦
 ## Astral
 
 https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
+https://astral.sh/blog/the-ruff-formatter | The Ruff Formatter: An extremely fast, Black-compatible Python formatter
 https://astral.sh/blog/uv | uv: Python packaging in Rust
 https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
 https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
+
+## Rust
+
+https://timclicks.dev/ | timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
+https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust | Writing and publishing a Python module in Rust
 
 
 ## Fix Python
@@ -938,6 +953,19 @@ https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be th
 ## LPython
 
 https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twitter: "Just announced LPython - a high performance compiler for Python with multiple backends. LPython is a novel, fast, and retargetable Python compiler that can compile type-annotated Python code to optimized machine code. It offers several backends such as LLVM, C, C++, WASM,…" / X
+
+
+## Pydantic
+
+https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
+
+## Django Tailwind ClI
+
+https://github.com/oliverandrich/django-tailwind-cli | oliverandrich/django-tailwind-cli: Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
+
+## DjangoCon Europe Sphinx Talk
+
+https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
 
 
 ## Finance
