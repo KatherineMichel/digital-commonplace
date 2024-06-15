@@ -844,8 +844,10 @@ https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani o
 
 https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
 
+
 ## Python Discussion
 
+https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
 https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
 
 
@@ -907,8 +909,6 @@ https://twitter.com/samuel_colvin/status/1763339372361814187 | Samuel Colvin on 
 Python/Django Core Devs List
 Python Language Summit and Python Core Dev Sprint
 PEPs/DEPs
-
-https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
 
 
 ## Python Release
@@ -1083,18 +1083,13 @@ https://djangosnippets.org/
 
 https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
 
-## Django Chat
-
-https://djangochat.com
-
 ## Python Pulse and VS Code
 
 https://www.youtube.com/@code
 
-## Jobs
+## Django Chat
 
-https://foxleytalent.com/ | Foxley Talent
-https://jobs.django-news.com/ | Django News Jobs
+https://djangochat.com
 
 ## Djangonaut Space
 
@@ -1104,6 +1099,11 @@ https://www.linkedin.com/company/djangonaut-space/ | Djangonaut Space: Overview 
 
 https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
 https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
+
+## Jobs
+
+https://foxleytalent.com/ | Foxley Talent
+https://jobs.django-news.com/ | Django News Jobs
 -->
 
 
