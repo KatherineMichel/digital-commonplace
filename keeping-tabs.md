@@ -3,14 +3,6 @@
 # Learning Resources
 
 <!--
-PyVideo
-
-JPMC
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
--->
-
-<!--
 ## Cutlefish
 
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
@@ -29,6 +21,11 @@ https://www.hackerrank.com/
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
 
 
+PyVideo
+
+JPMC
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
 
 ## Python Cheatsheet
 
