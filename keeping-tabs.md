@@ -78,31 +78,10 @@ https://www.hackerrank.com/
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
 
 
+## Django Sites
 
-## Python Applications
-
-https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
-
-## Jacob's Template
-
-https://github.com/jacobian/personal-app-template | jacobian/personal-app-template: A cookiecutter template for little personal apps.
-
-## Overthinking
-
-https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ | Probably Overthinking It Notebooks – Probably Overthinking It
-
-
-## Sad Python Girls Club
-
-https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
-
-## Django Chat
-
-https://djangochat.com
-
-## Python Pulse and VS Code
-
-https://www.youtube.com/@code
+https://builtwithdjango.com/projects/ | Built with Django
+https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
 
 
 ## Python Cheatsheet
@@ -117,26 +96,6 @@ https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.
 
 https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
 https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
-
-
-## Jobs
-
-https://foxleytalent.com/ | Foxley Talent
-https://jobs.django-news.com/ | Django News Jobs
-
-## Djangonaut Space
-
-https://www.linkedin.com/company/djangonaut-space/ | Djangonaut Space: Overview | LinkedIn
-
-## Django Roadmap
-
-https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
-https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
-
-## Django Sites
-
-https://builtwithdjango.com/projects/ | Built with Django
-https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
 
 
 ## Git
@@ -730,31 +689,6 @@ https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
 -->
 
 
-<!--
-## Python Newsletters
-
-https://when-of-python.github.io
-
-https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
-
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
--->
-
-<!--
-https://planetpython.org/ | Planet Python
-
-https://speed.python.org/ | Python Speed Center
-
-http://djangopeople.net/us/
-
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
--->
-
-
 ## PSF Official
 
 * [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
@@ -1073,6 +1007,19 @@ https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "
 
 
 <!--
+## Python Applications
+
+https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
+
+## Jacob's Template
+
+https://github.com/jacobian/personal-app-template | jacobian/personal-app-template: A cookiecutter template for little personal apps.
+
+## Overthinking
+
+https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ | Probably Overthinking It Notebooks – Probably Overthinking It
+
+
 ## Django Upgrade
 
 https://upgradedjango.com/ | Upgrade Django
@@ -1104,6 +1051,59 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, W
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+-->
+
+
+
+<!--
+## Python Newsletters
+
+https://when-of-python.github.io
+
+https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+
+
+https://planetpython.org/ | Planet Python
+
+https://speed.python.org/ | Python Speed Center
+-->
+
+<!--
+http://djangopeople.net/us/
+
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
+Django Snippets
+https://djangosnippets.org/
+
+## Sad Python Girls Club
+
+https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
+
+## Django Chat
+
+https://djangochat.com
+
+## Python Pulse and VS Code
+
+https://www.youtube.com/@code
+
+## Jobs
+
+https://foxleytalent.com/ | Foxley Talent
+https://jobs.django-news.com/ | Django News Jobs
+
+## Djangonaut Space
+
+https://www.linkedin.com/company/djangonaut-space/ | Djangonaut Space: Overview | LinkedIn
+
+## Django Roadmap
+
+https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
+https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
 -->
 
 
