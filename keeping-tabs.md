@@ -789,6 +789,7 @@ https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-2---PEP-703-Remo
 https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-8-The-New-Parser-e2ggih4 | Episode 8: The New Parser by core.py
 https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-9-Py-Day-with-Emily-Morehouse-Valcarcel-e2h2tt9 | Episode 9: Py Day with Emily Morehouse-Valcarcel by core.py
 https://podcasters.spotify.com/pod/show/corepy/episodes/Episode-1---Core-Sprint-in-Brno--Python-3-13-0-alpha-1-e2apebk | Episode 1 - Core Sprint in Brno & Python 3.13.0 alpha 1 by core.py
+https://fosstodon.org/@ambv@mastodon.social/112378027421942468 | Łukasz Langa: "The core․py podcast wasn't dea…" - Fosstodon
 
 https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
