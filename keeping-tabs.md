@@ -11,6 +11,77 @@ https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The
 
 https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/ | Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
+
+## Git
+
+https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
+
+## Regex
+
+https://regexcrossword.com/ | Regex Crossword
+
+
+## Atlassian
+
+https://university.atlassian.com/student/catalog | Learn Jira, Confluence, Trello, Jira Service Management, Jira Align, and more Atlassian software with Atlassian University : Atlassian
+
+## Ansible
+
+Net DevOps with Ansible on O'Reill
+
+
+## Beej
+
+https://beej.us/guide/ | Beej's Guides
+https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
+https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
+https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
+https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
+
+
+## The New Stack
+
+https://thenewstack.io/
+
+## Authorities
+
+https://martinfowler.com/
+https://martinfowler.com/architecture/ | Software Architecture Guide
+
+https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
+
+https://architecturenotes.co/redis/ | Redis Explained
+https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+## Software Design by Example
+
+https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
+
+https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
+
+https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
+https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
+
+
+## Top-Down Design
+
+https://paulgraham.com/progbot.html | Programming Bottom-Up
+
+
+## LinkedIn Learning Aids and Data Structures and Algos
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
+https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+## Data Structures and Algos
+
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
+
+https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
+
 ## Problem Solving Platforms
 
 https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
@@ -21,18 +92,65 @@ https://www.hackerrank.com/
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
 
 
-PyVideo
+## Learning Resources
 
-JPMC
+https://pyvideo.org/ | PyVideo.org
 
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+https://wizardzines.com/zine-announcements/ | Zine announcements
 
-## Python Cheatsheet
+https://github.com/miguelgrinberg | miguelgrinberg (Miguel Grinberg)
 
-https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+https://inventwithpython.com/blog/ | The Invent with Python Blog
 
-https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
+https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from first principles, part 5
+https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
+https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
+
+## PyPodcats
+
+https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
+https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
+
+
+## Python Core Dev
+
+https://devguide.python.org/core-developers/developer-log/ | Developer log
+https://devguide.python.org/core-developers/developer-log/index.html | Developer log
+
+## Python Dev
+
+https://peps.python.org/pep-0101/ | PEP 101 – Doing Python Releases 101 | peps.python.org
+https://github.com/python/cpython/issues | Issues · python/cpython
+https://devguide.python.org/developer-workflow/development-cycle/index.html | Development cycle
+https://www.youtube.com/watch?v=PGZPSWZSkJI&t=2s | (17) Python 3.11 Release - YouTube
+
+
+## DEP
+
+https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
+https://github.com/django/deps/pull/86/files | Background workers by RealOrangeOne · Pull Request #86 · django/deps
+https://github.com/RealOrangeOne | RealOrangeOne (Jake Howard)
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Django News - DEP 14 (Background Workers) Approved! - kthrnmichel@gmail.com - Gmail
+
+## Django Accessibility
+
+https://sarahabd.com/blog/my-accessibility-review-checklist | My Accessibility Review Checklist
+
+
+## Developer Survey
+
+https://survey.alchemer.com/s3/7554174/python-developers-survey-2023 | Python Developers Survey 2023
+https://lp.jetbrains.com/django-developer-survey-2023/ | Django Developers Survey 2023 Results
+
+## Style Guides
+
+https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
+
 
 ## Django Sites
 
@@ -45,29 +163,280 @@ https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
 https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
 
 
-## Git
+## Single File
 
-https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
+https://github.com/andrewgodwin/django-singlefile | andrewgodwin/django-singlefile
 
-## Regex
+## django-simple-deploy
 
-https://regexcrossword.com/ | Regex Crossword
+https://fosstodon.org/@ehmatthes/112542456727381248 | Eric Matthes: "I've been working on implement…" - Fosstodon
 
-## Top-Down Design
 
-https://paulgraham.com/progbot.html | Programming Bottom-Up
+## Wasmer
 
-## Data Structures and Algos
+https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler | Announcing py2wasm: A Python to Wasm compiler · Blog · Wasmer
 
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
+## ASGI
 
-https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
+https://fly.io/django-beats/asgi-deployment-options-for-django/ | ASGI deployment options for Django · Django Beats
+
+## Python and Rust
+
+https://opensource.com/article/23/3/python-loves-rust | Why you should use Python and Rust together | Opensource.com
+
+https://www.rust-lang.org/learn/get-started | Getting started - Rust Programming Language
+
+## Py03
+
+https://pyo3.rs/v0.21.2/ | Introduction - PyO3 user guide
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+## Pydantic
+
+https://blog.pydantic.dev/blog
+
+## PySheets
+
+https://pysheets.app/ | PySheets - Spreadsheet UI for Python
+
+
+## Profiling
+
+https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
 
 ## Canon TDD
 
 https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
 https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
 https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
+
+## TDD
+
+https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+## Testing
+
+https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | DjangoCon US
+
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
+https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
+
+https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPanda/awesome-web-testing-playwright: Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
+https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
+https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
+
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
+https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
+
+## pytest-django
+
+https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
+
+
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+## Python Cheatsheet
+
+https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
+
+## Python Packaging
+
+https://www.pyopensci.org/python-package-guide/ | pyOpenSci Python Package Guide — Python Packaging Guide
+https://github.com/pyOpenSci/python-package-guide
+https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 8,000 most-downloaded packages from PyPI
+
+Python Package Manager Shootout
+https://lincolnloop.github.io/python-package-manager-shootout/ | Python Package Manager Shootout
+
+Top 5
+https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
+
+
+
+## Architecture
+
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+https://en.wikipedia.org/wiki/Von_Neumann_architecture | von Neumann architecture - Wikipedia
+
+## Databases Rankings
+
+https://pypl.github.io/DB.html | TOPDB Top Database index
+https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
+
+## Database Types
+
+https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+
+## Database Articles- Important
+
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
+https://read.technically.dev/p/the-beginners-guide-to-databases
+https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
+
+## Databases
+
+https://architecturenotes.co/things-you-should-know-about-databases/ | Relational Databases Explained
+https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | List of relational database management systems - Wikipedia
+
+https://en.wikipedia.org/wiki/Database | Database - Wikipedia
+https://en.wikipedia.org/wiki/Database_index | Database index - Wikipedia
+https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree | Self-balancing binary search tree - Wikipedia
+https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
+https://en.wikipedia.org/wiki/Hash_table | Hash table - Wikipedia
+https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
+
+https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/part-I-database-performance-fundamentals.html#GUID-DD122227-0E55-49DB-8DF0-0F321D03800F | Database Performance Fundamentals
+
+## Distributed Database
+
+https://en.wikipedia.org/wiki/CockroachDB
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Replication Layer
+https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
+
+https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
+
+https://www.cockroachlabs.com/blog/what-is-distributed-sql/
+https://research.google/pubs/spanner-googles-globally-distributed-database-2/
+
+## Django SQL
+
+https://www.w3schools.com/sql/ | SQL Tutorial
+https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
+
+## PostgreSQL
+
+The Design of Postgres
+https://dsf.berkeley.edu/papers/ERL-M85-95.pdf | ERL-M85-95.pdf
+
+https://www.postgresql.org/
+https://twitter.com/vhmth/status/1773092591522717849 | Vinay Hiremath on X: "I loathe Postgres' JSONB column. The most easy to abuse column type. Has caused numerous incidents and tons of technical debt/slowness. Has probably cost us millions in lost revenue at this point." / X
+
+## No-SQL
+
+https://en.wikipedia.org/wiki/BSON | BSON - Wikipedia
+
+https://kinsta.com/blog/mongodb-vs-postgresql/ | MongoDB vs PostgreSQL: 15 Critical Differences
+
+https://www.mongodb.com/evolved#mdbfourfour | MongoDB Evolved – Version History | MongoDB
+https://www.mongodb.com/databases/acid-compliance | What Does ACID Compliance Mean? | An Introduction | MongoDB | MongoDB
+
+## Cassandra
+
+https://www.datadoghq.com/resources/datadog-cassandra-cheatsheet/ | Apache Cassandra™ Cheatsheet | Datadog
+
+## OLTP and OLAP
+
+https://en.wikipedia.org/wiki/Online_analytical_processing | Online analytical processing - Wikipedia
+https://en.wikipedia.org/wiki/Online_transaction_processing | Online transaction processing - Wikipedia
+https://www.oracle.com/database/what-is-oltp
+https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/
+
+## OLTP
+
+Today's OLTP databases don't scale
+https://twitter.com/eatonphil/status/1747987398573646033 | Phil Eaton on X: "This is very good. https://t.co/unkuj8LAPY https://t.co/BTv3BsYVkL" / X
+
+## Various DBs
+
+https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Posts | LinkedIn
+https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
+
+
+## Distributed Systems
+
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://news.ycombinator.com/from?site=ferd.ca
+https://news.ycombinator.com/item?id=39303160
+
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+https://www.geeksforgeeks.org/types-of-distributed-system/
+
+Distributed Systems
+https://en.wikipedia.org/wiki/Distributed_computing
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
+https://www.splunk.com/en_us/blog/learn/distributed-systems.html
+
+## Server
+
+https://en.wikipedia.org/wiki/Heartbeat_(computing)
+https://en.wikipedia.org/wiki/Round-robin_DNS
+
+## State
+
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
+
+## Orchestration
+
+https://www.redhat.com/en/topics/automation/what-is-orchestration | What is orchestration?
+
+https://en.wikipedia.org/wiki/Orchestration_(computing) | Orchestration (computing) - Wikipedia
+
+https://ubuntu.com/blog/tag/orchestration
+
+## Control Plane and Data Plane
+
+Control Plane and Data Plane
+https://en.wikipedia.org/wiki/Control_plane | Control plane - Wikipedia
+https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/control-planes-and-data-planes.html | Control planes and data planes - AWS Fault Isolation Boundaries
+https://docs.aws.amazon.com/whitepapers/latest/advanced-multi-az-resilience-patterns/control-planes-and-data-planes.html | Control planes and data planes - Advanced Multi-AZ Resilience Patterns
+https://www.cloudflare.com/learning/network-layer/what-is-the-control-plane/ | What is the control plane? | Control plane vs. data plane | Cloudflare
+https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/control-planes | Considerations for multitenant control planes - Azure Architecture Center | Microsoft Learn
+https://www.geeksforgeeks.org/difference-between-control-plane-and-data-plane/ | Difference between Control Plane and Data Plane - GeeksforGeeks
+
+https://www.redhat.com/en/topics/containers/what-are-hosted-control-planes | What are hosted control planes?
+
+
+https://www.redhat.com/en/blog/channel/management-and-automation | IT management and automation
+
+
+## Kubernetes, Salt, Ansible
+
+https://kubernetes.io/ | Kubernetes
+https://kubernetes.io/docs/concepts/overview/components/
+
+https://github.com/saltstack/salt
+
+https://github.com/ansible/ansible
+https://www.ansible.com/faq | The AWX project
+https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
+
+
+
+https://access.redhat.com/support/policy/updates/errata
+
+https://riscv.org/
+https://en.wikipedia.org/wiki/QUIC
+https://en.wikipedia.org/wiki/HTTP/3
+
+https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
+
+## Functional Programming
+
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
+
+
+## GitHub Artifact Attestation
+
+https://github.blog/changelog/2024-05-02-artifact-attestations-public-beta/ | Artifact Attestations public beta - The GitHub Blog
+https://www.ianlewis.org/en/understanding-github-artifact-attestations | Understanding GitHub Artifact Attestations | Ian Lewis
 
 
 
@@ -152,6 +521,8 @@ Dev conferences
 https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
 
+
+PyVideo
 
 ## DFW
 
@@ -950,6 +1321,7 @@ https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitt
 
 https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
 https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
+https://github.com/modularml/mojo | modularml/mojo: The Mojo Programming Language
 
 ## LPython
 
