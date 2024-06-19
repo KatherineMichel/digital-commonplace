@@ -9,7 +9,18 @@ https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 2
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
 
 
-https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/ | Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
+## High Performance Orgs
+
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+
+## Marketing
+
+https://www.devmarketingguide.com/ | The Developer Marketing Guide
+https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
+https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
+
+https://alldjango.com/articles/developer-marketing
 
 
 ## Git
@@ -27,7 +38,7 @@ https://university.atlassian.com/student/catalog | Learn Jira, Confluence, Trell
 
 ## Ansible
 
-Net DevOps with Ansible on O'Reill
+Net DevOps with Ansible on O'Reilly
 
 
 ## Beej
@@ -43,148 +54,21 @@ https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 
 https://thenewstack.io/
 
-## Authorities
+## PyPodcats
 
-https://martinfowler.com/
-https://martinfowler.com/architecture/ | Software Architecture Guide
-
-https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
-
-https://architecturenotes.co/redis/ | Redis Explained
-https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
-
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-http://highscalability.com/
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-## Learning Materials
-
-https://www.devmarketingguide.com/ | The Developer Marketing Guide
-https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
-https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
-
-https://alldjango.com/articles/developer-marketing
-
-https://github.com/kuchin/awesome-cto#architecture | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-https://github.com/kuchin/awesome-cto#technologies | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
-
-Cheat Sheets
-https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-APIs
-https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
-## Software Design by Example
-
-https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
-
-https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
-
-https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
-https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
-
-## Software Design for Flexibility
-
-https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-
-
-## Architecture Notes
-
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
-https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
-
-## Clean Code, Architecture
-
-https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
-
-https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
-
-https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
-
-https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
-
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
-https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
-https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
-
-Thinking in Systems
-https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
-
-## System Design
-
-https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
-https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
-
-## Software Architecture/Design Patterns
-
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
-https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
-
-## Martin Fowler
-
-https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
-https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
-https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
-https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
-https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
-https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
-https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
-https://martinfowler.com/microservices/ | Microservices Guide
-
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=m_crc_dp_lf_d_t1_d_sccl_3_14/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0321127420&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-## High Performance Orgs
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-## Patterns and Refactoring
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
-
-## Engineering Blogs
-
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
-https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
-https://read.developing.dev/ | The Developing Dev by Ryan Peterman
-https://twitter.com/ryanlpeterman
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
-
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
-## Books
-
-https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Working Effectively with Legacy Code [Book]
-
-https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
-
+https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
+https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
 
 
 ## Top-Down Design
 
 https://paulgraham.com/progbot.html | Programming Bottom-Up
 
-
 ## Project Based Learning
 
 https://github.com/practical-tutorials/project-based-learning | practical-tutorials/project-based-learning: Curated list of project-based tutorials
 https://github.com/codecrafters-io/build-your-own-x | codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.
+
 
 ## Problem Solving Platforms
 
@@ -195,9 +79,8 @@ https://www.hackerrank.com/
 
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
 
-## LinkedIn Learning Aids and Data Structures and Algos
+## Problem Solving
 
-https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
 https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
 https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 
@@ -205,8 +88,6 @@ https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-
 
 https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 https://github.com/armankhondker/best-leetcode-resources
-
-## Data Structures and Algos
 
 https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
 
@@ -227,16 +108,168 @@ https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from 
 https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
 https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
 
-## PyPodcats
 
-https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
-https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
+## Authorities
 
+https://martinfowler.com/
+
+http://highscalability.com/
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+## Anaconda and Quansight
+
+https://quansight.com/ | Home | Quansight Consulting
+https://www.anaconda.com/
+
+## LinkedIn Learning Aids
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+
+## Engineering Blogs
+
+https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
+
+https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
+
+https://read.developing.dev/ | The Developing Dev by Ryan Peterman
+https://twitter.com/ryanlpeterman
+
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
+
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
+
+## System Design
+
+https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
+
+https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+
+Cheat Sheets
+https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+## Scaling Django
+
+https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
+
+## Learning Materials
+
+https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/ | Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://github.com/kuchin/awesome-cto#architecture | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+https://github.com/kuchin/awesome-cto#technologies | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+APIs
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
+## Architecture
+
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+https://en.wikipedia.org/wiki/Von_Neumann_architecture | von Neumann architecture - Wikipedia
+
+## Software Architecture/Design Patterns
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
+https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
+
+## Martin Fowler
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
+https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
+https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
+https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
+https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
+https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
+https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
+https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
+https://martinfowler.com/microservices/ | Microservices Guide
+
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=m_crc_dp_lf_d_t1_d_sccl_3_14/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0321127420&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
+
+## Architecture Notes
+
+https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+https://architecturenotes.co/redis/ | Redis Explained
+https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
+
+## Software Design by Example
+
+https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
+
+https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
+
+https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
+https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
+
+## Software Design for Flexibility
+
+https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+
+## Books
+
+https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Working Effectively with Legacy Code [Book]
+
+https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
+
+
+
+## Clean Code, Architecture
+
+https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
+
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
+
+https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
+
+https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
+
+https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
+
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+Thinking in Systems
+https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
+
+
+
+## Patterns
+
+https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+
+
+## Developer Survey
+
+https://survey.alchemer.com/s3/7554174/python-developers-survey-2023 | Python Developers Survey 2023
+https://lp.jetbrains.com/django-developer-survey-2023/ | Django Developers Survey 2023 Results
+
+## CPython
+
+https://github.com/python/cpython | python/cpython: The Python programming language
+
+## Hugo
+
+https://github.com/hugovk | hugovk (Hugo van Kemenade)
 
 ## Python 3.13
 
 https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b1 documentation
-https://github.com/python/cpython | python/cpython: The Python programming language
 
 ## Python Core Dev
 
@@ -250,10 +283,6 @@ https://github.com/python/cpython/issues | Issues · python/cpython
 https://devguide.python.org/developer-workflow/development-cycle/index.html | Development cycle
 https://www.youtube.com/watch?v=PGZPSWZSkJI&t=2s | (17) Python 3.11 Release - YouTube
 
-## Hugo
-
-https://github.com/hugovk | hugovk (Hugo van Kemenade)
-
 ## Seth Michael Larson
 
 https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
@@ -264,6 +293,33 @@ https://openssf.org/blog/2023/11/27/openssf-introduces-guide-to-becoming-a-cve-n
 https://www.cve.org/Media/News/item/news/2023/08/29/Python-Software-Foundation-Added-as-CNA | NewsItem | CVE
 
 
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+## Python Cheatsheet
+
+https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
+
+## Dead Simple Python
+
+https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
+https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
+
+## Python Packaging
+
+https://www.pyopensci.org/python-package-guide/ | pyOpenSci Python Package Guide — Python Packaging Guide
+https://github.com/pyOpenSci/python-package-guide
+https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 8,000 most-downloaded packages from PyPI
+
+Python Package Manager Shootout
+https://lincolnloop.github.io/python-package-manager-shootout/ | Python Package Manager Shootout
+
+Top 5
+https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
+
+
 ## DEP
 
 https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
@@ -271,17 +327,16 @@ https://github.com/django/deps/pull/86/files | Background workers by RealOrangeO
 https://github.com/RealOrangeOne | RealOrangeOne (Jake Howard)
 https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Django News - DEP 14 (Background Workers) Approved! - kthrnmichel@gmail.com - Gmail
 
+## Django Sites
+
+https://builtwithdjango.com/projects/ | Built with Django
+https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
+
 ## Django Accessibility
 
 https://sarahabd.com/blog/my-accessibility-review-checklist | My Accessibility Review Checklist
 
-
-## Developer Survey
-
-https://survey.alchemer.com/s3/7554174/python-developers-survey-2023 | Python Developers Survey 2023
-https://lp.jetbrains.com/django-developer-survey-2023/ | Django Developers Survey 2023 Results
-
-## Style Guides
+## Django Style Guides
 
 https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
 
@@ -289,22 +344,6 @@ https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Stylegui
 https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
 
 https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
-
-
-## Django Sites
-
-https://builtwithdjango.com/projects/ | Built with Django
-https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
-
-## Dead Simple Python
-
-https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
-https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
-
-## Anaconda and Quansight
-
-https://quansight.com/ | Home | Quansight Consulting
-https://www.anaconda.com/
 
 
 ## Single File
@@ -348,12 +387,6 @@ https://pysheets.app/ | PySheets - Spreadsheet UI for Python
 
 https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
 
-## Canon TDD
-
-https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
-https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
-https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
-
 ## TDD
 
 https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
@@ -382,6 +415,14 @@ https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What yo
 
 https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
 
+## Canon TDD
+
+https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
+
+https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
+https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
+https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
+
 ## Tidy First
 
 https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240/ref=zg_bs_g_132555011_d_sccl_1/140-3492681-6208117?psc=1 | Tidy First?: A Personal Exercise in Empirical Software Design: Beck, Kent, Constantine, Larry: 9781098151249: Amazon.com: Books
@@ -395,36 +436,6 @@ https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissec
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
 
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-## Python Cheatsheet
-
-https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
-
-https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
-
-## Python Packaging
-
-https://www.pyopensci.org/python-package-guide/ | pyOpenSci Python Package Guide — Python Packaging Guide
-https://github.com/pyOpenSci/python-package-guide
-https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 8,000 most-downloaded packages from PyPI
-
-Python Package Manager Shootout
-https://lincolnloop.github.io/python-package-manager-shootout/ | Python Package Manager Shootout
-
-Top 5
-https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
-
-
-
-## Architecture
-
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-https://en.wikipedia.org/wiki/Von_Neumann_architecture | von Neumann architecture - Wikipedia
 
 ## Databases Rankings
 
