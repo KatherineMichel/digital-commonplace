@@ -50,6 +50,33 @@ https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
 https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 
 
+
+## Clean Code, Architecture
+
+https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
+
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
+
+https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
+
+https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
+
+https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
+
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+Thinking in Systems
+https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
+
+## Patterns
+
+https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+
+
+
 ## The New Stack
 
 https://thenewstack.io/
@@ -107,6 +134,15 @@ https://inventwithpython.com/blog/ | The Invent with Python Blog
 https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from first principles, part 5
 https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
 https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
+
+## Java
+
+https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
+https://www.w3schools.com/java/java_data_types.asp | Java Data Types
+https://docs.oracle.com/en/java/
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 
 ## Authorities
@@ -224,34 +260,6 @@ https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/02620
 https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Working Effectively with Legacy Code [Book]
 
 https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
-
-
-
-## Clean Code, Architecture
-
-https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
-
-https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
-
-https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
-
-https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
-
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
-
-Thinking in Systems
-https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
-
-
-
-## Patterns
-
-https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
 
 
 ## Developer Survey
@@ -452,19 +460,8 @@ https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases 
 Intro to Database Systems
 https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
 
-Database Performance
-https://link.springer.com/book/10.1007/978-1-4842-9711-7 | Database Performance at Scale: A Practical Guide | SpringerLink
-
 https://spacetimedb.com/blog/databases-and-data-oriented-design
 https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
-
-## Database Articles- Important
-
-https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
-https://read.technically.dev/p/the-beginners-guide-to-databases
-https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
-
-## Databases
 
 https://architecturenotes.co/things-you-should-know-about-databases/ | Relational Databases Explained
 https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | List of relational database management systems - Wikipedia
@@ -476,9 +473,29 @@ https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
 https://en.wikipedia.org/wiki/Hash_table | Hash table - Wikipedia
 https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
 
+## Database Articles- Important
+
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
+https://read.technically.dev/p/the-beginners-guide-to-databases
+https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
+
+## Database Performance
+
 https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/part-I-database-performance-fundamentals.html#GUID-DD122227-0E55-49DB-8DF0-0F321D03800F | Database Performance Fundamentals
 
-## Distributed Database
+Database Performance
+https://link.springer.com/book/10.1007/978-1-4842-9711-7 | Database Performance at Scale: A Practical Guide | SpringerLink
+
+## Django SQL
+
+https://www.w3schools.com/sql/ | SQL Tutorial
+https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
+
+## Cockroach- Distributed Database
+
+https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
+https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
 
 https://en.wikipedia.org/wiki/CockroachDB
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Replication Layer
@@ -486,15 +503,14 @@ https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
 
 https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
 
+## Distributed Database
+
 https://www.cockroachlabs.com/blog/what-is-distributed-sql/
 https://research.google/pubs/spanner-googles-globally-distributed-database-2/
 
-## Django SQL
-
-https://www.w3schools.com/sql/ | SQL Tutorial
-https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
-
 ## PostgreSQL
+
+https://www.postgresql.org/about/press/faq/ | PostgreSQL: PostgreSQL Press FAQ
 
 The Design of Postgres
 https://dsf.berkeley.edu/papers/ERL-M85-95.pdf | ERL-M85-95.pdf
@@ -502,7 +518,18 @@ https://dsf.berkeley.edu/papers/ERL-M85-95.pdf | ERL-M85-95.pdf
 https://www.postgresql.org/
 https://twitter.com/vhmth/status/1773092591522717849 | Vinay Hiremath on X: "I loathe Postgres' JSONB column. The most easy to abuse column type. Has caused numerous incidents and tons of technical debt/slowness. Has probably cost us millions in lost revenue at this point." / X
 
-## No-SQL
+## Crunchy Data
+
+https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/ | Postgres Performance: From Slow to Pro | DjangoCon US
+https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/ | How To Be a Postgres DBA in a Pinch | DjangoCon US
+
+https://www.crunchydata.com/blog/converting-dms-to-postgis-point-geometry | Converting DMS to PostGIS Point Geometry | Crunchy Data Blog
+https://www.crunchydata.com/blog/auto-archiving-and-data-retention-management-in-postgres-with-pg_partman | Auto-archiving and Data Retention Management in... | Crunchy Data Blog
+https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook | Data Encryption in Postgres: A Guidebook | Crunchy Data Blog
+
+## MongoDB- No-SQL
+
+https://www.mongodb.com/developer/events/pycon-us-2024/ | PyCon US | MongoDB
 
 https://en.wikipedia.org/wiki/BSON | BSON - Wikipedia
 
@@ -533,32 +560,10 @@ https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Post
 https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
 
 
-## Cockroach
-
-https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
-https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
-https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
-
-## MongoDB
-
-https://www.mongodb.com/developer/events/pycon-us-2024/ | PyCon US | MongoDB
 
 ## Dask
 
 https://www.coiled.io/ | Home
-
-## Postgres
-
-https://www.postgresql.org/about/press/faq/ | PostgreSQL: PostgreSQL Press FAQ
-
-## Crunchy Data
-
-https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/ | Postgres Performance: From Slow to Pro | DjangoCon US
-https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/ | How To Be a Postgres DBA in a Pinch | DjangoCon US
-
-https://www.crunchydata.com/blog/converting-dms-to-postgis-point-geometry | Converting DMS to PostGIS Point Geometry | Crunchy Data Blog
-https://www.crunchydata.com/blog/auto-archiving-and-data-retention-management-in-postgres-with-pg_partman | Auto-archiving and Data Retention Management in... | Crunchy Data Blog
-https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook | Data Encryption in Postgres: A Guidebook | Crunchy Data Blog
 
 ## EdgeDB
 
@@ -652,15 +657,6 @@ https://en.wikipedia.org/wiki/QUIC
 https://en.wikipedia.org/wiki/HTTP/3
 
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
-
-## Java
-
-https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
-https://testautomationu.applitools.com/java-programming-course/ | Java Programming
-https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
-https://www.w3schools.com/java/java_data_types.asp | Java Data Types
-https://docs.oracle.com/en/java/
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 ## Local Tools
 
