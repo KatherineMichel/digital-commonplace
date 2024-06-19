@@ -58,6 +58,24 @@ https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection
 http://highscalability.com/
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
+## Learning Materials
+
+https://www.devmarketingguide.com/ | The Developer Marketing Guide
+https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
+https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
+
+https://alldjango.com/articles/developer-marketing
+
+https://github.com/kuchin/awesome-cto#architecture | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+https://github.com/kuchin/awesome-cto#technologies | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
+
+Cheat Sheets
+https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+APIs
+https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
+
 ## Software Design by Example
 
 https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
@@ -77,8 +95,6 @@ https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/02620
 https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
 https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
 https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
-https://twitter.com/arcnotes/status/1686040285179154432 | Architecture Notes on Twitter: "Database Sharding Explained https://t.co/TPkdXNRGCV https://t.co/pX8q1rcBDx" / X
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
 
 ## Clean Code, Architecture
 
@@ -217,6 +233,11 @@ https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ 
 https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
 
 
+## Python 3.13
+
+https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b1 documentation
+https://github.com/python/cpython | python/cpython: The Python programming language
+
 ## Python Core Dev
 
 https://devguide.python.org/core-developers/developer-log/ | Developer log
@@ -228,6 +249,19 @@ https://peps.python.org/pep-0101/ | PEP 101 – Doing Python Releases 101 | peps
 https://github.com/python/cpython/issues | Issues · python/cpython
 https://devguide.python.org/developer-workflow/development-cycle/index.html | Development cycle
 https://www.youtube.com/watch?v=PGZPSWZSkJI&t=2s | (17) Python 3.11 Release - YouTube
+
+## Hugo
+
+https://github.com/hugovk | hugovk (Hugo van Kemenade)
+
+## Seth Michael Larson
+
+https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
+https://sethmlarson.dev/ | Seth Michael Larson
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-28 | CPython 3.12.2 is SBOM-ified!
+https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html | Python Software Foundation News: Software Bill-of-Materials documents are now available for CPython
+https://openssf.org/blog/2023/11/27/openssf-introduces-guide-to-becoming-a-cve-numbering-authority-as-an-open-source-project/ | OpenSSF introduces guide to becoming a CVE Numbering Authority as an Open Source project – Open Source Security Foundation
+https://www.cve.org/Media/News/item/news/2023/08/29/Python-Software-Foundation-Added-as-CNA | NewsItem | CVE
 
 
 ## DEP
@@ -266,6 +300,11 @@ https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross 
 
 https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
 https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
+
+## Anaconda and Quansight
+
+https://quansight.com/ | Home | Quansight Consulting
+https://www.anaconda.com/
 
 
 ## Single File
@@ -397,6 +436,17 @@ https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of d
 https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
 
+## Databases
+
+Intro to Database Systems
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+
+Database Performance
+https://link.springer.com/book/10.1007/978-1-4842-9711-7 | Database Performance at Scale: A Practical Guide | SpringerLink
+
+https://spacetimedb.com/blog/databases-and-data-oriented-design
+https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
+
 ## Database Articles- Important
 
 https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
@@ -472,7 +522,55 @@ https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Post
 https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
 
 
+## Cockroach
+
+https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
+https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
+
+## MongoDB
+
+https://www.mongodb.com/developer/events/pycon-us-2024/ | PyCon US | MongoDB
+
+## Dask
+
+https://www.coiled.io/ | Home
+
+## Postgres
+
+https://www.postgresql.org/about/press/faq/ | PostgreSQL: PostgreSQL Press FAQ
+
+## Crunchy Data
+
+https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/ | Postgres Performance: From Slow to Pro | DjangoCon US
+https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/ | How To Be a Postgres DBA in a Pinch | DjangoCon US
+
+https://www.crunchydata.com/blog/converting-dms-to-postgis-point-geometry | Converting DMS to PostGIS Point Geometry | Crunchy Data Blog
+https://www.crunchydata.com/blog/auto-archiving-and-data-retention-management-in-postgres-with-pg_partman | Auto-archiving and Data Retention Management in... | Crunchy Data Blog
+https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook | Data Encryption in Postgres: A Guidebook | Crunchy Data Blog
+
+## EdgeDB
+
+https://www.edgedb.com/about | About us | EdgeDB
+https://github.com/edgedb/edgedb | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+https://www.youtube.com/watch?v=b23x_IWIb4c | (196) Life After SQL (EdgeDB Is Fascinating) - YouTube
+
+https://github.com/edgedb/edgedb?tab=readme-ov-file | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+https://github.com/edgedb/memhive | edgedb/memhive
+https://docs.python.org/3/library/pickle.html | pickle — Python object serialization — Python 3.12.3 documentation
+
+## Snowflake
+
+https://quickstarts.snowflake.com/ | Snowflake Quickstarts
+
+## Pydantic
+
+https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
+
+
 ## Distributed Systems
+
+https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
 
 https://ferd.ca/a-distributed-systems-reading-list.html
 https://news.ycombinator.com/from?site=ferd.ca
@@ -552,6 +650,17 @@ https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop 
 https://www.w3schools.com/java/java_data_types.asp | Java Data Types
 https://docs.oracle.com/en/java/
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+
+## Local Tools
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
+https://git-scm.com/doc | Git - Documentation
+
+https://www.gnu.org/software/bash/manual/bash.html
+
+https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
 
 ## Functional Programming
 
