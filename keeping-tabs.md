@@ -165,17 +165,10 @@ https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
 https://paulgraham.com/progbot.html | Programming Bottom-Up
 
 
-## LinkedIn Learning Aids and Data Structures and Algos
+## Project Based Learning
 
-https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
-https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
-https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-## Data Structures and Algos
-
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
-
-https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
+https://github.com/practical-tutorials/project-based-learning | practical-tutorials/project-based-learning: Curated list of project-based tutorials
+https://github.com/codecrafters-io/build-your-own-x | codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.
 
 ## Problem Solving Platforms
 
@@ -185,6 +178,23 @@ https://www.hackerrank.com/
 ## Advent of Code
 
 https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
+
+## LinkedIn Learning Aids and Data Structures and Algos
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
+https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+## Data Structures and Algos
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://github.com/armankhondker/best-leetcode-resources
+
+## Data Structures and Algos
+
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
+
+https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
 
 
 ## Learning Resources
@@ -533,6 +543,15 @@ https://en.wikipedia.org/wiki/QUIC
 https://en.wikipedia.org/wiki/HTTP/3
 
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
+
+## Java
+
+https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
+https://www.w3schools.com/java/java_data_types.asp | Java Data Types
+https://docs.oracle.com/en/java/
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 
 ## Functional Programming
 
