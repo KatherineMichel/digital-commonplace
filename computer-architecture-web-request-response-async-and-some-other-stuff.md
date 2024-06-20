@@ -324,145 +324,6 @@ https://sqlite-utils.readthedocs.io/en/latest/changelog.html#v1-1 | Changelog �
 https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-conversions | Python API — sqlite-utils 2.3.1 documentation
 -->
 
-## FastAPI and Pydantic
-
-Fast API
-* [Fast API GitHub](https://github.com/tiangolo/fastapi)
-
-<!--
-https://fastapi.tiangolo.com/
-https://pydantic-docs.helpmanual.io/ | pydantic
-
-PyDantic
-https://github.com/samuelcolvin/pydantic/issues/2678 | IMPORTANT: PEP 563, PEP 649 and the future of pydantic · Issue #2678 · samuelcolvin/pydantic
-https://twitter.com/samuel_colvin/status/1382756508472123398 | Samuel Colvin on Twitter: "URGENT: If you use pydantic or @tiangolo's FastAPI and/or want to use them in the future, you need to read this: https://t.co/mXGx7zZYm4" / Twitter
-
-https://fastapi.tiangolo.com/#performance
-
-Fast API
-https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
-
-https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
--->
-
-## Rest API Alternatives
-
-"GraphQL is a query language for APIs " (REST Alternative)
-* [GraphQL](http://graphql.org/)
-* [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
-
-Rest Alternative
-* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
-
-<!--
-GraphQL
-https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
-https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
-https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
-
-See GraphQL
-
-https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
-https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
--->
-
-<!--
-https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
-
-https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
-
-https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
-https://github.com/graphql-python | GraphQL Python
--->
-
-## Performance and Metrics
-
-<!--
-https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
-
-https://graphite.readthedocs.org
-https://github.com/brutasse/graphite-api
-http://grafana.org
-http://django-statsd.readthedocs.org
-https://github.com/etsy/statsd
-
-https://github.com/graphql-python
-https://github.com/graphql-python/graphene
-https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
-https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
-
-See also: Data Science
-https://github.com/keen/cohorts
--->
-
-
-## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
-
-* [NGINX](https://www.nginx.com/)
-* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
-* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
-* [RQ (Redis Queue)](http://python-rq.org/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
-* [Memcached](https://memcached.org/)
-
-<!--
-REmote DIctionary Server"
-https://redis.io/topics/faq#what-does-redis-actually-mean
-https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
- 
-https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
-
-https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
-https://www.fullstackpython.com/task-queues.html
--->
-
-## API
-
-* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
-
-<!--
-https://www.postman.com/ | Postman | The Collaboration Platform for API Development
-https://www.getpostman.com/ | Postman | API Development Environment
-
-https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
-
-https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
-https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
-https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
-https://hoppscotch.io/
-https://github.com/hoppscotch/hoppscotch | hoppscotch/hoppscotch: 👽 A free, fast and beautiful API request builder used by 80k+ developers.
-https://firecamp.io/
--->
-
-## Benchmarking
-
-Performance
-* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
-* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
-* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
-
-Throttling and Rate Limiting
-* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
-* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
-* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
-
-<!--
-What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
-https://gist.github.com/jboner/2841832
-http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
-http://highscalability.com/numbers-everyone-should-know
-http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
-http://norvig.com/21-days.html#answers
-https://dzone.com/articles/every-programmer-should-know
-
-https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
--->
-
 ## Database Options
 
 Databases
@@ -603,6 +464,144 @@ https://twitter.com/KenWhitesell/status/1273820421708709889 | Ken Whitesell on T
 https://en.wikipedia.org/wiki/Extract,_load,_transform | Extract, load, transform - Wikipedia
 -->
 
+## FastAPI and Pydantic
+
+Fast API
+* [Fast API GitHub](https://github.com/tiangolo/fastapi)
+
+<!--
+https://fastapi.tiangolo.com/
+https://pydantic-docs.helpmanual.io/ | pydantic
+
+PyDantic
+https://github.com/samuelcolvin/pydantic/issues/2678 | IMPORTANT: PEP 563, PEP 649 and the future of pydantic · Issue #2678 · samuelcolvin/pydantic
+https://twitter.com/samuel_colvin/status/1382756508472123398 | Samuel Colvin on Twitter: "URGENT: If you use pydantic or @tiangolo's FastAPI and/or want to use them in the future, you need to read this: https://t.co/mXGx7zZYm4" / Twitter
+
+https://fastapi.tiangolo.com/#performance
+
+Fast API
+https://twitter.com/tiangolo/status/1308252937366499328 | (3) Sebastián Ramírez on Twitter: "FastAPI is indeed just Starlette on steroids: Data validation, data documentation (interactive docs UI), data serialization. Plus some extras, like dependency injection. All based on standard Python type annotations (hints). Automatic data validation saves you TONS of code." / Twitter
+
+https://github.com/encode/starlette-example | encode/starlette-example: An example Starlette application
+-->
+
+## Rest API Alternatives
+
+"GraphQL is a query language for APIs " (REST Alternative)
+* [GraphQL](http://graphql.org/)
+* [GraphQL Schemas and Types](http://graphql.org/learn/schema/)
+
+Rest Alternative
+* [Simple Object Access Protocol (SOAP)](https://en.wikipedia.org/wiki/SOAP)
+
+<!--
+GraphQL
+https://github.com/graphql/graphiql | graphql/graphiql: GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
+https://wundergraph.com/blog/why_not_use_graphql | Why not use GraphQL? | wundergraph
+https://www.apollographql.com/blog/why-use-graphql/ | Why use GraphQL? - Apollo Blog
+
+See GraphQL
+
+https://en.wikipedia.org/wiki/HTTP_Live_Streaming | HTTP Live Streaming - Wikipedia
+https://en.wikipedia.org/wiki/HTTP/2_Server_Push | HTTP/2 Server Push - Wikipedia
+-->
+
+<!--
+https://www.apollographql.com/docs/apollo-server/ | Introduction - Apollo Server - Apollo GraphQL Docs
+
+https://medium.com/@__xuorig__/is-graphql-still-relevant-in-an-http2-world-64964f207b8
+
+https://github.com/graphql/graphql-js | graphql/graphql-js: A reference implementation of GraphQL for JavaScript
+https://github.com/graphql-python | GraphQL Python
+-->
+
+## Performance and Metrics
+
+<!--
+https://github.com/python-diamond/Diamond | python-diamond/Diamond: Diamond is a python daemon that collects system metrics and publishes them to Graphite (and others). It is capable of collecting cpu, memory, network, i/o, load and disk metrics. Additionally, it features an API for implementing custom collectors for gathering metrics from almost any source.
+
+https://graphite.readthedocs.org
+https://github.com/brutasse/graphite-api
+http://grafana.org
+http://django-statsd.readthedocs.org
+https://github.com/etsy/statsd
+
+https://github.com/graphql-python
+https://github.com/graphql-python/graphene
+https://github.com/graphql-python/graphene-django | graphql-python/graphene-django: Graphene Django integration
+https://speakerdeck.com/bswinnerton/launching-githubs-graphql-api | Launching GitHub's GraphQL API // Speaker Deck
+
+See also: Data Science
+https://github.com/keen/cohorts
+-->
+
+## Third Party Load Balancing, Task Queue/Job Queue, Distributed Message Passing, Caching
+
+* [NGINX](https://www.nginx.com/)
+* [Celery](http://www.celeryproject.org) and [Celery GitHub](https://github.com/celery/celery)  
+* [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
+* [RQ (Redis Queue)](http://python-rq.org/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Redis](https://redis.io/)
+* [Memcached](https://memcached.org/)
+
+<!--
+REmote DIctionary Server"
+https://redis.io/topics/faq#what-does-redis-actually-mean
+https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+
+MQ Telemetry Transport
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+
+https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
+https://www.fullstackpython.com/task-queues.html
+-->
+
+## API
+
+* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
+<!--
+https://www.postman.com/ | Postman | The Collaboration Platform for API Development
+https://www.getpostman.com/ | Postman | API Development Environment
+
+https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API request builder - A free, fast, and beautiful alternative to Postman https://postwoman.io 🔥	
+
+https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
+https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
+https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
+https://hoppscotch.io/
+https://github.com/hoppscotch/hoppscotch | hoppscotch/hoppscotch: 👽 A free, fast and beautiful API request builder used by 80k+ developers.
+https://firecamp.io/
+-->
+
+## Benchmarking
+
+Performance
+* [Latency Wikipedia](https://en.wikipedia.org/wiki/Latency_(engineering))
+* [Bandwidth Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_(computing))
+* [Throughput Wikipedia](https://en.wikipedia.org/wiki/Throughput)
+
+Throttling and Rate Limiting
+* [Throttling Wikipedia](https://en.wikipedia.org/wiki/Throttling_process_(computing))
+* [Bandwidth Throttling Wikipedia](https://en.wikipedia.org/wiki/Bandwidth_throttling)
+* [Rate Limiting Wikipedia](https://en.wikipedia.org/wiki/Rate_limiting)
+
+<!--
+What are the Numbers that Every Computer Engineer Should Know http://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean
+https://gist.github.com/jboner/2841832
+http://www.eecs.berkeley.edu/~rcs/research/interactive_latency.html
+http://highscalability.com/numbers-everyone-should-know
+http://static.googleusercontent.com/media/research.google.com/en//people/jeff/stanford-295-talk.pdf
+http://norvig.com/21-days.html#answers
+https://dzone.com/articles/every-programmer-should-know
+
+https://en.wikipedia.org/wiki/Latency_(engineering)#Computer_hardware_and_operating_system_latency | Latency (engineering) - Wikipedia
+-->
 
 ## HTTP, HTTPS, Web Browser, Client/Server
 
@@ -649,7 +648,6 @@ https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduct
 
 https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - MDN Web Docs Glossary: Definitions of Web-related terms | MDN
 -->
-
 
 ## APIs, Callbacks, Webhooks
 
@@ -729,7 +727,6 @@ JSON and YAML
 https://twitter.com/KatiMichel/status/1316258980042280960 | Katherine Michel on Twitter: "TIL via the Python docs that JSON is a subset of YAML 1.2... "every JSON file is also a valid YAML file." "https://t.co/FJlnjCuImD" / Twitter
 -->
 
-
 ## Used Less Often
 
 Serialization- Google's Protocol Buffers (Alternative to XML/JSON)
@@ -749,7 +746,6 @@ https://codeclimate.com/blog/choose-protocol-buffers/ | 5 Reasons to Use Protoco
 https://grpc.io/
 https://grpc.io/docs/guides/
 -->
-
 
 ## Network Tools and Other Utilities
 
@@ -792,7 +788,6 @@ Event-driven, asynchronous IO
 https://www.tutorialspoint.com/nodejs/nodejs_event_loop
 https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
 -->
-
 
 ## Async Benefits?
 
@@ -885,7 +880,6 @@ Concurrency
 https://www.tutorialspoint.com/concurrency_in_python/concurrency_in_python_eventdriven_programming.htm | Concurrency in Python Event-Driven Programming
 https://www.geeksforgeeks.org/operating-system-difference-multitasking-multithreading-multiprocessing/
 -->
-
 
 ## Computer Architecture
 
