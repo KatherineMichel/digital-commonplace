@@ -735,6 +735,97 @@ https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | R
 -->
 
 <!--
+## Python Newsletters
+
+https://when-of-python.github.io
+
+https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+
+
+https://planetpython.org/ | Planet Python
+
+https://speed.python.org/ | Python Speed Center
+-->
+
+<!--
+http://djangopeople.net/us/
+
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+
+Django Snippets
+https://djangosnippets.org/
+
+## Sad Python Girls Club
+
+https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
+
+## Python Pulse and VS Code
+
+https://www.youtube.com/@code
+
+## Django Chat
+
+https://djangochat.com
+
+## Djangonaut Space
+
+https://www.linkedin.com/company/djangonaut-space/ | Djangonaut Space: Overview | LinkedIn
+
+## Django Roadmap
+
+https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
+https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
+
+## Jobs
+
+https://foxleytalent.com/ | Foxley Talent
+https://jobs.django-news.com/ | Django News Jobs
+-->
+
+<!--
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+Python in VS Code
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+https://pycoders.com/
+
+PyScript
+https://pyscript.net/
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+## Quansight
+
+https://labs.quansight.org/ | Home Page | Labs
+https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
+-->
+
+
+<!--
 ## Social
 
 https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
@@ -1659,98 +1750,6 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, W
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
--->
-
-
-
-<!--
-## Python Newsletters
-
-https://when-of-python.github.io
-
-https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
-
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
-
-
-https://planetpython.org/ | Planet Python
-
-https://speed.python.org/ | Python Speed Center
--->
-
-<!--
-http://djangopeople.net/us/
-
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
-
-## Sad Python Girls Club
-
-https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
-
-## Python Pulse and VS Code
-
-https://www.youtube.com/@code
-
-## Django Chat
-
-https://djangochat.com
-
-## Djangonaut Space
-
-https://www.linkedin.com/company/djangonaut-space/ | Djangonaut Space: Overview | LinkedIn
-
-## Django Roadmap
-
-https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
-https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
-
-## Jobs
-
-https://foxleytalent.com/ | Foxley Talent
-https://jobs.django-news.com/ | Django News Jobs
--->
-
-<!--
-## Python and Django
-
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
-
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-Python in VS Code
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-Towncrier
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
-
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
-
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-https://pycoders.com/
-
-PyScript
-https://pyscript.net/
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-## Quansight
-
-https://labs.quansight.org/ | Home Page | Labs
-https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 -->
 
 
