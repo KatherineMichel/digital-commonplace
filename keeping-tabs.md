@@ -81,6 +81,28 @@ https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wron
 
 https://thenewstack.io/
 
+## Learning Resources
+
+https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+
+## Learning Resources
+
+https://www.pluralsight.com/guides/
+https://app.pluralsight.com/library/free | Pluralsight
+
+https://www.geeksforgeeks.org/
+https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
+
+Frontend Masters
+
+## Math and Engineering Code and Formulas
+
+https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
+
+https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
+
+
+
 ## PyPodcats
 
 https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
@@ -154,10 +176,23 @@ https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection
 
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
+
 ## Anaconda and Quansight
 
-https://quansight.com/ | Home | Quansight Consulting
 https://www.anaconda.com/
+
+https://pyscript.net/
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+https://quansight.com/ | Home | Quansight Consulting
+https://labs.quansight.org/ | Home Page | Labs
+https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 
 ## LinkedIn Learning Aids
 
@@ -174,11 +209,6 @@ https://twitter.com/ryanlpeterman
 
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
 
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
 ## System Design
 
 https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
@@ -189,6 +219,17 @@ Cheat Sheets
 https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
+## Programming Parallel Computers, Distributed Algorithms
+
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
 ## Scaling Django
 
 https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
@@ -197,6 +238,12 @@ https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-
 ## Learning Materials
 
 https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/ | Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
+https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+
+CTO
+https://github.com/92bondstreet/cto | 92bondstreet/cto: 👩‍🚀 A curated list of CTO resources.
+https://github.com/mateusz-brainhub/awesome-cto-resources | mateusz-brainhub/awesome-cto-resources: A community-curated list of awesome resources to help you grow as a CTO
 
 https://github.com/kuchin/awesome-cto#architecture | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 https://github.com/kuchin/awesome-cto#technologies | kuchin/awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
@@ -241,6 +288,7 @@ https://architecturenotes.co/ | Architecture Notes — System Design & Software 
 https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
 https://architecturenotes.co/redis/ | Redis Explained
 https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 
 ## Software Design by Example
 
@@ -812,16 +860,6 @@ https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock 
 
 https://pycoders.com/
 
-PyScript
-https://pyscript.net/
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-## Quansight
-
-https://labs.quansight.org/ | Home Page | Labs
-https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 -->
 
 
@@ -1488,7 +1526,6 @@ https://twitter.com/_tomchristie/status/1256210735056785409
 -->
 
 
-
 <!--
 https://github.com/python/cpython
 https://github.com/django/django
@@ -1508,12 +1545,6 @@ https://fosstodon.org/@ambv@mastodon.social/112378027421942468 | Łukasz Langa: 
 https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
 https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
-
-
-## Python Discussion
-
-https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
-https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
 
 
 ## Programming Languages
@@ -1567,6 +1598,12 @@ https://pyfound.blogspot.com/2024/02/white-house-recommends-.html | Python Softw
 https://www.whitehouse.gov/oncd/briefing-room/2024/02/26/press-release-technical-report/ | PRESS RELEASE: Future Software Should Be Memory Safe | ONCD | The White House
 https://twitter.com/ThePSF/status/1763243792231014483 | Python Software Foundation on X: "Python is a memory-safe programming language that eliminates an entire class of software vulnerabilities 🐍🛡️ Adoption of memory-safe systems languages like #Rust continues to grow in the #Python package ecosystem #security #vulnerability #cybersecurity https://t.co/L339v9R4UG" / X
 https://twitter.com/samuel_colvin/status/1763339372361814187 | Samuel Colvin on X: "The US government explicitly recommends 6 memory safe languages: C# - created by Microsoft Go - created by Google Java - created by Sun, bought by Oracle Rust - create bor Mozilla Swift - created by Apple And ... Python - create by one fucking genius on his own in his Christmas… https://t.co/23ahJIVfiB" / X
+
+
+## Python Discussion
+
+https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
 
 
 ## Python Core
@@ -1675,10 +1712,6 @@ https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twit
 
 https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
 
-## Django Tailwind ClI
-
-https://github.com/oliverandrich/django-tailwind-cli | oliverandrich/django-tailwind-cli: Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
-
 ## DjangoCon Europe Sphinx Talk
 
 https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
@@ -1723,6 +1756,7 @@ https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ 
 
 https://upgradedjango.com/ | Upgrade Django
 
+
 ## Deployment
 
 https://ehmatthes.com/blog/simplified_heroku/
@@ -1750,6 +1784,10 @@ https://learndjango.com/tutorials/hello-world-5-different-ways | Django Hello, W
 
 Raymond- Twitter
 https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modernpython/webapp.py at master · rhettinger/modernpython
+
+## Django Tailwind ClI
+
+https://github.com/oliverandrich/django-tailwind-cli | oliverandrich/django-tailwind-cli: Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 -->
 
 
@@ -1935,38 +1973,6 @@ http://coodict.github.io/python3-in-one-pic/
 https://github.com/coodict/javascript-in-one-pic
 -->
 
-
-<!--
-## Learning Resources
-
-https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
-
-## Learning Resources
-
-https://www.pluralsight.com/guides/
-https://app.pluralsight.com/library/free | Pluralsight
-
-https://www.geeksforgeeks.org/
-https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
-
-Frontend Masters
-
-CTO
-https://github.com/92bondstreet/cto | 92bondstreet/cto: 👩‍🚀 A curated list of CTO resources.
-https://github.com/kuchin/awesome-cto
-https://github.com/mateusz-brainhub/awesome-cto-resources | mateusz-brainhub/awesome-cto-resources: A community-curated list of awesome resources to help you grow as a CTO
-
-https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
-
-https://github.com/donnemartin/system-design-primer
-
-
-## Math and Engineering Code and Formulas
-
-https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
-
-https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
--->
 
 <!--
 ## Livestream
@@ -2833,29 +2839,10 @@ https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-k
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
 
-
-
-## System Design
-
-https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
-
-https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
-
-## Programming Parallel Computers, Distributed Algorithms
-
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
 -->
 
 <!--
 ## Architecture and Tools
-
-Architecture Notes
-https://architecturenotes.co/newsletter/ | Weekly Newsletters
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 
 https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 
