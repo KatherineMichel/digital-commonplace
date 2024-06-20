@@ -457,6 +457,8 @@ https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases 
 
 ## Databases
 
+https://en.wikipedia.org/wiki/Database
+
 Intro to Database Systems
 https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
 
@@ -472,6 +474,8 @@ https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree | Self-balancing
 https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
 https://en.wikipedia.org/wiki/Hash_table | Hash table - Wikipedia
 https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
+
+https://www.cidrdb.org/cidr2024/
 
 ## Database Articles- Important
 
@@ -542,29 +546,6 @@ https://www.mongodb.com/databases/acid-compliance | What Does ACID Compliance Me
 
 https://www.datadoghq.com/resources/datadog-cassandra-cheatsheet/ | Apache Cassandra™ Cheatsheet | Datadog
 
-## OLTP and OLAP
-
-https://en.wikipedia.org/wiki/Online_analytical_processing | Online analytical processing - Wikipedia
-https://en.wikipedia.org/wiki/Online_transaction_processing | Online transaction processing - Wikipedia
-https://www.oracle.com/database/what-is-oltp
-https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/
-
-## OLTP
-
-Today's OLTP databases don't scale
-https://twitter.com/eatonphil/status/1747987398573646033 | Phil Eaton on X: "This is very good. https://t.co/unkuj8LAPY https://t.co/BTv3BsYVkL" / X
-
-## Various DBs
-
-https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Posts | LinkedIn
-https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
-
-
-
-## Dask
-
-https://www.coiled.io/ | Home
-
 ## EdgeDB
 
 https://www.edgedb.com/about | About us | EdgeDB
@@ -574,6 +555,35 @@ https://www.youtube.com/watch?v=b23x_IWIb4c | (196) Life After SQL (EdgeDB Is Fa
 https://github.com/edgedb/edgedb?tab=readme-ov-file | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
 https://github.com/edgedb/memhive | edgedb/memhive
 https://docs.python.org/3/library/pickle.html | pickle — Python object serialization — Python 3.12.3 documentation
+
+## Database Management Systems
+
+Database Management System
+https://en.wikipedia.org/wiki/Database#Database_management_system
+
+https://en.wikipedia.org/wiki/Non-lock_concurrency_control
+
+MVCC
+https://en.wikipedia.org/wiki/Multiversion_concurrency_control
+
+OLTP and OLAP
+https://en.wikipedia.org/wiki/Online_analytical_processing | Online analytical processing - Wikipedia
+https://en.wikipedia.org/wiki/Online_transaction_processing | Online transaction processing - Wikipedia
+https://www.oracle.com/database/what-is-oltp
+https://aws.amazon.com/compare/the-difference-between-olap-and-oltp/
+
+Today's OLTP databases don't scale
+https://twitter.com/eatonphil/status/1747987398573646033 | Phil Eaton on X: "This is very good. https://t.co/unkuj8LAPY https://t.co/BTv3BsYVkL" / X
+https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html
+
+## Various DBs
+
+https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Posts | LinkedIn
+https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
+
+## Dask
+
+https://www.coiled.io/ | Home
 
 ## Snowflake
 
