@@ -248,11 +248,14 @@ https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutle
 
 https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
 
+https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
 https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
 
 Cheat Sheets
 https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 
 https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
 http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
