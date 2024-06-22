@@ -31,6 +31,16 @@ https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2
 
 https://regexcrossword.com/ | Regex Crossword
 
+## HTTP/3 and QUIC
+
+https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
+https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
+
+## Linux and GCC
+
+https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
+https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project
+
 
 ## Atlassian
 
@@ -147,6 +157,21 @@ https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&crea
 
 https://pyvideo.org/ | PyVideo.org
 
+https://pycoders.com/
+
+https://twitter.com/pyquantnews/
+
+https://www.linkedin.com/groups/101591/ | (9) Python Web Developers | Groups | LinkedIn
+
+https://www.bitecode.dev/ | Bite code! | Substack
+https://substack.com/@bitecode | Bite Code! | Substack
+
+https://learndjango.com/books/ | Django Books
+
+https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
+
+https://thepythoncodingplace.com/the-python-coding-book/ | The Python Coding Book – The Python Coding Place
+
 https://wizardzines.com/zine-announcements/ | Zine announcements
 
 https://github.com/miguelgrinberg | miguelgrinberg (Miguel Grinberg)
@@ -156,6 +181,16 @@ https://inventwithpython.com/blog/ | The Invent with Python Blog
 https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from first principles, part 5
 https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
 https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
+
+https://veldakiara.substack.com
+
+## JetBrains
+
+https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
+
+## Python in VS Code Release News
+
+https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
 
 ## Java
 
@@ -251,13 +286,6 @@ https://github.com/kuchin/awesome-cto#technologies | kuchin/awesome-cto: A curat
 APIs
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
 
-## Architecture
-
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-https://en.wikipedia.org/wiki/Von_Neumann_architecture | von Neumann architecture - Wikipedia
-
 ## Software Architecture/Design Patterns
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
@@ -314,6 +342,10 @@ https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
 
 https://survey.alchemer.com/s3/7554174/python-developers-survey-2023 | Python Developers Survey 2023
 https://lp.jetbrains.com/django-developer-survey-2023/ | Django Developers Survey 2023 Results
+
+## Core Dev Discussion
+
+https://discuss.python.org/
 
 ## CPython
 
@@ -376,6 +408,22 @@ Top 5
 https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
 
 
+## Djangonaut Space
+
+https://www.linkedin.com/company/djangonaut-space/about/ | Djangonaut Space: About | LinkedIn
+https://www.linkedin.com/company/djangonaut-space/posts/?feedView=all | Djangonaut Space: Posts | LinkedIn
+https://twitter.com/djangonautspace/
+https://github.com/djangonaut-space/program/blob/main/README.md | program/README.md at main · djangonaut-space/program
+https://www.youtube.com/@Djangonaut-Views | (66) Djangonaut Views - YouTube
+
+## Sarah
+
+https://www.djangoproject.com/weblog/2024/mar/22/welcome-our-new-fellow-sarah-boyce/ | Welcome our new Fellow - Sarah Boyce | Weblog | Django
+
+## DSF
+
+https://www.djangoproject.com/foundation/teams/
+
 ## DEP
 
 https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
@@ -387,10 +435,15 @@ https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Djang
 
 https://builtwithdjango.com/projects/ | Built with Django
 https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
+https://web.archive.org/web/20231216212959/https://djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
 ## Django Accessibility
 
 https://sarahabd.com/blog/my-accessibility-review-checklist | My Accessibility Review Checklist
+
+## Accessibility
+
+https://blogs.microsoft.com/accessibility/accessibility-training-at-microsoft/ | Accessibility Training at Microsoft - Microsoft Accessibility Blog
 
 ## Django Style Guides
 
@@ -410,6 +463,10 @@ https://github.com/andrewgodwin/django-singlefile | andrewgodwin/django-singlefi
 
 https://fosstodon.org/@ehmatthes/112542456727381248 | Eric Matthes: "I've been working on implement…" - Fosstodon
 
+
+## Free-threaded example
+
+https://x.com/HenrySchreiner3/status/1796748354736505101 | Henry Schreiner III on X: "I released scikit-build-core 0.9.5, which supports free-threaded Python 3.13 on Windows now too! Added a free threaded example using cibuildwheel to the sample repo. https://t.co/NFsbzTMdnM" / X
 
 ## Wasmer
 
@@ -437,6 +494,10 @@ https://blog.pydantic.dev/blog
 ## PySheets
 
 https://pysheets.app/ | PySheets - Spreadsheet UI for Python
+
+
+https://www.django-unicorn.com/ | Unicorn
+https://django-ninja.dev/ | Django Ninja
 
 
 ## Profiling
@@ -857,9 +918,6 @@ https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitt
 
 
 https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-https://pycoders.com/
-
 -->
 
 
