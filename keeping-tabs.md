@@ -3,6 +3,9 @@
 # Learning Resources
 
 <!--
+https://kolo.app/ | Kolo for Django
+
+
 https://scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
 
 https://news.ycombinator.com/ | Hacker News
@@ -12,6 +15,19 @@ https://github.blog/changelog/ | Changelogs Archive - The GitHub Blog
 https://github.com/trending/developers/python?since=daily | Trending Python developers on GitHub today
 
 https://github.com/trending/developers | Trending developers on GitHub today
+
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
+
+https://inventwithpython.com/blog/ | The Invent with Python Blog
+
+
+## Marketing
+
+https://www.devmarketingguide.com/ | The Developer Marketing Guide
+https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
+https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
+
+https://alldjango.com/articles/developer-marketing
 
 
 ## Cutlefish
@@ -29,14 +45,16 @@ https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/
 https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
 https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
 
+## Engineering Blogs
 
-## Marketing
+https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
 
-https://www.devmarketingguide.com/ | The Developer Marketing Guide
-https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
-https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
+https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
 
-https://alldjango.com/articles/developer-marketing
+https://read.developing.dev/ | The Developing Dev by Ryan Peterman
+https://twitter.com/ryanlpeterman
+
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
 
 
 ## High Performance Orgs
@@ -50,25 +68,6 @@ https://twitter.com/BrianJJi/status/1737276638545474012 | Brian Ji on X: "Sam Al
 
 http://paulgraham.com/greatwork.html | How to Do Great Work
 https://paulgraham.com/best.html | The Best Essay
-
-
-## Git
-
-https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
-
-## Regex
-
-https://regexcrossword.com/ | Regex Crossword
-
-## HTTP/3 and QUIC
-
-https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
-https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
-
-## Linux and GCC
-
-https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
-https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project
 
 
 ## Atlassian
@@ -89,7 +88,6 @@ https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
 https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 
 
-
 ## Clean Code, Architecture
 
 https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
@@ -104,15 +102,24 @@ https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices
 
 https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
 
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
-
 Thinking in Systems
 https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
 
 ## Patterns
 
 https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+
+
+## Microservices
+
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+
+
+## Software Architecture Principles
+
+https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
+https://c4model.com/ | The C4 model for visualising software architecture
+domain driven model - Google Search
 
 
 
@@ -139,13 +146,6 @@ Frontend Masters
 https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for mathematical notation in code form
 
 https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
-
-
-
-## PyPodcats
-
-https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
-https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
 
 
 ## Top-Down Design
@@ -188,8 +188,6 @@ https://news.ycombinator.com/item?id=38838944 | 50 Algorithms Every Programmer S
 
 ## Learning Resources
 
-https://pyvideo.org/ | PyVideo.org
-
 https://pycoders.com/
 
 https://twitter.com/pyquantnews/
@@ -200,30 +198,28 @@ https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
 
 https://thepythoncodingplace.com/the-python-coding-book/ | The Python Coding Book – The Python Coding Place
 
-https://inventwithpython.com/blog/ | The Invent with Python Blog
-
 https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from first principles, part 5
 https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
 https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
 
-https://veldakiara.substack.com
 
 ## JetBrains
 
 https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
+https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
 
-## Python in VS Code Release News
+## Python Pulse and VS Code
 
+https://www.youtube.com/@code
 https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 
-## Java
 
-https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
-https://testautomationu.applitools.com/java-programming-course/ | Java Programming
-https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
-https://www.w3schools.com/java/java_data_types.asp | Java Data Types
-https://docs.oracle.com/en/java/
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+## Person
+
+https://veldakiara.substack.com
+
 
 
 ## Authorities
@@ -240,37 +236,17 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - 
 https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
 https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
 
-## Anaconda and Quansight
 
-https://www.anaconda.com/
-
-https://pyscript.net/
-
-Conda
-https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
-
-https://quansight.com/ | Home | Quansight Consulting
-https://labs.quansight.org/ | Home Page | Labs
-https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 
 ## LinkedIn Learning Aids
 
 https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
 
-## Engineering Blogs
-
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
-https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
-
-https://read.developing.dev/ | The Developing Dev by Ryan Peterman
-https://twitter.com/ryanlpeterman
-
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
 
 ## System Design
 
-https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
+https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 
 https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
 
@@ -287,6 +263,7 @@ http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelop
 https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
 
 https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
 
 ## Learning Materials
 
@@ -352,6 +329,10 @@ https://www.django-unicorn.com/ | Unicorn
 https://django-ninja.dev/ | Django Ninja
 
 
+## GIL
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
 ## Profiling
 
 https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
@@ -359,6 +340,8 @@ https://realpython.com/python-profiling/ | Profiling in Python: How to Find Perf
 ## TDD
 
 https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
 
 ## Testing
 
@@ -377,7 +360,6 @@ https://playwright.dev/ | Fast and reliable end-to-end testing for modern web ap
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
 https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
 
 ## pytest-django
@@ -409,22 +391,48 @@ https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need
 
 https://access.redhat.com/support/policy/updates/errata
 
-https://riscv.org/
-https://en.wikipedia.org/wiki/QUIC
-https://en.wikipedia.org/wiki/HTTP/3
-
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
 
 ## Local Tools
 
 https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
 
-https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
-https://git-scm.com/doc | Git - Documentation
-
 https://www.gnu.org/software/bash/manual/bash.html
 
-https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
+
+## Regex
+
+https://regexcrossword.com/ | Regex Crossword
+
+## Git
+
+https://git-scm.com/doc | Git - Documentation
+
+https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
+
+## HTTP/3 and QUIC
+
+https://en.wikipedia.org/wiki/QUIC
+https://en.wikipedia.org/wiki/HTTP/3
+
+https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
+https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
+
+## Compiler
+
+https://blog.logrocket.com/exploring-rust-compiler-options-gcc-vs-llvm/
+https://llvm.org/
+https://clang.llvm.org/
+https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project
+
+## Linux
+
+https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
+
+## RISC-V
+
+https://riscv.org/
+
 
 ## Functional Programming
 
@@ -464,12 +472,6 @@ https://djangosnippets.org/
 
 https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
 
-## Python Pulse and VS Code
-
-https://www.youtube.com/@code
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
 ## Django Chat
 
 https://djangochat.com
@@ -503,10 +505,8 @@ Towncrier
 https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
 
 https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
-
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
 -->
+
 
 <!--
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
@@ -590,8 +590,6 @@ Dev conferences
 https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
 
-
-PyVideo
 
 ## DFW
 
@@ -1357,6 +1355,17 @@ Graph Patterns: https://lnkd.in/gKE6w7Jb
 https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
 -->
 
+## Java Resources
+
+<!--
+https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
+https://www.w3schools.com/java/java_data_types.asp | Java Data Types
+https://docs.oracle.com/en/java/
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+-->
+
 ## Python Articles and Tutorials
 
 Python Tutorials
@@ -1731,6 +1740,11 @@ https://twitter.com/PyCommunityNews/
 No longer in operation
 https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
 https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+
+## PyPodcats
+
+https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
+https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
 -->
 
 
@@ -2151,9 +2165,24 @@ https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpret
 https://blog.pydantic.dev/blog
 https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
 
+
 ## DjangoCon Europe Sphinx Talk
 
 https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
+
+
+## Anaconda and Quansight
+
+https://www.anaconda.com/
+
+https://pyscript.net/
+
+Conda
+https://conda.org/blog/2023-09-19-newsletter/?es_id=2c718fdad8 | Conda Newsletter, Issue #2 | conda.org
+
+https://quansight.com/ | Home | Quansight Consulting
+https://labs.quansight.org/ | Home Page | Labs
+https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 
 
 ## Finance
@@ -2381,6 +2410,11 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 
 
 <!--
+List of Algorithms
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
+
 ## Distributed Systems
 
 https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
