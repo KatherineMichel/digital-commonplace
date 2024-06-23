@@ -20,6 +20,15 @@ https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exer
 
 https://inventwithpython.com/blog/ | The Invent with Python Blog
 
+https://martinfowler.com/
+
+https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
+
+http://highscalability.com/
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
 
 ## Marketing
 
@@ -186,23 +195,6 @@ https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know | 
 https://news.ycombinator.com/item?id=38838944 | 50 Algorithms Every Programmer Should Know (Second Edition) | Hacker News
 
 
-## Learning Resources
-
-https://pycoders.com/
-
-https://twitter.com/pyquantnews/
-
-https://learndjango.com/books/ | Django Books
-
-https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
-
-https://thepythoncodingplace.com/the-python-coding-book/ | The Python Coding Book – The Python Coding Place
-
-https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from first principles, part 5
-https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
-https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
-
-
 ## JetBrains
 
 https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
@@ -222,20 +214,10 @@ https://veldakiara.substack.com
 
 
 
-## Authorities
-
-https://martinfowler.com/
-
-http://highscalability.com/
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
 ## Technical Leadership
 
 https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
 https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
 
 
 ## LinkedIn Learning Aids
@@ -274,6 +256,8 @@ https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fa
 https://github.com/charlax/professional-programming | charlax/professional-programming: A collection of learning resources for curious software engineers
 
 https://github.com/kdeldycke/awesome-falsehood | kdeldycke/awesome-falsehood: 😱 Falsehoods Programmers Believe in
+https://x.com/pganssle/status/1111643764349722624
+https://qntm.org/abolish
 https://www.zainrizvi.io/blog/falsehoods-programmers-believe-about-time-zones/ | Falsehoods programmers believe about time zones
 
 CTO
@@ -288,7 +272,59 @@ https://github.com/public-apis/public-apis | public-apis/public-apis: A collecti
 
 ## Programming Parallel Computers, Distributed Algorithms
 
+https://ppc.cs.aalto.fi/
+https://jukkasuomela.fi/da2020/
+https://mycourses.aalto.fi/course/view.php?id=41048
+https://jukkasuomela.fi/da2020/da2020.pdf
 https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
+
+
+https://opensource.com/
+
+## Learning
+
+Don Knuth's Annual Christmas Lecture
+https://twitter.com/Grady_Booch/status/1607118853410271232
+
+https://twitter.com/hnasr/status/1686552725449064448 | Hussein Nasser on Twitter: "p.s. I recommend taking the Fundamentals of Network engineering course first followed by Fundamentals of Backend engineering then the performance course. The other courses can be taken in any order. Direct link https://t.co/tyX388seyr BACK-AUG2023-A NET-AUG2023-A…" / X
+https://www.udemy.com/course/discovering-backend-bottlenecks-unlocking-peak-performance/?couponCode=LETSLEARNNOWPP
+
+https://stackshare.io/posts/top-developer-tools-2022 | 🏆 The Top 100 Developer Tools of 2022 | StackShare
+
+https://github.com/TylerJewell/DevLandscape | TylerJewell/DevLandscape: Developer-Led Landscape
+
+https://twitter.com/stubbornella/status/1664753839835348993 | Nicole Sullivan on Twitter: "I tried to make a cute little graphic about the skills front end folks have... and it exploded the edges! I probably even missed things 🤦🏼‍♀️ I think each developer has general skills as well as specialties. Did I miss something? https://t.co/vjtbLLorQS" / Twitter
+
+https://github.com/raunofreiberg/interfaces | raunofreiberg/interfaces: A non-exhaustive list of details that make a good web interface.
+
+https://github.com/wmariuss/awesome-devops | wmariuss/awesome-devops: A curated list of awesome DevOps platforms, tools, practices and resources
+
+https://hardcoresoftware.learningbyshipping.com/p/ultimate-guide-to-platforms?r=1j4m3&utm_campaign=post&utm_medium=web | 208. Ultimate Guide to Platforms
+
+https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls | Packagecloud Blog
+
+https://talkback.sh/ | Talkback
+
+https://btn.dev/ | Button — A simpler deployment story
+
+https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X: "Still comes in handy sometimes https://t.co/pCJRgQ01ui" / X
+
+http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
+
+
+## Security Algorithms
+
+Cryptographic hashing algorithms
+SHA-3
+https://en.wikipedia.org/wiki/SHA-3
+SHA-2
+https://en.wikipedia.org/wiki/SHA-2
+Argon 2
+https://en.wikipedia.org/wiki/Argon2
+bcrypt
+https://en.wikipedia.org/wiki/Bcrypt
+
 
 ## Scaling Django
 
@@ -302,22 +338,6 @@ https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/
 https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
 https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
 https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
-
-
-
-https://nostarch.com/real-world-python | Real-World Python | No Starch Press
-
-## Python Cheatsheet
-
-https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
-https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
-
-https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
-
-## Dead Simple Python
-
-https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
-https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
 
 
 ## PySheets
@@ -339,53 +359,13 @@ https://realpython.com/python-profiling/ | Profiling in Python: How to Find Perf
 
 ## TDD
 
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
 https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
 
 https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
 
-## Testing
-
-https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | DjangoCon US
-
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
-https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
-
-https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPanda/awesome-web-testing-playwright: Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
-https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
-https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
-
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
-
-## pytest-django
-
-https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
-
-## Canon TDD
-
-https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
-
-https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
-https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
-https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
-
-## Tidy First
-
-https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240/ref=zg_bs_g_132555011_d_sccl_1/140-3492681-6208117?psc=1 | Tidy First?: A Personal Exercise in Empirical Software Design: Beck, Kent, Constantine, Larry: 9781098151249: Amazon.com: Books
-
-https://tidyfirst.substack.com/ | Software Design: Tidy First? | Kent Beck | Substack
-https://www.oreilly.com/library/view/tidy-first/9781098151232/ | Tidy First? [Book]
-
-https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
-https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
-
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
 
 
 
@@ -468,19 +448,6 @@ https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites
 Django Snippets
 https://djangosnippets.org/
 
-## Sad Python Girls Club
-
-https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
-
-## Django Chat
-
-https://djangochat.com
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
-
-## Django Roadmap
-
-https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
-https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
 
 ## Jobs
 
@@ -500,9 +467,6 @@ https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-com
 
 
 https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-Towncrier
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
 
 https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
 -->
@@ -970,48 +934,6 @@ https://twitter.com/levelsio/
 https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
 https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
 -->
-
-<!--
-https://opensource.com/
-
-## Learning
-
-Don Knuth's Annual Christmas Lecture
-https://twitter.com/Grady_Booch/status/1607118853410271232
-
-https://twitter.com/hnasr/status/1686552725449064448 | Hussein Nasser on Twitter: "p.s. I recommend taking the Fundamentals of Network engineering course first followed by Fundamentals of Backend engineering then the performance course. The other courses can be taken in any order. Direct link https://t.co/tyX388seyr BACK-AUG2023-A NET-AUG2023-A…" / X
-
-https://stackshare.io/posts/top-developer-tools-2022 | 🏆 The Top 100 Developer Tools of 2022 | StackShare
-
-https://github.com/TylerJewell/DevLandscape | TylerJewell/DevLandscape: Developer-Led Landscape
-
-https://twitter.com/stubbornella/status/1664753839835348993 | Nicole Sullivan on Twitter: "I tried to make a cute little graphic about the skills front end folks have... and it exploded the edges! I probably even missed things 🤦🏼‍♀️ I think each developer has general skills as well as specialties. Did I miss something? https://t.co/vjtbLLorQS" / Twitter
-
-https://github.com/raunofreiberg/interfaces | raunofreiberg/interfaces: A non-exhaustive list of details that make a good web interface.
-
-https://github.com/wmariuss/awesome-devops | wmariuss/awesome-devops: A curated list of awesome DevOps platforms, tools, practices and resources
-
-https://hardcoresoftware.learningbyshipping.com/p/ultimate-guide-to-platforms?r=1j4m3&utm_campaign=post&utm_medium=web | 208. Ultimate Guide to Platforms
-
-
-
-https://blog.packagecloud.io/the-definitive-guide-to-linux-system-calls/ | The Definitive Guide to Linux System Calls | Packagecloud Blog
-
-
-
-https://talkback.sh/ | Talkback
-
-https://btn.dev/ | Button — A simpler deployment story
-
-https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X: "Still comes in handy sometimes https://t.co/pCJRgQ01ui" / X
-
-argon 2 algorithm - Google Search
-
-
-
-http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
--->
-
 
 <!--
 SRE, DevOps, CI/CD
@@ -1499,6 +1421,40 @@ https://dabeaz-course.github.io/practical-python/Notes/01_Introduction/03_Number
 
 
 <!--
+## Python Cheatsheet
+
+https://gto76.github.io/python-cheatsheet/ | Comprehensive Python Cheatsheet
+https://github.com/gto76/python-cheatsheet | gto76/python-cheatsheet: Comprehensive Python Cheatsheet
+
+https://github.com/rainyear/python3-in-one-pic/blob/master/py3%20in%20one%20pic.png | python3-in-one-pic/py3 in one pic.png at master · rainyear/python3-in-one-pic
+
+## Dead Simple Python
+
+https://github.com/CodeMouse92/DeadSimplePython | CodeMouse92/DeadSimplePython
+https://www.amazon.com/Dead-Simple-Python-Idiomatic-Programmers/dp/1718500920 | Dead Simple Python: Idiomatic Python... by McDonald, Jason C
+
+
+https://thepythoncodingplace.com/the-python-coding-book/ | The Python Coding Book – The Python Coding Place
+
+https://www.mostlypython.com/django-from-first-principles-part-5/ | Django from first principles, part 5
+https://www.mostlypython.com/django-from-first-principles-2/?utm_campaign=Django%2BNewsletter&utm_medium=web&utm_source=Django_Newsletter_231 | Django from first principles
+https://www.mostlypython.com/generating-code-snippets/ | Generating code snippets
+
+
+https://nostarch.com/real-world-python | Real-World Python | No Starch Press
+
+
+## Python and JavaScript
+
+https://sayazamurai.github.io/python-vs-javascript/
+https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
+http://coodict.github.io/python3-in-one-pic/
+https://github.com/coodict/javascript-in-one-pic
+
+
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+
+
 ## Nina
 
 Terminal Setup 
@@ -1539,15 +1495,11 @@ https://pll.harvard.edu/course/cs50-introduction-computer-science | CS50: Introd
 https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
 
 
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+https://pycoders.com/
 
+https://learndjango.com/books/ | Django Books
 
-## Python and JavaScript
-
-https://sayazamurai.github.io/python-vs-javascript/
-https://ischurov.github.io/pythonvjs/show/lists-arrays/en/
-http://coodict.github.io/python3-in-one-pic/
-https://github.com/coodict/javascript-in-one-pic
+https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
 -->
 
 
@@ -1697,6 +1649,24 @@ https://devguide.python.org/core-developers/developer-log/ | Developer log
 https://devguide.python.org/core-developers/developer-log/index.html | Developer log
 -->
 
+## Python Podcasts
+
+<!--
+## PyPodcats
+
+https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
+https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
+
+## Sad Python Girls Club
+
+https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
+
+## Django Chat
+
+https://djangochat.com
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+-->
+
 ## Python Unofficial News and Projects
 
 Django News
@@ -1740,11 +1710,6 @@ https://twitter.com/PyCommunityNews/
 No longer in operation
 https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
 https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
-
-## PyPodcats
-
-https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
-https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
 -->
 
 
@@ -1878,6 +1843,11 @@ https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Dj
 https://django-release-cycle.glitch.me/
 https://jefftriplett.com/django-release-cycle/
 https://twitter.com/webology/status/1235628234148110336
+
+## Django Roadmap
+
+https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
+https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
 -->
 
 ## Python Feature Roundups
@@ -2166,6 +2136,10 @@ https://blog.pydantic.dev/blog
 https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
 
 
+Towncrier
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+
 ## DjangoCon Europe Sphinx Talk
 
 https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
@@ -2186,6 +2160,8 @@ https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual 
 
 
 ## Finance
+
+https://twitter.com/pyquantnews/
 
 Bank Python
 https://calpaterson.com/bank-python.html
@@ -2283,26 +2259,62 @@ Testing
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 * [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
-<!--
+<--
+## pytest-django
+
 pytest-django (plugin)
 https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
+https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
+
+## Testing
 
 https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
-
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 
 Speed Up Your Django Tests
 
 David Winterbottom on tests
 https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987
 
-Test Driven
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | DjangoCon US
 
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
+
+Playwright
+https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPanda/awesome-web-testing-playwright: Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
+https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
+https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
+
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
+
+https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
+
+https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
+https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
+
+## Canon TDD
+
+https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
+https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
+https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
+
+## Tidy First
+
+https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240/ref=zg_bs_g_132555011_d_sccl_1/140-3492681-6208117?psc=1 | Tidy First?: A Personal Exercise in Empirical Software Design: Beck, Kent, Constantine, Larry: 9781098151249: Amazon.com: Books
+
+https://tidyfirst.substack.com/ | Software Design: Tidy First? | Kent Beck | Substack
+https://www.oreilly.com/library/view/tidy-first/9781098151232/ | Tidy First? [Book]
+
+https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
+https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
+
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
 -->
 
 ## Performance
