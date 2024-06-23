@@ -439,9 +439,8 @@ https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts 
 https://planetpython.org/ | Planet Python
 
 https://speed.python.org/ | Python Speed Center
--->
 
-<!--
+
 https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
 https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
@@ -453,9 +452,8 @@ https://djangosnippets.org/
 
 https://foxleytalent.com/ | Foxley Talent
 https://jobs.django-news.com/ | Django News Jobs
--->
 
-<!--
+
 ## Python and Django
 
 https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
@@ -884,6 +882,7 @@ https://www.pragmaticengineer.com/ | The Pragmatic Engineer
 https://twitter.com/Pragmatic_Eng
 https://twitter.com/GergelyOrosz/
 
+
 ## Engineering
 
 Cal Paterson
@@ -1057,21 +1056,9 @@ Programming Language Comparisons
 * [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
 * [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
 * [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+-->
 
-
-## Patterns
-
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://refactoring.guru/design-patterns/ | Design Patterns
-https://refactoring.guru/design-patterns/python
-
-
+<!--
 ## Python Patterns
 
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
@@ -1087,17 +1074,18 @@ Event Sourcing
 https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
 https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
--->
 
+## Patterns
 
-<!--
-## Architecture Notes
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
 
-https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-https://architecturenotes.co/redis/ | Redis Explained
-https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+https://refactoring.guru/design-patterns/python
 
 ## Martin Fowler
 
@@ -1114,7 +1102,13 @@ https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
 https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
 https://martinfowler.com/microservices/ | Microservices Guide
 
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=m_crc_dp_lf_d_t1_d_sccl_3_14/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0321127420&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
+## Architecture Notes
+
+https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+https://architecturenotes.co/redis/ | Redis Explained
+https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 -->
 
 <!--
