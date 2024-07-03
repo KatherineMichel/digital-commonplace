@@ -959,56 +959,7 @@ https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-
 
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-## Scaling Django
-
-https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
-https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
-
-
-## Architecture and Tools
-
-https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
-
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
-
-https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-
-
-## Software Architecture/Design Patterns
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
-https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
-
-
-## Clean Code, Architecture
-
-https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
-
-https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
-
-https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
-
-Thinking in Systems
-https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
-
-
-## Microservices
-
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
-
-
-## Software Architecture Principles
-
-https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
-https://c4model.com/ | The C4 model for visualising software architecture
-domain driven model - Google Search
 -->
-
 
 <!--
 ## Architectures at Scale
@@ -1074,8 +1025,6 @@ Gang of Four (GoF)
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
