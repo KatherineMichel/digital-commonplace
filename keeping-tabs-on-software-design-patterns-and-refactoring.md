@@ -3,49 +3,11 @@
 <!--
 ## Books
 
-https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html
-
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 -->
 
-## Programming Languages, Types, and Paradigms
-
-Programming Languages
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-  
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-<!--
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
--->
-
-<!--
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
-Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
-state.
-Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
-data types are the two most popular, but there exist two others, declarative objects and
-stateful abstract data types.
--->
-
 ## Compilers Book
-
-### von Neumann
-
-<!--
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
--->
 
 ### Programming Language Classification
 
@@ -114,270 +76,161 @@ What was this?
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
 -->
 
+## Programming Languages, Types, and Paradigms
 
-## Programming Paradigms- Object Oriented Software
-
-Object-Oriented Programming Languages
-* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
-* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
-* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
-* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
-
-Object Oriented Software Construction
-* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
-* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
-
-Object
-* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
-
-Constructor
-* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
-
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
-
-## Programming Paradigms- Functional, Imperative, Declarative, Reactive
-
-Functional Programming
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
-
-Imperative and Declarative
-* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
-* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
-
-React?
-* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
-
-## Programming Paradigms- Functional Programming
-
-* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+Programming Languages
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+  
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
 <!--
-Functional programming
-pure function
-
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
-
-https://en.wikipedia.org/wiki/State_pattern
-https://en.wikipedia.org/wiki/Finite-state_machine
-
-https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 -->
-
-## Inheritance versus Composition
-
-Composition
-* [Functional Composition Wikipedia](https://en.wikipedia.org/wiki/Function_composition_(computer_science))
-
-## Useful Terminology
-
-Example of stateless protocols
-* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
-* [HTTP](https://en.wikipedia.org/wiki/HTTP)
-
-State
-* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
-* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
-* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
-
-
-## Code Complete and Clean Code
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-## GRASP and Clean Architecture (Follows SOLID Principles)
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 <!--
-https://ourmachinery.com/files/guidebook.md.html
-https://en.wikipedia.org/wiki/Data-oriented_design
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
 -->
 
-Software Principles (SOLID)
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Open-Closed Principle Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
-* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-* [Interface Segregation Principle Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+### von Neumann
 
 <!--
-Pattern
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Inversion_of_control
-
-https://en.wikipedia.org/wiki/Interface_(computing)
-
-Clean Architectures in Python - Leonardo Giordani - PyLondinium19
-https://www.youtube.com/watch?v=wtCQalq7L-E
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
 -->
 
+## Effective Python
+
+Chapter 1: Pythonic Thinking
+Item 1: Know Which Version of Python You’re Using
+Item 2: Follow the PEP 8 Style Guide
+Item 3: Know the Differences Between bytes and str
+Item 4: Prefer Interpolated F-Strings Over C-style Format Strings and str.format
+Item 5: Write Helper Functions Instead of Complex Expressions
+Item 6: Prefer Multiple Assignment Unpacking Over Indexing
+Item 7: Prefer enumerate Over range
+Item 8: Use zip to Process Iterators in Parallel
+Item 9: Avoid else Blocks After for and while Loops
+Item 10: Prevent Repetition with Assignment Expressions
+
+Chapter 2: Lists and Dictionaries
+Item 11: Know How to Slice Sequences
+Item 12: Avoid Striding and Slicing in a Single Expression
+Item 13: Prefer Catch-All Unpacking Over Slicing
+Item 14: Sort by Complex Criteria Using the key Parameter
+Item 15: Be Cautious When Relying on dict Insertion Ordering
+Item 16: Prefer get Over in and KeyError to Handle Missing Dictionary Keys
+Item 17: Prefer defaultdict Over setdefault to Handle Missing Items in Internal State
+Item 18: Know How to Construct Key-Dependent Default Values with __missing__
+
+Chapters 3: Functions
+Item 19: Never Unpack More Than Three Variables When Functions Return Multiple Values
+Item 20: Prefer Raising Exceptions to Returning None
+Item 21: Know How Closures Interact with Variable Scope
+Item 22: Reduce Visual Noise with Variable Positional Arguments
+Item 23: Provide Optional Behavior with Keyword Arguments
+Item 24: Use None and Docstrings to Specify Dynamic Default Arguments
+Item 25: Enforce Clarity with Keyword-Only and Positional-Only Arguments
+Item 26: Define Function Decorators with functools.wraps
+
+Chapter 4: Comprehensions and Generators
+Item 27: Use Comprehensions Instead of map and filter
+Item 28: Avoid More Than Two Control Subexpressions in Comprehensions
+Item 29: Avoid Repeated Work in Comprehensions by Using Assignment Expressions
+Item 30: Consider Generators Instead of Returning Lists
+Item 31: Be Defensive When Iterating Over Arguments
+Item 32: Consider Generator Expressions for Large List Comprehensions
+Item 33: Compose Multiple Generators with yield from
+Item 34: Avoid Injecting Data into Generators with send
+Item 35: Avoid Causing State Transitions in Generators with throw
+Item 36: Consider itertools for Working with Iterators and Generators
+
+Chapter 5: Classes and Interfaces
+Item 37: Compose Classes Instead of Nesting Many Levels of Built-in Types
+Item 38: Accept Functions Instead of Classes for Simple Interfaces
+Item 39: Use @classmethod Polymorphism to Construct Objects Generically
+Item 40: Initialize Parent Classes with super
+Item 41: Consider Composing Functionality with Mix-in Classes
+Item 42: Prefer Public Attributes Over Private Ones
+Item 43: Inherit from collections.abc for Custom Container Types
+
+Chapter 6: Metaclasses and Attributes
+Item 44: Use Plain Attributes Instead of Setter and Getter Methods
+Item 45: Consider @property Instead of Refactoring Attributes
+Item 46: Use Descriptors for Reusable @property Methods
+Item 47: Use __getattr__, __getattribute__, and __setattr__ for Lazy Attributes
+Item 48: Validate Subclasses with __init_subclass__
+Item 49: Register Class Existence with __init_subclass__
+Item 50: Annotate Class Attributes with __set_name__
+Item 51: Prefer Class Decorators Over Metaclasses for Composable Class Extensions
+
+Chapter 7: Concurrency and Parallelism
+Item 52: Use subprocess to Manage Child Processes
+Item 53: Use Threads for Blocking I/O, Avoid for Parallelism
+Item 54: Use Lock to Prevent Data Races in Threads
+Item 55: Use Queue to Coordinate Work Between Threads
+Item 56: Know How to Recognize When Concurrency Is Necessary
+Item 57: Avoid Creating New Thread Instances for On-demand Fan-out
+Item 58: Understand How Using Queue for Concurrency Requires Refactoring
+Item 59: Consider ThreadPoolExecutor When Threads Are Necessary for Concurrency
+Item 60: Achieve Highly Concurrent I/O with Coroutines
+Item 61: Know How to Port Threaded I/O to asyncio
+Item 62: Mix Threads and Coroutines to Ease the Transition to asyncio
+Item 63: Avoid Blocking the asyncio Event Loop to Maximize Responsiveness
+Item 64: Consider concurrent.futures for True Parallelism
+
+Chapter 8: Robustness and Performance
+Item 65: Take Advantage of Each Block in try/except /else/finally
+Item 66: Consider contextlib and with Statements for Reusable try/finally Behavior
+Item 67: Use datetime Instead of time for Local Clocks
+Item 68: Make pickle Reliable with copyreg
+Item 69: Use decimal When Precision Is Paramount
+Item 70: Profile Before Optimizing
+Item 71: Prefer deque for Producer–Consumer Queues
+Item 72: Consider Searching Sorted Sequences with bisect
+Item 73: Know How to Use heapq for Priority Queues
+Item 74: Consider memoryview and bytearray for Zero-Copy Interactions with bytes
+
+Chapter 9: Testing and Debugging
+Item 75: Use repr Strings for Debugging Output
+Item 76: Verify Related Behaviors in TestCase Subclasses
+Item 77: Isolate Tests from Each Other with setUp, tearDown, setUpModule, and tearDownModule
+Item 78: Use Mocks to Test Code with Complex Dependencies
+Item 79: Encapsulate Dependencies to Facilitate Mocking and Testing
+Item 80: Consider Interactive Debugging with pdb
+Item 81: Use tracemalloc to Understand Memory Usage and Leaks
+
+Chapter 10: Collaboration
+Item 82: Know Where to Find Community-Built Modules
+Item 83: Use Virtual Environments for Isolated and Reproducible Dependencies
+Item 84: Write Docstrings for Every Function, Class, and Module
+Item 85: Use Packages to Organize Modules and Provide Stable APIs
+Item 86: Consider Module-Scoped Code to Configure Deployment Environments
+Item 87: Define a Root Exception to Insulate Callers from APIs
+Item 88: Know How to Break Circular Dependencies
+Item 89: Consider warnings to Refactor and Migrate Usage
+Item 90: Consider Static Analysis via typing to Obviate Bugs
 
 ## Martin Fowler
 
 <!--
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
-
-https://martinfowler.com/articles/collection-pipeline/
 -->
 
-
-## Enterprise Application Architecture
-
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-<!--
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
--->
-
-## Enterprise Application Architecture Examples
-
-<!--
-Domain Logic Patterns: 
-* Transaction Script (110)
-* Domain Model (116) https://martinfowler.com/eaaCatalog/domainModel.html
-* Table Module (125)
-* Service Layer (133)
-
-Data Source Architectural Patterns: 
-* Table Data Gateway (144)
-* Row Data Gateway (152)
-* Active Record (160) https://www.martinfowler.com/eaaCatalog/activeRecord.html 
-* Data Mapper (165)
-
-Django
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
-
-Object-Relational Behavioral Patterns
-* Unit of Work (184)
-* Identity Map (195)
-* Lazy Load (200)
-
-Object-Relational Structural Patterns: 
-* Identity Field (216)
-* Foreign Key Mapping (236)
-* Association Table Mapping (248)
-* Dependent Mapping (262)
-* Embedded Value (268)
-* Serialized LOB (272)
-* Single Table Inheritance (278)
-* Class Table Inheritance (285)
-* Concrete Table Inheritance (293)
-* Inheritance Mappers (302)
-
-Object-Relational Metadata Mapping Patterns: 
-* Metadata Mapping (306)
-* Query Object (316)
-* Repository (322)
-
-Web Presentation Patterns: 
-* Model View Controller (330)
-* Template View (350)
-* Page Controller (333)
-* Front Controller (344)
-* Transform View (361)
-* Two-Step View (365)
-* Application Controller (379)
-
-Distribution Patterns: 
-* Remote Facade (388)
-* Data Transfer Object (401)
-
-Offline Concurrency Patterns: 
-* Optimistic Offline Lock (416)
-* Pessimistic Offline Lock (426)
-* Coarse Grained Lock (438)
-* Implicit Lock (449)
-
-Session State Patterns: 
-* Client Session State (456)
-* Server Session State (458)
-* Database Session State (462).
-
-Base Patterns: 
-* Gateway (466)
-* Mapper (473)
-* Layer Supertype (475)
-* Separated Interface (476)
-* Registry (480)
-* Value Object (486)
-* Money (488)
-* Special Case (496)
-* Plugin (499)
-* Service Stub (504)
-* Record Set (508)
--->
-
-## Software Architectures
-
-MVCs
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
-
-## Tidy First?
-
-I. Tidyings
-1. Guard Clauses: https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
-2. Dead Code: https://refactoring.com/catalog/removeDeadCode.html
-3. Normalize Symmetries
-4. New Interface, Old Implementation
-5. Reading Order
-6. Cohesion Order
-7. Move Declaration and Initialization Together
-8. Explaining Variables
-9. Explaining Constants
-10. Explicit Parameters
-11. Chunk Statements
-12. Extract Helper
-13. One Pile
-14. Explaining Comments
-15. Delete Redundant Comments
-
-II. Managing
-17. Separate Tidying
-18. Chaining
-Conclusion
-
-19. Batch Sizes
-20. Rhythm
-21. Getting Untangled
-22. First, After, Later, Never
-Summary
-
-III. Theory
-23. Beneficially Relating Elements
-24. Structure and Behavior
-25. Economics: Time Value and Optionality
-26. A Dollar Today > A Dollar Tomorrow
-27. Options
-28. Options Versus Cash Flows
-29. Reversible Structure Changes
-30. Coupling
-31. Constantine’s Equivalence
-32. Coupling Versus Decoupling
-33. Cohesion
-34. Conclusion
-    
-Appendix. Annotated Reading List and References
-Index
-About the Author
-
-## Refactoring
+### Refactoring
 
 Martin Fowler, Refactoring, Patterns, ThoughtWorks
 * [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
@@ -387,7 +240,7 @@ Martin Fowler, Refactoring, Patterns, ThoughtWorks
 https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler)
 -->
 
-## Refactoring Book Examples
+### Refactoring Book Examples
 
 <!--
 Tags
@@ -555,175 +408,102 @@ Split Variable
 Substitute Algorithm
 -->
 
-## Effective Python
+### Enterprise Application Architecture
 
-Chapter 1: Pythonic Thinking
-Item 1: Know Which Version of Python You’re Using
-Item 2: Follow the PEP 8 Style Guide
-Item 3: Know the Differences Between bytes and str
-Item 4: Prefer Interpolated F-Strings Over C-style Format Strings and str.format
-Item 5: Write Helper Functions Instead of Complex Expressions
-Item 6: Prefer Multiple Assignment Unpacking Over Indexing
-Item 7: Prefer enumerate Over range
-Item 8: Use zip to Process Iterators in Parallel
-Item 9: Avoid else Blocks After for and while Loops
-Item 10: Prevent Repetition with Assignment Expressions
-
-Chapter 2: Lists and Dictionaries
-Item 11: Know How to Slice Sequences
-Item 12: Avoid Striding and Slicing in a Single Expression
-Item 13: Prefer Catch-All Unpacking Over Slicing
-Item 14: Sort by Complex Criteria Using the key Parameter
-Item 15: Be Cautious When Relying on dict Insertion Ordering
-Item 16: Prefer get Over in and KeyError to Handle Missing Dictionary Keys
-Item 17: Prefer defaultdict Over setdefault to Handle Missing Items in Internal State
-Item 18: Know How to Construct Key-Dependent Default Values with __missing__
-
-Chapters 3: Functions
-Item 19: Never Unpack More Than Three Variables When Functions Return Multiple Values
-Item 20: Prefer Raising Exceptions to Returning None
-Item 21: Know How Closures Interact with Variable Scope
-Item 22: Reduce Visual Noise with Variable Positional Arguments
-Item 23: Provide Optional Behavior with Keyword Arguments
-Item 24: Use None and Docstrings to Specify Dynamic Default Arguments
-Item 25: Enforce Clarity with Keyword-Only and Positional-Only Arguments
-Item 26: Define Function Decorators with functools.wraps
-
-Chapter 4: Comprehensions and Generators
-Item 27: Use Comprehensions Instead of map and filter
-Item 28: Avoid More Than Two Control Subexpressions in Comprehensions
-Item 29: Avoid Repeated Work in Comprehensions by Using Assignment Expressions
-Item 30: Consider Generators Instead of Returning Lists
-Item 31: Be Defensive When Iterating Over Arguments
-Item 32: Consider Generator Expressions for Large List Comprehensions
-Item 33: Compose Multiple Generators with yield from
-Item 34: Avoid Injecting Data into Generators with send
-Item 35: Avoid Causing State Transitions in Generators with throw
-Item 36: Consider itertools for Working with Iterators and Generators
-
-Chapter 5: Classes and Interfaces
-Item 37: Compose Classes Instead of Nesting Many Levels of Built-in Types
-Item 38: Accept Functions Instead of Classes for Simple Interfaces
-Item 39: Use @classmethod Polymorphism to Construct Objects Generically
-Item 40: Initialize Parent Classes with super
-Item 41: Consider Composing Functionality with Mix-in Classes
-Item 42: Prefer Public Attributes Over Private Ones
-Item 43: Inherit from collections.abc for Custom Container Types
-
-Chapter 6: Metaclasses and Attributes
-Item 44: Use Plain Attributes Instead of Setter and Getter Methods
-Item 45: Consider @property Instead of Refactoring Attributes
-Item 46: Use Descriptors for Reusable @property Methods
-Item 47: Use __getattr__, __getattribute__, and __setattr__ for Lazy Attributes
-Item 48: Validate Subclasses with __init_subclass__
-Item 49: Register Class Existence with __init_subclass__
-Item 50: Annotate Class Attributes with __set_name__
-Item 51: Prefer Class Decorators Over Metaclasses for Composable Class Extensions
-
-Chapter 7: Concurrency and Parallelism
-Item 52: Use subprocess to Manage Child Processes
-Item 53: Use Threads for Blocking I/O, Avoid for Parallelism
-Item 54: Use Lock to Prevent Data Races in Threads
-Item 55: Use Queue to Coordinate Work Between Threads
-Item 56: Know How to Recognize When Concurrency Is Necessary
-Item 57: Avoid Creating New Thread Instances for On-demand Fan-out
-Item 58: Understand How Using Queue for Concurrency Requires Refactoring
-Item 59: Consider ThreadPoolExecutor When Threads Are Necessary for Concurrency
-Item 60: Achieve Highly Concurrent I/O with Coroutines
-Item 61: Know How to Port Threaded I/O to asyncio
-Item 62: Mix Threads and Coroutines to Ease the Transition to asyncio
-Item 63: Avoid Blocking the asyncio Event Loop to Maximize Responsiveness
-Item 64: Consider concurrent.futures for True Parallelism
-
-Chapter 8: Robustness and Performance
-Item 65: Take Advantage of Each Block in try/except /else/finally
-Item 66: Consider contextlib and with Statements for Reusable try/finally Behavior
-Item 67: Use datetime Instead of time for Local Clocks
-Item 68: Make pickle Reliable with copyreg
-Item 69: Use decimal When Precision Is Paramount
-Item 70: Profile Before Optimizing
-Item 71: Prefer deque for Producer–Consumer Queues
-Item 72: Consider Searching Sorted Sequences with bisect
-Item 73: Know How to Use heapq for Priority Queues
-Item 74: Consider memoryview and bytearray for Zero-Copy Interactions with bytes
-
-Chapter 9: Testing and Debugging
-Item 75: Use repr Strings for Debugging Output
-Item 76: Verify Related Behaviors in TestCase Subclasses
-Item 77: Isolate Tests from Each Other with setUp, tearDown, setUpModule, and tearDownModule
-Item 78: Use Mocks to Test Code with Complex Dependencies
-Item 79: Encapsulate Dependencies to Facilitate Mocking and Testing
-Item 80: Consider Interactive Debugging with pdb
-Item 81: Use tracemalloc to Understand Memory Usage and Leaks
-
-Chapter 10: Collaboration
-Item 82: Know Where to Find Community-Built Modules
-Item 83: Use Virtual Environments for Isolated and Reproducible Dependencies
-Item 84: Write Docstrings for Every Function, Class, and Module
-Item 85: Use Packages to Organize Modules and Provide Stable APIs
-Item 86: Consider Module-Scoped Code to Configure Deployment Environments
-Item 87: Define a Root Exception to Insulate Callers from APIs
-Item 88: Know How to Break Circular Dependencies
-Item 89: Consider warnings to Refactor and Migrate Usage
-Item 90: Consider Static Analysis via typing to Obviate Bugs
-
+* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
 
 <!--
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
+
+https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 -->
 
-## Software Design Pattern Catalogs
-
-Catalogs
-* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
+### Enterprise Application Architecture Examples
 
 <!--
-Interesting opinions
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
+Domain Logic Patterns: 
+* Transaction Script (110)
+* Domain Model (116) https://martinfowler.com/eaaCatalog/domainModel.html
+* Table Module (125)
+* Service Layer (133)
 
-General
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+Data Source Architectural Patterns: 
+* Table Data Gateway (144)
+* Row Data Gateway (152)
+* Active Record (160) https://www.martinfowler.com/eaaCatalog/activeRecord.html 
+* Data Mapper (165)
 
-https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
+Django
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
 
-https://refactoring.guru/design-patterns/ | Design Patterns
+Object-Relational Behavioral Patterns
+* Unit of Work (184)
+* Identity Map (195)
+* Lazy Load (200)
 
-https://sourcemaking.com
-https://sourcemaking.com/antipatterns/ | AntiPatterns
-https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
+Object-Relational Structural Patterns: 
+* Identity Field (216)
+* Foreign Key Mapping (236)
+* Association Table Mapping (248)
+* Dependent Mapping (262)
+* Embedded Value (268)
+* Serialized LOB (272)
+* Single Table Inheritance (278)
+* Class Table Inheritance (285)
+* Concrete Table Inheritance (293)
+* Inheritance Mappers (302)
+
+Object-Relational Metadata Mapping Patterns: 
+* Metadata Mapping (306)
+* Query Object (316)
+* Repository (322)
+
+Web Presentation Patterns: 
+* Model View Controller (330)
+* Template View (350)
+* Page Controller (333)
+* Front Controller (344)
+* Transform View (361)
+* Two-Step View (365)
+* Application Controller (379)
+
+Distribution Patterns: 
+* Remote Facade (388)
+* Data Transfer Object (401)
+
+Offline Concurrency Patterns: 
+* Optimistic Offline Lock (416)
+* Pessimistic Offline Lock (426)
+* Coarse Grained Lock (438)
+* Implicit Lock (449)
+
+Session State Patterns: 
+* Client Session State (456)
+* Server Session State (458)
+* Database Session State (462).
+
+Base Patterns: 
+* Gateway (466)
+* Mapper (473)
+* Layer Supertype (475)
+* Separated Interface (476)
+* Registry (480)
+* Value Object (486)
+* Money (488)
+* Special Case (496)
+* Plugin (499)
+* Service Stub (504)
+* Record Set (508)
 -->
 
+## Software Architectures
 
-## Software Design Patterns
+MVCs
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
-Design Patterns for Humans
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-<!--
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
--->
-
-
-## Patterns and Design Patterns- General
-
-Design Patterns- General
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-
-## General Software Design Patterns
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-## Software Design Patterns- General
-
-Design Patterns- General
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-
-  
 ## General Software Design Patterns- Types
 
 Types of Patterns
@@ -896,41 +676,110 @@ http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
 https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
 -->
 
+## Tidy First?
 
-## Clean Architecture
+I. Tidyings
+1. Guard Clauses: https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
+2. Dead Code: https://refactoring.com/catalog/removeDeadCode.html
+3. Normalize Symmetries
+4. New Interface, Old Implementation
+5. Reading Order
+6. Cohesion Order
+7. Move Declaration and Initialization Together
+8. Explaining Variables
+9. Explaining Constants
+10. Explicit Parameters
+11. Chunk Statements
+12. Extract Helper
+13. One Pile
+14. Explaining Comments
+15. Delete Redundant Comments
+
+II. Managing
+17. Separate Tidying
+18. Chaining
+Conclusion
+
+19. Batch Sizes
+20. Rhythm
+21. Getting Untangled
+22. First, After, Later, Never
+Summary
+
+III. Theory
+23. Beneficially Relating Elements
+24. Structure and Behavior
+25. Economics: Time Value and Optionality
+26. A Dollar Today > A Dollar Tomorrow
+27. Options
+28. Options Versus Cash Flows
+29. Reversible Structure Changes
+30. Coupling
+31. Constantine’s Equivalence
+32. Coupling Versus Decoupling
+33. Cohesion
+34. Conclusion
+    
+Appendix. Annotated Reading List and References
+Index
+About the Author
+
+
 
 <!--
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
-https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
-
-https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
-https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
 -->
 
-## Clean Architecture in Python and Django
+## Software Design Pattern Catalogs
+
+Catalogs
+* [Computer Science Design Patterns Wikibook](https://en.wikibooks.org/wiki/Computer_Science_Design_Patterns)
 
 <!--
-Clean Code
-https://github.com/zedr/clean-code-python
+Interesting opinions
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns
 
-https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+General
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
 
-Brandon Rhodes
-http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
-http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
-https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
-https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
 
-https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+https://refactoring.guru/design-patterns/ | Design Patterns
 
-https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
-https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
-https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+https://sourcemaking.com
+https://sourcemaking.com/antipatterns/ | AntiPatterns
+https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
 -->
+
+
+## Software Design Patterns
+
+Design Patterns for Humans
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+<!--
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+-->
+
+
+## Patterns and Design Patterns- General
+
+Design Patterns- General
+* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+
+## General Software Design Patterns
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
+## Software Design Patterns- General
+
+Design Patterns- General
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 
 ## Python Design Patterns
@@ -962,31 +811,6 @@ https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django
 
 https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
-
-<!--
-## JavaScript Design Patterns
-
-JavaScript Patterns
-* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
-* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
-* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
-
-https://github.com/addyosmani/essential-js-design-patterns | addyosmani/essential-js-design-patterns: Repo for my 'Learning JavaScript Design Patterns' book
-https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
-
-https://addyosmani.com/largescalejavascript/ | Patterns For Large-Scale JavaScript Application Architecture
-https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
-
-  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
-  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
-  
-https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
-
-https://github.com/ryanmcdermott/clean-code-javascript
-
-https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
--->
-
 
 <!--
 ## General Software Design Patterns
@@ -1040,6 +864,149 @@ https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | moll
 -->
 
 
+## Programming Paradigms- Object Oriented Software
+
+Object-Oriented Programming Languages
+* [Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+* [Object Oriented Programming Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_programming)
+* [List of Object-Oriented Programming Languages Wikipedia](https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages)
+* [Class Based Programming Wikipedia](https://en.wikipedia.org/wiki/Class-based_programming)
+* [Prototype Based Programming Wikipedia](https://en.wikipedia.org/wiki/Prototype-based_programming)
+
+Object Oriented Software Construction
+* [Object-Oriented Software Construction Wikipedia](https://en.wikipedia.org/wiki/Object-Oriented_Software_Construction)
+* [Object-Oriented Analysis and Design Wikipedia](https://en.wikipedia.org/wiki/Object-oriented_analysis_and_design)
+
+Object
+* [Object Composition Wikipedia](https://en.wikipedia.org/wiki/Object_composition)
+
+Constructor
+* [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
+
+Object Oriented Software Characteristics
+* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
+* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
+* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
+* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
+
+## Programming Paradigms- Functional, Imperative, Declarative, Reactive
+
+Functional Programming
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+
+Imperative and Declarative
+* [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
+* [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
+
+React?
+* [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
+
+## Programming Paradigms- Functional Programming
+
+* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
+<!--
+Functional programming
+pure function
+
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+
+https://en.wikipedia.org/wiki/State_pattern
+https://en.wikipedia.org/wiki/Finite-state_machine
+
+https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+-->
+
+## Inheritance versus Composition
+
+Composition
+* [Functional Composition Wikipedia](https://en.wikipedia.org/wiki/Function_composition_(computer_science))
+
+## Useful Terminology
+
+Example of stateless protocols
+* [Stateless Protocol Wikipedia](https://en.wikipedia.org/wiki/Stateless_protocol)
+* [HTTP](https://en.wikipedia.org/wiki/HTTP)
+
+State
+* [State Wikipedia](https://en.wikipedia.org/wiki/State_(computer_science))
+* [Persistence Wikipedia](https://en.wikipedia.org/wiki/Persistence_(computer_science))
+* [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
+
+
+## Code Complete and Clean Code
+
+Checklists and Cheat Sheets
+* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
+* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
+
+## GRASP and Clean Architecture (Follows SOLID Principles)
+
+Object Oriented Software Construction Principles
+* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
+* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
+
+<!--
+https://ourmachinery.com/files/guidebook.md.html
+https://en.wikipedia.org/wiki/Data-oriented_design
+-->
+
+Software Principles (SOLID)
+* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
+* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
+* [Open-Closed Principle Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
+* [Interface Segregation Principle Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
+* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
+
+<!--
+Pattern
+https://en.wikipedia.org/wiki/Dependency_injection
+https://en.wikipedia.org/wiki/Inversion_of_control
+
+https://en.wikipedia.org/wiki/Interface_(computing)
+
+Clean Architectures in Python - Leonardo Giordani - PyLondinium19
+https://www.youtube.com/watch?v=wtCQalq7L-E
+-->
+
+## Clean Architecture
+
+<!--
+Robert C. Martin
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
+
+http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
+
+https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
+
+https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
+https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c014448d2 | A quick introduction to clean architecture – freeCodeCamp.org
+-->
+
+## Clean Architecture in Python and Django
+
+<!--
+Clean Code
+https://github.com/zedr/clean-code-python
+
+https://engineering.21buttons.com/clean-architecture-in-django-d326a4ab86a9 | Clean Architecture in Django – 21 Buttons Engineering
+
+Brandon Rhodes
+http://rhodesmill.org/brandon/slides/2014-07-pyohio/clean-architecture/ | slides.rst
+http://pyvideo.org/pyohio-2014/the-clean-architecture-in-python.html | PyVideo.org · The Clean Architecture in Python
+https://www.youtube.com/watch?v=DJtef410XaM | The Clean Architecture in Python - YouTube
+https://www.reddit.com/r/Python/comments/41llbh/the_clean_architecture_with_python/ | The Clean Architecture with Python : Python
+
+https://github.com/pgrzesik/python-clean-architecture | pgrzesik/python-clean-architecture
+
+https://github.com/Enforcer | Enforcer (Sebastian Buczyński)
+https://github.com/Enforcer/clean-architecture-example-1 | Enforcer/clean-architecture-example-1: Exemplary project using Clean Architecture in Python
+https://speakerdeck.com/enforcer/clean-architecture-in-python | Clean Architecture in Python - Speaker Deck
+-->
+
 ## Software Laws
 
 <!--
@@ -1059,3 +1026,27 @@ http://users.ece.utexas.edu/~adnan/pike.html
 * [Technical Debt](https://www.techopedia.com/definition/27913/technical-debt)
 * [Code Reuse Wikipedia](https://en.wikipedia.org/wiki/Code_reuse)
 * [Code Refactoring Wikipedia](https://en.wikipedia.org/wiki/Code_refactoring)
+
+<!--
+## JavaScript Design Patterns
+
+JavaScript Patterns
+* [Stoyan Stefanov: TLDR JavaScript Design Patterns](https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani)
+* [Addy Osmani: JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book) and [Addy Osmani: JavaScript Design Patterns GitHub](https://github.com/addyosmani/essential-js-design-patterns)
+* [Addy Osmani: Patterns For Large-Scale JavaScript Application Architecture](https://addyosmani.com/largescalejavascript/)
+
+https://github.com/addyosmani/essential-js-design-patterns | addyosmani/essential-js-design-patterns: Repo for my 'Learning JavaScript Design Patterns' book
+https://addyosmani.com/resources/essentialjsdesignpatterns/book/#whatisapattern | Learning JavaScript Design Patterns
+
+https://addyosmani.com/largescalejavascript/ | Patterns For Large-Scale JavaScript Application Architecture
+https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani
+
+  * [Understanding MVC And MVP (For JavaScript And Backbone Developers)](https://addyosmani.com/blog/understanding-mvc-and-mvp-for-javascript-and-backbone-developers/)
+  * [Understanding MVVM - A Guide For JavaScript Developers](https://addyosmani.com/blog/understanding-mvvm-a-guide-for-javascript-developers/)
+  
+https://github.com/Badacadabra/JavaScript-Design-Patterns | Badacadabra/JavaScript-Design-Patterns: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
+
+https://github.com/ryanmcdermott/clean-code-javascript
+
+https://github.com/AllThingsSmitty/must-watch-javascript | AllThingsSmitty/must-watch-javascript: A useful list of must-watch talks about JavaScript
+-->
