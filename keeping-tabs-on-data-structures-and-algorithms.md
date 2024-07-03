@@ -1,24 +1,5 @@
 # Data Structures and Algorithms
 
-## Problem Solving
-
-<!--
-https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
-
-7 Leetcode articles I wish I’d read sooner.
-This would have saved me from solving 1500+ problems:
-
-Dynamic Programming Patterns: https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
-Substring Problem Patterns: https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
-Backtracking Problem Patterns: https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
-Two Pointers Patterns: https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
-Binary Search Patterns: https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
-Sliding Window Patterns: https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
-Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
-
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
--->
-
 ## Python Data Structures and Algorithms
 
 <!--
