@@ -228,6 +228,96 @@ Item 90: Consider Static Analysis via typing to Obviate Bugs
 
 <!--
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+
+Clock-Bound Wait
+Wait to cover the uncertainty in time across cluster nodes before reading and writing values so that values can be correctly ordered across cluster nodes.
+
+Consistent Core
+Maintain a smaller cluster providing stronger consistency to allow the large data cluster to coordinate server activities without implementing quorum-based algorithms.
+
+Emergent Leader
+Order cluster nodes based on their age within the cluster to allow nodes to select a leader without running an explicit election.
+
+Fixed Partitions
+Keep the number of partitions fixed to keep the mapping of data to partition unchanged when the size of a cluster changes.
+
+Follower Reads
+Serve read requests from followers to achieve better throughput and lower latency
+
+Generation Clock
+A monotonically increasing number indicating the generation of the server.
+
+Gossip Dissemination
+Use a random selection of nodes to pass on information to ensure it reaches all the nodes in the cluster without flooding the network
+
+HeartBeat
+Show a server is available by periodically sending a message to all the other servers.
+
+High-Water Mark
+An index in the write-ahead log showing the last successful replication.
+
+Hybrid Clock
+Use a combination of system timestamp and logical timestamp to have versions as date and time, which can be ordered
+
+Idempotent Receiver
+Identify requests from clients uniquely so you can ignore duplicate requests when client retries
+
+Key-Range Partitions
+Partition data in sorted key ranges to efficiently handle range queries.
+
+Lamport Clock
+Use logical timestamps as a version for a value to allow ordering of values across servers
+
+Leader and Followers
+Have a single server to coordinate replication across a set of servers.
+
+Lease
+Use time-bound leases for cluster nodes to coordinate their activities.
+
+Low-Water Mark
+An index in the write-ahead log showing which portion of the log can be discarded.
+
+Majority Quorum
+Avoid two groups of servers making independent decisions by requiring majority for taking every decision.
+
+Paxos
+Use two consensus building phases to reach safe consensus even when nodes disconnect
+
+Replicated Log
+Keep the state of multiple nodes synchronized by using a write-ahead log that is replicated to all the cluster nodes.
+
+Request Batch
+Combine multiple requests to optimally utilise the network
+
+Request Pipeline
+Improve latency by sending multiple requests on the connection without waiting for the response of the previous requests.
+
+Request Waiting List
+Track client requests which require responses after the criteria to respond is met based on responses from other cluster nodes.
+
+Segmented Log
+Split log into multiple smaller files instead of a single large file for easier operations.
+
+Single-Socket Channel
+Maintain the order of the requests sent to a server by using a single TCP connection
+
+Singular Update Queue
+Use a single thread to process requests asynchronously to maintain order without blocking the caller.
+
+State Watch 
+Notify clients when specific values change on the server
+
+Two-Phase Commit
+Update resources on multiple nodes in one atomic operation
+
+Version Vector 
+Maintain a list of counters, one per cluster node, to detect concurrent updates
+
+Versioned Value
+Store every update to a value with a new version, to allow reading historical values.
+
+Write-Ahead Log
+Provide durability guarantee without the storage data structures to be flushed to disk, by persisting every state change as a command to the append only log.
 -->
 
 ### Refactoring
@@ -727,9 +817,54 @@ About the Author
 
 
 <!--
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
+## Architecture Types
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+-->
+
+<!--
+## Architecture Types
+
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+
+https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
+-->
+
+## Architectures
+
+Hawt
+* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
+* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
+
+Architectures
+* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
+* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
+* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
+* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
+* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
+* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
+
+
+Interesting
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://en.wikipedia.org/wiki/Software_architecture
+https://en.wikipedia.org/wiki/Architectural_pattern
+
+https://en.wikipedia.org/wiki/Messaging_pattern
+
+https://en.wikipedia.org/wiki/Post/Redirect/Get
+https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
+-->
+
+<!--
+https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
+https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
+https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
 -->
 
 ## Software Design Pattern Catalogs
@@ -751,8 +886,11 @@ https://refactoring.guru/design-patterns/ | Design Patterns
 https://sourcemaking.com
 https://sourcemaking.com/antipatterns/ | AntiPatterns
 https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
--->
 
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+-->
 
 ## Software Design Patterns
 
@@ -762,24 +900,6 @@ Design Patterns for Humans
 <!--
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 -->
-
-
-## Patterns and Design Patterns- General
-
-Design Patterns- General
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-
-## General Software Design Patterns
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-## Software Design Patterns- General
-
-Design Patterns- General
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 
 ## Python Design Patterns
@@ -812,56 +932,22 @@ https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django
 https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
 
-<!--
+## Patterns and Design Patterns- General
+
+Design Patterns- General
+* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+
 ## General Software Design Patterns
 
-## Architecture Types
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
 
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+## Software Design Patterns- General
 
-<!--
-## Architecture Types
-
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
--->
-
-## Architectures
-
-Hawt
-* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
-
-Architectures
-* [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
-
-
-Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
-https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
-https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
-https://en.wikipedia.org/wiki/Software_architecture
-https://en.wikipedia.org/wiki/Architectural_pattern
-https://en.wikipedia.org/wiki/Messaging_pattern
-
-https://en.wikipedia.org/wiki/Post/Redirect/Get
-https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval–print loop - Wikipedia
--->
-
-<!--
-https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
-https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
-https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
--->
+Design Patterns- General
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 
 ## Programming Paradigms- Object Oriented Software
