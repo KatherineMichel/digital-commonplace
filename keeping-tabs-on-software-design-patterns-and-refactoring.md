@@ -1,6 +1,10 @@
 # Software Design Patterns and Refactoring
 
 <!--
+Algos by category
+https://www.linkedin.com/pulse/list-algorithms-computer-programming-pranam-bhat/
+
+
 ## Scaling Django
 
 https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
