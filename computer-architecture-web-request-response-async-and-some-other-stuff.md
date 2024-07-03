@@ -680,14 +680,6 @@ https://www.datadoghq.com/blog/hadoop-architecture-overview/ | Hadoop architectu
 Apache
 http://thrift.apache.org/ | Apache Thrift - Home
 
-Kafka
-https://kafka.apache.org/ | Apache Kafka
-https://kafka.apache.org/documentation/#gettingStarted | Apache Kafka
-
-https://github.com/snowflakedb | Snowflake Computing
-https://prestodb.io/
-
-https://neo4j.com/
 https://www.timescale.com/
 -->
 
