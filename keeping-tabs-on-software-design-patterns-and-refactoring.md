@@ -1,6 +1,55 @@
 # Software Design Patterns and Refactoring
 
 <!--
+## Scaling Django
+
+https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
+
+
+## Architecture and Tools
+
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
+
+https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
+
+
+## Software Architecture/Design Patterns
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
+https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
+
+
+## Clean Code, Architecture
+
+https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
+
+https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
+
+https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
+
+Thinking in Systems
+https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
+
+
+## Microservices
+
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+
+
+## Software Architecture Principles
+
+https://plantuml.com/
+
+https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
+https://c4model.com/ | The C4 model for visualising software architecture
+domain driven model - Google Search
+
+
 ## Books
 
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
@@ -552,6 +601,13 @@ Object-Relational Metadata Mapping Patterns:
 Web Presentation Patterns: 
 * Model View Controller (330)
 * Template View (350)
+
+MVCs
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+
+Web Presentation Patterns: 
 * Page Controller (333)
 * Front Controller (344)
 * Transform View (361)
@@ -587,12 +643,23 @@ Base Patterns:
 * Record Set (508)
 -->
 
-## Software Architectures
+## Software Design Patterns
 
-MVCs
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+Design Patterns for Humans
+* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
+
+<!--
+https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
+-->
+
+## General Software Design Patterns
+
+Design Patterns- Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+
+Software Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 ## General Software Design Patterns- Types
 
@@ -815,7 +882,6 @@ Index
 About the Author
 
 
-
 <!--
 ## Architecture Types
 
@@ -892,15 +958,6 @@ http://www.hillside.net/patterns/patterns-catalog
 http://django.wikispaces.asu.edu/Observer+Design+Pattern
 -->
 
-## Software Design Patterns
-
-Design Patterns for Humans
-* [Design Patterns for Humans GitHub](https://github.com/kamranahmedse/design-patterns-for-humans)
-
-<!--
-https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
--->
-
 
 ## Python Design Patterns
 
@@ -937,17 +994,6 @@ https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Desi
 Design Patterns- General
 * [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
 * [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-
-## General Software Design Patterns
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-
-## Software Design Patterns- General
-
-Design Patterns- General
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
 
 ## Programming Paradigms- Object Oriented Software
