@@ -1077,7 +1077,6 @@ https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/03
 
 https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://refactoring.guru/design-patterns/ | Design Patterns
@@ -1095,9 +1094,12 @@ https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Ag
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
 
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/microservices/ | Microservices Guide
+
+
 https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
 https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
 https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
@@ -1106,7 +1108,8 @@ https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capabil
 https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
 https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
 https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
-https://martinfowler.com/microservices/ | Microservices Guide
+
+https://martinfowler.com/articles/collection-pipeline/
 
 ## Kent Beck
 
