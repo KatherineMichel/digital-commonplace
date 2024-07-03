@@ -20,13 +20,6 @@ https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exer
 
 https://inventwithpython.com/blog/ | The Invent with Python Blog
 
-https://martinfowler.com/
-
-https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
-
-http://highscalability.com/
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
 https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 
@@ -37,33 +30,6 @@ https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb
 https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
 
 https://alldjango.com/articles/developer-marketing
-
-
-## Cutlefish
-
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
-
-## Engineering Templates
-
-https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
-https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
-https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
-https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
-https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
-https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
-https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
-
-## Engineering Blogs
-
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
-https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
-
-https://read.developing.dev/ | The Developing Dev by Ryan Peterman
-https://twitter.com/ryanlpeterman
-
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
 
 
 ## High Performance Orgs
@@ -95,41 +61,6 @@ https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
 https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
 https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
 https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
-
-
-## Clean Code, Architecture
-
-https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
-
-https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
-
-https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
-
-https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
-
-Thinking in Systems
-https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
-
-## Patterns
-
-https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-
-
-## Microservices
-
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
-
-
-## Software Architecture Principles
-
-https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
-https://c4model.com/ | The C4 model for visualising software architecture
-domain driven model - Google Search
-
 
 
 ## The New Stack
@@ -167,33 +98,6 @@ https://github.com/practical-tutorials/project-based-learning | practical-tutori
 https://github.com/codecrafters-io/build-your-own-x | codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.
 
 
-## Problem Solving Platforms
-
-https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
-https://www.hackerrank.com/
-
-## Advent of Code
-
-https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
-
-## Problem Solving
-
-https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
-https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-## Data Structures and Algos
-
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-https://github.com/armankhondker/best-leetcode-resources
-
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
-
-https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
-
-https://github.com/cloudanum/50Algorithms | cloudanum/50Algorithms
-https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know | PacktPublishing/40-Algorithms-Every-Programmer-Should-Know: 40 Algorithms Every Programmer Should Know, published by Packt
-https://news.ycombinator.com/item?id=38838944 | 50 Algorithms Every Programmer Should Know (Second Edition) | Hacker News
-
 
 ## JetBrains
 
@@ -213,43 +117,7 @@ https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-709
 https://veldakiara.substack.com
 
 
-
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
-
-## LinkedIn Learning Aids
-
-https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
-https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
-
-
-## System Design
-
-https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
-https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
-
-Cheat Sheets
-https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
-
-https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
-
-https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
-
-
 ## Learning Materials
-
-https://www.securecodewarrior.com/resources | The Resources Hub | Secure Code Warrior
 
 https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/download/ | Resources | Performance Engineering of Software Systems | Electrical Engineering and Computer Science | MIT OpenCourseWare
 
@@ -277,7 +145,6 @@ https://jukkasuomela.fi/da2020/
 https://mycourses.aalto.fi/course/view.php?id=41048
 https://jukkasuomela.fi/da2020/da2020.pdf
 https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-
 
 
 https://opensource.com/
@@ -315,6 +182,8 @@ http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html
 
 ## Security Algorithms
 
+https://www.securecodewarrior.com/resources | The Resources Hub | Secure Code Warrior
+
 Cryptographic hashing algorithms
 SHA-3
 https://en.wikipedia.org/wiki/SHA-3
@@ -324,20 +193,6 @@ Argon 2
 https://en.wikipedia.org/wiki/Argon2
 bcrypt
 https://en.wikipedia.org/wiki/Bcrypt
-
-
-## Scaling Django
-
-https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
-https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
-
-
-## Software Architecture/Design Patterns
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
-https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
 
 
 ## PySheets
@@ -372,6 +227,7 @@ https://testdriven.io/blog/python-environments/ | Modern Python Environments - d
 https://access.redhat.com/support/policy/updates/errata
 
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
+
 
 ## Local Tools
 
@@ -858,36 +714,6 @@ https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Hal
 -->
 
 <!--
-## John Cutler
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
-
-
-## Ryan Peterman
-
-https://twitter.com/ryanlpeterman/
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
-https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
-
-
-## Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
-
-
-## Engineering
-
-Cal Paterson
-https://calpaterson.com
-
 ## Books
 
 Hooked, Indistractible
@@ -1001,9 +827,145 @@ https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-k
 -->
 
 
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+## Trending
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
 <!--
+In operation
+https://fosstodon.org/@HackerNewsBot@m.einverne.info
+-->
+
+## GitHub News
+
+GitHub
+* [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+## GitHub Trending
+
+<!--
+https://github.com/trending/developers | Trending developers on GitHub today
+
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+<!--
+## Stats
+
+Hacker News Stats
+https://hackernews-insight.vercel.app/user-analysis | Evidence
+https://hackernews-insight.vercel.app/keyword-analysis | Evidence
+https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
+
+GitHub Star History Graph 
+https://twitter.com/newsycombinator/status/1530625174114078721
+-->
+
+
+<!--
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+
+## John Cutler
+
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
+
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+
+
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
+
+## Ryan Peterman
+
+https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
+
+https://read.developing.dev/ | The Developing Dev by Ryan Peterman
+https://twitter.com/ryanlpeterman/
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
+
+## Engineering Templates
+
+https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
+https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
+https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
+https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
+https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
+https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
+https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
+
+
+## Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
+https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
+
+## Engineering
+
+Cal Paterson
+https://calpaterson.com
+
+
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
+
+
+## LinkedIn Learning Aids
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
+
+
+## System Design
+
+https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
+https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+
+Cheat Sheets
+https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
+
+
 13 most common
 https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
+## Scaling Django
+
+https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
+https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
+
 
 ## Architecture and Tools
 
@@ -1014,6 +976,41 @@ https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructur
 https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
 
 
+
+## Software Architecture/Design Patterns
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
+https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
+https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
+https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
+
+
+## Clean Code, Architecture
+
+https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
+
+https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
+
+https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
+
+Thinking in Systems
+https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
+
+
+## Microservices
+
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+
+
+## Software Architecture Principles
+
+https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
+https://c4model.com/ | The C4 model for visualising software architecture
+domain driven model - Google Search
+-->
+
+
+<!--
 ## Architectures at Scale
 
 https://github.com/KatherineMichel/organizations
@@ -1028,12 +1025,6 @@ http://highscalability.com/blog/category/example
 
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 
-
-Authorities
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
-
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 
 ## Paradigms
@@ -1061,6 +1052,8 @@ Programming Language Comparisons
 <!--
 ## Python Patterns
 
+https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+
 https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
 
 ## Domain Driven Design and Event Sourcing
@@ -1077,6 +1070,9 @@ https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 
 ## Patterns
 
+Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
 https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
 
 https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
@@ -1087,9 +1083,19 @@ https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 https://refactoring.guru/design-patterns/ | Design Patterns
 https://refactoring.guru/design-patterns/python
 
+## Uncle Bob
+
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
+
+https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
+
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
+
 ## Martin Fowler
 
 https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
@@ -1102,6 +1108,10 @@ https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
 https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
 https://martinfowler.com/microservices/ | Microservices Guide
 
+## Kent Beck
+
+https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
+
 ## Architecture Notes
 
 https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
@@ -1110,6 +1120,7 @@ https://architecturenotes.co/redis/ | Redis Explained
 https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
 https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 -->
+
 
 <!--
 Books
@@ -1184,47 +1195,31 @@ https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Work
 https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
 -->
 
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-## Trending
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
 
 <!--
-In operation
-https://fosstodon.org/@HackerNewsBot@m.einverne.info
+## Advent of Code
+
+https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
+
+## Problem Solving
+
+https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
+https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+## Data Structures and Algos
+
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+https://github.com/armankhondker/best-leetcode-resources
+
+https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
+
+https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
+
+https://github.com/cloudanum/50Algorithms | cloudanum/50Algorithms
+https://github.com/PacktPublishing/40-Algorithms-Every-Programmer-Should-Know | PacktPublishing/40-Algorithms-Every-Programmer-Should-Know: 40 Algorithms Every Programmer Should Know, published by Packt
+https://news.ycombinator.com/item?id=38838944 | 50 Algorithms Every Programmer Should Know (Second Edition) | Hacker News
 -->
 
-## GitHub News
-
-GitHub
-* [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-## GitHub Trending
-
-<!--
-https://github.com/trending/developers | Trending developers on GitHub today
-
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-<!--
-## Stats
-
-Hacker News Stats
-https://hackernews-insight.vercel.app/user-analysis | Evidence
-https://hackernews-insight.vercel.app/keyword-analysis | Evidence
-https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
-
-GitHub Star History Graph 
-https://twitter.com/newsycombinator/status/1530625174114078721
--->
 
 ## Algorithms
 
@@ -1249,26 +1244,30 @@ Practice
 * [Geeks for Geeks](https://www.geeksforgeeks.org)
 * [HackerRank](https://www.hackerrank.com)
 
-## Algorithm
+## Algorithms
 
 https://neetcode.io/practice | Practice
 https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
 https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
 
+https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+-->
 
-https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5 | (4) Post | LinkedIn
+## Problem Solving Methods
+
+<!--
+https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
 
 7 Leetcode articles I wish I’d read sooner.
 This would have saved me from solving 1500+ problems:
-Dynamic Programming Patterns: https://lnkd.in/gbpRU46g
-Substring Problem Patterns: https://lnkd.in/gdGtE72g
-Backtracking Problem Patterns: https://lnkd.in/gVkQX5vA
-Two Pointers Patterns: https://lnkd.in/gBfWgHYe
-Binary Search Patterns: https://lnkd.in/gKEm_qUK
-Sliding Window Patterns: https://lnkd.in/gjatQ5pK
-Graph Patterns: https://lnkd.in/gKE6w7Jb
 
-https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data Structure And Algorithms - GeeksforGeeks
+Dynamic Programming Patterns: https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
+Substring Problem Patterns: https://leetcode.com/problems/minimum-window-substring/solutions/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems/
+Backtracking Problem Patterns: https://leetcode.com/problems/permutations/solutions/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)/
+Two Pointers Patterns: https://leetcode.com/discuss/study-guide/1688903/Solved-all-two-pointers-problems-in-100-days
+Binary Search Patterns: https://leetcode.com/discuss/study-guide/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems
+Sliding Window Patterns: https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/
+Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
 -->
 
 ## Java Resources
@@ -1280,6 +1279,11 @@ https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop 
 https://www.w3schools.com/java/java_data_types.asp | Java Data Types
 https://docs.oracle.com/en/java/
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
+-->
+
+<!--
+## Python People
+
 -->
 
 ## Python Articles and Tutorials
@@ -2128,7 +2132,7 @@ https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpret
 
 https://blog.pydantic.dev/blog
 https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
-
+https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
 
 Towncrier
 https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
@@ -2629,12 +2633,17 @@ https://www.coiled.io/ | Home
 
 ## Snowflake
 
+https://github.com/snowflakedb | Snowflake Computing
 https://quickstarts.snowflake.com/ | Snowflake Quickstarts
 
+## Presto
 
-## Pydantic
+https://prestodb.io/
 
-https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
+## Kafka
+
+https://kafka.apache.org/ | Apache Kafka
+https://kafka.apache.org/documentation/#gettingStarted | Apache Kafka
 -->
 
 ## Databases
@@ -2653,6 +2662,8 @@ https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | 
 https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
 
 https://cassandra.apache.org/_/index.html
+
+https://neo4j.com/
 
 https://www.tigergraph.com/
 
