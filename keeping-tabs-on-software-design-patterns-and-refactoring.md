@@ -215,7 +215,6 @@ Software Principles (SOLID)
 <!--
 Pattern
 https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/Inversion_of_control
 
 https://en.wikipedia.org/wiki/Interface_(computing)
@@ -669,6 +668,12 @@ Item 89: Consider warnings to Refactor and Migrate Usage
 Item 90: Consider Static Analysis via typing to Obviate Bugs
 
 
+<!--
+Patterns
+http://www.hillside.net/patterns/patterns-catalog
+http://django.wikispaces.asu.edu/Observer+Design+Pattern
+-->
+
 ## Software Design Pattern Catalogs
 
 Catalogs
@@ -788,7 +793,7 @@ Solution #4: Beyond the Gang of Four patterns
 * Dodge: Multiple Inheritance: https://fuhm.net/super-harmful/
 * Dodge: Mixins
 * Dodge: Building classes dynamically
-  
+
 Python-Specific Patterns
 
 The Global Object Pattern
@@ -1032,12 +1037,6 @@ https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop | Read–eval
 https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusable Components - 2004 - YouTube
 https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
 https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
--->
-
-<!--
-Patterns
-http://www.hillside.net/patterns/patterns-catalog
-http://django.wikispaces.asu.edu/Observer+Design+Pattern
 -->
 
 
