@@ -1,6 +1,12 @@
 # Software Design Patterns and Refactoring
 
 <!--
+## Functional Programming
+
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
+
+
 Algos by category
 https://www.linkedin.com/pulse/list-algorithms-computer-programming-pranam-bhat/
 
