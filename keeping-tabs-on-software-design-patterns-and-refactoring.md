@@ -291,18 +291,6 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of
 Clock-Bound Wait
 Wait to cover the uncertainty in time across cluster nodes before reading and writing values so that values can be correctly ordered across cluster nodes.
 
-Consistent Core
-Maintain a smaller cluster providing stronger consistency to allow the large data cluster to coordinate server activities without implementing quorum-based algorithms.
-
-Emergent Leader
-Order cluster nodes based on their age within the cluster to allow nodes to select a leader without running an explicit election.
-
-Fixed Partitions
-Keep the number of partitions fixed to keep the mapping of data to partition unchanged when the size of a cluster changes.
-
-Follower Reads
-Serve read requests from followers to achieve better throughput and lower latency
-
 Generation Clock
 A monotonically increasing number indicating the generation of the server.
 
@@ -312,29 +300,27 @@ Use a random selection of nodes to pass on information to ensure it reaches all 
 HeartBeat
 Show a server is available by periodically sending a message to all the other servers.
 
-High-Water Mark
-An index in the write-ahead log showing the last successful replication.
-
 Hybrid Clock
 Use a combination of system timestamp and logical timestamp to have versions as date and time, which can be ordered
-
-Idempotent Receiver
-Identify requests from clients uniquely so you can ignore duplicate requests when client retries
-
-Key-Range Partitions
-Partition data in sorted key ranges to efficiently handle range queries.
 
 Lamport Clock
 Use logical timestamps as a version for a value to allow ordering of values across servers
 
-Leader and Followers
-Have a single server to coordinate replication across a set of servers.
-
 Lease
 Use time-bound leases for cluster nodes to coordinate their activities.
 
-Low-Water Mark
-An index in the write-ahead log showing which portion of the log can be discarded.
+
+
+## Consistency, Election, Quorum, Consensus Algorithm
+
+Consistent Core
+Maintain a smaller cluster providing stronger consistency to allow the large data cluster to coordinate server activities without implementing quorum-based algorithms.
+
+Emergent Leader
+Order cluster nodes based on their age within the cluster to allow nodes to select a leader without running an explicit election.
+
+Leader and Followers
+Have a single server to coordinate replication across a set of servers.
 
 Majority Quorum
 Avoid two groups of servers making independent decisions by requiring majority for taking every decision.
@@ -342,8 +328,15 @@ Avoid two groups of servers making independent decisions by requiring majority f
 Paxos
 Use two consensus building phases to reach safe consensus even when nodes disconnect
 
-Replicated Log
-Keep the state of multiple nodes synchronized by using a write-ahead log that is replicated to all the cluster nodes.
+## Read Requests
+
+Follower Reads
+Serve read requests from followers to achieve better throughput and lower latency
+
+## Requests
+
+Idempotent Receiver
+Identify requests from clients uniquely so you can ignore duplicate requests when client retries
 
 Request Batch
 Combine multiple requests to optimally utilise the network
@@ -354,14 +347,13 @@ Improve latency by sending multiple requests on the connection without waiting f
 Request Waiting List
 Track client requests which require responses after the criteria to respond is met based on responses from other cluster nodes.
 
-Segmented Log
-Split log into multiple smaller files instead of a single large file for easier operations.
-
 Single-Socket Channel
 Maintain the order of the requests sent to a server by using a single TCP connection
 
 Singular Update Queue
 Use a single thread to process requests asynchronously to maintain order without blocking the caller.
+
+## Updates
 
 State Watch 
 Notify clients when specific values change on the server
@@ -375,8 +367,30 @@ Maintain a list of counters, one per cluster node, to detect concurrent updates
 Versioned Value
 Store every update to a value with a new version, to allow reading historical values.
 
+## Partitions
+
+Fixed Partitions
+Keep the number of partitions fixed to keep the mapping of data to partition unchanged when the size of a cluster changes.
+
+Key-Range Partitions
+Partition data in sorted key ranges to efficiently handle range queries.
+
+## Logs
+
+Segmented Log
+Split log into multiple smaller files instead of a single large file for easier operations.
+
 Write-Ahead Log
 Provide durability guarantee without the storage data structures to be flushed to disk, by persisting every state change as a command to the append only log.
+
+Replicated Log
+Keep the state of multiple nodes synchronized by using a write-ahead log that is replicated to all the cluster nodes.
+
+High-Water Mark
+An index in the write-ahead log showing the last successful replication.
+
+Low-Water Mark
+An index in the write-ahead log showing which portion of the log can be discarded.
 -->
 
 ### Refactoring
