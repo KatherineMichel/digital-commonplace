@@ -96,6 +96,9 @@ https://github.com/codecrafters-io/build-your-own-x | codecrafters-io/build-your
 https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
 https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
 
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
 ## Python Pulse and VS Code
 
 https://www.youtube.com/@code
@@ -182,8 +185,9 @@ https://django-ninja.dev/ | Django Ninja
 
 https://access.redhat.com/support/policy/updates/errata
 
-https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
 
+
+https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
 
 ## Local Tools
 
@@ -232,8 +236,6 @@ https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eB
 
 https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
 
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
 
 
 https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
@@ -729,8 +731,8 @@ https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engin
 What Happens When
 
 Network communication protocols
+https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg
 https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-http://foto.prg.in.ua/inet/file/2016-03-09_12-02-32.jpg | 2016-03-09_12-02-32.jpg (8698×5911)
 
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 https://en.wikipedia.org/wiki/OSI_model
@@ -740,6 +742,9 @@ High Performance Browser Networking
 * [Ilya Grigorik](https://www.igvita.com/)
 
 https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
+CPUs and Threads
+https://www.linkedin.com/posts/maheshma_cpu-development-technology-activity-7215165124485996545-nKty/?utm_source=share&utm_medium=member_desktop
 -->
 
 
@@ -1200,6 +1205,8 @@ https://github.com/python/cpython/graphs/contributors | Contributors to python/c
 Python/Django Core Devs List
 https://devguide.python.org/core-developers/developer-log/ | Developer log
 https://devguide.python.org/core-developers/developer-log/index.html | Developer log
+
+https://www.curiousefficiency.org/pages/about/
 -->
 
 <!--
