@@ -6,16 +6,6 @@
 https://kolo.app/ | Kolo for Django
 
 
-https://scrumguides.org/scrum-guide.html | Scrum Guide | Scrum Guides
-
-https://news.ycombinator.com/ | Hacker News
-
-https://github.blog/ | The GitHub Blog - Updates, ideas, and inspiration from GitHub to help developers build and design software.
-https://github.blog/changelog/ | Changelogs Archive - The GitHub Blog
-https://github.com/trending/developers/python?since=daily | Trending Python developers on GitHub today
-
-https://github.com/trending/developers | Trending developers on GitHub today
-
 https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
 
 https://inventwithpython.com/blog/ | The Invent with Python Blog
@@ -63,7 +53,9 @@ https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
 https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 
 
-## The New Stack
+## Sites
+
+https://opensource.com/
 
 https://thenewstack.io/
 
@@ -147,8 +139,6 @@ https://jukkasuomela.fi/da2020/da2020.pdf
 https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
 
 
-https://opensource.com/
-
 ## Learning
 
 Don Knuth's Annual Christmas Lecture
@@ -180,21 +170,6 @@ https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X:
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
 
 
-## Security Algorithms
-
-https://www.securecodewarrior.com/resources | The Resources Hub | Secure Code Warrior
-
-Cryptographic hashing algorithms
-SHA-3
-https://en.wikipedia.org/wiki/SHA-3
-SHA-2
-https://en.wikipedia.org/wiki/SHA-2
-Argon 2
-https://en.wikipedia.org/wiki/Argon2
-bcrypt
-https://en.wikipedia.org/wiki/Bcrypt
-
-
 ## PySheets
 
 https://pysheets.app/ | PySheets - Spreadsheet UI for Python
@@ -202,25 +177,6 @@ https://pysheets.app/ | PySheets - Spreadsheet UI for Python
 
 https://www.django-unicorn.com/ | Unicorn
 https://django-ninja.dev/ | Django Ninja
-
-
-## GIL
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-## Profiling
-
-https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
-
-## TDD
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
-https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
-
-https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
-
 
 
 
@@ -254,13 +210,6 @@ https://en.wikipedia.org/wiki/HTTP/3
 https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
 https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 
-## Compiler
-
-https://blog.logrocket.com/exploring-rust-compiler-options-gcc-vs-llvm/
-https://llvm.org/
-https://clang.llvm.org/
-https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project
-
 ## Linux
 
 https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
@@ -270,46 +219,13 @@ https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
 https://riscv.org/
 
 
-## Functional Programming
-
-https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
-https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
-
-
 ## GitHub Artifact Attestation
 
 https://github.blog/changelog/2024-05-02-artifact-attestations-public-beta/ | Artifact Attestations public beta - The GitHub Blog
 https://www.ianlewis.org/en/understanding-github-artifact-attestations | Understanding GitHub Artifact Attestations | Ian Lewis
-
+-->
 
 <!--
-## Python Newsletters
-
-https://when-of-python.github.io
-
-https://substack.com/profile/135747695-nobody-has-time-for-python | Nobody has time for Python | Substack
-
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
-
-
-https://planetpython.org/ | Planet Python
-
-https://speed.python.org/ | Python Speed Center
-
-
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
-
-
-## Jobs
-
-https://foxleytalent.com/ | Foxley Talent
-https://jobs.django-news.com/ | Django News Jobs
-
-
 ## Python and Django
 
 https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
@@ -1259,6 +1175,152 @@ Seth Larson
 Simon Willison
 -->
 
+<!--
+## People
+
+PyLadies Contributors
+https://github.com/pyladies/global-conference/graphs/contributors | Contributors to pyladies/global-conference
+
+http://djangopeople.net/us/
+
+https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python Software Foundation
+
+DSF People
+https://twitter.com/djangoproject/following | People followed by Django (@djangoproject) / X
+https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
+
+DSF Teams
+https://www.djangoproject.com/foundation/teams/
+
+CPython
+https://github.com/python/cpython/graphs/contributors | Contributors to python/cpython
+
+## Python Core Dev
+
+Python/Django Core Devs List
+https://devguide.python.org/core-developers/developer-log/ | Developer log
+https://devguide.python.org/core-developers/developer-log/index.html | Developer log
+-->
+
+<!--
+## Livestream
+
+Django Discord
+https://discord.com/invite/Psc75Cb8 | Django
+
+Organizer Discord
+https://discord.com/channels/753457391072444506/753457391072444509 | #general
+
+
+Anthony
+https://discord.com/channels/576802746850869258/599621603931717632 | #general
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+
+
+Twitch Category
+https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+-->
+
+<!--
+Code with Anthony
+https://www.youtube.com/anthonywritescode
+https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
+
+Anthony Explains
+https://github.com/anthonywritescode/explains
+https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
+-->
+
+<!--
+Core Dev and Maintainer
+
+## Release Manager/Maintainer
+
+https://github.com/asottile
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
+
+https://github.com/asottile-sentry
+https://github.com/getsentry/
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
+
+https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
+-->
+
+<!--
+https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
+https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
+https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
+https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
+
+## Simon's Talk
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
+https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+
+## Julie
+
+https://wizardzines.com/zine-announcements/ | Zine announcements
+
+https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
+https://jvns.ca/blog/good-questions/ | How to ask good questions
+https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
+
+https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
+
+https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
+
+https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
+
+Julie debugging zine
+https://twitter.com/BajoranEngineer/status/1604956282695593984
+
+https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
+
+
+https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
+
+https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
+
+https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
+
+
+## Jeremy
+
+https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
+
+Jeremy- Install and Use Python the Right Way
+https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
+-->
+
+
+<!--
+## Talks
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/
+
+Chris May
+https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
+https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
+
+## Projects and Code
+
+Miguel Grinberg
+https://www.twilio.com/blog/author/mgrinberg
+https://github.com/miguelgrinberg | miguelgrinberg (Miguel Grinberg)
+
+Sam Agnew
+https://www.twilio.com/blog/author/sagnew
+
+Flask
+https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
+https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
+-->
+
 ## Python Articles and Tutorials
 
 Python Tutorials
@@ -1330,6 +1392,25 @@ https://mherman.org/presentations/flask-kubernetes/#1
 https://mherman.org/presentations/dockercon-2018/#1
 https://mherman.org/presentations/test-driven-writing/#1
 https://www.crowdcast.io/e/learning
+-->
+
+<!--
+## GIL
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+## Profiling
+
+https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
+
+## TDD
+
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
+https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
 -->
 
 
@@ -1473,152 +1554,31 @@ https://learndjango.com/books/ | Django Books
 https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
 -->
 
-
 <!--
-## Livestream
+## Python Newsletters
 
-Django Discord
-https://discord.com/invite/Psc75Cb8 | Django
+https://when-of-python.github.io
 
-Organizer Discord
-https://discord.com/channels/753457391072444506/753457391072444509 | #general
+https://substack.com/@bitecode
 
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
 
-Anthony
-https://discord.com/channels/576802746850869258/599621603931717632 | #general
+https://planetpython.org/ | Planet Python
 
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md | programming-notes/notes.md at master · DanielJSottile/programming-notes
+https://speed.python.org/ | Python Speed Center
 
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
-Twitch Category
-https://www.twitch.tv/directory/game/Software%20and%20Game%20Development | (3) Software and Game Development - Twitch
+Django Snippets
+https://djangosnippets.org/
+
+## Jobs
+
+https://foxleytalent.com/ | Foxley Talent
+https://jobs.django-news.com/ | Django News Jobs
 -->
 
-<!--
-Code with Anthony
-https://www.youtube.com/anthonywritescode
-https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w
-
-Anthony Explains
-https://github.com/anthonywritescode/explains
-https://github.com/asottile/scratch/wiki/anthony-explains-ideas | anthony explains ideas · asottile/scratch Wiki
--->
-
-<!--
-Core Dev and Maintainer
-
-## Release Manager/Maintainer
-
-https://github.com/asottile
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:asottile
-
-https://github.com/asottile-sentry
-https://github.com/getsentry/
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:hynek
-
-https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
--->
-
-<!--
-https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
-https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
-https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
-
-https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
-
-## Simon's Talk
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
-
-https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
-https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
-
-## Julie
-
-https://wizardzines.com/zine-announcements/ | Zine announcements
-
-https://jvns.ca/blog/answer-questions-well/ | How to answer questions in a helpful way
-https://jvns.ca/blog/good-questions/ | How to ask good questions
-https://jvns.ca/blog/2022/08/30/a-way-to-categorize-debugging-skills/ | Some ways to get better at debugging
-
-https://jvns.ca/blog/2023/10/06/new-talk--making-hard-things-easy/ | New talk: Making Hard Things Easy
-
-https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/ | How to use undocumented web APIs
-
-https://jvns.ca/blog/2023/05/12/introducing-implement-dns-in-a-weekend/ | Introducing "Implement DNS in a Weekend"
-
-Julie debugging zine
-https://twitter.com/BajoranEngineer/status/1604956282695593984
-
-https://wizardzines.com/zines/integers-floats/ | How Integers and Floats Work
-
-
-https://twitter.com/nedbat/status/1559877703653658624 | Ned Batchelder on Twitter: "The map() function in #Python takes a function and a series of arguments, and makes an iterable of results. It can also work on functions with multiple arguments. (But most Python people prefer list comprehensions.) https://t.co/6jalH4m5um" / Twitter
-
-https://twitter.com/DynamicWebPaige/status/1634584497298735104 | 👩‍💻 Paige Bailey on Twitter: "📚 Looking through the materials from this @BYU applied math course now: it begins at the UNIX shell, and touches on scikit-learn, cvxpy, sympy, SQL, pandas, webscraping (!!) and much more. 👇It even includes helpful "attention!" sections about responsible data collection: https://t.co/oa7V6mZdfM" / Twitter
-
-https://paltman.com/crafting-software-writing-maintainable-code/ | Crafting Software: Writing Maintainable Code
-
-
-## Jeremy
-
-https://www.fast.ai/ | fast.ai - fast.ai—Making neural nets uncool again
-
-Jeremy- Install and Use Python the Right Way
-https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
--->
-
-
-<!--
-## Talks
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/
-
-Chris May
-https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
-https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
-
-## Projects and Code
-
-Miguel Grinberg
-https://www.twilio.com/blog/author/mgrinberg
-https://github.com/miguelgrinberg | miguelgrinberg (Miguel Grinberg)
-
-Sam Agnew
-https://www.twilio.com/blog/author/sagnew
-
-Flask
-https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
-https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
--->
-
-
-<!--
-## People
-
-PyLadies Contributors
-https://github.com/pyladies/global-conference/graphs/contributors | Contributors to pyladies/global-conference
-
-http://djangopeople.net/us/
-
-https://www.python.org/psf/fellows/ | PSF Fellow Membership | Python Software Foundation
-
-DSF People
-https://twitter.com/djangoproject/following | People followed by Django (@djangoproject) / X
-https://www.djangoproject.com/foundation/individual-members/ | Django Software Foundation | Django
-
-DSF Teams
-https://www.djangoproject.com/foundation/teams/
-
-CPython
-https://github.com/python/cpython/graphs/contributors | Contributors to python/cpython
-
-## Python Core Dev
-
-https://devguide.python.org/core-developers/developer-log/ | Developer log
-https://devguide.python.org/core-developers/developer-log/index.html | Developer log
--->
 
 ## Python Podcasts
 
@@ -1908,6 +1868,11 @@ https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/ |
 https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
 https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
 
+https://blog.logrocket.com/exploring-rust-compiler-options-gcc-vs-llvm/
+https://llvm.org/
+https://clang.llvm.org/
+https://gcc.gnu.org/ | GCC, the GNU Compiler Collection - GNU Project
+
 ## C API
 
 https://docs.python.org/3/c-api/intro.html#include-files | Introduction — Python 3.12.2 documentation
@@ -1951,7 +1916,6 @@ https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Disc
 
 ## Python Core
 
-Python/Django Core Devs List
 Python Language Summit and Python Core Dev Sprint
 PEPs/DEPs
 
