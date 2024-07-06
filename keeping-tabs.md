@@ -1234,8 +1234,29 @@ https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 -->
 
 <!--
-## Python People
+## Python/Django Authorities
 
+Adam Johnson
+Andrew Godwin
+Anthony Sottile
+Brett Cannon
+Carlton Gibson
+Carol Willing
+Ee Durbin
+Guido van Rossum
+Hynek Schlawack
+James Bennett
+Łukasz Langa
+Mariatta Wijaya
+Mariusz Felisiak
+Natalia Bidart
+Ned Batchelder
+Nick Coghlan
+Pablo Galindo Salgado
+Paul Ganssle
+Raymond Hettinger
+Seth Larson
+Simon Willison
 -->
 
 ## Python Articles and Tutorials
