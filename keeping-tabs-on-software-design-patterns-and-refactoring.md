@@ -288,28 +288,29 @@ Item 90: Consider Static Analysis via typing to Obviate Bugs
 <!--
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
 
-Clock-Bound Wait
-Wait to cover the uncertainty in time across cluster nodes before reading and writing values so that values can be correctly ordered across cluster nodes.
-
-Generation Clock
-A monotonically increasing number indicating the generation of the server.
-
 Gossip Dissemination
 Use a random selection of nodes to pass on information to ensure it reaches all the nodes in the cluster without flooding the network
 
 HeartBeat
 Show a server is available by periodically sending a message to all the other servers.
 
+Lease
+Use time-bound leases for cluster nodes to coordinate their activities.
+
+
+## Clock
+
+Clock-Bound Wait
+Wait to cover the uncertainty in time across cluster nodes before reading and writing values so that values can be correctly ordered across cluster nodes.
+
+Generation Clock
+A monotonically increasing number indicating the generation of the server.
+
 Hybrid Clock
 Use a combination of system timestamp and logical timestamp to have versions as date and time, which can be ordered
 
 Lamport Clock
 Use logical timestamps as a version for a value to allow ordering of values across servers
-
-Lease
-Use time-bound leases for cluster nodes to coordinate their activities.
-
-
 
 ## Consistency, Election, Quorum, Consensus Algorithm
 
@@ -651,7 +652,7 @@ Offline Concurrency Patterns:
 Session State Patterns: 
 * Client Session State (456)
 * Server Session State (458)
-* Database Session State (462).
+* Database Session State (462)
 
 Base Patterns: 
 * Gateway (466)
