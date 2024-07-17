@@ -289,28 +289,10 @@ Item 90: Consider Static Analysis via typing to Obviate Bugs
 Books
 https://martinfowler.com/books/
 
-Refactoring to Patterns
-by Joshua Kerievsky 
-https://www.amazon.com/gp/product/0321213351
-Chain Constructors*
-Replace Multiple Constructors with Creation Methods*
-Parameterized Creation Methods
-Encapsulate Subclasses with Creation Methods*
-Extract Creation Class*
-Replace Conditional Calculations with Strategy*
-Replace Implicit Tree with Composite*
-Encapsulate Composite with Builder**
-Extract Special-Case Logic into Decorators
-Replace Hard-Coded Notifications with Observer*
-Move Accumulation to Collecting Parameter*
-Replace One/Many Distinctions with Composite
-Compose Method**
-Separate Versions with Adapters *
-Adapt Interface
-
 Service Design Patterns
 Robert Daigneau
 https://www.amazon.com/gp/product/032154420X
+
 Chapter 1: From Objects to Web Services
 What Are Web Services?
 From Local Objects to Distributed Objects
@@ -323,17 +305,20 @@ Design Considerations for Web Service APIs
 RPC API
 Message API
 Resource API
+
 Chapter 3: Client-Service Interactions
 Request/Response
 Request/Acknowledge
 Media Type Negotiation
 Linked Service
+
 Chapter 4: Request and Response Management
 Service Controller
 Data Transfer Object
 Data-Binding Considerations
 Request Mapper
 Response Mapper
+
 Chapter 5: Web Service Implementation Styles
 Design Considerations for Web Service Implementation
 Transaction Script
@@ -341,6 +326,7 @@ Datasource Adapter
 Operation Script
 Command Invoker
 Workflow Connector
+
 Chapter 6: Web Service Infrastructures
 Service Connector
 Service Descriptor
@@ -351,6 +337,7 @@ A Quick Review of SOA Infrastructure Patterns
 The Service Registry
 The Enterprise Service Bus
 The Orchestration Engine
+
 Chapter 7: Web Service Evolution
 What Causes Breaking Changes?
 Structural Changes to Media Types or Messages
@@ -873,6 +860,77 @@ Low-Water Mark
 An index in the write-ahead log showing which portion of the log can be discarded.
 -->
 
+<!--
+## Refactoring to Patterns
+
+by Joshua Kerievsky 
+https://www.amazon.com/gp/product/0321213351
+
+Chain Constructors*
+Replace Multiple Constructors with Creation Methods*
+Parameterized Creation Methods
+Encapsulate Subclasses with Creation Methods*
+Extract Creation Class*
+Replace Conditional Calculations with Strategy*
+Replace Implicit Tree with Composite*
+Encapsulate Composite with Builder**
+Extract Special-Case Logic into Decorators
+Replace Hard-Coded Notifications with Observer*
+Move Accumulation to Collecting Parameter*
+Replace One/Many Distinctions with Composite
+Compose Method**
+Separate Versions with Adapters *
+Adapt Interface
+
+## Tidy First?
+
+I. Tidyings
+1. Guard Clauses: https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
+2. Dead Code: https://refactoring.com/catalog/removeDeadCode.html
+3. Normalize Symmetries
+4. New Interface, Old Implementation
+5. Reading Order
+6. Cohesion Order
+7. Move Declaration and Initialization Together
+8. Explaining Variables
+9. Explaining Constants
+10. Explicit Parameters
+11. Chunk Statements
+12. Extract Helper
+13. One Pile
+14. Explaining Comments
+15. Delete Redundant Comments
+
+II. Managing
+17. Separate Tidying
+18. Chaining
+Conclusion
+
+19. Batch Sizes
+20. Rhythm
+21. Getting Untangled
+22. First, After, Later, Never
+Summary
+
+III. Theory
+23. Beneficially Relating Elements
+24. Structure and Behavior
+25. Economics: Time Value and Optionality
+26. A Dollar Today > A Dollar Tomorrow
+27. Options
+28. Options Versus Cash Flows
+29. Reversible Structure Changes
+30. Coupling
+31. Constantine’s Equivalence
+32. Coupling Versus Decoupling
+33. Cohesion
+34. Conclusion
+    
+Appendix. Annotated Reading List and References
+Index
+About the Author
+-->
+
 ## Software Design Patterns
 
 Design Patterns for Humans
@@ -1062,54 +1120,6 @@ http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
 
 https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
 -->
-
-## Tidy First?
-
-I. Tidyings
-1. Guard Clauses: https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
-2. Dead Code: https://refactoring.com/catalog/removeDeadCode.html
-3. Normalize Symmetries
-4. New Interface, Old Implementation
-5. Reading Order
-6. Cohesion Order
-7. Move Declaration and Initialization Together
-8. Explaining Variables
-9. Explaining Constants
-10. Explicit Parameters
-11. Chunk Statements
-12. Extract Helper
-13. One Pile
-14. Explaining Comments
-15. Delete Redundant Comments
-
-II. Managing
-17. Separate Tidying
-18. Chaining
-Conclusion
-
-19. Batch Sizes
-20. Rhythm
-21. Getting Untangled
-22. First, After, Later, Never
-Summary
-
-III. Theory
-23. Beneficially Relating Elements
-24. Structure and Behavior
-25. Economics: Time Value and Optionality
-26. A Dollar Today > A Dollar Tomorrow
-27. Options
-28. Options Versus Cash Flows
-29. Reversible Structure Changes
-30. Coupling
-31. Constantine’s Equivalence
-32. Coupling Versus Decoupling
-33. Cohesion
-34. Conclusion
-    
-Appendix. Annotated Reading List and References
-Index
-About the Author
 
 
 <!--
