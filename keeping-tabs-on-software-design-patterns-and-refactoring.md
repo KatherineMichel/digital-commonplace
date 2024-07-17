@@ -286,6 +286,9 @@ Item 90: Consider Static Analysis via typing to Obviate Bugs
 ## Martin Fowler
 
 <!--
+Network Communication Protocols Map
+https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg 
+
 Books
 https://martinfowler.com/books/
 
