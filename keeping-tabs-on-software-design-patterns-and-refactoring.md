@@ -285,6 +285,84 @@ Item 90: Consider Static Analysis via typing to Obviate Bugs
 
 ## Martin Fowler
 
+<!--
+Books
+https://martinfowler.com/books/
+
+Refactoring to Patterns
+by Joshua Kerievsky 
+https://www.amazon.com/gp/product/0321213351
+Chain Constructors*
+Replace Multiple Constructors with Creation Methods*
+Parameterized Creation Methods
+Encapsulate Subclasses with Creation Methods*
+Extract Creation Class*
+Replace Conditional Calculations with Strategy*
+Replace Implicit Tree with Composite*
+Encapsulate Composite with Builder**
+Extract Special-Case Logic into Decorators
+Replace Hard-Coded Notifications with Observer*
+Move Accumulation to Collecting Parameter*
+Replace One/Many Distinctions with Composite
+Compose Method**
+Separate Versions with Adapters *
+Adapt Interface
+
+Service Design Patterns
+Robert Daigneau
+https://www.amazon.com/gp/product/032154420X
+Chapter 1: From Objects to Web Services
+What Are Web Services?
+From Local Objects to Distributed Objects
+Why Use Web Services?
+Web Service Considerations and Alternatives
+Services and the Promise of Loose Coupling
+What about SOA?
+Chapter 2: Web Service API Styles
+Design Considerations for Web Service APIs
+RPC API
+Message API
+Resource API
+Chapter 3: Client-Service Interactions
+Request/Response
+Request/Acknowledge
+Media Type Negotiation
+Linked Service
+Chapter 4: Request and Response Management
+Service Controller
+Data Transfer Object
+Data-Binding Considerations
+Request Mapper
+Response Mapper
+Chapter 5: Web Service Implementation Styles
+Design Considerations for Web Service Implementation
+Transaction Script
+Datasource Adapter
+Operation Script
+Command Invoker
+Workflow Connector
+Chapter 6: Web Service Infrastructures
+Service Connector
+Service Descriptor
+Asynchronous Response Handler
+Service Interceptor
+Idempotent Retry
+A Quick Review of SOA Infrastructure Patterns
+The Service Registry
+The Enterprise Service Bus
+The Orchestration Engine
+Chapter 7: Web Service Evolution
+What Causes Breaking Changes?
+Structural Changes to Media Types or Messages
+Service Descriptor Changes
+Common Versioning Strategies
+Single-Message Argument
+Dataset Amendment
+Tolerant Reader
+Consumer-Driven Contracts
+How the Patterns Promote or Hinder Service Evolution
+-->
+
 ### Refactoring
 
 Martin Fowler, Refactoring, Patterns, ThoughtWorks
@@ -568,8 +646,30 @@ https://enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 -->
 
 <!--
+Modern examples
+https://www.enterpriseintegrationpatterns.com/ramblings/eip1_examples_updated.html
+Code
+https://github.com/spac3lord/eip
+
+Publish-Subscribe Channel	Google Cloud Pub/sub
+Dead Letter Channel	Amazon SQS, Kafka Connect
+Return Address	GoLang
+Message Expiration	Azure Service Bus, Amazon EventBridge, Google Cloud PubSub
+Content-based Router	Apache Camel
+Scatter-Gather	Serverless Loan Broker on AWS, Mulesoft ESB, Azure Durable Functions: Fan out/fan in
+Message Filter	RabbitMQ
+Aggregator	Serverless Loan Broker on AWS (Lambda, DynamoDB), Serverless Loan Broker on GCP (Cloud Function, Datastore)
+Process Manager	Serverless Loan Broker with AWS Step Functions, Serverless Loan Broker with GCP Workflows
+Content Enricher	Amazon EventBridge Pipes
+Transactional Client	Amazon SQS
+Event-driven Consumer	RabbitMQ
+Competing Consumers	Apache Kafka
+Channel Purger	Amazon SQS
+
+
 Integration Styles
 Introduction to Integration Styles
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Chapter1.html
 File Transfer	How can I integrate multiple applications so that they work together and can exchange information?
 Shared Database	How can I integrate multiple applications so that they work together and can exchange information?
 Remote Procedure Invocation	How can I integrate multiple applications so that they work together and can exchange information?
