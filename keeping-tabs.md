@@ -286,6 +286,11 @@ https://www.postgresql.org/docs/current/parallel-query.html | PostgreSQL: Docume
 SQLite
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
+## VMware Tanzu
+
+https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
+https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
+
 ## Crunchy Data
 
 https://www.linkedin.com/in/elizabeth-garrett-christensen/ | Elizabeth Garrett Christensen | LinkedIn
@@ -316,6 +321,23 @@ https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Sec
 https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline | Regex character “$” doesn't mean “end-of-string”
 https://openssf.org/blog/2024/06/18/know-your-regular-expressions-securing-input-validation-across-languages/ | Know Your Regular Expressions: Securing Input Validation Across Languages – Open Source Security Foundation
 
+## DEPs and PEPs, PRs
+
+https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
+
+https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
+
+https://github.com/capi-workgroup | capi-workgroup
+
+https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
+https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
+
+https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
+
+https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
+https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
+https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
+
 ## Python Learning
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
@@ -339,6 +361,16 @@ https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from 
 https://wsvincent.com/books/ | Books - Will Vincent
 https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
 
+## Python, Quant, Finance
+
+https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
+https://calpaterson.com/bank-python.html | An oral history of Bank Python
+https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
+https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
+https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
+https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
+https://github.com/hsbc | HSBC
+
 ## Newsletters
 
 https://django-news.com/
@@ -361,6 +393,14 @@ https://docs.python.org/3/library/threading.html#lock-objects | threading — Th
 https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
 https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
 https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
+
+## More
+
+Unix
+https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
+
+https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
+https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
 
 ## JiT
 
@@ -390,6 +430,10 @@ https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massi
 
 https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
 https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / X
+
+## Hynek
+
+https://hynek.me/articles/ | Hynek’s Blog
 
 ## Tools
 
