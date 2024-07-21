@@ -2732,6 +2732,9 @@ https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key D
 
 https://en.wikipedia.org/wiki/Database | Database - Wikipedia
 
+https://aphyr.com/tags/Jepsen
+https://jepsen.io/analyses/ethics
+
 ## Database Types
 
 https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
@@ -2824,6 +2827,10 @@ https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyad
 
 http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new | SQL:2023 is finished: Here is what’s new | Peter Eisentraut
 
+## Comparisons
+
+https://kinsta.com/blog/mongodb-vs-postgresql/ | MongoDB vs PostgreSQL: 15 Critical Differences
+
 ## SQLite
 
 Differences you need to be aware of
@@ -2850,6 +2857,51 @@ https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/ | How To Be
 https://www.crunchydata.com/blog/converting-dms-to-postgis-point-geometry | Converting DMS to PostGIS Point Geometry | Crunchy Data Blog
 https://www.crunchydata.com/blog/auto-archiving-and-data-retention-management-in-postgres-with-pg_partman | Auto-archiving and Data Retention Management in... | Crunchy Data Blog
 https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook | Data Encryption in Postgres: A Guidebook | Crunchy Data Blog
+
+## CockroachDB
+
+https://x.com/CockroachDB
+
+https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100247
+
+https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
+https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://www.cockroachlabs.com/docs/stable/architecture/overview/ | Architecture Overview
+
+https://www.cockroachlabs.com/blog/admission-control-unexpected-overload/ | Admission Control in CockroachDB: How it protects against unexpected overload
+https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
+
+https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
+https://github.com/facebook/rocksdb
+https://github.com/google/leveldb
+“LSMs are for write-heavy workloads and BTrees are for read-heavy workloads”
+https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
+https://github.com/cockroachdb/pebble
+Pebble versus RocksDB implementation differences
+https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md
+https://en.wikipedia.org/wiki/B-tree
+https://en.wikipedia.org/wiki/Log-structured_merge-tree
+https://dzone.com/articles/nosql-vs-sql-learning-by-differentiating
+Log-structured merge-trees
+https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
+https://en.wikipedia.org/wiki/Merge_sort
+
+Key-store
+https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
+
+Early CockroachDB analysis
+https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
+
+## Distributed Databases
+
+NewSQL
+https://www.cockroachlabs.com/blog/what-is-distributed-sql/
+
+Spanner
+https://cloud.google.com/spanner
+https://research.google/pubs/spanner-googles-globally-distributed-database-2/
+https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf | 45855.pdf
 
 ## MongoDB- No-SQL
 
@@ -2968,7 +3020,6 @@ https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL querie
 
 https://realpython.com/python-sql-libraries/ | Introduction to Python SQL Libraries – Real Python
 
-
 ## Databases
 
 Intro to Database Systems
@@ -2983,53 +3034,6 @@ https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | L
 https://www.cidrdb.org/cidr2024/
 
 
-
-## CockroachDB
-
-https://x.com/CockroachDB
-
-https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100247
-
-https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
-https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
-https://www.cockroachlabs.com/docs/stable/architecture/overview/ | Architecture Overview
-
-https://www.cockroachlabs.com/blog/admission-control-unexpected-overload/ | Admission Control in CockroachDB: How it protects against unexpected overload
-https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
-
-https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
-https://github.com/facebook/rocksdb
-https://github.com/google/leveldb
-“LSMs are for write-heavy workloads and BTrees are for read-heavy workloads”
-https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
-https://github.com/cockroachdb/pebble
-Pebble versus RocksDB implementation differences
-https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md
-https://en.wikipedia.org/wiki/B-tree
-https://en.wikipedia.org/wiki/Log-structured_merge-tree
-https://dzone.com/articles/nosql-vs-sql-learning-by-differentiating
-Log-structured merge-trees
-https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
-https://en.wikipedia.org/wiki/Merge_sort
-
-Key-store
-https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
-
-Early CockroachDB analysis
-https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
-
-Spanner
-https://cloud.google.com/spanner
-https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf | 45855.pdf
-
-https://aphyr.com/tags/Jepsen
-https://jepsen.io/analyses/ethics
-
-
-
-
-
 ## Database Articles- Important
 
 https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
@@ -3041,25 +3045,6 @@ List of Algorithms
 http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
 
 https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
-
-## Distributed Systems
-
-https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
-
-https://ferd.ca/a-distributed-systems-reading-list.html
-https://news.ycombinator.com/from?site=ferd.ca
-https://news.ycombinator.com/item?id=39303160
-
-https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
-
-https://www.geeksforgeeks.org/types-of-distributed-system/
-
-Distributed Systems
-https://en.wikipedia.org/wiki/Distributed_computing
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
-https://www.splunk.com/en_us/blog/learn/distributed-systems.html
-
 -->
 
 
@@ -3076,15 +3061,6 @@ https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Repli
 https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
 
 https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
-
-## Distributed Database
-
-https://www.cockroachlabs.com/blog/what-is-distributed-sql/
-https://research.google/pubs/spanner-googles-globally-distributed-database-2/
-
-## Comparisons
-
-https://kinsta.com/blog/mongodb-vs-postgresql/ | MongoDB vs PostgreSQL: 15 Critical Differences
 -->
 
 ## Databases
