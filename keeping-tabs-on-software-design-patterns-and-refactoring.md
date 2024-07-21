@@ -7,8 +7,26 @@ https://github.com/readme/guides/functional-programming-basics | Functional Prog
 https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
 
 
-Algos by category
-https://www.linkedin.com/pulse/list-algorithms-computer-programming-pranam-bhat/
+## Programming Parallel Computers, Distributed Algorithms
+
+https://ppc.cs.aalto.fi/
+https://jukkasuomela.fi/da2020/
+https://mycourses.aalto.fi/course/view.php?id=41048
+https://jukkasuomela.fi/da2020/da2020.pdf
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+
+
+## Patterns
+
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+
+https://en.wikipedia.org/wiki/Software_architecture | Software architecture - Wikipedia
+https://en.wikipedia.org/wiki/Architectural_pattern | Architectural pattern - Wikipedia
+
+https://en.wikipedia.org/wiki/The_Hillside_Group | The Hillside Group - Wikipedia
+https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Repository - Wikipedia
+
+https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
 
 
 ## Scaling Django
@@ -43,6 +61,7 @@ Thinking in Systems
 https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
 
 
+https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
 
 ## Software Architecture Tools
 
@@ -306,7 +325,7 @@ https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
 
 ## RISC-V and ARM
 
-RISC-V and ARM
+https://riscv.org/
 https://en.wikipedia.org/wiki/RISC-V
 https://www.arm.com/
 https://en.wikipedia.org/wiki/ARM_architecture_family
@@ -387,7 +406,7 @@ https://wiki.c2.com/?DataBusPattern | Data Bus Pattern
 Command Query Responsibility Segregation
 https://martinfowler.com/bliki/CQRS.html | CQRS
 
-## Quic
+## HTTP/3 and QUIC
 
 https://en.wikipedia.org/wiki/QUIC
 https://en.wikipedia.org/wiki/User_Datagram_Protocol
@@ -397,6 +416,9 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 https://en.wikipedia.org/wiki/HTTP/3#Comparison_with_HTTP/1.1_and_HTTP/2
 https://en.wikipedia.org/wiki/HTTP/2
 https://en.wikipedia.org/wiki/HTTP
+
+https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
+https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
 ## Martin Fowler
