@@ -51,8 +51,6 @@ https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/
 
 https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 
-Domain Driven Model
-
 TLA+
 https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
 https://www.thestrangeloop.com/2021/tla-plus-conference.html
@@ -60,6 +58,17 @@ https://c4model.com/ | The C4 model for visualising software architecture
 https://en.wikipedia.org/wiki/C4_model | C4 model - Wikipedia
 https://plantuml.com/ | Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.
 https://en.wikipedia.org/wiki/4%2B1_architectural_view_model | 4+1 architectural view model - Wikipedia
+
+## Domain Modelling
+
+Domain Driven Model
+
+Domain Modelling
+* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+
+## Modelling
+
+https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
 
 
 ## Socratic Method
