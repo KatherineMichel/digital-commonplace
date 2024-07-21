@@ -111,7 +111,6 @@ https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Rep
 https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
 
 
-
 ## Definitions
 
 https://www.techopedia.com/
@@ -119,181 +118,10 @@ https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/ | https:/
 https://www.techopedia.com/definition/4389/wrapper-software-engineering | What is Wrapper? - Definition from Techopedia
 
 
-
-## CPython
-
-https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
-https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
-https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
-https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
-https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
-
-## PSF
-
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
-https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Security Developer-in-Residence
-https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline | Regex character “$” doesn't mean “end-of-string”
-https://openssf.org/blog/2024/06/18/know-your-regular-expressions-securing-input-validation-across-languages/ | Know Your Regular Expressions: Securing Input Validation Across Languages – Open Source Security Foundation
-
-## DEPs and PEPs, PRs
-
-https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
-
-https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
-
-https://github.com/capi-workgroup | capi-workgroup
-
-https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
-https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
-
-https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
-
-https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
-https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
-https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
-
-## Python Learning
-
-https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
-
-https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
-
-https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
-https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
-
-https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
-
-https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
-
-https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
-
-https://wsvincent.com/books/ | Books - Will Vincent
-https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
-
-## Python, Quant, Finance
-
-https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
-https://calpaterson.com/bank-python.html | An oral history of Bank Python
-https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
-https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
-https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
-https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
-https://github.com/hsbc | HSBC
-
-## Newsletters
-
-https://django-news.com/
-https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
-
-## New Releases
-
-https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b2 documentation
-https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
-
-## Anthony Shaw
-
-https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
-https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
-
-## Threads and Multi processing
-
-https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
-
-## More
-
-Unix
-https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
-
-https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
-https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
-
-## JiT
-
-https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
-
-https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
-https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
-
-https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
-https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
-https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
-https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
-https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
-https://llvm.org/ | The LLVM Compiler Infrastructure Project
-
-## Sheena
-
-https://www.sheenaoc.com/articles/emails/2024-07-03-newsletter
-https://x.com/sheena_oconnell/status/1807448776832880877 | Sheena O'Connell on X: "Here's an article about an experience I had with HTMX. A lot of people have had positive experiences. The main thing that blows me away is the productivity boost it gives to even the most junior dev team member: https://t.co/gBNhopkKvC #htmx #Django #WebDev #softwaredevelopment" / X
-https://www.sheenaoc.com/articles/2024-06-30-htmx?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_240 | An HTMX success story
-
-## Simon- Productivity
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
-
-## Luke- Django Repository Pattern
-
-https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
-https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / X
-
-## Hynek
-
-https://hynek.me/articles/ | Hynek’s Blog
-
-## Ruff, Pydantic, Rust
-
-https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
-https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
-https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
-
-https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
-https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
-
-https://www.rust-lang.org/ | Rust Programming Language
-https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
-https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
-
-
-## Time
-
-https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
-https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
-## Testing
-
-https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
-https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
-
-https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
-https://docs.pytest.org/en/8.2.x/ | pytest: helps you write better programs - pytest documentation
-https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
-https://testing.googleblog.com/ | Google Testing Blog
-
-## Numpy Release
-
-https://blog.scientific-python.org/numpy/numpy2/ | Blog - NumPy 2.0: an evolutionary milestone
-
-## Pallets
-
-https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
-
 ## SRE
 
 https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-
-## Network Protocols
-
-https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg | Network-Protocols-Map-Poster.jpg (7022×4883)
 
 
 
@@ -1897,6 +1725,174 @@ https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Yea
 
 https://djangochat.com
 https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+-->
+
+<!--
+## CPython
+
+https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
+https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
+https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
+https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
+https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
+
+## PSF
+
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
+https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Security Developer-in-Residence
+https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline | Regex character “$” doesn't mean “end-of-string”
+https://openssf.org/blog/2024/06/18/know-your-regular-expressions-securing-input-validation-across-languages/ | Know Your Regular Expressions: Securing Input Validation Across Languages – Open Source Security Foundation
+
+## DEPs and PEPs, PRs
+
+https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
+
+https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
+
+https://github.com/capi-workgroup | capi-workgroup
+
+https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
+https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
+
+https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
+
+https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
+https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
+https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
+
+## Python Learning
+
+https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
+
+https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
+
+https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
+https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
+
+https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
+
+https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
+
+https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
+
+https://wsvincent.com/books/ | Books - Will Vincent
+https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
+
+## Python, Quant, Finance
+
+https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
+https://calpaterson.com/bank-python.html | An oral history of Bank Python
+https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
+https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
+https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
+https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
+https://github.com/hsbc | HSBC
+
+## Newsletters
+
+https://django-news.com/
+https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
+
+## New Releases
+
+https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b2 documentation
+https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
+
+## Anthony Shaw
+
+https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
+https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
+
+## Threads and Multi processing
+
+https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
+
+## More
+
+Unix
+https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
+
+https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
+https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
+
+## JiT
+
+https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
+
+https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
+https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
+
+https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
+https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
+https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
+https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
+https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
+https://llvm.org/ | The LLVM Compiler Infrastructure Project
+
+## Sheena
+
+https://www.sheenaoc.com/articles/emails/2024-07-03-newsletter
+https://x.com/sheena_oconnell/status/1807448776832880877 | Sheena O'Connell on X: "Here's an article about an experience I had with HTMX. A lot of people have had positive experiences. The main thing that blows me away is the productivity boost it gives to even the most junior dev team member: https://t.co/gBNhopkKvC #htmx #Django #WebDev #softwaredevelopment" / X
+https://www.sheenaoc.com/articles/2024-06-30-htmx?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_240 | An HTMX success story
+
+## Simon- Productivity
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+## Luke- Django Repository Pattern
+
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / X
+
+## Hynek
+
+https://hynek.me/articles/ | Hynek’s Blog
+
+## Ruff, Pydantic, Rust
+
+https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
+https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
+https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
+
+https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
+https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
+
+https://www.rust-lang.org/ | Rust Programming Language
+https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
+https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
+
+
+## Time
+
+https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
+https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+## Testing
+
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+
+https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
+https://docs.pytest.org/en/8.2.x/ | pytest: helps you write better programs - pytest documentation
+https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
+https://testing.googleblog.com/ | Google Testing Blog
+
+## Numpy Release
+
+https://blog.scientific-python.org/numpy/numpy2/ | Blog - NumPy 2.0: an evolutionary milestone
+
+## Pallets
+
+https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
 -->
 
 ## Python Unofficial News and Projects
