@@ -131,168 +131,6 @@ https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/ | https:/
 https://www.techopedia.com/definition/4389/wrapper-software-engineering | What is Wrapper? - Definition from Techopedia
 
 
-## OLAP and OLTP
-
-https://en.wikipedia.org/wiki/Online_analytical_processing
-https://en.wikipedia.org/wiki/Online_transaction_processing
-
-## Database General
-
-https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
-
-## Database Popularity
-
-https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
-
-## Cockroach, GraphDB, Neo4j
-
-DB Comparisons
-https://db-engines.com/en/systems
-
-https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
-
-## Scaling a Database
-
-https://blog.algomaster.io/p/system-design-how-to-scale-a-database | System Design: How to Scale a Database
-
-## In-memory Database
-
-https://en.wikipedia.org/wiki/In-memory_database | In-memory database - Wikipedia
-https://en.wikipedia.org/wiki/List_of_in-memory_databases | List of in-memory databases - Wikipedia
-
-## Database Indexes
-
-https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes | A detailed guide on Database Indexes
-https://en.wikipedia.org/wiki/Database_index | Database index - Wikipedia
-https://en.wikipedia.org/wiki/Category:Database_index_techniques | Category:Database index techniques - Wikipedia
-
-https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
-https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
-https://en.wikipedia.org/wiki/B%2B_tree#:~:text=A%20B%2B%20tree%20can%20be,context%20%E2%80%94%20in%20particular%2C%20filesystems. | B+ tree - Wikipedia
-
-https://www.postgresql.org/docs/current/indexes-types.html | PostgreSQL: Documentation: 16: 11.2. Index Types
-https://www.postgresql.org/docs/current/btree.html | PostgreSQL: Documentation: 16: Chapter 67. B-Tree Indexes
-https://www.postgresql.org/docs/current/btree-implementation.html | PostgreSQL: Documentation: 16: 67.4. Implementation
-https://www.postgresql.org/docs/current/ltree.html
-
-## Postgres
-
-https://adamj.eu/tech/2023/02/23/migrate-django-postgresql-ci-fields-case-insensitive-collation/ | How to migrate from Django’s PostgreSQL CI Fields to use a case-insensitive collation - Adam Johnson
-
-## Python SQL Libraries
-
-https://realpython.com/python-sql-libraries/ | Introduction to Python SQL Libraries – Real Python
-
-## SQL
-
-http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new | SQL:2023 is finished: Here is what’s new | Peter Eisentraut
-
-## SQLite
-
-Differences you need to be aware of
-https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
-
-## CockroachDB
-
-https://x.com/CockroachDB
-
-https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100247
-
-https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
-https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
-https://www.cockroachlabs.com/docs/stable/architecture/overview/ | Architecture Overview
-
-https://www.cockroachlabs.com/blog/admission-control-unexpected-overload/ | Admission Control in CockroachDB: How it protects against unexpected overload
-https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
-
-https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
-https://github.com/facebook/rocksdb
-https://github.com/google/leveldb
-“LSMs are for write-heavy workloads and BTrees are for read-heavy workloads”
-https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
-https://github.com/cockroachdb/pebble
-Pebble versus RocksDB implementation differences
-https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md
-https://en.wikipedia.org/wiki/B-tree
-https://en.wikipedia.org/wiki/Log-structured_merge-tree
-https://dzone.com/articles/nosql-vs-sql-learning-by-differentiating
-Log-structured merge-trees
-https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
-https://en.wikipedia.org/wiki/Merge_sort
-
-Key-store
-https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
-
-Early CockroachDB analysis
-https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
-
-Spanner
-https://cloud.google.com/spanner
-https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf | 45855.pdf
-
-https://aphyr.com/tags/Jepsen
-https://jepsen.io/analyses/ethics
-
-## CassandraDB and Accord Protocol
-
-https://thenewstack.io/acid-transactions-change-the-game-for-cassandra-developers/
-https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+Transactions?preview=/188744725/188744736/Accord.pdf
-https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+Transactions
-
-## Amazon Dynamo
-
-NoSQL Key-Value database
-https://aws.amazon.com/dynamodb/
-https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf | Microsoft Word - sosp067-decandia1.doc
-
-## CosmoDB
-
-https://en.wikipedia.org/wiki/Cosmos_DB
-https://azure.microsoft.com/en-us/products/cosmos-db | Azure Cosmos DB - NoSQL and Relational Database | Microsoft Azure
-
-## Neo4j
-
-https://medium.com/@_jalakoo_/getting-started-with-neo4j-6bbeece974e3 | Getting Started with Neo4j. Already heard of Neo4j, the highly… | by Jason Koo | Jul, 2024 | Medium
-https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/graphdb-vs-rdbms/ | Transition from relational to graph database - Getting Started
-
-## MongoDB
-
-https://www.mongodb.com/developer/products/mongodb/everything-you-know-is-wrong/ | Everything You Know About MongoDB is Wrong! | MongoDB
-https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/ | Active-Active Application Architectures with MongoDB | MongoDB
-https://www.mongodb.com/resources/products/capabilities/acid-compliance#:~:text=Not%20every%20single%20NoSQL%20database,transactions%20for%20even%20more%20flexibility. | What Does ACID Compliance Mean? | An Introduction | MongoDB | MongoDB
-https://www.mongodb.com/resources/languages/bson | Explaining BSON With Examples | MongoDB
-https://www.mongodb.com/docs/v5.2/reference/bson-types/ | BSON Types — MongoDB Manual
-https://www.mongodb.com/resources/basics/json-and-bson | JSON And BSON | MongoDB
-https://bsonspec.org/spec.html | BSON (Binary JSON): Specification
-https://json-schema.org/ | JSON Schema
-
-## Internals
-
-Postgres
-https://medium.com/@hnasr/postgresql-process-architecture-f21e16459907 | PostgreSQL Process Architecture. Postgres Process Architecture, I… | by Hussein Nasser | Medium
-https://www.postgresql.org/docs/current/parallel-query.html | PostgreSQL: Documentation: 16: Chapter 15. Parallel Query
-
-SQLite
-https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
-
-## VMware Gemfire and Tanzu
-
-https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
-https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
-
-## Crunchy Data
-
-https://www.linkedin.com/in/elizabeth-garrett-christensen/ | Elizabeth Garrett Christensen | LinkedIn
-
-## Oracle Database Performance Tuning Guide
-
-https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/performance-tuning-overview.html
-
-## Red Hat
-
-https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
-
 
 ## CPython
 
@@ -2837,39 +2675,6 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 
 
 <!--
-List of Algorithms
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
-
-https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
-
-## Distributed Systems
-
-https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
-
-https://ferd.ca/a-distributed-systems-reading-list.html
-https://news.ycombinator.com/from?site=ferd.ca
-https://news.ycombinator.com/item?id=39303160
-
-https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
-
-https://www.geeksforgeeks.org/types-of-distributed-system/
-
-Distributed Systems
-https://en.wikipedia.org/wiki/Distributed_computing
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
-https://www.splunk.com/en_us/blog/learn/distributed-systems.html
-
-## Server
-
-https://en.wikipedia.org/wiki/Heartbeat_(computing)
-https://en.wikipedia.org/wiki/Round-robin_DNS
-
-## State
-
-https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
-https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
-
 ## Orchestration
 
 https://www.redhat.com/en/topics/automation/what-is-orchestration | What is orchestration?
@@ -2894,6 +2699,10 @@ https://www.redhat.com/en/topics/containers/what-are-hosted-control-planes | Wha
 https://www.redhat.com/en/blog/channel/management-and-automation | IT management and automation
 
 
+## RHEL
+
+https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+
 ## Kubernetes, Salt, Ansible
 
 https://kubernetes.io/ | Kubernetes
@@ -2907,116 +2716,39 @@ https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user inte
 -->
 
 <!--
+## Server
+
+https://en.wikipedia.org/wiki/Heartbeat_(computing)
+https://en.wikipedia.org/wiki/Round-robin_DNS
+
+## State
+
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
+-->
+
+<!--
+## Database General
+
+https://en.wikipedia.org/wiki/Database | Database - Wikipedia
+
+## Database Types
+
+https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+
 ## Databases Rankings
 
 https://pypl.github.io/DB.html | TOPDB Top Database index
 https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
 
-## Database Types
+## Cockroach, GraphDB, Neo4j
 
-https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+DB Comparisons
+https://db-engines.com/en/systems
 
-## Databases
-
-https://en.wikipedia.org/wiki/Database
-
-Intro to Database Systems
-https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
-
-https://spacetimedb.com/blog/databases-and-data-oriented-design
-https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
-
-https://architecturenotes.co/things-you-should-know-about-databases/ | Relational Databases Explained
-https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | List of relational database management systems - Wikipedia
-
-https://en.wikipedia.org/wiki/Database | Database - Wikipedia
-https://en.wikipedia.org/wiki/Database_index | Database index - Wikipedia
-https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree | Self-balancing binary search tree - Wikipedia
-https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
-https://en.wikipedia.org/wiki/Hash_table | Hash table - Wikipedia
-https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
-
-https://www.cidrdb.org/cidr2024/
-
-## Database Articles- Important
-
-https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
-https://read.technically.dev/p/the-beginners-guide-to-databases
-https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
-
-## Database Performance
-
-https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/part-I-database-performance-fundamentals.html#GUID-DD122227-0E55-49DB-8DF0-0F321D03800F | Database Performance Fundamentals
-
-Database Performance
-https://link.springer.com/book/10.1007/978-1-4842-9711-7 | Database Performance at Scale: A Practical Guide | SpringerLink
-
-## Django SQL
-
-https://www.w3schools.com/sql/ | SQL Tutorial
-https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
-
-## Cockroach- Distributed Database
-
-https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
-https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
-https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
-
-https://en.wikipedia.org/wiki/CockroachDB
-https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Replication Layer
-https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
-
-https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
-
-## Distributed Database
-
-https://www.cockroachlabs.com/blog/what-is-distributed-sql/
-https://research.google/pubs/spanner-googles-globally-distributed-database-2/
-
-## PostgreSQL
-
-https://www.postgresql.org/about/press/faq/ | PostgreSQL: PostgreSQL Press FAQ
-
-The Design of Postgres
-https://dsf.berkeley.edu/papers/ERL-M85-95.pdf | ERL-M85-95.pdf
-
-https://www.postgresql.org/
-https://twitter.com/vhmth/status/1773092591522717849 | Vinay Hiremath on X: "I loathe Postgres' JSONB column. The most easy to abuse column type. Has caused numerous incidents and tons of technical debt/slowness. Has probably cost us millions in lost revenue at this point." / X
-
-## Crunchy Data
-
-https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/ | Postgres Performance: From Slow to Pro | DjangoCon US
-https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/ | How To Be a Postgres DBA in a Pinch | DjangoCon US
-
-https://www.crunchydata.com/blog/converting-dms-to-postgis-point-geometry | Converting DMS to PostGIS Point Geometry | Crunchy Data Blog
-https://www.crunchydata.com/blog/auto-archiving-and-data-retention-management-in-postgres-with-pg_partman | Auto-archiving and Data Retention Management in... | Crunchy Data Blog
-https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook | Data Encryption in Postgres: A Guidebook | Crunchy Data Blog
-
-## MongoDB- No-SQL
-
-https://www.mongodb.com/developer/events/pycon-us-2024/ | PyCon US | MongoDB
-
-https://en.wikipedia.org/wiki/BSON | BSON - Wikipedia
-
-https://kinsta.com/blog/mongodb-vs-postgresql/ | MongoDB vs PostgreSQL: 15 Critical Differences
-
-https://www.mongodb.com/evolved#mdbfourfour | MongoDB Evolved – Version History | MongoDB
-https://www.mongodb.com/databases/acid-compliance | What Does ACID Compliance Mean? | An Introduction | MongoDB | MongoDB
-
-## Cassandra
-
-https://www.datadoghq.com/resources/datadog-cassandra-cheatsheet/ | Apache Cassandra™ Cheatsheet | Datadog
-
-## EdgeDB
-
-https://www.edgedb.com/about | About us | EdgeDB
-https://github.com/edgedb/edgedb | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
-https://www.youtube.com/watch?v=b23x_IWIb4c | (196) Life After SQL (EdgeDB Is Fascinating) - YouTube
-
-https://github.com/edgedb/edgedb?tab=readme-ov-file | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
-https://github.com/edgedb/memhive | edgedb/memhive
-https://docs.python.org/3/library/pickle.html | pickle — Python object serialization — Python 3.12.3 documentation
+https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
 
 ## Database Management Systems
 
@@ -3038,10 +2770,151 @@ Today's OLTP databases don't scale
 https://twitter.com/eatonphil/status/1747987398573646033 | Phil Eaton on X: "This is very good. https://t.co/unkuj8LAPY https://t.co/BTv3BsYVkL" / X
 https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html
 
+## Scaling a Database
+
+https://blog.algomaster.io/p/system-design-how-to-scale-a-database | System Design: How to Scale a Database
+
+## Database Performance
+
+https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/performance-tuning-overview.html
+https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/part-I-database-performance-fundamentals.html | Database Performance Fundamentals
+
+Database Performance
+https://link.springer.com/book/10.1007/978-1-4842-9711-7 | Database Performance at Scale: A Practical Guide | SpringerLink
+
+## In-memory Database
+
+https://en.wikipedia.org/wiki/In-memory_database | In-memory database - Wikipedia
+https://en.wikipedia.org/wiki/List_of_in-memory_databases | List of in-memory databases - Wikipedia
+
+## Database Indexes and Trees
+
+https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes | A detailed guide on Database Indexes
+https://en.wikipedia.org/wiki/Database_index | Database index - Wikipedia
+https://en.wikipedia.org/wiki/Category:Database_index_techniques | Category:Database index techniques - Wikipedia
+
+https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
+https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
+https://en.wikipedia.org/wiki/B%2B_tree#:~:text=A%20B%2B%20tree%20can%20be,context%20%E2%80%94%20in%20particular%2C%20filesystems. | B+ tree - Wikipedia
+https://en.wikipedia.org/wiki/Hash_table | Hash table - Wikipedia
+https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree | Self-balancing binary search tree - Wikipedia
+
+https://www.postgresql.org/docs/current/indexes-types.html | PostgreSQL: Documentation: 16: 11.2. Index Types
+https://www.postgresql.org/docs/current/btree.html | PostgreSQL: Documentation: 16: Chapter 67. B-Tree Indexes
+https://www.postgresql.org/docs/current/btree-implementation.html | PostgreSQL: Documentation: 16: 67.4. Implementation
+https://www.postgresql.org/docs/current/ltree.html
+
+## Internals
+
+The Design of Postgres
+https://dsf.berkeley.edu/papers/ERL-M85-95.pdf | ERL-M85-95.pdf
+
+https://www.postgresql.org/docs/current/parallel-query.html | PostgreSQL: Documentation: 16: Chapter 15. Parallel Query
+
+https://medium.com/@hnasr/postgresql-process-architecture-f21e16459907 | PostgreSQL Process Architecture. Postgres Process Architecture, I… | by Hussein Nasser | Medium
+https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
+
+SQLite
+https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
+
+## SQL
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
+http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new | SQL:2023 is finished: Here is what’s new | Peter Eisentraut
+
+## SQLite
+
+Differences you need to be aware of
+https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
+
+## PostgreSQL
+
+https://www.postgresql.org/about/press/faq/ | PostgreSQL: PostgreSQL Press FAQ
+
+https://www.postgresql.org/
+https://twitter.com/vhmth/status/1773092591522717849 | Vinay Hiremath on X: "I loathe Postgres' JSONB column. The most easy to abuse column type. Has caused numerous incidents and tons of technical debt/slowness. Has probably cost us millions in lost revenue at this point." / X
+
+https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
+
+https://adamj.eu/tech/2023/02/23/migrate-django-postgresql-ci-fields-case-insensitive-collation/ | How to migrate from Django’s PostgreSQL CI Fields to use a case-insensitive collation - Adam Johnson
+
+## Crunchy Data
+
+https://www.linkedin.com/in/elizabeth-garrett-christensen/ | Elizabeth Garrett Christensen | LinkedIn
+
+https://2023.djangocon.us/talks/postgres-performance-from-slow-to-pro/ | Postgres Performance: From Slow to Pro | DjangoCon US
+https://2022.djangocon.us/talks/how-to-be-a-postgres-dba-in-a-pinch/ | How To Be a Postgres DBA in a Pinch | DjangoCon US
+
+https://www.crunchydata.com/blog/converting-dms-to-postgis-point-geometry | Converting DMS to PostGIS Point Geometry | Crunchy Data Blog
+https://www.crunchydata.com/blog/auto-archiving-and-data-retention-management-in-postgres-with-pg_partman | Auto-archiving and Data Retention Management in... | Crunchy Data Blog
+https://www.crunchydata.com/blog/data-encryption-in-postgres-a-guidebook | Data Encryption in Postgres: A Guidebook | Crunchy Data Blog
+
+## MongoDB- No-SQL
+
+https://www.mongodb.com/developer/events/pycon-us-2024/ | PyCon US | MongoDB
+
+https://www.mongodb.com/developer/products/mongodb/everything-you-know-is-wrong/ | Everything You Know About MongoDB is Wrong! | MongoDB
+https://www.mongodb.com/resources/products/capabilities/acid-compliance#:~:text=Not%20every%20single%20NoSQL%20database,transactions%20for%20even%20more%20flexibility. | What Does ACID Compliance Mean? | An Introduction | MongoDB | MongoDB
+https://www.mongodb.com/databases/acid-compliance | What Does ACID Compliance Mean? | An Introduction | MongoDB | MongoDB
+
+https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/ | Active-Active Application Architectures with MongoDB | MongoDB
+
+https://www.mongodb.com/resources/languages/bson | Explaining BSON With Examples | MongoDB
+https://www.mongodb.com/docs/v5.2/reference/bson-types/ | BSON Types — MongoDB Manual
+https://www.mongodb.com/resources/basics/json-and-bson | JSON And BSON | MongoDB
+https://bsonspec.org/spec.html | BSON (Binary JSON): Specification
+https://en.wikipedia.org/wiki/BSON | BSON - Wikipedia
+https://json-schema.org/ | JSON Schema
+
+https://www.mongodb.com/evolved#mdbfourfour | MongoDB Evolved – Version History | MongoDB
+
+## CassandraDB
+
+https://cassandra.apache.org/_/index.html
+https://www.datadoghq.com/resources/datadog-cassandra-cheatsheet/ | Apache Cassandra™ Cheatsheet | Datadog
+
+## CassandraDB and Accord Protocol
+
+https://thenewstack.io/acid-transactions-change-the-game-for-cassandra-developers/
+https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+Transactions?preview=/188744725/188744736/Accord.pdf
+https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+Transactions
+
+## Amazon Dynamo
+
+NoSQL Key-Value database
+https://aws.amazon.com/dynamodb/
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf | Microsoft Word - sosp067-decandia1.doc
+
+## CosmoDB
+
+https://en.wikipedia.org/wiki/Cosmos_DB
+https://azure.microsoft.com/en-us/products/cosmos-db | Azure Cosmos DB - NoSQL and Relational Database | Microsoft Azure
+
+## Neo4j
+
+https://neo4j.com/
+https://medium.com/@_jalakoo_/getting-started-with-neo4j-6bbeece974e3 | Getting Started with Neo4j. Already heard of Neo4j, the highly… | by Jason Koo | Jul, 2024 | Medium
+https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/graphdb-vs-rdbms/ | Transition from relational to graph database - Getting Started
+
+## EdgeDB
+
+https://www.edgedb.com/about | About us | EdgeDB
+https://github.com/edgedb/edgedb | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+https://www.youtube.com/watch?v=b23x_IWIb4c | (196) Life After SQL (EdgeDB Is Fascinating) - YouTube
+
+https://github.com/edgedb/edgedb?tab=readme-ov-file | edgedb/edgedb: A graph-relational database with declarative schema, built-in migration system, and a next-generation query language
+https://github.com/edgedb/memhive | edgedb/memhive
+https://docs.python.org/3/library/pickle.html | pickle — Python object serialization — Python 3.12.3 documentation
+
 ## Various DBs
 
-https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Posts | LinkedIn
+DuckDB
 https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
+
+https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Posts | LinkedIn
+
 
 ## Dask
 
@@ -3061,6 +2934,157 @@ https://prestodb.io/
 
 https://kafka.apache.org/ | Apache Kafka
 https://kafka.apache.org/documentation/#gettingStarted | Apache Kafka
+
+## VMware Gemfire and Tanzu
+
+https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
+https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
+
+## Database GIS
+
+https://postgis.net/
+https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
+
+## Tools
+
+https://github.com/FlipperPA/django-s3-sqlite
+
+https://blog.acolyer.org/2020/09/21/watchman/
+
+https://prometheus.io/
+
+https://www.cloudfoundry.org/ | Cloud Foundry – Open Source Cloud Native Application Delivery
+-->
+
+
+
+<!--
+## Django SQL
+
+https://www.w3schools.com/sql/ | SQL Tutorial
+https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
+
+## Python SQL Libraries
+
+https://realpython.com/python-sql-libraries/ | Introduction to Python SQL Libraries – Real Python
+
+
+## Databases
+
+Intro to Database Systems
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+
+https://spacetimedb.com/blog/databases-and-data-oriented-design
+https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
+
+https://architecturenotes.co/things-you-should-know-about-databases/ | Relational Databases Explained
+https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | List of relational database management systems - Wikipedia
+
+https://www.cidrdb.org/cidr2024/
+
+
+
+## CockroachDB
+
+https://x.com/CockroachDB
+
+https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100247
+
+https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
+https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://www.cockroachlabs.com/docs/stable/architecture/overview/ | Architecture Overview
+
+https://www.cockroachlabs.com/blog/admission-control-unexpected-overload/ | Admission Control in CockroachDB: How it protects against unexpected overload
+https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
+
+https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
+https://github.com/facebook/rocksdb
+https://github.com/google/leveldb
+“LSMs are for write-heavy workloads and BTrees are for read-heavy workloads”
+https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
+https://github.com/cockroachdb/pebble
+Pebble versus RocksDB implementation differences
+https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md
+https://en.wikipedia.org/wiki/B-tree
+https://en.wikipedia.org/wiki/Log-structured_merge-tree
+https://dzone.com/articles/nosql-vs-sql-learning-by-differentiating
+Log-structured merge-trees
+https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
+https://en.wikipedia.org/wiki/Merge_sort
+
+Key-store
+https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
+
+Early CockroachDB analysis
+https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
+
+Spanner
+https://cloud.google.com/spanner
+https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf | 45855.pdf
+
+https://aphyr.com/tags/Jepsen
+https://jepsen.io/analyses/ethics
+
+
+
+
+
+## Database Articles- Important
+
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
+https://read.technically.dev/p/the-beginners-guide-to-databases
+https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
+
+
+List of Algorithms
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
+
+## Distributed Systems
+
+https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
+
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://news.ycombinator.com/from?site=ferd.ca
+https://news.ycombinator.com/item?id=39303160
+
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+https://www.geeksforgeeks.org/types-of-distributed-system/
+
+Distributed Systems
+https://en.wikipedia.org/wiki/Distributed_computing
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
+https://www.splunk.com/en_us/blog/learn/distributed-systems.html
+
+-->
+
+
+<!--
+
+## Cockroach- Distributed Database
+
+https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
+https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
+
+https://en.wikipedia.org/wiki/CockroachDB
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Replication Layer
+https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
+
+https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
+
+## Distributed Database
+
+https://www.cockroachlabs.com/blog/what-is-distributed-sql/
+https://research.google/pubs/spanner-googles-globally-distributed-database-2/
+
+## Comparisons
+
+https://kinsta.com/blog/mongodb-vs-postgresql/ | MongoDB vs PostgreSQL: 15 Critical Differences
 -->
 
 ## Databases
@@ -3077,10 +3101,6 @@ https://sqlite.org/
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
 https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
-
-https://cassandra.apache.org/_/index.html
-
-https://neo4j.com/
 
 https://www.tigergraph.com/
 
@@ -3113,10 +3133,6 @@ https://www.sqlite.org/changes.html | Release History Of SQLite
 https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
 https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 
-## Database GIS
-
-https://postgis.net/
-https://www.gaia-gis.it/fossil/libspatialite/index | SpatiaLite: SpatiaLite
 -->
 
 <!--
@@ -3130,28 +3146,6 @@ https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Datab
 https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
 
 https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
-
-## Postgres Architecture
-
-https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
-
-https://www.datadoghq.com/resources/datadog-postgresql-cheatsheet/ | PostgreSQL Cheatsheet | Datadog
-
-## SQL
-
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
-
-
-## Tools
-
-https://github.com/FlipperPA/django-s3-sqlite
-
-https://blog.acolyer.org/2020/09/21/watchman/
-
-https://prometheus.io/
-
-https://www.cloudfoundry.org/ | Cloud Foundry – Open Source Cloud Native Application Delivery
 -->
 
 
