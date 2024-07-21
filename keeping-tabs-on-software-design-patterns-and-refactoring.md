@@ -17,16 +17,11 @@ https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scali
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
 
 
-## Architecture and Tools
-
-https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+## Software Architecture/Design Patterns
 
 https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
 
 https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-
-## Software Architecture/Design Patterns
 
 https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
 https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
@@ -51,124 +46,28 @@ https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/s
 https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
 
 
-## Software Architecture Principles
+## Software Architecture Tools
 
-https://plantuml.com/
+Devs Need System Design Tools, Not Diagramming Tools
+https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/
 
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
+
+Domain Driven Model
+
+TLA+
 https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
+https://www.thestrangeloop.com/2021/tla-plus-conference.html
 https://c4model.com/ | The C4 model for visualising software architecture
-domain driven model - Google Search
+https://en.wikipedia.org/wiki/C4_model | C4 model - Wikipedia
+https://plantuml.com/ | Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.
+https://en.wikipedia.org/wiki/4%2B1_architectural_view_model | 4+1 architectural view model - Wikipedia
 
 
-## Books
+## Socratic Method
 
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
--->
-
-## Compilers Book
-
-### Programming Language Classification
-
-First generation
-* Machine languages
-
-Second generation
-* Assembly languages
-
-Third generation (higher-level languages)
-* [Fortran Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))
-* [Cobol Wikipedia](https://en.wikipedia.org/wiki/COBOL)
-* [Lisp Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))
-* C 
-* C++
-* C#
-* Java
-
-Fourth-generation (languages are languages designed for specific applications)
-* NOMAD for report generation
-* SQL for database queries
-* Postscript for text formatting 
-
-Fifth-generation (logic- and constraint-based languages)
-* Prolog
-* OPS5
-
-Imperative (program specifies how a computation is to be done- there is a notion of program state and statements that change the state)
-* C
-* C++
-* C#
-* Java
-
-Declarative (program specifies what computation is to be done)
-* ML (functional)
-* Haskell (functional)
-* Prolog (constraint logic)
-
-Functional
-* ML (declarative)
-* Hasell (declarative)
-
-von Neumann (computational model is based on the von Neumann computer architecture)
-* Many of today's languages
-* Fortrain
-* C
-
-Object-oriented (a programming style in which a program consists of a collection of objects that interact with one another)
-* C++
-* C#
-* Java
-* Ruby
-
-Scripting (interpreted languages with high-level operators de­signed for "gluing together" computations)
-* Awk
-* JavaScript
-* Perl
-* PHP
-* Python
-* Ruby
-* Tel
-
-<!--
-https://famicol.in/language_checklist.html | Programming Language Checklist
-What was this?
-https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
--->
-
-## Programming Languages, Types, and Paradigms
-
-Programming Languages
-* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
-* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
-* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
-  
-Programming Paradigms
-* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-<!--
-* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
--->
-
-<!--
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
-Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
-state.
-Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
-data types are the two most popular, but there exist two others, declarative objects and
-stateful abstract data types.
--->
-
-### von Neumann
-
-<!--
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
 -->
 
 ## Effective Python
@@ -283,12 +182,206 @@ Item 88: Know How to Break Circular Dependencies
 Item 89: Consider warnings to Refactor and Migrate Usage
 Item 90: Consider Static Analysis via typing to Obviate Bugs
 
-## Martin Fowler
+## Compilers Book
+
+### Programming Language Classification
+
+First generation
+* Machine languages
+
+Second generation
+* Assembly languages
+
+Third generation (higher-level languages)
+* [Fortran Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+* [Cobol Wikipedia](https://en.wikipedia.org/wiki/COBOL)
+* [Lisp Wikipedia](https://en.wikipedia.org/wiki/Lisp_(programming_language))
+* C 
+* C++
+* C#
+* Java
+
+Fourth-generation (languages are languages designed for specific applications)
+* NOMAD for report generation
+* SQL for database queries
+* Postscript for text formatting 
+
+Fifth-generation (logic- and constraint-based languages)
+* Prolog
+* OPS5
+
+Imperative (program specifies how a computation is to be done- there is a notion of program state and statements that change the state)
+* C
+* C++
+* C#
+* Java
+
+Declarative (program specifies what computation is to be done)
+* ML (functional)
+* Haskell (functional)
+* Prolog (constraint logic)
+
+Functional
+* ML (declarative)
+* Hasell (declarative)
+
+von Neumann (computational model is based on the von Neumann computer architecture)
+* Many of today's languages
+* Fortrain
+* C
+
+Object-oriented (a programming style in which a program consists of a collection of objects that interact with one another)
+* C++
+* C#
+* Java
+* Ruby
+
+Scripting (interpreted languages with high-level operators de­signed for "gluing together" computations)
+* Awk
+* JavaScript
+* Perl
+* PHP
+* Python
+* Ruby
+* Tel
 
 <!--
+https://famicol.in/language_checklist.html | Programming Language Checklist
+What was this?
+https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
+-->
+
+## Programming Languages, Types, and Paradigms
+
+Programming Languages
+* [History of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/History_of_programming_languages)
+* [Generational List of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Generational_list_of_programming_languages)
+* [Programming Languages by Type Wikipedia](https://en.wikipedia.org/wiki/List_of_programming_languages_by_type)
+  
+Programming Paradigms
+* [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
+* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
+
+<!--
+* [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
+-->
+
+<!--
+taxonomy of programming paradigms
+https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
+
+Programming Paradigms for Dummies: What Every Programmer Should Know
+https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
+https://www.info.ucl.ac.be/~pvr/paradigms.html | Classification of the principal programming paradigms
+Programming concepts Section 4 explains the four most important concepts in programming: records, lexically scoped closures, independence (concurrency), and named
+state.
+Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
+data types are the two most popular, but there exist two others, declarative objects and
+stateful abstract data types.
+-->
+
+### von Neumann
+
+<!--
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
+-->
+
+## Protocols
+
 Network Communication Protocols Map
 https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg 
 
+Internet protocol suite
+Application layer
+BGP
+DHCP (v6)
+DNS
+FTP
+HTTP (HTTP/3)
+HTTPS
+IMAP
+IRC
+LDAP
+MGCP
+MQTT
+NNTP
+NTP
+OSPF
+POP
+PTP
+ONC/RPCRTP
+RTSP
+RIP
+SIP
+SMTP
+SNMP
+SSH
+Telnet
+TLS/SSL
+XMPPmore...
+
+Transport layer
+TCP
+UDP
+DCCP
+SCTP
+RSVP
+QUIC
+
+Internet layer
+IP v4v6
+ICMP (v6)
+NDP
+ECNIGMP
+IPsec
+
+Link layer
+ARP
+Tunnels
+PPP
+MAC
+
+https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern | Publish–subscribe pattern - Wikipedia
+
+Pub-Sub protocol
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations
+https://en.wikipedia.org/wiki/Message_broker
+https://en.wikipedia.org/wiki/Message_queue
+https://en.wikipedia.org/wiki/Message_queuing_service
+https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
+https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol
+https://en.wikipedia.org/wiki/Constrained_Application_Protocol
+
+https://en.wikipedia.org/wiki/Category:Application_layer_protocols
+
+https://wiki.c2.com/?DataBusPattern | Data Bus Pattern
+
+Command Query Responsibility Segregation
+https://martinfowler.com/bliki/CQRS.html | CQRS
+
+## Quic
+
+https://en.wikipedia.org/wiki/QUIC
+https://en.wikipedia.org/wiki/User_Datagram_Protocol
+https://en.wikipedia.org/wiki/HTTP/3
+
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+https://en.wikipedia.org/wiki/HTTP/3#Comparison_with_HTTP/1.1_and_HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP
+
+## RISC-V and ARM
+
+RISC-V and ARM
+https://en.wikipedia.org/wiki/RISC-V
+https://www.arm.com/
+https://en.wikipedia.org/wiki/ARM_architecture_family
+
+## Martin Fowler
+
+<!--
 Books
 https://martinfowler.com/books/
 
@@ -351,184 +444,6 @@ Dataset Amendment
 Tolerant Reader
 Consumer-Driven Contracts
 How the Patterns Promote or Hinder Service Evolution
--->
-
-### Refactoring
-
-Martin Fowler, Refactoring, Patterns, ThoughtWorks
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler)
--->
-
-### Refactoring Book Examples
-
-<!--
-Tags
-basic
-encapsulation
-moving-features
-organizing-data
-simplify-conditional-logic
-refactoring-apis
-dealing-with-inheritance
-collections
-delegation
-errors
-extract
-parameters
-fragments
-grouping-function
-immutability
-inline
-remove
-rename
-split-phase
-variables
-
-Change Function Declaration
-• Add Parameter 
-• Change Signature 
-• Remove Parameter 
-• Rename Function 
-• Rename Method
-
-Inverse
-Change Reference to Value
-Change Value to Reference
-
-Collapse Hierarchy
-Combine Functions into Class
-Combine Functions into Transform
-Consolidate Conditional Expression
-Decompose Conditional
-Encapsulate Collection
-Encapsulate Record
-• Replace Record with Data Class
-
-Encapsulate Variable
-• Encapsulate Field 
-• Self-Encapsulate Field
-
-Inverse
-Extract Class
-Inline Class
-
-Inverse
-Extract Function
-Inline Function
-• Inline Method
-
-Extract Method
-
-Extract Superclass
-
-Inverse
-Extract Variable
-• Introduce Explaining Variable
-Inline Variable
-• Inline Temp
-
-Inverse
-Hide Delegate
-Remove Middle Man
-
-Introduce Assertion
-Introduce Parameter Object
-Introduce Special Case
-• Introduce Null Object
-
-Move Field
-Move Function
-• Move Method
-
-Inverse
-Move Statements into Function
-Move Statements to Callers
-
-Parameterize Function
-• Parameterize Method
-
-Preserve Whole Object
-Pull Up Constructor Body
-
-Inverse
-Pull Up Field
-Push Down Field
-
-Inverse
-Pull Up Method
-Push Down Method
-
-Remove Dead Code
-Remove Flag Argument
-• Replace Parameter with Explicit Methods
-
-Remove Setting Method
-
-Inverse
-Remove Subclass
-• Replace Subclass with Fields
-Replace Type Code with Subclasses
-• Extract Subclass 
-• Replace Type Code with State/Strategy
-
-Rename Field
-Rename Variable
-
-Inverse
-Replace Command with Function
-Replace Function with Command
-• Replace Method with Method Object
-
-Replace Conditional with Polymorphism
-Replace Constructor with Factory Function
-• Replace Constructor with Factory Method
-
-Replace Control Flag with Break
-• Remove Control Flag
-
-Replace Derived Variable with Query
-Replace Error Code with Exception
-Replace Exception with Precheck
-• Replace Exception with Test
-
-Replace Inline Code with Function Call
-Replace Loop with Pipeline
-Replace Magic Literal
-• Replace Magic Number with Symbolic Constant
-
-Replace Nested Conditional with Guard Clauses
-
-Inverse
-Replace Parameter with Query
-• Replace Parameter with Method
-Replace Query with Parameter
-
-Replace Primitive with Object
-• Replace Data Value with Object 
-• Replace Type Code with Class
-
-Replace Subclass with Delegate
-Replace Superclass with Delegate
-• Replace Inheritance with Delegation
-
-Replace Temp with Query
-
-Return Modified Value
-Separate Query from Modifier
-Slide Statements
-• Consolidate Duplicate Conditional Fragments
-
-Split Loop
-Split Phase
-Split Variable
-• Remove Assignments to Parameters 
-• Split Temp
-
-Substitute Algorithm
 -->
 
 ### Enterprise Application Architecture
@@ -756,6 +671,8 @@ Channel Purger	How can you keep 'left-over' messages on a channel from disturbin
 
 <!--
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
+https://www.compileralchemy.com/blog/praise-for-patterns-of-distributed-computing/ | Praise for Patterns of Distributed Computing
+https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature/dp/0138221987/ref=asc_df_0138221987/?tag=hyprod-20&linkCode=df0&hvadid=693617400601&hvpos=&hvnetw=g&hvrand=1540816189329461302&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024386&hvtargid=pla-2087849617622&psc=1&mcid=070f6a23df7b35429086d7aacabf3e13&gad_source=1 | Patterns of Distributed Systems (Addison-Wesley Signature Series (Fowler)): Joshi, Unmesh: 9780138221980: Amazon.com: Books
 
 Gossip Dissemination
 Use a random selection of nodes to pass on information to ensure it reaches all the nodes in the cluster without flooding the network
@@ -830,6 +747,7 @@ Notify clients when specific values change on the server
 
 Two-Phase Commit
 Update resources on multiple nodes in one atomic operation
+https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html | Two-Phase Commit
 
 Version Vector 
 Maintain a list of counters, one per cluster node, to detect concurrent updates
@@ -861,6 +779,185 @@ An index in the write-ahead log showing the last successful replication.
 
 Low-Water Mark
 An index in the write-ahead log showing which portion of the log can be discarded.
+-->
+
+
+### Refactoring
+
+Martin Fowler, Refactoring, Patterns, ThoughtWorks
+* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
+
+<!--
+https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler)
+-->
+
+### Refactoring Book Examples
+
+<!--
+Tags
+basic
+encapsulation
+moving-features
+organizing-data
+simplify-conditional-logic
+refactoring-apis
+dealing-with-inheritance
+collections
+delegation
+errors
+extract
+parameters
+fragments
+grouping-function
+immutability
+inline
+remove
+rename
+split-phase
+variables
+
+Change Function Declaration
+• Add Parameter 
+• Change Signature 
+• Remove Parameter 
+• Rename Function 
+• Rename Method
+
+Inverse
+Change Reference to Value
+Change Value to Reference
+
+Collapse Hierarchy
+Combine Functions into Class
+Combine Functions into Transform
+Consolidate Conditional Expression
+Decompose Conditional
+Encapsulate Collection
+Encapsulate Record
+• Replace Record with Data Class
+
+Encapsulate Variable
+• Encapsulate Field 
+• Self-Encapsulate Field
+
+Inverse
+Extract Class
+Inline Class
+
+Inverse
+Extract Function
+Inline Function
+• Inline Method
+
+Extract Method
+
+Extract Superclass
+
+Inverse
+Extract Variable
+• Introduce Explaining Variable
+Inline Variable
+• Inline Temp
+
+Inverse
+Hide Delegate
+Remove Middle Man
+
+Introduce Assertion
+Introduce Parameter Object
+Introduce Special Case
+• Introduce Null Object
+
+Move Field
+Move Function
+• Move Method
+
+Inverse
+Move Statements into Function
+Move Statements to Callers
+
+Parameterize Function
+• Parameterize Method
+
+Preserve Whole Object
+Pull Up Constructor Body
+
+Inverse
+Pull Up Field
+Push Down Field
+
+Inverse
+Pull Up Method
+Push Down Method
+
+Remove Dead Code
+Remove Flag Argument
+• Replace Parameter with Explicit Methods
+
+Remove Setting Method
+
+Inverse
+Remove Subclass
+• Replace Subclass with Fields
+Replace Type Code with Subclasses
+• Extract Subclass 
+• Replace Type Code with State/Strategy
+
+Rename Field
+Rename Variable
+
+Inverse
+Replace Command with Function
+Replace Function with Command
+• Replace Method with Method Object
+
+Replace Conditional with Polymorphism
+Replace Constructor with Factory Function
+• Replace Constructor with Factory Method
+
+Replace Control Flag with Break
+• Remove Control Flag
+
+Replace Derived Variable with Query
+Replace Error Code with Exception
+Replace Exception with Precheck
+• Replace Exception with Test
+
+Replace Inline Code with Function Call
+Replace Loop with Pipeline
+Replace Magic Literal
+• Replace Magic Number with Symbolic Constant
+
+Replace Nested Conditional with Guard Clauses
+
+Inverse
+Replace Parameter with Query
+• Replace Parameter with Method
+Replace Query with Parameter
+
+Replace Primitive with Object
+• Replace Data Value with Object 
+• Replace Type Code with Class
+
+Replace Subclass with Delegate
+Replace Superclass with Delegate
+• Replace Inheritance with Delegation
+
+Replace Temp with Query
+
+Return Modified Value
+Separate Query from Modifier
+Slide Statements
+• Consolidate Duplicate Conditional Fragments
+
+Split Loop
+Split Phase
+Split Variable
+• Remove Assignments to Parameters 
+• Split Temp
+
+Substitute Algorithm
 -->
 
 <!--
