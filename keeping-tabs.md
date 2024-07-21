@@ -2713,6 +2713,11 @@ https://github.com/saltstack/salt
 https://github.com/ansible/ansible
 https://www.ansible.com/faq | The AWX project
 https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
+## VMware Gemfire and Tanzu
+
+https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
+https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
 -->
 
 <!--
@@ -2726,6 +2731,30 @@ https://en.wikipedia.org/wiki/Round-robin_DNS
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
 https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
 -->
+
+
+<!--
+## Databases
+
+Intro to Database Systems
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+
+https://spacetimedb.com/blog/databases-and-data-oriented-design
+https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
+
+https://www.cidrdb.org/cidr2024/
+
+Build your own
+https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
+https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
+
+## Database Articles- Important
+
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
+https://read.technically.dev/p/the-beginners-guide-to-databases
+https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
+-->
+
 
 <!--
 ## Database General
@@ -2773,6 +2802,11 @@ Today's OLTP databases don't scale
 https://twitter.com/eatonphil/status/1747987398573646033 | Phil Eaton on X: "This is very good. https://t.co/unkuj8LAPY https://t.co/BTv3BsYVkL" / X
 https://muratbuffalo.blogspot.com/2024/01/scalable-oltp-in-cloud-whats-big-deal.html
 
+## Relational DBMS
+
+https://architecturenotes.co/things-you-should-know-about-databases/ | Relational Databases Explained
+https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | List of relational database management systems - Wikipedia
+
 ## Scaling a Database
 
 https://blog.algomaster.io/p/system-design-how-to-scale-a-database | System Design: How to Scale a Database
@@ -2807,6 +2841,22 @@ https://www.postgresql.org/docs/current/btree.html | PostgreSQL: Documentation: 
 https://www.postgresql.org/docs/current/btree-implementation.html | PostgreSQL: Documentation: 16: 67.4. Implementation
 https://www.postgresql.org/docs/current/ltree.html
 
+## Django SQL
+
+https://www.w3schools.com/sql/ | SQL Tutorial
+https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
+
+## Python SQL Libraries
+
+https://realpython.com/python-sql-libraries/ | Introduction to Python SQL Libraries – Real Python
+
+## SQL
+
+https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
+https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
+
+http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new | SQL:2023 is finished: Here is what’s new | Peter Eisentraut
+
 ## Internals
 
 The Design of Postgres
@@ -2820,16 +2870,13 @@ https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter
 SQLite
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
-## SQL
-
-https://sqlfordatascientists.com/ | SQL for Data Scientists | author's book companion website
-https://github.com/ptyadana/SQL-Data-Analysis-and-Visualization-Projects | ptyadana/SQL-Data-Analysis-and-Visualization-Projects: SQL data analysis & visualization projects using MySQL, PostgreSQL, SQLite, Tableau, Apache Spark and pySpark.
-
-http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new | SQL:2023 is finished: Here is what’s new | Peter Eisentraut
-
 ## Comparisons
 
 https://kinsta.com/blog/mongodb-vs-postgresql/ | MongoDB vs PostgreSQL: 15 Critical Differences
+
+## Pitfalls
+
+https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
 
 ## SQLite
 
@@ -2866,10 +2913,23 @@ https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100
 
 https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
 https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://en.wikipedia.org/wiki/CockroachDB
+
+https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
+
 https://www.cockroachlabs.com/docs/stable/architecture/overview/ | Architecture Overview
+Key-store
+https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
+
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Replication Layer
+https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
+
+https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
 
 https://www.cockroachlabs.com/blog/admission-control-unexpected-overload/ | Admission Control in CockroachDB: How it protects against unexpected overload
-https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
+
+Early CockroachDB analysis
+https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
 
 https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
 https://github.com/facebook/rocksdb
@@ -2886,11 +2946,9 @@ Log-structured merge-trees
 https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
 https://en.wikipedia.org/wiki/Merge_sort
 
-Key-store
-https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
-
-Early CockroachDB analysis
-https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
+Datadog
+https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
+https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
 
 ## Distributed Databases
 
@@ -2960,10 +3018,16 @@ https://github.com/edgedb/edgedb?tab=readme-ov-file | edgedb/edgedb: A graph-rel
 https://github.com/edgedb/memhive | edgedb/memhive
 https://docs.python.org/3/library/pickle.html | pickle — Python object serialization — Python 3.12.3 documentation
 
-## Various DBs
+## Various DBs and Other Tools
 
 DuckDB
 https://duckdb.org/docs/api/python/data_ingestion | Data Ingestion - DuckDB
+
+https://www.tigergraph.com/
+
+https://www.elastic.co/elasticsearch
+
+https://redis.io/
 
 https://www.linkedin.com/company/faunainc/posts/?feedView=all | Fauna Inc.: Posts | LinkedIn
 
@@ -2987,10 +3051,10 @@ https://prestodb.io/
 https://kafka.apache.org/ | Apache Kafka
 https://kafka.apache.org/documentation/#gettingStarted | Apache Kafka
 
-## VMware Gemfire and Tanzu
+## PlanetScale
 
-https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
-https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
+https://planetscale.com/ | PlanetScale: The world’s most advanced database platform
+https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
 
 ## Database GIS
 
@@ -3008,61 +3072,6 @@ https://prometheus.io/
 https://www.cloudfoundry.org/ | Cloud Foundry – Open Source Cloud Native Application Delivery
 -->
 
-
-
-<!--
-## Django SQL
-
-https://www.w3schools.com/sql/ | SQL Tutorial
-https://docs.djangoproject.com/en/5.0/topics/db/sql/ | Performing raw SQL queries | Django documentation | Django
-
-## Python SQL Libraries
-
-https://realpython.com/python-sql-libraries/ | Introduction to Python SQL Libraries – Real Python
-
-## Databases
-
-Intro to Database Systems
-https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
-
-https://spacetimedb.com/blog/databases-and-data-oriented-design
-https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
-
-https://architecturenotes.co/things-you-should-know-about-databases/ | Relational Databases Explained
-https://en.wikipedia.org/wiki/List_of_relational_database_management_systems | List of relational database management systems - Wikipedia
-
-https://www.cidrdb.org/cidr2024/
-
-
-## Database Articles- Important
-
-https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
-https://read.technically.dev/p/the-beginners-guide-to-databases
-https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
-
-
-List of Algorithms
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
-
-https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
--->
-
-
-<!--
-
-## Cockroach- Distributed Database
-
-https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
-https://www.cockroachlabs.com/docs/stable/datadog | Monitor CockroachDB Self-Hosted with Datadog
-https://docs.datadoghq.com/integrations/cockroachdb/?tab=host | CockroachDB
-
-https://en.wikipedia.org/wiki/CockroachDB
-https://www.cockroachlabs.com/docs/stable/architecture/replication-layer | Replication Layer
-https://www.cockroachlabs.com/docs/stable/create-index | CREATE INDEX
-
-https://www.cockroachlabs.com/blog/why-cockroachdb-doesnt-use-evalplanqual/ | Why CockroachDB doesn't use EvalPlanQual
--->
-
 ## Databases
 
 * [Postgres](https://www.postgresql.org/)
@@ -3078,16 +3087,6 @@ https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text
 https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
 https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
 
-https://www.tigergraph.com/
-
-https://www.elastic.co/elasticsearch
-
-https://redis.io/
-
-## Raft
-
-https://thesecretlivesofdata.com/raft/ | Raft
-https://raft.github.io/ | Raft Consensus Algorithm
 
 ## Databases
 
@@ -3111,30 +3110,6 @@ https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
 
 -->
 
-<!--
-## Database
-
-PlanetScale
-https://planetscale.com/ | PlanetScale: The world’s most advanced database platform
-https://planetscale.com/events/mysql-vs-mariadb | MySQL vs MariaDB
-
-https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
-https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
-
-https://twitter.com/hnasr/status/1649910905117835267 | Hussein Nasser on Twitter: "why exactly is select * is expensive https://t.co/tK9EDjTQov" / Twitter
--->
-
-
-## Domain Modelling
-
-<!--
-## Modelling
-
-https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
-
-Domain Modelling
-* [Domain Modelling Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
--->
 
 ## Continuous Integration
 
