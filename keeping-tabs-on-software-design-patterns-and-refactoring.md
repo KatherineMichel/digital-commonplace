@@ -705,13 +705,19 @@ Channel Purger	How can you keep 'left-over' messages on a channel from disturbin
 <!--
 ## Distributed Systems
 
+Book
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
 https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
 
 https://ferd.ca/a-distributed-systems-reading-list.html
 https://news.ycombinator.com/from?site=ferd.ca
 https://news.ycombinator.com/item?id=39303160
 
-https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+List of Algorithms
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
 
 https://www.geeksforgeeks.org/types-of-distributed-system/
 
@@ -742,6 +748,11 @@ https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
 
 Serial Algorithm- RAM
 https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
+
+## Raft
+
+https://thesecretlivesofdata.com/raft/ | Raft
+https://raft.github.io/ | Raft Consensus Algorithm
 -->
 
 <!--
