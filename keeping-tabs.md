@@ -110,18 +110,6 @@ https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Rep
 
 https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
 
-## Distributed Engineering
-
-https://www.allthingsdistributed.com
-
-https://en.wikipedia.org/wiki/Distributed_computing | Distributed computing - Wikipedia
-
-https://ferd.ca/a-distributed-systems-reading-list.html | A Distributed Systems Reading List
-https://dancres.github.io/Pages/ | Distributed Systems Reading List
-
-5.6 Leader Election using BFS
-https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
-
 
 
 ## Definitions
@@ -269,11 +257,6 @@ https://www.rust-lang.org/ | Rust Programming Language
 https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
 https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
 
-## Ansible
-
-https://docs.ansible.com/ | Ansible Documentation
-https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
-https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
 
 ## Time
 
@@ -2710,9 +2693,16 @@ https://kubernetes.io/docs/concepts/overview/components/
 
 https://github.com/saltstack/salt
 
+## Ansible
+
+https://docs.ansible.com/ | Ansible Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
+
 https://github.com/ansible/ansible
 https://www.ansible.com/faq | The AWX project
 https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
+
 
 ## VMware Gemfire and Tanzu
 
@@ -2748,13 +2738,45 @@ Build your own
 https://leanpub.com/build_your_own_database_from_scratch/ | Build Your Own Database… by build-your-own.org [PDF/iPad/Kindle]
 https://build-your-own.org/blog/20230420_byodb_done/ | The “Build Your Own Database” book is finished | Blog | build-your-own.org
 
-## Database Articles- Important
-
-https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
 https://read.technically.dev/p/the-beginners-guide-to-databases
-https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/
 -->
 
+## Databases
+
+* [Postgres](https://www.postgresql.org/)
+
+<!--
+## Tools
+
+https://www.oracle.com/
+https://www.postgresql.org/about/press/faq/
+https://sqlite.org/
+
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
+https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
+https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
+
+
+## Databases
+
+http://www.w3schools.com/sql/default.asp
+
+https://www.sqlite.org/
+https://www.sqlite.org/lang.html
+
+https://www.iso.org/standard/76584.html | ISO/IEC 9075-2:2023 - Information technology — Database languages SQL — Part 2: Foundation (SQL/Foundation)
+
+https://www.postgresql.org/docs/current/sql.html
+https://www.postgresql.org/docs/current/app-psql.html
+
+PostgreSQL database adapter for Python
+https://www.psycopg.org/docs/ | Psycopg – PostgreSQL database adapter for Python — Psycopg 2.9.3 documentation
+
+Release
+https://www.sqlite.org/changes.html | Release History Of SQLite
+https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
+https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
+-->
 
 <!--
 ## Database General
@@ -2763,6 +2785,9 @@ https://en.wikipedia.org/wiki/Database | Database - Wikipedia
 
 https://aphyr.com/tags/Jepsen
 https://jepsen.io/analyses/ethics
+
+9 Articles to learn so much about Databases
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
 
 ## Database Types
 
@@ -3070,44 +3095,6 @@ https://blog.acolyer.org/2020/09/21/watchman/
 https://prometheus.io/
 
 https://www.cloudfoundry.org/ | Cloud Foundry – Open Source Cloud Native Application Delivery
--->
-
-## Databases
-
-* [Postgres](https://www.postgresql.org/)
-
-<!--
-## Tools
-
-https://www.oracle.com/
-https://www.postgresql.org/about/press/faq/
-https://sqlite.org/
-
-https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#:~:text=Raft%20is%20a%20consensus%20protocol,of%20them%20are%20temporarily%20disconnected. | Replication Layer
-https://www.cockroachlabs.com/docs/stable/architecture/replication-layer#raft | Replication Layer
-https://university.cockroachlabs.com/courses/course-v1:crl+drivers-and-orms+short/about | Drivers and ORMs | Cockroach University
-
-
-## Databases
-
-http://www.w3schools.com/sql/default.asp
-
-https://www.sqlite.org/
-https://www.sqlite.org/lang.html
-
-https://www.iso.org/standard/76584.html | ISO/IEC 9075-2:2023 - Information technology — Database languages SQL — Part 2: Foundation (SQL/Foundation)
-
-https://www.postgresql.org/docs/current/sql.html
-https://www.postgresql.org/docs/current/app-psql.html
-
-PostgreSQL database adapter for Python
-https://www.psycopg.org/docs/ | Psycopg – PostgreSQL database adapter for Python — Psycopg 2.9.3 documentation
-
-Release
-https://www.sqlite.org/changes.html | Release History Of SQLite
-https://www.postgresql.org/docs/release/ | PostgreSQL: Release Notes
-https://www.postgresql.org/about/news/postgresql-15-beta-1-released-2453/
-
 -->
 
 
