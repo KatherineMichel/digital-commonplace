@@ -3,6 +3,460 @@
 # Learning Resources
 
 <!--
+## Engineering Management
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
+Leading Effective Engineering Teams
+https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/109814824X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.gGKTgbcVlLwyah7PyLIK9i74OGrEaB80O99Oics8dvDnHOIpz-9ORUqHP7OHmytBGabR0k6whW2hH2cZ05u4UwbL55GXB83-aTtkWAAyHNkrou86_GPFpKHGlngH1DGW6sAzQIsbWx_IDZj55phZrDbmq0dZOuo4lRJn3zNvNs7SdYsNTHw_OlPF71OsSIHs.C9bMmFW4hnyiEbOx-nWuFwRM8QbRrabfxrYfw2FWu0c&dib_tag=se&qid=1720276271&refinements=p_27%3AAddy+Osmani&s=books&sr=1-1 | Amazon.com: Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google: 9781098148249: Osmani, Addy: Books
+
+## Working Effectively with Legacy Code
+
+## Pragmatic Programmer
+
+https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
+
+## The Pragmatic Engineer
+
+https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
+https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
+https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
+
+https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
+
+https://newsletter.pragmaticengineer.com/p/facebook
+
+## High Scalability
+
+https://highscalability.com/ | High Scalability
+https://highscalability.com/start-here/ | Start Here - High Scalability -
+
+https://wayback-api.archive.org/web/*/https://highscalability.com/* | Wayback Machine
+https://web.archive.org/web/sitemap/https://highscalability.com/ | Wayback Machine
+https://web.archive.org/web/20230127170451/http://highscalability.com/all-posts/ | All Posts -
+
+https://web.archive.org/web/sitemap/http://highscalability.com/ | Wayback Machine
+https://web.archive.org/web/*/http://highscalability.com/* | Wayback Machine
+https://web.archive.org/web/20190404035701/http://highscalability.com/blog/category/concurrency | High Scalability -
+
+https://web.archive.org/web/20240108211250/http://highscalability.com/all-time-favorites/ | All Time Favorites -
+https://web.archive.org/web/20240124013936/http://highscalability.com/blog/category/example | High Scalability -
+https://web.archive.org/web/20231128085042/http://highscalability.squarespace.com/blog/category/strategy | High Scalability -
+
+https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | book-notes/high-scalability-notes.markdown at master · mgp/book-notes
+
+## Architecture Notes
+
+https://architecturenotes.co/s/newsletter
+
+## Tech Articles to Read
+
+https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
+https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
+
+## LinkedIn Teachers
+
+Rocky Bhatia
+https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
+https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
+https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
+
+https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
+
+## Data Structures and Algos
+
+https://en.wikipedia.org/wiki/Algorithm | Algorithm - Wikipedia
+
+https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
+https://www.hackerrank.com/ | HackerRank - Online Coding Tests and Technical Interviews
+https://adventofcode.com/ | Advent of Code 2023
+
+https://www.algorist.com/languages/Python.html | Algorithm Repository
+https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
+https://github.com/opengenus/cosmos | OpenGenus/cosmos: World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://the-algorithms.com/language/python | Python - The Algorithms
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://en.wikipedia.org/wiki/List_of_data_structures | List of data structures - Wikipedia
+https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.12.4 documentation
+
+https://blog.algomaster.io/archive?sort=new | Archive - AlgoMaster Newsletter
+https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms | How I Mastered Data Structures and Algorithms
+
+https://web.archive.org/web/20140614141531/https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 | The real 10 algorithms that dominate our world — Medium
+
+https://realpython.com/sorting-algorithms-python/ | Sorting Algorithms in Python – Real Python
+
+https://en.wikipedia.org/wiki/List_of_algorithms | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms#Database_algorithms | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms#Distributed_systems_algorithms | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms#Cryptography | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | Dijkstra's algorithm - Wikipedia
+
+## Patterns
+
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+
+https://en.wikipedia.org/wiki/Software_architecture | Software architecture - Wikipedia
+https://en.wikipedia.org/wiki/Architectural_pattern | Architectural pattern - Wikipedia
+
+https://en.wikipedia.org/wiki/The_Hillside_Group | The Hillside Group - Wikipedia
+https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Repository - Wikipedia
+
+https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
+https://wiki.c2.com/?DataBusPattern | Data Bus Pattern
+https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern | Publish–subscribe pattern - Wikipedia
+
+## Distributed Engineering
+
+https://www.allthingsdistributed.com
+
+https://en.wikipedia.org/wiki/Distributed_computing | Distributed computing - Wikipedia
+
+Enterprise Integration Patterns
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/ | Catalog of Patterns of Distributed Systems
+https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html | Two-Phase Commit
+https://www.compileralchemy.com/blog/praise-for-patterns-of-distributed-computing/ | Praise for Patterns of Distributed Computing
+https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature/dp/0138221987/ref=asc_df_0138221987/?tag=hyprod-20&linkCode=df0&hvadid=693617400601&hvpos=&hvnetw=g&hvrand=1540816189329461302&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024386&hvtargid=pla-2087849617622&psc=1&mcid=070f6a23df7b35429086d7aacabf3e13&gad_source=1 | Patterns of Distributed Systems (Addison-Wesley Signature Series (Fowler)): Joshi, Unmesh: 9780138221980: Amazon.com: Books
+
+https://ferd.ca/a-distributed-systems-reading-list.html | A Distributed Systems Reading List
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
+
+https://en.wikipedia.org/wiki/Multiversion_concurrency_control | Multiversion concurrency control - Wikipedia
+https://en.wikipedia.org/wiki/Non-lock_concurrency_control
+
+https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+
+https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
+https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
+
+Serial Algorithm- RAM
+https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
+
+5.6 Leader Election using BFS
+https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
+
+## Gregor Hohpe
+
+https://architectelevator.com/blog/ | Architect Elevator Blog - The Architect Elevator
+https://architectelevator.com/architecture/architect-bookshelf/ | The Architect’s Path (Part 2 - Bookshelf) - The Architect Elevator
+https://architectelevator.com/architecture/classic-architecture-books/ | Old Books that Every Architect Should Read - The Architect Elevator
+Platform Strategy
+https://leanpub.com/platformstrategy
+
+## OLAP and OLTP
+
+https://en.wikipedia.org/wiki/Online_analytical_processing
+https://en.wikipedia.org/wiki/Online_transaction_processing
+
+## Database General
+
+https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+
+## Database Popularity
+
+https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
+
+## Cockroach, GraphDB, Neo4j
+
+DB Comparisons
+https://db-engines.com/en/systems
+
+https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
+
+## Scaling a Database
+
+https://blog.algomaster.io/p/system-design-how-to-scale-a-database | System Design: How to Scale a Database
+
+## In-memory Database
+
+https://en.wikipedia.org/wiki/In-memory_database | In-memory database - Wikipedia
+https://en.wikipedia.org/wiki/List_of_in-memory_databases | List of in-memory databases - Wikipedia
+
+## Database Indexes
+
+https://blog.algomaster.io/p/a-detailed-guide-on-database-indexes | A detailed guide on Database Indexes
+https://en.wikipedia.org/wiki/Database_index | Database index - Wikipedia
+https://en.wikipedia.org/wiki/Category:Database_index_techniques | Category:Database index techniques - Wikipedia
+
+https://en.wikipedia.org/wiki/B-tree | B-tree - Wikipedia
+https://en.wikipedia.org/wiki/B%2B_tree | B+ tree - Wikipedia
+https://en.wikipedia.org/wiki/B%2B_tree#:~:text=A%20B%2B%20tree%20can%20be,context%20%E2%80%94%20in%20particular%2C%20filesystems. | B+ tree - Wikipedia
+
+https://www.postgresql.org/docs/current/indexes-types.html | PostgreSQL: Documentation: 16: 11.2. Index Types
+https://www.postgresql.org/docs/current/btree.html | PostgreSQL: Documentation: 16: Chapter 67. B-Tree Indexes
+https://www.postgresql.org/docs/current/btree-implementation.html | PostgreSQL: Documentation: 16: 67.4. Implementation
+https://www.postgresql.org/docs/current/ltree.html
+
+## Postgres
+
+https://adamj.eu/tech/2023/02/23/migrate-django-postgresql-ci-fields-case-insensitive-collation/ | How to migrate from Django’s PostgreSQL CI Fields to use a case-insensitive collation - Adam Johnson
+
+## Python SQL Libraries
+
+https://realpython.com/python-sql-libraries/ | Introduction to Python SQL Libraries – Real Python
+
+## SQL
+
+http://peter.eisentraut.org/blog/2023/04/04/sql-2023-is-finished-here-is-whats-new | SQL:2023 is finished: Here is what’s new | Peter Eisentraut
+
+## SQLite
+
+Differences you need to be aware of
+https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html
+
+## CockroachDB
+
+https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100247
+
+https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
+https://www.cockroachlabs.com/blog/ | Cockroach Labs Blog | Cockroach Labs
+https://www.cockroachlabs.com/docs/stable/architecture/overview/ | Architecture Overview
+
+https://www.cockroachlabs.com/blog/admission-control-unexpected-overload/ | Admission Control in CockroachDB: How it protects against unexpected overload
+https://www.reddit.com/r/CockroachDB/comments/12jo6gu/proscons/
+
+https://www.cockroachlabs.com/blog/cockroachdb-on-rocksd/
+https://github.com/facebook/rocksdb
+https://github.com/google/leveldb
+“LSMs are for write-heavy workloads and BTrees are for read-heavy workloads”
+https://www.cockroachlabs.com/blog/pebble-rocksdb-kv-store/
+https://github.com/cockroachdb/pebble
+Pebble versus RocksDB implementation differences
+https://github.com/cockroachdb/pebble/blob/master/docs/rocksdb.md
+https://en.wikipedia.org/wiki/B-tree
+https://en.wikipedia.org/wiki/Log-structured_merge-tree
+https://dzone.com/articles/nosql-vs-sql-learning-by-differentiating
+Log-structured merge-trees
+https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
+https://en.wikipedia.org/wiki/Merge_sort
+
+## CassandraDB and Accord Protocol
+
+https://thenewstack.io/acid-transactions-change-the-game-for-cassandra-developers/
+https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+Transactions?preview=/188744725/188744736/Accord.pdf
+https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+Transactions
+
+## Amazon Dynamo
+
+NoSQL Key-Value database
+https://aws.amazon.com/dynamodb/
+
+## CosmoDB
+
+https://en.wikipedia.org/wiki/Cosmos_DB
+https://azure.microsoft.com/en-us/products/cosmos-db | Azure Cosmos DB - NoSQL and Relational Database | Microsoft Azure
+
+## Neo4j
+
+https://medium.com/@_jalakoo_/getting-started-with-neo4j-6bbeece974e3 | Getting Started with Neo4j. Already heard of Neo4j, the highly… | by Jason Koo | Jul, 2024 | Medium
+https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/graphdb-vs-rdbms/ | Transition from relational to graph database - Getting Started
+
+## MongoDB
+
+https://www.mongodb.com/developer/products/mongodb/everything-you-know-is-wrong/ | Everything You Know About MongoDB is Wrong! | MongoDB
+https://www.mongodb.com/developer/products/mongodb/active-active-application-architectures/ | Active-Active Application Architectures with MongoDB | MongoDB
+https://www.mongodb.com/resources/products/capabilities/acid-compliance#:~:text=Not%20every%20single%20NoSQL%20database,transactions%20for%20even%20more%20flexibility. | What Does ACID Compliance Mean? | An Introduction | MongoDB | MongoDB
+https://www.mongodb.com/resources/languages/bson | Explaining BSON With Examples | MongoDB
+https://www.mongodb.com/docs/v5.2/reference/bson-types/ | BSON Types — MongoDB Manual
+https://www.mongodb.com/resources/basics/json-and-bson | JSON And BSON | MongoDB
+https://bsonspec.org/spec.html | BSON (Binary JSON): Specification
+https://json-schema.org/ | JSON Schema
+
+## Internals
+
+Postgres
+https://medium.com/@hnasr/postgresql-process-architecture-f21e16459907 | PostgreSQL Process Architecture. Postgres Process Architecture, I… | by Hussein Nasser | Medium
+https://www.postgresql.org/docs/current/parallel-query.html | PostgreSQL: Documentation: 16: Chapter 15. Parallel Query
+
+SQLite
+https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
+
+## Crunchy Data
+
+https://www.linkedin.com/in/elizabeth-garrett-christensen/ | Elizabeth Garrett Christensen | LinkedIn
+
+## Oracle Database Performance Tuning Guide
+
+https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/performance-tuning-overview.html
+
+## Language Creators
+
+https://en.wikipedia.org/wiki/James_Gosling | James Gosling - Wikipedia
+https://en.wikipedia.org/wiki/Anders_Hejlsberg | Anders Hejlsberg - Wikipedia
+https://en.wikipedia.org/wiki/Larry_Wall | Larry Wall - Wikipedia
+https://thenewstack.io/a-conversation-with-the-creators-behind-python-java-typescript-and-perl/ | A Conversation with the Creators Behind Python, Java, TypeScript, and Perl - The New Stack
+
+## CPython
+
+https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
+https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
+https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
+https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
+https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
+
+## PSF
+
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
+https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Security Developer-in-Residence
+https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline | Regex character “$” doesn't mean “end-of-string”
+https://openssf.org/blog/2024/06/18/know-your-regular-expressions-securing-input-validation-across-languages/ | Know Your Regular Expressions: Securing Input Validation Across Languages – Open Source Security Foundation
+
+## Python Learning
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/microservices/ | Microservices Guide
+https://refactoring.com/ | Refactoring
+https://martinfowler.com/bliki/CQRS.html | CQRS
+
+https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
+
+https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
+
+https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
+https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
+
+https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
+
+https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
+
+https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
+
+https://wsvincent.com/books/ | Books - Will Vincent
+https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
+
+## Newsletters
+
+https://django-news.com/
+https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
+
+## New Releases
+
+https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b2 documentation
+https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
+
+## Anthony Shaw
+
+https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
+https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
+
+## Threads and Multi processing
+
+https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
+
+## JiT
+
+https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
+
+https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
+https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
+
+https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
+https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
+https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
+https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
+https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
+https://llvm.org/ | The LLVM Compiler Infrastructure Project
+
+## Sheena
+
+https://www.sheenaoc.com/articles/emails/2024-07-03-newsletter
+https://x.com/sheena_oconnell/status/1807448776832880877 | Sheena O'Connell on X: "Here's an article about an experience I had with HTMX. A lot of people have had positive experiences. The main thing that blows me away is the productivity boost it gives to even the most junior dev team member: https://t.co/gBNhopkKvC #htmx #Django #WebDev #softwaredevelopment" / X
+https://www.sheenaoc.com/articles/2024-06-30-htmx?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_240 | An HTMX success story
+
+## Simon- Productivity
+
+https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
+
+## Luke- Django Repository Pattern
+
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / X
+
+## Tools
+
+https://www.thestrangeloop.com/2021/tla-plus-conference.html
+https://c4model.com/ | The C4 model for visualising software architecture
+https://plantuml.com/ | Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.
+https://en.wikipedia.org/wiki/4%2B1_architectural_view_model | 4+1 architectural view model - Wikipedia
+https://en.wikipedia.org/wiki/C4_model | C4 model - Wikipedia
+
+## Ruff, Pydantic, Rust
+
+https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
+https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
+https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
+
+https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
+https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
+
+https://www.rust-lang.org/ | Rust Programming Language
+https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
+https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
+
+## Ansible
+
+https://docs.ansible.com/ | Ansible Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
+
+## Time
+
+https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
+https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+## Testing
+
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+
+https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
+https://docs.pytest.org/en/8.2.x/ | pytest: helps you write better programs - pytest documentation
+https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
+https://testing.googleblog.com/ | Google Testing Blog
+
+## Numpy Release
+
+https://blog.scientific-python.org/numpy/numpy2/ | Blog - NumPy 2.0: an evolutionary milestone
+
+## Pallets
+
+https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
+
+## SRE
+
+https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+
+## Network Protocols
+
+https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg | Network-Protocols-Map-Poster.jpg (7022×4883)
+
+
+
 https://kolo.app/ | Kolo for Django
 
 
