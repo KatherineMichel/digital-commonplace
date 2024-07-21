@@ -119,26 +119,6 @@ https://en.wikipedia.org/wiki/Distributed_computing | Distributed computing - Wi
 https://ferd.ca/a-distributed-systems-reading-list.html | A Distributed Systems Reading List
 https://dancres.github.io/Pages/ | Distributed Systems Reading List
 
-https://en.wikipedia.org/wiki/Multiversion_concurrency_control | Multiversion concurrency control - Wikipedia
-https://en.wikipedia.org/wiki/Non-lock_concurrency_control
-
-https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit protocol - Wikipedia
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
-https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
-https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
-
-https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
-https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
-https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
-
-Serial Algorithm- RAM
-https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
-
 5.6 Leader Election using BFS
 https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
 
@@ -296,7 +276,7 @@ https://www.postgresql.org/docs/current/parallel-query.html | PostgreSQL: Docume
 SQLite
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
-## VMware Tanzu
+## VMware Gemfire and Tanzu
 
 https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
 https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
@@ -313,13 +293,6 @@ https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/performance-
 
 https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 
-
-## Language Creators
-
-https://en.wikipedia.org/wiki/James_Gosling | James Gosling - Wikipedia
-https://en.wikipedia.org/wiki/Anders_Hejlsberg | Anders Hejlsberg - Wikipedia
-https://en.wikipedia.org/wiki/Larry_Wall | Larry Wall - Wikipedia
-https://thenewstack.io/a-conversation-with-the-creators-behind-python-java-typescript-and-perl/ | A Conversation with the Creators Behind Python, Java, TypeScript, and Perl - The New Stack
 
 ## CPython
 
