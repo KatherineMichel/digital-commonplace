@@ -70,6 +70,7 @@ https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 -->
 
+<!--
 ## Effective Python
 
 Chapter 1: Pythonic Thinking
@@ -181,6 +182,16 @@ Item 87: Define a Root Exception to Insulate Callers from APIs
 Item 88: Know How to Break Circular Dependencies
 Item 89: Consider warnings to Refactor and Migrate Usage
 Item 90: Consider Static Analysis via typing to Obviate Bugs
+-->
+
+<!--
+## Language Creators
+
+https://en.wikipedia.org/wiki/James_Gosling | James Gosling - Wikipedia
+https://en.wikipedia.org/wiki/Anders_Hejlsberg | Anders Hejlsberg - Wikipedia
+https://en.wikipedia.org/wiki/Larry_Wall | Larry Wall - Wikipedia
+https://thenewstack.io/a-conversation-with-the-creators-behind-python-java-typescript-and-perl/ | A Conversation with the Creators Behind Python, Java, TypeScript, and Perl - The New Stack
+-->
 
 ## Compilers Book
 
@@ -287,6 +298,13 @@ https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
 -->
 
+## RISC-V and ARM
+
+RISC-V and ARM
+https://en.wikipedia.org/wiki/RISC-V
+https://www.arm.com/
+https://en.wikipedia.org/wiki/ARM_architecture_family
+
 ## Protocols
 
 Network Communication Protocols Map
@@ -372,18 +390,15 @@ https://en.wikipedia.org/wiki/HTTP/3#Comparison_with_HTTP/1.1_and_HTTP/2
 https://en.wikipedia.org/wiki/HTTP/2
 https://en.wikipedia.org/wiki/HTTP
 
-## RISC-V and ARM
-
-RISC-V and ARM
-https://en.wikipedia.org/wiki/RISC-V
-https://www.arm.com/
-https://en.wikipedia.org/wiki/ARM_architecture_family
 
 ## Martin Fowler
 
 <!--
 Books
 https://martinfowler.com/books/
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/microservices/ | Microservices Guide
 
 Service Design Patterns
 Robert Daigneau
@@ -540,6 +555,16 @@ Base Patterns:
 * Plugin (499)
 * Service Stub (504)
 * Record Set (508)
+-->
+
+## Gregor Hohpe
+
+<!--
+https://architectelevator.com/blog/ | Architect Elevator Blog - The Architect Elevator
+https://architectelevator.com/architecture/architect-bookshelf/ | The Architect’s Path (Part 2 - Bookshelf) - The Architect Elevator
+https://architectelevator.com/architecture/classic-architecture-books/ | Old Books that Every Architect Should Read - The Architect Elevator
+Platform Strategy
+https://leanpub.com/platformstrategy
 -->
 
 ### Enterprise Integration Patterns
@@ -781,6 +806,27 @@ Low-Water Mark
 An index in the write-ahead log showing which portion of the log can be discarded.
 -->
 
+<!--
+https://en.wikipedia.org/wiki/Multiversion_concurrency_control | Multiversion concurrency control - Wikipedia
+https://en.wikipedia.org/wiki/Non-lock_concurrency_control
+
+https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
+
+https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
+https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
+
+Serial Algorithm- RAM
+https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
+-->
 
 ### Refactoring
 
