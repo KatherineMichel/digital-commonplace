@@ -1204,6 +1204,7 @@ Solution #4: Beyond the Gang of Four patterns
 * Dodge: Mixins
 * Dodge: Building classes dynamically
 
+<!--
 Python-Specific Patterns
 
 The Global Object Pattern
@@ -1291,6 +1292,7 @@ Python’s extra level of indirection
 Bibliography
 Gang of Four book
 Refactoring by Martin Fowler
+-->
 
 <!--
 Adapter/facade can work together
