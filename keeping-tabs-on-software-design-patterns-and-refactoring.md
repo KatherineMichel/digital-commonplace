@@ -28,6 +28,8 @@ https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern 
 https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
 https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
 
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+
 
 ## Clean Code, Architecture
 
@@ -40,10 +42,6 @@ https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-
 Thinking in Systems
 https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
 
-
-## Microservices
-
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
 
 
 ## Software Architecture Tools
@@ -296,7 +294,6 @@ stateful abstract data types.
 <!--
 https://en.wikipedia.org/wiki/Von_Neumann_architecture
 https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
--->
 
 ## RISC-V and ARM
 
@@ -304,7 +301,9 @@ RISC-V and ARM
 https://en.wikipedia.org/wiki/RISC-V
 https://www.arm.com/
 https://en.wikipedia.org/wiki/ARM_architecture_family
+-->
 
+<!--
 ## Protocols
 
 Network Communication Protocols Map
@@ -389,7 +388,7 @@ https://en.wikipedia.org/wiki/Transport_Layer_Security
 https://en.wikipedia.org/wiki/HTTP/3#Comparison_with_HTTP/1.1_and_HTTP/2
 https://en.wikipedia.org/wiki/HTTP/2
 https://en.wikipedia.org/wiki/HTTP
-
+-->
 
 ## Martin Fowler
 
@@ -695,6 +694,48 @@ Channel Purger	How can you keep 'left-over' messages on a channel from disturbin
 ### Patterns of Distributed Systems
 
 <!--
+## Distributed Systems
+
+https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
+
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://news.ycombinator.com/from?site=ferd.ca
+https://news.ycombinator.com/item?id=39303160
+
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+https://www.geeksforgeeks.org/types-of-distributed-system/
+
+Distributed Systems
+https://en.wikipedia.org/wiki/Distributed_computing
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
+https://www.splunk.com/en_us/blog/learn/distributed-systems.html
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Multiversion_concurrency_control | Multiversion concurrency control - Wikipedia
+https://en.wikipedia.org/wiki/Non-lock_concurrency_control
+
+https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
+
+https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
+https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
+
+Serial Algorithm- RAM
+https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
+-->
+
+<!--
 https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of Distributed Systems
 https://www.compileralchemy.com/blog/praise-for-patterns-of-distributed-computing/ | Praise for Patterns of Distributed Computing
 https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature/dp/0138221987/ref=asc_df_0138221987/?tag=hyprod-20&linkCode=df0&hvadid=693617400601&hvpos=&hvnetw=g&hvrand=1540816189329461302&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024386&hvtargid=pla-2087849617622&psc=1&mcid=070f6a23df7b35429086d7aacabf3e13&gad_source=1 | Patterns of Distributed Systems (Addison-Wesley Signature Series (Fowler)): Joshi, Unmesh: 9780138221980: Amazon.com: Books
@@ -804,28 +845,6 @@ An index in the write-ahead log showing the last successful replication.
 
 Low-Water Mark
 An index in the write-ahead log showing which portion of the log can be discarded.
--->
-
-<!--
-https://en.wikipedia.org/wiki/Multiversion_concurrency_control | Multiversion concurrency control - Wikipedia
-https://en.wikipedia.org/wiki/Non-lock_concurrency_control
-
-https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit protocol - Wikipedia
-https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
-https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
-https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
-https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
-
-https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
-https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
-https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
-
-Serial Algorithm- RAM
-https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
 -->
 
 ### Refactoring
