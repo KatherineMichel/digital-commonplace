@@ -703,7 +703,7 @@ Channel Purger	How can you keep 'left-over' messages on a channel from disturbin
 ### Patterns of Distributed Systems
 
 <!--
-## Distributed Systems
+## Distributed Systems Engineering
 
 Book
 https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
@@ -713,6 +713,7 @@ https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source traini
 https://ferd.ca/a-distributed-systems-reading-list.html
 https://news.ycombinator.com/from?site=ferd.ca
 https://news.ycombinator.com/item?id=39303160
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
 
 List of Algorithms
 http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
@@ -726,6 +727,11 @@ https://en.wikipedia.org/wiki/Distributed_computing
 https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
 https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
 https://www.splunk.com/en_us/blog/learn/distributed-systems.html
+
+https://www.allthingsdistributed.com
+
+5.6 Leader Election using BFS
+https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
 -->
 
 <!--
