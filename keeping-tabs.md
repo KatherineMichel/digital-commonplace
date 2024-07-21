@@ -95,6 +95,7 @@ https://en.wikipedia.org/wiki/List_of_algorithms | List of algorithms - Wikipedi
 https://en.wikipedia.org/wiki/List_of_algorithms#Database_algorithms | List of algorithms - Wikipedia
 https://en.wikipedia.org/wiki/List_of_algorithms#Distributed_systems_algorithms | List of algorithms - Wikipedia
 https://en.wikipedia.org/wiki/List_of_algorithms#Cryptography | List of algorithms - Wikipedia
+
 https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | Dijkstra's algorithm - Wikipedia
 
 ## Patterns
@@ -108,22 +109,12 @@ https://en.wikipedia.org/wiki/The_Hillside_Group | The Hillside Group - Wikipedi
 https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Repository - Wikipedia
 
 https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
-https://wiki.c2.com/?DataBusPattern | Data Bus Pattern
-https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern | Publish–subscribe pattern - Wikipedia
 
 ## Distributed Engineering
 
 https://www.allthingsdistributed.com
 
 https://en.wikipedia.org/wiki/Distributed_computing | Distributed computing - Wikipedia
-
-Enterprise Integration Patterns
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/ | Catalog of Patterns of Distributed Systems
-https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html | Two-Phase Commit
-https://www.compileralchemy.com/blog/praise-for-patterns-of-distributed-computing/ | Praise for Patterns of Distributed Computing
-https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature/dp/0138221987/ref=asc_df_0138221987/?tag=hyprod-20&linkCode=df0&hvadid=693617400601&hvpos=&hvnetw=g&hvrand=1540816189329461302&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024386&hvtargid=pla-2087849617622&psc=1&mcid=070f6a23df7b35429086d7aacabf3e13&gad_source=1 | Patterns of Distributed Systems (Addison-Wesley Signature Series (Fowler)): Joshi, Unmesh: 9780138221980: Amazon.com: Books
 
 https://ferd.ca/a-distributed-systems-reading-list.html | A Distributed Systems Reading List
 https://dancres.github.io/Pages/ | Distributed Systems Reading List
@@ -135,6 +126,7 @@ https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit p
 https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
 https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
 
 https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
 https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
@@ -150,13 +142,14 @@ https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedi
 5.6 Leader Election using BFS
 https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
 
-## Gregor Hohpe
 
-https://architectelevator.com/blog/ | Architect Elevator Blog - The Architect Elevator
-https://architectelevator.com/architecture/architect-bookshelf/ | The Architect’s Path (Part 2 - Bookshelf) - The Architect Elevator
-https://architectelevator.com/architecture/classic-architecture-books/ | Old Books that Every Architect Should Read - The Architect Elevator
-Platform Strategy
-https://leanpub.com/platformstrategy
+
+## Definitions
+
+https://www.techopedia.com/
+https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/ | https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/
+https://www.techopedia.com/definition/4389/wrapper-software-engineering | What is Wrapper? - Definition from Techopedia
+
 
 ## OLAP and OLTP
 
@@ -221,6 +214,8 @@ https://www.unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-
 
 ## CockroachDB
 
+https://x.com/CockroachDB
+
 https://www.amazon.com/CockroachDB-Definitive-Guide-Distributed-Scale/dp/1098100247
 
 https://github.com/cockroachdb/cockroach | cockroachdb/cockroach: CockroachDB - the open source, cloud-native distributed SQL database.
@@ -245,6 +240,20 @@ Log-structured merge-trees
 https://www.cockroachlabs.com/docs/stable/architecture/storage-layer
 https://en.wikipedia.org/wiki/Merge_sort
 
+Key-store
+https://www.cockroachlabs.com/blog/distributed-sql-key-value-store/ | The architecture of a distributed SQL database, part 1: Converting SQL to a KV store
+
+Early CockroachDB analysis
+https://jepsen.io/analyses/cockroachdb-beta-20160829#:~:text=CockroachDB%20looks%20a%20good%20deal,concurrency%20scheme%20with%20transaction%20aborts.
+
+Spanner
+https://cloud.google.com/spanner
+https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45855.pdf | 45855.pdf
+
+https://aphyr.com/tags/Jepsen
+https://jepsen.io/analyses/ethics
+
 ## CassandraDB and Accord Protocol
 
 https://thenewstack.io/acid-transactions-change-the-game-for-cassandra-developers/
@@ -255,6 +264,7 @@ https://cwiki.apache.org/confluence/display/CASSANDRA/CEP-15%3A+General+Purpose+
 
 NoSQL Key-Value database
 https://aws.amazon.com/dynamodb/
+https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf | Microsoft Word - sosp067-decandia1.doc
 
 ## CosmoDB
 
@@ -299,6 +309,11 @@ https://www.linkedin.com/in/elizabeth-garrett-christensen/ | Elizabeth Garrett C
 
 https://docs.oracle.com/en/database/oracle/oracle-database/19/tgdba/performance-tuning-overview.html
 
+## Red Hat
+
+https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+
+
 ## Language Creators
 
 https://en.wikipedia.org/wiki/James_Gosling | James Gosling - Wikipedia
@@ -339,11 +354,6 @@ https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A re
 https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
 
 ## Python Learning
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/microservices/ | Microservices Guide
-https://refactoring.com/ | Refactoring
-https://martinfowler.com/bliki/CQRS.html | CQRS
 
 https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
 
@@ -434,14 +444,6 @@ https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evoluti
 ## Hynek
 
 https://hynek.me/articles/ | Hynek’s Blog
-
-## Tools
-
-https://www.thestrangeloop.com/2021/tla-plus-conference.html
-https://c4model.com/ | The C4 model for visualising software architecture
-https://plantuml.com/ | Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.
-https://en.wikipedia.org/wiki/4%2B1_architectural_view_model | 4+1 architectural view model - Wikipedia
-https://en.wikipedia.org/wiki/C4_model | C4 model - Wikipedia
 
 ## Ruff, Pydantic, Rust
 
