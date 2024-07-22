@@ -157,6 +157,7 @@ https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - 
 
 Devs Need System Design Tools, Not Diagramming Tools
 https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/
+https://news.ycombinator.com/item?id=40977308
 
 https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 
