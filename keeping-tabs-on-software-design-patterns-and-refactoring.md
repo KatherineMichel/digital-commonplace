@@ -1,10 +1,100 @@
 # Software Design Patterns and Refactoring
 
 <!--
+## Python Patterns
+
+https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
+
+https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
+
+## Domain Driven Design and Event Sourcing
+
+Domain-Driven Design (DDD)
+* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
+* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
+
+Event Sourcing
+https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
+https://martinfowler.com/bliki/CQRS.html | CQRS
+https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
+
+## Patterns
+
+Gang of Four (GoF)
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
+
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+https://refactoring.guru/design-patterns/ | Design Patterns
+https://refactoring.guru/design-patterns/python
+
+## Uncle Bob
+
+* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
+
+https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
+
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
+
+## Martin Fowler
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/microservices/ | Microservices Guide
+
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
+
+https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
+https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
+https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
+https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
+https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
+https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
+https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
+https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
+
+https://martinfowler.com/articles/collection-pipeline/
+
+## Kent Beck
+
+https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
+-->
+
+<!--
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+
 ## Functional Programming
 
 https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
 https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
+
+
+## Beej
+
+https://beej.us/guide/ | Beej's Guides
+https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
+https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
+https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
+https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
+
+## Python Functionality
+
+Unix
+https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
+
+https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
+https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
+
+## Linux
+
+https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
 
 
 ## Programming Parallel Computers, Distributed Algorithms
@@ -96,118 +186,47 @@ https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 -->
 
+## Architectures at Scale
+
 <!--
-## Effective Python
+https://github.com/KatherineMichel/organizations
 
-Chapter 1: Pythonic Thinking
-Item 1: Know Which Version of Python You’re Using
-Item 2: Follow the PEP 8 Style Guide
-Item 3: Know the Differences Between bytes and str
-Item 4: Prefer Interpolated F-Strings Over C-style Format Strings and str.format
-Item 5: Write Helper Functions Instead of Complex Expressions
-Item 6: Prefer Multiple Assignment Unpacking Over Indexing
-Item 7: Prefer enumerate Over range
-Item 8: Use zip to Process Iterators in Parallel
-Item 9: Avoid else Blocks After for and while Loops
-Item 10: Prevent Repetition with Assignment Expressions
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
 
-Chapter 2: Lists and Dictionaries
-Item 11: Know How to Slice Sequences
-Item 12: Avoid Striding and Slicing in a Single Expression
-Item 13: Prefer Catch-All Unpacking Over Slicing
-Item 14: Sort by Complex Criteria Using the key Parameter
-Item 15: Be Cautious When Relying on dict Insertion Ordering
-Item 16: Prefer get Over in and KeyError to Handle Missing Dictionary Keys
-Item 17: Prefer defaultdict Over setdefault to Handle Missing Items in Internal State
-Item 18: Know How to Construct Key-Dependent Default Values with __missing__
+## High Scalability
 
-Chapters 3: Functions
-Item 19: Never Unpack More Than Three Variables When Functions Return Multiple Values
-Item 20: Prefer Raising Exceptions to Returning None
-Item 21: Know How Closures Interact with Variable Scope
-Item 22: Reduce Visual Noise with Variable Positional Arguments
-Item 23: Provide Optional Behavior with Keyword Arguments
-Item 24: Use None and Docstrings to Specify Dynamic Default Arguments
-Item 25: Enforce Clarity with Keyword-Only and Positional-Only Arguments
-Item 26: Define Function Decorators with functools.wraps
+https://highscalability.com/ | High Scalability
+https://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+http://highscalability.com/blog/category/example
 
-Chapter 4: Comprehensions and Generators
-Item 27: Use Comprehensions Instead of map and filter
-Item 28: Avoid More Than Two Control Subexpressions in Comprehensions
-Item 29: Avoid Repeated Work in Comprehensions by Using Assignment Expressions
-Item 30: Consider Generators Instead of Returning Lists
-Item 31: Be Defensive When Iterating Over Arguments
-Item 32: Consider Generator Expressions for Large List Comprehensions
-Item 33: Compose Multiple Generators with yield from
-Item 34: Avoid Injecting Data into Generators with send
-Item 35: Avoid Causing State Transitions in Generators with throw
-Item 36: Consider itertools for Working with Iterators and Generators
+https://wayback-api.archive.org/web/*/https://highscalability.com/* | Wayback Machine
+https://web.archive.org/web/sitemap/https://highscalability.com/ | Wayback Machine
+https://web.archive.org/web/20230127170451/http://highscalability.com/all-posts/ | All Posts -
 
-Chapter 5: Classes and Interfaces
-Item 37: Compose Classes Instead of Nesting Many Levels of Built-in Types
-Item 38: Accept Functions Instead of Classes for Simple Interfaces
-Item 39: Use @classmethod Polymorphism to Construct Objects Generically
-Item 40: Initialize Parent Classes with super
-Item 41: Consider Composing Functionality with Mix-in Classes
-Item 42: Prefer Public Attributes Over Private Ones
-Item 43: Inherit from collections.abc for Custom Container Types
+https://web.archive.org/web/sitemap/http://highscalability.com/ | Wayback Machine
+https://web.archive.org/web/*/http://highscalability.com/* | Wayback Machine
+https://web.archive.org/web/20190404035701/http://highscalability.com/blog/category/concurrency | High Scalability -
 
-Chapter 6: Metaclasses and Attributes
-Item 44: Use Plain Attributes Instead of Setter and Getter Methods
-Item 45: Consider @property Instead of Refactoring Attributes
-Item 46: Use Descriptors for Reusable @property Methods
-Item 47: Use __getattr__, __getattribute__, and __setattr__ for Lazy Attributes
-Item 48: Validate Subclasses with __init_subclass__
-Item 49: Register Class Existence with __init_subclass__
-Item 50: Annotate Class Attributes with __set_name__
-Item 51: Prefer Class Decorators Over Metaclasses for Composable Class Extensions
+https://web.archive.org/web/20240108211250/http://highscalability.com/all-time-favorites/ | All Time Favorites -
+https://web.archive.org/web/20240124013936/http://highscalability.com/blog/category/example | High Scalability -
+https://web.archive.org/web/20231128085042/http://highscalability.squarespace.com/blog/category/strategy | High Scalability -
 
-Chapter 7: Concurrency and Parallelism
-Item 52: Use subprocess to Manage Child Processes
-Item 53: Use Threads for Blocking I/O, Avoid for Parallelism
-Item 54: Use Lock to Prevent Data Races in Threads
-Item 55: Use Queue to Coordinate Work Between Threads
-Item 56: Know How to Recognize When Concurrency Is Necessary
-Item 57: Avoid Creating New Thread Instances for On-demand Fan-out
-Item 58: Understand How Using Queue for Concurrency Requires Refactoring
-Item 59: Consider ThreadPoolExecutor When Threads Are Necessary for Concurrency
-Item 60: Achieve Highly Concurrent I/O with Coroutines
-Item 61: Know How to Port Threaded I/O to asyncio
-Item 62: Mix Threads and Coroutines to Ease the Transition to asyncio
-Item 63: Avoid Blocking the asyncio Event Loop to Maximize Responsiveness
-Item 64: Consider concurrent.futures for True Parallelism
+https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | book-notes/high-scalability-notes.markdown at master · mgp/book-notes
 
-Chapter 8: Robustness and Performance
-Item 65: Take Advantage of Each Block in try/except /else/finally
-Item 66: Consider contextlib and with Statements for Reusable try/finally Behavior
-Item 67: Use datetime Instead of time for Local Clocks
-Item 68: Make pickle Reliable with copyreg
-Item 69: Use decimal When Precision Is Paramount
-Item 70: Profile Before Optimizing
-Item 71: Prefer deque for Producer–Consumer Queues
-Item 72: Consider Searching Sorted Sequences with bisect
-Item 73: Know How to Use heapq for Priority Queues
-Item 74: Consider memoryview and bytearray for Zero-Copy Interactions with bytes
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
+-->
 
-Chapter 9: Testing and Debugging
-Item 75: Use repr Strings for Debugging Output
-Item 76: Verify Related Behaviors in TestCase Subclasses
-Item 77: Isolate Tests from Each Other with setUp, tearDown, setUpModule, and tearDownModule
-Item 78: Use Mocks to Test Code with Complex Dependencies
-Item 79: Encapsulate Dependencies to Facilitate Mocking and Testing
-Item 80: Consider Interactive Debugging with pdb
-Item 81: Use tracemalloc to Understand Memory Usage and Leaks
+<!--
+## Architecture Notes
 
-Chapter 10: Collaboration
-Item 82: Know Where to Find Community-Built Modules
-Item 83: Use Virtual Environments for Isolated and Reproducible Dependencies
-Item 84: Write Docstrings for Every Function, Class, and Module
-Item 85: Use Packages to Organize Modules and Provide Stable APIs
-Item 86: Consider Module-Scoped Code to Configure Deployment Environments
-Item 87: Define a Root Exception to Insulate Callers from APIs
-Item 88: Know How to Break Circular Dependencies
-Item 89: Consider warnings to Refactor and Migrate Usage
-Item 90: Consider Static Analysis via typing to Obviate Bugs
+https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
+https://architecturenotes.co/s/newsletter
+
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+https://architecturenotes.co/redis/ | Redis Explained
+https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 -->
 
 <!--
@@ -299,12 +318,19 @@ Programming Paradigms
 * [Programming Paradigm Wikipedia](https://en.wikipedia.org/wiki/Programming_paradigm)
 * [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
 
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
 <!--
 * [Dynamic Programming Language Wikipedia](https://en.wikipedia.org/wiki/Dynamic_programming_language)
 -->
 
 <!--
-taxonomy of programming paradigms
+Taxonomy of Programming Paradigms
 https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
 
 Programming Paradigms for Dummies: What Every Programmer Should Know
@@ -315,6 +341,8 @@ state.
 Data abstraction Section 5 explains how to define new forms of data with their operations in a program. We show the four kinds of data abstractions: objects and abstract
 data types are the two most popular, but there exist two others, declarative objects and
 stateful abstract data types.
+
+http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
 -->
 
 ### von Neumann
@@ -335,7 +363,12 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 ## Protocols
 
 Network Communication Protocols Map
-https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg 
+https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+
+https://en.wikipedia.org/wiki/OSI_model
+
+https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 Internet protocol suite
 Application layer
