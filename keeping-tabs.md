@@ -3,6 +3,124 @@
 # Learning Resources
 
 <!--
+https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
+https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
+
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+## Testing
+
+https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
+
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+
+## GIL
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+## Profiling
+
+https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
+
+## TDD
+
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
+https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
+-->
+
+<!--
+## PySheets
+
+https://pysheets.app/ | PySheets - Spreadsheet UI for Python
+
+
+https://www.django-unicorn.com/ | Unicorn
+https://django-ninja.dev/ | Django Ninja
+
+
+## CPython
+
+https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
+https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
+https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
+https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
+https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
+
+
+## DEPs and PEPs, PRs
+
+https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
+
+https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
+
+https://github.com/capi-workgroup | capi-workgroup
+
+https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
+https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
+
+https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
+
+https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
+https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
+https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
+
+## Python Learning
+
+https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
+
+https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
+
+https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
+https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
+
+https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
+
+https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
+
+https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
+
+https://wsvincent.com/books/ | Books - Will Vincent
+https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
+
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+## Python Pulse and VS Code
+
+https://www.youtube.com/@code
+https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+-->
+
+<!--
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+-->
+
+
+<!--
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
+
 ## Engineering Management
 
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
@@ -16,99 +134,6 @@ https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/10981
 
 https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
 
-## The Pragmatic Engineer
-
-https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
-https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
-https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
-https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
-
-https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
-https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
-
-https://newsletter.pragmaticengineer.com/p/facebook
-
-## High Scalability
-
-https://highscalability.com/ | High Scalability
-https://highscalability.com/start-here/ | Start Here - High Scalability -
-
-https://wayback-api.archive.org/web/*/https://highscalability.com/* | Wayback Machine
-https://web.archive.org/web/sitemap/https://highscalability.com/ | Wayback Machine
-https://web.archive.org/web/20230127170451/http://highscalability.com/all-posts/ | All Posts -
-
-https://web.archive.org/web/sitemap/http://highscalability.com/ | Wayback Machine
-https://web.archive.org/web/*/http://highscalability.com/* | Wayback Machine
-https://web.archive.org/web/20190404035701/http://highscalability.com/blog/category/concurrency | High Scalability -
-
-https://web.archive.org/web/20240108211250/http://highscalability.com/all-time-favorites/ | All Time Favorites -
-https://web.archive.org/web/20240124013936/http://highscalability.com/blog/category/example | High Scalability -
-https://web.archive.org/web/20231128085042/http://highscalability.squarespace.com/blog/category/strategy | High Scalability -
-
-https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | book-notes/high-scalability-notes.markdown at master · mgp/book-notes
-
-## Architecture Notes
-
-https://architecturenotes.co/s/newsletter
-
-## Tech Articles to Read
-
-https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
-https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
-
-## LinkedIn Teachers
-
-Rocky Bhatia
-https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
-https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
-https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
-
-https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
-
-## Data Structures and Algos
-
-https://en.wikipedia.org/wiki/Algorithm | Algorithm - Wikipedia
-
-https://leetcode.com/ | LeetCode - The World's Leading Online Programming Learning Platform
-https://www.hackerrank.com/ | HackerRank - Online Coding Tests and Technical Interviews
-https://adventofcode.com/ | Advent of Code 2023
-
-https://www.algorist.com/languages/Python.html | Algorithm Repository
-https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
-https://github.com/opengenus/cosmos | OpenGenus/cosmos: World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
-
-https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
-https://the-algorithms.com/language/python | Python - The Algorithms
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
-
-https://en.wikipedia.org/wiki/List_of_data_structures | List of data structures - Wikipedia
-https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.12.4 documentation
-
-https://blog.algomaster.io/archive?sort=new | Archive - AlgoMaster Newsletter
-https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms | How I Mastered Data Structures and Algorithms
-
-https://web.archive.org/web/20140614141531/https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 | The real 10 algorithms that dominate our world — Medium
-
-https://realpython.com/sorting-algorithms-python/ | Sorting Algorithms in Python – Real Python
-
-https://en.wikipedia.org/wiki/List_of_algorithms | List of algorithms - Wikipedia
-https://en.wikipedia.org/wiki/List_of_algorithms#Database_algorithms | List of algorithms - Wikipedia
-https://en.wikipedia.org/wiki/List_of_algorithms#Distributed_systems_algorithms | List of algorithms - Wikipedia
-https://en.wikipedia.org/wiki/List_of_algorithms#Cryptography | List of algorithms - Wikipedia
-
-https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | Dijkstra's algorithm - Wikipedia
-
-## Patterns
-
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
-
-https://en.wikipedia.org/wiki/Software_architecture | Software architecture - Wikipedia
-https://en.wikipedia.org/wiki/Architectural_pattern | Architectural pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/The_Hillside_Group | The Hillside Group - Wikipedia
-https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Repository - Wikipedia
-
-https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
 
 
 ## Definitions
@@ -118,21 +143,12 @@ https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/ | https:/
 https://www.techopedia.com/definition/4389/wrapper-software-engineering | What is Wrapper? - Definition from Techopedia
 
 
-## SRE
-
-https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-
-
 
 https://kolo.app/ | Kolo for Django
 
 
 https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
 
-https://inventwithpython.com/blog/ | The Invent with Python Blog
-
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 
 ## Marketing
@@ -164,15 +180,6 @@ https://university.atlassian.com/student/catalog | Learn Jira, Confluence, Trell
 ## Ansible
 
 Net DevOps with Ansible on O'Reilly
-
-
-## Beej
-
-https://beej.us/guide/ | Beej's Guides
-https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
-https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
-https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
-https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 
 
 ## Sites
@@ -212,23 +219,6 @@ https://github.com/practical-tutorials/project-based-learning | practical-tutori
 https://github.com/codecrafters-io/build-your-own-x | codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.
 
 
-
-## JetBrains
-
-https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
-https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-## Python Pulse and VS Code
-
-https://www.youtube.com/@code
-https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-
 ## Person
 
 https://veldakiara.substack.com
@@ -254,14 +244,6 @@ https://github.com/kuchin/awesome-cto#technologies | kuchin/awesome-cto: A curat
 
 APIs
 https://github.com/public-apis/public-apis | public-apis/public-apis: A collective list of free APIs
-
-## Programming Parallel Computers, Distributed Algorithms
-
-https://ppc.cs.aalto.fi/
-https://jukkasuomela.fi/da2020/
-https://mycourses.aalto.fi/course/view.php?id=41048
-https://jukkasuomela.fi/da2020/da2020.pdf
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
 
 
 ## Learning
@@ -293,78 +275,105 @@ https://btn.dev/ | Button — A simpler deployment story
 https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X: "Still comes in handy sometimes https://t.co/pCJRgQ01ui" / X
 
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
-
-
-## PySheets
-
-https://pysheets.app/ | PySheets - Spreadsheet UI for Python
-
-
-https://www.django-unicorn.com/ | Unicorn
-https://django-ninja.dev/ | Django Ninja
-
-
-
-https://access.redhat.com/support/policy/updates/errata
-
-
-
-https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
-
-## Local Tools
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://www.gnu.org/software/bash/manual/bash.html
-
-
-## Regex
-
-https://regexcrossword.com/ | Regex Crossword
-
-## Git
-
-https://git-scm.com/doc | Git - Documentation
-
-https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
-
-## HTTP/3 and QUIC
-
-https://en.wikipedia.org/wiki/QUIC
-https://en.wikipedia.org/wiki/HTTP/3
-
-https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
-https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
-
-## Linux
-
-https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
-
-## RISC-V
-
-https://riscv.org/
-
-
-## GitHub Artifact Attestation
-
-https://github.blog/changelog/2024-05-02-artifact-attestations-public-beta/ | Artifact Attestations public beta - The GitHub Blog
-https://www.ianlewis.org/en/understanding-github-artifact-attestations | Understanding GitHub Artifact Attestations | Ian Lewis
 -->
 
 <!--
-## Python and Django
+## John Cutler
 
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
 
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+
+## Tech Articles to Read
+
+https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
+https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
+
+## LinkedIn Teachers
+
+Rocky Bhatia
+https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
+https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
+
+
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
+
+## Ryan Peterman
+
+https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
+
+https://read.developing.dev/ | The Developing Dev by Ryan Peterman
+https://twitter.com/ryanlpeterman/
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
+
+## Engineering Templates
+
+https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
+https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
+https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
+https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
+https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
+https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
+https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
+
+
+## The Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
+https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
+
+https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
+https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
+https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
+https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
+
+https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
+
+https://newsletter.pragmaticengineer.com/p/facebook
+
+## Engineering
+
+Cal Paterson
+https://calpaterson.com
 
 
 
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+## System Design
 
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
+https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+
+Cheat Sheets
+https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
 -->
-
 
 <!--
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
@@ -814,9 +823,6 @@ Driven Development
 
 ## DevOps, SRE, and Incidents
 
-SRE
-https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
-
 https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
 
 https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
@@ -832,9 +838,6 @@ https://incident.io/guide/ | Incident Management Guide
 
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-
 ## SRE
 
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
@@ -847,17 +850,14 @@ https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engin
 https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
 
+https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
+
+https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
+
 
 ## Interesting
 
 What Happens When
-
-Network communication protocols
-https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg
-https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/OSI_model
 
 High Performance Browser Networking
 * [High Performance Browser Networking](https://hpbn.co)
@@ -911,211 +911,6 @@ https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopulari
 GitHub Star History Graph 
 https://twitter.com/newsycombinator/status/1530625174114078721
 -->
-
-
-<!--
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-
-## John Cutler
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
-
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
-
-
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
-
-## Ryan Peterman
-
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
-https://read.developing.dev/ | The Developing Dev by Ryan Peterman
-https://twitter.com/ryanlpeterman/
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
-https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
-
-## Engineering Templates
-
-https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
-https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
-https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
-https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
-https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
-https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
-https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
-
-
-## Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
-https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
-
-## Engineering
-
-Cal Paterson
-https://calpaterson.com
-
-
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
-
-## LinkedIn Learning Aids
-
-https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
-https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
-
-
-## System Design
-
-https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
-https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
-
-Cheat Sheets
-https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
-
-https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
-
-https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
-
-
-
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
--->
-
-<!--
-## Architectures at Scale
-
-https://github.com/KatherineMichel/organizations
-
-https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
-
-http://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
-
-High Scalability
-http://highscalability.com/blog/category/example
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
-
-
-
-## Paradigms
-
-http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
-
-Programming Paradigms
-* [Comparison of Programming Paradigms Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_paradigms)
-
-taxonomy of programming paradigms
-https://www.info.ucl.ac.be/~pvr/paradigmsDIAGRAMeng108.jpg
-
-Programming Paradigms for Dummies: What Every Programmer Should Know
-https://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf | VanRoyChapter.pdf
-
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
--->
-
-<!--
-## Python Patterns
-
-https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-
-https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
-
-## Domain Driven Design and Event Sourcing
-
-Domain-Driven Design (DDD)
-* [Domain Driven Design Wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
-* [Domain Model Wikipedia](https://en.wikipedia.org/wiki/Domain_model)
-* [Event Storming Wikipedia](https://en.wikipedia.org/wiki/Event_storming)
-
-Event Sourcing
-https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
-https://martinfowler.com/bliki/CQRS.html | CQRS
-https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
-
-## Patterns
-
-Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://refactoring.guru/design-patterns/ | Design Patterns
-https://refactoring.guru/design-patterns/python
-
-## Uncle Bob
-
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
-
-https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
-
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
-
-## Martin Fowler
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/microservices/ | Microservices Guide
-
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
-https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
-https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
-https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
-https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
-https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
-https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
-https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
-
-https://martinfowler.com/articles/collection-pipeline/
-
-## Kent Beck
-
-https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
-
-## Architecture Notes
-
-https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-https://architecturenotes.co/redis/ | Redis Explained
-https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
--->
-
 
 <!--
 Books
@@ -1191,22 +986,48 @@ https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052
 -->
 
 
+
+<!-
+## Data Structures and Algos
+
+https://en.wikipedia.org/wiki/Algorithm | Algorithm - Wikipedia
+
+Algos by category
+https://www.linkedin.com/pulse/list-algorithms-computer-programming-pranam-bhat/
+
+https://www.algorist.com/languages/Python.html | Algorithm Repository
+https://xlinux.nist.gov/dads/ | Dictionary of Algorithms and Data Structures
+https://github.com/opengenus/cosmos | OpenGenus/cosmos: World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+
+https://github.com/faif/python-patterns | faif/python-patterns: A collection of design patterns/idioms in Python
+https://the-algorithms.com/language/python | Python - The Algorithms
+https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
+
+https://en.wikipedia.org/wiki/List_of_data_structures | List of data structures - Wikipedia
+https://docs.python.org/3/tutorial/datastructures.html | 5. Data Structures — Python 3.12.4 documentation
+
+https://blog.algomaster.io/archive?sort=new | Archive - AlgoMaster Newsletter
+https://blog.algomaster.io/p/how-i-mastered-data-structures-and-algorithms | How I Mastered Data Structures and Algorithms
+
+https://web.archive.org/web/20140614141531/https://medium.com/@_marcos_otero/the-real-10-algorithms-that-dominate-our-world-e95fa9f16c04 | The real 10 algorithms that dominate our world — Medium
+
+https://realpython.com/sorting-algorithms-python/ | Sorting Algorithms in Python – Real Python
+
+https://en.wikipedia.org/wiki/List_of_algorithms | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms#Database_algorithms | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms#Distributed_systems_algorithms | List of algorithms - Wikipedia
+https://en.wikipedia.org/wiki/List_of_algorithms#Cryptography | List of algorithms - Wikipedia
+-->
+
 <!--
-## Advent of Code
-
-https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
-
 ## Problem Solving
 
 https://en.wikipedia.org/wiki/Quicksort | Quicksort - Wikipedia
-https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm | Dijkstra's algorithm - Wikipedia
 
 ## Data Structures and Algos
 
-https://github.com/TheAlgorithms/Python | TheAlgorithms/Python: All Algorithms implemented in Python
 https://github.com/armankhondker/best-leetcode-resources
-
-https://frontendmasters.com/courses/algorithms/ | Algorithms & Data Structures | Learn Algorithms with TypeScript for Interviews | Frontend Masters
 
 https://www.amazon.com/gp/product/0262033844/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0262033844&linkCode=as2&tag=kirkdborne-20&linkId=913847e322d7708c6a1ee74cc87ce1be | Introduction to Algorithms, 3rd Edition (Mit Press): Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L, Stein, Clifford: 9780262033848: Amazon.com: Books
 
@@ -1241,6 +1062,9 @@ Practice
 
 ## Algorithms
 
+https://adventofcode.com/ | Advent of Code 2023
+https://adventofcode.com/2023/day/5 | Day 5 - Advent of Code 2023
+
 https://neetcode.io/practice | Practice
 https://www.youtube.com/c/NeetCode/playlists | NeetCode - YouTube
 https://github.com/neetcode-gh/leetcode | neetcode-gh/leetcode: Leetcode solutions
@@ -1251,6 +1075,8 @@ https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/ | Graph Data 
 ## Problem Solving Methods
 
 <!--
+https://blog.algomaster.io/p/15-leetcode-pattern
+https://www.linkedin.com/posts/ashishps1_i-solved-1583-leetcode-problems-but-if-activity-7184412875266908160-74aa/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 https://www.linkedin.com/posts/ashishps1_7-leetcode-articles-i-wish-id-read-sooner-activity-7067002527166181377-xoG5/?utm_source=share&utm_medium=member_desktop | (4) Post | LinkedIn
 
 7 Leetcode articles I wish I’d read sooner.
@@ -1282,7 +1108,12 @@ https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 Adam Johnson
 Andrew Godwin
 Anthony Sottile
+
 Brett Cannon
+https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
+https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
+https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+
 Carlton Gibson
 Carol Willing
 Ee Durbin
@@ -1378,11 +1209,11 @@ https://github.com/search?o=desc&s=committer-date&type=Commits&q=author:pganssle
 -->
 
 <!--
-https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
-https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
-https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
-
 https://www.youtube.com/watch?v=_3oGI4RC52s&list=PLY_che_OEsX1zAKvPTW5MnHEAihc8aLeF&index=19 | (5) DjangoCon Europe 2023 | Yak-shaving to Where the Puck is Going to Be. - YouTube
+
+## Hynek
+
+https://hynek.me/articles/ | Hynek’s Blog
 
 ## Simon's Talk
 
@@ -1390,6 +1221,22 @@ https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massi
 
 https://simonwillison.net/2020/Feb/11/cheating-at-unit-tests-pytest-black/ | How to cheat at unit tests with pytest and Black
 https://simonwillison.net/2022/Jan/12/how-i-build-a-feature/ | How I build a feature
+
+## Luke- Django Repository Pattern
+
+https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
+https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / X
+
+## Sheena
+
+https://www.sheenaoc.com/articles/emails/2024-07-03-newsletter
+https://x.com/sheena_oconnell/status/1807448776832880877 | Sheena O'Connell on X: "Here's an article about an experience I had with HTMX. A lot of people have had positive experiences. The main thing that blows me away is the productivity boost it gives to even the most junior dev team member: https://t.co/gBNhopkKvC #htmx #Django #WebDev #softwaredevelopment" / X
+https://www.sheenaoc.com/articles/2024-06-30-htmx?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_240 | An HTMX success story
+
+## Chris May
+
+https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
+https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
 
 ## Julie
 
@@ -1426,16 +1273,7 @@ Jeremy- Install and Use Python the Right Way
 https://twitter.com/jeremyphoward/status/1550897933196767232 | Jeremy Howard on Twitter: "I've just published over 20 hours of tutorials and live coding showing how to: install python the right way; set up a terminal; write shell scripts; use vim; use a remote Jupyter server; use git, github, tmux, and ssh; use the python debugger; and more! 🧵 https://t.co/7ypufNXdMS" / Twitter
 -->
 
-
 <!--
-## Talks
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/
-
-Chris May
-https://github.com/PyHAT-stack/awesome-python-htmx | PyHAT-stack/awesome-python-htmx: A curated list of things related to python-based web development using htmx
-https://training.talkpython.fm/courses/htmx-django-modern-python-web-apps-hold-the-javascript | HTMX + Django: Modern Python Web Apps, Hold the JavaScript Online Course - [Talk Python Training]
-
 ## Projects and Code
 
 Miguel Grinberg
@@ -1448,6 +1286,120 @@ https://www.twilio.com/blog/author/sagnew
 Flask
 https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More To Talk About Flask - miguelgrinberg.com
 https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
+-->
+
+<!--
+## Effective Python
+
+Chapter 1: Pythonic Thinking
+Item 1: Know Which Version of Python You’re Using
+Item 2: Follow the PEP 8 Style Guide
+Item 3: Know the Differences Between bytes and str
+Item 4: Prefer Interpolated F-Strings Over C-style Format Strings and str.format
+Item 5: Write Helper Functions Instead of Complex Expressions
+Item 6: Prefer Multiple Assignment Unpacking Over Indexing
+Item 7: Prefer enumerate Over range
+Item 8: Use zip to Process Iterators in Parallel
+Item 9: Avoid else Blocks After for and while Loops
+Item 10: Prevent Repetition with Assignment Expressions
+
+Chapter 2: Lists and Dictionaries
+Item 11: Know How to Slice Sequences
+Item 12: Avoid Striding and Slicing in a Single Expression
+Item 13: Prefer Catch-All Unpacking Over Slicing
+Item 14: Sort by Complex Criteria Using the key Parameter
+Item 15: Be Cautious When Relying on dict Insertion Ordering
+Item 16: Prefer get Over in and KeyError to Handle Missing Dictionary Keys
+Item 17: Prefer defaultdict Over setdefault to Handle Missing Items in Internal State
+Item 18: Know How to Construct Key-Dependent Default Values with __missing__
+
+Chapters 3: Functions
+Item 19: Never Unpack More Than Three Variables When Functions Return Multiple Values
+Item 20: Prefer Raising Exceptions to Returning None
+Item 21: Know How Closures Interact with Variable Scope
+Item 22: Reduce Visual Noise with Variable Positional Arguments
+Item 23: Provide Optional Behavior with Keyword Arguments
+Item 24: Use None and Docstrings to Specify Dynamic Default Arguments
+Item 25: Enforce Clarity with Keyword-Only and Positional-Only Arguments
+Item 26: Define Function Decorators with functools.wraps
+
+Chapter 4: Comprehensions and Generators
+Item 27: Use Comprehensions Instead of map and filter
+Item 28: Avoid More Than Two Control Subexpressions in Comprehensions
+Item 29: Avoid Repeated Work in Comprehensions by Using Assignment Expressions
+Item 30: Consider Generators Instead of Returning Lists
+Item 31: Be Defensive When Iterating Over Arguments
+Item 32: Consider Generator Expressions for Large List Comprehensions
+Item 33: Compose Multiple Generators with yield from
+Item 34: Avoid Injecting Data into Generators with send
+Item 35: Avoid Causing State Transitions in Generators with throw
+Item 36: Consider itertools for Working with Iterators and Generators
+
+Chapter 5: Classes and Interfaces
+Item 37: Compose Classes Instead of Nesting Many Levels of Built-in Types
+Item 38: Accept Functions Instead of Classes for Simple Interfaces
+Item 39: Use @classmethod Polymorphism to Construct Objects Generically
+Item 40: Initialize Parent Classes with super
+Item 41: Consider Composing Functionality with Mix-in Classes
+Item 42: Prefer Public Attributes Over Private Ones
+Item 43: Inherit from collections.abc for Custom Container Types
+
+Chapter 6: Metaclasses and Attributes
+Item 44: Use Plain Attributes Instead of Setter and Getter Methods
+Item 45: Consider @property Instead of Refactoring Attributes
+Item 46: Use Descriptors for Reusable @property Methods
+Item 47: Use __getattr__, __getattribute__, and __setattr__ for Lazy Attributes
+Item 48: Validate Subclasses with __init_subclass__
+Item 49: Register Class Existence with __init_subclass__
+Item 50: Annotate Class Attributes with __set_name__
+Item 51: Prefer Class Decorators Over Metaclasses for Composable Class Extensions
+
+Chapter 7: Concurrency and Parallelism
+Item 52: Use subprocess to Manage Child Processes
+Item 53: Use Threads for Blocking I/O, Avoid for Parallelism
+Item 54: Use Lock to Prevent Data Races in Threads
+Item 55: Use Queue to Coordinate Work Between Threads
+Item 56: Know How to Recognize When Concurrency Is Necessary
+Item 57: Avoid Creating New Thread Instances for On-demand Fan-out
+Item 58: Understand How Using Queue for Concurrency Requires Refactoring
+Item 59: Consider ThreadPoolExecutor When Threads Are Necessary for Concurrency
+Item 60: Achieve Highly Concurrent I/O with Coroutines
+Item 61: Know How to Port Threaded I/O to asyncio
+Item 62: Mix Threads and Coroutines to Ease the Transition to asyncio
+Item 63: Avoid Blocking the asyncio Event Loop to Maximize Responsiveness
+Item 64: Consider concurrent.futures for True Parallelism
+
+Chapter 8: Robustness and Performance
+Item 65: Take Advantage of Each Block in try/except /else/finally
+Item 66: Consider contextlib and with Statements for Reusable try/finally Behavior
+Item 67: Use datetime Instead of time for Local Clocks
+Item 68: Make pickle Reliable with copyreg
+Item 69: Use decimal When Precision Is Paramount
+Item 70: Profile Before Optimizing
+Item 71: Prefer deque for Producer–Consumer Queues
+Item 72: Consider Searching Sorted Sequences with bisect
+Item 73: Know How to Use heapq for Priority Queues
+Item 74: Consider memoryview and bytearray for Zero-Copy Interactions with bytes
+
+Chapter 9: Testing and Debugging
+Item 75: Use repr Strings for Debugging Output
+Item 76: Verify Related Behaviors in TestCase Subclasses
+Item 77: Isolate Tests from Each Other with setUp, tearDown, setUpModule, and tearDownModule
+Item 78: Use Mocks to Test Code with Complex Dependencies
+Item 79: Encapsulate Dependencies to Facilitate Mocking and Testing
+Item 80: Consider Interactive Debugging with pdb
+Item 81: Use tracemalloc to Understand Memory Usage and Leaks
+
+Chapter 10: Collaboration
+Item 82: Know Where to Find Community-Built Modules
+Item 83: Use Virtual Environments for Isolated and Reproducible Dependencies
+Item 84: Write Docstrings for Every Function, Class, and Module
+Item 85: Use Packages to Organize Modules and Provide Stable APIs
+Item 86: Consider Module-Scoped Code to Configure Deployment Environments
+Item 87: Define a Root Exception to Insulate Callers from APIs
+Item 88: Know How to Break Circular Dependencies
+Item 89: Consider warnings to Refactor and Migrate Usage
+Item 90: Consider Static Analysis via typing to Obviate Bugs
 -->
 
 ## Python Articles and Tutorials
@@ -1523,25 +1475,6 @@ https://mherman.org/presentations/test-driven-writing/#1
 https://www.crowdcast.io/e/learning
 -->
 
-<!--
-## GIL
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-## Profiling
-
-https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
-
-## TDD
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
-https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
-
-https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
--->
-
 
 ## Python Learning Resources
 
@@ -1562,6 +1495,7 @@ https://www.mattlayman.com/understand-django/templates-user-interfaces/
 Al
 https://alsweigart.com/ | Al Sweigart's Website
 https://inventwithpython.com/ | Invent with Python
+https://inventwithpython.com/blog/ | The Invent with Python Blog
 
 https://inventwithpython.com/pythongently/ | Python Programming Exercises, Gently Explained
 
@@ -1727,174 +1661,6 @@ https://djangochat.com
 https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
 -->
 
-<!--
-## CPython
-
-https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
-https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
-https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
-https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
-https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
-
-## PSF
-
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
-https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Security Developer-in-Residence
-https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline | Regex character “$” doesn't mean “end-of-string”
-https://openssf.org/blog/2024/06/18/know-your-regular-expressions-securing-input-validation-across-languages/ | Know Your Regular Expressions: Securing Input Validation Across Languages – Open Source Security Foundation
-
-## DEPs and PEPs, PRs
-
-https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
-
-https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
-
-https://github.com/capi-workgroup | capi-workgroup
-
-https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
-https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
-
-https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
-
-https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
-https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
-https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
-
-## Python Learning
-
-https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
-
-https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
-
-https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
-https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
-
-https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
-
-https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
-
-https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
-
-https://wsvincent.com/books/ | Books - Will Vincent
-https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
-
-## Python, Quant, Finance
-
-https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
-https://calpaterson.com/bank-python.html | An oral history of Bank Python
-https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
-https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
-https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
-https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
-https://github.com/hsbc | HSBC
-
-## Newsletters
-
-https://django-news.com/
-https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
-
-## New Releases
-
-https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b2 documentation
-https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
-
-## Anthony Shaw
-
-https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
-https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
-
-## Threads and Multi processing
-
-https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
-
-## More
-
-Unix
-https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
-
-https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
-https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
-
-## JiT
-
-https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
-
-https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
-https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
-
-https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
-https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
-https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
-https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
-https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
-https://llvm.org/ | The LLVM Compiler Infrastructure Project
-
-## Sheena
-
-https://www.sheenaoc.com/articles/emails/2024-07-03-newsletter
-https://x.com/sheena_oconnell/status/1807448776832880877 | Sheena O'Connell on X: "Here's an article about an experience I had with HTMX. A lot of people have had positive experiences. The main thing that blows me away is the productivity boost it gives to even the most junior dev team member: https://t.co/gBNhopkKvC #htmx #Django #WebDev #softwaredevelopment" / X
-https://www.sheenaoc.com/articles/2024-06-30-htmx?utm_campaign=Django%2BNewsletter&utm_medium=email&utm_source=Django_Newsletter_240 | An HTMX success story
-
-## Simon- Productivity
-
-https://2022.djangocon.us/talks/massively-increase-your-productivity-on/ | Massively increase your productivity on personal projects with comprehensive documentation and automated tests | DjangoCon US
-
-## Luke- Django Repository Pattern
-
-https://lukeplant.me.uk/blog/posts/evolution-of-a-django-repository-pattern/ | Evolution of a Django Repository pattern - lukeplant.me.uk
-https://x.com/spookylukey/status/1329838115310227460 | Luke Plant on X: "Evolution of a "repository pattern" in Django: https://t.co/ixKGSyTPb7" / X
-
-## Hynek
-
-https://hynek.me/articles/ | Hynek’s Blog
-
-## Ruff, Pydantic, Rust
-
-https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
-https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
-https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
-
-https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
-https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
-
-https://www.rust-lang.org/ | Rust Programming Language
-https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
-https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
-
-
-## Time
-
-https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
-https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
-## Testing
-
-https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
-https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
-
-https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
-https://docs.pytest.org/en/8.2.x/ | pytest: helps you write better programs - pytest documentation
-https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
-https://testing.googleblog.com/ | Google Testing Blog
-
-## Numpy Release
-
-https://blog.scientific-python.org/numpy/numpy2/ | Blog - NumPy 2.0: an evolutionary milestone
-
-## Pallets
-
-https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
--->
-
 ## Python Unofficial News and Projects
 
 Django News
@@ -1903,10 +1669,11 @@ Django News
 * [Bas Codes](https://bas.codes/)
 
 <!--
+https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
+
 https://www.bitecode.dev/ | Bite code! | Substack
 https://substack.com/@bitecode | Bite Code! | Substack
 
-https://twitter.com/djangonewsbot/
 https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
 -->
 
@@ -2097,6 +1864,8 @@ https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1
 <!--
 ## Django New Release
 
+https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
+
 Django 5.0
 https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
 https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
@@ -2251,12 +2020,21 @@ Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
 
 
-## Seth
+## Seth Michael Larson
 
-Weekly Reports
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
+https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
+https://sethmlarson.dev/ | Seth Michael Larson
+https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Security Developer-in-Residence
+
+https://openssf.org/blog/2023/11/27/openssf-introduces-guide-to-becoming-a-cve-numbering-authority-as-an-open-source-project/ | OpenSSF introduces guide to becoming a CVE Numbering Authority as an Open Source project – Open Source Security Foundation
+https://www.cve.org/Media/News/item/news/2023/08/29/Python-Software-Foundation-Added-as-CNA | NewsItem | CVE
+
+https://sethmlarson.dev/regex-$-matches-end-of-string-or-newline | Regex character “$” doesn't mean “end-of-string”
+https://openssf.org/blog/2024/06/18/know-your-regular-expressions-securing-input-validation-across-languages/ | Know Your Regular Expressions: Securing Input Validation Across Languages – Open Source Security Foundation
 
 SBOM
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-28 | CPython 3.12.2 is SBOM-ified!
+https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html | Python Software Foundation News: Software Bill-of-Materials documents are now available for CPython
 https://gist.github.com/sethmlarson/103891c6cac4d41b11daab89e6c84868 | WIP CPython source SBOM
 https://sethmlarson.dev/security-developer-in-residence-weekly-report-12 | Starting on Software Bill-of-Materials (SBOM) for CPython
 https://cyclonedx.org/guides/sbom/OWASP_CycloneDX-SBOM-Guide-en.pdf | Authoritative Guide to SBOM
@@ -2266,18 +2044,17 @@ https://discuss.python.org/t/create-and-distribute-software-bill-of-materials-sb
 https://thenewstack.io/pythons-new-security-developer-has-plans-to-secure-the-language/ | Python's New Security Developer Has Plans to Secure the Language - The New Stack
 https://blog.pypi.org/posts/2023-11-14-1-pypi-completes-first-security-audit/ | PyPI has completed its first security audit - The Python Package Index
 
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-26 | Releases on the Python Package Index are never “done”
+
 https://sethmlarson.dev/urllib3-is-fundraising-for-http2-support | urllib3 is fundraising for HTTP/2 support
 
 https://training.linuxfoundation.org/express-learning/automating-supply-chain-security-sboms-and-signatures-lfel1007/ | Automating Supply Chain Security: SBOMs and Signatures Training Course | Linux Foundation
 
-## Seth Michael Larson
 
-https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
-https://sethmlarson.dev/ | Seth Michael Larson
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-28 | CPython 3.12.2 is SBOM-ified!
-https://pyfound.blogspot.com/2024/02/software-bill-of-materials-now-available-for-cpython.html | Python Software Foundation News: Software Bill-of-Materials documents are now available for CPython
-https://openssf.org/blog/2023/11/27/openssf-introduces-guide-to-becoming-a-cve-numbering-authority-as-an-open-source-project/ | OpenSSF introduces guide to becoming a CVE Numbering Authority as an Open Source project – Open Source Security Foundation
-https://www.cve.org/Media/News/item/news/2023/08/29/Python-Software-Foundation-Added-as-CNA | NewsItem | CVE
+## GitHub Artifact Attestation
+
+https://github.blog/changelog/2024-05-02-artifact-attestations-public-beta/ | Artifact Attestations public beta - The GitHub Blog
+https://www.ianlewis.org/en/understanding-github-artifact-attestations | Understanding GitHub Artifact Attestations | Ian Lewis
 
 
 ## Python Packaging
@@ -2293,37 +2070,48 @@ Top 5
 https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
 
 
-## Anthony
+## Sub-interpreters
 
-https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
+https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
 
 ## JiT
 
+https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
+https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
+
+https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
+https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
+https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
+https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
+https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
+https://llvm.org/ | The LLVM Compiler Infrastructure Project
+
+## Anthony Shaw
+
 https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
 
-https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
 https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
 https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
 https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
+
+https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
+https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
+
+https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
+
+## Threads and Multi processing
+
+https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
 
 
 ## Free-threaded example
 
 https://x.com/HenrySchreiner3/status/1796748354736505101 | Henry Schreiner III on X: "I released scikit-build-core 0.9.5, which supports free-threaded Python 3.13 on Windows now too! Added a free threaded example using cibuildwheel to the sample repo. https://t.co/NFsbzTMdnM" / X
-
-
-## Rust
-
-https://timclicks.dev/ | timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
-https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust | Writing and publishing a Python module in Rust
-
-## Astral
-
-https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
-https://astral.sh/blog/the-ruff-formatter | The Ruff Formatter: An extremely fast, Black-compatible Python formatter
-https://astral.sh/blog/uv | uv: Python packaging in Rust
-https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
-https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
 
 
 ## Fix Python
@@ -2353,20 +2141,42 @@ https://fly.io/django-beats/asgi-deployment-options-for-django/ | ASGI deploymen
 
 ## Python and Rust
 
+https://www.rust-lang.org/ | Rust Programming Language
+
 https://opensource.com/article/23/3/python-loves-rust | Why you should use Python and Rust together | Opensource.com
 
 https://www.rust-lang.org/learn/get-started | Getting started - Rust Programming Language
 
+https://timclicks.dev/ | timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
+https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust | Writing and publishing a Python module in Rust
+
+## Astral
+
+https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
+https://astral.sh/blog/the-ruff-formatter | The Ruff Formatter: An extremely fast, Black-compatible Python formatter
+https://astral.sh/blog/uv | uv: Python packaging in Rust
+https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
+https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
+https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
+https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
+https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
+
 ## Py03
 
-https://pyo3.rs/v0.21.2/ | Introduction - PyO3 user guide
+https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
 https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
+
+## PyOxidizer
+
+https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
 
 ## Pydantic
 
 https://blog.pydantic.dev/blog
 https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
 https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
+https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
+https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
 
 Towncrier
 https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
@@ -2376,6 +2186,14 @@ https://github.com/twisted/towncrier | twisted/towncrier: Manage the release not
 
 https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
 
+
+## Pallets
+
+https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
+
+## Numpy Release
+
+https://blog.scientific-python.org/numpy/numpy2/ | Blog - NumPy 2.0: an evolutionary milestone
 
 ## Anaconda and Quansight
 
@@ -2391,9 +2209,12 @@ https://labs.quansight.org/ | Home Page | Labs
 https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 
 
-## Finance
+## Python, Quant, Finance
+
+https://github.com/hsbc | HSBC
 
 https://twitter.com/pyquantnews/
+https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
 
 Bank Python
 https://calpaterson.com/bank-python.html
@@ -2411,6 +2232,13 @@ https://github.com/bloomberg/memray/
 https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
 https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
 https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+
+## Goldman Sachs
+
+https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
+https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
+https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
+https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
 -->
 
 
@@ -2484,6 +2312,13 @@ https://github.com/djangonaut-space/program/blob/main/README.md | program/README
 https://www.youtube.com/@Djangonaut-Views | (66) Djangonaut Views - YouTube
 -->
 
+<!--
+## Time
+
+https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
+https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+-->
 
 ## Python and Django Testing
 
@@ -2511,6 +2346,21 @@ https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987
 https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | DjangoCon US
 
 https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
+
+https://testing.googleblog.com/ | Google Testing Blog
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
+https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
+
+https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
+
+https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
 
 https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
@@ -2520,16 +2370,9 @@ https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPa
 https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
 https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
 
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
-
-https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
-
-https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
-https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
-
 ## Canon TDD
+
+https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
 
 https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
 https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
@@ -3091,6 +2934,35 @@ https://blog.acolyer.org/2020/09/21/watchman/
 https://prometheus.io/
 
 https://www.cloudfoundry.org/ | Cloud Foundry – Open Source Cloud Native Application Delivery
+-->
+
+
+<!--
+https://access.redhat.com/support/policy/updates/errata
+
+
+## JetBrains
+
+https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
+https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
+
+
+## Local Tools
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://www.gnu.org/software/bash/manual/bash.html
+
+
+## Regex
+
+https://regexcrossword.com/ | Regex Crossword
+
+## Git
+
+https://git-scm.com/doc | Git - Documentation
+
+https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
 -->
 
 
