@@ -7,6 +7,10 @@ https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_fro
 https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
 
 
+How Linux Works
+https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
+
+
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 
 ## Testing
