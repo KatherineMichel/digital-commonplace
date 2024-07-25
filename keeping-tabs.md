@@ -7,6 +7,9 @@ https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_fro
 https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
 
 
+Django User Model
+https://fosstodon.org/@wsvincent/112779327176673546
+
 How Linux Works
 https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
 
