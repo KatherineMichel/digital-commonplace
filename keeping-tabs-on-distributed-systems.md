@@ -66,137 +66,110 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/ | Patterns of
 https://www.compileralchemy.com/blog/praise-for-patterns-of-distributed-computing/ | Praise for Patterns of Distributed Computing
 https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature/dp/0138221987/ref=asc_df_0138221987/?tag=hyprod-20&linkCode=df0&hvadid=693617400601&hvpos=&hvnetw=g&hvrand=1540816189329461302&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9024386&hvtargid=pla-2087849617622&psc=1&mcid=070f6a23df7b35429086d7aacabf3e13&gad_source=1 | Patterns of Distributed Systems (Addison-Wesley Signature Series (Fowler)): Joshi, Unmesh: 9780138221980: Amazon.com: Books
 
-Gossip Dissemination
+[Gossip Dissemination](https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html)
 Use a random selection of nodes to pass on information to ensure it reaches all the nodes in the cluster without flooding the network
-https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html
 
-HeartBeat
+[HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
 Show a server is available by periodically sending a message to all the other servers.
-https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html
 
-Lease
+[Lease](https://martinfowler.com/articles/patterns-of-distributed-systems/lease.html)
 Use time-bound leases for cluster nodes to coordinate their activities.
-https://martinfowler.com/articles/patterns-of-distributed-systems/lease.html
 
 
 ## Clock
 
-Clock-Bound Wait
+[Clock-Bound Wait](https://martinfowler.com/articles/patterns-of-distributed-systems/clock-bound-wait.html)
 Wait to cover the uncertainty in time across cluster nodes before reading and writing values so that values can be correctly ordered across cluster nodes.
-https://martinfowler.com/articles/patterns-of-distributed-systems/clock-bound-wait.html
 
-Generation Clock
+[Generation Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/generation-clock.html)
 A monotonically increasing number indicating the generation of the server.
-https://martinfowler.com/articles/patterns-of-distributed-systems/generation-clock.html
 
-Hybrid Clock
+[Hybrid Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html)
 Use a combination of system timestamp and logical timestamp to have versions as date and time, which can be ordered
-https://martinfowler.com/articles/patterns-of-distributed-systems/hybrid-clock.html
 
-Lamport Clock
+[Lamport Clock](https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html)
 Use logical timestamps as a version for a value to allow ordering of values across servers
-https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
 
 ## Consistency, Election, Quorum, Consensus Algorithm
 
-Consistent Core
+[Consistent Core](https://martinfowler.com/articles/patterns-of-distributed-systems/consistent-core.html)
 Maintain a smaller cluster providing stronger consistency to allow the large data cluster to coordinate server activities without implementing quorum-based algorithms.
-https://martinfowler.com/articles/patterns-of-distributed-systems/consistent-core.html
 
-Emergent Leader
+[Emergent Leader](https://martinfowler.com/articles/patterns-of-distributed-systems/emergent-leader.html)
 Order cluster nodes based on their age within the cluster to allow nodes to select a leader without running an explicit election.
-https://martinfowler.com/articles/patterns-of-distributed-systems/emergent-leader.html
 
-Leader and Followers
+[Leader and Followers](https://martinfowler.com/articles/patterns-of-distributed-systems/leader-follower.html)
 Have a single server to coordinate replication across a set of servers.
-https://martinfowler.com/articles/patterns-of-distributed-systems/leader-follower.html
 
-Majority Quorum
+[Majority Quorum](https://martinfowler.com/articles/patterns-of-distributed-systems/majority-quorum.html)
 Avoid two groups of servers making independent decisions by requiring majority for taking every decision.
-https://martinfowler.com/articles/patterns-of-distributed-systems/majority-quorum.html
 
-Paxos
+[Paxos](https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html)
 Use two consensus building phases to reach safe consensus even when nodes disconnect
-https://martinfowler.com/articles/patterns-of-distributed-systems/paxos.html
 
 ## Read Requests
 
-Follower Reads
+[Follower Reads](https://martinfowler.com/articles/patterns-of-distributed-systems/follower-reads.html)
 Serve read requests from followers to achieve better throughput and lower latency
-https://martinfowler.com/articles/patterns-of-distributed-systems/follower-reads.html
 
 ## Requests
 
-Idempotent Receiver
+[Idempotent Receiver](https://martinfowler.com/articles/patterns-of-distributed-systems/idempotent-receiver.html)
 Identify requests from clients uniquely so you can ignore duplicate requests when client retries
-https://martinfowler.com/articles/patterns-of-distributed-systems/idempotent-receiver.html
 
-Request Batch
+[Request Batch](https://martinfowler.com/articles/patterns-of-distributed-systems/request-batch.html)
 Combine multiple requests to optimally utilise the network
-https://martinfowler.com/articles/patterns-of-distributed-systems/request-batch.html
 
-Request Pipeline
+[Request Pipeline](https://martinfowler.com/articles/patterns-of-distributed-systems/request-pipeline.html)
 Improve latency by sending multiple requests on the connection without waiting for the response of the previous requests.
-https://martinfowler.com/articles/patterns-of-distributed-systems/request-pipeline.html
 
-Request Waiting List
+[Request Waiting List](https://martinfowler.com/articles/patterns-of-distributed-systems/request-waiting-list.html)
 Track client requests which require responses after the criteria to respond is met based on responses from other cluster nodes.
-https://martinfowler.com/articles/patterns-of-distributed-systems/request-waiting-list.html
 
-Single-Socket Channel
+[Single-Socket Channel](https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html)
 Maintain the order of the requests sent to a server by using a single TCP connection
-https://martinfowler.com/articles/patterns-of-distributed-systems/single-socket-channel.html
 
-Singular Update Queue
+[Singular Update Queue](https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html)
 Use a single thread to process requests asynchronously to maintain order without blocking the caller.
-https://martinfowler.com/articles/patterns-of-distributed-systems/singular-update-queue.html
 
 ## Updates
 
-State Watch 
+[State Watch ](https://martinfowler.com/articles/patterns-of-distributed-systems/state-watch.html)
 Notify clients when specific values change on the server
-https://martinfowler.com/articles/patterns-of-distributed-systems/state-watch.html
 
-Two-Phase Commit
+[Two-Phase Commit](https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html)
 Update resources on multiple nodes in one atomic operation
-https://martinfowler.com/articles/patterns-of-distributed-systems/two-phase-commit.html | Two-Phase Commit
 
-Version Vector 
+[Version Vector ](https://martinfowler.com/articles/patterns-of-distributed-systems/version-vector.html)
 Maintain a list of counters, one per cluster node, to detect concurrent updates
 
-Versioned Value
+[Versioned Value](https://martinfowler.com/articles/patterns-of-distributed-systems/versioned-value.html)
 Store every update to a value with a new version, to allow reading historical values.
 
 ## Partitions
 
-Fixed Partitions
+[Fixed Partitions](https://martinfowler.com/articles/patterns-of-distributed-systems/fixed-partitions.html)
 Keep the number of partitions fixed to keep the mapping of data to partition unchanged when the size of a cluster changes.
-https://martinfowler.com/articles/patterns-of-distributed-systems/fixed-partitions.html
 
-Key-Range Partitions
+[Key-Range Partitions](https://martinfowler.com/articles/patterns-of-distributed-systems/key-range-partitions.html)
 Partition data in sorted key ranges to efficiently handle range queries.
-https://martinfowler.com/articles/patterns-of-distributed-systems/key-range-partitions.html
 
 ## Logs
 
-Segmented Log
+[Segmented Log](https://martinfowler.com/articles/patterns-of-distributed-systems/segmented-log.html)
 Split log into multiple smaller files instead of a single large file for easier operations.
-https://martinfowler.com/articles/patterns-of-distributed-systems/segmented-log.html
 
-Write-Ahead Log
+[Write-Ahead Log](https://martinfowler.com/articles/patterns-of-distributed-systems/write-ahead-log.html)
 Provide durability guarantee without the storage data structures to be flushed to disk, by persisting every state change as a command to the append only log.
 
-Replicated Log
+[Replicated Log](https://martinfowler.com/articles/patterns-of-distributed-systems/replicated-log.html)
 Keep the state of multiple nodes synchronized by using a write-ahead log that is replicated to all the cluster nodes.
-https://martinfowler.com/articles/patterns-of-distributed-systems/replicated-log.html
 
-High-Water Mark
+[High-Water Mark](https://martinfowler.com/articles/patterns-of-distributed-systems/high-watermark.html)
 An index in the write-ahead log showing the last successful replication.
-https://martinfowler.com/articles/patterns-of-distributed-systems/high-watermark.html
 
-Low-Water Mark
+[Low-Water Mark](https://martinfowler.com/articles/patterns-of-distributed-systems/low-watermark.html)
 An index in the write-ahead log showing which portion of the log can be discarded.
-https://martinfowler.com/articles/patterns-of-distributed-systems/low-watermark.html
 -->
 
 ## Gregor Hohpe
