@@ -455,6 +455,7 @@ https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X
 https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
+
 ## Martin Fowler
 
 <!--
@@ -525,6 +526,7 @@ Consumer-Driven Contracts
 How the Patterns Promote or Hinder Service Evolution
 -->
 
+
 ### Enterprise Application Architecture
 
 * [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
@@ -536,6 +538,21 @@ https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
 -->
 
 ### Enterprise Application Architecture Examples
+
+<!--
+Database
+* Foreign Key Mapping (236)
+* Lazy Load (200)
+
+Web Presentation Patterns: 
+* Model View Controller (330)
+* Template View (350)
+
+MVCs
+* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
+* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
+* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
+-->
 
 <!--
 Domain Logic Patterns: 
@@ -557,11 +574,9 @@ https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
 Object-Relational Behavioral Patterns
 * Unit of Work (184)
 * Identity Map (195)
-* Lazy Load (200)
 
 Object-Relational Structural Patterns: 
 * Identity Field (216)
-* Foreign Key Mapping (236)
 * Association Table Mapping (248)
 * Dependent Mapping (262)
 * Embedded Value (268)
@@ -575,15 +590,6 @@ Object-Relational Metadata Mapping Patterns:
 * Metadata Mapping (306)
 * Query Object (316)
 * Repository (322)
-
-Web Presentation Patterns: 
-* Model View Controller (330)
-* Template View (350)
-
-MVCs
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
 
 Web Presentation Patterns: 
 * Page Controller (333)
