@@ -1885,6 +1885,7 @@ http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/novemb
 https://twitter.com/_tomchristie/status/1256210735056785409
 -->
 
+<!--
 ## Django Accessibility
 
 https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
@@ -1901,7 +1902,7 @@ https://blogs.microsoft.com/accessibility/accessibility-training-at-microsoft/ |
 https://app.transifex.com/django/django/language/sw/ | Page not found
 https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
 https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
-
+-->
 
 <!--
 ## Programming Languages
