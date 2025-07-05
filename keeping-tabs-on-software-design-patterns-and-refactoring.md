@@ -10,19 +10,12 @@ https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency invers
 
 ## Patterns
 
-Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
-
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
 https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 https://refactoring.guru/design-patterns/ | Design Patterns
 https://refactoring.guru/design-patterns/python
 
 ## Uncle Bob
-
-* [Robert C. Martin: Clean Coder](http://blog.cleancoder.com)
 
 https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
 
@@ -48,11 +41,8 @@ https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
 https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
 
 https://martinfowler.com/articles/collection-pipeline/
-
-## Kent Beck
-
-https://www.linkedin.com/in/kentbeck/ | Kent Beck | LinkedIn
 -->
+
 
 <!--
 13 most common
@@ -115,8 +105,6 @@ https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-
 
 
 ## Software Architecture/Design Patterns
-
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
 
 https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
 
@@ -522,105 +510,9 @@ Consumer-Driven Contracts
 How the Patterns Promote or Hinder Service Evolution
 -->
 
-### Enterprise Application Architecture
-
-* [Catalog of Patterns of Enterprise Application Architecture](https://martinfowler.com/eaaCatalog/)
-
-<!--
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420/ref=asc_df_0321127420/?tag=hyprod-20&linkCode=df0&hvadid=312128454859&hvpos=&hvnetw=g&hvrand=18143029452003884474&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9023957&hvtargid=pla-422923047050&psc=1 | Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books
-
-https://martinfowler.com/articles/enterprisePatterns.html | Enterprise Patterns
--->
 
 ### Enterprise Application Architecture Examples
 
-<!--
-Database
-* Foreign Key Mapping (236)
-* Lazy Load (200)
-
-Web Presentation Patterns: 
-* Model View Controller (330)
-* Template View (350)
-
-MVCs
-* [Model View Controller Wikipedia](http://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller)
-* [Model View Controller Wikibook](http://en.wikibooks.org/wiki/Computer_Science_Design_Patterns/Model%E2%80%93view%E2%80%93controller)
-* [Model–view–viewmodel Wikipedia](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93viewmodel)
--->
-
-<!--
-Domain Logic Patterns: 
-* Transaction Script (110)
-* Domain Model (116) https://martinfowler.com/eaaCatalog/domainModel.html
-* Table Module (125)
-* Service Layer (133)
-
-Data Source Architectural Patterns: 
-* Table Data Gateway (144)
-* Row Data Gateway (152)
-* Active Record (160) https://www.martinfowler.com/eaaCatalog/activeRecord.html 
-* Data Mapper (165)
-
-Django
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://martinfowler.com/bliki/AnemicDomainModel.html | AnemicDomainModel
-
-Object-Relational Behavioral Patterns
-* Unit of Work (184)
-* Identity Map (195)
-
-Object-Relational Structural Patterns: 
-* Identity Field (216)
-* Association Table Mapping (248)
-* Dependent Mapping (262)
-* Embedded Value (268)
-* Serialized LOB (272)
-* Single Table Inheritance (278)
-* Class Table Inheritance (285)
-* Concrete Table Inheritance (293)
-* Inheritance Mappers (302)
-
-Object-Relational Metadata Mapping Patterns: 
-* Metadata Mapping (306)
-* Query Object (316)
-* Repository (322)
-
-Web Presentation Patterns: 
-* Page Controller (333)
-* Front Controller (344)
-* Transform View (361)
-* Two-Step View (365)
-* Application Controller (379)
-
-Distribution Patterns: 
-* Remote Facade (388)
-* Data Transfer Object (401)
-
-Offline Concurrency Patterns: 
-* Optimistic Offline Lock (416)
-* Pessimistic Offline Lock (426)
-* Coarse Grained Lock (438)
-* Implicit Lock (449)
-
-Session State Patterns: 
-* Client Session State (456)
-* Server Session State (458)
-* Database Session State (462)
-
-Base Patterns: 
-* Gateway (466)
-* Mapper (473)
-* Layer Supertype (475)
-* Separated Interface (476)
-* Registry (480)
-* Value Object (486)
-* Money (488)
-* Special Case (496)
-* Plugin (499)
-* Service Stub (504)
-* Record Set (508)
--->
 
 ### Refactoring
 
@@ -871,6 +763,7 @@ Index
 About the Author
 -->
 
+
 ## Software Design Patterns
 
 Design Patterns for Humans
@@ -880,70 +773,14 @@ Design Patterns for Humans
 https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkamani/javascript-design-patterns-for-humans: An ultra-simplified explanation of design patterns implemented in javascript
 -->
 
-## General Software Design Patterns
 
-Design Patterns- Gang of Four (GoF)
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612) and [Design Patterns: Elements of Reusable Object-Oriented Software Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
-* [Design Patterns Wikipedia](https://en.wikipedia.org/wiki/Design_Patterns)
+## General Software Design Patterns
 
 Software Design Patterns
 * [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
 
-## General Software Design Patterns- Types
-
-Types of Patterns
-* [Creational Pattern Wikipedia](https://en.wikipedia.org/wiki/Creational_pattern)
-* [Structural Pattern Wikipedia](https://en.wikipedia.org/wiki/Structural_pattern)
-* [Behavioral Pattern Wikipedia](https://en.wikipedia.org/wiki/Behavioral_pattern)
-
-Creational Patterns (object creation)
-* [Factory Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Factory_method_pattern)
-
-Creational Patterns- Can use Singleton in Implementation
-* [Abstract Factory Pattern Wikipedia](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder Pattern Wikipedia](https://en.wikipedia.org/wiki/Builder_pattern)
-* [Prototype Pattern Wikipedia](https://en.wikipedia.org/wiki/Prototype_pattern)
-
-Structural Patterns (relationships among entities)
-* [Adapter Pattern Wikipedia](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge Pattern Wikipedia](https://en.wikipedia.org/wiki/Bridge_pattern)
-* [Composite Pattern Wikipedia](https://en.wikipedia.org/wiki/Composite_pattern)
-* [Facade Pattern Wikipedia](https://en.wikipedia.org/wiki/Facade_pattern)
-* [Flyweight Pattern Wikipedia](https://en.wikipedia.org/wiki/Flyweight_pattern)
-* [Proxy Pattern Wikipedia](https://en.wikipedia.org/wiki/Proxy_pattern)
-
-Structural Patterns (relationships among entities)- Familiar
-* [Decorator Pattern (similar to Chain of Responsibility Pattern; implements Single Responsibility Principal) Wikipedia](https://en.wikipedia.org/wiki/Decorator_pattern)
-
-Behavioral Patterns
-* [Command Pattern Wikipedia](https://en.wikipedia.org/wiki/Command_pattern)
-* [Mediator Pattern Wikipedia](https://en.wikipedia.org/wiki/Mediator_pattern)
-* [Memento Pattern Wikipedia](https://en.wikipedia.org/wiki/Memento_pattern)
-* [Strategy Pattern Wikipedia](https://en.wikipedia.org/wiki/Strategy_pattern)
-* [Template Method Pattern Wikipedia](https://en.wikipedia.org/wiki/Template_method_pattern)
-* [Visitor Pattern Wikipedia](https://en.wikipedia.org/wiki/Visitor_pattern)
-
-Behavioral Patterns- Familiar
-* [Observer Pattern Wikipedia](https://en.wikipedia.org/wiki/Observer_pattern)
-* [State Pattern Wikipedia](https://en.wikipedia.org/wiki/State_pattern)
-* [Chain-of-Responsibility Pattern (handler, similar to Decorator Pattern) Wikipedia](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-
-## Software Design Patterns- Built Into Python
-
-Creational Patterns (object creation)
-* Singleton Pattern is not needed due to module namespacing
-* [Singleton Pattern Wikipedia](https://en.wikipedia.org/wiki/Singleton_pattern)
-
-Behavioral Patterns
-* [Iterator Pattern Wikipedia Article](https://en.wikipedia.org/wiki/Iterator_pattern)
 
 ## Python Software Design Patterns and Refactoring
-
-Patterns Talks
-* [Christopher Neugebauer "You Don't Need That"](https://www.youtube.com/watch?v=dg-Vm9W3Tlc&list=PL2k6bbM_wgjvY02EFUMhwHRyaSaEokT2B&index=37)
-
-Brandon
-* [Brandon Rhodes: Python Patterns](http://python-patterns.guide) and [Brandon Rhodes: Python Patterns GitHub](https://github.com/brandon-rhodes/python-patterns)
 
 Gang of Four: Principles
 
@@ -1075,16 +912,11 @@ Software Stacks
 <!--
 ## Architecture Types
 
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
 https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
-
-https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749
 -->
 
 ## Architectures
-
-Hawt
-* [Monolith Application Wikipedia](https://en.wikipedia.org/wiki/Monolithic_application)
-* [Microservices Wikipedia](https://en.wikipedia.org/wiki/Microservices)
 
 Architectures
 * [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
@@ -1095,7 +927,7 @@ Architectures
 * [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
 * [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
 
-
+<!--
 Interesting
 https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
@@ -1260,20 +1092,11 @@ Checklists and Cheat Sheets
 
 Object Oriented Software Construction Principles
 * [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-* [SOLID (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
 
 <!--
 https://ourmachinery.com/files/guidebook.md.html
 https://en.wikipedia.org/wiki/Data-oriented_design
 -->
-
-Software Principles (SOLID)
-* [Single Responsibility Principle Wikipedia](https://en.wikipedia.org/wiki/Single_responsibility_principle)
-* [Separation of Concerns Wikipedia](https://en.wikipedia.org/wiki/Separation_of_concerns)
-* [Open-Closed Principle Wikipedia](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
-* [Liskov Substitution Principle Wikipedia](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
-* [Interface Segregation Principle Wikipedia](https://en.wikipedia.org/wiki/Interface_segregation_principle)
-* [Dependency Inversion Principle Wikipedia](https://en.wikipedia.org/wiki/Dependency_inversion_principle)
 
 <!--
 Pattern
@@ -1289,11 +1112,6 @@ https://www.youtube.com/watch?v=wtCQalq7L-E
 ## Clean Architecture
 
 <!--
-Robert C. Martin
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure/dp/0134494164 | Clean Architecture: A Craftsman's Guide to Software Structure and Design (Robert C. Martin Series): Robert C. Martin: 9780134494166: Amazon.com: Books
-
-http://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html | Clean Coder Blog
-
 https://dev.to/bosepchuk/why-i-cant-recommend-clean-architecture-by-robert-c-martin-ofd | Why I can't recommend Clean Architecture by Robert C Martin - DEV Community 👩‍💻👨‍💻
 
 https://medium.freecodecamp.org/how-to-write-robust-apps-consistently-with-the-clean-architecture-9bdca93e17b | How to write robust apps every time, using “The Clean Architecture”
