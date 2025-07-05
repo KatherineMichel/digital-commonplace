@@ -2333,7 +2333,7 @@ Testing
 * [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
 * [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
-<--
+<!--
 ## pytest-django
 
 pytest-django (plugin)
