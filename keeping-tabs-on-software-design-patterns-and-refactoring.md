@@ -1,60 +1,6 @@
 # Software Design Patterns and Refactoring
 
 <!--
-## Python Patterns
-
-https://www.youtube.com/watch?v=S0No2zSJmks | (41) When Python Practices Go Wrong - Brandon Rhodes - code::dive 2019 - YouTube
-
-https://en.wikipedia.org/wiki/Dependency_inversion_principle | Dependency inversion principle - Wikipedia
-
-
-## Patterns
-
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-https://refactoring.guru/design-patterns/ | Design Patterns
-https://refactoring.guru/design-patterns/python
-
-## Uncle Bob
-
-https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
-
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
-
-## Martin Fowler
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/microservices/ | Microservices Guide
-
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
-https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
-https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
-https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
-https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
-https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
-https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
-https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
-
-https://martinfowler.com/articles/collection-pipeline/
--->
-
-
-<!--
-13 most common
-https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
-
-
-## Functional Programming
-
-https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
-https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
-
-
 ## Beej
 
 https://beej.us/guide/ | Beej's Guides
@@ -85,50 +31,20 @@ https://jukkasuomela.fi/da2020/da2020.pdf
 https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
 
 
-## Patterns
-
-https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
-
-https://en.wikipedia.org/wiki/Software_architecture | Software architecture - Wikipedia
-https://en.wikipedia.org/wiki/Architectural_pattern | Architectural pattern - Wikipedia
-
-https://en.wikipedia.org/wiki/The_Hillside_Group | The Hillside Group - Wikipedia
-https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Repository - Wikipedia
-
-https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
-
-
 ## Scaling Django
 
 https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
 
 
-## Software Architecture/Design Patterns
-
-https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
-
-https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
-https://en.wikipedia.org/wiki/Software_design_pattern | Software design pattern - Wikipedia
-https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
-https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
-
-https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
-
-
-## Clean Code, Architecture
-
-https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
-
-https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
-
-https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
 
 Thinking in Systems
 https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
+https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
 
 
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
+
 
 ## Software Architecture Tools
 
@@ -146,6 +62,10 @@ https://en.wikipedia.org/wiki/C4_model | C4 model - Wikipedia
 https://plantuml.com/ | Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.
 https://en.wikipedia.org/wiki/4%2B1_architectural_view_model | 4+1 architectural view model - Wikipedia
 
+## Modelling
+
+https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
+
 
 ## Domain Driven Design and Event Sourcing
 
@@ -161,15 +81,39 @@ https://martinfowler.com/eaaDev/EventSourcing.html | Event Sourcing
 https://martinfowler.com/bliki/CQRS.html | CQRS
 https://en.wikipedia.org/wiki/Message_passing | Message passing - Wikipedia
 
-## Modelling
-
-https://www.omg.org/spec/UML/2.5.1/PDF | Unified Modeling Language, v2.5.1
-
-
 ## Socratic Method
 
 https://opensource.com/open-organization/17/5/better-it-socratic-method?sc_cid=7016000000127L3AAI | Using the Socratic method with your IT team | Opensource.com
 https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
+-->
+
+
+<!--
+## Martin Fowler
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+Books
+https://martinfowler.com/books/
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/microservices/ | Microservices Guide
+
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
+
+https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
+https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
+https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
+https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
+https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
+https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
+https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
+https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
+
+https://martinfowler.com/articles/collection-pipeline/
+
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 -->
 
 ## Architectures at Scale
@@ -178,6 +122,7 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 https://github.com/KatherineMichel/organizations
 
 https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
 
 ## High Scalability
 
@@ -214,6 +159,7 @@ https://architecturenotes.co/redis/ | Redis Explained
 https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
 https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 -->
+
 
 <!--
 ## Language Creators
@@ -353,7 +299,6 @@ https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map
 https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
 
 https://en.wikipedia.org/wiki/OSI_model
-
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 Internet protocol suite
@@ -406,8 +351,6 @@ Tunnels
 PPP
 MAC
 
-https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern | Publish–subscribe pattern - Wikipedia
-
 Pub-Sub protocol
 https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
 https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations
@@ -440,15 +383,39 @@ https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X
 https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
-## Martin Fowler
+
+### Refactoring
 
 <!--
-Books
-https://martinfowler.com/books/
+https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler)
+-->
 
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/microservices/ | Microservices Guide
+### Refactoring Book Examples
 
+<!--
+## Refactoring to Patterns
+
+by Joshua Kerievsky 
+https://www.amazon.com/gp/product/0321213351
+
+Chain Constructors*
+Replace Multiple Constructors with Creation Methods*
+Parameterized Creation Methods
+Encapsulate Subclasses with Creation Methods*
+Extract Creation Class*
+Replace Conditional Calculations with Strategy*
+Replace Implicit Tree with Composite*
+Encapsulate Composite with Builder**
+Extract Special-Case Logic into Decorators
+Replace Hard-Coded Notifications with Observer*
+Move Accumulation to Collecting Parameter*
+Replace One/Many Distinctions with Composite
+Compose Method**
+Separate Versions with Adapters *
+Adapt Interface
+-->
+
+<!--
 Service Design Patterns
 Robert Daigneau
 https://www.amazon.com/gp/product/032154420X
@@ -511,259 +478,6 @@ How the Patterns Promote or Hinder Service Evolution
 -->
 
 
-### Enterprise Application Architecture Examples
-
-
-### Refactoring
-
-Martin Fowler, Refactoring, Patterns, ThoughtWorks
-* [Martin Fowler: Refactoring 2nd Edition](https://martinfowler.com/articles/refactoring-2nd-ed.html)
-* [Refactoring Catalog](https://refactoring.com/catalog/)
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler)
--->
-
-### Refactoring Book Examples
-
-<!--
-Tags
-basic
-encapsulation
-moving-features
-organizing-data
-simplify-conditional-logic
-refactoring-apis
-dealing-with-inheritance
-collections
-delegation
-errors
-extract
-parameters
-fragments
-grouping-function
-immutability
-inline
-remove
-rename
-split-phase
-variables
-
-Change Function Declaration
-• Add Parameter 
-• Change Signature 
-• Remove Parameter 
-• Rename Function 
-• Rename Method
-
-Inverse
-Change Reference to Value
-Change Value to Reference
-
-Collapse Hierarchy
-Combine Functions into Class
-Combine Functions into Transform
-Consolidate Conditional Expression
-Decompose Conditional
-Encapsulate Collection
-Encapsulate Record
-• Replace Record with Data Class
-
-Encapsulate Variable
-• Encapsulate Field 
-• Self-Encapsulate Field
-
-Inverse
-Extract Class
-Inline Class
-
-Inverse
-Extract Function
-Inline Function
-• Inline Method
-
-Extract Method
-
-Extract Superclass
-
-Inverse
-Extract Variable
-• Introduce Explaining Variable
-Inline Variable
-• Inline Temp
-
-Inverse
-Hide Delegate
-Remove Middle Man
-
-Introduce Assertion
-Introduce Parameter Object
-Introduce Special Case
-• Introduce Null Object
-
-Move Field
-Move Function
-• Move Method
-
-Inverse
-Move Statements into Function
-Move Statements to Callers
-
-Parameterize Function
-• Parameterize Method
-
-Preserve Whole Object
-Pull Up Constructor Body
-
-Inverse
-Pull Up Field
-Push Down Field
-
-Inverse
-Pull Up Method
-Push Down Method
-
-Remove Dead Code
-Remove Flag Argument
-• Replace Parameter with Explicit Methods
-
-Remove Setting Method
-
-Inverse
-Remove Subclass
-• Replace Subclass with Fields
-Replace Type Code with Subclasses
-• Extract Subclass 
-• Replace Type Code with State/Strategy
-
-Rename Field
-Rename Variable
-
-Inverse
-Replace Command with Function
-Replace Function with Command
-• Replace Method with Method Object
-
-Replace Conditional with Polymorphism
-Replace Constructor with Factory Function
-• Replace Constructor with Factory Method
-
-Replace Control Flag with Break
-• Remove Control Flag
-
-Replace Derived Variable with Query
-Replace Error Code with Exception
-Replace Exception with Precheck
-• Replace Exception with Test
-
-Replace Inline Code with Function Call
-Replace Loop with Pipeline
-Replace Magic Literal
-• Replace Magic Number with Symbolic Constant
-
-Replace Nested Conditional with Guard Clauses
-
-Inverse
-Replace Parameter with Query
-• Replace Parameter with Method
-Replace Query with Parameter
-
-Replace Primitive with Object
-• Replace Data Value with Object 
-• Replace Type Code with Class
-
-Replace Subclass with Delegate
-Replace Superclass with Delegate
-• Replace Inheritance with Delegation
-
-Replace Temp with Query
-
-Return Modified Value
-Separate Query from Modifier
-Slide Statements
-• Consolidate Duplicate Conditional Fragments
-
-Split Loop
-Split Phase
-Split Variable
-• Remove Assignments to Parameters 
-• Split Temp
-
-Substitute Algorithm
--->
-
-<!--
-## Refactoring to Patterns
-
-by Joshua Kerievsky 
-https://www.amazon.com/gp/product/0321213351
-
-Chain Constructors*
-Replace Multiple Constructors with Creation Methods*
-Parameterized Creation Methods
-Encapsulate Subclasses with Creation Methods*
-Extract Creation Class*
-Replace Conditional Calculations with Strategy*
-Replace Implicit Tree with Composite*
-Encapsulate Composite with Builder**
-Extract Special-Case Logic into Decorators
-Replace Hard-Coded Notifications with Observer*
-Move Accumulation to Collecting Parameter*
-Replace One/Many Distinctions with Composite
-Compose Method**
-Separate Versions with Adapters *
-Adapt Interface
-
-## Tidy First?
-
-I. Tidyings
-1. Guard Clauses: https://refactoring.com/catalog/replaceNestedConditionalWithGuardClauses.html
-2. Dead Code: https://refactoring.com/catalog/removeDeadCode.html
-3. Normalize Symmetries
-4. New Interface, Old Implementation
-5. Reading Order
-6. Cohesion Order
-7. Move Declaration and Initialization Together
-8. Explaining Variables
-9. Explaining Constants
-10. Explicit Parameters
-11. Chunk Statements
-12. Extract Helper
-13. One Pile
-14. Explaining Comments
-15. Delete Redundant Comments
-
-II. Managing
-17. Separate Tidying
-18. Chaining
-Conclusion
-
-19. Batch Sizes
-20. Rhythm
-21. Getting Untangled
-22. First, After, Later, Never
-Summary
-
-III. Theory
-23. Beneficially Relating Elements
-24. Structure and Behavior
-25. Economics: Time Value and Optionality
-26. A Dollar Today > A Dollar Tomorrow
-27. Options
-28. Options Versus Cash Flows
-29. Reversible Structure Changes
-30. Coupling
-31. Constantine’s Equivalence
-32. Coupling Versus Decoupling
-33. Cohesion
-34. Conclusion
-    
-Appendix. Annotated Reading List and References
-Index
-About the Author
--->
-
-
 ## Software Design Patterns
 
 Design Patterns for Humans
@@ -774,13 +488,7 @@ https://github.com/sohamkamani/javascript-design-patterns-for-humans | sohamkama
 -->
 
 
-## General Software Design Patterns
-
-Software Design Patterns
-* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
-
-
-## Python Software Design Patterns and Refactoring
+## Brandon Rhodes
 
 Gang of Four: Principles
 
@@ -890,50 +598,21 @@ Refactoring by Martin Fowler
 Adapter/facade can work together
 Observer- the inverse of adapter/facade, can take their place? (Django signals is an implentation of observer)
 
-simply visit the commit history of this site’s project repository on GitHub, where you can also select “Watch” to get updates.
-With those preliminaries complete, here are the patterns!
-
-https://www.youtube.com/watch?v=Er5K_nR5lDQ&t=1045s | Python Design Patterns 1 - YouTube
-http://rhodesmill.org/brandon/talks/#design-patterns-1 | Talks
-http://rhodesmill.org/brandon/slides/2012-07-pyohio/ | slides.rst
-
-https://www.pyohio.org/2018/schedule/presentation/17/ | PyOhio | Presentation: You Don't Need That!
 -->
 
-
-<!--
-## Architecture Types
-
-Software Stacks
-* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
-* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
--->
-
-<!--
-## Architecture Types
-
-https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
--->
 
 ## Architectures
 
 Architectures
-* [Distributed Computing Wikipedia](https://en.wikipedia.org/wiki/Distributed_computing)
 * [Enterprise Architecture Framework Wikipedia](https://en.wikipedia.org/wiki/Enterprise_architecture_framework)
-* [Service Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Service-oriented_architecture)
-* [Resource Oriented Architecture Wikipedia](https://en.wikipedia.org/wiki/Resource-oriented_architecture)
-* [Micro Architecture Wikipedia](https://en.wikipedia.org/wiki/Microarchitecture)
-* [Loose Coupling Wikipedia](https://en.wikipedia.org/wiki/Loose_coupling)
-* [Multitenancy Wikipedia](https://en.wikipedia.org/wiki/Multitenancy)
 
 <!--
 Interesting
-https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
 https://en.wikipedia.org/wiki/Software_architecture#Architectural_styles_and_patterns
 https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
 https://en.wikipedia.org/wiki/Software_architecture
 https://en.wikipedia.org/wiki/Architectural_pattern
+
 
 https://en.wikipedia.org/wiki/Messaging_pattern
 
@@ -946,6 +625,56 @@ https://www.youtube.com/watch?v=ZQ5_u8Lgvyk | (1) Designing and Evaluating Reusa
 https://caseymuratori.com/blog_0024 | Designing and Evaluating Reusable Components (2004)
 https://web.archive.org/web/20160424063525/http://mollyrocket.com:80/9438 | mollyrocket.com - API Design
 -->
+
+<!--
+## Architecture Types
+
+Software Stacks
+* [Solution Stack Wikipedia](http://en.wikipedia.org/wiki/Solution_stack)  
+* [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
+
+https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
+https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
+-->
+
+
+## General Software Design Patterns
+
+Software Design Patterns
+* [Software Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Software_design_pattern)
+
+https://en.wikibooks.org/wiki/Introduction_to_Software_Engineering/Architecture/Design_Patterns | Software design patterns - Wikibooks, open books for an open world
+
+## Patterns and Design Patterns- General
+
+Design Patterns- General
+* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
+* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
+
+
+## Patterns
+
+http://www.hillside.net/patterns/patterns-catalog
+https://en.wikipedia.org/wiki/The_Hillside_Group | The Hillside Group - Wikipedia
+https://en.wikipedia.org/wiki/Portland_Pattern_Repository | Portland Pattern Repository - Wikipedia
+
+https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patterns: A curated list of software and architecture related design patterns.
+
+https://c2.com/ppr/titles.html | PPR: Pattern Language Titles
+
+## Software Architecture/Design Patterns
+
+13 most common
+https://developers.googleblog.com/2020/06/13-most-common-google-cloud-reference.html | Google Developers Blog: 13 Most Common Google Cloud Reference Architectures
+
+https://docs.gitlab.com/ee/development/architecture.html | GitLab architecture overview | GitLab
+
+https://martinfowler.com/ieeeSoftware/whoNeedsArchitect.pdf | s5des.lo
+
+https://www.redhat.com/architect/14-software-architecture-patterns | 14 software architecture design patterns to know | Enable Architect
+https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html#axzz7UN64FOOL | Top 10 Microservices Design Patterns and Principles - Examples
+
+
 
 ## Software Design Pattern Catalogs
 
@@ -961,14 +690,11 @@ https://github.com/DovAmir/awesome-design-patterns | DovAmir/awesome-design-patt
 
 https://en.wikipedia.org/wiki/Category:Software_design_patterns | Category:Software design patterns - Wikipedia
 
-https://refactoring.guru/design-patterns/ | Design Patterns
-
 https://sourcemaking.com
 https://sourcemaking.com/antipatterns/ | AntiPatterns
 https://sourcemaking.com/design-patterns-ebook | Design Patterns eBook
 
 Patterns
-http://www.hillside.net/patterns/patterns-catalog
 http://django.wikispaces.asu.edu/Observer+Design+Pattern
 -->
 
@@ -982,6 +708,7 @@ Python Design Patterns and Algorithms
 https://www.tutorialspoint.com/python_design_patterns/index.htm | Python Design Patterns Tutorial
 https://github.com/tylerlaberge/PyPattyrn | tylerlaberge/PyPattyrn: A simple library for implementing common design patterns.
 -->
+
 
 ## Django Design Patterns
 
@@ -1003,12 +730,6 @@ https://books.google.com/books?id=FnxeDwAAQBAJ&pg=PA4&lpg=PA4&dq=file:pdf+django
 https://thoughtbot.com/upcase/videos/design-patterns-in-django-and-python | Design Patterns in Django and Python | Online Video Tutorial by thoughtbot
 -->
 
-## Patterns and Design Patterns- General
-
-Design Patterns- General
-* [Pattern Language Wikipedia](https://en.wikipedia.org/wiki/Pattern_language)
-* [Design Pattern Wikipedia](https://en.wikipedia.org/wiki/Design_pattern)
-
 
 ## Programming Paradigms- Object Oriented Software
 
@@ -1029,11 +750,6 @@ Object
 Constructor
 * [Constructor Python Wikipedia](https://en.wikipedia.org/wiki/Constructor_(object-oriented_programming)#Python)
 
-Object Oriented Software Characteristics
-* [Abstraction Wikipedia](https://en.wikipedia.org/wiki/Abstraction_(computer_science))
-* [Encapsulation Wikipedia](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming))
-* [Inheritance Wikipedia](https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming))
-* [Polymorphism Wikipedia](https://en.wikipedia.org/wiki/Polymorphism_(computer_science))
 
 ## Programming Paradigms- Functional, Imperative, Declarative, Reactive
 
@@ -1063,6 +779,11 @@ https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
 
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
+
+## Functional Programming
+
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
 -->
 
 ## Inheritance versus Composition
@@ -1082,32 +803,26 @@ State
 * [Persistent Data Structure Wikipedia](https://en.wikipedia.org/wiki/Persistent_data_structure)
 
 
-## Code Complete and Clean Code
-
-Checklists and Cheat Sheets
-* [Code Complete Checklist](https://www.matthewjmiller.net/files/cc2e_checklists.pdf)
-* [Clean Code Cheat Sheet](https://github.com/charlax/professional-programming/blob/master/cheatsheets/Clean-Code-V2.4.pdf)
-
-## GRASP and Clean Architecture (Follows SOLID Principles)
-
-Object Oriented Software Construction Principles
-* [GRASP (Object Oriented Design) Wikipedia](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
-
 <!--
 https://ourmachinery.com/files/guidebook.md.html
 https://en.wikipedia.org/wiki/Data-oriented_design
 -->
 
-<!--
-Pattern
-https://en.wikipedia.org/wiki/Dependency_injection
-https://en.wikipedia.org/wiki/Inversion_of_control
 
-https://en.wikipedia.org/wiki/Interface_(computing)
+## Uncle Bob
 
-Clean Architectures in Python - Leonardo Giordani - PyLondinium19
-https://www.youtube.com/watch?v=wtCQalq7L-E
--->
+https://twitter.com/unclebobmartin/status/1686194264798068736 | Uncle Bob Martin on Twitter: "The Importance of Clean Code. https://t.co/VifZHhkfJe" / X
+
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868 | Clean Agile: Back to Basics (Robert C. Martin Series): Martin, Robert: 9780135781869: Amazon.com: Books
+
+## Clean Code, Architecture
+
+https://www.agilealliance.org/contact/ | Contact Us | Agile Alliance
+
+https://twitter.com/dhh/status/1699910613777141895 | DHH on X: "On Microservices vs Monolith. https://t.co/ZuyGrwrM0Q" / X
+
+https://github.com/sivaprasadreddy/tomato-architecture | sivaprasadreddy/tomato-architecture: Tomato Architecture - A common sense driven approach to software architecture
+
 
 ## Clean Architecture
 
@@ -1121,6 +836,9 @@ https://medium.freecodecamp.org/a-quick-introduction-to-clean-architecture-990c0
 ## Clean Architecture in Python and Django
 
 <!--
+Clean Architectures in Python - Leonardo Giordani - PyLondinium19
+https://www.youtube.com/watch?v=wtCQalq7L-E
+
 Clean Code
 https://github.com/zedr/clean-code-python
 
