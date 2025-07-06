@@ -1,6 +1,12 @@
 # Software Design Patterns and Refactoring
 
 <!--
+## Programming Languages
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+
+https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
+
 How Linux Works
 https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
 
