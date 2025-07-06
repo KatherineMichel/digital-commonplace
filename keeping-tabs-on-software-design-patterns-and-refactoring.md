@@ -1,6 +1,18 @@
 # Software Design Patterns and Refactoring
 
 <!--
+## Server
+
+https://en.wikipedia.org/wiki/Heartbeat_(computing)
+https://en.wikipedia.org/wiki/Round-robin_DNS
+
+## State
+
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
+-->
+
+<!--
 # Distributed Systems
 
 ### Patterns of Distributed Systems
