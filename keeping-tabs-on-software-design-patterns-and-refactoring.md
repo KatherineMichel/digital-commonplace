@@ -1,6 +1,9 @@
 # Software Design Patterns and Refactoring
 
 <!--
+How Linux Works
+https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
+
 ## Server
 
 https://en.wikipedia.org/wiki/Heartbeat_(computing)
