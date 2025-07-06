@@ -370,7 +370,6 @@ https://github.com/simonw/datasette-plugin-template-repository-demo | simonw/dat
 Python lib Template Demo
 https://github.com/simonw/python-lib-template-demo | simonw/python-lib-template-demo: Demo for https://github.com/simonw/python-lib
 https://github.com/simonw/python-lib-template-repository | simonw/python-lib-template-repository: GitHub template repository for creating new Python libarries, using the simonw/python-lib cookiecutter template
-https://github.com/simonw/python-lib-template-repository-demo | simonw/python-lib-template-repository-demo: Demo of simonw/python-lib-template-repository
 
 CLI Template
 https://twitter.com/carltongibson/status/1376077806304649216 | Carlton Gibson 🇪🇺 on Twitter: "Hi @simonw is there a template for ...-to-sqlite tools, or is it dig around and copy what you see? Ta!" / Twitter
