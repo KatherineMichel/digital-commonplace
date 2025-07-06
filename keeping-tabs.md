@@ -2388,11 +2388,6 @@ https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software
 
 ## Tidy First
 
-https://www.amazon.com/Tidy-First-Personal-Exercise-Empirical/dp/1098151240/ref=zg_bs_g_132555011_d_sccl_1/140-3492681-6208117?psc=1 | Tidy First?: A Personal Exercise in Empirical Software Design: Beck, Kent, Constantine, Larry: 9781098151249: Amazon.com: Books
-
-https://tidyfirst.substack.com/ | Software Design: Tidy First? | Kent Beck | Substack
-https://www.oreilly.com/library/view/tidy-first/9781098151232/ | Tidy First? [Book]
-
 https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
 https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
 
