@@ -1,6 +1,69 @@
 # Software Design Patterns and Refactoring
 
 <!--
+# Distributed Systems
+
+### Patterns of Distributed Systems
+
+## Distributed Systems Engineering
+
+Book
+https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
+
+https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
+
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://news.ycombinator.com/from?site=ferd.ca
+https://news.ycombinator.com/item?id=39303160
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
+
+List of Algorithms
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
+
+https://www.geeksforgeeks.org/types-of-distributed-system/
+
+Distributed Systems
+https://en.wikipedia.org/wiki/Distributed_computing
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
+https://www.splunk.com/en_us/blog/learn/distributed-systems.html
+
+https://www.allthingsdistributed.com
+
+5.6 Leader Election using BFS
+https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
+-->
+
+<!--
+https://en.wikipedia.org/wiki/Multiversion_concurrency_control | Multiversion concurrency control - Wikipedia
+https://en.wikipedia.org/wiki/Non-lock_concurrency_control
+
+https://en.wikipedia.org/wiki/Three-phase_commit_protocol | Three-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit protocol - Wikipedia
+https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
+https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
+https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
+
+https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
+https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
+
+https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
+https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
+
+Serial Algorithm- RAM
+https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
+
+## Raft
+
+https://thesecretlivesofdata.com/raft/ | Raft
+https://raft.github.io/ | Raft Consensus Algorithm
+-->
+
+<!--
 ## Beej
 
 https://beej.us/guide/ | Beej's Guides
