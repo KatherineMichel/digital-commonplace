@@ -479,7 +479,8 @@ Adapt Interface
 -->
 
 <!--
-Service Design Patterns
+## Service Design Patterns
+
 Robert Daigneau
 https://www.amazon.com/gp/product/032154420X
 
