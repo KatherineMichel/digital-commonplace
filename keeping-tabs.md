@@ -1,17 +1,697 @@
 # Keeping Tabs
 
+<!--
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
+https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
+
+https://github.com/KatherineMichel/portfolio/tree/master/
+-->
+
+<!--
+## Social
+
+https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+
+## Find People
+
+https://linktr.ee/
+
+https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
+https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
+
+https://twitter.com/home | Home / Twitter
+https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
+https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
+https://fosstodon.org/notifications | Notifications - Fosstodon
+https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
+https://snort.social/posts | snort.social - Nostr interface
+https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
+https://www.youtube.com/ | (185) YouTube
+-->
+
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+
+<!--
+https://thenewstack.io/
+-->
+
+## Trending
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+<!--
+In operation
+https://fosstodon.org/@HackerNewsBot@m.einverne.info
+-->
+
+<!--
+## Stats
+
+Hacker News Stats
+https://hackernews-insight.vercel.app/user-analysis | Evidence
+https://hackernews-insight.vercel.app/keyword-analysis | Evidence
+https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
+
+GitHub Star History Graph 
+https://twitter.com/newsycombinator/status/1530625174114078721
+-->
+
+## GitHub Trending
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Developers](https://github.com/trending/developers )
+
+## Trending and Top of All Time
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## More Git News
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com)
+
+Changelog
+* [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
+* PracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://stackshare.io/featured-posts
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
+https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
+https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
+https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
+https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
+https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
+-->
+
+<!--
+## Women
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
+
+## Conferences
+
+Mind the Product
+https://www.mindtheproduct.com/
+Dev conferences
+https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
+
+## DFW
+
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+
+## Event Videos
+
+https://pyvideo.org/ | PyVideo.org
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+https://pyvideo.org/events.html | PyVideo.org · Events
+
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+
+## Events
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+
+https://www.python.org/events/python-events/ | Our Events | Python.org
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+-->
+
+
+<!--
+## High Performance Orgs
+
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+
+Excellence
+* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+
+Performance Management
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+
+
+Python
+https://www.amazon.com/Fluent-Python-Luciano-Ramalho-ebook/dp/B09WZJMMJP
+
+Algorithms
+https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X
+https://www.amazon.com/Algorithm-Design-Manual-Computer-Science-ebook/dp/B08L5JZRHD
+https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA
+
+The Gang of Four
+https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
+
+Martin Klepmann
+https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
+
+Camille Fournier
+https://www.amazon.com/Platform-Engineering-Technical-Product-Leaders/dp/1098153642
+
+https://www.amazon.com/stores/Gergely-Orosz/author/B0924WDG65
+https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions-ebook/dp/B0CV6ZNLLP
+
+https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB
+https://www.amazon.com/Site-Reliability-Engineering-Production-Systems-ebook/dp/B01DCPXKZ6
+
+https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP
+https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch-ebook/dp/B09WJY1MH7/
+https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom-ebook/dp/B09BCCVLCL
+https://www.amazon.com/Programming-Language-PROGRAMMING-LANG-_p2-ebook/dp/B009ZUZ9FW
+
+https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ
+https://www.amazon.com/Designing-Distributed-Systems-Paradigms-Kubernetes-ebook/dp/B0DPLPBWBX
+
+https://www.amazon.com/JavaScript-Good-Parts-ebook/dp/B0026OR2ZY
+https://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani-ebook/dp/B0C3WVFH7Q
+https://www.amazon.com/JavaScript-Patterns-Better-Applications-Coding-ebook/dp/B0046RERXE
+https://www.amazon.com/JavaScript-Definitive-Most-Used-Programming-Language-ebook/dp/B088P9Q6BB
+https://www.amazon.com/Learning-TypeScript-Josh-Goldberg-ebook/dp/B0B35C211B
+https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications-ebook/dp/B07R86FL4K
+https://www.amazon.com/TypeScript-Cookbook-Stefan-Baumgartner-ebook/dp/B0CF49YMNY
+https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve-ebook/dp/B0D2SGRTGR
+
+https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing-ebook/dp/B008CQA8BA
+
+https://www.amazon.com/AI-Engineering-Building-Applications-Foundation-ebook/dp/B0DPLNK9GN
+
+Kent Beck
+https://www.amazon.com/stores/author/B000APC0EY
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
+https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
+https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
+
+Refactoring
+Kent Beck
+https://www.amazon.com/Tidy-First-Mini-Refactorings-besseres-Software-Design-ebook/dp/B0CWLGRND2
+Martin Fowler
+https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672
+https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2
+Michael Feathers
+https://www.amazon.com/stores/Michael-C.-Feathers/author/B001IGFN0W
+https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook/dp/B005OYHF0A
+
+https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Working Effectively with Legacy Code [Book]
+https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
+
+Martin Fowler
+https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
+https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
+https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
+
+Patterns
+Martin Fowler
+https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM
+Unmesh Joshi
+https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature-ebook/dp/B0CCD3F8BH
+
+Robert C. Martin
+https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
+Clean
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
+https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
+https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
+https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
+https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
+
+David Thomas and Andrew Hunt
+https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1
+https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
+
+Code Complete
+https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY
+
+Frederick P. Brooks Jr. 
+https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
+https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL
+
+https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-Wesley-ebook/dp/B09RV3Z3TP
+
+Mary Poppendieck
+https://www.amazon.com/stores/Mary-Poppendieck/author/B001IGNU3O
+https://www.amazon.com/Lean-Software-Development-Agile-Toolkit-ebook/dp/B0DHY7W24R?ref_=ast_author_dp
+
+Jez Humble and 
+https://www.amazon.com/Modern-Software-Engineering-Better-Faster-ebook/dp/B09GG6XKS4
+https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0
+https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
+Accelerate
+https://www.amazon.com/dp/B09JWS32W1
+
+https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
+
+Mark Richards
+https://www.amazon.com/stores/author/B0039T7ODK
+https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW
+https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
+
+Addy Osmani
+https://www.amazon.com/stores/Addy-Osmani/author/B00ABNTY3U
+https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/109814824X
+
+Leading Effective Engineering Teams
+https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/109814824X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.gGKTgbcVlLwyah7PyLIK9i74OGrEaB80O99Oics8dvDnHOIpz-9ORUqHP7OHmytBGabR0k6whW2hH2cZ05u4UwbL55GXB83-aTtkWAAyHNkrou86_GPFpKHGlngH1DGW6sAzQIsbWx_IDZj55phZrDbmq0dZOuo4lRJn3zNvNs7SdYsNTHw_OlPF71OsSIHs.C9bMmFW4hnyiEbOx-nWuFwRM8QbRrabfxrYfw2FWu0c&dib_tag=se&qid=1720276271&refinements=p_27%3AAddy+Osmani&s=books&sr=1-1 | Amazon.com: Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google: 9781098148249: Osmani, Addy: Books
+
+Will Larson
+https://www.amazon.com/stores/author/B07RCW6CWQ
+https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
+https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
+
+Camille Fournier
+https://www.amazon.com/stores/Camille-Fournier/author/B06XFMDTBZ
+https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F
+
+Sarah Drasner
+https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35
+
+Tanya Reilly
+https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553
+
+Eric Evans
+https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG
+
+DDD
+https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
+https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
+
+Head First Design Patterns
+https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-ebook/dp/B08P3X99QP
+
+Sam Newman
+Monolith and Microservices
+https://www.amazon.com/stores/author/B00LEP6IB0
+
+https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4
+
+https://www.amazon.com/User-Stories-Applied-Development-Addison-Wesley-ebook/dp/B0054KOL74
+
+https://architectelevator.com/book/
+https://www.amazon.com/stores/Gregor-Hohpe/author/B001KDEH2S
+https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
+
+https://kevlin.tel/
+https://www.amazon.com/stores/Kevlin-Henney/author/B0716N93KR
+https://www.amazon.com/Pattern-Oriented-Software-Architecture-Distributed-Computing/dp/0470059028
+
+https://www.amazon.com/Your-Code-Crime-Scene-Second-ebook/dp/B0D6WYJS74
+
+See others in the series
+https://www.amazon.com/Systems-Performance-Brendan-Gregg-ebook/dp/B08J5QZPNC
+https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B003U2T5BA
+
+Joe Reis- Fundamentals of Data Engineering
+https://www.amazon.com/stores/author/B0B5KBBZDJ
+
+Gene Kim
+https://www.amazon.com/stores/author/B00AERCJ9E
+
+https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK
+
+https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG
+
+https://www.amazon.com/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
+
+
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
+
+## Engineering Management
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+-->
+
+<!--
+Books
+
+https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
+1️⃣ "Python Crash Course" by Eric Matthes
+2️⃣ "Fluent Python" by Luciano Ramalho
+3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
+4️⃣ "Clean Code" by Robert C. (Bob) Martin
+5️⃣ "Domain-Driven Design" by Eric Evans
+6️⃣ "Building Microservices" by Sam Newman
+7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
+8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
+9️⃣ "Cloud Native Python" by Manish Sethi
+🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
+-->
+
+<!--
+## SICP
+
+## Python
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+
+## More CS Books
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
+-->
+
+<!--
+## Books
+
+https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
+
+https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
+https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
+https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
+https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
+
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+-->
+
+<!--
+## Tech Articles to Read
+
+https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
+https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
+
+## LinkedIn Teachers
+
+Rocky Bhatia
+https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
+https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
+
+
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
+
+## Ryan Peterman
+
+https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
+
+https://read.developing.dev/ | The Developing Dev by Ryan Peterman
+https://twitter.com/ryanlpeterman/
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
+
+## Engineering Templates
+
+https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
+https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
+https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
+https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
+https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
+https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
+https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
+
+
+## The Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
+https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
+
+https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
+https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
+https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
+https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
+
+https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
+
+https://newsletter.pragmaticengineer.com/p/facebook
+
+## Engineering
+
+Cal Paterson
+https://calpaterson.com
+
+
+
+## System Design
+
+https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
+https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+
+Cheat Sheets
+https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
+
+## John Cutler
+
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
+
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+
+
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
+
+## Essays
+
+https://blog.samaltman.com/what-i-wish-someone-had-told-me | What I Wish Someone Had Told Me - Sam Altman
+https://twitter.com/BrianJJi/status/1737276638545474012 | Brian Ji on X: "Sam Altman on hard work. https://t.co/qdh7TmUjMh" / X
+
+http://paulgraham.com/greatwork.html | How to Do Great Work
+https://paulgraham.com/best.html | The Best Essay
+
+## Top-Down Design
+
+https://paulgraham.com/progbot.html | Programming Bottom-Up
+
+
+## Marketing
+
+https://www.devmarketingguide.com/ | The Developer Marketing Guide
+https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
+https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
+
+https://alldjango.com/articles/developer-marketing
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+### Lawrence
+
+### Networking and Events
+
+Society of Women Engineers Wichita Section
+* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
+
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
+
+Tech Events
+* [DevICT Events](https://www.meetup.com/devict/events/)
+* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
+* [Startup Grind Events](https://www.startupgrind.com/events)
+* [Groover Labs Events](https://www.grooverlabs.org/events)
+
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+### DevICT
+
+Coworking Spaces
+* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
+
+Entrepreneurship
+* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
+
+Salary
+* [DevICT Salary Survey](http://devict.org/survey/)
+
+## Regional News
+
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+## City of Wichita
+
+City of Wichita
+* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
+
+The Chung Report
+* [The Chung Report](https://thechungreport.com/)
+
+### Hutch
+
+* [Startup Hutch](https://www.startuphutch.com/)
+
+## Travel
+
+* [Wichita Community Foundation](https://twitter.com/WichitaCF)
+* [Wichita By E.B.](https://www.wichitabyeb.com/)
+* [One Delightful Life](https://onedelightfullife.com/)
+
+<!--
+https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
+
+https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
+
+https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
+-->
+
+
+
 # Learning Resources
 
 <!--
-https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
-https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
+## Person
+
+https://veldakiara.substack.com
 
 
 Django User Model
 https://fosstodon.org/@wsvincent/112779327176673546
-
-How Linux Works
-https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
 
 
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
@@ -121,28 +801,6 @@ https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitt
 
 
 <!--
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
-## Engineering Management
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
-
-Leading Effective Engineering Teams
-https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/109814824X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.gGKTgbcVlLwyah7PyLIK9i74OGrEaB80O99Oics8dvDnHOIpz-9ORUqHP7OHmytBGabR0k6whW2hH2cZ05u4UwbL55GXB83-aTtkWAAyHNkrou86_GPFpKHGlngH1DGW6sAzQIsbWx_IDZj55phZrDbmq0dZOuo4lRJn3zNvNs7SdYsNTHw_OlPF71OsSIHs.C9bMmFW4hnyiEbOx-nWuFwRM8QbRrabfxrYfw2FWu0c&dib_tag=se&qid=1720276271&refinements=p_27%3AAddy+Osmani&s=books&sr=1-1 | Amazon.com: Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google: 9781098148249: Osmani, Addy: Books
-
-## Working Effectively with Legacy Code
-
-## Pragmatic Programmer
-
-https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
-
-
-
 ## Definitions
 
 https://www.techopedia.com/
@@ -152,32 +810,6 @@ https://www.techopedia.com/definition/4389/wrapper-software-engineering | What i
 
 
 https://kolo.app/ | Kolo for Django
-
-
-https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
-
-
-
-## Marketing
-
-https://www.devmarketingguide.com/ | The Developer Marketing Guide
-https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
-https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
-
-https://alldjango.com/articles/developer-marketing
-
-
-## High Performance Orgs
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-## Essays
-
-https://blog.samaltman.com/what-i-wish-someone-had-told-me | What I Wish Someone Had Told Me - Sam Altman
-https://twitter.com/BrianJJi/status/1737276638545474012 | Brian Ji on X: "Sam Altman on hard work. https://t.co/qdh7TmUjMh" / X
-
-http://paulgraham.com/greatwork.html | How to Do Great Work
-https://paulgraham.com/best.html | The Best Essay
 
 
 ## Atlassian
@@ -192,8 +824,6 @@ Net DevOps with Ansible on O'Reilly
 ## Sites
 
 https://opensource.com/
-
-https://thenewstack.io/
 
 ## Learning Resources
 
@@ -216,19 +846,11 @@ https://github.com/Jam3/math-as-code | Jam3/math-as-code: a cheat-sheet for math
 https://github.com/dtjunkie/electronics-engineering-formulas | dtjunkie/electronics-engineering-formulas: A collection of formulas used in electronics engineering.
 
 
-## Top-Down Design
-
-https://paulgraham.com/progbot.html | Programming Bottom-Up
-
 ## Project Based Learning
 
 https://github.com/practical-tutorials/project-based-learning | practical-tutorials/project-based-learning: Curated list of project-based tutorials
 https://github.com/codecrafters-io/build-your-own-x | codecrafters-io/build-your-own-x: Master programming by recreating your favorite technologies from scratch.
 
-
-## Person
-
-https://veldakiara.substack.com
 
 
 ## Learning Materials
@@ -285,119 +907,6 @@ http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html
 -->
 
 <!--
-## John Cutler
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
-
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
-
-## Tech Articles to Read
-
-https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
-https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
-
-## LinkedIn Teachers
-
-Rocky Bhatia
-https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
-
-https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
-https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
-https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
-https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
-
-
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
-
-## Ryan Peterman
-
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
-https://read.developing.dev/ | The Developing Dev by Ryan Peterman
-https://twitter.com/ryanlpeterman/
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
-https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
-
-## Engineering Templates
-
-https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
-https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
-https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
-https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
-https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
-https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
-https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
-
-
-## The Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
-https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
-
-https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
-https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
-https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
-https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
-https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
-
-https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
-https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
-
-https://newsletter.pragmaticengineer.com/p/facebook
-
-## Engineering
-
-Cal Paterson
-https://calpaterson.com
-
-
-
-## System Design
-
-https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
-https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
-
-Cheat Sheets
-https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
-
-https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
-
-https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
--->
-
-<!--
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
-
-https://github.com/KatherineMichel/portfolio/tree/master/
-
-
 AWS Global Certification Community
 https://aws-certification.influitive.com/forum/
 
@@ -425,90 +934,7 @@ https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Int
 https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
 -->
 
-<!--
-## Social
 
-https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
-
-## Find People
-
-https://linktr.ee/
-
-https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
-https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
-
-https://twitter.com/home | Home / Twitter
-https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
-https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
-https://fosstodon.org/notifications | Notifications - Fosstodon
-https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
-https://snort.social/posts | snort.social - Nostr interface
-https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
-https://www.youtube.com/ | (185) YouTube
--->
-
-<!--
-## Women
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
-
-## Conferences
-
-Mind the Product
-https://www.mindtheproduct.com/
-Dev conferences
-https://leaddev.com/
-https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
-
-
-## DFW
-
-https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
-
-## Event Videos
-
-https://pyvideo.org/ | PyVideo.org
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-https://pyvideo.org/events.html | PyVideo.org · Events
-
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-
-https://www.python.org/events/python-events/ | Our Events | Python.org
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
--->
 
 <!--
 ## Public Speaker
@@ -638,15 +1064,6 @@ https://www.coursera.org/learn/the-science-of-well-being/home/week/1
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
 
 
-Excellence
-* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-
-Performance Management
-* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
-* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
-
-
 
 Mind Tools
 * [Mind Tools](https://www.mindtools.com)
@@ -715,10 +1132,6 @@ http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learnin
 
 Shipping/Makers
 
-
-## High Performance Organizations
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
 
 
 ## Engineering Management
@@ -877,122 +1290,6 @@ https://www.linkedin.com/posts/maheshma_cpu-development-technology-activity-7215
 -->
 
 
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-
-## Trending
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-<!--
-In operation
-https://fosstodon.org/@HackerNewsBot@m.einverne.info
--->
-
-## GitHub News
-
-GitHub
-* [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-## GitHub Trending
-
-<!--
-https://github.com/trending/developers | Trending developers on GitHub today
-
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
-<!--
-## Stats
-
-Hacker News Stats
-https://hackernews-insight.vercel.app/user-analysis | Evidence
-https://hackernews-insight.vercel.app/keyword-analysis | Evidence
-https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
-
-GitHub Star History Graph 
-https://twitter.com/newsycombinator/status/1530625174114078721
--->
-
-<!--
-Books
-
-https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
-1️⃣ "Python Crash Course" by Eric Matthes
-2️⃣ "Fluent Python" by Luciano Ramalho
-3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
-4️⃣ "Clean Code" by Robert C. (Bob) Martin
-5️⃣ "Domain-Driven Design" by Eric Evans
-6️⃣ "Building Microservices" by Sam Newman
-7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
-8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
-9️⃣ "Cloud Native Python" by Manish Sethi
-🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
--->
-
-<!--
-## Books
-
-Clean Architecture
-Clean Code
-Code Complete
-TDD
-Extreme Programming
-
-Mythical Man
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
-
-## SICP
-
-## Python
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
-https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
-
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
-
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
-
-## End of SICP
-
-https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
-https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
-
-## More CS Books
-
-https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
-
-https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
-https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
--->
-
-<!--
-## Books
-
-https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
-
-https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
-https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
-https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
-https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
-
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-
-https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Working Effectively with Legacy Code [Book]
-https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
--->
-
-
 
 <!--
 ## Data Structures and Algos
@@ -1109,35 +1406,12 @@ https://docs.oracle.com/en/java/
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 -->
 
+
 <!--
-## Python/Django Authorities
-
-Adam Johnson
-Andrew Godwin
-Anthony Sottile
-
 Brett Cannon
 https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
 https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
-
-Carlton Gibson
-Carol Willing
-Ee Durbin
-Guido van Rossum
-Hynek Schlawack
-James Bennett
-Łukasz Langa
-Mariatta Wijaya
-Mariusz Felisiak
-Natalia Bidart
-Ned Batchelder
-Nick Coghlan
-Pablo Galindo Salgado
-Paul Ganssle
-Raymond Hettinger
-Seth Larson
-Simon Willison
 -->
 
 <!--
@@ -1295,6 +1569,7 @@ https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More T
 https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
 -->
 
+
 <!--
 ## Effective Python
 
@@ -1408,6 +1683,7 @@ Item 88: Know How to Break Circular Dependencies
 Item 89: Consider warnings to Refactor and Migrate Usage
 Item 90: Consider Static Analysis via typing to Obviate Bugs
 -->
+
 
 ## Python Articles and Tutorials
 
@@ -1905,13 +2181,6 @@ https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request
 -->
 
 <!--
-## Programming Languages
-
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
-
-https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
-
-
 ## CPython Internals
 
 Knuth Books
@@ -2004,9 +2273,6 @@ https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post
 https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
 https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
 
-## Hugo
-
-https://github.com/hugovk | hugovk (Hugo van Kemenade)
 
 ## Language Summit
 
@@ -2028,10 +2294,9 @@ Important!!!
 https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
 
 
+
 ## Seth Michael Larson
 
-https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
-https://sethmlarson.dev/ | Seth Michael Larson
 https://sethmlarson.dev/security-developer-in-residence | I am the first PSF Security Developer-in-Residence
 
 https://openssf.org/blog/2023/11/27/openssf-introduces-guide-to-becoming-a-cve-numbering-authority-as-an-open-source-project/ | OpenSSF introduces guide to becoming a CVE Numbering Authority as an Open Source project – Open Source Security Foundation
@@ -2550,18 +2815,6 @@ https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user inte
 
 https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
 https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
--->
-
-<!--
-## Server
-
-https://en.wikipedia.org/wiki/Heartbeat_(computing)
-https://en.wikipedia.org/wiki/Round-robin_DNS
-
-## State
-
-https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
-https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
 -->
 
 
@@ -3382,145 +3635,4 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
--->
-
-## Trending and Top of All Time
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## More Git News
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com) 
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
--->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-### Lawrence
-
-### Networking and Events
-
-Society of Women Engineers Wichita Section
-* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
-
-PyLadies
-* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
-
-Tech Events
-* [DevICT Events](https://www.meetup.com/devict/events/)
-* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
-* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
-* [Startup Grind Events](https://www.startupgrind.com/events)
-* [Groover Labs Events](https://www.grooverlabs.org/events)
-
-Alumni
-* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
-* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
-
-### DevICT
-
-Coworking Spaces
-* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
-
-Entrepreneurship
-* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
-
-Salary
-* [DevICT Salary Survey](http://devict.org/survey/)
-
-## Regional News
-
-News
-* [Hutchinson News](https://www.hutchnews.com/)
-* [The Wichita Eagle](https://www.kansas.com/)
-
-Business Journal
-* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
-* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
-
-## City of Wichita
-
-City of Wichita
-* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
-
-The Chung Report
-* [The Chung Report](https://thechungreport.com/)
-
-### Hutch
-
-* [Startup Hutch](https://www.startuphutch.com/)
-
-## Travel
-
-* [Wichita Community Foundation](https://twitter.com/WichitaCF)
-* [Wichita By E.B.](https://www.wichitabyeb.com/)
-* [One Delightful Life](https://onedelightfullife.com/)
-
-<!--
-https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
-
-https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
-
-https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
