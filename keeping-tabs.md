@@ -1,6 +1,17 @@
 # Keeping Tabs
 
 <!--
+## FinOps
+
+https://learn.finops.org/introduction-to-finops | Introduction to FinOps
+
+## JPMC Training
+
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://x.com/pyquantnews/status/1812518547928514803 | PyQuant News 🐍 on X: "JPMorgan's Python training. Published for business analysts and traders—by the best in the business. Get it all here (for free):" / X
+-->
+
+<!--
 https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
 
 https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
