@@ -1,6 +1,13 @@
 # Keeping Tabs
 
 <!--
+https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
+
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
+https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+
+https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
+
 https://www.gartner.com
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 https://www.thoughtworks.com/en-us/radar
@@ -16,6 +23,11 @@ https://cleancoders.com/ | Clean Coders: Level up your code.
 https://cleancoders.com/library/all | Clean Coders: Level up your code.
 https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
 
+## Martin Kleppman
+
+https://www.amazon.com/stores/author/B00Q43XKD6 | Amazon.com: Martin Kleppmann: books, biography, latest update
+https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html | Please stop calling databases CP or AP — Martin Kleppmann’s blog
+
 ## Gregor
 
 https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
@@ -28,6 +40,9 @@ https://www.youtube.com/watch?v=FGKGdUiZKto
 https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
 
 https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+
+https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542/ref=zg_bs_g_602672_d_sccl_50/139-6042390-6703204?psc=1 | The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise: Hohpe, Gregor: 9781492077541: Amazon.com: Books
+https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect/dp/B0D1R6DX2M | Platform Strategy: Innovation Through Harmonization (Architect Elevator Book Series): Hohpe, Gregor, Danieli, Michele, Landreau, Jean-Francois: 9798320272047: Amazon.com: Books
 
 ## Architectural Decision Records
 
