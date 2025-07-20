@@ -1,9 +1,43 @@
 # Keeping Tabs
 
 <!--
-## FinOps
+https://www.gartner.com
+https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
+https://www.thoughtworks.com/en-us/radar
+https://cacm.acm.org/
 
-https://learn.finops.org/introduction-to-finops | Introduction to FinOps
+Case studies
+https://twitter.com/GergelyOrosz/
+https://blog.pragmaticengineer.com/
+https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
+
+https://dataintensive.net/poster.html | The poster to accompany Designing Data-Intensive Applications (DDIA)
+https://cleancoders.com/ | Clean Coders: Level up your code.
+https://cleancoders.com/library/all | Clean Coders: Level up your code.
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+
+## Gregor
+
+https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
+https://architectelevator.com/workshops/ | Ride the Architect Elevator! - The Architect Elevator
+https://leanpub.com/platformstrategy | Platform Strategy by Gregor Hohpe [Leanpub PDF/iPad/Kindle]
+https://architectelevator.com/architecture/coupling-facets/ | Coupling and Control Flow in Distributed Systems - The Architect Elevator
+
+Advanced Integration Patterns: Coupling and Control Flow gregor hohpe
+https://www.youtube.com/watch?v=FGKGdUiZKto
+https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
+
+https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+
+## Architectural Decision Records
+
+https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
+https://www.redhat.com/architecture-decision-records | 404 - Red Hat
+https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
+
+## Distributed Systems Reading List
+
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
 
 ## JPMC Training
 
@@ -384,6 +418,7 @@ https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-ebook/dp/B08P3
 Sam Newman
 Monolith and Microservices
 https://www.amazon.com/stores/author/B00LEP6IB0
+https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT?ref_=ast_author_mpb
 
 https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4
 
