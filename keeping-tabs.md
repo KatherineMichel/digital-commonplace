@@ -1,6 +1,8 @@
 # Keeping Tabs
 
 <!--
+https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
+
 https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
 
 https://dancres.github.io/Pages/ | Distributed Systems Reading List
@@ -54,26 +56,6 @@ https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Docum
 
 https://dancres.github.io/Pages/ | Distributed Systems Reading List
 
-## JPMC Training
-
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://x.com/pyquantnews/status/1812518547928514803 | PyQuant News 🐍 on X: "JPMorgan's Python training. Published for business analysts and traders—by the best in the business. Get it all here (for free):" / X
--->
-
-<!--
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-projects.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-data.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-doc-notes-more-modules.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/python-index.md
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-packaging-and-release-management.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-testing-profiling-and-security-notes.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-tools-and-deployment.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-and-django-trends.md
-https://github.com/KatherineMichel/digital-commonplace/blob/master/tools-python-docs.md
-
-https://github.com/KatherineMichel/portfolio/tree/master/
 -->
 
 <!--
@@ -154,22 +136,6 @@ Top Links of All Times
 * [Hacker News ML Search Engine](https://hndex.ml/)
 * [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
 
-## More Git News
-
-GitHub Engineering
-* [GitHub Engineering](https://githubengineering.com)
-
-Changelog
-* [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
-
-GitLab
-* [GitLab Blog](https://about.gitlab.com/blog/)
-
-<!--
-Release Radar
-https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
--->
-
 ## Articles
 
 The Practical Dev and Hackernoon
@@ -201,18 +167,8 @@ https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
 -->
 
 <!--
-## Women
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
-
 ## Conferences
 
-Mind the Product
-https://www.mindtheproduct.com/
 Dev conferences
 https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
@@ -263,24 +219,46 @@ PyCascades
 https://www.youtube.com/c/PyCascades/playlists
 -->
 
+<!--
+## SICP
+
+## Python
+
+https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
+https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
+
+Structure and Interpretation of Computer Programs
+http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
+https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
+
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
+https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
+
+## End of SICP
+
+https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
+https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
+-->
 
 <!--
-## High Performance Orgs
+Software Design by Example
+https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
+https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
+https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
+https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
 
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+Software Design for Flexibility
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 
-
-Excellence
-* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-
-Performance Management
-* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
-* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
 
 
 Python
 https://www.amazon.com/Fluent-Python-Luciano-Ramalho-ebook/dp/B09WZJMMJP
+https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
+https://www.feldroy.com/two-scoops-of-django
 
 Algorithms
 https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X
@@ -389,11 +367,12 @@ https://www.amazon.com/Modern-Software-Engineering-Better-Faster-ebook/dp/B09GG6
 https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0
 https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
 Accelerate
-https://www.amazon.com/dp/B09JWS32W1
+https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL/
+https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B09G2GS39R/
 
 https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
 
-Mark Richards
+Mark Richards and Neal Ford
 https://www.amazon.com/stores/author/B0039T7ODK
 https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW
 https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
@@ -423,9 +402,14 @@ https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553
 Eric Evans
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG
 
+Driven Development
+
 DDD
 https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
 https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
+
+Software construction tools
+UML, TLA+
 
 Head First Design Patterns
 https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-ebook/dp/B08P3X99QP
@@ -435,10 +419,6 @@ Monolith and Microservices
 https://www.amazon.com/stores/author/B00LEP6IB0
 https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT?ref_=ast_author_mpb
 
-https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4
-
-https://www.amazon.com/User-Stories-Applied-Development-Addison-Wesley-ebook/dp/B0054KOL74
-
 https://architectelevator.com/book/
 https://www.amazon.com/stores/Gregor-Hohpe/author/B001KDEH2S
 https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
@@ -446,6 +426,14 @@ https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/d
 https://kevlin.tel/
 https://www.amazon.com/stores/Kevlin-Henney/author/B0716N93KR
 https://www.amazon.com/Pattern-Oriented-Software-Architecture-Distributed-Computing/dp/0470059028
+
+https://www.amazon.com/Operating-Systems-Three-Easy-Pieces-ebook/dp/B00TPZ17O4
+
+https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
+
+https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
+https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
+https://www.amazon.com/User-Stories-Applied-Development-Addison-Wesley-ebook/dp/B0054KOL74
 
 https://www.amazon.com/Your-Code-Crime-Scene-Second-ebook/dp/B0D6WYJS74
 
@@ -456,6 +444,9 @@ https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computing-eb
 Joe Reis- Fundamentals of Data Engineering
 https://www.amazon.com/stores/author/B0B5KBBZDJ
 
+https://www.amazon.com/Kubernetes-Running-Dive-Future-Infrastructure/dp/1491935677
+https://www.amazon.com/Cloud-Native-Python-applications-microservices/dp/1787129314
+
 Gene Kim
 https://www.amazon.com/stores/author/B00AERCJ9E
 
@@ -464,75 +455,6 @@ https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK
 https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG
 
 https://www.amazon.com/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
-
-
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
-## Engineering Management
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
--->
-
-<!--
-Books
-
-https://www.linkedin.com/posts/bogdan-veliscu_python-backenddevelopment-continuouslearning-activity-7063432721015988224-_N7s
-1️⃣ "Python Crash Course" by Eric Matthes
-2️⃣ "Fluent Python" by Luciano Ramalho
-3️⃣ "Two Scoops of Django" by Daniel Roy Greenfeld & Audrey R.
-4️⃣ "Clean Code" by Robert C. (Bob) Martin
-5️⃣ "Domain-Driven Design" by Eric Evans
-6️⃣ "Building Microservices" by Sam Newman
-7️⃣ "Continuous Delivery" by Jez Humble & Dave Farley
-8️⃣ "Kubernetes: Up and Running" by Kelsey Hightower, Brendan Burns, & Joe Beda
-9️⃣ "Cloud Native Python" by Manish Sethi
-🔟 "Fundamentals of Software Architecture" Mark Richards & Neal Ford
--->
-
-<!--
-## SICP
-
-## Python
-
-https://wizardforcel.gitbooks.io/sicp-in-python/content/ | Introduction | SICP in Python
-https://github.com/florianmari/SICP-Python-ebook/tree/master/01-building-abstractions-with-functions | SICP-Python-ebook/01-building-abstractions-with-functions at master · florianmari/SICP-Python-ebook
-
-Structure and Interpretation of Computer Programs
-http://web.mit.edu/alexmv/6.037/sicp.pdf | Structure and Interpretation of Computer Programs
-https://mitpress.mit.edu/9780262543231/structure-and-interpretation-of-computer-programs/ | Structure and Interpretation of Computer Programs
-
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs | Structure and Interpretation of Computer Programs - Wikipedia
-https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs,_JavaScript_Edition | Structure and Interpretation of Computer Programs, JavaScript Edition - Wikipedia
-
-## End of SICP
-
-https://irreal.org/blog/?p=11127 | Sussman Explains the End of SICP | Irreal
-https://www.youtube.com/watch?v=OgRFOjVzvm0 | (1) SICP: the end of an era - YouTube
-
-## More CS Books
-
-https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043/ref=zg_bs_3870_sccl_43/142-5992715-4814418?psc=1 | The Art of Computer Programming, Volumes 1-4A Boxed Set: 8580001170602: Computer Science Books @ Amazon.com
-
-https://en.wikipedia.org/wiki/How_to_Design_Programs | How to Design Programs - Wikipedia
-https://en.wikipedia.org/wiki/Essentials_of_Programming_Languages | Essentials of Programming Languages - Wikipedia
--->
-
-<!--
-## Books
-
-https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
-
-https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Example: A Tool-Based Introduction with Python (Hardcover) | Ink Fish Books
-https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
-https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
-https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
-
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 -->
 
 <!--
@@ -620,127 +542,7 @@ http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelop
 https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
 
 https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
-
-
-## John Cutler
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
-
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
-
-
-https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
-
-## Essays
-
-https://blog.samaltman.com/what-i-wish-someone-had-told-me | What I Wish Someone Had Told Me - Sam Altman
-https://twitter.com/BrianJJi/status/1737276638545474012 | Brian Ji on X: "Sam Altman on hard work. https://t.co/qdh7TmUjMh" / X
-
-http://paulgraham.com/greatwork.html | How to Do Great Work
-https://paulgraham.com/best.html | The Best Essay
-
-## Top-Down Design
-
-https://paulgraham.com/progbot.html | Programming Bottom-Up
-
-
-## Marketing
-
-https://www.devmarketingguide.com/ | The Developer Marketing Guide
-https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
-https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
-
-https://alldjango.com/articles/developer-marketing
 -->
-
-## Product Sites
-
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
-
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
-
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
-
-### Lawrence
-
-### Networking and Events
-
-Society of Women Engineers Wichita Section
-* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
-
-PyLadies
-* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
-
-Tech Events
-* [DevICT Events](https://www.meetup.com/devict/events/)
-* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
-* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
-* [Startup Grind Events](https://www.startupgrind.com/events)
-* [Groover Labs Events](https://www.grooverlabs.org/events)
-
-Alumni
-* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
-* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
-
-### DevICT
-
-Coworking Spaces
-* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
-
-Entrepreneurship
-* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
-
-Salary
-* [DevICT Salary Survey](http://devict.org/survey/)
-
-## Regional News
-
-News
-* [Hutchinson News](https://www.hutchnews.com/)
-* [The Wichita Eagle](https://www.kansas.com/)
-
-Business Journal
-* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
-* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
-
-## City of Wichita
-
-City of Wichita
-* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
-
-The Chung Report
-* [The Chung Report](https://thechungreport.com/)
-
-### Hutch
-
-* [Startup Hutch](https://www.startuphutch.com/)
-
-## Travel
-
-* [Wichita Community Foundation](https://twitter.com/WichitaCF)
-* [Wichita By E.B.](https://www.wichitabyeb.com/)
-* [One Delightful Life](https://onedelightfullife.com/)
-
-<!--
-https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
-
-https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
-
-https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
--->
-
 
 
 # Learning Resources
@@ -996,16 +798,6 @@ https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | R
 -->
 
 
-
-<!--
-## Public Speaker
-
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
-https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
-https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
--->
-
 <!--
 ## Formal Annual Review
 
@@ -1021,6 +813,7 @@ https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag do
 
 https://jacobian.org/2020/mar/13/layoffs-are-coming/
 
+L-shaped
 https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
 
 
@@ -1066,13 +859,6 @@ https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becomin
 https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
 
 
-## Management
-
-https://hbr.org/2018/10/help-your-team-do-more-without-burning-out?utm_medium=social&utm_campaign=hbr&utm_source=Linkedin&tpcc=orgsocial_edit | Help Your Team Do More Without Burning Out
-
-## Growth Metrics
-
-https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
 
 ## Survey
 
@@ -1096,34 +882,16 @@ https://twitter.com/jasonleowsg/status/1536836425026371585 | Jason Leow on Twitt
 https://github.com/readme/guides/finish-your-projects | Finish your projects
 -->
 
-<!--
-## Shipping
-
-https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
-
-What I Shipped
-https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
-
-Shipping Fridays
-https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
--->
 
 <!--
-## Carlota Perez
-
-https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
-
-
-https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
-
 https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
 
 
 The Science of Well Being
 https://www.coursera.org/learn/the-science-of-well-being/home/week/1
 
 * [Transcendental Meditation Wikipedia](https://en.wikipedia.org/wiki/Transcendental_Meditation)
-
 
 
 Mind Tools
@@ -1243,65 +1011,9 @@ https://basecamp.com/gettingreal
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
 -->
 
-<!--
-## Books
 
-Hooked, Indistractible
-https://www.nirandfar.com
-
-Deep Work
-https://calnewport.com/
-
-Tiny Habits (BJ Fogg)
-
-Atomic Habits
-https://jamesclear.com/
-
-Steve Magness
-Do Hard Things
-http://www.stevemagness.com/
-
-
-## General
-
-https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
-https://fs.blog/
-https://waitbutwhy.com/
-https://twitter.com/waitbutwhy/
-
-Sahil Bloom
-https://www.sahilbloom.com/
-https://taylorpearson.me/free/
-
-
-https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
-
-Investor/CEOs
-https://blog.samaltman.com/
-https://twitter.com/natfriedman/
-
-Makers
-https://twitter.com/swyx/
-https://twitter.com/levelsio/
-
-## Casey Newton
-
-https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
-https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
--->
 
 <!--
-SRE, DevOps, CI/CD
-
-Jez Humble
-Accelerate
-
-
-Software construction tools
-UML, TLA+
-
-Driven Development
-
 ## DevOps, SRE, and Incidents
 
 https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
@@ -1349,7 +1061,6 @@ https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-k
 CPUs and Threads
 https://www.linkedin.com/posts/maheshma_cpu-development-technology-activity-7215165124485996545-nKty/?utm_source=share&utm_medium=member_desktop
 -->
-
 
 
 <!--
@@ -1974,12 +1685,6 @@ https://planetpython.org/ | Planet Python
 
 https://speed.python.org/ | Python Speed Center
 
-https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
-https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
-
-Django Snippets
-https://djangosnippets.org/
-
 ## Jobs
 
 https://foxleytalent.com/ | Foxley Talent
@@ -2223,25 +1928,6 @@ https://twitter.com/_tomchristie/status/1256210735056785409
 -->
 
 <!--
-## Django Accessibility
-
-https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
-https://djangochat.com/episodes/accessibility-sarah-abderemane-QEazAT0L | Accessibility - Sarah Abderemane | Django Chat
-https://twitter.com/sabderemane_/status/1725588275849548042 | ⚡ Sarah Abderemane on X: "With the Django Accessibility Team, we are proud to say that Django 5.0 officially supports targets for assistive technologies! 💚 https://t.co/QXweI6lfW4 #django Cc @thibaud_colas @knyghty" / X
-https://sarahabd.com/blog/my-accessibility-review-checklist | My Accessibility Review Checklist
-
-## Accessibility
-
-https://blogs.microsoft.com/accessibility/accessibility-training-at-microsoft/ | Accessibility Training at Microsoft - Microsoft Accessibility Blog
-
-## Django Translations
-
-https://app.transifex.com/django/django/language/sw/ | Page not found
-https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
-https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
--->
-
-<!--
 ## CPython Internals
 
 Knuth Books
@@ -2293,7 +1979,48 @@ https://twitter.com/ThePSF/status/1763243792231014483 | Python Software Foundati
 https://twitter.com/samuel_colvin/status/1763339372361814187 | Samuel Colvin on X: "The US government explicitly recommends 6 memory safe languages: C# - created by Microsoft Go - created by Google Java - created by Sun, bought by Oracle Rust - create bor Mozilla Swift - created by Apple And ... Python - create by one fucking genius on his own in his Christmas… https://t.co/23ahJIVfiB" / X
 -->
 
+
 <!--
+# Python Development
+
+## Python Discussion
+
+https://discuss.python.org/
+https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
+https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
+
+## Python Core
+
+Python Language Summit and Python Core Dev Sprint
+PEPs/DEPs
+
+## Language Summit
+
+https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+
+## Python Release
+
+https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
+https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+
+Visualizing the CPython Release Process
+https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post | Feed | LinkedIn
+https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
+https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
+
+## Python Development Visualized
+
+30 years(!) of Python Development Visualized. Amazing! : Python
+https://www.visualsource.net/repo/github.com/python/cpython
+https://old.reddit.com/r/Python/comments/kl3cyk/30_years_of_python_development_visualized_amazing/ | 30 years(!) of Python Development Visualized. Amazing! : Python
+
+## Code Execution
+
+https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution
+
+Important!!!
+https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
+
 ## core.py Podcast
 
 https://podcasters.spotify.com/pod/show/corepy/ | core.py • A podcast on Spotify for Podcasters
@@ -2310,51 +2037,55 @@ https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani o
 
 https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
 
+## Sub-interpreters
 
-## Python Discussion
+https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
 
-https://discuss.python.org/
-https://discuss.python.org/latest | (7) Latest topics - Discussions on Python.org
-https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Discussions on Python.org
+## JiT
 
+https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
+https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
 
-## Python Core
+https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
+https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
+https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
+https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
+https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
+https://llvm.org/ | The LLVM Compiler Infrastructure Project
 
-Python Language Summit and Python Core Dev Sprint
-PEPs/DEPs
+## Anthony Shaw
 
+https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
 
-## Python Release
+https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
+https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
+https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
 
-https://www.youtube.com/watch?v=PGZPSWZSkJI | Python 3.11 Release - YouTube
-https://www.youtube.com/watch?v=AHT2l3hcIJg | (8) Python 3.10 Release Stream — with Pablo Galindo - YouTube
+https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
+https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
 
-Visualizing the CPython Release Process
-https://www.linkedin.com/feed/update/urn:li:activity:7105180382743990272/ | Post | Feed | LinkedIn
-https://sethmlarson.dev/security-developer-in-residence-weekly-report-9 | Visualizing the CPython Release Process
-https://sethmlarson.dev/pep-440 | Quirks of Python package versioning
+https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
 
+## Threads and Multi processing
 
-## Language Summit
+https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
 
-https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+## Free-threaded example
 
+https://x.com/HenrySchreiner3/status/1796748354736505101 | Henry Schreiner III on X: "I released scikit-build-core 0.9.5, which supports free-threaded Python 3.13 on Windows now too! Added a free threaded example using cibuildwheel to the sample repo. https://t.co/NFsbzTMdnM" / X
 
-## Python Development Visualized
+## Fix Python
 
-30 years(!) of Python Development Visualized. Amazing! : Python
-https://www.visualsource.net/repo/github.com/python/cpython
-https://old.reddit.com/r/Python/comments/kl3cyk/30_years_of_python_development_visualized_amazing/ | 30 years(!) of Python Development Visualized. Amazing! : Python
+https://github.com/faster-cpython/ | faster-cpython
 
+https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
 
-## Code Execution
-
-https://pythontutor.com/ | Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution
-
-Important!!!
-https://github.com/asweigart/showcallstack | asweigart/showcallstack: Shows a simplified view of the call stack.
-
-
+# Security
 
 ## Seth Michael Larson
 
@@ -2402,76 +2133,21 @@ https://lincolnloop.github.io/python-package-manager-shootout/ | Python Package 
 
 Top 5
 https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
+-->
 
+<!--
+# Tools
 
-## Sub-interpreters
+## Astral
 
-https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
-
-## JiT
-
-https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
-https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
-
-https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
-https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
-https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
-https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
-https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
-https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
-https://llvm.org/ | The LLVM Compiler Infrastructure Project
-
-## Anthony Shaw
-
-https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
-
-https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
-https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
-https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
-
-https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
-https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
-
-https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
-
-## Threads and Multi processing
-
-https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
-
-
-## Free-threaded example
-
-https://x.com/HenrySchreiner3/status/1796748354736505101 | Henry Schreiner III on X: "I released scikit-build-core 0.9.5, which supports free-threaded Python 3.13 on Windows now too! Added a free threaded example using cibuildwheel to the sample repo. https://t.co/NFsbzTMdnM" / X
-
-
-## Fix Python
-
-https://github.com/faster-cpython/ | faster-cpython
-
-https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
-
-## Mojo
-
-https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
-https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
-https://github.com/modularml/mojo | modularml/mojo: The Mojo Programming Language
-
-## LPython
-
-https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twitter: "Just announced LPython - a high performance compiler for Python with multiple backends. LPython is a novel, fast, and retargetable Python compiler that can compile type-annotated Python code to optimized machine code. It offers several backends such as LLVM, C, C++, WASM,…" / X
-
-
-## Wasmer
-
-https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler | Announcing py2wasm: A Python to Wasm compiler · Blog · Wasmer
-
-## ASGI
-
-https://fly.io/django-beats/asgi-deployment-options-for-django/ | ASGI deployment options for Django · Django Beats
+https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
+https://astral.sh/blog/the-ruff-formatter | The Ruff Formatter: An extremely fast, Black-compatible Python formatter
+https://astral.sh/blog/uv | uv: Python packaging in Rust
+https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
+https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
+https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
+https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
+https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
 
 ## Python and Rust
 
@@ -2484,16 +2160,40 @@ https://www.rust-lang.org/learn/get-started | Getting started - Rust Programming
 https://timclicks.dev/ | timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
 https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust | Writing and publishing a Python module in Rust
 
-## Astral
+## DjangoCon Europe Sphinx Talk
 
-https://astral.sh/blog/announcing-astral-the-company-behind-ruff | Announcing Astral, the company behind Ruff
-https://astral.sh/blog/the-ruff-formatter | The Ruff Formatter: An extremely fast, Black-compatible Python formatter
-https://astral.sh/blog/uv | uv: Python packaging in Rust
-https://github.com/astral-sh/uv | astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.
-https://astral.sh/blog/ruff-v0.4.0 | Ruff v0.4.0: a hand-written recursive descent parser for Python
-https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PACKAGING? 🐍📦 - YouTube
-https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
-https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
+https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
+
+## Pallets
+
+https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
+
+## Time
+
+https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
+https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+
+# Experimental Tools
+
+## Mojo
+
+https://www.modular.com/mojo | Mojo 🔥: Programming language for all of AI
+https://www.fast.ai/posts/2023-05-03-mojo-launch.html | fast.ai - Mojo may be the biggest programming language advance in decades
+https://github.com/modularml/mojo | modularml/mojo: The Mojo Programming Language
+
+## LPython
+
+https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twitter: "Just announced LPython - a high performance compiler for Python with multiple backends. LPython is a novel, fast, and retargetable Python compiler that can compile type-annotated Python code to optimized machine code. It offers several backends such as LLVM, C, C++, WASM,…" / X
+
+## Wasmer
+
+https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler | Announcing py2wasm: A Python to Wasm compiler · Blog · Wasmer
+
+## ASGI
+
+https://fly.io/django-beats/asgi-deployment-options-for-django/ | ASGI deployment options for Django · Django Beats
 
 ## Py03
 
@@ -2512,18 +2212,12 @@ https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
 https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
 https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
 
-Towncrier
+## Towncrier
+
 https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
 
 
-## DjangoCon Europe Sphinx Talk
-
-https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
-
-
-## Pallets
-
-https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
+# Data Science and Open Source
 
 ## Numpy Release
 
@@ -2542,58 +2236,40 @@ https://quansight.com/ | Home | Quansight Consulting
 https://labs.quansight.org/ | Home Page | Labs
 https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual Report 2023: Building for Ecosystem-wide Impact and Sustainability | Labs
 
+## Overthinking
 
-## Python, Quant, Finance
-
-https://github.com/hsbc | HSBC
-
-https://twitter.com/pyquantnews/
-https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
-
-Bank Python
-https://calpaterson.com/bank-python.html
-
-JPMC Python training
-https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
-https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
-https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
-
-https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
-
-## Bloomberg Tool
-
-https://github.com/bloomberg/memray/
-https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
-https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
-https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
-
-## Goldman Sachs
-
-https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
-https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
-https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
-https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
+https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ | Probably Overthinking It Notebooks – Probably Overthinking It
 -->
 
-
 <!--
+# Examples
+
 ## Python Applications
 
 https://github.com/mahmoud/awesome-python-applications | mahmoud/awesome-python-applications: 💿 Free software that works great, and also happens to be open-source Python.
 
-## Jacob's Template
+## Django Sites
 
-https://github.com/jacobian/personal-app-template | jacobian/personal-app-template: A cookiecutter template for little personal apps.
+https://www.djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
-## Overthinking
+https://builtwithdjango.com/projects/ | Built with Django
+https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
+https://web.archive.org/web/20231216212959/https://djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
 
-https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ | Probably Overthinking It Notebooks – Probably Overthinking It
+# Django Tools
 
+## Django Packages and Snippets
+
+https://djangopackages.org/ | Django Packages : Reusable apps, sites and tools directory
+https://djangosnippets.org/
 
 ## Django Upgrade
 
 https://upgradedjango.com/ | Upgrade Django
 
+## Jacob's Template
+
+https://github.com/jacobian/personal-app-template | jacobian/personal-app-template: A cookiecutter template for little personal apps.
 
 ## django-simple-deploy
 
@@ -2630,12 +2306,7 @@ https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modern
 
 https://github.com/oliverandrich/django-tailwind-cli | oliverandrich/django-tailwind-cli: Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 
-
-## Django Sites
-
-https://builtwithdjango.com/projects/ | Built with Django
-https://www.rossp.org/blog/farewell-djangosites/ | Farewell, Djangosites - Ross Poulton
-https://web.archive.org/web/20231216212959/https://djangosites.org/with-source/ | Sites with Source Code at DjangoSites.org
+# Diversity
 
 ## Djangonaut Space
 
@@ -2647,11 +2318,58 @@ https://www.youtube.com/@Djangonaut-Views | (66) Djangonaut Views - YouTube
 -->
 
 <!--
-## Time
+## Python, Quant, Finance
 
-https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
-https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+https://github.com/hsbc | HSBC
+
+https://twitter.com/pyquantnews/
+https://news.ycombinator.com/item?id=40831991 | Python toolkit for quantitative finance | Hacker News
+
+Bank Python
+https://calpaterson.com/bank-python.html
+
+## JPMC Training
+
+JPMC Python training
+https://github.com/jpmorganchase/python-training | jpmorganchase/python-training: Python training for business analysts and traders
+https://twitter.com/ArkN_007/status/1644759227968409601 | Ark Nieckarz on Twitter: "@KatiMichel This and @openbb_finance, now just need time to learn." / Twitter
+https://github.com/OpenBB-finance/OpenBBTerminal | OpenBB-finance/OpenBBTerminal: Investment Research for Everyone, Anywhere.
+https://x.com/pyquantnews/status/1812518547928514803 | PyQuant News 🐍 on X: "JPMorgan's Python training. Published for business analysts and traders—by the best in the business. Get it all here (for free):" / X
+
+https://www.pybroker.com/en/latest/index.html | Algorithmic Trading in Python with Machine Learning — PyBroker
+
+## Bloomberg Tool
+
+https://github.com/bloomberg/memray/
+https://github.com/bloomberg/pytest-memray | bloomberg/pytest-memray: pytest plugin for easy integration of memray memory profiler
+https://www.bloomberg.com/company/stories/bloomberg-publishes-pystack-debugging-tool-python/ | Bloomberg publishes PyStack, a debugging tool for when a running Python process crashes or gets stuck | Bloomberg LP
+https://twitter.com/msg/status/1642197978210533376 | ⌐🄼ˢ🄶 on Twitter: "My favorite thing about Bloomberg GPT is that it was trained on the Enron emails https://t.co/BAOC5SOEhT https://t.co/BUEEtJs260" / Twitter
+
+## Goldman Sachs
+
+https://news.ycombinator.com/from?site=github.com/goldmansachs | Submissions from github.com/goldmansachs | Hacker News
+https://github.com/goldmansachs/gs-quant | goldmansachs/gs-quant: Python toolkit for quantitative finance
+https://developer.gs.com/docs/gsquant/pricing-and-risk/scenarios/ | Scenarios - Goldman Sachs Developer
+https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Goldman Sachs Developer
+-->
+
+<!--
+## Django Accessibility
+
+https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
+https://djangochat.com/episodes/accessibility-sarah-abderemane-QEazAT0L | Accessibility - Sarah Abderemane | Django Chat
+https://twitter.com/sabderemane_/status/1725588275849548042 | ⚡ Sarah Abderemane on X: "With the Django Accessibility Team, we are proud to say that Django 5.0 officially supports targets for assistive technologies! 💚 https://t.co/QXweI6lfW4 #django Cc @thibaud_colas @knyghty" / X
+https://sarahabd.com/blog/my-accessibility-review-checklist | My Accessibility Review Checklist
+
+## Accessibility
+
+https://blogs.microsoft.com/accessibility/accessibility-training-at-microsoft/ | Accessibility Training at Microsoft - Microsoft Accessibility Blog
+
+## Django Translations
+
+https://app.transifex.com/django/django/language/sw/ | Page not found
+https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#translations | Localizing Django | Django documentation | Django
+https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
 -->
 
 ## Python and Django Testing
@@ -3696,4 +3414,256 @@ https://github.com/bradtraversy/vanillawebprojects | bradtraversy/vanillawebproj
 https://github.com/bradtraversy/50projects50days | bradtraversy/50projects50days: 50+ mini web projects using HTML, CSS & JS
 
 https://css-tricks.com/ | CSS-Tricks - Tips, Tricks, and Techniques on using Cascading Style Sheets.
+-->
+
+
+## More Git News
+
+GitHub Engineering
+* [GitHub Engineering](https://githubengineering.com)
+
+Changelog
+* [GitHub Changelog Twitter](https://twitter.com/GHchangelog)
+
+GitLab
+* [GitLab Blog](https://about.gitlab.com/blog/)
+
+<!--
+Release Radar
+https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
+-->
+
+<!--
+## Women
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
+-->
+
+<!--
+## Public Speaker
+
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+-->
+
+<!--
+## High Performance Orgs
+
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
+
+Excellence
+* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
+
+Performance Management
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
+-->
+
+<!--
+## Management
+
+https://hbr.org/2018/10/help-your-team-do-more-without-burning-out | Help Your Team Do More Without Burning Out
+
+## Growth Metrics
+
+https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
+
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
+
+## Engineering Management
+
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+-->
+
+<!--
+## Makers
+
+https://twitter.com/swyx/
+https://twitter.com/levelsio/
+
+## Shipping
+
+https://levels.io/100-days-of-shipping | What I learnt from 100 days of shipping
+
+What I Shipped
+https://docs.google.com/spreadsheets/d/14O-rYAEv12rdL0ASTFVGsMVNPBQN49VQYO9B8fQYj6Y/edit#gid=0
+
+Shipping Fridays
+https://discord.com/channels/767860528562307082/797226343938392065 | shipping-friday
+-->
+
+<!--
+## John Cutler
+
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
+
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+
+## Product
+
+Mind the Product
+https://www.mindtheproduct.com/
+
+## Books
+
+Hooked, Indistractible
+https://www.nirandfar.com
+
+Deep Work
+https://calnewport.com/
+
+Tiny Habits (BJ Fogg)
+
+Atomic Habits
+https://jamesclear.com/
+
+Steve Magness
+Do Hard Things
+http://www.stevemagness.com/
+
+## General
+
+https://tim.blog/ | The Blog of Author Tim Ferriss - Tim Ferriss's 4-Hour Workweek and Lifestyle Design Blog. Tim is an author of 5 #1 NYT/WSJ bestsellers, investor (FB, Uber, Twitter, 50+ more), and host of The Tim Ferriss Show podcast (400M+ downloads)
+
+https://tim.blog/2017/05/15/fear-setting/ | Fear-Setting: The Most Valuable Exercise I Do Every Month - The Blog of Author Tim Ferriss
+
+https://fs.blog/
+https://waitbutwhy.com/
+https://twitter.com/waitbutwhy/
+
+Sahil Bloom
+https://www.sahilbloom.com/
+https://taylorpearson.me/free/
+
+## CEOs/Investors
+
+https://blog.samaltman.com/
+https://blog.samaltman.com/what-i-wish-someone-had-told-me | What I Wish Someone Had Told Me - Sam Altman
+https://twitter.com/BrianJJi/status/1737276638545474012 | Brian Ji on X: "Sam Altman on hard work. https://t.co/qdh7TmUjMh" / X
+
+https://twitter.com/natfriedman/
+
+http://paulgraham.com/greatwork.html | How to Do Great Work
+https://paulgraham.com/best.html | The Best Essay
+
+## Top-Down Design
+
+https://paulgraham.com/progbot.html | Programming Bottom-Up
+
+## Carlota Perez and Innovation
+
+https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
+
+https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
+
+## Marketing
+
+https://www.devmarketingguide.com/ | The Developer Marketing Guide
+https://docs.google.com/spreadsheets/d/1tAiya71mDQgtwn_F9-mNQhuc7GdsQ5e2_BeG69Cb82A/edit#gid=0 | www.patrickkeane.me- Top Resources for Startup Marketing and PR - Google Sheets
+https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you how to grow your SaaS business
+
+https://alldjango.com/articles/developer-marketing
+
+## Casey Newton
+
+https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
+https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
+-->
+
+## Product Sites
+
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
+
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
+
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
+
+### Lawrence
+
+### Networking and Events
+
+Society of Women Engineers Wichita Section
+* [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
+
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
+
+Tech Events
+* [DevICT Events](https://www.meetup.com/devict/events/)
+* [Library Tech Talks](https://www.meetup.com/devict/events/khwckrybcfbjb/)
+* [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
+* [Startup Grind Events](https://www.startupgrind.com/events)
+* [Groover Labs Events](https://www.grooverlabs.org/events)
+
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+### DevICT
+
+Coworking Spaces
+* [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
+
+Entrepreneurship
+* [Startup Grind Wichita](https://www.startupgrind.com/wichita/)
+
+Salary
+* [DevICT Salary Survey](http://devict.org/survey/)
+
+## Regional News
+
+News
+* [Hutchinson News](https://www.hutchnews.com/)
+* [The Wichita Eagle](https://www.kansas.com/)
+
+Business Journal
+* [Wichita Business Journal](https://www.bizjournals.com/wichita/)
+* [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
+
+## City of Wichita
+
+City of Wichita
+* [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
+
+The Chung Report
+* [The Chung Report](https://thechungreport.com/)
+
+### Hutch
+
+* [Startup Hutch](https://www.startuphutch.com/)
+
+## Travel
+
+* [Wichita Community Foundation](https://twitter.com/WichitaCF)
+* [Wichita By E.B.](https://www.wichitabyeb.com/)
+* [One Delightful Life](https://onedelightfullife.com/)
+
+<!--
+https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
+
+https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
+
+https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
 -->
