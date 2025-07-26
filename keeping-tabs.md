@@ -1151,6 +1151,25 @@ https://realpython.com/python-news-march-2021/ | Python News: What's New From Ma
 https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
 -->
 
+<!--
+## DEPs and PEPs, PRs
+
+https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
+
+https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
+
+https://github.com/capi-workgroup | capi-workgroup
+
+https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
+https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
+
+https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
+
+https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
+https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
+https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
+-->
+
 ## Django Feature Roundups
 
 <!--
@@ -1172,7 +1191,6 @@ https://twitter.com/_tomchristie/status/1256210735056785409
 
 
 
-
 # Learning Resources
 
 <!--
@@ -1183,12 +1201,7 @@ https://veldakiara.substack.com
 Django User Model
 https://fosstodon.org/@wsvincent/112779327176673546
 
-## GIL
 
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
--->
-
-<!--
 ## PySheets
 
 https://pysheets.app/ | PySheets - Spreadsheet UI for Python
@@ -1197,32 +1210,6 @@ https://pysheets.app/ | PySheets - Spreadsheet UI for Python
 https://www.django-unicorn.com/ | Unicorn
 https://django-ninja.dev/ | Django Ninja
 
-
-## CPython
-
-https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
-https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
-https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
-https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
-https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
-
-
-## DEPs and PEPs, PRs
-
-https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
-
-https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
-
-https://github.com/capi-workgroup | capi-workgroup
-
-https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
-https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
-
-https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
-
-https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
-https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
-https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
 
 ## Python Learning
 
@@ -1728,6 +1715,15 @@ https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
 
 
 <!--
+## CPython
+
+https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
+https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
+https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
+https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
+https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
+
+
 ## CPython Internals
 
 Knuth Books
@@ -1836,6 +1832,10 @@ https://fosstodon.org/@ambv@mastodon.social/112378027421942468 | Łukasz Langa: 
 https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
 https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
+
+## GIL
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
 
 ## Sub-interpreters
 
