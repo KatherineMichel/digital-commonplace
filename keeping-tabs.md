@@ -175,50 +175,9 @@ Dev conferences
 https://leaddev.com/
 https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
 
-
 ## DFW
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
-
-## Event Videos
-
-https://pyvideo.org/ | PyVideo.org
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-https://pyvideo.org/events.html | PyVideo.org · Events
-
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-
-https://www.python.org/events/python-events/ | Our Events | Python.org
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
 -->
 
 <!--
@@ -1361,6 +1320,48 @@ https://devguide.python.org/core-developers/developer-log/ | Developer log
 https://devguide.python.org/core-developers/developer-log/index.html | Developer log
 
 https://www.curiousefficiency.org/pages/about/
+-->
+
+<!--
+## Event Videos
+
+https://pyvideo.org/ | PyVideo.org
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+https://pyvideo.org/events.html | PyVideo.org · Events
+
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+
+## Events
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+
+https://www.python.org/events/python-events/ | Our Events | Python.org
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
 -->
 
 <!--
