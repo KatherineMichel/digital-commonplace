@@ -1202,14 +1202,6 @@ Django User Model
 https://fosstodon.org/@wsvincent/112779327176673546
 
 
-## PySheets
-
-https://pysheets.app/ | PySheets - Spreadsheet UI for Python
-
-
-https://www.django-unicorn.com/ | Unicorn
-https://django-ninja.dev/ | Django Ninja
-
 
 ## Python Learning
 
@@ -1217,7 +1209,7 @@ https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython
 
 https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
 
-https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
+https://www.pythonmorsels.com/cli-tools/ | Python's many command-line utilities - Python Morsels
 https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
 
 https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
@@ -1228,16 +1220,6 @@ https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from 
 
 https://wsvincent.com/books/ | Books - Will Vincent
 https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-## Python Pulse and VS Code
-
-https://www.youtube.com/@code
-https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 -->
 
 <!--
@@ -1251,7 +1233,24 @@ https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
 
 https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
 
+
+## Tools
+
 https://kolo.app/ | Kolo for Django
+
+https://pysheets.app/ | PySheets - Spreadsheet UI for Python
+
+https://www.django-unicorn.com/ | Unicorn
+https://django-ninja.dev/ | Django Ninja
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+## Python Pulse and VS Code
+
+https://www.youtube.com/@code
+https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
 -->
 
 
