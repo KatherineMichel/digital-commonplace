@@ -8,7 +8,6 @@ https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
 https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
 
-https://dancres.github.io/Pages/ | Distributed Systems Reading List
 https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
 
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
