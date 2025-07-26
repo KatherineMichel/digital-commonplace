@@ -558,32 +558,12 @@ Django User Model
 https://fosstodon.org/@wsvincent/112779327176673546
 
 
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
-
-## Testing
-
-https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
-
-https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
-https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
 
 ## GIL
 
 https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
 
-## Profiling
 
-https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
-
-## TDD
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
-https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
-
-https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
 -->
 
 <!--
@@ -1119,6 +1099,259 @@ Sliding Window Patterns: https://leetcode.com/problems/frequency-of-the-most-fre
 Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginners-Problems-or-Pattern-or-Sample-Solutions
 -->
 
+
+## PSF Official
+
+* [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
+
+<!--
+https://www.python.org/community/lists/ | Mailing Lists | Python.org
+https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
+https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
+
+PSF Minutes
+https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
+
+PSF Community links
+https://pyfound.blogspot.com/2022/11/where-is-psf.html | Python Software Foundation News: Where is the PSF?
+
+https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
+
+https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
+-->
+
+## Python and Django Official News
+
+Python News
+* [Python Insider](https://pythoninsider.blogspot.com/)
+
+Django Announcements
+* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
+
+<!--
+* [Pythonic News](https://news.python.sc/)
+
+## Developer Survey
+
+https://survey.alchemer.com/s3/7554174/python-developers-survey-2023 | Python Developers Survey 2023
+
+Django Survey
+https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
+https://lp.jetbrains.com/django-developer-survey-2023/ | Django Developers Survey 2023 Results
+
+## Django Official
+
+https://www.djangoproject.com/community/ | Django Community | Django
+https://twitter.com/djangoproject/
+
+## Django Dev
+
+https://www.djangoproject.com/weblog
+-->
+
+## Python and Django
+
+Python, Django
+* [Python](https://www.python.org/)
+* [Django](https://www.djangoproject.com/)
+
+<!--
+https://github.com/python/cpython
+https://github.com/django/django
+-->
+
+## Python Releases
+
+New Releases and Pre-Releases
+* [Python Downloads](https://www.python.org/downloads)
+* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
+
+Release Schedules
+* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
+* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
+* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
+
+<!--
+https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
+
+https://python-release-cycle.glitch.me/ | Python Release Cycle
+
+## Python Dev
+
+https://peps.python.org/pep-0101/ | PEP 101 – Doing Python Releases 101 | peps.python.org
+https://github.com/python/cpython/issues | Issues · python/cpython
+https://devguide.python.org/developer-workflow/development-cycle/index.html | Development cycle
+https://www.youtube.com/watch?v=PGZPSWZSkJI&t=2s | (17) Python 3.11 Release - YouTube
+-->
+
+## Python Change Notes
+
+* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
+
+## Python PEPs
+
+<!--
+https://github.com/vinayak-mehta/python-peps-graph
+
+http://python-peps-graph.glitch.me/ | Python PEPs Graph
+-->
+
+## Django New Releases, Release Notes, and DEPs
+
+<!--
+https://code.djangoproject.com/ | Django
+
+## Django Contributing
+
+https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
+
+## Sarah
+
+https://www.djangoproject.com/weblog/2024/mar/22/welcome-our-new-fellow-sarah-boyce/ | Welcome our new Fellow - Sarah Boyce | Weblog | Django
+
+## DEP
+
+https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
+https://github.com/django/deps/pull/86/files | Background workers by RealOrangeOne · Pull Request #86 · django/deps
+https://github.com/RealOrangeOne | RealOrangeOne (Jake Howard)
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Django News - DEP 14 (Background Workers) Approved! - kthrnmichel@gmail.com - Gmail
+-->
+
+## Django Official Roadmap and Versions
+
+Supported Versions
+* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
+
+<!--
+## Django Roadmap
+
+https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
+
+https://django-release-cycle.glitch.me/
+https://jefftriplett.com/django-release-cycle/
+https://twitter.com/webology/status/1235628234148110336
+
+## Django Roadmap
+
+https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
+https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
+-->
+
+## Python Feature Roundups
+
+<!--
+## Python 3.13
+
+https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b1 documentation
+
+https://realpython.com/python38-new-features/
+https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
+https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
+https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
+https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
+-->
+
+## Django Feature Roundups
+
+<!--
+## Django New Release
+
+https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
+
+Django 5.0
+https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
+https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
+https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
+
+DRF, Wagtail
+
+Encode
+http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
+https://twitter.com/_tomchristie/status/1256210735056785409
+-->
+
+
+
+<!--
+## Python Newsletters
+
+https://when-of-python.github.io
+
+https://substack.com/@bitecode
+
+https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
+
+https://planetpython.org/ | Planet Python
+
+https://speed.python.org/ | Python Speed Center
+-->
+
+
+## Python Podcasts
+
+<!--
+## PyPodcats
+
+https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
+https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
+
+## Sad Python Girls Club
+
+https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
+
+## Django Chat
+
+https://djangochat.com
+https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
+-->
+
+## Python Unofficial News and Projects
+
+Django News
+* [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
+* [Bite Code Archive](https://www.bitecode.dev/archive)
+* [Bas Codes](https://bas.codes/)
+
+<!--
+https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
+
+https://www.bitecode.dev/ | Bite code! | Substack
+https://substack.com/@bitecode | Bite Code! | Substack
+
+https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
+-->
+
+
+<!--
+## Python Community
+
+Good tweets? (See also Real Python and testdriven)
+https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
+
+Python Developer LinkedIn Group
+https://www.linkedin.com/groups/6986570/
+https://www.linkedin.com/groups/25827/ | (38) Python Developers Community (moderated) | Groups | LinkedIn
+https://www.linkedin.com/groups/101591/ | (9) Python Web Developers | Groups | LinkedIn
+
+https://www.reddit.com/r/Python/
+https://realpython.com/python-news-august-2023/ | Python News: What's New From August 2023 – Real Python
+https://realpython.com/python-news-may-2022/ | Python News: What's New From May 2022 – Real Python
+https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
+
+Important
+https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
+https://www.bitecode.dev/p/whats-up-in-the-python-community-790/comment/16584826 | Comments - What's up in the Python community?
+
+https://devblogs.microsoft.com/python/announcing-python-pulse/ | The Python Pulse: A Monthly Microsoft Stream - Python
+https://twitter.com/DawnWagesSays/status/1569698566612066305 | (dawn) bajoran engineer on Twitter: "What are your favorite places to keep track of #Python news? RT for reach." / Twitter
+https://twitter.com/PyCommunityNews/
+
+No longer in operation
+https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
+https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
+-->
+
+
 <!--
 Brett Cannon
 https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
@@ -1497,255 +1730,7 @@ https://learndjango.com/books/ | Django Books
 https://www.linkedin.com/in/mkennedy/ | Michael Kennedy | LinkedIn
 -->
 
-<!--
-## Python Newsletters
 
-https://when-of-python.github.io
-
-https://substack.com/@bitecode
-
-https://www.backblaze.com/blog/top-ten-blog-posts-of-2022/ | Top Ten Blog Posts of 2022
-
-https://planetpython.org/ | Planet Python
-
-https://speed.python.org/ | Python Speed Center
--->
-
-
-## Python Podcasts
-
-<!--
-## PyPodcats
-
-https://pypodcats.live/blog/python_podcast_gender_diversity_and_representation/ | Gender Diversity and Representation in Popular Python Community Podcasts
-https://pyfound.blogspot.com/2023/12/announcing-hidden-figures-of-python-pypodcats.html | Python Software Foundation News: Announcing the Hidden Figures of Python Podcast!
-
-## Sad Python Girls Club
-
-https://open.spotify.com/episode/5ZDVQ84N1kiGfiUUP3liZx | S2 Episode 1 - New Year, New Season! 🎉 • Sad Python Girls Club
-
-## Django Chat
-
-https://djangochat.com
-https://fosstodon.org/@carlton/111300877531721385 | Carlton Gibson 🇪🇺: "In the latest @djangochat, @ne…" - Fosstodon
--->
-
-## Python Unofficial News and Projects
-
-Django News
-* [Django News Dev](https://dev.to/djangonews/), [Django News Twitter](https://twitter.com/djangonewsbot)
-* [Bite Code Archive](https://www.bitecode.dev/archive)
-* [Bas Codes](https://bas.codes/)
-
-<!--
-https://www.linkedin.com/company/pip-trends/posts/?feedView=all | (1) pip Trends: Posts | LinkedIn
-
-https://www.bitecode.dev/ | Bite code! | Substack
-https://substack.com/@bitecode | Bite Code! | Substack
-
-https://awesomedjango.org/ | Awesome Django | A curated list of awesome things related to Django. Maintained by William Vincent and Jeff Triplett
--->
-
-
-<!--
-## Python Community
-
-Good tweets? (See also Real Python and testdriven)
-https://twitter.com/bitecode_dev | Bite Code! (@bitecode_dev) / Twitter
-
-Python Developer LinkedIn Group
-https://www.linkedin.com/groups/6986570/
-https://www.linkedin.com/groups/25827/ | (38) Python Developers Community (moderated) | Groups | LinkedIn
-https://www.linkedin.com/groups/101591/ | (9) Python Web Developers | Groups | LinkedIn
-
-https://www.reddit.com/r/Python/
-https://realpython.com/python-news-august-2023/ | Python News: What's New From August 2023 – Real Python
-https://realpython.com/python-news-may-2022/ | Python News: What's New From May 2022 – Real Python
-https://realpython.com/python-news-june-2022/ | Python News: What's New From June 2022 – Real Python
-
-Important
-https://bitecode.substack.com/p/whats-up-in-the-python-community | What's up in the Python community?
-https://www.bitecode.dev/p/whats-up-in-the-python-community-790/comment/16584826 | Comments - What's up in the Python community?
-
-https://devblogs.microsoft.com/python/announcing-python-pulse/ | The Python Pulse: A Monthly Microsoft Stream - Python
-https://twitter.com/DawnWagesSays/status/1569698566612066305 | (dawn) bajoran engineer on Twitter: "What are your favorite places to keep track of #Python news? RT for reach." / Twitter
-https://twitter.com/PyCommunityNews/
-
-No longer in operation
-https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
-https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
--->
-
-
-## PSF Official
-
-* [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
-
-<!--
-https://www.python.org/community/lists/ | Mailing Lists | Python.org
-https://mail.python.org/mailman/listinfo | mail.python.org Mailing Lists
-https://mail.python.org/archives/ | Mailman 3 Available lists - python.org
-
-PSF Minutes
-https://www.python.org/psf/records/board/minutes/ | PSF Meeting Minutes | Python.org
-
-PSF Community links
-https://pyfound.blogspot.com/2022/11/where-is-psf.html | Python Software Foundation News: Where is the PSF?
-
-https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python Software Foundation
-
-https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
--->
-
-## Python and Django Official News
-
-Python News
-* [Python Insider](https://pythoninsider.blogspot.com/)
-
-Django Announcements
-* [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
-
-<!--
-* [Pythonic News](https://news.python.sc/)
-
-## Developer Survey
-
-https://survey.alchemer.com/s3/7554174/python-developers-survey-2023 | Python Developers Survey 2023
-
-Django Survey
-https://www.djangoproject.com/weblog/2023/sep/05/2023-django-developers-survey/
-https://lp.jetbrains.com/django-developer-survey-2023/ | Django Developers Survey 2023 Results
-
-## Django Official
-
-https://www.djangoproject.com/community/ | Django Community | Django
-https://twitter.com/djangoproject/
-
-## Django Dev
-
-https://www.djangoproject.com/weblog
--->
-
-## Python and Django
-
-Python, Django
-* [Python](https://www.python.org/)
-* [Django](https://www.djangoproject.com/)
-
-<!--
-https://github.com/python/cpython
-https://github.com/django/django
--->
-
-## Python Releases
-
-New Releases and Pre-Releases
-* [Python Downloads](https://www.python.org/downloads)
-* [Python Pre-Releases](https://www.python.org/download/pre-releases/)
-
-Release Schedules
-* [PEP 537- Python 3.7 Release Schedule](https://www.python.org/dev/peps/pep-0537)
-* [PEP 429- Python 3.4 Release Schedule](https://www.python.org/dev/peps/pep-0429)
-* [PEP 373- Python 2.7 Release Schedule](https://www.python.org/dev/peps/pep-0373)
-
-<!--
-https://www.python.org/dev/peps/pep-0596/ | PEP 596 -- Python 3.9 Release Schedule | Python.org
-
-https://python-release-cycle.glitch.me/ | Python Release Cycle
-
-## Python Dev
-
-https://peps.python.org/pep-0101/ | PEP 101 – Doing Python Releases 101 | peps.python.org
-https://github.com/python/cpython/issues | Issues · python/cpython
-https://devguide.python.org/developer-workflow/development-cycle/index.html | Development cycle
-https://www.youtube.com/watch?v=PGZPSWZSkJI&t=2s | (17) Python 3.11 Release - YouTube
--->
-
-## Python Change Notes
-
-* [What's New Changelog](https://docs.python.org/dev/whatsnew/changelog.html#changelog)
-
-## Python PEPs
-
-<!--
-https://github.com/vinayak-mehta/python-peps-graph
-
-http://python-peps-graph.glitch.me/ | Python PEPs Graph
--->
-
-## Django New Releases, Release Notes, and DEPs
-
-<!--
-https://code.djangoproject.com/ | Django
-
-## Django Contributing
-
-https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to Django | Django documentation | Django
-
-## Sarah
-
-https://www.djangoproject.com/weblog/2024/mar/22/welcome-our-new-fellow-sarah-boyce/ | Welcome our new Fellow - Sarah Boyce | Weblog | Django
-
-## DEP
-
-https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
-https://github.com/django/deps/pull/86/files | Background workers by RealOrangeOne · Pull Request #86 · django/deps
-https://github.com/RealOrangeOne | RealOrangeOne (Jake Howard)
-https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Django News - DEP 14 (Background Workers) Approved! - kthrnmichel@gmail.com - Gmail
--->
-
-## Django Official Roadmap and Versions
-
-Supported Versions
-* [Supported Versions](https://www.djangoproject.com/download/#supported-versions)
-
-<!--
-## Django Roadmap
-
-https://code.djangoproject.com/wiki/Version5.1Roadmap | Version5.1Roadmap – Django
-
-https://django-release-cycle.glitch.me/
-https://jefftriplett.com/django-release-cycle/
-https://twitter.com/webology/status/1235628234148110336
-
-## Django Roadmap
-
-https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/ | Paolo Melchiorre - My Django roadmap ideas 💡
-https://www.better-simple.com/django/2024/01/25/informal-django-roadmap/ | Informal Django Roadmap Ideas for 2024 · Better Simple
--->
-
-## Python Feature Roundups
-
-<!--
-## Python 3.13
-
-https://docs.python.org/3.13/whatsnew/3.13.html | What’s New In Python 3.13 — Python 3.13.0b1 documentation
-
-https://realpython.com/python38-new-features/
-https://realpython.com/python37-new-features/ | Cool New Features in Python 3.7 – Real Python
-https://realpython.com/python-news-july-2021/ | Python News: What's New From July 2021? – Real Python
-https://realpython.com/python-news-march-2021/ | Python News: What's New From March 2021? – Real Python
-https://learndjango.com/tutorials/whats-new-django-31 | What's New in Django 3.1? | LearnDjango.com
--->
-
-## Django Feature Roundups
-
-<!--
-## Django New Release
-
-https://docs.djangoproject.com/en/dev/releases/5.1/ | Django 5.1 release notes - UNDER DEVELOPMENT | Django documentation | Django
-
-Django 5.0
-https://www.djangoproject.com/weblog/2023/dec/04/django-50-released/ | Django 5.0 released | Weblog | Django
-https://docs.djangoproject.com/en/5.0/releases/5.0/ | Django 5.0 release notes | Django documentation | Django
-https://twitter.com/AdamChainz/status/1728016504656970004 | Adam Johnson on X: "In #Django 5.1, test client methods will have a new query_params parameter to simplify adding URL query parameters. Thanks to Tom Carrick for the PR, @carlton, David Sanders and @felixxm for reviewing, and everyone who participated in the forum discussion. https://t.co/xM4btkp54d" / X
-
-DRF, Wagtail
-
-Encode
-http://www.encode.io/reports/november-2017 | http://www.encode.io/reports/november-2017
-https://twitter.com/_tomchristie/status/1256210735056785409
--->
 
 <!--
 ## CPython Internals
@@ -2199,6 +2184,10 @@ Testing
 * [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
 <!--
+## Profiling
+
+https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
+
 ## pytest-django
 
 pytest-django (plugin)
@@ -2208,7 +2197,13 @@ https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test usi
 
 ## Testing
 
-https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
+
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
 
 Speed Up Your Django Tests
 
@@ -2242,6 +2237,17 @@ https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPa
 https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
 https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
 
+## TDD
+
+https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
+
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
+https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
+
 ## Canon TDD
 
 https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
@@ -2258,6 +2264,7 @@ https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissec
 https://martinfowler.com/bliki/Yagni.html | Yagni
 https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
 -->
+
 
 ## Performance
 
