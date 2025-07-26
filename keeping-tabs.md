@@ -546,114 +546,12 @@ https://calpaterson.com
 -->
 
 
-# Learning Resources
-
-<!--
-## Person
-
-https://veldakiara.substack.com
-
-
-Django User Model
-https://fosstodon.org/@wsvincent/112779327176673546
-
-
-
-## GIL
-
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-
--->
-
-<!--
-## PySheets
-
-https://pysheets.app/ | PySheets - Spreadsheet UI for Python
-
-
-https://www.django-unicorn.com/ | Unicorn
-https://django-ninja.dev/ | Django Ninja
-
-
-## CPython
-
-https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
-https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
-https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
-https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
-https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
-
-
-## DEPs and PEPs, PRs
-
-https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
-
-https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
-
-https://github.com/capi-workgroup | capi-workgroup
-
-https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
-https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
-
-https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
-
-https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
-https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
-https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
-
-## Python Learning
-
-https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
-
-https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
-
-https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
-https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
-
-https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
-
-https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
-
-https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
-
-https://wsvincent.com/books/ | Books - Will Vincent
-https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
-
-
-https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
-
-## Python Pulse and VS Code
-
-https://www.youtube.com/@code
-https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
-https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
-https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
--->
-
-<!--
-## Python and Django
-
-https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
-
-https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
-
-https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
-
-https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
--->
-
-
 <!--
 ## Definitions
 
 https://www.techopedia.com/
 https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/ | https://blogs.gartner.com/eric-knipp/2013/03/20/libraries-vs-services/
 https://www.techopedia.com/definition/4389/wrapper-software-engineering | What is Wrapper? - Definition from Techopedia
-
-
-
-https://kolo.app/ | Kolo for Django
 
 
 ## Atlassian
@@ -749,6 +647,7 @@ https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X:
 
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
 -->
+
 
 <!--
 AWS Global Certification Community
@@ -1100,6 +999,7 @@ Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginn
 -->
 
 
+
 ## PSF Official
 
 * [PSF Newsletters](https://us19.campaign-archive.com/home/?u=5697f493c3a48994f504d4deb&id=167eaa449b)
@@ -1272,6 +1172,103 @@ https://twitter.com/_tomchristie/status/1256210735056785409
 
 
 
+
+# Learning Resources
+
+<!--
+## Person
+
+https://veldakiara.substack.com
+
+Django User Model
+https://fosstodon.org/@wsvincent/112779327176673546
+
+## GIL
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+-->
+
+<!--
+## PySheets
+
+https://pysheets.app/ | PySheets - Spreadsheet UI for Python
+
+
+https://www.django-unicorn.com/ | Unicorn
+https://django-ninja.dev/ | Django Ninja
+
+
+## CPython
+
+https://realpython.com/build-python-c-extension-module/ | Building a Python C Extension Module – Real Python
+https://dbader.org/blog/python-ctypes-tutorial | Extending Python With C Libraries and the “ctypes” Module – dbader.org
+https://dbader.org/blog/python-cffi | Interfacing Python and C: The CFFI Module – dbader.org
+https://docs.python.org/3/library/ctypes.html | ctypes — A foreign function library for Python — Python 3.12.4 documentation
+https://cffi.readthedocs.io/en/stable/ | CFFI documentation — CFFI 1.16.0 documentation
+
+
+## DEPs and PEPs, PRs
+
+https://peps.python.org/ | PEP 0 – Index of Python Enhancement Proposals (PEPs) | peps.python.org
+
+https://peps.python.org/pep-0684/ | PEP 684 – A Per-Interpreter GIL | peps.python.org
+
+https://github.com/capi-workgroup | capi-workgroup
+
+https://discuss.python.org/t/pep-778-supporting-symlinks-in-wheels/53824/8 | PEP 778: Supporting Symlinks in Wheels - Packaging / Standards - Discussions on Python.org
+https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve 777 by ethanhs · Pull Request #3786 · python/peps
+
+https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · django/deps
+
+https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
+https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
+https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
+
+## Python Learning
+
+https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
+
+https://x.com/realpython/status/1806772085789720905 | Real Python on X: "The State of Python in 2024 #python https://t.co/RVgHqGmjkT" / X
+
+https://www.pythonmorsels.com/cli-tools/?utm_source=linkedin&utm_medium=post1&utm_campaign=cli-tools | Python's many command-line utilities - Python Morsels
+https://www.pythonmorsels.com/multiline-comments/ | Multiline comments in Python - Python Morsels
+
+https://realpython.com/intermediate-python/ | How do I take my Python skills to the next level? – Real Python
+
+https://github.com/reuven/python-workout/ | reuven/python-workout: Files for the Python Workout book
+
+https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from first principles, part 9
+
+https://wsvincent.com/books/ | Books - Will Vincent
+https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
+
+
+https://techcommunity.microsoft.com/t5/excel-blog/announcing-python-in-excel-combining-the-power-of-python-and-the/ba-p/3893439 | Announcing Python in Excel
+
+## Python Pulse and VS Code
+
+https://www.youtube.com/@code
+https://www.youtube.com/watch?v=gLojpjMFYZY | Python in VS Code - Release News v1.87 - YouTube
+https://www.youtube.com/watch?v=Jewy_AYdDJI | (57) Python in VS Code - Release News v1.84 - YouTube
+https://www.linkedin.com/posts/dawnwages_vscode-devcommunity-python-activity-7095416501280595968-RptK/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+-->
+
+<!--
+## Python and Django
+
+https://www.youtube.com/watch?v=sjSpbRFtKjc | (15) Instrumenting CPython with eBPF — Furkan Taha ÖNDER - YouTube
+
+https://twitter.com/BajoranEngineer/status/1719048401575182559 | bajoran_engineer.py on X: "Excellent Analysis re: Python Community content https://t.co/ZuUkWBz7UX" / X
+
+https://www.candc.or.jp/en/2023/2023_prize_cc.html | NEC C&C Foundation
+
+https://twitter.com/0xdabbad00/status/1689030159146655744 | Scott Piper on Twitter: "@mike_julian I was curious, and this explains the speed improvements. https://t.co/5KAlwc0B3Y" / X
+
+https://kolo.app/ | Kolo for Django
+-->
+
+
+
 <!--
 ## Python Newsletters
 
@@ -1349,14 +1346,6 @@ https://twitter.com/PyCommunityNews/
 No longer in operation
 https://twitter.com/newsyc500 | Hacker News 500 (@newsyc500) / Twitter
 https://twitter.com/newsyc300 | Hacker News 300 (@newsyc300) / Twitter
--->
-
-
-<!--
-Brett Cannon
-https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
-https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
-https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
 -->
 
 <!--
@@ -1514,6 +1503,12 @@ https://blog.miguelgrinberg.com/post/some-more-to-talk-about-flask | Some More T
 https://flask.palletsprojects.com/en/3.0.x/changes/#version-3-0-0 | Changes — Flask Documentation (3.0.x)
 -->
 
+<!--
+Brett Cannon
+https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifying Python virtual environment workflows
+https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
+https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
+-->
 
 ## Python Articles and Tutorials
 
@@ -2184,10 +2179,6 @@ Testing
 * [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
 <!--
-## Profiling
-
-https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
-
 ## pytest-django
 
 pytest-django (plugin)
@@ -2274,6 +2265,8 @@ https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need
 https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
 
 ## Profiling
+
+https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
 
 https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
 
