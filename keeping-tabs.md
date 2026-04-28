@@ -1,5 +1,12 @@
 # Keeping Tabs
 
+<!--
+## DFW
+
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+-->
+
+
 ## Orchestration
 
 * [Orchestration Wikipedia](https://en.wikipedia.org/wiki/Orchestration_(computing))
@@ -102,6 +109,8 @@ General
 * [Lobsters](https://lobste.rs/)
 
 <!--
+https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
+
 In operation
 https://fosstodon.org/@HackerNewsBot@m.einverne.info
 -->
@@ -185,7 +194,6 @@ https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The
 
 https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
-https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
 
 https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
 
@@ -260,14 +268,66 @@ https://www.youtube.com/ | (185) YouTube
 
 
 
+## Top Books
+
+Martin Klepmann
+* [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+
+Camille Fournier
+* [Platform Engineering](https://learning.oreilly.com/library/view/platform-engineering/9781098153632/)
+* [The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882/)
+
+Michael Feathers
+* [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+
+The Gang of Four
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
+
+Martin Fowler
+* [Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)
+* [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
+
+Unmesh Joshi
+* [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
+
+Kent Beck
+* [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
+
+Addy Osmani
+* [The Effective Software Engineer](https://learning.oreilly.com/library/view/the-effective-software/9798341638167/)
+* [Leading Effective Engineering Teams](https://learning.oreilly.com/library/view/leading-effective-engineering/9781098148232/)
+* [Web Performance Engineering in the Age of AI](https://learning.oreilly.com/library/view/web-performance-engineering/9798341660182/)
+* [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
+* [Learning JavaScript Design Patterns, 2nd Edition](https://learning.oreilly.com/library/view/learning-javascript-design/9781098139865/)
+
 
 <!--
-## DFW
+https://learning.oreilly.com/library/view/observability-engineering-2nd/9781098179915/
 
-https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
--->
+See others in the series
+https://www.amazon.com/Systems-Performance-Brendan-Gregg-ebook/dp/B08J5QZPNC
+https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B003U2T5BA
 
-<!--
+
+Will Larson
+https://www.amazon.com/stores/author/B07RCW6CWQ
+https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
+https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
+
+Sarah Drasner
+https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35
+
+Tanya Reilly
+https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553
+
+
+https://www.amazon.com/stores/Gergely-Orosz/author/B0924WDG65
+https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions-ebook/dp/B0CV6ZNLLP
+
+https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB
+https://www.amazon.com/Site-Reliability-Engineering-Production-Systems-ebook/dp/B01DCPXKZ6
+
+
 ## SICP
 
 ## Python
@@ -313,20 +373,7 @@ https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630
 https://www.amazon.com/Algorithm-Design-Manual-Computer-Science-ebook/dp/B08L5JZRHD
 https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA
 
-The Gang of Four
-https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
 
-Martin Klepmann
-https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable-ebook/dp/B06XPJML5D
-
-Camille Fournier
-https://www.amazon.com/Platform-Engineering-Technical-Product-Leaders/dp/1098153642
-
-https://www.amazon.com/stores/Gergely-Orosz/author/B0924WDG65
-https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions-ebook/dp/B0CV6ZNLLP
-
-https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB
-https://www.amazon.com/Site-Reliability-Engineering-Production-Systems-ebook/dp/B01DCPXKZ6
 
 https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP
 https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch-ebook/dp/B09WJY1MH7/
@@ -355,30 +402,6 @@ https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monar
 https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
 https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
 
-Refactoring
-Kent Beck
-https://www.amazon.com/Tidy-First-Mini-Refactorings-besseres-Software-Design-ebook/dp/B0CWLGRND2
-Martin Fowler
-https://www.amazon.com/Refactoring-Improving-Design-Existing-Code/dp/0201485672
-https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature-ebook/dp/B07LCM8RG2
-Michael Feathers
-https://www.amazon.com/stores/Michael-C.-Feathers/author/B001IGFN0W
-https://www.amazon.com/Working-Effectively-Legacy-Code-EFFECT-ebook/dp/B005OYHF0A
-
-https://www.oreilly.com/library/view/working-effectively-with/0131177052/ | Working Effectively with Legacy Code [Book]
-https://www.amazon.com/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052/ref=m_crc_dp_lf_d_t1_d_sccl_3_8/140-3492681-6208117?pd_rd_w=Q0Vjz&content-id=amzn1.sym.76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_p=76a0b561-a7b4-41dc-9467-a85a2fa27c1c&pf_rd_r=J084Q15WPZ8A7Q12SKQ6&pd_rd_wg=HDFhA&pd_rd_r=fb14374d-ab4b-4b1d-beed-385c22730043&pd_rd_i=0131177052&psc=1 | Working Effectively with Legacy Code: Feathers, Michael: 8601400968741: Amazon.com: Books
-
-Martin Fowler
-https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
-https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
-https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
-
-Patterns
-Martin Fowler
-https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Addison-Wesley-ebook/dp/B008OHVDFM
-Unmesh Joshi
-https://www.amazon.com/Patterns-Distributed-Systems-Addison-Wesley-Signature-ebook/dp/B0CCD3F8BH
 
 Robert C. Martin
 https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
@@ -425,27 +448,13 @@ https://www.amazon.com/stores/author/B0039T7ODK
 https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW
 https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
 
-Addy Osmani
-https://www.amazon.com/stores/Addy-Osmani/author/B00ABNTY3U
-https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/109814824X
 
-Leading Effective Engineering Teams
-https://www.amazon.com/Leading-Effective-Engineering-Teams-Contributors/dp/109814824X/ref=sr_1_1?dib=eyJ2IjoiMSJ9.gGKTgbcVlLwyah7PyLIK9i74OGrEaB80O99Oics8dvDnHOIpz-9ORUqHP7OHmytBGabR0k6whW2hH2cZ05u4UwbL55GXB83-aTtkWAAyHNkrou86_GPFpKHGlngH1DGW6sAzQIsbWx_IDZj55phZrDbmq0dZOuo4lRJn3zNvNs7SdYsNTHw_OlPF71OsSIHs.C9bMmFW4hnyiEbOx-nWuFwRM8QbRrabfxrYfw2FWu0c&dib_tag=se&qid=1720276271&refinements=p_27%3AAddy+Osmani&s=books&sr=1-1 | Amazon.com: Leading Effective Engineering Teams: Lessons for Individual Contributors and Managers from 10 Years at Google: 9781098148249: Osmani, Addy: Books
+Martin Fowler
+https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
+https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
+https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
 
-Will Larson
-https://www.amazon.com/stores/author/B07RCW6CWQ
-https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
-https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
-
-Camille Fournier
-https://www.amazon.com/stores/Camille-Fournier/author/B06XFMDTBZ
-https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth-ebook/dp/B06XP3GJ7F
-
-Sarah Drasner
-https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35
-
-Tanya Reilly
-https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553
 
 Eric Evans
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG
@@ -485,10 +494,6 @@ https://www.amazon.com/User-Stories-Applied-Development-Addison-Wesley-ebook/dp/
 
 https://www.amazon.com/Your-Code-Crime-Scene-Second-ebook/dp/B0D6WYJS74
 
-See others in the series
-https://www.amazon.com/Systems-Performance-Brendan-Gregg-ebook/dp/B08J5QZPNC
-https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B003U2T5BA
-
 Joe Reis- Fundamentals of Data Engineering
 https://www.amazon.com/stores/author/B0B5KBBZDJ
 
@@ -503,7 +508,14 @@ https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK
 https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG
 
 https://www.amazon.com/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
+
+
+## Ansible
+
+Net DevOps with Ansible on O'Reilly
 -->
+
+
 
 <!--
 ## System Design
@@ -604,9 +616,6 @@ https://www.techopedia.com/definition/4389/wrapper-software-engineering | What i
 
 https://university.atlassian.com/student/catalog | Learn Jira, Confluence, Trello, Jira Service Management, Jira Align, and more Atlassian software with Atlassian University : Atlassian
 
-## Ansible
-
-Net DevOps with Ansible on O'Reilly
 
 
 ## Sites
