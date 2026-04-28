@@ -1,95 +1,99 @@
 # Keeping Tabs
 
+## Orchestration
+
+* [Orchestration Wikipedia](https://en.wikipedia.org/wiki/Orchestration_(computing))
+* [Redhat: What is Orchestration?](https://www.redhat.com/en/topics/automation/what-is-orchestration)
+
+## Control Plane and Data Plane
+
+
 <!--
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+## Control Plane and Data Plane
 
-https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
+Control Plane and Data Plane
+https://en.wikipedia.org/wiki/Control_plane | Control plane - Wikipedia
+https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/control-planes-and-data-planes.html | Control planes and data planes - AWS Fault Isolation Boundaries
+https://docs.aws.amazon.com/whitepapers/latest/advanced-multi-az-resilience-patterns/control-planes-and-data-planes.html | Control planes and data planes - Advanced Multi-AZ Resilience Patterns
+https://www.cloudflare.com/learning/network-layer/what-is-the-control-plane/ | What is the control plane? | Control plane vs. data plane | Cloudflare
+https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/control-planes | Considerations for multitenant control planes - Azure Architecture Center | Microsoft Learn
+https://www.geeksforgeeks.org/difference-between-control-plane-and-data-plane/ | Difference between Control Plane and Data Plane - GeeksforGeeks
 
-https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
+https://www.redhat.com/en/topics/containers/what-are-hosted-control-planes | What are hosted control planes?
 
-https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
 
-https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
+https://www.redhat.com/en/blog/channel/management-and-automation | IT management and automation
 
-https://www.gartner.com
-https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
-https://www.thoughtworks.com/en-us/radar
-https://cacm.acm.org/
 
-Case studies
-https://twitter.com/GergelyOrosz/
-https://blog.pragmaticengineer.com/
-https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
+## RHEL
 
-https://dataintensive.net/poster.html | The poster to accompany Designing Data-Intensive Applications (DDIA)
-https://cleancoders.com/ | Clean Coders: Level up your code.
-https://cleancoders.com/library/all | Clean Coders: Level up your code.
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 
-## Martin Kleppman
+## Kubernetes, Salt, Ansible
 
-https://www.amazon.com/stores/author/B00Q43XKD6 | Amazon.com: Martin Kleppmann: books, biography, latest update
-https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html | Please stop calling databases CP or AP — Martin Kleppmann’s blog
+## Ansible
 
-## Gregor
+https://docs.ansible.com/ | Ansible Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
 
-https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
-https://architectelevator.com/workshops/ | Ride the Architect Elevator! - The Architect Elevator
-https://leanpub.com/platformstrategy | Platform Strategy by Gregor Hohpe [Leanpub PDF/iPad/Kindle]
-https://architectelevator.com/architecture/coupling-facets/ | Coupling and Control Flow in Distributed Systems - The Architect Elevator
+https://github.com/ansible/ansible
 
-Advanced Integration Patterns: Coupling and Control Flow gregor hohpe
-https://www.youtube.com/watch?v=FGKGdUiZKto
-https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
 
-https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+https://www.ansible.com/faq | The AWX project
+https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 
-https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542/ref=zg_bs_g_602672_d_sccl_50/139-6042390-6703204?psc=1 | The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise: Hohpe, Gregor: 9781492077541: Amazon.com: Books
-https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect/dp/B0D1R6DX2M | Platform Strategy: Innovation Through Harmonization (Architect Elevator Book Series): Hohpe, Gregor, Danieli, Michele, Landreau, Jean-Francois: 9798320272047: Amazon.com: Books
 
-## Architectural Decision Records
+## VMware Gemfire and Tanzu
 
-https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
-https://www.redhat.com/architecture-decision-records | 404 - Red Hat
-https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
-
-## Distributed Systems Reading List
-
-https://dancres.github.io/Pages/ | Distributed Systems Reading List
-
+https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
+https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
 -->
 
+
+## Distributed Systems
+
+* [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+
+## DevOps
+
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+
+## Automation
+
+* [Kubernetes](https://kubernetes.io/)
+* [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
+* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
+* [Terraform](https://www.terraform.io/)
+* [Salt GitHub](https://github.com/saltstack/salt)
+
+## Frontend and Mobile
+
+* [React](https://reactjs.org/)
+* [Redux](https://redux.js.org/)
+* [React Native](https://reactnative.dev/)
+* [SASS](https://sass-lang.com/)
+
+## Java Resources
+
 <!--
-## Social
+https://testautomationu.applitools.com/
+https://frontendmasters.com/
 
-https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
+https://testautomationu.applitools.com/java-programming-course/ | Java Programming
+https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
+https://docs.oracle.com/en/java/
 
-## Find People
-
-https://linktr.ee/
-
-https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
-https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
-
-https://twitter.com/home | Home / Twitter
-https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
-https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
-https://fosstodon.org/notifications | Notifications - Fosstodon
-https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
-https://snort.social/posts | snort.social - Nostr interface
-https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
-https://www.youtube.com/ | (185) YouTube
+https://www.w3schools.com/java/java_data_types.asp | Java Data Types
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
 -->
 
 ## News Sites
 
 * [Techmeme](https://www.techmeme.com)
 * [InfoQ](https://www.infoq.com/)
-
-<!--
-https://thenewstack.io/
--->
+* [The New Stack](https://thenewstack.io/)
 
 ## Trending
 
@@ -147,6 +151,7 @@ The Practical Dev and Hackernoon
 * [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
 
 
+
 <!--
 ## Aggregators
 
@@ -154,10 +159,10 @@ https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPo
 
 ## Trends
 
-https://stackshare.io/featured-posts
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
 https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://stackshare.io/
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
@@ -168,13 +173,95 @@ https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
 https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
 -->
 
+
+
+
+
+
+
 <!--
-## Conferences
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
 
-Dev conferences
-https://leaddev.com/
-https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
+https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
+
+https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+
+https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
+
+https://www.gartner.com
+https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
+https://www.thoughtworks.com/en-us/radar
+https://cacm.acm.org/
+
+Case studies
+https://twitter.com/GergelyOrosz/
+https://blog.pragmaticengineer.com/
+https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
+
+https://dataintensive.net/poster.html | The poster to accompany Designing Data-Intensive Applications (DDIA)
+https://cleancoders.com/ | Clean Coders: Level up your code.
+https://cleancoders.com/library/all | Clean Coders: Level up your code.
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+
+## Martin Kleppman
+
+https://www.amazon.com/stores/author/B00Q43XKD6 | Amazon.com: Martin Kleppmann: books, biography, latest update
+https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html | Please stop calling databases CP or AP — Martin Kleppmann’s blog
+
+## Gregor
+
+https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
+https://architectelevator.com/workshops/ | Ride the Architect Elevator! - The Architect Elevator
+https://leanpub.com/platformstrategy | Platform Strategy by Gregor Hohpe [Leanpub PDF/iPad/Kindle]
+https://architectelevator.com/architecture/coupling-facets/ | Coupling and Control Flow in Distributed Systems - The Architect Elevator
+
+Advanced Integration Patterns: Coupling and Control Flow gregor hohpe
+https://www.youtube.com/watch?v=FGKGdUiZKto
+https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
+
+https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+
+https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542/ref=zg_bs_g_602672_d_sccl_50/139-6042390-6703204?psc=1 | The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise: Hohpe, Gregor: 9781492077541: Amazon.com: Books
+https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect/dp/B0D1R6DX2M | Platform Strategy: Innovation Through Harmonization (Architect Elevator Book Series): Hohpe, Gregor, Danieli, Michele, Landreau, Jean-Francois: 9798320272047: Amazon.com: Books
+
+
+## Architectural Decision Records
+
+https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
+https://www.redhat.com/architecture-decision-records | 404 - Red Hat
+https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
+
+-->
+
+<!--
+## Social
+
+https://talkpython.fm/episodes/show/390/mastodon-for-python-devs | Episode #390 Mastodon for Python Devs - [Talk Python To Me Podcast]
+
+## Find People
+
+https://linktr.ee/
+
+https://www.linkedin.com/feed/ | (1) Feed | LinkedIn
+https://www.linkedin.com/notifications/?filter=all | (1) Notifications | LinkedIn
+
+https://twitter.com/home | Home / Twitter
+https://twitter.com/KatiMichel/following | https://twitter.com/KatiMichel/following
+https://www.facebook.com/katherine.michel.5 | Katherine Michel | Facebook
+https://fosstodon.org/notifications | Notifications - Fosstodon
+https://fosstodon.org/@kati | kati (@kati@fosstodon.org) - Fosstodon
+https://snort.social/posts | snort.social - Nostr interface
+https://snort.social/p/npub16qh2afyw526q3zynltgmr9jtyt8z9sxzeamdspypk8vyj4aftxwqxuylxh | Snort - Katherine Michel's Profile
+https://www.youtube.com/ | (185) YouTube
+-->
+
+
+
+
+<!--
 ## DFW
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
@@ -2172,6 +2259,7 @@ https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#transla
 https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
 -->
 
+
 ## Python and Django Testing
 
 Testing
@@ -2363,58 +2451,6 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 -->
 
 
-<!--
-## Orchestration
-
-https://www.redhat.com/en/topics/automation/what-is-orchestration | What is orchestration?
-
-https://en.wikipedia.org/wiki/Orchestration_(computing) | Orchestration (computing) - Wikipedia
-
-https://ubuntu.com/blog/tag/orchestration
-
-## Control Plane and Data Plane
-
-Control Plane and Data Plane
-https://en.wikipedia.org/wiki/Control_plane | Control plane - Wikipedia
-https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/control-planes-and-data-planes.html | Control planes and data planes - AWS Fault Isolation Boundaries
-https://docs.aws.amazon.com/whitepapers/latest/advanced-multi-az-resilience-patterns/control-planes-and-data-planes.html | Control planes and data planes - Advanced Multi-AZ Resilience Patterns
-https://www.cloudflare.com/learning/network-layer/what-is-the-control-plane/ | What is the control plane? | Control plane vs. data plane | Cloudflare
-https://learn.microsoft.com/en-us/azure/architecture/guide/multitenant/considerations/control-planes | Considerations for multitenant control planes - Azure Architecture Center | Microsoft Learn
-https://www.geeksforgeeks.org/difference-between-control-plane-and-data-plane/ | Difference between Control Plane and Data Plane - GeeksforGeeks
-
-https://www.redhat.com/en/topics/containers/what-are-hosted-control-planes | What are hosted control planes?
-
-
-https://www.redhat.com/en/blog/channel/management-and-automation | IT management and automation
-
-
-## RHEL
-
-https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
-
-## Kubernetes, Salt, Ansible
-
-https://kubernetes.io/ | Kubernetes
-https://kubernetes.io/docs/concepts/overview/components/
-
-https://github.com/saltstack/salt
-
-## Ansible
-
-https://docs.ansible.com/ | Ansible Documentation
-https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
-https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
-
-https://github.com/ansible/ansible
-https://www.ansible.com/faq | The AWX project
-https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-
-
-## VMware Gemfire and Tanzu
-
-https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
-https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
--->
 
 
 <!--
@@ -2821,13 +2857,12 @@ https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2
 -->
 
 
-## Continuous Integration
 
-* [CircleCI](https://circleci.com/)
 
-<!--
-https://en.wikipedia.org/wiki/Continuous_integration
--->
+
+
+
+
 
 ## Git
 
@@ -3033,125 +3068,10 @@ https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element 
 -->
 
 
-## Cloud
-
-* [AWS](https://aws.amazon.com/)
 
 
-## Automation
-
-* [Kubernetes](https://kubernetes.io/)
-* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
-* [Terraform](https://www.terraform.io/)
 
 
-## Stack
- 
-Background Processing
-* [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
-* [RabbitMQ](https://www.rabbitmq.com/)
-* [Celery](https://docs.celeryproject.org/)
-* [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
-* [Apache Airflow](https://airflow.apache.org/)
-* [CloudWatch](https://aws.amazon.com/cloudwatch/)
-
-<!--
-* HTTP and REST APIs
-* Celery and async processing
-* https://docs.python.org/3/library/asyncio.html
--->
-
-
-## API
-
-* [GraphQL](http://graphql.org/)
-  
-## Frontend and Mobile
-
-* [React](https://reactjs.org/)
-* [Redux](https://redux.js.org/)
-* [React Native](https://reactnative.dev/)
-* [SASS](https://sass-lang.com/)
-
-## Data Analysis
-
-Analysis and Forecasting
-* [Databricks](https://databricks.com/)
-* [Pandas](https://pandas.pydata.org/)
-* [NumPy](https://numpy.org/)
-* [Jupyter](https://jupyter.org/)
-
-## Logging
-
-* [Sentry](https://sentry.io/welcome/)
-* [Loggly](https://www.loggly.com/)
-* [Datadog](https://www.datadoghq.com/)
-
-<!--
-https://develop.sentry.dev/testing/ | Testing Tips | Sentry Developer Documentation
-https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
--->
-
-## Utilities
-
-Database Tools
-* [Postico](https://eggerapps.at/postico/)
-* [TablePlus](https://setapp.com/apps/tableplus)
-
-Miscellaneous Tools
-* [Setapp](https://setapp.com/)
-* [Dash](https://kapeli.com/dash)
-
-<!--
-https://kapeli.com/dash_guide
--->
-
-Moar Automation
-* [Packer](https://www.packer.io/)
-* [Consul](https://www.consul.io/)
-  
-## Other Languages/Frameworks and Releases
-
-Scala
-* [Scala](https://www.scala-lang.org/)
-
-<!--
-https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
-https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
--->
-
-## Diagrams and Mockups
-
-* [Miro](https://miro.com/)
-* [Figma](https://www.figma.com/)
-* [Mermaid](https://mermaid-js.github.io/mermaid/)
-
-<!--
-https://github.blog/2022-05-19-math-support-in-markdown/
-
-(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
-https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
--->
-
-## Project Management
-
-* Google Docs
-* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
-* [Asana](https://asana.com/)
-* [Basecamp](https://basecamp.com/)
-
-
-<!--
-Octopus
-Lint All the Things
-https://ep2022.europython.eu/session/lint-all-the-things
-EuroPython
-https://www.youtube.com/c/EuroPythonConference/videos
-Frederike Jaeger
-https://pyvideo.org/speaker/frederike-jaeger.html
-Spreading Our Tentacles, Taking a Django App Global
-https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
--->
 
 
 <!--
@@ -3253,33 +3173,9 @@ Release Radar
 https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · December 2020 Edition - The GitHub Blog
 -->
 
-<!--
-## Jobs
 
-https://foxleytalent.com/ | Foxley Talent
-https://jobs.django-news.com/ | Django News Jobs
--->
 
-<!--
-## Java Resources
 
-https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
-https://testautomationu.applitools.com/java-programming-course/ | Java Programming
-https://frontendmasters.com/workshops/java/ | Java Fundamentals Online Workshop | Frontend Masters
-https://www.w3schools.com/java/java_data_types.asp | Java Data Types
-https://docs.oracle.com/en/java/
-https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
--->
-
-<!--
-## Women
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
--->
 
 <!--
 ## Public Speaker
@@ -3466,6 +3362,139 @@ https://alldjango.com/articles/developer-marketing
 
 https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
 https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
+-->
+
+
+
+
+<!--
+## Conferences
+
+Dev conferences
+https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
+## Women
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
+-->
+
+## Project Management
+
+* Google Docs
+* [Kanban Wikipedia](https://en.wikipedia.org/wiki/Kanban_(development))
+* [Asana](https://asana.com/)
+* [Basecamp](https://basecamp.com/)
+
+<!--
+## Jobs
+
+https://foxleytalent.com/ | Foxley Talent
+https://jobs.django-news.com/ | Django News Jobs
+-->
+
+## Diagrams and Mockups
+
+* [Miro](https://miro.com/)
+* [Figma](https://www.figma.com/)
+* [Mermaid](https://mermaid-js.github.io/mermaid/)
+
+<!--
+https://github.blog/2022-05-19-math-support-in-markdown/
+
+(Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.)
+https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/ | Include diagrams in your Markdown files with Mermaid | The GitHub Blog
+-->
+
+## Data Analysis
+
+Analysis and Forecasting
+* [Databricks](https://databricks.com/)
+* [Pandas](https://pandas.pydata.org/)
+* [NumPy](https://numpy.org/)
+* [Jupyter](https://jupyter.org/)
+
+## Cloud
+
+* [AWS](https://aws.amazon.com/)
+
+## Continuous Integration
+
+* [CircleCI](https://circleci.com/)
+
+## Stack
+ 
+Background Processing
+* [Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)
+* [RabbitMQ](https://www.rabbitmq.com/)
+* [Celery](https://docs.celeryproject.org/)
+* [Amazon Simple Queue Service](https://aws.amazon.com/sqs/)
+* [Apache Airflow](https://airflow.apache.org/)
+* [CloudWatch](https://aws.amazon.com/cloudwatch/)
+
+<!--
+* HTTP and REST APIs
+* Celery and async processing
+* https://docs.python.org/3/library/asyncio.html
+-->
+
+## API
+
+* [GraphQL](http://graphql.org/)
+  
+## Logging
+
+* [Sentry](https://sentry.io/welcome/)
+* [Loggly](https://www.loggly.com/)
+* [Datadog](https://www.datadoghq.com/)
+
+<!--
+https://develop.sentry.dev/testing/ | Testing Tips | Sentry Developer Documentation
+https://docs.sentry.io/platforms/python/ | Python | Sentry Documentation
+-->
+
+## Utilities
+
+Database Tools
+* [Postico](https://eggerapps.at/postico/)
+* [TablePlus](https://setapp.com/apps/tableplus)
+
+Miscellaneous Tools
+* [Setapp](https://setapp.com/)
+* [Dash](https://kapeli.com/dash)
+
+<!--
+https://kapeli.com/dash_guide
+-->
+
+Moar Automation
+* [Packer](https://www.packer.io/)
+* [Consul](https://www.consul.io/)
+  
+## Other Languages/Frameworks and Releases
+
+Scala
+* [Scala](https://www.scala-lang.org/)
+
+<!--
+https://nodejs.org/en/download/releases/ | Previous Releases | Node.js
+https://deno.com/blog/v1.14 | Deno 1.14 Release Notes | Deno Blog
+-->
+
+<!--
+Octopus
+Lint All the Things
+https://ep2022.europython.eu/session/lint-all-the-things
+EuroPython
+https://www.youtube.com/c/EuroPythonConference/videos
+Frederike Jaeger
+https://pyvideo.org/speaker/frederike-jaeger.html
+Spreading Our Tentacles, Taking a Django App Global
+https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 -->
 
 ## Product Sites
