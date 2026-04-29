@@ -404,6 +404,12 @@ Will Larson
 
   
 <!--
+https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html
+
+A Philosophy of Software Design, 2nd Edition
+John Ousterhout
+https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/ref=monarch_sidesheet_title
+
 Building Evolutionary Architectures, 2nd Edition
 Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage
 https://learning.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/
@@ -513,6 +519,8 @@ https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
 https://www.feldroy.com/two-scoops-of-django
 
 https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP
+Dragon Book
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch-ebook/dp/B09WJY1MH7/
 https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom-ebook/dp/B09BCCVLCL
@@ -532,8 +540,6 @@ https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing-ebook/dp/B0
 
 https://www.amazon.com/AI-Engineering-Building-Applications-Foundation-ebook/dp/B0DPLNK9GN
 
-
-https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL
 
 https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-Wesley-ebook/dp/B09RV3Z3TP
 
