@@ -48,10 +48,6 @@ https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansibl
 https://github.com/ansible/ansible
 
 
-https://www.ansible.com/faq | The AWX project
-https://github.com/ansible/awx | ansible/awx: AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
-
-
 ## VMware Gemfire and Tanzu
 
 https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
@@ -195,7 +191,6 @@ https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The
 https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
 
-https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
 
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
@@ -203,6 +198,7 @@ https://www.gartner.com
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 https://www.thoughtworks.com/en-us/radar
 https://cacm.acm.org/
+
 
 Case studies
 https://twitter.com/GergelyOrosz/
@@ -266,8 +262,6 @@ https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutle
 
 ## Ryan Peterman
 
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
 https://read.developing.dev/ | The Developing Dev by Ryan Peterman
 https://twitter.com/ryanlpeterman/
 https://www.developing.dev/p/5-skills-all-10x-engineers-have
@@ -306,17 +300,53 @@ https://newsletter.pragmaticengineer.com/p/facebook
 
 ## Engineering
 
+Werner Vogels
+https://www.allthingsdistributed.com/
+
 Cal Paterson
 https://calpaterson.com
 -->
 
-## Top Books
+
+## Engineering Blogs
+
+* [John Crickett Engineering Blogs List](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
+* [Zack Engineering Blogs List](https://x.com/wolfie_zack/status/1679744158313992192)
+* [Ryan L. Peterman Blog List](https://twitter.com/ryanlpeterman/status/1767634813295759523)
+
+## Free Courses
+
+<!--
+https://medium.com/open-learning/watch-mits-top-5-lectures-of-all-time-fa69f37e22e
+https://ocw.mit.edu/
+https://online.stanford.edu/free-courses
+https://github.com/papers-we-love/papers-we-love/
+-->
+
+## Classic Books
 
 John Ousterhout
 * [A Philosophy of Software Design, 2nd Edition](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/)
 
+The Gang of Four
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
+
+Eric Evans
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
+
+## AI Books
+
+Addy Osmani
+* [Web Performance Engineering in the Age of AI](https://learning.oreilly.com/library/view/web-performance-engineering/9798341660182/)
+* [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
+
+## Infrastructure Books
+
 Anthony Shaw
 * [CPython Internals: Your Guide to the Python 3 Interpreter](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP)
+
+Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman 
+* [Compilers: Principles, Techniques, and Tools (Dragon Book)](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
 
 Martin Klepmann
 * [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
@@ -324,6 +354,10 @@ Martin Klepmann
 
 Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
+
+<!--
+https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+-->
 
 Brendan Burns, Tom Beyer
 * [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Systems Using Kubernetes, 2nd Edition](https://learning.oreilly.com/library/view/designing-distributed-systems/9781098156343/)
@@ -339,44 +373,38 @@ Dominik Tornow
 Alex Petrov
 * [Database Internals](https://learning.oreilly.com/library/view/database-internals/9781492040330/)
 
-Scott W. Ambler, Pramod J. Sadalage
-* [Refactoring Databases: Evolutionary Database Design](https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/)
-
-Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
-* [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
-* [The Site Reliability Workbook](https://learning.oreilly.com/library/view/the-site-reliability/9781492029496/)
-
 Brendan Gregg
 * [Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
 
 Camille Fournier
 * [Platform Engineering](https://learning.oreilly.com/library/view/platform-engineering/9781098153632/)
-* [The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882/)
-* [97 Things Every Engineering Manager Should Know](https://learning.oreilly.com/library/view/97-things-every/9781492050896/)
 
 Charity Majors, Liz Fong-Jones, George Miranda
 * [Observability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/observability-engineering-2nd/9781098179915/)
 
-Michael Feathers
-* [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+Titus Winters, Tom Manshreck, Hyrum Wright
+* [Software Engineering at Google](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781/)
+
+Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
+* [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
+* [The Site Reliability Workbook](https://learning.oreilly.com/library/view/the-site-reliability/9781492029496/)
+
+## Patterns Books
 
 Martin Fowler
 * [Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)
-* [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
 
 Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
 * [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://learning.oreilly.com/library/view/enterprise-integration-patterns/0321200683/)
+
+
+
+Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
 * [The Software Architect Elevator](https://learning.oreilly.com/library/view/the-software-architect/9781492077534/)
 * [Platform Strategy: Innovation Through Harmonization](https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect-ebook/dp/B0GD1TT9D4/)
 
-Kent Beck
-* [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
 
 Addy Osmani
-* [The Effective Software Engineer](https://learning.oreilly.com/library/view/the-effective-software/9798341638167/)
-* [Leading Effective Engineering Teams](https://learning.oreilly.com/library/view/leading-effective-engineering/9781098148232/)
-* [Web Performance Engineering in the Age of AI](https://learning.oreilly.com/library/view/web-performance-engineering/9798341660182/)
-* [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
 * [Learning JavaScript Design Patterns, 2nd Edition](https://learning.oreilly.com/library/view/learning-javascript-design/9781098139865/)
 
 Mark Richards, Neal Ford, Raju Gandhi, Pramod Sadalage, Zhamak Dehghani, Rebecca Parsons, Patrick Kua
@@ -392,20 +420,32 @@ Tanu McCabe
 Nathaniel Schutta, Dan Vega
 * [Fundamentals of Software Engineering](https://learning.oreilly.com/library/view/fundamentals-of-software/9781098143220/)
 
-The Gang of Four
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
 
-Eric Evans
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
+## Refactoring
 
-Titus Winters, Tom Manshreck, Hyrum Wright
-* [Software Engineering at Google](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781/)
+Scott W. Ambler, Pramod J. Sadalage
+* [Refactoring Databases: Evolutionary Database Design](https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/)
 
+Michael Feathers
+* [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
+
+Martin Fowler
+* [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
+
+Kent Beck
+* [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
+
+## Engineering Performance and Management Books
+
+Andy Grove
+* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
+
+Addy Osmani
+* [The Effective Software Engineer](https://learning.oreilly.com/library/view/the-effective-software/9798341638167/)
+* [Leading Effective Engineering Teams](https://learning.oreilly.com/library/view/leading-effective-engineering/9781098148232/)
+  
 Gergely-Orosz
 * [The Software Engineer's Guidebook](https://learning.oreilly.com/library/view/the-software-engineers/9789083381831/)
-
-Sarah Drasner
-* [Engineering Management for the Rest of Us](https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35)
 
 Tanya Reilly
 * [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
@@ -416,13 +456,31 @@ Will Larson, Tanya Reilly
 * [The Engineering Executive's Primer](https://learning.oreilly.com/library/view/the-engineering-executives/9781098149475/)
 * [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook)
 
-Andy Grove
-* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
+Sarah Drasner
+* [Engineering Management for the Rest of Us](https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35)
+
+Camille Fournier
+* [The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882/)
+* [97 Things Every Engineering Manager Should Know](https://learning.oreilly.com/library/view/97-things-every/9781492050896/)
+
 
   
 <!--
-Dragon Book
-https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+Software Design for Flexibility
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+
+
+Thinking in Systems: International Bestseller
+Donella H. Meadows, Diana Wright
+https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
+
+## Leverage Points
+
+https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
+
 
 Mary Poppendieck
 https://www.amazon.com/stores/Mary-Poppendieck/author/B001IGNU3O
@@ -438,11 +496,6 @@ https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebo
 
 https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
 
-
-## Leverage Points
-
-https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
 
 
 ## SRE
@@ -557,11 +610,6 @@ https://inkfishbooks.indielite.org/book/9781032725253 | Software Design by Examp
 https://third-bit.com/2024/04/01/sdxpy-introduction/ | The Third Bit · Software Design by Example in Python 1: Introduction
 https://www.amazon.com/Software-Design-Example-Greg-Wilson/dp/1032725214 | Software Design by Example: Wilson, Greg: 9781032725215: Amazon.com: Books
 https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: a tool-based introduction with Python
-
-Software Design for Flexibility
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 
 
 Algorithms
