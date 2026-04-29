@@ -15,9 +15,30 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 ## Control Plane and Data Plane
 
 * [Control Plane Wikipedia](https://en.wikipedia.org/wiki/Control_plane)
+* [Data Plane Wikipedia]([https://en.wikipedia.org/wiki/Control_plane](https://en.wikipedia.org/wiki/Data_plane))
 
 
 <!--
+https://lwn.net/
+https://valkey-demo.oursqlcommunity.org/
+https://x.com/RedHat
+https://www.redhat.com/en/events
+https://forum.ansible.com/t/the-bullhorn-225/45736
+https://en.wikipedia.org/wiki/Security-Enhanced_Linux
+
+https://github.com/torvalds/linux
+https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
+https://archive.org/details/DesignUNIXOperatingSystem
+
+https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
+https://rlworkman.net/howtos/rute/
+https://github.com/0xAX/linux-insides
+https://github.com/0xAX/linux-insides#requirements
+https://en.wikipedia.org/wiki/Assembly_language
+https://en.wikipedia.org/wiki/C_(programming_language)
+https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+
+
 ## Control Plane and Data Plane
 
 Control Plane and Data Plane
@@ -377,6 +398,13 @@ Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
 
 <!--
+https://github.com/aphyr/distsys-class
+https://jepsen.io/services/training
+Martin Kleppmann
+Distributed Systems lecture series
+https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+MIT 6.824: Distributed Systems
+https://www.youtube.com/@6.824
 https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
 -->
 
@@ -396,6 +424,10 @@ Alex Petrov
 
 Brendan Gregg
 * [Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
+
+<!--
+https://www.brendangregg.com/linuxperf.html
+-->
 
 Camille Fournier
 * [Platform Engineering](https://learning.oreilly.com/library/view/platform-engineering/9781098153632/)
@@ -487,6 +519,8 @@ Camille Fournier
 
   
 <!--
+https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+
 https://www.engguidebook.com/
 
 Hanson, Chris, Sussman, Gerald Jay
@@ -525,6 +559,9 @@ https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/
 
 
 ## SRE
+
+https://learn.microsoft.com/en-us/azure/site-reliability-engineering/resources/books
+https://sre.google/resources/
 
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 
