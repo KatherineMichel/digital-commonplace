@@ -334,6 +334,19 @@ The Gang of Four
 Eric Evans
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
 
+<!--
+David Thomas and Andrew Hunt
+https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1
+https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
+
+Code Complete
+https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY
+
+Frederick P. Brooks Jr. 
+https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+-->
+
 ## AI Books
 
 Addy Osmani
@@ -466,10 +479,13 @@ Camille Fournier
 
   
 <!--
+Hanson, Chris, Sussman, Gerald Jay
+https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
 Software Design for Flexibility
 https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
-https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
+
+See README for associated course
+https://github.com/jeffhhk/SoftwareDesignForFlexibility
 
 
 Thinking in Systems: International Bestseller
@@ -562,16 +578,6 @@ https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp
 https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
 https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
 
-David Thomas and Andrew Hunt
-https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1
-https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
-
-Code Complete
-https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY
-
-Frederick P. Brooks Jr. 
-https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 
 https://architectelevator.com/book/
