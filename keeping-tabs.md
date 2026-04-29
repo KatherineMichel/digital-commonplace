@@ -155,8 +155,7 @@ Top Links of All Times
 ## Articles
 
 The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/The
-* PracticalDev)
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
 * [Hacker Noon](https://hackernoon.com)
 * [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
 
