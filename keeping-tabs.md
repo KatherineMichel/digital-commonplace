@@ -19,11 +19,17 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 
 
 <!--
+Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
+https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
+https://www.youtube.com/watch?v=f3LPF7MSwGA
+
+https://www.redhat.com/en/events
+
 https://lwn.net/
 https://valkey-demo.oursqlcommunity.org/
 https://x.com/RedHat
-https://www.redhat.com/en/events
 https://forum.ansible.com/t/the-bullhorn-225/45736
+
 https://en.wikipedia.org/wiki/Security-Enhanced_Linux
 
 https://github.com/torvalds/linux
@@ -348,6 +354,8 @@ https://openai.com/index/scaling-postgresql/
 * [Stanford](https://online.stanford.edu/free-courses)
   
 <!--
+https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Science&t=Engineering
+
 https://medium.com/open-learning/watch-mits-top-5-lectures-of-all-time-fa69f37e22e
 https://github.com/papers-we-love/papers-we-love/
 -->
@@ -398,6 +406,18 @@ Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
 
 <!--
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
+
+https://asatarin.github.io/testing-distributed-systems/
+
+https://amturing.acm.org/p558-lamport.pdf
+https://x.com/DynamicWebPaige/status/1991729579099066492
+https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+
+https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
+https://jukkasuomela.fi/da2020/da2020.pdf
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/
 https://github.com/aphyr/distsys-class
 https://jepsen.io/services/training
 Martin Kleppmann
@@ -519,6 +539,10 @@ Camille Fournier
 
   
 <!--
+Database Reliability Engineering
+Laine Campbell, Charity Majors
+https://learning.oreilly.com/library/view/database-reliability-engineering/9781491925935/
+
 https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
 
 https://www.engguidebook.com/
