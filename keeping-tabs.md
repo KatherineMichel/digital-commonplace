@@ -312,6 +312,12 @@ https://calpaterson.com
 
 ## Top Books
 
+John Ousterhout
+* [A Philosophy of Software Design, 2nd Edition](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/)
+
+Anthony Shaw
+* [CPython Internals: Your Guide to the Python 3 Interpreter](https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP)
+
 Martin Klepmann
 * [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
@@ -332,6 +338,9 @@ Dominik Tornow
 
 Alex Petrov
 * [Database Internals](https://learning.oreilly.com/library/view/database-internals/9781492040330/)
+
+Scott W. Ambler, Pramod J. Sadalage
+* [Refactoring Databases: Evolutionary Database Design](https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/)
 
 Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
@@ -370,11 +379,12 @@ Addy Osmani
 * [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
 * [Learning JavaScript Design Patterns, 2nd Edition](https://learning.oreilly.com/library/view/learning-javascript-design/9781098139865/)
 
-Mark Richards, Neal Ford, Raju Gandhi, Pramod Sadalage, Zhamak Dehghani
+Mark Richards, Neal Ford, Raju Gandhi, Pramod Sadalage, Zhamak Dehghani, Rebecca Parsons, Patrick Kua
 * [Software Architecture Patterns, Antipatterns, and Pitfalls](https://learning.oreilly.com/library/view/software-architecture-patterns/0642572221119/)
 * [Architecture as Code](https://learning.oreilly.com/library/view/architecture-as-code/9798341640368/)
 * [Software Architecture: The Hard Parts](https://learning.oreilly.com/library/view/software-architecture-the/9781492086888/)
 * [Fundamentals of Software Architecture, 2nd Edition](https://learning.oreilly.com/library/view/fundamentals-of-software/9781098175504/)
+* [Building Evolutionary Architectures, 2nd Edition](https://learning.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/)
 
 Tanu McCabe
 * [Fundamentals of Enterprise Architecture](https://learning.oreilly.com/library/view/fundamentals-of-enterprise/9781098159368/)
@@ -400,26 +410,76 @@ Sarah Drasner
 Tanya Reilly
 * [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
-Will Larson
+Will Larson, Tanya Reilly 
+* [Staff Engineer: Leadership beyond the management track](https://www.amazon.com/Staff-Engineer-Leadership-beyond-management-ebook/dp/B08RMSHYGG)
+* [Crafting Engineering Strategy](https://learning.oreilly.com/library/view/crafting-engineering-strategy/9798341645516/)
+* [The Engineering Executive's Primer](https://learning.oreilly.com/library/view/the-engineering-executives/9781098149475/)
+* [An Elegant Puzzle: Systems of Engineering Management](https://www.amazon.com/Elegant-Puzzle-Systems-Engineering-Management-ebook)
+
+Andy Grove
+* [High Output Management](https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK)
 
   
 <!--
+Dragon Book
+https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
+
+Mary Poppendieck
+https://www.amazon.com/stores/Mary-Poppendieck/author/B001IGNU3O
+https://www.amazon.com/Lean-Software-Development-Agile-Toolkit-ebook/dp/B0DHY7W24R?ref_=ast_author_dp
+
+Jez Humble and 
+https://www.amazon.com/Modern-Software-Engineering-Better-Faster-ebook/dp/B09GG6XKS4
+https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0
+https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
+Accelerate
+https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL/
+https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B09G2GS39R/
+
+https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
+
+
+## Leverage Points
+
+https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
+
+
+## SRE
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+
+https://landing.google.com/sre/books
+https://sre.google/books/ | Google - Site Reliability Engineering
+
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
+
+https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
+
+
+## Interesting
+
+What Happens When
+
+High Performance Browser Networking
+* [High Performance Browser Networking](https://hpbn.co)
+* [Ilya Grigorik](https://www.igvita.com/)
+
+https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
+
+CPUs and Threads
+https://www.linkedin.com/posts/maheshma_cpu-development-technology-activity-7215165124485996545-nKty/?utm_source=share&utm_medium=member_desktop
+
+
 https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html
 
-A Philosophy of Software Design, 2nd Edition
-John Ousterhout
-https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/ref=monarch_sidesheet_title
-
-Building Evolutionary Architectures, 2nd Edition
-Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage
-https://learning.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/
-
-Refactoring Databases: Evolutionary Database Design
-Scott W. Ambler, Pramod J. Sadalage
-https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/
 
 https://samnewman.io/books/building-resilient-distributed-systems/
-https://learning.oreilly.com/library/view/building-resilient-distributed/9781098163532/
 
 Mastering API Architecture
 James Gough, Daniel Bryant, Matthew Auburn
@@ -429,10 +489,6 @@ Ian Gorton
 https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/
 
 https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
-
-https://www.amazon.com/stores/author/B07RCW6CWQ
-https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
-https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
 
 
 Kent Beck
@@ -510,6 +566,7 @@ https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to 
 
 Algorithms
 https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X
+
 https://www.amazon.com/Algorithm-Design-Manual-Computer-Science-ebook/dp/B08L5JZRHD
 https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA
 
@@ -518,9 +575,6 @@ https://www.amazon.com/Fluent-Python-Luciano-Ramalho-ebook/dp/B09WZJMMJP
 https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
 https://www.feldroy.com/two-scoops-of-django
 
-https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP
-Dragon Book
-https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools
 
 https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch-ebook/dp/B09WJY1MH7/
 https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom-ebook/dp/B09BCCVLCL
@@ -542,20 +596,6 @@ https://www.amazon.com/AI-Engineering-Building-Applications-Foundation-ebook/dp/
 
 
 https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-Wesley-ebook/dp/B09RV3Z3TP
-
-Mary Poppendieck
-https://www.amazon.com/stores/Mary-Poppendieck/author/B001IGNU3O
-https://www.amazon.com/Lean-Software-Development-Agile-Toolkit-ebook/dp/B0DHY7W24R?ref_=ast_author_dp
-
-Jez Humble and 
-https://www.amazon.com/Modern-Software-Engineering-Better-Faster-ebook/dp/B09GG6XKS4
-https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley-ebook/dp/B003YMNVC0
-https://www.amazon.com/Software-Architecture-Metrics-Christian-Ciceri-ebook/dp/B0B1NZ8Z5V
-Accelerate
-https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL/
-https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B09G2GS39R/
-
-https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
 
 
 
@@ -600,8 +640,6 @@ https://www.amazon.com/Cloud-Native-Python-applications-microservices/dp/1787129
 
 Gene Kim
 https://www.amazon.com/stores/author/B00AERCJ9E
-
-https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK
 
 https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG
 
@@ -941,10 +979,6 @@ http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
 The Definition of Priority Codes (P0, P1, P2, P3, P4)
 https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technical-victor-pudeyev/
 
-## Leverage Points
-
-https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
 -->
 
 
@@ -965,36 +999,6 @@ https://incident.io/guide/ | Incident Management Guide
 ## Google
 
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
-
-## SRE
-
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-
-https://landing.google.com/sre/books
-https://sre.google/books/ | Google - Site Reliability Engineering
-
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
-
-https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
-
-https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
-
-
-## Interesting
-
-What Happens When
-
-High Performance Browser Networking
-* [High Performance Browser Networking](https://hpbn.co)
-* [Ilya Grigorik](https://www.igvita.com/)
-
-https://www.quora.com/What-are-the-numbers-that-every-computer-engineer-should-know-according-to-Jeff-Dean | What are the numbers that every computer engineer should know, according to Jeff Dean? - Quora
-
-CPUs and Threads
-https://www.linkedin.com/posts/maheshma_cpu-development-technology-activity-7215165124485996545-nKty/?utm_source=share&utm_medium=member_desktop
 -->
 
 
