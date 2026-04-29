@@ -261,6 +261,54 @@ https://www.youtube.com/ | (185) YouTube
 -->
 
 
+<!--
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
+
+## Ryan Peterman
+
+https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
+
+https://read.developing.dev/ | The Developing Dev by Ryan Peterman
+https://twitter.com/ryanlpeterman/
+https://www.developing.dev/p/5-skills-all-10x-engineers-have
+https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
+https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
+
+## Engineering Templates
+
+https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
+https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
+https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
+https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
+https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
+https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
+https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
+
+
+## The Pragmatic Engineer
+
+Pragmatic Engineer
+https://www.pragmaticengineer.com/ | The Pragmatic Engineer
+https://twitter.com/Pragmatic_Eng
+https://twitter.com/GergelyOrosz/
+https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
+
+https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
+https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
+https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
+https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
+
+https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
+https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
+
+https://newsletter.pragmaticengineer.com/p/facebook
+
+## Engineering
+
+Cal Paterson
+https://calpaterson.com
+-->
 
 ## Top Books
 
@@ -542,53 +590,6 @@ Net DevOps with Ansible on O'Reilly
 
 
 <!--
-https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
-
-## Ryan Peterman
-
-https://twitter.com/ryanlpeterman/status/1767634813295759523 | Ryan Peterman on X: "If you want to become a better software engineer, read these blogs from top companies (Meta, Uber, Stripe, OpenAI, Netflix) I spent hours curating my top 22 from a list of over 681 different blogs so you don't have to: https://t.co/ff2e3NLY4P" / X
-
-https://read.developing.dev/ | The Developing Dev by Ryan Peterman
-https://twitter.com/ryanlpeterman/
-https://www.developing.dev/p/5-skills-all-10x-engineers-have
-https://twitter.com/ryanlpeterman/status/1698920313567023167 | Ryan Peterman on X: "I grew from Junior (L3) to Staff Engineer (L6) in 3 years at Meta and write a newsletter about software eng career growth. For a limited time, new subscribers will receive a free PDF guide on how to grow to IC6 in 3 years in my welcome email:" / X
-https://twitter.com/ryanlpeterman/status/1698916241266847932 | Ryan Peterman on X: "Get promoted to senior engineer (IC5) faster with &lt;5 minutes of reading a week" / X
-
-## Engineering Templates
-
-https://twitter.com/ryanlpeterman/status/1771678222557847764 | Ryan Peterman on X: "Writing is one of the most important skills for software engineers. A lot of it is repetitive in structure (e.g. design docs, post mortems, etc). Here are my top 6 software engineering templates that I wish I had sooner:" / X
-https://docs.google.com/document/d/1RUvEIT_Qh9VrViiDpf0ynLPD9EpteoMJ7IsxHBvuB4Y/edit#heading=h.x2106vzn2dx | Launch Post Template - Google Docs
-https://docs.google.com/spreadsheets/d/1hxjvBAu0qo4H_8GUiIkUsv51ere9KszxxG9Fq3mWvdY/edit#gid=1493514154 | Simple Timeline Template For Eng Projects - Google Sheets
-https://docs.google.com/document/d/1CAvwd6IaaThBWU_MiYKgtt3S7h8psAdNNkbKeYExR0k/edit#heading=h.67pyboai2u34 | Direction Doc - Google Docs
-https://docs.google.com/document/d/1ZT5KqN5gOW60FA-wEi4cMq3_bIx2fvrE93cTqDLDPhg/edit | Diff (or PR) Template - Google Docs
-https://docs.google.com/document/d/1gUwx-nG_WHuoRUAyCqUd7mKnSo_uGWZ8spW-LGrXt58/edit#heading=h.y6q9u4ltqlnb | Eng Postmortem Template - Google Docs
-https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/edit#heading=h.psi98t855m9r | Eng Design Doc - Google Docs
-
-
-## The Pragmatic Engineer
-
-Pragmatic Engineer
-https://www.pragmaticengineer.com/ | The Pragmatic Engineer
-https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
-https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
-
-https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
-https://www.linkedin.com/in/gergelyorosz/recent-activity/all/ | Activity | Gergely Orosz | LinkedIn
-https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-in-2023 | The Pragmatic Engineer in 2023 - by Gergely Orosz
-https://newsletter.pragmaticengineer.com/about | (1) About - The Pragmatic Engineer
-https://blog.pragmaticengineer.com/my-reading-list/ | My Reading & Listening List - The Pragmatic Engineer
-
-https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A Philosophy of Software Design: My Take (and a Book Review) - The Pragmatic Engineer
-https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
-
-https://newsletter.pragmaticengineer.com/p/facebook
-
-## Engineering
-
-Cal Paterson
-https://calpaterson.com
-
 ## System Design
 
 https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
