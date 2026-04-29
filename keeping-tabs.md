@@ -228,6 +228,7 @@ https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apida
 
 ## Architectural Decision Records
 
+https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
 https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
 https://www.redhat.com/architecture-decision-records | 404 - Red Hat
 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
@@ -262,6 +263,7 @@ https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutle
 
 ## Ryan Peterman
 
+https://www.developing.dev/
 https://read.developing.dev/ | The Developing Dev by Ryan Peterman
 https://twitter.com/ryanlpeterman/
 https://www.developing.dev/p/5-skills-all-10x-engineers-have
@@ -284,7 +286,8 @@ https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/
 Pragmatic Engineer
 https://www.pragmaticengineer.com/ | The Pragmatic Engineer
 https://twitter.com/Pragmatic_Eng
-https://twitter.com/GergelyOrosz/
+
+https://x.com/GergelyOrosz
 https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
 
 https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
@@ -314,12 +317,17 @@ https://calpaterson.com
 * [Zack Engineering Blogs List](https://x.com/wolfie_zack/status/1679744158313992192)
 * [Ryan L. Peterman Blog List](https://twitter.com/ryanlpeterman/status/1767634813295759523)
 
+<!--
+https://openai.com/index/scaling-postgresql/
+-->
+
 ## Free Courses
 
+* [MIT](https://ocw.mit.edu/)
+* [Stanford](https://online.stanford.edu/free-courses)
+  
 <!--
 https://medium.com/open-learning/watch-mits-top-5-lectures-of-all-time-fa69f37e22e
-https://ocw.mit.edu/
-https://online.stanford.edu/free-courses
 https://github.com/papers-we-love/papers-we-love/
 -->
 
@@ -479,6 +487,8 @@ Camille Fournier
 
   
 <!--
+https://www.engguidebook.com/
+
 Hanson, Chris, Sussman, Gerald Jay
 https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
 Software Design for Flexibility
