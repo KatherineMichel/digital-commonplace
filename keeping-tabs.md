@@ -214,10 +214,6 @@ https://cleancoders.com/ | Clean Coders: Level up your code.
 https://cleancoders.com/library/all | Clean Coders: Level up your code.
 https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
 
-## Martin Kleppman
-
-https://www.amazon.com/stores/author/B00Q43XKD6 | Amazon.com: Martin Kleppmann: books, biography, latest update
-https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html | Please stop calling databases CP or AP — Martin Kleppmann’s blog
 
 ## Gregor
 
@@ -272,24 +268,52 @@ https://www.youtube.com/ | (185) YouTube
 
 Martin Klepmann
 * [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+* [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+
+Unmesh Joshi
+* [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
+
+Brendan Burns
+* [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Systems Using Kubernetes, 2nd Edition](https://learning.oreilly.com/library/view/designing-distributed-systems/9781098156343/)
+
+Sam Newman
+* [Building Resilient Distributed Systems](https://learning.oreilly.com/library/view/building-resilient-distributed/9781098163532/)
+* [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
+* [Monolith to Microservices](https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/)
+
+Dominik Tornow
+* [Think Distributed Systems](https://learning.oreilly.com/library/view/think-distributed-systems/9781633436176/)
+
+Alex Petrov
+* [Database Internals](https://learning.oreilly.com/library/view/database-internals/9781492040330/)
+
+Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
+* [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
+* [The Site Reliability Workbook](https://learning.oreilly.com/library/view/the-site-reliability/9781492029496/)
+
+Brendan Gregg
+* [Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
 
 Camille Fournier
 * [Platform Engineering](https://learning.oreilly.com/library/view/platform-engineering/9781098153632/)
 * [The Manager's Path](https://learning.oreilly.com/library/view/the-managers-path/9781491973882/)
+* [97 Things Every Engineering Manager Should Know](https://learning.oreilly.com/library/view/97-things-every/9781492050896/)
+
+Charity Majors, Liz Fong-Jones, George Miranda
+* [Observability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/observability-engineering-2nd/9781098179915/)
 
 Michael Feathers
 * [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
-
-The Gang of Four
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
 
 Martin Fowler
 * [Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)
 * [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
 
-Unmesh Joshi
-* [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
-
+Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
+* [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://learning.oreilly.com/library/view/enterprise-integration-patterns/0321200683/)
+* [The Software Architect Elevator](https://learning.oreilly.com/library/view/the-software-architect/9781492077534/)
+* [Platform Strategy: Innovation Through Harmonization](https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect-ebook/dp/B0GD1TT9D4/)
+  
 Kent Beck
 * [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
 
@@ -300,12 +324,37 @@ Addy Osmani
 * [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
 * [Learning JavaScript Design Patterns, 2nd Edition](https://learning.oreilly.com/library/view/learning-javascript-design/9781098139865/)
 
+The Gang of Four
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
 
+Titus Winters, Tom Manshreck, Hyrum Wright
+* [Software Engineering at Google](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781/)
+
+Gergely-Orosz
+* [The Software Engineer's Guidebook](https://learning.oreilly.com/library/view/the-software-engineers/9789083381831/)
+
+Sarah Drasner
+* [Engineering Management for the Rest of Us](https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35)
+
+Tanya Reilly
+* [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
+
+
+  
 <!--
-https://learning.oreilly.com/library/view/observability-engineering-2nd/9781098179915/
+Mark Richards and Neal Ford
+https://www.amazon.com/stores/author/B0039T7ODK
+https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW
+https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
+
+https://architectelevator.com/book/
+
+https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
+
+
+https://learning.oreilly.com/playlists/ac362937-468b-4eed-805b-97766dcd70a4/
 
 See others in the series
-https://www.amazon.com/Systems-Performance-Brendan-Gregg-ebook/dp/B08J5QZPNC
 https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B003U2T5BA
 
 
@@ -313,19 +362,6 @@ Will Larson
 https://www.amazon.com/stores/author/B07RCW6CWQ
 https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
 https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
-
-Sarah Drasner
-https://www.amazon.com/Engineering-Management-Rest-Sarah-Drasner-ebook/dp/B0BGYVDX35
-
-Tanya Reilly
-https://www.amazon.com/Staff-Engineers-Path-Tanya-Reilly-ebook/dp/B0BG16Y553
-
-
-https://www.amazon.com/stores/Gergely-Orosz/author/B0924WDG65
-https://www.amazon.com/Software-Engineers-Guidebook-Navigating-positions-ebook/dp/B0CV6ZNLLP
-
-https://www.amazon.com/Software-Engineering-Google-Lessons-Programming-ebook/dp/B0859PF5HB
-https://www.amazon.com/Site-Reliability-Engineering-Production-Systems-ebook/dp/B01DCPXKZ6
 
 
 ## SICP
@@ -360,8 +396,6 @@ https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design 
 https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/0262045494#customerReviews | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 
-https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
-
 
 Python
 https://www.amazon.com/Fluent-Python-Luciano-Ramalho-ebook/dp/B09WZJMMJP
@@ -376,12 +410,10 @@ https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J
 
 
 https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP
+
 https://www.amazon.com/Writing-Compiler-Programming-Language-Scratch-ebook/dp/B09WJY1MH7/
 https://www.amazon.com/Crafting-Interpreters-Robert-Nystrom-ebook/dp/B09BCCVLCL
 https://www.amazon.com/Programming-Language-PROGRAMMING-LANG-_p2-ebook/dp/B009ZUZ9FW
-
-https://www.amazon.com/Database-Internals-Deep-Distributed-Systems-ebook/dp/B07XW76VHZ
-https://www.amazon.com/Designing-Distributed-Systems-Paradigms-Kubernetes-ebook/dp/B0DPLPBWBX
 
 https://www.amazon.com/JavaScript-Good-Parts-ebook/dp/B0026OR2ZY
 https://www.amazon.com/Learning-JavaScript-Design-Patterns-Osmani-ebook/dp/B0C3WVFH7Q
@@ -443,10 +475,6 @@ https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebo
 
 https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
 
-Mark Richards and Neal Ford
-https://www.amazon.com/stores/author/B0039T7ODK
-https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW
-https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
 
 
 Martin Fowler
@@ -459,8 +487,6 @@ https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU
 Eric Evans
 https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG
 
-Driven Development
-
 DDD
 https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
 https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
@@ -471,14 +497,7 @@ UML, TLA+
 Head First Design Patterns
 https://www.amazon.com/Head-First-Design-Patterns-Object-Oriented-ebook/dp/B08P3X99QP
 
-Sam Newman
-Monolith and Microservices
-https://www.amazon.com/stores/author/B00LEP6IB0
-https://www.amazon.com/Building-Microservices-Sam-Newman-ebook/dp/B09B5L4NVT?ref_=ast_author_mpb
 
-https://architectelevator.com/book/
-https://www.amazon.com/stores/Gregor-Hohpe/author/B001KDEH2S
-https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects-ebook/dp/B086WQ9XL1
 
 https://kevlin.tel/
 https://www.amazon.com/stores/Kevlin-Henney/author/B0716N93KR
@@ -508,7 +527,6 @@ https://www.amazon.com/High-Output-Management-Andrew-Grove-ebook/dp/B015VACHOK
 https://www.amazon.com/Dont-Make-Think-Revisited-Usability-ebook/dp/B00HJUBRPG
 
 https://www.amazon.com/Communication-Patterns-Jacqui-Read-ebook/dp/B0CKM8L13H
-
 
 ## Ansible
 
