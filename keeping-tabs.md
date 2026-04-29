@@ -14,12 +14,13 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 
 ## Control Plane and Data Plane
 
+* [Control Plane Wikipedia](https://en.wikipedia.org/wiki/Control_plane)
+
 
 <!--
 ## Control Plane and Data Plane
 
 Control Plane and Data Plane
-https://en.wikipedia.org/wiki/Control_plane | Control plane - Wikipedia
 https://docs.aws.amazon.com/whitepapers/latest/aws-fault-isolation-boundaries/control-planes-and-data-planes.html | Control planes and data planes - AWS Fault Isolation Boundaries
 https://docs.aws.amazon.com/whitepapers/latest/advanced-multi-az-resilience-patterns/control-planes-and-data-planes.html | Control planes and data planes - Advanced Multi-AZ Resilience Patterns
 https://www.cloudflare.com/learning/network-layer/what-is-the-control-plane/ | What is the control plane? | Control plane vs. data plane | Cloudflare
@@ -228,8 +229,6 @@ https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration
 
 https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
 
-https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542/ref=zg_bs_g_602672_d_sccl_50/139-6042390-6703204?psc=1 | The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise: Hohpe, Gregor: 9781492077541: Amazon.com: Books
-https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect/dp/B0D1R6DX2M | Platform Strategy: Innovation Through Harmonization (Architect Elevator Book Series): Hohpe, Gregor, Danieli, Michele, Landreau, Jean-Francois: 9798320272047: Amazon.com: Books
 
 
 ## Architectural Decision Records
@@ -313,7 +312,7 @@ Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
 * [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://learning.oreilly.com/library/view/enterprise-integration-patterns/0321200683/)
 * [The Software Architect Elevator](https://learning.oreilly.com/library/view/the-software-architect/9781492077534/)
 * [Platform Strategy: Innovation Through Harmonization](https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect-ebook/dp/B0GD1TT9D4/)
-  
+
 Kent Beck
 * [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
 
@@ -324,8 +323,23 @@ Addy Osmani
 * [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
 * [Learning JavaScript Design Patterns, 2nd Edition](https://learning.oreilly.com/library/view/learning-javascript-design/9781098139865/)
 
+Mark Richards, Neal Ford, Raju Gandhi, Pramod Sadalage, Zhamak Dehghani
+* [Software Architecture Patterns, Antipatterns, and Pitfalls](https://learning.oreilly.com/library/view/software-architecture-patterns/0642572221119/)
+* [Architecture as Code](https://learning.oreilly.com/library/view/architecture-as-code/9798341640368/)
+* [Software Architecture: The Hard Parts](https://learning.oreilly.com/library/view/software-architecture-the/9781492086888/)
+* [Fundamentals of Software Architecture, 2nd Edition](https://learning.oreilly.com/library/view/fundamentals-of-software/9781098175504/)
+
+Tanu McCabe
+* [Fundamentals of Enterprise Architecture](https://learning.oreilly.com/library/view/fundamentals-of-enterprise/9781098159368/)
+
+Nathaniel Schutta, Dan Vega
+* [Fundamentals of Software Engineering](https://learning.oreilly.com/library/view/fundamentals-of-software/9781098143220/)
+
 The Gang of Four
 * [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
+
+Eric Evans
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
 
 Titus Winters, Tom Manshreck, Hyrum Wright
 * [Software Engineering at Google](https://learning.oreilly.com/library/view/software-engineering-at/9781492082781/)
@@ -339,17 +353,47 @@ Sarah Drasner
 Tanya Reilly
 * [The Staff Engineer's Path](https://learning.oreilly.com/library/view/the-staff-engineers/9781098118723/)
 
+Will Larson
 
   
 <!--
-Mark Richards and Neal Ford
-https://www.amazon.com/stores/author/B0039T7ODK
-https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW
-https://www.amazon.com/Software-Architecture-Trade-Off-Distributed-Architectures/dp/1492086894
+
+https://www.amazon.com/stores/author/B07RCW6CWQ
+https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
+https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
+
+
+Kent Beck
+https://www.amazon.com/stores/author/B000APC0EY
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
+https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
+https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
+
+
+Robert C. Martin
+https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
+Clean
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
+https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
+https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
+https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
+https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
+
+David Thomas and Andrew Hunt
+https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1
+https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
+
+Code Complete
+https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY
+
+Frederick P. Brooks Jr. 
+https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14
+https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+
 
 https://architectelevator.com/book/
-
-https://www.oreilly.com/library/view/software-architecture-the/9781492086888/ | Software Architecture: The Hard Parts [Book]
 
 
 https://learning.oreilly.com/playlists/ac362937-468b-4eed-805b-97766dcd70a4/
@@ -357,11 +401,6 @@ https://learning.oreilly.com/playlists/ac362937-468b-4eed-805b-97766dcd70a4/
 See others in the series
 https://www.amazon.com/UNIX-Programming-Addison-Wesley-Professional-Computing-ebook/dp/B003U2T5BA
 
-
-Will Larson
-https://www.amazon.com/stores/author/B07RCW6CWQ
-https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
-https://www.amazon.com/Engineering-Executives-Primer-Will-Larson-ebook/dp/B0CV4QGPXD
 
 
 ## SICP
@@ -397,17 +436,15 @@ https://www.amazon.com/Software-Design-Flexibility-Programming-Yourself/dp/02620
 https://www.amazon.com/dp/0262045494/ | Software Design for Flexibility: How to Avoid Programming Yourself into a Corner: Hanson, Chris, Sussman, Gerald Jay: 9780262045490: Amazon.com: Books
 
 
-Python
-https://www.amazon.com/Fluent-Python-Luciano-Ramalho-ebook/dp/B09WZJMMJP
-https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
-https://www.feldroy.com/two-scoops-of-django
-
 Algorithms
 https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X
 https://www.amazon.com/Algorithm-Design-Manual-Computer-Science-ebook/dp/B08L5JZRHD
 https://www.amazon.com/Algorithms-Algorithms_4-Robert-Sedgewick-ebook/dp/B004P8J1NA
 
-
+Python
+https://www.amazon.com/Fluent-Python-Luciano-Ramalho-ebook/dp/B09WZJMMJP
+https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
+https://www.feldroy.com/two-scoops-of-django
 
 https://www.amazon.com/CPython-Internals-Guide-Python-Interpreter-ebook/dp/B0BCNSDSYP
 
@@ -424,38 +461,11 @@ https://www.amazon.com/Programming-TypeScript-Making-JavaScript-Applications-ebo
 https://www.amazon.com/TypeScript-Cookbook-Stefan-Baumgartner-ebook/dp/B0CF49YMNY
 https://www.amazon.com/Effective-TypeScript-Specific-Ways-Improve-ebook/dp/B0D2SGRTGR
 
+
 https://www.amazon.com/Web-Performance-Daybook-Techniques-Optimizing-ebook/dp/B008CQA8BA
 
 https://www.amazon.com/AI-Engineering-Building-Applications-Foundation-ebook/dp/B0DPLNK9GN
 
-Kent Beck
-https://www.amazon.com/stores/author/B000APC0EY
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
-https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
-https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
-
-
-Robert C. Martin
-https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
-Clean
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
-https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
-https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
-https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
-https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
-
-David Thomas and Andrew Hunt
-https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1
-https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
-
-Code Complete
-https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY
-
-Frederick P. Brooks Jr. 
-https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
 
 https://www.amazon.com/Philosophy-Software-Design-2nd-ebook/dp/B09B8LFKQL
 
@@ -483,9 +493,6 @@ https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler
 https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
 https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
 
-
-Eric Evans
-https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG
 
 DDD
 https://www.amazon.com/Learning-Domain-Driven-Design-Vlad-Khononov-ebook/dp/B09J2CMJZY
@@ -536,43 +543,6 @@ Net DevOps with Ansible on O'Reilly
 
 
 <!--
-## System Design
-
-https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-
-https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
-
-https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
-https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
-
-Cheat Sheets
-https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-
-https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
-http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
-
-https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
-
-https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
-
-
-## Tech Articles to Read
-
-https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
-https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
-
-## LinkedIn Teachers
-
-Rocky Bhatia
-https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
-
-https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
-https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
-https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
-https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
-
-
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
 
 ## Ryan Peterman
@@ -619,6 +589,42 @@ https://newsletter.pragmaticengineer.com/p/facebook
 
 Cal Paterson
 https://calpaterson.com
+
+## System Design
+
+https://www.linkedin.com/posts/johncrickett_75-engineering-blogs-worth-reading-to-improve-activity-7126840575730839552-8N5F/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+
+https://github.com/ashishps1/awesome-low-level-design | ashishps1/awesome-low-level-design: Learn Low Level Design (LLD) and prepare for interviews using free resources.
+
+https://github.com/Coder-World04/Complete-System-Design | Coder-World04/Complete-System-Design: This repository contains everything you need to become proficient in System Design
+https://github.com/ashishps1/awesome-system-design-resources | ashishps1/awesome-system-design-resources: This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+
+Cheat Sheets
+https://github.com/donnemartin/system-design-primer#latency-numbers-every-programmer-should-know | donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+https://github.com/donnemartin/system-design-primer#powers-of-two-table | donnemartin/system-design-primer: fLearn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
+
+https://gist.github.com/vasanthk/485d1c25737e8e72759f | System Design Cheatsheet
+http://highscalability.com/blog/2011/1/26/google-pro-tip-use-back-of-the-envelope-calculations-to-choo.html | Google Pro Tip: Use Back-of-the-envelope-calculations to Choose the Best Design -High Scalability -
+
+https://news.ycombinator.com/item?id=38056547 | GitHub – system-design-primer: Learn how to design large-scale systems | Hacker News
+
+https://aakashgupta.substack.com/p/the-ultimate-guide-design-systems#%C2%A7what-are-design-systems-ds | The Ultimate Guide: Design Systems - by Aakash Gupta
+
+
+## Tech Articles to Read
+
+https://www.linkedin.com/search/results/content/?keywords=tech%20articles%20to%20read%20over%20the%20week&origin=SWITCH_SEARCH_VERTICAL&sid=8lU | "tech articles to read over the week" | Search | LinkedIn
+https://www.linkedin.com/search/results/content/?keywords=a%20good%20list%20of%20tech%20articles%20to%20read&origin=CLUSTER_EXPANSION&sid=ecq | "a good list of tech articles to read" | Search | LinkedIn
+
+## LinkedIn Teachers
+
+Rocky Bhatia
+https://www.linkedin.com/search/results/content/?keywords=rocky%20bhatia&origin=SWITCH_SEARCH_VERTICAL&sid=*3G | "rocky bhatia" | Search | LinkedIn
+
+https://www.linkedin.com/in/rocky-bhatia-a4801010/ | Rocky Bhatia | LinkedIn
+https://www.youtube.com/@learnwithrockybhatia | (244) Rocky Bhatia - YouTube
+https://www.linkedin.com/in/rocky-bhatia-a4801010/recent-activity/all/ | (1) Activity | Rocky Bhatia | LinkedIn
+https://courses.learnwithrockybhatia.com/ | Learnwithrockybhatia.com
 -->
 
 
