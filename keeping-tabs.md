@@ -319,7 +319,7 @@ Martin Klepmann
 Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
 
-Brendan Burns
+Brendan Burns, Tom Beyer
 * [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Systems Using Kubernetes, 2nd Edition](https://learning.oreilly.com/library/view/designing-distributed-systems/9781098156343/)
 
 Sam Newman
@@ -404,6 +404,25 @@ Will Larson
 
   
 <!--
+Building Evolutionary Architectures, 2nd Edition
+Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage
+https://learning.oreilly.com/library/view/building-evolutionary-architectures/9781492097532/
+
+Refactoring Databases: Evolutionary Database Design
+Scott W. Ambler, Pramod J. Sadalage
+https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/
+
+https://samnewman.io/books/building-resilient-distributed-systems/
+https://learning.oreilly.com/library/view/building-resilient-distributed/9781098163532/
+
+Mastering API Architecture
+James Gough, Daniel Bryant, Matthew Auburn
+https://learning.oreilly.com/library/view/mastering-api-architecture/9781492090625/
+
+Ian Gorton
+https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/
+
+https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
 
 https://www.amazon.com/stores/author/B07RCW6CWQ
 https://www.amazon.com/Staff-Engineer-Leadership-Beyond-Management/dp/B097CNXP89
