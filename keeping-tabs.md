@@ -74,6 +74,9 @@ https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patte
 ## Valkey
 
 <!--
+https://github.com/valkey-io/valkey
+https://valkey.io/blog/2025-year-end/
+https://www.linkedin.com/in/madelyn-olson-valkey/
 Seth Muthukaruppan
 https://www.linkedin.com/in/seth-muthukaruppan/
 
@@ -499,6 +502,12 @@ https://calpaterson.com
 https://openai.com/index/scaling-postgresql/
 -->
 
+## Whitepapers
+
+<!--
+https://read.highgrowthengineer.com/p/why-reading-whitepapers-takes-your
+-->
+
 ## Free Courses
 
 * [MIT](https://ocw.mit.edu/)
@@ -699,6 +708,8 @@ Camille Fournier
 
   
 <!--
+https://github.com/jordan-cutler/path-to-senior-engineer-handbook
+https://read.highgrowthengineer.com/p/becoming-a-go-to-person-gets-you
 https://github.com/ryanburgess/engineer-manager
 
 https://www.engguidebook.com/
