@@ -11,6 +11,13 @@ https://events.linuxfoundation.org/
 https://valkey.io/events/
 https://www.redhat.com/en/events
 
+## Learning
+
+https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
+https://www.techtalksweekly.io/p/50-most-watched-software-engineering
+https://testautomationu.applitools.com/
+https://frontendmasters.com/
+
 ## News
 
 https://www.cve.org/
@@ -25,6 +32,10 @@ https://cacm.acm.org/
 https://owasp.org/www-project-top-ten/
 https://www.gartner.com
 https://www.thoughtworks.com/en-us/radar
+
+## Laws of Software Engineering
+
+https://lawsofsoftwareengineering.com/
 
 ## AI
 
@@ -252,8 +263,7 @@ https://tanstack.com/
 ## Java Resources
 
 <!--
-https://testautomationu.applitools.com/
-https://frontendmasters.com/
+https://www.techtalksweekly.io/p/100-most-watched-java-conference
 
 https://testautomationu.applitools.com/java-programming-course/chapter4c.html | Chapter 4c - For Loop
 https://testautomationu.applitools.com/java-programming-course/ | Java Programming
@@ -503,19 +513,14 @@ The Gang of Four
 Eric Evans
 * [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
 
-<!--
 David Thomas and Andrew Hunt
-The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition
-https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
+* [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
 
 Steve McConnell
-Code Complete
-https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/
+* [Code Complete](https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/)
 
 Frederick P. Brooks Jr. 
-Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition, 2nd Edition
-https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/
--->
+* [Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
 
 ## AI Books
 
@@ -545,6 +550,10 @@ Sam Newman
 * [Building Resilient Distributed Systems](https://learning.oreilly.com/library/view/building-resilient-distributed/9781098163532/)
 * [Building Microservices](https://learning.oreilly.com/library/view/building-microservices-2nd/9781492034018/)
 * [Monolith to Microservices](https://learning.oreilly.com/library/view/monolith-to-microservices/9781492047834/)
+
+<!--
+https://samnewman.io/books/building-resilient-distributed-systems/
+-->
 
 Dominik Tornow
 * [Think Distributed Systems](https://learning.oreilly.com/library/view/think-distributed-systems/9781633436176/)
@@ -652,13 +661,16 @@ Camille Fournier
 
   
 <!--
+https://github.com/ryanburgess/engineer-manager
+
+https://www.engguidebook.com/
+
+
 Database Reliability Engineering
 Laine Campbell, Charity Majors
 https://learning.oreilly.com/library/view/database-reliability-engineering/9781491925935/
 
 https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
-
-https://www.engguidebook.com/
 
 Hanson, Chris, Sussman, Gerald Jay
 https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
@@ -731,8 +743,6 @@ https://www.linkedin.com/posts/maheshma_cpu-development-technology-activity-7215
 
 https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html
 
-
-https://samnewman.io/books/building-resilient-distributed-systems/
 
 Mastering API Architecture
 James Gough, Daniel Bryant, Matthew Auburn
