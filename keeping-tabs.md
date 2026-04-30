@@ -60,6 +60,8 @@ https://medium.com/the-guy-wire/making-memories-with-redis-typescript-and-llms-d
 
 Working backwards at Amazon
 https://x.com/hnshah/status/1778445009399984217
+
+https://web.archive.org/web/20260107205705/https://www.sauviac.net/projects/converged-workload/index.html
 -->
 
 ## Architectures
