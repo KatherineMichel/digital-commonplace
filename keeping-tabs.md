@@ -189,8 +189,11 @@ https://jukkasuomela.fi/da2020/da2020.pdf
 https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 Jepsen and Kyle Kingsbury
-https://jepsen.io/services/training
 https://github.com/aphyr/distsys-class
+https://jepsen.io/services/training
+https://www.linkedin.com/in/kyle-kingsbury/
+https://jepsen.io/analyses
+https://jepsen.io/analyses/cockroachdb-beta-20160829
 
 Martin Kleppmann
 Distributed Systems lecture series
@@ -589,9 +592,21 @@ Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
 Martin Fowler
 * [Patterns of Enterprise Application Architecture](https://learning.oreilly.com/library/view/patterns-of-enterprise/0321127420/)
 
+<!--
+Patterns in Enterprise Software
+https://martinfowler.com/articles/enterprisePatterns.html
+-->
+
 Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
 * [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://learning.oreilly.com/library/view/enterprise-integration-patterns/0321200683/)
 
+<!--
+https://en.wikipedia.org/wiki/Enterprise_Integration_Patterns
+https://www.enterpriseintegrationpatterns.com/
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://www.enterpriseintegrationpatterns.com/ramblings/eip1_examples_updated.html
+https://github.com/spac3lord/eip
+-->
 
 
 Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
