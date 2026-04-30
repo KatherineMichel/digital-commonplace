@@ -4,8 +4,62 @@
 ## DFW
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+
+## Events
+
+https://events.linuxfoundation.org/
+https://valkey.io/events/
+https://www.redhat.com/en/events
+
+## News
+
+https://www.cve.org/
+https://lwn.net/
+https://valkey-demo.oursqlcommunity.org/
+https://x.com/RedHat
+https://forum.ansible.com/t/the-bullhorn-225/45736
+https://cacm.acm.org/
+
+## Trends
+
+https://www.gartner.com
+https://www.thoughtworks.com/en-us/radar
+
+## AI
+
+https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 -->
 
+<!--
+https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
+
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+-->
+
+## Architectures
+
+<!--
+https://herbertograca.com/2017/09/14/ports-adapters-architecture/
+https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/
+-->
+
+## Valkey
+
+<!--
+Seth Muthukaruppan
+https://www.linkedin.com/in/seth-muthukaruppan/
+
+## VMware Gemfire and Tanzu
+
+https://gemfire.dev/
+https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
+https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
+-->
+
+## Infrastructure Engineering
+
+* [Splunk Infrastructure Engineering](https://www.splunk.com/en_us/blog/learn/infrastructure-engineering.html)
 
 ## Orchestration
 
@@ -19,32 +73,6 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 
 
 <!--
-Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
-https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
-https://www.youtube.com/watch?v=f3LPF7MSwGA
-
-https://www.redhat.com/en/events
-
-https://lwn.net/
-https://valkey-demo.oursqlcommunity.org/
-https://x.com/RedHat
-https://forum.ansible.com/t/the-bullhorn-225/45736
-
-https://en.wikipedia.org/wiki/Security-Enhanced_Linux
-
-https://github.com/torvalds/linux
-https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
-https://archive.org/details/DesignUNIXOperatingSystem
-
-https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
-https://rlworkman.net/howtos/rute/
-https://github.com/0xAX/linux-insides
-https://github.com/0xAX/linux-insides#requirements
-https://en.wikipedia.org/wiki/Assembly_language
-https://en.wikipedia.org/wiki/C_(programming_language)
-https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
-
-
 ## Control Plane and Data Plane
 
 Control Plane and Data Plane
@@ -58,33 +86,64 @@ https://www.redhat.com/en/topics/containers/what-are-hosted-control-planes | Wha
 
 
 https://www.redhat.com/en/blog/channel/management-and-automation | IT management and automation
-
+-->
 
 ## RHEL
 
-https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+<!--
+Sander van Vugt
+Red Hat Certified System Administrator (RHCSA) RHEL 9
+https://learning.oreilly.com/course/red-hat-certified/9780137931521/
+Red Hat Certified Engineer (RHCE) EX294, 2nd Edition
+https://learning.oreilly.com/course/red-hat-certified/9780138271657/
 
+https://learning.oreilly.com/videos/red-hat-certified/9780137931521/9780137931521-RHL9_02_05_01/
+
+https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
+
+https://www.redhat.com/en/topics/linux/what-is-selinux
+https://en.wikipedia.org/wiki/Security-Enhanced_Linux
+
+## Linux
+
+https://github.com/torvalds/linux
+https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
+https://archive.org/details/DesignUNIXOperatingSystem
+
+https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
+https://rlworkman.net/howtos/rute/
+https://github.com/0xAX/linux-insides
+https://github.com/0xAX/linux-insides#requirements
+https://en.wikipedia.org/wiki/Assembly_language
+https://en.wikipedia.org/wiki/C_(programming_language)
+https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+-->
+
+<!--
 ## Kubernetes, Salt, Ansible
 
 ## Ansible
+
+https://x.com/livingdevops/status/2019990385104454141
 
 https://docs.ansible.com/ | Ansible Documentation
 https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
 https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
 
 https://github.com/ansible/ansible
-
-
-## VMware Gemfire and Tanzu
-
-https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
-https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
 -->
 
 
 ## Distributed Systems
 
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+
+<!--
+Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
+https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
+https://www.youtube.com/watch?v=f3LPF7MSwGA
+-->
 
 ## DevOps
 
@@ -98,12 +157,36 @@ https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
 * [Terraform](https://www.terraform.io/)
 * [Salt GitHub](https://github.com/saltstack/salt)
 
+## Databases
+
+<!--
+The State of Resilience 2025
+https://www.cockroachlabs.com/guides/the-state-of-resilience-2025
+
+https://x.com/andy_pavlo
+https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
+CMU’s Database Systems playlist is pure gold if you want to understand databases beyond APIs.
+https://x.com/yashagw/status/2009264057870897586
+
+Architecture of a Database System
+Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton
+https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+
+https://www.compileralchemy.com/books/sqlite-internals/
+
+https://db-engines.com/en/systems
+-->
+
 ## Frontend and Mobile
 
 * [React](https://reactjs.org/)
 * [Redux](https://redux.js.org/)
 * [React Native](https://reactnative.dev/)
 * [SASS](https://sass-lang.com/)
+
+<!--
+https://tanstack.com/
+-->
 
 ## Java Resources
 
@@ -207,21 +290,10 @@ https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
 
 
 
-
-
-
-
 <!--
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
-
-
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
-https://www.gartner.com
-https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
-https://www.thoughtworks.com/en-us/radar
-https://cacm.acm.org/
+
 
 
 Case studies
@@ -461,6 +533,9 @@ Titus Winters, Tom Manshreck, Hyrum Wright
 Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
 * [The Site Reliability Workbook](https://learning.oreilly.com/library/view/the-site-reliability/9781492029496/)
+
+Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
+* [The DevOps Handbook, 2nd Edition](https://learning.oreilly.com/library/view/the-devops-handbook/9781098182281/)
 
 ## Patterns Books
 
