@@ -144,14 +144,50 @@ https://github.com/ansible/ansible
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 <!--
+https://brooker.co.za/blog/2014/03/30/lamport-pub.html
+
 Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
 https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
 https://www.youtube.com/watch?v=f3LPF7MSwGA
 -->
 
+<!--
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
+
+https://asatarin.github.io/testing-distributed-systems/
+
+Lamport
+https://x.com/TheOfficialACM/status/2020071323330883979
+https://brooker.co.za/blog/2014/03/30/lamport-pub.html
+https://amturing.acm.org/p558-lamport.pdf
+https://x.com/DynamicWebPaige/status/1991729579099066492
+https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+
+https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
+https://jukkasuomela.fi/da2020/da2020.pdf
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/
+
+Jepsen and Kyle Kingsbury
+https://jepsen.io/services/training
+https://github.com/aphyr/distsys-class
+
+Martin Kleppmann
+Distributed Systems lecture series
+https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+
+MIT 6.824: Distributed Systems
+https://www.youtube.com/@6.824
+https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+-->
+
 ## DevOps
 
 * [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+
+<!--
+https://x.com/MuthaNagavamsi/status/1811277785417253321
+-->
 
 ## Automation
 
@@ -480,29 +516,6 @@ Martin Klepmann
 
 Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
-
-<!--
-https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
-
-https://asatarin.github.io/testing-distributed-systems/
-
-https://amturing.acm.org/p558-lamport.pdf
-https://x.com/DynamicWebPaige/status/1991729579099066492
-https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
-
-https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
-https://jukkasuomela.fi/da2020/da2020.pdf
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/
-https://github.com/aphyr/distsys-class
-https://jepsen.io/services/training
-Martin Kleppmann
-Distributed Systems lecture series
-https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
-MIT 6.824: Distributed Systems
-https://www.youtube.com/@6.824
-https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
--->
 
 Brendan Burns, Tom Beyer
 * [Designing Distributed Systems: Patterns and Paradigms for Scalable, Reliable Systems Using Kubernetes, 2nd Edition](https://learning.oreilly.com/library/view/designing-distributed-systems/9781098156343/)
