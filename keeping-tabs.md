@@ -51,6 +51,7 @@ https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
+https://en.wikipedia.org/wiki/Zero_trust_architecture
 
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
