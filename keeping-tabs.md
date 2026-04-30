@@ -215,9 +215,6 @@ https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
 
-https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
-
-
 
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
@@ -330,6 +327,8 @@ https://newsletter.pragmaticengineer.com/p/facebook
 
 ## Engineering
 
+https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
+
 Werner Vogels
 https://www.allthingsdistributed.com/
 
@@ -373,15 +372,16 @@ Eric Evans
 
 <!--
 David Thomas and Andrew Hunt
-https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1
-https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/ | The Pragmatic Programmer, 20th Anniversary Edition: your journey to mastery by David Thomas, Andrew Hunt
+The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition
+https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/
 
+Steve McConnell
 Code Complete
-https://www.amazon.com/Code-Complete-Developer-Best-Practices-ebook/dp/B00JDMPOSY
+https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/
 
 Frederick P. Brooks Jr. 
-https://www.amazon.com/Mythical-Man-Month-Anniversary-Software-Engineering-ebook/dp/B00B8USS14
-https://en.wikipedia.org/wiki/The_Mythical_Man-Month | The Mythical Man-Month - Wikipedia
+Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition, 2nd Edition
+https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/
 -->
 
 ## AI Books
