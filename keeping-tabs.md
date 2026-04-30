@@ -153,6 +153,8 @@ https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.h
 
 ## Ansible
 
+YAML
+https://yaml.org/spec/1.2.2/
 https://x.com/livingdevops/status/2019990385104454141
 
 https://docs.ansible.com/ | Ansible Documentation
@@ -587,6 +589,12 @@ Titus Winters, Tom Manshreck, Hyrum Wright
 Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne
 * [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
 * [The Site Reliability Workbook](https://learning.oreilly.com/library/view/the-site-reliability/9781492029496/)
+
+<!--
+https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/ch03.html
+AI for SRE
+https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/ch04.html
+-->
 
 Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
 * [The DevOps Handbook, 2nd Edition](https://learning.oreilly.com/library/view/the-devops-handbook/9781098182281/)
