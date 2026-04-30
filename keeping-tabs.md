@@ -80,6 +80,14 @@ https://www.linkedin.com/in/madelyn-olson-valkey/
 Seth Muthukaruppan
 https://www.linkedin.com/in/seth-muthukaruppan/
 
+Redis Internals
+https://arpitbhayani.me/redis-internals/
+https://x.com/arpit_bhayani/status/2042806466692936056
+https://www.youtube.com/playlist?list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt
+https://www.youtube.com/watch?v=h30k7YixrMo&list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt
+https://arpitbhayani.me/blogs/monolith-is-distributed-system
+https://arpitbhayani.me/blogs
+
 ## VMware Gemfire and Tanzu
 
 https://gemfire.dev/
@@ -135,6 +143,13 @@ https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
 
 https://www.redhat.com/en/topics/linux/what-is-selinux
 https://en.wikipedia.org/wiki/Security-Enhanced_Linux
+
+File System
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
+
+## System Administrator
+
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-getting_started
 
 ## Linux
 
