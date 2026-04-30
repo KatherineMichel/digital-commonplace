@@ -10,6 +10,7 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 https://events.linuxfoundation.org/
 https://valkey.io/events/
 https://www.redhat.com/en/events
+https://aws.amazon.com/events/reinvent/
 
 ## Learning
 
@@ -164,8 +165,6 @@ https://github.com/ansible/ansible
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 <!--
-https://brooker.co.za/blog/2014/03/30/lamport-pub.html
-
 Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
 https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
 https://www.youtube.com/watch?v=f3LPF7MSwGA
@@ -177,11 +176,14 @@ https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/perform
 https://asatarin.github.io/testing-distributed-systems/
 
 Lamport
+https://amturing.acm.org/p558-lamport.pdf
 https://x.com/TheOfficialACM/status/2020071323330883979
 https://brooker.co.za/blog/2014/03/30/lamport-pub.html
-https://amturing.acm.org/p558-lamport.pdf
 https://x.com/DynamicWebPaige/status/1991729579099066492
 https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+https://www.youtube.com/watch?v=U719vQz-WFs&t=1s
+https://en.wikipedia.org/wiki/Paxos_(computer_science)
+https://en.wikipedia.org/wiki/Raft_(algorithm)
 
 https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
 https://jukkasuomela.fi/da2020/da2020.pdf
@@ -385,7 +387,6 @@ https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipe
 
 https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
 https://architectelevator.com/workshops/ | Ride the Architect Elevator! - The Architect Elevator
-https://leanpub.com/platformstrategy | Platform Strategy by Gregor Hohpe [Leanpub PDF/iPad/Kindle]
 https://architectelevator.com/architecture/coupling-facets/ | Coupling and Control Flow in Distributed Systems - The Architect Elevator
 
 Advanced Integration Patterns: Coupling and Control Flow gregor hohpe
@@ -613,6 +614,9 @@ Gregor Hohpe, Bobby Woolf, Michele Danieli, Jean-Francois Landreau
 * [The Software Architect Elevator](https://learning.oreilly.com/library/view/the-software-architect/9781492077534/)
 * [Platform Strategy: Innovation Through Harmonization](https://www.amazon.com/Platform-Strategy-Innovation-Harmonization-Architect-ebook/dp/B0GD1TT9D4/)
 
+<!--
+https://leanpub.com/platformstrategy | Platform Strategy by Gregor Hohpe [Leanpub PDF/iPad/Kindle]
+-->
 
 Addy Osmani
 * [Learning JavaScript Design Patterns, 2nd Edition](https://learning.oreilly.com/library/view/learning-javascript-design/9781098139865/)
@@ -635,6 +639,10 @@ Nathaniel Schutta, Dan Vega
 
 Scott W. Ambler, Pramod J. Sadalage
 * [Refactoring Databases: Evolutionary Database Design](https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/)
+
+<!--
+https://refactoring.com/catalog/
+-->
 
 Michael Feathers
 * [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
