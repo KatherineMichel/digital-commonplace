@@ -28,6 +28,10 @@ https://www.thoughtworks.com/en-us/radar
 
 ## AI
 
+AI People
+https://x.com/scobleizer/lists
+
+https://x.com/karpathy/status/1991910395720925418
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 -->
 
@@ -38,6 +42,11 @@ https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10
 
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
+
+https://medium.com/the-guy-wire/making-memories-with-redis-typescript-and-llms-da2941f752fc
+
+Working backwards at Amazon
+https://x.com/hnshah/status/1778445009399984217
 -->
 
 ## Architectures
@@ -179,6 +188,18 @@ https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 MIT 6.824: Distributed Systems
 https://www.youtube.com/@6.824
 https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+-->
+
+## Performance and Optimization
+
+<!--
+Google Engineering Practices
+https://github.com/google/eng-practices/blob/master/review/index.md
+
+https://x.com/JeffDean/status/2002089534188892256
+https://abseil.io/fast/hints.html
+https://x.com/JeffDean/status/2002520889251017170
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36575.pdf
 -->
 
 ## DevOps
