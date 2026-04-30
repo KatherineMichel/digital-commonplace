@@ -22,6 +22,7 @@ https://cacm.acm.org/
 
 ## Trends
 
+https://owasp.org/www-project-top-ten/
 https://www.gartner.com
 https://www.thoughtworks.com/en-us/radar
 
@@ -31,6 +32,8 @@ https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s
 -->
 
 <!--
+https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
 
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
@@ -55,6 +58,7 @@ https://www.linkedin.com/in/seth-muthukaruppan/
 https://gemfire.dev/
 https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
 https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
+https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
 -->
 
 ## Infrastructure Engineering
