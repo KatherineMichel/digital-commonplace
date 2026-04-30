@@ -591,6 +591,10 @@ Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Ric
 Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
 * [The DevOps Handbook, 2nd Edition](https://learning.oreilly.com/library/view/the-devops-handbook/9781098182281/)
 
+<!--
+https://learning.oreilly.com/library/view/devops-for-dummies/9781119552222/
+-->
+
 ## Patterns Books
 
 Martin Fowler
