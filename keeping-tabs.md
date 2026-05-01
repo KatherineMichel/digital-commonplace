@@ -1,6 +1,14 @@
 # Keeping Tabs
 
 <!--
+## AI
+
+AI People
+https://x.com/scobleizer/lists
+
+https://x.com/karpathy/status/1991910395720925418
+https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
+
 ## DFW
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
@@ -12,12 +20,59 @@ https://valkey.io/events/
 https://www.redhat.com/en/events
 https://aws.amazon.com/events/reinvent/
 
+
+## Event Videos
+
+https://pyvideo.org/ | PyVideo.org
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+https://pyvideo.org/events.html | PyVideo.org · Events
+
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+
+## Events
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+
+https://www.python.org/events/python-events/ | Our Events | Python.org
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+-->
+
+<!--
 ## Learning
 
 https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
 https://www.techtalksweekly.io/p/50-most-watched-software-engineering
-https://testautomationu.applitools.com/
 https://frontendmasters.com/
+
+## Laws of Software Engineering
+
+https://lawsofsoftwareengineering.com/
+https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/
 
 ## News
 
@@ -33,19 +88,6 @@ https://cacm.acm.org/
 https://owasp.org/www-project-top-ten/
 https://www.gartner.com
 https://www.thoughtworks.com/en-us/radar
-
-## Laws of Software Engineering
-
-https://lawsofsoftwareengineering.com/
-https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/
-
-## AI
-
-AI People
-https://x.com/scobleizer/lists
-
-https://x.com/karpathy/status/1991910395720925418
-https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 -->
 
 
@@ -73,6 +115,15 @@ https://web.archive.org/web/20260107205705/https://www.sauviac.net/projects/conv
 <!--
 https://herbertograca.com/2017/09/14/ports-adapters-architecture/
 https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/
+-->
+
+<!--
+## Architectural Decision Records
+
+https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
+https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
+https://www.redhat.com/architecture-decision-records | 404 - Red Hat
+https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
 -->
 
 ## Valkey
@@ -434,17 +485,6 @@ https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech S
 -->
 
 
-
-<!--
-
-## Architectural Decision Records
-
-https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
-https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
-https://www.redhat.com/architecture-decision-records | 404 - Red Hat
-https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
--->
-
 <!--
 ## Social
 
@@ -469,6 +509,17 @@ https://www.youtube.com/ | (185) YouTube
 
 
 <!--
+## Engineering
+
+https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
+
+Werner Vogels
+https://www.allthingsdistributed.com/
+
+Cal Paterson
+https://calpaterson.com
+
+
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook | jordan-cutler/path-to-senior-engineer-handbook: All the resources you need to get to Senior Engineer and beyond
 
 ## Ryan Peterman
@@ -523,17 +574,6 @@ https://www.youtube.com/watch?v=FGKGdUiZKto
 https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
 
 https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
-
-
-## Engineering
-
-https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
-
-Werner Vogels
-https://www.allthingsdistributed.com/
-
-Cal Paterson
-https://calpaterson.com
 -->
 
 
@@ -607,6 +647,32 @@ https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
 https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
 https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
 https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
+
+Martin Fowler
+https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
+https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
+https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
+
+
+https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+
+Hanson, Chris, Sussman, Gerald Jay
+https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
+Software Design for Flexibility
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+See README for associated course
+https://github.com/jeffhhk/SoftwareDesignForFlexibility
+
+Thinking in Systems: International Bestseller
+Donella H. Meadows, Diana Wright
+https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
+
+## Leverage Points
+
+https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
 -->
 
 ## AI Books
@@ -653,8 +719,19 @@ https://samnewman.io/books/building-resilient-distributed-systems/
 Dominik Tornow
 * [Think Distributed Systems](https://learning.oreilly.com/library/view/think-distributed-systems/9781633436176/)
 
+<!--
+Ian Gorton
+https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/
+-->
+
 Alex Petrov
 * [Database Internals](https://learning.oreilly.com/library/view/database-internals/9781492040330/)
+
+<!--
+Database Reliability Engineering
+Laine Campbell, Charity Majors
+https://learning.oreilly.com/library/view/database-reliability-engineering/9781491925935/
+-->
 
 Brendan Gregg
 * [Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
@@ -680,6 +757,26 @@ Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Ric
 https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/ch03.html
 AI for SRE
 https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/ch04.html
+
+
+## SRE
+
+https://learn.microsoft.com/en-us/azure/site-reliability-engineering/resources/books
+https://sre.google/resources/
+
+https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
+
+https://landing.google.com/sre/books
+https://sre.google/books/ | Google - Site Reliability Engineering
+
+https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+
+https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
+
+https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
 -->
 
 Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
@@ -803,30 +900,6 @@ https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: 
 https://www.engguidebook.com/
 
 
-Database Reliability Engineering
-Laine Campbell, Charity Majors
-https://learning.oreilly.com/library/view/database-reliability-engineering/9781491925935/
-
-https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
-
-Hanson, Chris, Sussman, Gerald Jay
-https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
-Software Design for Flexibility
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-
-See README for associated course
-https://github.com/jeffhhk/SoftwareDesignForFlexibility
-
-
-Thinking in Systems: International Bestseller
-Donella H. Meadows, Diana Wright
-https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
-
-## Leverage Points
-
-https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
-
 
 Mary Poppendieck
 https://www.amazon.com/stores/Mary-Poppendieck/author/B001IGNU3O
@@ -842,26 +915,6 @@ https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebo
 
 https://www.amazon.com/Release-Design-Deploy-Production-Ready-Software-ebook/dp/B0DGX43D9B
 
-
-
-## SRE
-
-https://learn.microsoft.com/en-us/azure/site-reliability-engineering/resources/books
-https://sre.google/resources/
-
-https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
-
-https://landing.google.com/sre/books
-https://sre.google/books/ | Google - Site Reliability Engineering
-
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
-https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
-https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
-
-https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
-
-https://lemurbook.com/devops-and-sre-contribution/ | DevOps and SRE Contribution – The Lemur Book
 
 
 ## Interesting
@@ -885,14 +938,8 @@ Mastering API Architecture
 James Gough, Daniel Bryant, Matthew Auburn
 https://learning.oreilly.com/library/view/mastering-api-architecture/9781492090625/
 
-Ian Gorton
-https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/
-
 https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
 
-
-
-https://architectelevator.com/book/
 
 
 https://learning.oreilly.com/playlists/ac362937-468b-4eed-805b-97766dcd70a4/
@@ -962,14 +1009,6 @@ https://www.amazon.com/AI-Engineering-Building-Applications-Foundation-ebook/dp/
 
 
 https://www.amazon.com/Balancing-Coupling-Software-Design-Addison-Wesley-ebook/dp/B09RV3Z3TP
-
-
-
-Martin Fowler
-https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
-https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
-https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
 
 
 DDD
@@ -1837,47 +1876,7 @@ https://devguide.python.org/core-developers/developer-log/index.html | Developer
 https://www.curiousefficiency.org/pages/about/
 -->
 
-<!--
-## Event Videos
 
-https://pyvideo.org/ | PyVideo.org
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-https://pyvideo.org/events.html | PyVideo.org · Events
-
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-
-https://www.python.org/events/python-events/ | Our Events | Python.org
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
--->
 
 <!--
 ## Livestream
