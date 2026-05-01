@@ -48,6 +48,7 @@ https://x.com/karpathy/status/1991910395720925418
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 -->
 
+
 <!--
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 
@@ -75,6 +76,8 @@ https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patte
 ## Valkey
 
 <!--
+https://valkey.io/
+https://github.com/valkey-io/valkey/releases
 https://github.com/valkey-io/valkey
 https://valkey.io/blog/2025-year-end/
 https://www.linkedin.com/in/madelyn-olson-valkey/
@@ -96,6 +99,61 @@ https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | T
 https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
 https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
 -->
+
+## Testing
+
+<!--
+Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
+https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
+https://www.youtube.com/watch?v=f3LPF7MSwGA
+
+
+https://testautomationu.applitools.com/ | Test Automation University | Applitools
+https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
+
+
+https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
+https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
+
+https://testing.googleblog.com/ | Google Testing Blog
+https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
+https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
+https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
+https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
+
+
+Andy's DjangoCon US Talk
+
+Playwright
+https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPanda/awesome-web-testing-playwright: Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
+https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
+https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
+
+## TDD
+
+https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
+
+## Canon TDD
+
+https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
+
+https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
+https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
+https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
+
+
+## Tidy First
+
+https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
+https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
+
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
+-->
+
 
 ## Infrastructure Engineering
 
@@ -193,12 +251,6 @@ https://github.com/ansible/ansible
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
 <!--
-Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
-https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
-https://www.youtube.com/watch?v=f3LPF7MSwGA
--->
-
-<!--
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
 
 https://asatarin.github.io/testing-distributed-systems/
@@ -270,14 +322,17 @@ https://www.cockroachlabs.com/guides/the-state-of-resilience-2025
 
 https://x.com/andy_pavlo
 https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
+
+Intro to Database Systems
 CMU’s Database Systems playlist is pure gold if you want to understand databases beyond APIs.
 https://x.com/yashagw/status/2009264057870897586
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
 
 Architecture of a Database System
 Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton
 https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 
-https://www.compileralchemy.com/books/sqlite-internals/
+https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
 https://db-engines.com/en/systems
 -->
@@ -384,46 +439,11 @@ https://stackshare.io/
 https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
 
 https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
-https://bloggingfordevs.com/web-development-blogs/ | 45 Best Web Development Blogs to Read in 2021
-https://bloggingfordevs.com/javascript-blogs/ | 45 Best JavaScript Blogs to Read in 2021
-https://bloggingfordevs.com/css-blogs/ | 20 Best CSS Blogs to Read in 2021
-https://bloggingfordevs.com/react-blogs/ | 24 Best React Blogs to Read in 2021
-https://bloggingfordevs.com/aws-blogs/ | Best AWS Blogs to Read in 2021
-https://bloggingfordevs.com/node-blogs/ | Best Node Blogs.js to Read in 2021
 -->
 
 
 
 <!--
-https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
-
-
-
-
-Case studies
-https://twitter.com/GergelyOrosz/
-https://blog.pragmaticengineer.com/
-https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
-
-https://dataintensive.net/poster.html | The poster to accompany Designing Data-Intensive Applications (DDIA)
-https://cleancoders.com/ | Clean Coders: Level up your code.
-https://cleancoders.com/library/all | Clean Coders: Level up your code.
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-
-
-## Gregor
-
-https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
-https://architectelevator.com/workshops/ | Ride the Architect Elevator! - The Architect Elevator
-https://architectelevator.com/architecture/coupling-facets/ | Coupling and Control Flow in Distributed Systems - The Architect Elevator
-
-Advanced Integration Patterns: Coupling and Control Flow gregor hohpe
-https://www.youtube.com/watch?v=FGKGdUiZKto
-https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
-
-https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
-
-
 
 ## Architectural Decision Records
 
@@ -431,7 +451,6 @@ https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
 https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
 https://www.redhat.com/architecture-decision-records | 404 - Red Hat
 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
-
 -->
 
 <!--
@@ -485,8 +504,8 @@ https://docs.google.com/document/d/1WMG_gt67eW9RYl33R02KEv2RxFvuMldg1s_TcM0Sn2M/
 Pragmatic Engineer
 https://www.pragmaticengineer.com/ | The Pragmatic Engineer
 https://twitter.com/Pragmatic_Eng
-
 https://x.com/GergelyOrosz
+https://blog.pragmaticengineer.com/
 https://blog.pragmaticengineer.com/author/gergely/ | Gergely Orosz - The Pragmatic Engineer - The Pragmatic Engineer
 
 https://www.linkedin.com/in/gergelyorosz/ | Gergely Orosz | LinkedIn
@@ -499,6 +518,20 @@ https://blog.pragmaticengineer.com/a-philosophy-of-software-design-review/ | A P
 https://blog.pragmaticengineer.com/software-architecture-is-overrated/ | Software Architecture is Overrated, Clear and Simple Design is Underrated - The Pragmatic Engineer
 
 https://newsletter.pragmaticengineer.com/p/facebook
+
+
+## Gregor
+
+https://architectelevator.com/book/ | My Books: Architecture, Cloud, and More - The Architect Elevator
+https://architectelevator.com/workshops/ | Ride the Architect Elevator! - The Architect Elevator
+https://architectelevator.com/architecture/coupling-facets/ | Coupling and Control Flow in Distributed Systems - The Architect Elevator
+
+Advanced Integration Patterns: Coupling and Control Flow gregor hohpe
+https://www.youtube.com/watch?v=FGKGdUiZKto
+https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
+
+https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+
 
 ## Engineering
 
@@ -560,6 +593,13 @@ Steve McConnell
 Frederick P. Brooks Jr. 
 * [Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
 
+<!--
+https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://cleancoders.com/ | Clean Coders: Level up your code.
+https://cleancoders.com/library/all | Clean Coders: Level up your code.
+-->
+
 ## AI Books
 
 Addy Osmani
@@ -577,6 +617,10 @@ Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
 Martin Klepmann
 * [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
+
+<!--
+https://dataintensive.net/poster.html | The poster to accompany Designing Data-Intensive Applications (DDIA)
+-->
 
 Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
@@ -2653,15 +2697,23 @@ https://pytest-django.readthedocs.io/en/latest/database.html | Database creation
 https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
 https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
 
+
 ## Testing
 
-https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
 
-https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
+https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
 
 https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
 https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
 https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+
+
+
+https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
 
 Speed Up Your Django Tests
 
@@ -2673,54 +2725,9 @@ https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | Djang
 https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
 https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
 
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
-https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
-https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
-
-https://testing.googleblog.com/ | Google Testing Blog
-https://testing.googleblog.com/2016/11/what-test-engineers-do-at-google.html
-https://testing.googleblog.com/2020/08/code-coverage-best-practices.html | Google Testing Blog: Code Coverage Best Practices
-https://testing.googleblog.com/2021/06/how-much-testing-is-enough.html | Google Testing Blog: How Much Testing is Enough?
-https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on X: "How Much Testing is Enough?https://t.co/gAUkkO8A8v" / X
-
 https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
 
 https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
-
-https://testautomationu.applitools.com/ | Test Automation University | Applitools
-https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
-
-Playwright
-https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPanda/awesome-web-testing-playwright: Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
-https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
-https://playwright.dev/ | Fast and reliable end-to-end testing for modern web apps | Playwright
-
-## TDD
-
-https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
-https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
-
-https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
-
-## Canon TDD
-
-https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
-
-https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
-https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
-https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
-
-## Tidy First
-
-https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
-https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
-
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
 -->
 
 
@@ -2834,9 +2841,6 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 
 <!--
 ## Databases
-
-Intro to Database Systems
-https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
 
 https://spacetimedb.com/blog/databases-and-data-oriented-design
 https://twitter.com/arcnotes/status/1735746663166382132 | Architecture Notes on X: "Databases are the endgame for data-oriented design https://t.co/7rr5DW5N1d" / X
@@ -3001,8 +3005,6 @@ https://www.postgresql.org/docs/current/parallel-query.html | PostgreSQL: Docume
 https://medium.com/@hnasr/postgresql-process-architecture-f21e16459907 | PostgreSQL Process Architecture. Postgres Process Architecture, I… | by Hussein Nasser | Medium
 https://twitter.com/hnasr/status/1624460173099290626 | Hussein Nasser on Twitter: "Postgres Process Architecture Explained https://t.co/N4k0CL0Awi https://t.co/LwslycFxj1" / Twitter
 
-SQLite
-https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
 ## Comparisons
 
