@@ -37,6 +37,7 @@ https://www.thoughtworks.com/en-us/radar
 ## Laws of Software Engineering
 
 https://lawsofsoftwareengineering.com/
+https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/
 
 ## AI
 
@@ -130,6 +131,10 @@ https://www.redhat.com/en/blog/channel/management-and-automation | IT management
 ## RHEL
 
 <!--
+Filesystem Hierarchy Standard
+https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
+
 Sander van Vugt
 Red Hat Certified System Administrator (RHCSA) RHEL 9
 https://learning.oreilly.com/course/red-hat-certified/9780137931521/
