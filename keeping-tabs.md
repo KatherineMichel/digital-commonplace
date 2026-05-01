@@ -50,6 +50,8 @@ https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s
 
 
 <!--
+https://coredispatch.xyz/
+https://coredispatch.xyz/editions/2
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
@@ -107,11 +109,10 @@ Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Fai
 https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
 https://www.youtube.com/watch?v=f3LPF7MSwGA
 
-
 https://testautomationu.applitools.com/ | Test Automation University | Applitools
 https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
 
-
+https://abhivaikar.github.io/howtheytest/
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 
 https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
@@ -143,15 +144,6 @@ https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Clim
 https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
 https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
 https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
-
-
-## Tidy First
-
-https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
-https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
-
-https://martinfowler.com/bliki/Yagni.html | Yagni
-https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
 -->
 
 
@@ -598,6 +590,23 @@ https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
 https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
 https://cleancoders.com/ | Clean Coders: Level up your code.
 https://cleancoders.com/library/all | Clean Coders: Level up your code.
+
+Kent Beck
+https://www.amazon.com/stores/author/B000APC0EY
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
+https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
+https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
+
+Robert C. Martin
+https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
+Clean
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
+https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
+https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
+https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
+https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
 -->
 
 ## AI Books
@@ -613,6 +622,10 @@ Anthony Shaw
 
 Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman 
 * [Compilers: Principles, Techniques, and Tools (Dragon Book)](https://en.wikipedia.org/wiki/Compilers:_Principles,_Techniques,_and_Tools)
+
+<!--
+https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
+-->
 
 Martin Klepmann
 * [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
@@ -741,6 +754,16 @@ Martin Fowler
 Kent Beck
 * [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
 
+<!--
+## Tidy First
+
+https://tidyfirst.substack.com/p/constantines-equivalence | Constantine's Equivalence - by Kent Beck
+https://tidyfirst.substack.com/p/dissecting-a-case-of-imposter-syndrome | Dissecting a Case of Imposter Syndrome - by Kent Beck
+
+https://martinfowler.com/bliki/Yagni.html | Yagni
+https://en.wikipedia.org/wiki/You_aren%27t_gonna_need_it | You aren't gonna need it - Wikipedia
+-->
+
 ## Engineering Performance and Management Books
 
 Andy Grove
@@ -774,7 +797,8 @@ Camille Fournier
 <!--
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 https://read.highgrowthengineer.com/p/becoming-a-go-to-person-gets-you
-https://github.com/ryanburgess/engineer-manager
+https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
+
 
 https://www.engguidebook.com/
 
@@ -865,25 +889,6 @@ Ian Gorton
 https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/
 
 https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198
-
-
-Kent Beck
-https://www.amazon.com/stores/author/B000APC0EY
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
-https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
-https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
-
-
-Robert C. Martin
-https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
-Clean
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
-https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
-https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
-https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
-https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
 
 
 
@@ -2261,9 +2266,6 @@ https://developer.nvidia.com/blog/debugging-mixed-python-and-c-language-stack/ |
 
 ## Compilers
 
-https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and Tools (Dragon Book)
-https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811 | Compilers: Principles, Techniques, and Tools: Aho, Alfred, Ullman, Jeffrey, Sethi, Ravi, Lam, Monica: 9780321486813: Amazon.com: Books
-
 https://blog.logrocket.com/exploring-rust-compiler-options-gcc-vs-llvm/
 https://llvm.org/
 https://clang.llvm.org/
@@ -2299,10 +2301,12 @@ https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Disc
 
 Python Language Summit and Python Core Dev Sprint
 PEPs/DEPs
+https://sethmlarson.dev/
 
 ## Language Summit
 
 https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
+
 
 ## Python Release
 
@@ -2837,8 +2841,6 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 -->
 
 
-
-
 <!--
 ## Databases
 
@@ -3317,6 +3319,8 @@ https://grymoire.com/Unix/Awk.html
 https://grymoire.com/Unix/Grep.html
 https://www.grymoire.com/Unix/Sed.html
 
+Bash docs
+
 Mac keyboard shortcuts
 https://support.apple.com/en-us/HT201236
 
@@ -3449,21 +3453,9 @@ https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element 
 -->
 
 
-
-
-
-
-
-
 <!--
 https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
 
-
-
-Bash docs
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
 
 https://git-scm.com/ | Git
 https://git-scm.com/docs | Git - Reference
@@ -3605,10 +3597,6 @@ https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | 
 
 https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
 https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
-
-## Engineering Management
-
-https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
 -->
 
 <!--
