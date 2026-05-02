@@ -7,9 +7,6 @@ https://www.mcmillen.dev/language_checklist.html | Programming Language Checklis
 
 https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
 
-How Linux Works
-https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
-
 ## Server
 
 https://en.wikipedia.org/wiki/Heartbeat_(computing)
@@ -24,13 +21,9 @@ https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key D
 <!--
 # Distributed Systems
 
-### Patterns of Distributed Systems
-
 ## Distributed Systems Engineering
 
 Book
-https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/
-
 https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
 
 https://ferd.ca/a-distributed-systems-reading-list.html
@@ -50,8 +43,6 @@ https://en.wikipedia.org/wiki/Distributed_computing
 https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
 https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
 https://www.splunk.com/en_us/blog/learn/distributed-systems.html
-
-https://www.allthingsdistributed.com
 
 5.6 Leader Election using BFS
 https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
@@ -85,14 +76,6 @@ https://raft.github.io/ | Raft Consensus Algorithm
 -->
 
 <!--
-## Beej
-
-https://beej.us/guide/ | Beej's Guides
-https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
-https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
-https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
-https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
-
 ## Python Functionality
 
 Unix
@@ -121,10 +104,6 @@ https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scali
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
 
 
-
-Thinking in Systems
-https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
-https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
 
 
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
@@ -175,15 +154,6 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 <!--
 ## Martin Fowler
 
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-Books
-https://martinfowler.com/books/
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/microservices/ | Microservices Guide
-
-
 https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
 
 https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
@@ -230,18 +200,6 @@ https://web.archive.org/web/20231128085042/http://highscalability.squarespace.co
 https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | book-notes/high-scalability-notes.markdown at master · mgp/book-notes
 
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
--->
-
-<!--
-## Architecture Notes
-
-https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
-https://architecturenotes.co/s/newsletter
-
-https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
-https://architecturenotes.co/redis/ | Redis Explained
-https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
-https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 -->
 
 
