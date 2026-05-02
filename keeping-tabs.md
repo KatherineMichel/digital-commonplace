@@ -245,6 +245,11 @@ https://www.redhat.com/en/blog/channel/management-and-automation | IT management
 ## RHEL
 
 <!--
+How Linux Works
+https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
+https://www.codecademy.com/resources/blog/grub-linux
+https://www.codecademy.com/learn/fundamentals-of-operating-systems
+
 Filesystem Hierarchy Standard
 https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
@@ -309,20 +314,17 @@ https://github.com/ansible/ansible
 <!--
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
 
-https://asatarin.github.io/testing-distributed-systems/
+https://en.wikipedia.org/wiki/Distributed_computing
+https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
+https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
 
-Lamport
-https://amturing.acm.org/p558-lamport.pdf
-https://x.com/TheOfficialACM/status/2020071323330883979
-https://brooker.co.za/blog/2014/03/30/lamport-pub.html
-https://x.com/DynamicWebPaige/status/1991729579099066492
-https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
-https://www.youtube.com/watch?v=U719vQz-WFs&t=1s
-https://en.wikipedia.org/wiki/Paxos_(computer_science)
-https://en.wikipedia.org/wiki/Raft_(algorithm)
-
-https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
-https://jukkasuomela.fi/da2020/da2020.pdf
+Distributed Systems
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
+https://www.splunk.com/en_us/blog/learn/distributed-systems.html
 
 https://martinfowler.com/articles/patterns-of-distributed-systems/
 
@@ -348,7 +350,32 @@ https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 
 MIT 6.824: Distributed Systems
 https://www.youtube.com/@6.824
+
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://ferd.ca/beating-the-cap-theorem-checklist.html
+https://news.ycombinator.com/item?id=39303160
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
+
+https://www.geeksforgeeks.org/types-of-distributed-system/
+https://asatarin.github.io/testing-distributed-systems/
+
+Lamport
+https://amturing.acm.org/p558-lamport.pdf
+https://x.com/TheOfficialACM/status/2020071323330883979
+https://brooker.co.za/blog/2014/03/30/lamport-pub.html
+https://x.com/DynamicWebPaige/status/1991729579099066492
+https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+https://www.youtube.com/watch?v=U719vQz-WFs&t=1s
+
+List of Algorithms
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+5.6 Leader Election using BFS
+https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
+
 https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+
+https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
 -->
 
 ## Performance and Optimization
@@ -680,13 +707,18 @@ https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp
 https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
 https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
 
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
 Martin Fowler
+https://martinfowler.com/books/
 https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
 https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
 https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
 https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
 
-https://martinfowler.com/architecture/
+https://martinfowler.com/architecture/ | Software Architecture Guide
+https://martinfowler.com/microservices/ | Microservices Guide
+
 https://refactoring.com/catalog/changeValueToReference.html
 
 
