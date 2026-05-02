@@ -22,6 +22,10 @@ https://www.youtube.com/watch?v=YTVSwOY19Qs
 From Hierarchy to Intelligence
 https://x.com/jack/status/2039003879841362278
 
+https://realpython.com/fastapi-python-web-apis/
+https://github.com/fastapi/fastapi-new
+https://github.com/fastapi/fastapi
+
 ## DFW
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
@@ -125,6 +129,9 @@ https://www.thoughtworks.com/en-us/radar
 
 
 <!--
+Projects that are written in C
+https://x.com/iyoushetwt/status/1993006022991266150
+
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
 
@@ -537,6 +544,8 @@ https://db-engines.com/en/systems
 * [SASS](https://sass-lang.com/)
 
 <!--
+https://www.opensourceprojects.dev/post/42669877-c17c-491e-b8cf-aa5c37c469a3
+
 https://tanstack.com/
 https://tanstack.com/start/latest
 https://tanstack.com/store/latest/docs/overview
@@ -730,6 +739,16 @@ https://www.youtube.com/watch?v=FGKGdUiZKto
 https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
 
 https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+
+## Addy 
+
+Software engineering: efficiency vs. effectiveness
+https://www.youtube.com/watch?v=lqcKquUl3Wk
+
+21 Lessons from 14 Years at Google
+https://addyo.substack.com/p/21-lessons-from-14-years-at-google
+
+https://substack.com/@addyosmani
 
 ## Architecture Notes
 
