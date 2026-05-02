@@ -223,6 +223,8 @@ https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 ## Architectures
 
 <!--
+https://en.wikipedia.org/wiki/Hexagonal_architecture_(software)
+https://en.wikipedia.org/wiki/Adapter_pattern
 https://herbertograca.com/2017/09/14/ports-adapters-architecture/
 https://herbertograca.com/2017/07/28/architectural-styles-vs-architectural-patterns-vs-design-patterns/
 -->
