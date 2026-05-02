@@ -107,10 +107,20 @@ https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The
 
 https://medium.com/the-guy-wire/making-memories-with-redis-typescript-and-llms-da2941f752fc
 
+https://sarah.dev/writing
+
 Working backwards at Amazon
 https://x.com/hnshah/status/1778445009399984217
 
 https://web.archive.org/web/20260107205705/https://www.sauviac.net/projects/converged-workload/index.html
+
+## Beej
+
+https://beej.us/guide/ | Beej's Guides
+https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
+https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
+https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
+https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 -->
 
 ## Architectures
@@ -586,6 +596,16 @@ https://www.youtube.com/watch?v=FGKGdUiZKto
 https://d1.awsstatic.com/events/Summits/reinvent2023/API309_Advanced-integration-patterns-and-trade-offs-for-loosely-coupled-systems.pdf
 
 https://www.linkedin.com/posts/ghohpe_enterpriseintegrationpatterns-london-apidays-activity-7238799541347475456-2rtn/?utm_source=share&utm_medium=member_desktop
+
+## Architecture Notes
+
+https://architecturenotes.co/ | Architecture Notes — System Design & Software Architectures Explained
+https://architecturenotes.co/s/newsletter
+
+https://architecturenotes.co/database-sharding-explained/ | Database Sharding Explained
+https://architecturenotes.co/redis/ | Redis Explained
+https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
+https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
 -->
 
 
@@ -680,7 +700,8 @@ https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design 
 See README for associated course
 https://github.com/jeffhhk/SoftwareDesignForFlexibility
 
-Thinking in Systems: International Bestseller
+Thinking in Systems
+https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
 Donella H. Meadows, Diana Wright
 https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
 
@@ -757,6 +778,7 @@ Betsy Beyer, Chris Jones, Christof Leng, David Huska, Jennifer Petoff, Niall Ric
 * [Site Reliability Engineering, 2nd Edition](https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/)
 * [The Site Reliability Workbook](https://learning.oreilly.com/library/view/the-site-reliability/9781492029496/)
 
+
 <!--
 https://learning.oreilly.com/library/view/site-reliability-engineering/9798341607675/ch03.html
 AI for SRE
@@ -766,17 +788,29 @@ https://learning.oreilly.com/library/view/site-reliability-engineering/979834160
 ## SRE
 
 https://learn.microsoft.com/en-us/azure/site-reliability-engineering/resources/books
-https://sre.google/resources/
 
 https://github.com/linkedin/school-of-sre | linkedin/school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.
 
 https://landing.google.com/sre/books
 https://sre.google/books/ | Google - Site Reliability Engineering
 
-https://twitter.com/rklau/status/1372583499245314051 | https://twitter.com/rklau/status/1372583499245314051
+Heather Adkins, Betsy Beyer, Paul Blankinship, Ana Oprea, Piotr Lewandowski, Adam Stubblefield
+Building Secure & Reliable Systems
+https://google.github.io/building-secure-and-reliable-systems/raw/toc.html
+
+https://web.archive.org/web/20210318162005/https://twitter.com/rklau/status/1372583499245314051
 https://sre.google/sre-book/table-of-contents/ | Google - Site Reliability Engineering
 https://sre.google/sre-book/reliable-product-launches/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/monitoring-distributed-systems/
+https://sre.google/sre-book/managing-incidents/
 https://sre.google/sre-book/handling-overload/ | Google - Site Reliability Engineering
+https://sre.google/sre-book/launch-checklist/
+
+https://sre.google/resources/
+https://sre.google/resources/#all-resources
+
+SREcon19 Americas - SRE Classroom - How to Design a Distributed System in 3 Hours
+https://www.youtube.com/watch?v=ohtqI3AHR0k
 
 https://news.ycombinator.com/from?site=sre.google | Submissions from sre.google | Hacker News
 
