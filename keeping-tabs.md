@@ -9,6 +9,19 @@ https://x.com/scobleizer/lists
 https://x.com/karpathy/status/1991910395720925418
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 
+https://goose-docs.ai/blog/
+https://github.com/aaif-goose/goose
+https://linktr.ee/goose_oss
+Goose OSS
+https://www.youtube.com/@goose-oss/videos
+Intro to Agent Client Protocol (ACP) | Vibe Code with goose
+https://www.youtube.com/watch?v=Hvu5KDTb6JE
+
+Jack Dorsey: Every Company Can Now Be a Mini-AGI
+https://www.youtube.com/watch?v=YTVSwOY19Qs
+From Hierarchy to Intelligence
+https://x.com/jack/status/2039003879841362278
+
 ## DFW
 
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
@@ -132,6 +145,7 @@ https://bernat.tech/posts/securing-python-supply-chain/
 
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
 https://en.wikipedia.org/wiki/Zero_trust_architecture
+https://www.businessinsider.com/jpmorgan-objectives-software-engineers-developers-boost-productivity-ai-2026-3
 
 https://web.stanford.edu/class/cs253/
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
@@ -1671,6 +1685,280 @@ Graph Patterns: https://leetcode.com/discuss/study-guide/655708/Graph-For-Beginn
 -->
 
 
+## Python Stuff
+
+<!--
+https://x.com/bascodes/
+https://bas.codes/
+
+https://twitter.com/JonG0uld/
+-->
+
+## Python/Django Authorities
+
+* Adam Johnson
+* Al Sweigart
+* Allen Downey
+* [Alyssa Coghlan](https://www.curiousefficiency.org/pages/about/)
+* Andrew Godwin
+* Andy Knight
+* Anthony Shaw
+* Anthony Sottile
+* Armin Ronacher
+* Bernát Gábor
+* Brett Cannon
+* Carlton Gibson
+* Carol Willing
+* Charlie Marsh
+* Christopher Neugebauer
+* David Beazley
+* Dawn Wages
+* David Lord
+* Ee Durbin
+* Eric Matthes
+* Frank Wiles
+* Glyph Lefkowitz
+* Guido van Rossum
+* Hugo van Kemenade
+* [Hynek Schlawack](https://hynek.me/)
+* K. Jay Miller
+* Jacob Kaplan-Moss
+* James Bennett
+* Jeff Triplett
+* Jeremy Howard
+* Jessica Garson
+* Kenneth Reitz
+* Lorena Mesa
+* Łukasz Langa
+* Luke Plant
+* Lynn Root
+* Mariatta Wijaya
+* Mariusz Felisiak
+* Marlene Mhangami
+* Mason Egger
+* Moshe Zadka
+* Naomi Ceder
+* Natalia Bidart
+* Ned Batchelder
+* Pablo Galindo Salgado
+* Paul Everitt
+* Paul Ganssle
+* Raymond Hettinger
+* Seth Larson
+* Simon Willison
+* Trey Hunner
+* Victor Stinner
+* William Vincent
+
+<!--
+https://hugovk.dev/
+https://fosstodon.org/@hugovk@mastodon.social/
+https://github.com/hugovk | hugovk (Hugo van Kemenade)
+
+https://www.linkedin.com/in/sethmlarson/ | (2) Seth Michael Larson | LinkedIn
+https://sethmlarson.dev/ | Seth Michael Larson
+
+Natalia Bidart
+https://noumenal.es/
+https://buttondown.com/carlton/
+https://fosstodon.org/@carlton/
+https://twitter.com/carltongibson/
+https://github.com/carltongibson/
+
+https://sethmlarson.dev/
+https://x.com/sethmlarson/
+
+https://vstinner.github.io/
+
+Mariusz
+https://twitter.com/MariuszFelisiak
+
+https://lukasz.langa.pl
+https://twitter.com/llanga/
+https://ao.gl/
+
+https://adamj.eu/tech/
+https://twitter.com/AdamChainz/
+
+http://allendowney.blogspot.com.au/
+https://www.allendowney.com/
+https://twitter.com/AllenDowney/
+
+https://twitter.com/AlSweigart/
+
+https://www.aeracode.org
+https://github.com/andrewgodwin | andrewgodwin (Andrew Godwin)
+https://twitter.com/andrewgodwin/
+
+https://python-notes.curiousefficiency.org
+
+https://automationpanda.com/
+https://twitter.com/AutomationPanda
+
+https://fosstodon.org/@tonybaloney/
+https://twitter.com/anthonypjshaw
+
+https://twitter.com/codewithanthony/
+https://www.youtube.com/c/anthonywritescode
+https://github.com/asottile/
+
+Armin Ronacher
+http://lucumr.pocoo.org/
+
+http/www.dabeaz.com 
+
+https://gaborbernat.github.io/
+https://github.com/gaborbernat/ | gaborbernat (Bernát Gábor)
+https://x.com/gjbernat/
+
+https://snarky.ca/
+https://twitter.com/brettsky/
+
+https://x.com/charliermarsh/
+
+https://twitter.com/paulweveritt/
+
+https://www.willingconsulting.com
+https://twitter.com/WillingCarol/
+
+https://twitter.com/chrisjrn/
+
+https://fosstodon.org/@davidism@mas.to/
+https://davidism.com/
+https://twitter.com/davidism/
+
+http://dawnwages.info/
+https://twitter.com/DawnWagesSays/
+
+https://mostlypython.substack.com/
+https://twitter.com/ehmatthes/
+https://ehmatthes.github.io
+
+https://twitter.com/fwiles/
+https://frankwiles.com/
+
+https://blog.glyph.im/
+https://glyph.twistedmatrix.com/
+
+https://twitter.com/hynek/
+https://github.com/hynek/
+https://hynek.me/
+https://www.linkedin.com/in/hynekschlawack/
+https://buttondown.email/hynek
+https://mastodon.social/@hynek/
+
+https://jacobian.org/
+https://twitter.com/jacobian/
+
+https://www.b-list.org/
+
+https://jefftriplett.com/
+https://micro.webology.dev/
+https://twitter.com/webology/
+
+https://twitter.com/jeremyphoward/
+
+https://twitter.com/jessicagarson/
+
+https://twitter.com/kjaymiller/
+https://kjaymiller.com/
+https://fosstodon.org/@kjaymiller@mastodon.social/
+
+https://x.com/kennethreitz42/
+
+http://lorenamesa.com/
+https://github.com/lorenanicole/
+
+https://lukeplant.me.uk/
+https://twitter.com/spookylukey/
+
+https://twitter.com/roguelynn/
+
+https://mariatta.ca/
+https://fosstodon.org/@mariatta/
+https://twitter.com/mariatta/
+
+https://marlenemhangami.com/
+https://twitter.com/marlene_zw/
+
+https://mason.dev/
+https://twitter.com/masonegger/
+
+https://twitter.com/moshezadka/
+
+https://github.com/nceder
+
+https://nedbatchelder.com/
+
+https://twitter.com/pganssle
+https://twitter.com/pganssle/
+https://blog.ganssle.io/
+
+https://simonwillison.net/
+https://fosstodon.org/@simon@simonwillison.net
+https://twitter.com/simonw/
+
+https://treyhunner.com/
+https://www.pythonmorsels.com/
+https://twitter.com/PythonMorsels/
+https://fosstodon.org/@treyhunner@mastodon.social/
+https://medium.com/@treyhunner/
+https://www.youtube.com/c/PythonMorsels
+
+https://wsvincent.com/
+https://learndjango.com/
+https://djangoforbeginners.com/
+
+
+https://twitter.com/__mharrison__/
+
+https://www.mattlayman.com/
+
+https://twitter.com/meagenvoss/
+
+https://blog.michaelckennedy.net/
+
+https://twitter.com/driscollis/
+
+https://www.paulox.net/
+https://twitter.com/pauloxnet/
+
+https://github.com/rhettinger/
+
+https://twitter.com/reuvenmlerner/
+
+https://blog.robertroskam.com/
+
+https://fosstodon.org/@sarahboyce@mastodon.social/
+
+https://www.sheenaoc.com/
+
+https://www.linkedin.com/in/flipperpa/
+
+https://twitter.com/s_gruppetta_ct
+
+https://twitter.com/CodenameTim
+https://www.better-simple.com/
+
+https://twitter.com/theavalkyrie/
+
+https://thib.me/
+
+https://twitter.com/teoliphant/
+
+https://dbader.org/
+
+https://twitter.com/brianokken/
+
+https://www.willmcgugan.com/
+https://twitter.com/willmcgugan/
+
+https://www.pydanny.com
+https://daniel.feldroy.com/
+
+https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
+https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
+-->
 
 ## PSF Official
 
