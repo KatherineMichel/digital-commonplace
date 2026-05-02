@@ -21,31 +21,19 @@ https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key D
 <!--
 # Distributed Systems
 
-## Distributed Systems Engineering
-
 Book
 https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source training courses about distributed database and distributed systems
 
-https://ferd.ca/a-distributed-systems-reading-list.html
 https://news.ycombinator.com/from?site=ferd.ca
-https://news.ycombinator.com/item?id=39303160
-https://dancres.github.io/Pages/ | Distributed Systems Reading List
-
-List of Algorithms
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
 
 https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
 
-https://www.geeksforgeeks.org/types-of-distributed-system/
+## Programming Parallel Computers, Distributed Algorithms
 
-Distributed Systems
-https://en.wikipedia.org/wiki/Distributed_computing
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
-https://www.splunk.com/en_us/blog/learn/distributed-systems.html
-
-5.6 Leader Election using BFS
-https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
+https://ppc.cs.aalto.fi/
+https://jukkasuomela.fi/da2020/
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+https://mycourses.aalto.fi/course/view.php?id=41048
 -->
 
 <!--
@@ -59,12 +47,6 @@ https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
 
 https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
-https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
-
-https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
-https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
 
 Serial Algorithm- RAM
 https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
@@ -89,14 +71,6 @@ https://docs.python.org/3/library/urllib.html | urllib — URL handling modules 
 https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
 
 
-## Programming Parallel Computers, Distributed Algorithms
-
-https://ppc.cs.aalto.fi/
-https://jukkasuomela.fi/da2020/
-https://mycourses.aalto.fi/course/view.php?id=41048
-https://jukkasuomela.fi/da2020/da2020.pdf
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-
 
 ## Scaling Django
 
@@ -114,8 +88,6 @@ https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - 
 Devs Need System Design Tools, Not Diagramming Tools
 https://thenewstack.io/devs-need-system-design-tools-not-diagramming-tools/
 https://news.ycombinator.com/item?id=40977308
-
-https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 
 TLA+
 https://www.youtube.com/watch?v=SYtkbv8LNv0&t=1s | (20) Software Architecture Principles From 5 Leading Experts - YouTube
@@ -426,12 +398,6 @@ https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
 
-### Refactoring
-
-<!--
-https://github.com/ittus/Refactoring-summary-2nd-javascript| ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler)
--->
-
 ### Refactoring Book Examples
 
 <!--
@@ -677,7 +643,6 @@ Software Stacks
 * [Digital Ocean 5 Common Server Setups](https://www.digitalocean.com/community/tutorials/5-common-server-setups-for-your-web-application)
 
 https://a16z.com/2020/10/15/emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure | Andreessen Horowitz
-https://a16z.com/2020/10/15/the-emerging-architectures-for-modern-data-infrastructure/ | Emerging Architectures for Modern Data Infrastructure
 -->
 
 
