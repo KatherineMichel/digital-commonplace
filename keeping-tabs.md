@@ -129,8 +129,13 @@ https://www.thoughtworks.com/en-us/radar
 
 
 <!--
+https://fastht.ml/
+
 Projects that are written in C
 https://x.com/iyoushetwt/status/1993006022991266150
+
+Frameworks
+https://indieweb.social/@adamghill/115238440259419406
 
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
@@ -138,6 +143,7 @@ https://coredispatch.xyz/editions/2
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/
 https://adamj.eu/tech/2026/01/14/python-introducing-tprof/
+https://adamj.eu/tech/2025/09/22/introducing-django-watchfiles/
 https://adamj.eu/tech/2025/11/11/boost-your-github-dx-out-now/
 https://adamchainz.gumroad.com/l/byghdx
 
