@@ -315,10 +315,19 @@ https://martinfowler.com/articles/patterns-of-distributed-systems/
 
 Jepsen and Kyle Kingsbury
 https://github.com/aphyr/distsys-class
+https://antithesis.com/docs/resources/reliability_glossary/
+https://jepsen.io/blog/2025-10-20-distsys-glossary
+A workbench for writing toy implementations of distributed systems.
+https://github.com/jepsen-io/maelstrom/blob/main/doc/01-getting-ready/index.md
+https://jepsen.io/talks
 https://jepsen.io/services/training
 https://www.linkedin.com/in/kyle-kingsbury/
 https://jepsen.io/analyses
 https://jepsen.io/analyses/cockroachdb-beta-20160829
+https://groups.google.com/a/jepsen.io/g/talk
+https://groups.google.com/a/jepsen.io/g/announce
+https://jepsen.io/consistency
+https://jepsen.io/
 
 Martin Kleppmann
 Distributed Systems lecture series
