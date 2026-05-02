@@ -87,6 +87,7 @@ https://www.youtube.com/c/PyCascades/playlists
 https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
 https://www.techtalksweekly.io/p/50-most-watched-software-engineering
 https://frontendmasters.com/
+https://training.linuxfoundation.org/full-catalog/
 
 ## Laws of Software Engineering
 
@@ -138,6 +139,9 @@ Working backwards at Amazon
 https://x.com/hnshah/status/1778445009399984217
 
 https://web.archive.org/web/20260107205705/https://www.sauviac.net/projects/converged-workload/index.html
+
+https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort
+https://hbr.org/2017/11/how-to-work-with-a-manipulative-person
 
 ## Beej
 
@@ -586,6 +590,10 @@ https://www.youtube.com/ | (185) YouTube
 
 
 <!--
+https://newsletter.pragmaticengineer.com/p/how-to-be-a-10x-engineer-interview
+https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity
+https://www.developing.dev/p/why-most-engineers-arent-10x-engineers
+
 ## Engineering
 
 https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
