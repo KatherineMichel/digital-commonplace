@@ -212,6 +212,12 @@ https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
 ## Testing
 
 <!--
+https://en.wikipedia.org/wiki/Unit_testing
+https://en.wikipedia.org/wiki/Acceptance_test-driven_development
+https://en.wikipedia.org/wiki/System_under_test
+https://martinfowler.com/bliki/GivenWhenThen.html
+
+
 Simple Testing Can Prevent Most Critical Failures: An Analysis of Production Failures in Distributed Data-Intensive Systems
 https://www.usenix.org/conference/osdi14/technical-sessions/presentation/yuan
 https://www.youtube.com/watch?v=f3LPF7MSwGA
@@ -222,7 +228,6 @@ https://applitools.com/ | AI-Powered Test Automation Platform - Applitools
 https://abhivaikar.github.io/howtheytest/
 https://github.com/abhivaikar/howtheytest | abhivaikar/howtheytest: A collection of public resources about how software companies test their software
 
-https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
 https://en.wikipedia.org/wiki/Active_record_pattern | Active record pattern - Wikipedia
 https://hypothesis.readthedocs.io/en/latest/data.html?#core-strategies | What you can generate and how — Hypothesis 6.46.9 documentation
 
@@ -235,6 +240,14 @@ https://twitter.com/arcnotes/status/1729904341958717850 | Architecture Notes on 
 
 Andy's DjangoCon US Talk
 
+Test Pyramid
+Inverting the Testing Pyramid
+https://www.youtube.com/watch?v=cBAOmlbZVww
+https://martinfowler.com/articles/practical-test-pyramid.html | The Practical Test Pyramid
+
+The Testing Skyscraper
+https://automationpanda.com/2025/09/29/the-testing-skyscraper-a-modern-alternative-to-the-testing-pyramid/
+
 Playwright
 https://github.com/AutomationPanda/awesome-web-testing-playwright | AutomationPanda/awesome-web-testing-playwright: Awesome Web Testing with Playwright: The Automation Panda's Official Playwright Tutorial!
 https://github.com/microsoft/playwright-python | microsoft/playwright-python: Python version of the Playwright testing and automation library.
@@ -244,6 +257,10 @@ https://playwright.dev/ | Fast and reliable end-to-end testing for modern web ap
 
 https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
 
+https://www.facebook.com/notes/1063422864115918/
+https://martinfowler.com/articles/is-tdd-dead/
+https://dhh.dk/2014/tdd-is-dead-long-live-testing.html
+
 ## Canon TDD
 
 https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Climbing - by Kent Beck
@@ -251,6 +268,23 @@ https://tidyfirst.substack.com/p/tdd-is-not-hill-climbing | TDD is Not Hill Clim
 https://podcast.pythontest.com/episodes/212-canon-tdd-by-kent-beck | Python Test | 212: Canon TDD - by Kent Beck
 https://twitter.com/KentBeck/status/1734255046471320036 | Kent Beck 🌻 on X: "Canon TDD -- I keep reading critiques of processes that aren't TDD, so I summarized the original definition &amp; pointed out common misconceptions. https://t.co/Vk6z68Di3a" / X
 https://tidyfirst.substack.com/p/canon-tdd | Canon TDD - by Kent Beck - Software Design: Tidy First?
+
+## Python 
+
+https://docs.pytest.org/en/stable/
+
+Matt Harrison
+Effective Testing
+uv, pytest, pyproject.toml, coverage, ruff, prek, zizmor, GitHub Actions, hypothesis, ty, mock, monkeypatch, pdb, doctest
+https://store.metasnake.com/testing
+
+Brian Okken
+Python Testing with pytest
+https://learning.oreilly.com/library/view/python-testing-with/9781680509427/
+
+Test-Driven Development with Python, 3rd Edition
+Harry Percival
+https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/
 -->
 
 
