@@ -159,6 +159,8 @@ https://www.youtube.com/watch?v=h30k7YixrMo&list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjly
 https://arpitbhayani.me/blogs/monolith-is-distributed-system
 https://arpitbhayani.me/blogs
 
+https://architecturenotes.co/p/redis
+
 ## VMware Gemfire and Tanzu
 
 https://gemfire.dev/
@@ -909,15 +911,12 @@ Nathaniel Schutta, Dan Vega
 Scott W. Ambler, Pramod J. Sadalage
 * [Refactoring Databases: Evolutionary Database Design](https://learning.oreilly.com/library/view/refactoring-databases-evolutionary/0321293533/)
 
-<!--
-https://refactoring.com/catalog/
--->
-
 Michael Feathers
 * [Working Effectively with Legacy Code](https://www.oreilly.com/library/view/working-effectively-with/0131177052/)
 
 Martin Fowler
 * [Refactoring: Improving the Design of Existing Code](https://learning.oreilly.com/library/view/refactoring-improving-the/9780134757681/)
+* [Refactoring Catalog](https://refactoring.com/catalog/)
 
 Kent Beck
 * [Tidy First?](https://learning.oreilly.com/library/view/tidy-first/9781098151232/)
