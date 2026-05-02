@@ -112,6 +112,8 @@ https://www.youtube.com/c/PyCascades/playlists
 https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
 https://www.techtalksweekly.io/p/50-most-watched-software-engineering
 https://frontendmasters.com/
+https://winners.webbyawards.com/winners
+
 https://training.linuxfoundation.org/full-catalog/
 
 https://testdriven.io/blog/
@@ -414,6 +416,9 @@ https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-getting_started
 
 ## Linux
+
+Free Linux curriculum
+https://x.com/CyberRacheal/status/2050129061096165760
 
 https://github.com/torvalds/linux
 https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
