@@ -18,6 +18,11 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 https://events.linuxfoundation.org/
 https://www.redhat.com/en/events
 
+Commit Your Code Replays
+https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW
+Aaron Francis Keynote
+https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW&index=115
+
 Talks
 https://www.youtube.com/@valkeyproject/videos
 https://www.youtube.com/@gomomento/videos
@@ -114,7 +119,13 @@ https://www.thoughtworks.com/en-us/radar
 <!--
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
+
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/
+https://adamj.eu/tech/2026/01/14/python-introducing-tprof/
+https://adamj.eu/tech/2025/11/11/boost-your-github-dx-out-now/
+https://adamchainz.gumroad.com/l/byghdx
+
 https://bernat.tech/
 https://bernat.tech/posts/pytexas-2026-recap/
 https://bernat.tech/posts/securing-python-supply-chain/
@@ -600,6 +611,7 @@ https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
 Werner Vogels
 https://www.allthingsdistributed.com/
+https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html
 
 Cal Paterson
 https://calpaterson.com
