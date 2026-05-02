@@ -9,6 +9,9 @@ https://x.com/scobleizer/lists
 https://x.com/karpathy/status/1991910395720925418
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
 
+https://lexler.github.io/augmented-coding-patterns/
+https://lexler.github.io/augmented-coding-patterns/talk/
+
 https://goose-docs.ai/blog/
 https://github.com/aaif-goose/goose
 https://linktr.ee/goose_oss
@@ -111,14 +114,38 @@ https://www.techtalksweekly.io/p/50-most-watched-software-engineering
 https://frontendmasters.com/
 https://training.linuxfoundation.org/full-catalog/
 
+https://testdriven.io/blog/
+
 ## News
 
-https://www.cve.org/
+National Center for Women & Information Technology
+https://ncwit.org/
+
+ACM Price
+https://awards.acm.org/acm-prize
+Turing Award Winners
+https://amturing.acm.org/byyear.cfm
+Distinguished Paper Award
+ICSE, FSE, ASE, ISSTA, MODELS, MSR, ICPC, ESEM, FORGE, Internetware, Aiware
+https://www2.sigsoft.org/awards/distinguishedpaper/
+
+NAE Members
+https://www.nae.edu/20412/MemberDirectory
+
+https://www.nae.edu/
 https://lwn.net/
+
+Valkey News
 https://valkey-demo.oursqlcommunity.org/
+RedHat and Ansible
 https://x.com/RedHat
 https://forum.ansible.com/t/the-bullhorn-225/45736
+Communications at ACM
 https://cacm.acm.org/
+https://cacm.acm.org/news/cacm-is-now-open-access-2/
+ACM Books
+https://dl.acm.org/acmbooks/archive?pageSize=20&startPage=1
+https://www.cve.org/
 
 ## Trends
 
@@ -167,11 +194,14 @@ https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The
 https://medium.com/the-guy-wire/making-memories-with-redis-typescript-and-llms-da2941f752fc
 
 https://sarah.dev/writing
+https://x.com/sarah_edo
 
 Working backwards at Amazon
 https://x.com/hnshah/status/1778445009399984217
 
 https://web.archive.org/web/20260107205705/https://www.sauviac.net/projects/converged-workload/index.html
+
+https://ubuntu.com/blog/documentation-development-and-design-for-technical-authors
 
 https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort
 https://hbr.org/2017/11/how-to-work-with-a-manipulative-person
@@ -776,6 +806,8 @@ https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Di
 
 <!--
 https://openai.com/index/scaling-postgresql/
+https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues
+https://design.cash.app/
 -->
 
 ## Whitepapers
