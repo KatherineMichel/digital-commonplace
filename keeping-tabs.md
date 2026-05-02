@@ -121,6 +121,12 @@ https://bernat.tech/posts/securing-python-supply-chain/
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
 https://en.wikipedia.org/wiki/Zero_trust_architecture
 
+https://web.stanford.edu/class/cs253/
+https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
+https://www.linkedin.com/posts/feross_we-partnered-with-openjs-foundation-to-share-7356745693455138818-TtZu/
+https://openjsf.org/blog/openjs-free-course-intro-to-javascript-security
+https://training.linuxfoundation.org/training/introduction-to-javascript-security-lfs184
+
 https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 240: The Ultimate Guide to Developer Counter-Productivity
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
 
