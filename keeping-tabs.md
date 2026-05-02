@@ -107,11 +107,6 @@ https://www.techtalksweekly.io/p/50-most-watched-software-engineering
 https://frontendmasters.com/
 https://training.linuxfoundation.org/full-catalog/
 
-## Laws of Software Engineering
-
-https://lawsofsoftwareengineering.com/
-https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/
-
 ## News
 
 https://www.cve.org/
@@ -167,6 +162,11 @@ https://web.archive.org/web/20260107205705/https://www.sauviac.net/projects/conv
 
 https://hbr.org/2023/06/to-build-a-top-performing-team-ask-for-85-effort
 https://hbr.org/2017/11/how-to-work-with-a-manipulative-person
+
+## Laws of Software Engineering
+
+https://lawsofsoftwareengineering.com/
+https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/
 
 ## Beej
 
@@ -381,6 +381,13 @@ https://github.com/0xAX/linux-insides#requirements
 https://en.wikipedia.org/wiki/Assembly_language
 https://en.wikipedia.org/wiki/C_(programming_language)
 https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+
+Kevin Wallace Training, CCNA (200-301) and CCNA (200-301) Complete Video Course course
+https://www.youtube.com/@kwallaceccie
+https://www.kwtrain.com/ccna-video-series
+
+Vim
+https://vim.rtorr.com/
 -->
 
 <!--
