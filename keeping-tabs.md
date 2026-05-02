@@ -257,6 +257,8 @@ https://playwright.dev/ | Fast and reliable end-to-end testing for modern web ap
 
 https://en.wikipedia.org/wiki/Test-driven_development | Test-driven development - Wikipedia
 
+TDD, where did it all go wrong?
+https://www.youtube.com/watch?v=EZ05e7EMOLM
 https://www.facebook.com/notes/1063422864115918/
 https://martinfowler.com/articles/is-tdd-dead/
 https://dhh.dk/2014/tdd-is-dead-long-live-testing.html
@@ -515,6 +517,8 @@ https://db-engines.com/en/systems
 
 <!--
 https://tanstack.com/
+https://tanstack.com/start/latest
+https://tanstack.com/store/latest/docs/overview
 -->
 
 ## Java Resources
@@ -830,6 +834,10 @@ https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen
 Addy Osmani
 * [Web Performance Engineering in the Age of AI](https://learning.oreilly.com/library/view/web-performance-engineering/9798341660182/)
 * [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
+
+<!--
+https://www.oreilly.com/pub/au/5271
+-->
 
 ## Infrastructure Books
 
