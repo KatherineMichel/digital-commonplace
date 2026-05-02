@@ -137,6 +137,7 @@ https://martinfowler.com/bliki/ArchitectureDecisionRecord.html
 https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I just started using architect…" - Fosstodon
 https://www.redhat.com/architecture-decision-records | 404 - Red Hat
 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
+https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
 -->
 
 ## Valkey
