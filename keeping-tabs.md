@@ -95,6 +95,9 @@ https://www.thoughtworks.com/en-us/radar
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
+https://bernat.tech/
+https://bernat.tech/posts/pytexas-2026-recap/
+https://bernat.tech/posts/securing-python-supply-chain/
 
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
 https://en.wikipedia.org/wiki/Zero_trust_architecture
@@ -663,6 +666,9 @@ https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler
 https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
 https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
 
+https://martinfowler.com/architecture/
+https://refactoring.com/catalog/changeValueToReference.html
+
 
 https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
 
@@ -704,11 +710,8 @@ https://suif.stanford.edu/dragonbook/ | Compilers: Principles, Techniques, and T
 
 Martin Klepmann
 * [Designing Data-Intensive Applications, 2nd Edition](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781098119058/)
+* [Designing Data-Intensive Applications Poster](https://dataintensive.net/poster.html)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
-
-<!--
-https://dataintensive.net/poster.html | The poster to accompany Designing Data-Intensive Applications (DDIA)
--->
 
 Unmesh Joshi
 * [Patterns of Distributed Systems](https://learning.oreilly.com/library/view/patterns-of-distributed/9780138222246/)
@@ -728,26 +731,18 @@ https://samnewman.io/books/building-resilient-distributed-systems/
 Dominik Tornow
 * [Think Distributed Systems](https://learning.oreilly.com/library/view/think-distributed-systems/9781633436176/)
 
-<!--
 Ian Gorton
-https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/
--->
+* [Foundations of Scalable Systems](https://learning.oreilly.com/library/view/foundations-of-scalable/9781098106058/)
 
 Alex Petrov
 * [Database Internals](https://learning.oreilly.com/library/view/database-internals/9781492040330/)
 
-<!--
-Database Reliability Engineering
 Laine Campbell, Charity Majors
-https://learning.oreilly.com/library/view/database-reliability-engineering/9781491925935/
--->
+* [Database Reliability Engineering](https://learning.oreilly.com/library/view/database-reliability-engineering/9781491925935/)
 
 Brendan Gregg
 * [Systems Performance, 2nd Edition](https://learning.oreilly.com/library/view/systems-performance-2nd/9780136821694/)
-
-<!--
-https://www.brendangregg.com/linuxperf.html
--->
+* [Linux Performance](https://www.brendangregg.com/linuxperf.html)
 
 Camille Fournier
 * [Platform Engineering](https://learning.oreilly.com/library/view/platform-engineering/9781098153632/)
@@ -901,6 +896,8 @@ Camille Fournier
 
   
 <!--
+https://www.simonandschuster.com/books/Burn-Book/Kara-Swisher/9781982163891
+
 https://github.com/jordan-cutler/path-to-senior-engineer-handbook
 https://read.highgrowthengineer.com/p/becoming-a-go-to-person-gets-you
 https://github.com/ryanburgess/engineer-manager | ryanburgess/engineer-manager: A list of engineering manager resource links.
