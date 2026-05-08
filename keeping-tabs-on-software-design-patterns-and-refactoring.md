@@ -1,17 +1,6 @@
 # Software Design Patterns and Refactoring
 
 <!--
-## Programming Languages
-
-https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
-
-https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
-
-## Server
-
-https://en.wikipedia.org/wiki/Heartbeat_(computing)
-https://en.wikipedia.org/wiki/Round-robin_DNS
-
 ## State
 
 https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
@@ -27,13 +16,6 @@ https://github.com/pingcap/talent-plan | pingcap/talent-plan: open source traini
 https://news.ycombinator.com/from?site=ferd.ca
 
 https://newpublic.org/article/1668/a-visual-guide-to-decentralization | A visual guide to decentralization | New_ Public Magazine
-
-## Programming Parallel Computers, Distributed Algorithms
-
-https://ppc.cs.aalto.fi/
-https://jukkasuomela.fi/da2020/
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-https://mycourses.aalto.fi/course/view.php?id=41048
 -->
 
 <!--
@@ -46,7 +28,6 @@ https://en.wikipedia.org/wiki/Two-phase_locking | Two-phase locking - Wikipedia
 https://en.wikipedia.org/wiki/Atomic_commit | Atomic commit - Wikipedia
 https://en.wikipedia.org/wiki/Non-blocking_algorithm | Non-blocking algorithm - Wikipedia
 
-https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
 
 Serial Algorithm- RAM
 https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedia
@@ -58,26 +39,17 @@ https://raft.github.io/ | Raft Consensus Algorithm
 -->
 
 <!--
-## Python Functionality
+## Server
 
-Unix
-https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
+https://en.wikipedia.org/wiki/Heartbeat_(computing)
+https://en.wikipedia.org/wiki/Round-robin_DNS
+-->
 
-https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
-https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
-
-## Linux
-
-https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
-
-
-
+<!--
 ## Scaling Django
 
 https://technobeans.com/2020/12/01/scaling-django-for-millions-of-users/ | Scaling Django for millions of users - TechnoBeans
 https://www.digitalocean.com/community/tutorials/how-to-scale-django-beyond-the-basics | How to Scale Django: Beyond the Basics | DigitalOcean
-
-
 
 
 https://en.wikipedia.org/wiki/Communication_protocol | Communication protocol - Wikipedia
@@ -124,58 +96,6 @@ https://en.wikipedia.org/wiki/Socratic_method | Socratic method - Wikipedia
 
 
 <!--
-## Martin Fowler
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
-https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
-https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
-https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
-https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
-https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
-https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
-https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
-
-https://martinfowler.com/articles/collection-pipeline/
-
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
--->
-
-## Architectures at Scale
-
-<!--
-https://github.com/KatherineMichel/organizations
-
-https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
-
-
-## High Scalability
-
-https://highscalability.com/ | High Scalability
-https://highscalability.com/start-here/ | Start Here - High Scalability -
-http://highscalability.com/all-time-favorites/ | All Time Favorites -
-http://highscalability.com/blog/category/example
-
-https://wayback-api.archive.org/web/*/https://highscalability.com/* | Wayback Machine
-https://web.archive.org/web/sitemap/https://highscalability.com/ | Wayback Machine
-https://web.archive.org/web/20230127170451/http://highscalability.com/all-posts/ | All Posts -
-
-https://web.archive.org/web/sitemap/http://highscalability.com/ | Wayback Machine
-https://web.archive.org/web/*/http://highscalability.com/* | Wayback Machine
-https://web.archive.org/web/20190404035701/http://highscalability.com/blog/category/concurrency | High Scalability -
-
-https://web.archive.org/web/20240108211250/http://highscalability.com/all-time-favorites/ | All Time Favorites -
-https://web.archive.org/web/20240124013936/http://highscalability.com/blog/category/example | High Scalability -
-https://web.archive.org/web/20231128085042/http://highscalability.squarespace.com/blog/category/strategy | High Scalability -
-
-https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | book-notes/high-scalability-notes.markdown at master · mgp/book-notes
-
-http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
--->
-
-
-<!--
 ## Language Creators
 
 https://en.wikipedia.org/wiki/James_Gosling | James Gosling - Wikipedia
@@ -185,6 +105,7 @@ https://thenewstack.io/a-conversation-with-the-creators-behind-python-java-types
 -->
 
 ## Compilers Book
+
 
 ### Programming Language Classification
 
@@ -248,6 +169,12 @@ Scripting (interpreted languages with high-level operators de­signed for "gluin
 * Tel
 
 <!--
+## Programming Languages
+
+https://www.mcmillen.dev/language_checklist.html | Programming Language Checklist | Colin McMillen
+
+https://en.wikipedia.org/wiki/Programming_language | Programming language - Wikipedia
+
 https://famicol.in/language_checklist.html | Programming Language Checklist
 What was this?
 https://twitter.com/davecheney/status/1032519492641816576 | Dave Cheney on Twitter: "… "
@@ -290,113 +217,6 @@ stateful abstract data types.
 
 http://paulgraham.com/noop.html | Why Arc Isn't Especially Object-Oriented
 -->
-
-### von Neumann
-
-<!--
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
-https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
-
-## RISC-V and ARM
-
-https://riscv.org/
-https://en.wikipedia.org/wiki/RISC-V
-https://www.arm.com/
-https://en.wikipedia.org/wiki/ARM_architecture_family
--->
-
-<!--
-## Protocols
-
-Network Communication Protocols Map
-https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg
-https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
-
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-
-Internet protocol suite
-Application layer
-BGP
-DHCP (v6)
-DNS
-FTP
-HTTP (HTTP/3)
-HTTPS
-IMAP
-IRC
-LDAP
-MGCP
-MQTT
-NNTP
-NTP
-OSPF
-POP
-PTP
-ONC/RPCRTP
-RTSP
-RIP
-SIP
-SMTP
-SNMP
-SSH
-Telnet
-TLS/SSL
-XMPPmore...
-
-Transport layer
-TCP
-UDP
-DCCP
-SCTP
-RSVP
-QUIC
-
-Internet layer
-IP v4v6
-ICMP (v6)
-NDP
-ECNIGMP
-IPsec
-
-Link layer
-ARP
-Tunnels
-PPP
-MAC
-
-Pub-Sub protocol
-https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
-https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations
-https://en.wikipedia.org/wiki/Message_broker
-https://en.wikipedia.org/wiki/Message_queue
-https://en.wikipedia.org/wiki/Message_queuing_service
-https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
-https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol
-https://en.wikipedia.org/wiki/Constrained_Application_Protocol
-
-https://en.wikipedia.org/wiki/Category:Application_layer_protocols
-
-https://wiki.c2.com/?DataBusPattern | Data Bus Pattern
-
-Command Query Responsibility Segregation
-https://martinfowler.com/bliki/CQRS.html | CQRS
-
-## HTTP/3 and QUIC
-
-https://en.wikipedia.org/wiki/QUIC
-https://en.wikipedia.org/wiki/User_Datagram_Protocol
-https://en.wikipedia.org/wiki/HTTP/3
-
-https://en.wikipedia.org/wiki/Transport_Layer_Security
-https://en.wikipedia.org/wiki/HTTP/3#Comparison_with_HTTP/1.1_and_HTTP/2
-https://en.wikipedia.org/wiki/HTTP/2
-https://en.wikipedia.org/wiki/HTTP
-
-https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
-https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
--->
-
 
 ### Refactoring Book Examples
 
@@ -761,11 +581,6 @@ Constructor
 
 ## Programming Paradigms- Functional, Imperative, Declarative, Reactive
 
-Functional Programming
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
-
 Imperative and Declarative
 * [Imperative Programming Wikipedia](https://en.wikipedia.org/wiki/Imperative_programming)
 * [Declarative Programming Wikipedia](https://en.wikipedia.org/wiki/Declarative_programming)
@@ -773,24 +588,19 @@ Imperative and Declarative
 React?
 * [Reactive Programming Wikipedia](https://en.wikipedia.org/wiki/Reactive_programming)
 
+
 ## Programming Paradigms- Functional Programming
 
-* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
-
 <!--
-Functional programming
-pure function
+Functional Programming
 
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+pure function
 
 https://en.wikipedia.org/wiki/State_pattern
 https://en.wikipedia.org/wiki/Finite-state_machine
 
 https://github.com/getify/Functional-Light-JS/blob/master/manuscript/ch1.md/#chapter-1-why-functional-programming | Functional-Light-JS/ch1.md at master · getify/Functional-Light-JS
 
-## Functional Programming
-
-https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
 https://www.quora.com/Why-dont-pure-functional-programming-languages-provide-a-loop-construct | Why don't pure functional programming languages provide a loop construct? - Quora
 -->
 
