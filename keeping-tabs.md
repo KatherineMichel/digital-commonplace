@@ -705,6 +705,9 @@ https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 
+Distributed
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+
 <!--
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
 
@@ -771,6 +774,12 @@ https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems |
 
 https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
 -->
+
+## Parallel Computing
+
+Parallel Computing
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
 
 <!--
 ## Programming Parallel Computers, Distributed Algorithms
