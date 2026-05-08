@@ -535,8 +535,11 @@ https://vim.rtorr.com/
 Unix
 https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
 
-https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
 https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
+
+https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
+https://realpython.com/python-sockets
+https://www.geeksforgeeks.org/socket-programming-python
 -->
 
 <!--
@@ -567,9 +570,10 @@ https://www.arm.com/
 https://en.wikipedia.org/wiki/ARM_architecture_family
 -->
 
-<!--
+
 ## Protocols
 
+<!--
 Network Communication Protocols Map
 https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg
 https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
@@ -577,7 +581,41 @@ https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea �
 Internet protocols
 https://www.etsy.com/listing/4466459146/internet-protocols-reference-poster
 
+https://simple.wikipedia.org/wiki/Packet_(computing)
+-->
+
+Network Protocols
+* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
+
+Request and Response Cycle- TCP-IP and OSI Protocols
+* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
+* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
+* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
+
+<!--
 https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+https://en.wikipedia.org/wiki/Network_layer
+https://en.wikipedia.org/wiki/Data_link_layer
+https://en.wikipedia.org/wiki/Physical_layer
+
+https://en.wikipedia.org/wiki/Internet_Protocol
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/Internet_layer
+https://en.wikipedia.org/wiki/Link_layer
+-->
+
+TCP
+* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
+* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
+* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
+
+<!--
 https://en.wikipedia.org/wiki/Internet_protocol_suite
 
 Internet protocol suite
