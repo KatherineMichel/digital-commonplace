@@ -802,6 +802,33 @@ https://architecturenotes.co/database-sharding-explained/ | Database Sharding Ex
 https://architecturenotes.co/redis/ | Redis Explained
 https://twitter.com/arcnotes/status/1686402672302444544 | Architecture Notes on Twitter: "Redis Explained https://t.co/yd92b1uXFv https://t.co/YcCOSSyv4H" / X
 https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Distributed Systems
+
+## Architectures at Scale
+
+https://news.ycombinator.com/item?id=30986893 | Ask HN: Where can I see many examples of real companies' software architecture? | Hacker News
+
+## High Scalability
+
+https://highscalability.com/ | High Scalability
+https://highscalability.com/start-here/ | Start Here - High Scalability -
+http://highscalability.com/all-time-favorites/ | All Time Favorites -
+http://highscalability.com/blog/category/example
+
+https://wayback-api.archive.org/web/*/https://highscalability.com/* | Wayback Machine
+https://web.archive.org/web/sitemap/https://highscalability.com/ | Wayback Machine
+https://web.archive.org/web/20230127170451/http://highscalability.com/all-posts/ | All Posts -
+
+https://web.archive.org/web/sitemap/http://highscalability.com/ | Wayback Machine
+https://web.archive.org/web/*/http://highscalability.com/* | Wayback Machine
+https://web.archive.org/web/20190404035701/http://highscalability.com/blog/category/concurrency | High Scalability -
+
+https://web.archive.org/web/20240108211250/http://highscalability.com/all-time-favorites/ | All Time Favorites -
+https://web.archive.org/web/20240124013936/http://highscalability.com/blog/category/example | High Scalability -
+https://web.archive.org/web/20231128085042/http://highscalability.squarespace.com/blog/category/strategy | High Scalability -
+
+https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | book-notes/high-scalability-notes.markdown at master · mgp/book-notes
+
+http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 -->
 
 
@@ -812,6 +839,8 @@ https://architecturenotes.co/fallacies-of-distributed-systems/ | Fallacies of Di
 * [Ryan L. Peterman Blog List](https://twitter.com/ryanlpeterman/status/1767634813295759523)
 
 <!--
+https://github.com/KatherineMichel/organizations
+
 https://openai.com/index/scaling-postgresql/
 https://www.anthropic.com/engineering/a-postmortem-of-three-recent-issues
 https://design.cash.app/
@@ -891,6 +920,24 @@ https://martinfowler.com/architecture/ | Software Architecture Guide
 https://martinfowler.com/microservices/ | Microservices Guide
 
 https://refactoring.com/catalog/changeValueToReference.html
+
+
+## Martin Fowler
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
+
+https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
+https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
+https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
+https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
+https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
+https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
+https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
+https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
+
+https://martinfowler.com/articles/collection-pipeline/
+
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
 
 
 https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
