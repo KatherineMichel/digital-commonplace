@@ -114,8 +114,6 @@ https://en.wikipedia.org/wiki/Hexadecimal | Hexadecimal - Wikipedia
 ## Architecture- Important Concepts
 
 Computer Architecture
-* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
-* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
 * [John von Neumann Wikipedia](https://en.wikipedia.org/wiki/John_von_Neumann)
 
 <!--
@@ -141,8 +139,7 @@ Instruction Set (CPU)
 
 <!--
 https://riscv.org/ | RISC-V International
-https://en.wikipedia.org/wiki/Active_Directory
-https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
+
 https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
 https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
 
@@ -154,6 +151,7 @@ https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruc
 RISC versus CISC
 https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
 
+Book
 https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
 -->
 
@@ -192,9 +190,6 @@ https://en.wikipedia.org/wiki/Lions'_Commentary_on_UNIX_6th_Edition,_with_Source
 https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edition UNIX kernel sources from pdf document.
 -->
 
-Linux
-* [Linux GitHub](https://github.com/torvalds/linux)
-
 <!--
 https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
 
@@ -216,21 +211,12 @@ https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wik
 https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
 https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
 
-Important! A Heavily Commented Linux Kernel Source Code
-http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
-https://github.com/0xAX/linux-insides | 0xAX/linux-insides: A little bit about a linux kernel
 
 https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
 
 https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
 https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
 
-
-https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
-https://twitter.com/brendangregg/status/1150796412931600384/photo/2
-https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
-http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
-https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
 
 Commands
 http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
@@ -317,43 +303,6 @@ http://docs.fabfile.org/en/1.13/api/contrib/django.html
 https://www.digitalocean.com/community/tutorials/how-to-use-fabric-to-automate-administration-tasks-and-deployments
 -->
 
-
-## Protocols
-
-Network Protocols
-* [Lists of Network Protocols - Wikipedia](https://en.wikipedia.org/wiki/Lists_of_network_protocols)
-
-Request and Response Cycle- TCP-IP and OSI Protocols
-* [OSI Model Wikipedia](https://en.wikipedia.org/wiki/OSI_model) and [OSI Protocols Wikipedia](https://en.wikipedia.org/wiki/OSI_protocols)
-* [Transmission Control Protocol Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Internet Protocol Suite Wikipedia](https://en.wikipedia.org/wiki/Internet_protocol_suite)
-* [Internet Protocol Wikipedia](https://en.wikipedia.org/wiki/Internet_Protocol)
-
-<!--
-https://en.wikipedia.org/wiki/OSI_model
-https://en.wikipedia.org/wiki/Application_layer
-https://en.wikipedia.org/wiki/Presentation_layer
-https://en.wikipedia.org/wiki/Session_layer
-https://en.wikipedia.org/wiki/Transport_layer
-https://en.wikipedia.org/wiki/Network_layer
-https://en.wikipedia.org/wiki/Data_link_layer
-https://en.wikipedia.org/wiki/Physical_layer
-
-https://en.wikipedia.org/wiki/Internet_Protocol
-https://en.wikipedia.org/wiki/Internet_protocol_suite
-https://en.wikipedia.org/wiki/Transmission_Control_Protocol
-https://en.wikipedia.org/wiki/Internet_layer
-https://en.wikipedia.org/wiki/Link_layer
--->
-
-TCP
-* [Transmission Control Protocol (TCP) Wikipedia](https://en.wikipedia.org/wiki/Transmission_Control_Protocol)
-* [Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
-* [HTTP Persistent Connection Wikipedia](https://en.wikipedia.org/wiki/HTTP_persistent_connection)
-
-<!--
-https://simple.wikipedia.org/wiki/Packet_(computing)
--->
 
 ## Networks
 
@@ -444,10 +393,6 @@ Also, Ajax Polling explained
 
 polling versus webhooks
 https://zapier.com/blog/what-are-webhooks/ | What Are Webhooks?
-
-Sockets
-https://realpython.com/python-sockets
-https://www.geeksforgeeks.org/socket-programming-python
 
 Websockets
 https://stackoverflow.com/questions/19169427/how-websockets-can-be-faster-than-a-simple-http-request
