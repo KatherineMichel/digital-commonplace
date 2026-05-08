@@ -1,6 +1,11 @@
 # Keeping Tabs
 
 <!--
+https://www.jpmorganchase.com/about/technology/blog/2026-tech-trends
+https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
+https://en.wikipedia.org/wiki/Zero_trust_architecture
+https://www.businessinsider.com/jpmorgan-objectives-software-engineers-developers-boost-productivity-ai-2026-3
+
 ## AI
 
 AI People
@@ -172,14 +177,14 @@ https://www.thoughtworks.com/en-us/radar
 <!--
 https://fastht.ml/
 
+https://coredispatch.xyz/
+https://coredispatch.xyz/editions/2
+
 Projects that are written in C
 https://x.com/iyoushetwt/status/1993006022991266150
 
 Frameworks
 https://indieweb.social/@adamghill/115238440259419406
-
-https://coredispatch.xyz/
-https://coredispatch.xyz/editions/2
 
 https://adamj.eu/tech/2025/12/03/django-whats-new-6.0/
 https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/
@@ -192,9 +197,9 @@ https://bernat.tech/
 https://bernat.tech/posts/pytexas-2026-recap/
 https://bernat.tech/posts/securing-python-supply-chain/
 
-https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
-https://en.wikipedia.org/wiki/Zero_trust_architecture
-https://www.businessinsider.com/jpmorgan-objectives-software-engineers-developers-boost-productivity-ai-2026-3
+https://sarah.dev/writing
+https://x.com/sarah_edo
+
 
 https://web.stanford.edu/class/cs253/
 https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
@@ -206,9 +211,6 @@ https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer | TBM 2
 https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization | TBM 245: The Magic Prioritization Trick - by John Cutler
 
 https://medium.com/the-guy-wire/making-memories-with-redis-typescript-and-llms-da2941f752fc
-
-https://sarah.dev/writing
-https://x.com/sarah_edo
 
 Working backwards at Amazon
 https://x.com/hnshah/status/1778445009399984217
@@ -398,12 +400,30 @@ https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
 * [Orchestration Wikipedia](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Redhat: What is Orchestration?](https://www.redhat.com/en/topics/automation/what-is-orchestration)
 
-<!--
-## Kubernetes, Salt, Ansible
+## DevOps
 
+* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
+
+<!--
+https://x.com/MuthaNagavamsi/status/1811277785417253321
+-->
+
+## Automation
+
+* [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
+* [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
+* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
+* [Terraform](https://www.terraform.io) and [Terraform Module Registry](https://registry.terraform.io)
+* [Salt GitHub](https://github.com/saltstack/salt)
+
+<!--
 ## Ansible
 
 YAML
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
+
+YAML
+https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
 https://yaml.org/spec/1.2.2/
 https://x.com/livingdevops/status/2019990385104454141
 
@@ -472,12 +492,24 @@ https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage
 
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-getting_started
 
+
 ## Linux
+
+Important! A Heavily Commented Linux Kernel Source Code
+http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
+
+https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
+https://twitter.com/brendangregg/status/1150796412931600384/photo/2
+https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
+http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
+https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
 
 Free Linux curriculum
 https://x.com/CyberRacheal/status/2050129061096165760
 
-https://github.com/torvalds/linux
+Linux
+* [Linux GitHub](https://github.com/torvalds/linux)
+
 https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
 https://archive.org/details/DesignUNIXOperatingSystem
 
@@ -519,10 +551,12 @@ https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
 https://beej.us/guide/ | Beej's Guides
 -->
 
-<!--
-### von Neumann
+### Computer Architecture
 
-https://en.wikipedia.org/wiki/Von_Neumann_architecture
+* [Computer Architecture Wikipedia](https://en.wikipedia.org/wiki/Computer_architecture)
+* [von Neumann Architecture Wikipedia](https://en.wikipedia.org/wiki/Von_Neumann_architecture)
+  
+<!--
 https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
 
 ## RISC-V and ARM
@@ -713,22 +747,6 @@ https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on T
 https://mycourses.aalto.fi/course/view.php?id=41048
 -->
 
-## DevOps
-
-* [Continuous Integration Wikipedia](https://en.wikipedia.org/wiki/Continuous_integration)
-
-<!--
-https://x.com/MuthaNagavamsi/status/1811277785417253321
--->
-
-## Automation
-
-* [Kubernetes](https://kubernetes.io/)
-* [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
-* [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
-* [Terraform](https://www.terraform.io/)
-* [Salt GitHub](https://github.com/saltstack/salt)
-
 ## Databases
 
 <!--
@@ -750,6 +768,13 @@ https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 
 https://db-engines.com/en/systems
+-->
+
+<!--
+## Access
+
+https://en.wikipedia.org/wiki/Active_Directory
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
 -->
 
 ## Frontend and Mobile
