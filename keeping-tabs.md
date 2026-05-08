@@ -175,6 +175,15 @@ https://www.thoughtworks.com/en-us/radar
 
 
 <!--
+## FastAPI and Pydantic
+
+Fast API
+* [Fast API GitHub](https://github.com/tiangolo/fastapi)
+
+https://fastapi.tiangolo.com/
+https://pydantic-docs.helpmanual.io/ | pydantic
+
+
 https://fastht.ml/
 
 https://coredispatch.xyz/
@@ -363,7 +372,11 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 
 ## Valkey
 
+* [Redis](https://redis.io/)
+
 <!--
+https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
+
 https://valkey.io/
 https://github.com/valkey-io/valkey/releases
 https://github.com/valkey-io/valkey
