@@ -109,14 +109,26 @@ https://www.youtube.com/c/PyCascades/playlists
 <!--
 ## Learning
 
+https://testdriven.io/blog/
+
 https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
 https://www.techtalksweekly.io/p/50-most-watched-software-engineering
-https://frontendmasters.com/
+
 https://winners.webbyawards.com/winners
 
 https://training.linuxfoundation.org/full-catalog/
 
-https://testdriven.io/blog/
+https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+
+https://frontendmasters.com/
+
+https://www.pluralsight.com/guides/
+https://app.pluralsight.com/library/free | Pluralsight
+
+https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
+
+https://www.geeksforgeeks.org/
+
 
 ## News
 
@@ -212,15 +224,8 @@ https://hbr.org/2017/11/how-to-work-with-a-manipulative-person
 
 https://lawsofsoftwareengineering.com/
 https://lawsofsoftwareengineering.com/laws/fallacies-of-distributed-computing/
-
-## Beej
-
-https://beej.us/guide/ | Beej's Guides
-https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
-https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
-https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
-https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
 -->
+
 
 ## Architectures
 
@@ -239,35 +244,6 @@ https://fosstodon.org/@brianokken/113166509345156895 | Brian Okken :python:: "I 
 https://www.redhat.com/architecture-decision-records | 404 - Red Hat
 https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions | Documenting Architecture Decisions
 https://www.infoq.com/articles/framework-architectural-decisions/ | A Simple Framework for Architectural Decisions
--->
-
-## Valkey
-
-<!--
-https://valkey.io/
-https://github.com/valkey-io/valkey/releases
-https://github.com/valkey-io/valkey
-https://valkey.io/blog/2025-year-end/
-https://www.linkedin.com/in/madelyn-olson-valkey/
-Seth Muthukaruppan
-https://www.linkedin.com/in/seth-muthukaruppan/
-
-Redis Internals
-https://arpitbhayani.me/redis-internals/
-https://x.com/arpit_bhayani/status/2042806466692936056
-https://www.youtube.com/playlist?list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt
-https://www.youtube.com/watch?v=h30k7YixrMo&list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt
-https://arpitbhayani.me/blogs/monolith-is-distributed-system
-https://arpitbhayani.me/blogs
-
-https://architecturenotes.co/p/redis
-
-## VMware Gemfire and Tanzu
-
-https://gemfire.dev/
-https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
-https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
-https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
 -->
 
 ## Testing
@@ -350,6 +326,68 @@ Harry Percival
 https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/
 -->
 
+## Performance and Optimization
+
+<!--
+Google Engineering Practices
+https://github.com/google/eng-practices/blob/master/review/index.md
+
+https://x.com/JeffDean/status/2002089534188892256
+https://abseil.io/fast/hints.html
+https://x.com/JeffDean/status/2002520889251017170
+https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36575.pdf
+-->
+
+
+## Idempotency
+
+* [Idempotence Wikipedia](https://en.wikipedia.org/wiki/Idempotence)
+
+## Programming Paradigms- Functional Programming
+
+Functional Programming
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
+<!--
+https://docs.python.org/3/howto/functional.html
+https://learning.oreilly.com/library/view/functional-programming-in/9781492048633/
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
+-->
+
+
+## Valkey
+
+<!--
+https://valkey.io/
+https://github.com/valkey-io/valkey/releases
+https://github.com/valkey-io/valkey
+https://valkey.io/blog/2025-year-end/
+https://www.linkedin.com/in/madelyn-olson-valkey/
+Seth Muthukaruppan
+https://www.linkedin.com/in/seth-muthukaruppan/
+
+Redis Internals
+https://arpitbhayani.me/redis-internals/
+https://x.com/arpit_bhayani/status/2042806466692936056
+https://www.youtube.com/playlist?list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt
+https://www.youtube.com/watch?v=h30k7YixrMo&list=PLsdq-3Z1EPT0eElcdOON9fdaeaQjlyXDt
+https://arpitbhayani.me/blogs/monolith-is-distributed-system
+https://arpitbhayani.me/blogs
+
+https://architecturenotes.co/p/redis
+
+## VMware Gemfire and Tanzu
+
+https://gemfire.dev/
+https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
+https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
+https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
+-->
+
 
 ## Infrastructure Engineering
 
@@ -359,6 +397,22 @@ https://learning.oreilly.com/library/view/test-driven-development-with/978109814
 
 * [Orchestration Wikipedia](https://en.wikipedia.org/wiki/Orchestration_(computing))
 * [Redhat: What is Orchestration?](https://www.redhat.com/en/topics/automation/what-is-orchestration)
+
+<!--
+## Kubernetes, Salt, Ansible
+
+## Ansible
+
+YAML
+https://yaml.org/spec/1.2.2/
+https://x.com/livingdevops/status/2019990385104454141
+
+https://docs.ansible.com/ | Ansible Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
+https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
+
+https://github.com/ansible/ansible
+-->
 
 ## Control Plane and Data Plane
 
@@ -382,9 +436,12 @@ https://www.redhat.com/en/topics/containers/what-are-hosted-control-planes | Wha
 https://www.redhat.com/en/blog/channel/management-and-automation | IT management and automation
 -->
 
+
 ## RHEL
 
 <!--
+https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
+
 How Linux Works
 https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
 https://www.codecademy.com/resources/blog/grub-linux
@@ -441,19 +498,134 @@ https://vim.rtorr.com/
 -->
 
 <!--
-## Kubernetes, Salt, Ansible
+## Python/Linux Functionality
 
-## Ansible
+Unix
+https://en.wikipedia.org/wiki/Unix_domain_socket#:~:text=The%20API%20for%20Unix%20domain,within%20the%20operating%20system%20kernel. | Unix domain socket - Wikipedia
 
-YAML
-https://yaml.org/spec/1.2.2/
-https://x.com/livingdevops/status/2019990385104454141
+https://docs.python.org/3/library/socket.html | socket — Low-level networking interface — Python 3.12.4 documentation
+https://docs.python.org/3/library/urllib.html | urllib — URL handling modules — Python 3.12.4 documentation
+-->
 
-https://docs.ansible.com/ | Ansible Documentation
-https://docs.ansible.com/ansible/latest/playbook_guide/playbooks_intro.html#playbook-syntax | Ansible playbooks — Ansible Community Documentation
-https://docs.ansible.com/ansible/latest/playbook_guide/index.html | Using Ansible playbooks — Ansible Community Documentation
+<!--
+## Beej
 
-https://github.com/ansible/ansible
+https://beej.us/guide/bgnet0/ | Beej's Guide to Networking Concepts
+https://beej.us/guide/bgnet0/pdf/bgnet0_usl_c_1.pdf | bgnet0_usl_c_1.pdf
+
+https://beej.us/guide/bgpython/ | Beej's Guide to Python Programming
+https://beej.us/guide/bgclr/ | Beej's Guide to C Programming, Library Reference
+
+https://beej.us/guide/ | Beej's Guides
+-->
+
+<!--
+### von Neumann
+
+https://en.wikipedia.org/wiki/Von_Neumann_architecture
+https://en.wikipedia.org/wiki/Von_Neumann_programming_languages
+
+## RISC-V and ARM
+
+https://riscv.org/
+https://en.wikipedia.org/wiki/RISC-V
+https://www.arm.com/
+https://en.wikipedia.org/wiki/ARM_architecture_family
+-->
+
+<!--
+## Protocols
+
+Network Communication Protocols Map
+https://www.blackmagicboxes.com/wp-content/uploads/2016/12/Network-Protocols-Map-Poster.jpg
+https://twitter.com/mavignau/status/1502096268713250817 | 𝕄aría 𝔸ndrea 🧉 🇦🇷 💚 on Twitter: "https://t.co/YzXuhYJ5h3" / Twitter
+
+Internet protocols
+https://www.etsy.com/listing/4466459146/internet-protocols-reference-poster
+
+https://en.wikipedia.org/wiki/OSI_model
+https://en.wikipedia.org/wiki/Internet_protocol_suite
+
+Internet protocol suite
+Application layer
+BGP
+DHCP (v6)
+DNS
+FTP
+HTTP (HTTP/3)
+HTTPS
+IMAP
+IRC
+LDAP
+MGCP
+MQTT
+NNTP
+NTP
+OSPF
+POP
+PTP
+ONC/RPCRTP
+RTSP
+RIP
+SIP
+SMTP
+SNMP
+SSH
+Telnet
+TLS/SSL
+XMPPmore...
+
+Transport layer
+TCP
+UDP
+DCCP
+SCTP
+RSVP
+QUIC
+
+Internet layer
+IP v4v6
+ICMP (v6)
+NDP
+ECNIGMP
+IPsec
+
+Link layer
+ARP
+Tunnels
+PPP
+MAC
+
+Pub-Sub protocol
+https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
+https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations
+https://en.wikipedia.org/wiki/Message_broker
+https://en.wikipedia.org/wiki/Message_queue
+https://en.wikipedia.org/wiki/Message_queuing_service
+https://en.wikipedia.org/wiki/Advanced_Message_Queuing_Protocol
+https://en.wikipedia.org/wiki/Streaming_Text_Oriented_Messaging_Protocol
+https://en.wikipedia.org/wiki/Constrained_Application_Protocol
+
+https://en.wikipedia.org/wiki/Category:Application_layer_protocols
+
+https://wiki.c2.com/?DataBusPattern | Data Bus Pattern
+
+Command Query Responsibility Segregation
+https://martinfowler.com/bliki/CQRS.html | CQRS
+
+## HTTP/3 and QUIC
+
+https://en.wikipedia.org/wiki/QUIC
+https://en.wikipedia.org/wiki/User_Datagram_Protocol
+https://en.wikipedia.org/wiki/HTTP/3
+
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+https://en.wikipedia.org/wiki/HTTP/3#Comparison_with_HTTP/1.1_and_HTTP/2
+https://en.wikipedia.org/wiki/HTTP/2
+https://en.wikipedia.org/wiki/HTTP
+
+https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X: "I keep thinking about that last sentence: "You can't fix latency no matter what tech you use". I maybe missing something, but the technology choices you make contribute more to latency, the time it takes for data to pass from one network endpoint to another, than the speed of" / X
+https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
 
@@ -528,16 +700,17 @@ https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems |
 https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
 -->
 
-## Performance and Optimization
-
 <!--
-Google Engineering Practices
-https://github.com/google/eng-practices/blob/master/review/index.md
+## Programming Parallel Computers, Distributed Algorithms
 
-https://x.com/JeffDean/status/2002089534188892256
-https://abseil.io/fast/hints.html
-https://x.com/JeffDean/status/2002520889251017170
-https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36575.pdf
+https://www.reddit.com/r/explainlikeimfive/comments/19ey76v/eli5_what_is_the_difference_between_distributed/
+
+https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
+
+https://ppc.cs.aalto.fi/
+https://jukkasuomela.fi/da2020/
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+https://mycourses.aalto.fi/course/view.php?id=41048
 -->
 
 ## DevOps
@@ -863,6 +1036,7 @@ https://ocw.mit.edu/search/?d=Electrical%20Engineering%20and%20Computer%20Scienc
 https://medium.com/open-learning/watch-mits-top-5-lectures-of-all-time-fa69f37e22e
 https://github.com/papers-we-love/papers-we-love/
 -->
+
 
 ## Classic Books
 
@@ -1405,19 +1579,6 @@ https://university.atlassian.com/student/catalog | Learn Jira, Confluence, Trell
 
 https://opensource.com/
 
-## Learning Resources
-
-https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
-
-## Learning Resources
-
-https://www.pluralsight.com/guides/
-https://app.pluralsight.com/library/free | Pluralsight
-
-https://www.geeksforgeeks.org/
-https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
-
-Frontend Masters
 
 ## Math and Engineering Code and Formulas
 
@@ -2077,6 +2238,7 @@ https://daniel.feldroy.com/
 https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
 https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
 -->
+
 
 ## PSF Official
 
@@ -3027,16 +3189,17 @@ https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PA
 https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
 https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
 
+
 ## Python and Rust
 
 https://www.rust-lang.org/ | Rust Programming Language
+https://www.rust-lang.org/learn/get-started | Getting started - Rust Programming Language
 
 https://opensource.com/article/23/3/python-loves-rust | Why you should use Python and Rust together | Opensource.com
 
-https://www.rust-lang.org/learn/get-started | Getting started - Rust Programming Language
-
 https://timclicks.dev/ | timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
 https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust | Writing and publishing a Python module in Rust
+
 
 ## DjangoCon Europe Sphinx Talk
 
