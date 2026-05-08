@@ -138,8 +138,6 @@ Instruction Set (CPU)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 <!--
-https://riscv.org/ | RISC-V International
-
 https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
 https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
 
@@ -629,16 +627,13 @@ http://jdk.java.net/16/ | JDK 16 GA Release
 * [Celery and Django](http://docs.celeryproject.org/en/2.5/django/first-steps-with-django.html) 
 * [RQ (Redis Queue)](http://python-rq.org/)
 * [RabbitMQ](https://www.rabbitmq.com/)
-* [Redis](https://redis.io/)
 * [Memcached](https://memcached.org/)
 
 <!--
+MQ Telemetry Transport
+
 Remote Dictionary Server"
 https://redis.io/topics/faq#what-does-redis-actually-mean
-https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-
-MQ Telemetry Transport
-https://en.wikipedia.org/wiki/MQTT | MQTT - Wikipedia
 
 https://realpython.com/asynchronous-tasks-with-django-and-celery/ | Asynchronous Tasks With Django and Celery – Real Python
 https://www.fullstackpython.com/task-queues.html
@@ -683,13 +678,7 @@ https://sqlite-utils.readthedocs.io/en/stable/python-api.html#python-api-convers
 
 ## FastAPI and Pydantic
 
-Fast API
-* [Fast API GitHub](https://github.com/tiangolo/fastapi)
-
 <!--
-https://fastapi.tiangolo.com/
-https://pydantic-docs.helpmanual.io/ | pydantic
-
 PyDantic
 https://github.com/samuelcolvin/pydantic/issues/2678 | IMPORTANT: PEP 563, PEP 649 and the future of pydantic · Issue #2678 · samuelcolvin/pydantic
 https://twitter.com/samuel_colvin/status/1382756508472123398 | Samuel Colvin on Twitter: "URGENT: If you use pydantic or @tiangolo's FastAPI and/or want to use them in the future, you need to read this: https://t.co/mXGx7zZYm4" / Twitter
