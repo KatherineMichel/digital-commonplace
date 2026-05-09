@@ -183,11 +183,22 @@ Fast API
 https://fastapi.tiangolo.com/
 https://pydantic-docs.helpmanual.io/ | pydantic
 
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
+
+
+* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
 
 https://fastht.ml/
 
+
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
+
 
 Projects that are written in C
 https://x.com/iyoushetwt/status/1993006022991266150
@@ -375,6 +386,8 @@ https://github.com/hemanth/functional-programming-jargon | hemanth/functional-pr
 * [Redis](https://redis.io/)
 
 <!--
+https://en.wikipedia.org/wiki/Cache_(computing)
+
 https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
 https://valkey.io/
@@ -730,6 +743,13 @@ https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X
 https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
+## Resiliency
+
+<!--
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+-->
 
 ## Distributed Systems
 
@@ -1193,7 +1213,8 @@ https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0
 https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
 
 https://martinfowler.com/architecture/ | Software Architecture Guide
-https://martinfowler.com/microservices/ | Microservices Guide
+
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 
 https://refactoring.com/catalog/changeValueToReference.html
 
