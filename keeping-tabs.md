@@ -1,10 +1,108 @@
 # Keeping Tabs
 
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+* [The New Stack](https://thenewstack.io/)
+
+## Trending
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+<!--
+https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
+
+In operation
+https://fosstodon.org/@HackerNewsBot@m.einverne.info
+-->
+
+<!--
+## Stats
+
+Hacker News Stats
+https://hackernews-insight.vercel.app/user-analysis | Evidence
+https://hackernews-insight.vercel.app/keyword-analysis | Evidence
+https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
+
+GitHub Star History Graph 
+https://twitter.com/newsycombinator/status/1530625174114078721
+-->
+
+## GitHub Trending
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Developers](https://github.com/trending/developers )
+
+## Trending and Top of All Time
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://stackshare.io/
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+-->
+
+
 <!--
 https://www.jpmorganchase.com/about/technology/blog/2026-tech-trends
 https://www.jpmorganchase.com/about/technology/blog/fortifying-the-enterprise-10-actions-to-take-now-for-ai-ready-cyber-resilience
 https://en.wikipedia.org/wiki/Zero_trust_architecture
 https://www.businessinsider.com/jpmorgan-objectives-software-engineers-developers-boost-productivity-ai-2026-3
+
+## API
+
+* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+
+https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
+https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
+
+## FastAPI and Pydantic
+
+Fast API
+* [Fast API GitHub](https://github.com/tiangolo/fastapi)
+
+https://fastapi.tiangolo.com/
+https://pydantic-docs.helpmanual.io/ | pydantic
+
+The Python SQL Toolkit and Object Relational Mapper
+* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
 
 ## AI
 
@@ -175,62 +273,6 @@ https://www.thoughtworks.com/en-us/radar
 
 
 <!--
-https://aphyr.com/tags/Jepsen
-https://jepsen.io/analyses/ethics
-
-9 Articles to learn so much about Databases
-https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
-
-## Database Types
-
-https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
-https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
-https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
-
-## Databases Rankings
-
-https://pypl.github.io/DB.html | TOPDB Top Database index
-https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
-
-## Neo4j
-
-https://neo4j.com/
-https://medium.com/@_jalakoo_/getting-started-with-neo4j-6bbeece974e3 | Getting Started with Neo4j. Already heard of Neo4j, the highly… | by Jason Koo | Jul, 2024 | Medium
-https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/graphdb-vs-rdbms/ | Transition from relational to graph database - Getting Started
-
-## In-memory Database
-
-https://redis.io/
-
-https://en.wikipedia.org/wiki/In-memory_database | In-memory database - Wikipedia
-https://en.wikipedia.org/wiki/List_of_in-memory_databases | List of in-memory databases - Wikipedia
-
-## Cockroach, GraphDB, Neo4j
-
-DB Comparisons
-https://db-engines.com/en/systems
-https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
--->
-
-<!--
-## FastAPI and Pydantic
-
-Fast API
-* [Fast API GitHub](https://github.com/tiangolo/fastapi)
-
-https://fastapi.tiangolo.com/
-https://pydantic-docs.helpmanual.io/ | pydantic
-
-The Python SQL Toolkit and Object Relational Mapper
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
-
-* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
-
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
-
-
 https://fastht.ml/
 
 
@@ -399,32 +441,18 @@ https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/
 -->
 
 
-## Idempotency
-
-* [Idempotence Wikipedia](https://en.wikipedia.org/wiki/Idempotence)
-
-## Programming Paradigms- Functional Programming
-
-Functional Programming
-* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
-* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
-* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
-* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
-
-<!--
-https://docs.python.org/3/howto/functional.html
-https://learning.oreilly.com/library/view/functional-programming-in/9781492048633/
-https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
-https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
--->
-
-
 ## Valkey
 
 * [Redis](https://redis.io/)
 
 <!--
 https://en.wikipedia.org/wiki/Cache_(computing)
+
+## In-memory Database
+
+https://en.wikipedia.org/wiki/In-memory_database | In-memory database - Wikipedia
+https://en.wikipedia.org/wiki/List_of_in-memory_databases | List of in-memory databases - Wikipedia
+
 
 https://github.com/redis/redis | redis/redis: Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 
@@ -452,6 +480,185 @@ https://gemfire.dev/
 https://tanzu.vmware.com/gemfire | Tanzu GemFire - GemFire Application Cache | Tanzu
 https://tanzu.vmware.com/tanzu | Tanzu Overview | Tanzu
 https://news.apache.org/foundation/entry/asf-project-spotlight-apache-geode
+-->
+
+## Resiliency
+
+<!--
+https://en.wikipedia.org/wiki/High_availability
+https://en.wikipedia.org/wiki/Failover
+https://en.wikipedia.org/wiki/Fault_tolerance
+-->
+
+## Distributed Systems
+
+* [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+
+Distributed
+* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
+
+<!--
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
+
+https://en.wikipedia.org/wiki/Distributed_computing
+https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
+https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
+https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
+https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
+
+Distributed Systems
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
+https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
+https://www.splunk.com/en_us/blog/learn/distributed-systems.html
+
+https://martinfowler.com/articles/patterns-of-distributed-systems/
+
+Jepsen and Kyle Kingsbury
+https://github.com/aphyr/distsys-class
+https://antithesis.com/docs/resources/reliability_glossary/
+https://jepsen.io/blog/2025-10-20-distsys-glossary
+A workbench for writing toy implementations of distributed systems.
+https://github.com/jepsen-io/maelstrom/blob/main/doc/01-getting-ready/index.md
+https://jepsen.io/talks
+https://jepsen.io/services/training
+https://www.linkedin.com/in/kyle-kingsbury/
+https://jepsen.io/analyses
+https://jepsen.io/analyses/cockroachdb-beta-20160829
+https://groups.google.com/a/jepsen.io/g/talk
+https://groups.google.com/a/jepsen.io/g/announce
+https://jepsen.io/consistency
+https://jepsen.io/
+https://jepsen.io/analyses/ethics
+https://aphyr.com/tags/Jepsen
+
+Martin Kleppmann
+Distributed Systems lecture series
+https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
+
+MIT 6.824: Distributed Systems
+https://www.youtube.com/@6.824
+
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://ferd.ca/beating-the-cap-theorem-checklist.html
+https://news.ycombinator.com/item?id=39303160
+https://dancres.github.io/Pages/ | Distributed Systems Reading List
+
+https://www.geeksforgeeks.org/types-of-distributed-system/
+https://asatarin.github.io/testing-distributed-systems/
+
+Lamport
+https://amturing.acm.org/p558-lamport.pdf
+https://x.com/TheOfficialACM/status/2020071323330883979
+https://brooker.co.za/blog/2014/03/30/lamport-pub.html
+https://x.com/DynamicWebPaige/status/1991729579099066492
+https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+https://www.youtube.com/watch?v=U719vQz-WFs&t=1s
+
+List of Algorithms
+http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
+
+5.6 Leader Election using BFS
+https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
+
+https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
+
+https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
+-->
+
+## Parallel Computing
+
+Parallel Computing
+* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
+* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
+
+<!--
+## Programming Parallel Computers, Distributed Algorithms
+
+https://www.reddit.com/r/explainlikeimfive/comments/19ey76v/eli5_what_is_the_difference_between_distributed/
+
+https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
+
+https://ppc.cs.aalto.fi/
+https://jukkasuomela.fi/da2020/
+https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
+https://mycourses.aalto.fi/course/view.php?id=41048
+-->
+
+## Databases
+
+<!--
+The State of Resilience 2025
+https://www.cockroachlabs.com/guides/the-state-of-resilience-2025
+
+https://x.com/andy_pavlo
+https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
+
+Intro to Database Systems
+CMU’s Database Systems playlist is pure gold if you want to understand databases beyond APIs.
+https://x.com/yashagw/status/2009264057870897586
+https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
+
+Architecture of a Database System
+Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton
+https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
+
+https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
+-->
+
+<!--
+9 Articles to learn so much about Databases
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
+
+## Database Types
+
+https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+
+## Databases Rankings
+
+https://pypl.github.io/DB.html | TOPDB Top Database index
+https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
+
+## Neo4j
+
+https://neo4j.com/
+https://medium.com/@_jalakoo_/getting-started-with-neo4j-6bbeece974e3 | Getting Started with Neo4j. Already heard of Neo4j, the highly… | by Jason Koo | Jul, 2024 | Medium
+https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/graphdb-vs-rdbms/ | Transition from relational to graph database - Getting Started
+
+## Cockroach, GraphDB, Neo4j
+
+DB Comparisons
+https://db-engines.com/en/systems
+https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
+-->
+
+<!--
+## Access
+
+https://en.wikipedia.org/wiki/Active_Directory
+https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
+-->
+
+
+## Idempotency
+
+* [Idempotence Wikipedia](https://en.wikipedia.org/wiki/Idempotence)
+
+## Programming Paradigms- Functional Programming
+
+Functional Programming
+* [Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Functional_programming)
+* [Purely Functional Programming Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
+* [Side Effect Wikipedia](https://en.wikipedia.org/wiki/Side_effect_(computer_science))
+* [Immutable Object Wikipedia](https://en.wikipedia.org/wiki/Immutable_object)
+
+<!--
+https://docs.python.org/3/howto/functional.html
+https://learning.oreilly.com/library/view/functional-programming-in/9781492048633/
+https://github.com/readme/guides/functional-programming-basics | Functional Programming 101
+https://github.com/hemanth/functional-programming-jargon | hemanth/functional-programming-jargon: Jargon from the functional programming world in simple terms!
 -->
 
 
@@ -654,6 +861,48 @@ https://en.wikipedia.org/wiki/ARM_architecture_family
 -->
 
 
+## Python and 
+
+<!--
+Google AI
+Which osi model layer does python use?
+
+Primary Layer
+Layer 7: Application Layer – This is where most Python code resides. When you use high-level protocols like HTTP/S (via the requests library), SMTP for email, or FTP, you are working at this layer.
+
+Lower-Level Interactions
+While Python itself is an application, its standard libraries allow developers to "reach down" into lower layers for more control:
+Layer 6: Presentation Layer – Python handles data translation, encryption (via ssl or cryptography libraries), and serialization (like Pickle or JSON).
+Layer 5: Session Layer – Python manages session establishment and termination through various frameworks and socket management.
+Layer 4: Transport Layer – Using the built-in socket module, Python can directly interact with transport protocols like TCP and UDP.
+
+https://en.wikipedia.org/wiki/Application_layer
+https://en.wikipedia.org/wiki/Presentation_layer
+https://en.wikipedia.org/wiki/Session_layer
+https://en.wikipedia.org/wiki/Transport_layer
+
+In modern networking, layers 5 through 7 are often grouped together into a single "Application Layer" within the TCP/IP model, which is the more practical model for most Python development.
+
+Which internet protocol suite model layer does python use?
+
+Python primarily operates at the Application Layer of the TCP/IP model, using high-level libraries (like requests, http, or socket) to create and consume data. Through Python's socket module, it also frequently interfaces directly with the Transport Layer (TCP/UDP) for network communication.
+
+Application Layer (HTTP, FTP, SMTP): Where most Python code lives, handling data produced/consumed by applications.
+https://en.wikipedia.org/wiki/HTTP
+https://en.wikipedia.org/wiki/File_Transfer_Protocol
+https://en.wikipedia.org/wiki/Simple_Mail_Transfer_Protocol
+
+Transport Layer (TCP/UDP): Python utilizes sockets to manage the connection, port, and data flow between applications.
+https://en.wikipedia.org/wiki/Transmission_Control_Protocol
+https://en.wikipedia.org/wiki/User_Datagram_Protocol
+
+SSL/TLS Module: Python provides libraries (ssl) that act between the transport and application layers for security.
+https://en.wikipedia.org/wiki/Transport_Layer_Security
+
+Python abstractly interacts with lower layers, allowing developers to focus on application-level networking.
+-->
+
+
 ## Protocols
 
 <!--
@@ -783,137 +1032,6 @@ https://x.com/kelseyhightower/status/1796199530956046420 | Kelsey Hightower on X
 https://www.fastly.com/products/quic-http-3 | HTTP/3 and QUIC | Fastly
 -->
 
-## Resiliency
-
-<!--
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
--->
-
-## Distributed Systems
-
-* [Distributed Systems Reading List](https://dancres.github.io/Pages/)
-
-Distributed
-* [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
-
-<!--
-https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
-
-https://en.wikipedia.org/wiki/Distributed_computing
-https://en.wikipedia.org/wiki/Replication_(computing) | Replication (computing) - Wikipedia
-https://en.wikipedia.org/wiki/Paxos_(computer_science) | Paxos (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Raft_(algorithm) | Raft (algorithm) - Wikipedia
-https://en.wikipedia.org/wiki/Consensus_(computer_science) | Consensus (computer science) - Wikipedia
-https://en.wikipedia.org/wiki/Leader_election | Leader election - Wikipedia
-
-Distributed Systems
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture
-https://www.atlassian.com/microservices/microservices-architecture/distributed-architecture#:~:text=A%20distributed%20system%20is%20a,of%20failure%20from%20a%20system. | What is a distributed system? | Atlassian
-https://www.splunk.com/en_us/blog/learn/distributed-systems.html
-
-https://martinfowler.com/articles/patterns-of-distributed-systems/
-
-Jepsen and Kyle Kingsbury
-https://github.com/aphyr/distsys-class
-https://antithesis.com/docs/resources/reliability_glossary/
-https://jepsen.io/blog/2025-10-20-distsys-glossary
-A workbench for writing toy implementations of distributed systems.
-https://github.com/jepsen-io/maelstrom/blob/main/doc/01-getting-ready/index.md
-https://jepsen.io/talks
-https://jepsen.io/services/training
-https://www.linkedin.com/in/kyle-kingsbury/
-https://jepsen.io/analyses
-https://jepsen.io/analyses/cockroachdb-beta-20160829
-https://groups.google.com/a/jepsen.io/g/talk
-https://groups.google.com/a/jepsen.io/g/announce
-https://jepsen.io/consistency
-https://jepsen.io/
-
-Martin Kleppmann
-Distributed Systems lecture series
-https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
-
-MIT 6.824: Distributed Systems
-https://www.youtube.com/@6.824
-
-https://ferd.ca/a-distributed-systems-reading-list.html
-https://ferd.ca/beating-the-cap-theorem-checklist.html
-https://news.ycombinator.com/item?id=39303160
-https://dancres.github.io/Pages/ | Distributed Systems Reading List
-
-https://www.geeksforgeeks.org/types-of-distributed-system/
-https://asatarin.github.io/testing-distributed-systems/
-
-Lamport
-https://amturing.acm.org/p558-lamport.pdf
-https://x.com/TheOfficialACM/status/2020071323330883979
-https://brooker.co.za/blog/2014/03/30/lamport-pub.html
-https://x.com/DynamicWebPaige/status/1991729579099066492
-https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
-https://www.youtube.com/watch?v=U719vQz-WFs&t=1s
-
-List of Algorithms
-http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
-
-5.6 Leader Election using BFS
-https://jukkasuomela.fi/da2020/da2020.pdf | Distributed Algorithms 2020
-
-https://github.com/papers-we-love/papers-we-love/tree/main/distributed_systems | papers-we-love/distributed_systems at main · papers-we-love/papers-we-love
-
-https://ocw.mit.edu/courses/6-852j-distributed-algorithms-fall-2009/
--->
-
-## Parallel Computing
-
-Parallel Computing
-* [Parallel Computing Wikipedia](http://en.wikipedia.org/wiki/Parallel_computing) 
-* [Load Balancing Wikipedia](http://en.wikipedia.org/wiki/Load_balancing_(computing))  
-
-<!--
-## Programming Parallel Computers, Distributed Algorithms
-
-https://www.reddit.com/r/explainlikeimfive/comments/19ey76v/eli5_what_is_the_difference_between_distributed/
-
-https://en.wikipedia.org/wiki/Distributed_algorithm | Distributed algorithm - Wikipedia
-
-https://ppc.cs.aalto.fi/
-https://jukkasuomela.fi/da2020/
-https://twitter.com/JukkaSuomela/status/1602964083145572352 | Jukka Suomela on Twitter: "Course material available here: Programming Parallel Computers: https://t.co/k0fqpFRAU2 Distributed Algorithms: https://t.co/UBLVlu3UyP https://t.co/3wL9ERikYj" / Twitter
-https://mycourses.aalto.fi/course/view.php?id=41048
--->
-
-## Databases
-
-<!--
-The State of Resilience 2025
-https://www.cockroachlabs.com/guides/the-state-of-resilience-2025
-
-https://x.com/andy_pavlo
-https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html
-
-Intro to Database Systems
-CMU’s Database Systems playlist is pure gold if you want to understand databases beyond APIs.
-https://x.com/yashagw/status/2009264057870897586
-https://15445.courses.cs.cmu.edu/fall2023/schedule.html | Schedule | CMU 15-445/645 :: Intro to Database Systems (Fall 2023)
-
-Architecture of a Database System
-Joseph M. Hellerstein, Michael Stonebraker, and James Hamilton
-https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
-
-https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
-
-https://db-engines.com/en/systems
--->
-
-<!--
-## Access
-
-https://en.wikipedia.org/wiki/Active_Directory
-https://en.wikipedia.org/wiki/Lightweight_Directory_Access_Protocol | Lightweight Directory Access Protocol - Wikipedia
--->
-
 ## Frontend and Mobile
 
 * [React](https://reactjs.org/)
@@ -941,85 +1059,6 @@ https://docs.oracle.com/en/java/
 
 https://www.w3schools.com/java/java_data_types.asp | Java Data Types
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html
--->
-
-## News Sites
-
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-* [The New Stack](https://thenewstack.io/)
-
-## Trending
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-<!--
-https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
-
-In operation
-https://fosstodon.org/@HackerNewsBot@m.einverne.info
--->
-
-<!--
-## Stats
-
-Hacker News Stats
-https://hackernews-insight.vercel.app/user-analysis | Evidence
-https://hackernews-insight.vercel.app/keyword-analysis | Evidence
-https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
-
-GitHub Star History Graph 
-https://twitter.com/newsycombinator/status/1530625174114078721
--->
-
-## GitHub Trending
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Developers](https://github.com/trending/developers )
-
-## Trending and Top of All Time
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-https://stackshare.io/
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
 -->
 
 
