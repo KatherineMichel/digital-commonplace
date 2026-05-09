@@ -8,8 +8,6 @@ https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştef�
 
 https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
 
-CPU
-https://www.youtube.com/watch?v=cNN_tTXABUA
 
 https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
 
@@ -48,12 +46,28 @@ https://en.wikipedia.org/wiki/Comparison_of_instant_messaging_protocols
 https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
+
+
+## Server
+
+https://en.wikipedia.org/wiki/Heartbeat_(computing)
+https://en.wikipedia.org/wiki/Round-robin_DNS
+
+## State
+
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
 -->
 
 
 ## How Do It Work
 
 <!--
+CPU
+https://www.youtube.com/watch?v=cNN_tTXABUA
+https://en.wikipedia.org/wiki/Intel
+https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+
 https://en.wikipedia.org/wiki/CPU_cache
 
 https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
@@ -136,8 +150,8 @@ Instruction Set (CPU)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 <!--
-https://en.wikipedia.org/wiki/Intel
-https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
+https://en.wikipedia.org/wiki/X86_instruction_listings
 
 Book
 https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
@@ -145,9 +159,6 @@ http://pages.cs.wisc.edu/~remzi/OSTEP/
 
 https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
 https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
-
-https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
-https://en.wikipedia.org/wiki/X86_instruction_listings
 
 RISC versus CISC
 https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
