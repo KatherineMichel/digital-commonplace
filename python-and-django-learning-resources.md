@@ -113,6 +113,28 @@ https://www.ibm.com/developerworks/aix/library/au-scripting_to_oo/ | From script
 https://code.tutsplus.com/articles/advanced-python-data-structures--net-32748
 -->
 
+## Programming Language Comparisons
+
+Programming Language Comparisons
+* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
+* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
+* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
+* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
+* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
+
+Programming Language Leveling Up and Comparison Sites
+* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
+* [Learn X in Y Minutes](https://learnxinyminutes.com)
+* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
+* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
+* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+
+<!--
+https://en.wikipedia.org/wiki/Timeline_of_programming_languages
+
+https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
+-->
+
 ## Code Challenges
 
 Practice
@@ -138,43 +160,6 @@ https://www.pythonmorsels.com/exercises/list/ | Exercise List
 
 https://codechalleng.es/inbox/102206/ | PyBites Platform | Hone Your Python Skills
 -->
-
-## Python Syntax and Python Versus JavaScript
-
-Programming Language Leveling Up and Comparisons- Python
-* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
-* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
-* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
-
-Python and Python Syntax and Semantics
-* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
-* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
-* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
-* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
-* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
-
-## Programming Language Comparisons
-
-Programming Language Comparisons
-* [Comparison of Programming Languages Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages)
-* [Programming Language Comparisons Wikipedia](https://en.wikipedia.org/wiki/Category:Programming_language_comparisons)
-* [Comparison of Programming Languages (Syntax) Wikipedia](http://en.wikipedia.org/wiki/Comparison_of_programming_languages_(syntax))  
-* [Comparison of Basic Instructions of Programming Languages Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_programming_languages_(basic_instructions)) 
-* [Computer Programming/Hello world Wikibook](https://en.wikibooks.org/wiki/Computer_Programming/Hello_world)
-
-Programming Language Leveling Up and Comparison Sites
-* [Programming Levels](http://science.raphael.poss.name/programming-levels.html)    
-* [Learn X in Y Minutes](https://learnxinyminutes.com)
-* [Guess the Programming Language](http://tutorialzine.com/2014/06/guess-the-programming-language) 
-* [PLEAC - Programming Language Examples Alike Cookbook](http://pleac.sourceforge.net)
-* [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
-
-<!--
-https://en.wikipedia.org/wiki/Timeline_of_programming_languages
-
-https://twitter.com/TimSweeneyEpic/status/1066533192998559744 | Tim Sweeney on Twitter: "Programming language families. Still contemplating how the whole space could be covered nicely by a single, reasonably-straightforward language.… https://t.co/OksZudfMJF"
--->
-
 
 ## General Learning Resources- Books
 
@@ -260,7 +245,6 @@ Math Resources
 * [Math Dot Com](http://www.math.com)
 * [Maths is Fun](http://www.mathsisfun.com)
 
-
 <!--
 ## Algos
 
@@ -345,6 +329,19 @@ https://lerner.co.il/2020/04/02/reminder-my-free-python-for-non-programmers-cour
 https://store.lerner.co.il/python-for-non-programmers-live | Python for non-programmers — live, weekly workshop
 -->
 
+## Python Syntax and Python Versus JavaScript
+
+Programming Language Leveling Up and Comparisons- Python
+* [Learn X in Y Minutes Python 3](https://learnxinyminutes.com/docs/python3)
+* [Learn X in Y Minutes Python](https://learnxinyminutes.com/docs/python)
+* [PLEAC - Programming Language Examples Alike Cookbook- Python](http://pleac.sourceforge.net/pleac_python.data)
+
+Python and Python Syntax and Semantics
+* [Python Wikipedia](https://en.wikipedia.org/wiki/Python_(programming_language))
+* [Python Syntax and Semantics Wikipedia](http://en.wikipedia.org/wiki/Python_syntax_and_semantics) 
+* [Python Programming Wikibook](http://en.wikibooks.org/wiki/Python_Programming) 
+* [Python Programming Wikiversity](https://en.wikiversity.org/wiki/Python_Programming) 
+* [Non-Programmers Tutorial for Python 3 Wikibook](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3) 
 
 ## Python Trending, Forums, and Articles
 
