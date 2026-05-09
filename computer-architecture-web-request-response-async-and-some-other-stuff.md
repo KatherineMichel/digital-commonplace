@@ -26,7 +26,6 @@ https://github.com/llvm/llvm-project
 Like the other
 http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
 
-https://en.wikipedia.org/wiki/POSIX
 https://pop.system76.com/
 
 
@@ -56,7 +55,6 @@ https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging
 
 <!--
 https://en.wikipedia.org/wiki/CPU_cache
-https://en.wikipedia.org/wiki/Cache_(computing)
 
 https://www.amazon.com/Ones-and-Zeros-Understanding-Boolean-Algebra-Digital-Circuits-and-the-Logic-of-Sets/dp/0780334264/ref=cm_cr_arp_d_rvw_txt?ie=UTF8 | Ones and Zeros: Understanding Boolean Algebra, Digital Circuits, and the Logic of Sets: John R. Gregg: 9780780334267: Amazon.com: Books
 
@@ -138,19 +136,25 @@ Instruction Set (CPU)
 * [Comparison of Instruction Set Architectures Wikipedia](https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures)
 
 <!--
-https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
-https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
+https://en.wikipedia.org/wiki/Intel
+https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+
+Book
+https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
+http://pages.cs.wisc.edu/~remzi/OSTEP/
+
+https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
+https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
 
 https://en.wikipedia.org/wiki/Comparison_of_CPU_microarchitectures
 https://en.wikipedia.org/wiki/X86_instruction_listings
 
-https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
-
 RISC versus CISC
+https://en.wikipedia.org/wiki/Reduced_instruction_set_computer | Reduced instruction set computer - Wikipedia
 https://en.wikipedia.org/wiki/Complex_instruction_set_computer#:~:text=A%20complex%20instruction%20set%20computer,addressing%20modes%20within%20single%20instructions. | Complex instruction set computer - Wikipedia
+https://www.geeksforgeeks.org/computer-organization-risc-and-cisc/ | Computer Organization | RISC and CISC - GeeksforGeeks
 
-Book
-https://en.wikipedia.org/wiki/Modern_Operating_Systems | Modern Operating Systems - Wikipedia
+https://en.wikipedia.org/wiki/SQL_Server_Reporting_Services | SQL Server Reporting Services - Wikipedia
 -->
 
 Types of CPUs
@@ -171,16 +175,16 @@ Unix
 * [Unix-Like Wikipedia](https://en.wikipedia.org/wiki/Unix-like)
 * [POSIX (Compatible with Unix) Wikipedia](https://en.wikipedia.org/wiki/POSIX)
 
-Unix File System
-* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
-* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
-* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
 
 <!--
-https://en.wikipedia.org/wiki/File_system
+https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
+https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
 
-https://en.wikipedia.org/wiki/Intel
-https://en.wikipedia.org/wiki/Advanced_Micro_Devices
+https://en.wikipedia.org/wiki/POSIX
+
+https://en.wikipedia.org/wiki/File_system
 
 https://en.wikipedia.org/wiki/Unix_philosophy#Do_One_Thing_and_Do_It_Well | Unix philosophy - Wikipedia
 
@@ -189,38 +193,16 @@ https://github.com/qrush/unix | qrush/unix: Mirror of the Restoration of 1st Edi
 -->
 
 <!--
-https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
-
-Linux Performance Observability Tools
-https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
-
-Linux networking tools
-https://twitter.com/b0rk/status/1204839971913379840
-
-https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
-https://linux-kernel-labs.github.io/refs/heads/master/index.html
-
-https://www.quora.com/What-is-the-difference-between-a-CPU-and-an-OS
-https://stackoverflow.com/questions/23857542/how-does-an-os-communicate-with-the-cpu
-http://pages.cs.wisc.edu/~remzi/OSTEP/
-
-https://en.wikipedia.org/wiki/Unix_architecture | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Unix_architecture#Kernel | Unix architecture - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel | Linux kernel - Wikipedia
-https://en.wikipedia.org/wiki/Linux_kernel_interfaces#Linux_API | Linux kernel interfaces - Wikipedia
-
+https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
 
 https://github.com/microsoft/WSLv2-Linux-Kernel | microsoft/WSLv2-Linux-Kernel: The Linux kernel underpinning the new Windows Subsystem for Linux v2
 
+https://en.wikipedia.org/wiki/The_UNIX-HATERS_Handbook
+
 https://twitter.com/mattblaze/status/1092222055754489856 | matt blaze on Twitter: "This handy pocket guide to Unix (what your grandparents called Linux) was printed 35 years ago and is still mostly current.… https://t.co/5NKjFRAu0R"
-https://opensource.com/article/18/5/differences-between-linux-and-unix | Linux vs. Unix: What's the difference? | Opensource.com
 
-
-Commands
-http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
-https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
-http://man7.org/linux/man-pages/ | Linux man pages online
-https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+Linux Performance Observability Tools
+https://twitter.com/0xUID/status/1060642608630980609 | Anis ⣢ on Twitter: "Wow nice, haven't seen this before. #Linux 
 -->
 
 Compiler
@@ -269,7 +251,6 @@ https://elixir-lang.org/ | Elixir
 https://environ-config.readthedocs.io/en/latest/ | environ-config: Application Configuration With Env Variables — environ-config 20.2.0.dev0 documentation
 
   * [Microservices Dot IO](http://microservices.io)
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
 
 https://github.com/microservices/cli
 -->
@@ -483,11 +464,6 @@ https://en.wikipedia.org/wiki/Two-phase_commit_protocol | Two-phase commit proto
 
 OOP
 https://en.wikipedia.org/wiki/Cohesion_(computer_science)#High_cohesion
-
-System
-https://en.wikipedia.org/wiki/High_availability
-https://en.wikipedia.org/wiki/Failover
-https://en.wikipedia.org/wiki/Fault_tolerance
 -->
 
 <!--
@@ -661,9 +637,6 @@ https://www.python.org/dev/peps/pep-0249/ | PEP 249 -- Python Database API Speci
 
 ## SQL Related
 
-The Python SQL Toolkit and Object Relational Mapper
-* [SQLAlchemy](https://www.sqlalchemy.org/) and [SQLAlchemy Docs](https://docs.sqlalchemy.org)
-
 <!--
 SQLModel (By author of FastAPI and Typer)
 https://github.com/tiangolo/sqlmodel
@@ -790,8 +763,6 @@ https://developer.mozilla.org/en-US/docs/Glossary/Proxy_server | Proxy server - 
 
 ## API
 
-* [Microsoft API Design Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design) and [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
-
 <!--
 https://www.postman.com/ | Postman | The Collaboration Platform for API Development
 https://www.getpostman.com/ | Postman | API Development Environment
@@ -800,8 +771,6 @@ https://github.com/liyasthomas/postwoman | liyasthomas/postwoman: 👽 API reque
 
 https://www.redhat.com/en/topics/api/what-does-an-api-gateway-do
 https://docs.microsoft.com/en-us/rest/api/?wt.mc_id=-twitter-scottha&view=Azure | REST API Browser | Microsoft Docs
-https://cloud.google.com/apis/design/ | API Design Guide  |  Cloud APIs  |  Google Cloud
-https://stackoverflow.blog/2020/03/02/best-practices-for-rest-api-design/ | Best practices for REST API design - Stack Overflow Blog
 
 https://insomnia.rest/ | Insomnia | The API Design Platform and REST Client
 https://twitter.com/vipulgupta2048/status/1301721412420251655 | Vipul Gupta 🐣 on Twitter: "@KatiMichel I can recommend 2 more if you like to check out. https://t.co/EjKlnN2gxi and @FirecampHQ" / Twitter
