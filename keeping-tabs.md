@@ -175,6 +175,44 @@ https://www.thoughtworks.com/en-us/radar
 
 
 <!--
+https://aphyr.com/tags/Jepsen
+https://jepsen.io/analyses/ethics
+
+9 Articles to learn so much about Databases
+https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
+
+## Database Types
+
+https://blog.algomaster.io/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+https://www.linkedin.com/posts/ashishps1_15-types-of-databases-and-when-to-use-them-activity-7178246375711682561-g337/?utm_source=share&utm_medium=member_desktop | Post | LinkedIn
+https://newsletter.ashishps.com/p/15-types-of-databases | 15 Types of Databases and When to Use Them
+
+## Databases Rankings
+
+https://pypl.github.io/DB.html | TOPDB Top Database index
+https://db-engines.com/en/ranking | DB-Engines Ranking - popularity ranking of database management systems
+
+## Neo4j
+
+https://neo4j.com/
+https://medium.com/@_jalakoo_/getting-started-with-neo4j-6bbeece974e3 | Getting Started with Neo4j. Already heard of Neo4j, the highly… | by Jason Koo | Jul, 2024 | Medium
+https://neo4j.com/docs/getting-started/appendix/graphdb-concepts/graphdb-vs-rdbms/ | Transition from relational to graph database - Getting Started
+
+## In-memory Database
+
+https://redis.io/
+
+https://en.wikipedia.org/wiki/In-memory_database | In-memory database - Wikipedia
+https://en.wikipedia.org/wiki/List_of_in-memory_databases | List of in-memory databases - Wikipedia
+
+## Cockroach, GraphDB, Neo4j
+
+DB Comparisons
+https://db-engines.com/en/systems
+https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
+-->
+
+<!--
 ## FastAPI and Pydantic
 
 Fast API
