@@ -1,13 +1,6 @@
 # Software Design Patterns and Refactoring
 
 <!--
-## State
-
-https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
-https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
--->
-
-<!--
 # Distributed Systems
 
 Book
@@ -36,13 +29,6 @@ https://en.wikipedia.org/wiki/Parallel_algorithm | Parallel algorithm - Wikipedi
 
 https://thesecretlivesofdata.com/raft/ | Raft
 https://raft.github.io/ | Raft Consensus Algorithm
--->
-
-<!--
-## Server
-
-https://en.wikipedia.org/wiki/Heartbeat_(computing)
-https://en.wikipedia.org/wiki/Round-robin_DNS
 -->
 
 <!--
