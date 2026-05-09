@@ -1,28 +1,32 @@
 # Computer Architecture, Web, Request/Response, Async, and Some Other Stuff
 
 <!--
-https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+## Server
 
-https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+https://en.wikipedia.org/wiki/Heartbeat_(computing)
+https://en.wikipedia.org/wiki/Round-robin_DNS
+
+## State
+
+https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
+https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
 
 
-https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
-
-
-https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
-
+Looks interesting
 Learn assembly
 https://www.xorpd.net/ | xorpd
 
 
+https://gist.github.com/willurd/5720255 | Big list of http static server one-liners
+
+https://www.0chris.com/tiny-ci-system.html | A tiny CI system - Christian Ştefănescu
+
+https://twitter.com/anthonypjshaw/status/1338353216719712260 | Anthony Shaw 🐍 on Twitter: "C++ Operation Costs in CPU Clock Cycles https://t.co/hGAXbwfMlW https://t.co/HsAAW1ZryW" / Twitter
+
+What I've learned about scaling OSPF in Datacenters
 https://elegantnetwork.github.io/posts/What-Ive-learned-about-OSPF/
 
 https://en.wikipedia.org/wiki/X_Window_System#Principles
-
-
-https://github.com/llvm/llvm-project
-Like the other
-http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
 
 https://pop.system76.com/
 
@@ -34,7 +38,6 @@ https://howhttps.works/ | How HTTPS works - How HTTPS works
 http://websocketd.com/ | websocketd
 https://www.jsonrpc.org/specification | JSON-RPC 2.0 Specification
 
-https://chmodcommand.com
 https://httpstatuses.com/409 | 409 Conflict — httpstatuses.com
 
 Authenticate bearer
@@ -48,15 +51,7 @@ https://en.wikipedia.org/wiki/Online_chat#Software_and_protocols
 https://en.wikipedia.org/wiki/Real-Time_Messaging_Protocol | Real-Time Messaging Protocol - Wikipedia
 
 
-## Server
-
-https://en.wikipedia.org/wiki/Heartbeat_(computing)
-https://en.wikipedia.org/wiki/Round-robin_DNS
-
-## State
-
-https://en.wikipedia.org/wiki/Stateless_protocol | Stateless protocol - Wikipedia
-https://www.spiceworks.com/tech/cloud/articles/stateful-vs-stateless/ | 10 Key Differences Between Stateful and Stateless
+https://www.tek.com/document/handbook/low-level-measurements-handbook | Low Level Measurements Handbook - 7th Edition | Tektronix
 -->
 
 
@@ -234,6 +229,10 @@ https://stackoverflow.com/questions/44632432/what-does-gcc-have-to-do-with-a-pyt
 -->
 
 <!--
+https://github.com/llvm/llvm-project
+Like the other
+http://kripken.github.io/llvm.js/demo.html | Run LLVM Assembly In Your Browser
+
 KLEE LLVM Execution Engine
 https://klee.github.io/ | KLEE	
 
