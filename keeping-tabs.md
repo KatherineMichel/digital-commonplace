@@ -269,10 +269,24 @@ The Python SQL Toolkit and Object Relational Mapper
 
 ## AI
 
+Andrej Karpathy: From Vibe Coding to Agentic Engineering
+https://www.youtube.com/watch?v=96jN2OCOfLs&t=1666s
+
+Jack Dorsey: Every Company Can Now Be a Mini-AGI
+https://www.youtube.com/watch?v=YTVSwOY19Qs
+
+https://x.com/marlene_zw/status/2046635304623185944
+https://github.com/microsoft/langchain-for-beginners
+
+complete technical guide to building agent-native software 
+https://x.com/danshipper/status/2009651408144835021
+https://every.to/guides/agent-native
+
 https://cs153.stanford.edu/
 https://www.youtube.com/channel/UC0YBJCRIt4kA2jZ7siTGMyQ
 https://www.youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA
 https://x.com/AnjneyMidha/status/2037676908457197597
+https://x.com/AnjneyMidha/status/2048775711763378363
 
 ML System Design Case Studies Repository
 https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies
@@ -287,9 +301,11 @@ https://drive.google.com/file/d/1-5ho2aSZ-z0FcW8W_jMUoFSQ5hTKvJ43/view
 LLM Architecture Analysis
 https://x.com/Sumanth_077/status/1965061181007405375
 https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+https://sebastianraschka.com/llm-architecture-gallery/
 
 microgpt
 https://karpathy.github.io/2026/02/12/microgpt/
+https://x.com/iam_elias1/status/2049147610263695790
 
 Time 100 AI 2025
 https://time.com/collections/time100-ai-2025/
@@ -307,6 +323,7 @@ youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy&si=Kzg-T2x-iEaFaetK
 
 AI People
 https://x.com/scobleizer/lists
+https://x.com/Scobleizer/status/2050630468064993728
 
 https://x.com/karpathy/status/1991910395720925418
 https://www.gartner.com/en/articles/understand-and-exploit-gen-ai-with-gartner-s-new-impact-radar | Gartner Impact Radar for Generative AI 2024
