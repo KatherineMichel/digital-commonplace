@@ -1,5 +1,168 @@
 # Keeping Tabs
 
+<!--
+## Priority Learning
+
+https://valkey.io/
+
+https://learning.oreilly.com/course/linux-fundamentals-2nd/9780137929313/
+
+Sander van Vugt
+Red Hat Certified System Administrator (RHCSA) RHEL 9
+https://learning.oreilly.com/course/red-hat-certified/9780137931521/
+Red Hat Certified Engineer (RHCE) EX294, 2nd Edition
+https://learning.oreilly.com/course/red-hat-certified/9780138271657/
+
+https://learning.oreilly.com/videos/red-hat-certified/9780137931521/9780137931521-RHL9_02_05_01/
+
+## Priority News
+
+https://coredispatch.xyz/
+https://coredispatch.xyz/editions/2
+
+https://django-news.com/
+
+Valkey News
+https://valkey-demo.oursqlcommunity.org/
+
+https://training.linuxfoundation.org/full-catalog/
+
+https://testdriven.io/blog/
+
+https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
+https://www.techtalksweekly.io/p/50-most-watched-software-engineering
+
+RedHat and Ansible
+https://x.com/RedHat
+https://forum.ansible.com/t/the-bullhorn-225/45736
+
+## Learning
+
+https://winners.webbyawards.com/winners
+
+https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
+
+https://frontendmasters.com/
+
+https://www.pluralsight.com/guides/
+https://app.pluralsight.com/library/free | Pluralsight
+
+https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
+
+https://www.geeksforgeeks.org/
+
+
+## News
+
+National Center for Women & Information Technology
+https://ncwit.org/
+
+ACM Price
+https://awards.acm.org/acm-prize
+Turing Award Winners
+https://amturing.acm.org/byyear.cfm
+Distinguished Paper Award
+ICSE, FSE, ASE, ISSTA, MODELS, MSR, ICPC, ESEM, FORGE, Internetware, Aiware
+https://www2.sigsoft.org/awards/distinguishedpaper/
+
+NAE Members
+https://www.nae.edu/20412/MemberDirectory
+
+https://www.nae.edu/
+https://lwn.net/
+
+Communications at ACM
+https://cacm.acm.org/
+https://cacm.acm.org/news/cacm-is-now-open-access-2/
+ACM Books
+https://dl.acm.org/acmbooks/archive?pageSize=20&startPage=1
+https://www.cve.org/
+
+## Trends
+
+https://owasp.org/www-project-top-ten/
+https://www.gartner.com
+https://www.thoughtworks.com/en-us/radar
+-->
+
+<!--
+## DFW
+
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+
+## Events
+
+https://events.linuxfoundation.org/
+https://www.redhat.com/en/events
+
+Commit Your Code Replays
+https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW
+Aaron Francis Keynote
+https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW&index=115
+
+Talks
+https://www.youtube.com/@valkeyproject/videos
+https://www.youtube.com/@gomomento/videos
+https://www.unlockedconf.io/san-jose-replays
+https://www.youtube.com/watch?v=CxKIoUPJtyM
+https://www.youtube.com/playlist?list=PLAV1X7hxH2HtZWc2YNQRMQe9FT9XTWemE
+https://valkey.io/events/keyspace-2025/#recorded-talks-video
+https://valkey.io/events/keyspace-2025/slides/keyspace-25-ldap-audit.pdf
+
+https://valkey.io/events/
+https://www.unlockedconf.io/agenda
+https://aws.amazon.com/events/reinvent/
+https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=%22Madelyn%20Olson%22
+https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=&search.topic=1752157283215007FLPp&trk=www.google.com
+BuildDevCon Virtual Summit: In-Memory Databases
+https://buildevcon.com/events/in-memory-databases
+https://www.linkedin.com/feed/update/urn:li:share:7435842908588576768/?originTrackingId=Fq3R8HSQKyaoVAKSvAZE4g%3D%3D
+https://events.linuxfoundation.org/keyspace/
+https://valkey.io/events/keyspace-beijing-2025/
+https://www.linkedin.com/posts/madelyn-olson-valkey_open-source-summit-europe-2024-sponsored-share-7240817321273913345-HnG9
+Databases
+
+## Event Videos
+
+https://pyvideo.org/ | PyVideo.org
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+https://pyvideo.org/events.html | PyVideo.org · Events
+
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+
+## Events
+
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+
+
+https://www.python.org/events/python-events/ | Our Events | Python.org
+https://www.python.org/events/
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+-->
+
 ## News Sites
 
 * [Techmeme](https://www.techmeme.com)
@@ -131,153 +294,11 @@ https://x.com/jack/status/2039003879841362278
 https://realpython.com/fastapi-python-web-apis/
 https://github.com/fastapi/fastapi-new
 https://github.com/fastapi/fastapi
-
-## DFW
-
-https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
-
-## Events
-
-https://events.linuxfoundation.org/
-https://www.redhat.com/en/events
-
-Commit Your Code Replays
-https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW
-Aaron Francis Keynote
-https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW&index=115
-
-Talks
-https://www.youtube.com/@valkeyproject/videos
-https://www.youtube.com/@gomomento/videos
-https://www.unlockedconf.io/san-jose-replays
-https://www.youtube.com/watch?v=CxKIoUPJtyM
-https://www.youtube.com/playlist?list=PLAV1X7hxH2HtZWc2YNQRMQe9FT9XTWemE
-https://valkey.io/events/keyspace-2025/#recorded-talks-video
-https://valkey.io/events/keyspace-2025/slides/keyspace-25-ldap-audit.pdf
-
-https://valkey.io/events/
-https://www.unlockedconf.io/agenda
-https://aws.amazon.com/events/reinvent/
-https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=%22Madelyn%20Olson%22
-https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=&search.topic=1752157283215007FLPp&trk=www.google.com
-BuildDevCon Virtual Summit: In-Memory Databases
-https://buildevcon.com/events/in-memory-databases
-https://www.linkedin.com/feed/update/urn:li:share:7435842908588576768/?originTrackingId=Fq3R8HSQKyaoVAKSvAZE4g%3D%3D
-https://events.linuxfoundation.org/keyspace/
-https://valkey.io/events/keyspace-beijing-2025/
-https://www.linkedin.com/posts/madelyn-olson-valkey_open-source-summit-europe-2024-sponsored-share-7240817321273913345-HnG9
-Databases
-
-## Event Videos
-
-https://pyvideo.org/ | PyVideo.org
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-https://pyvideo.org/events.html | PyVideo.org · Events
-
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-
-https://www.python.org/events/python-events/ | Our Events | Python.org
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
--->
-
-<!--
-## Learning
-
-https://testdriven.io/blog/
-
-https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
-https://www.techtalksweekly.io/p/50-most-watched-software-engineering
-
-https://winners.webbyawards.com/winners
-
-https://training.linuxfoundation.org/full-catalog/
-
-https://stackoverflow.blog/newsletter/ | The Overflow - Stack Overflow Blog
-
-https://frontendmasters.com/
-
-https://www.pluralsight.com/guides/
-https://app.pluralsight.com/library/free | Pluralsight
-
-https://www.udacity.com/ | Learn the Latest Tech Skills; Advance Your Career | Udacity
-
-https://www.geeksforgeeks.org/
-
-
-## News
-
-National Center for Women & Information Technology
-https://ncwit.org/
-
-ACM Price
-https://awards.acm.org/acm-prize
-Turing Award Winners
-https://amturing.acm.org/byyear.cfm
-Distinguished Paper Award
-ICSE, FSE, ASE, ISSTA, MODELS, MSR, ICPC, ESEM, FORGE, Internetware, Aiware
-https://www2.sigsoft.org/awards/distinguishedpaper/
-
-NAE Members
-https://www.nae.edu/20412/MemberDirectory
-
-https://www.nae.edu/
-https://lwn.net/
-
-Valkey News
-https://valkey-demo.oursqlcommunity.org/
-RedHat and Ansible
-https://x.com/RedHat
-https://forum.ansible.com/t/the-bullhorn-225/45736
-Communications at ACM
-https://cacm.acm.org/
-https://cacm.acm.org/news/cacm-is-now-open-access-2/
-ACM Books
-https://dl.acm.org/acmbooks/archive?pageSize=20&startPage=1
-https://www.cve.org/
-
-## Trends
-
-https://owasp.org/www-project-top-ten/
-https://www.gartner.com
-https://www.thoughtworks.com/en-us/radar
 -->
 
 
 <!--
 https://fastht.ml/
-
-
-https://coredispatch.xyz/
-https://coredispatch.xyz/editions/2
 
 
 Projects that are written in C
@@ -738,16 +759,9 @@ Unix File System
 
 
 <!--
-Sander van Vugt
-Red Hat Certified System Administrator (RHCSA) RHEL 9
-https://learning.oreilly.com/course/red-hat-certified/9780137931521/
-Red Hat Certified Engineer (RHCE) EX294, 2nd Edition
-https://learning.oreilly.com/course/red-hat-certified/9780138271657/
-
-https://learning.oreilly.com/videos/red-hat-certified/9780137931521/9780137931521-RHL9_02_05_01/
-
 https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
+
 https://www.redhat.com/en/topics/linux/what-is-selinux
 https://en.wikipedia.org/wiki/Security-Enhanced_Linux
 
