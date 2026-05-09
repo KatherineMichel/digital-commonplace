@@ -246,11 +246,6 @@ Math Resources
 * [Maths is Fun](http://www.mathsisfun.com)
 
 <!--
-## Algos
-
-MIT Intro to Algos
-https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
-
 ## Data Structures
 
 https://medium.com/basecs | basecs – Medium
