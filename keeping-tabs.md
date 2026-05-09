@@ -269,6 +269,42 @@ The Python SQL Toolkit and Object Relational Mapper
 
 ## AI
 
+https://cs153.stanford.edu/
+https://www.youtube.com/channel/UC0YBJCRIt4kA2jZ7siTGMyQ
+https://www.youtube.com/playlist?list=PLoROMvodv4rN447WKQ5oz_YdYbS74M5IA
+https://x.com/AnjneyMidha/status/2037676908457197597
+
+ML System Design Case Studies Repository
+https://github.com/Engineer1999/A-Curated-List-of-ML-System-Design-Case-Studies
+
+https://x.com/ChatGPTapp/following
+
+Agentic Design Patterns
+https://x.com/aaditsh/status/1974900178957259012
+https://docs.google.com/document/d/1rsaK53T3Lg5KoGwvf8ukOUvbELRtH-V0LnOIFDxBryE/edit?pli=1&tab=t.0#heading=h.pxcur8v2qagu
+https://drive.google.com/file/d/1-5ho2aSZ-z0FcW8W_jMUoFSQ5hTKvJ43/view
+
+LLM Architecture Analysis
+https://x.com/Sumanth_077/status/1965061181007405375
+https://magazine.sebastianraschka.com/p/the-big-llm-architecture-comparison
+
+microgpt
+https://karpathy.github.io/2026/02/12/microgpt/
+
+Time 100 AI 2025
+https://time.com/collections/time100-ai-2025/
+
+2025: The year in LLMs
+https://simonwillison.net/2025/Dec/31/the-year-in-llms/
+
+Stanford CS336 Language Modeling from Scratch I 2025
+https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_
+
+Stanford just dropped their full LLM course on YouTube.
+CME 295: Transformers & Large Language Models
+https://x.com/srishticodes/status/2001161632421175751
+youtube.com/playlist?list=PLoROMvodv4rOCXd21gf0CF4xr35yINeOy&si=Kzg-T2x-iEaFaetK
+
 AI People
 https://x.com/scobleizer/lists
 
