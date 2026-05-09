@@ -269,6 +269,21 @@ The Python SQL Toolkit and Object Relational Mapper
 
 ## AI
 
+Karpathy Interview
+https://x.com/jack/status/1979497865006272549
+
+https://github.com/openclaw/openclaw/security/advisories
+https://openclaw.ai/blog/openclaw-security-in-public/
+https://x.com/openclaw/status/2049972008515957056
+
+This 14-minute talk by the Creator of MCP will teach you more about 
+building them than most developers figure out on their own in a year.
+https://x.com/Av1dlive/status/2049099215520071921
+https://x.com/cyrilXBT/status/2049093475560301009
+
+An AI state of the union: We’ve passed the inflection point & dark factories are coming
+https://www.youtube.com/watch?v=wc8FBhQtdsA&t=741s
+
 Andrej Karpathy: From Vibe Coding to Agentic Engineering
 https://www.youtube.com/watch?v=96jN2OCOfLs&t=1666s
 
