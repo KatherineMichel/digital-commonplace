@@ -423,6 +423,7 @@ https://x.com/MuthaNagavamsi/status/1811277785417253321
 
 ## Automation
 
+* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 * [Kubernetes](http://kubernetes.io) and [Kubernetes Docs](https://kubernetes.io/docs/home)
 * [Kubernetes Components](https://kubernetes.io/docs/concepts/overview/components/)
 * [Terraform Enterprise](https://www.terraform.io/docs/enterprise/index.html)
@@ -431,9 +432,6 @@ https://x.com/MuthaNagavamsi/status/1811277785417253321
 
 <!--
 ## Ansible
-
-YAML
-* [YAML](http://yaml.org) and [YAML Wikipedia](https://en.wikipedia.org/wiki/YAML)
 
 YAML
 https://yaml.org/spec/1.2/spec.html#id2759572 | YAML Ain’t Markup Language (YAML™) Version 1.2
@@ -472,18 +470,16 @@ https://www.redhat.com/en/blog/channel/management-and-automation | IT management
 
 ## RHEL
 
+Linux
+* [Linux GitHub](https://github.com/torvalds/linux)
+
+Unix File System
+* [Unix File System Wikipedia](https://en.wikipedia.org/wiki/Unix_File_System)
+* [Unix Filesystem Hierarchy Standard Wikipedia](http://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
+* [Unix Filesystem Conventional Directory Layout](https://en.wikipedia.org/wiki/Unix_filesystem#Conventional_directory_layout)
+
+
 <!--
-https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
-
-How Linux Works
-https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
-https://www.codecademy.com/resources/blog/grub-linux
-https://www.codecademy.com/learn/fundamentals-of-operating-systems
-
-Filesystem Hierarchy Standard
-https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
-https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
-
 Sander van Vugt
 Red Hat Certified System Administrator (RHCSA) RHEL 9
 https://learning.oreilly.com/course/red-hat-certified/9780137931521/
@@ -494,45 +490,66 @@ https://learning.oreilly.com/videos/red-hat-certified/9780137931521/978013793152
 
 https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
 https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
-
 https://www.redhat.com/en/topics/linux/what-is-selinux
 https://en.wikipedia.org/wiki/Security-Enhanced_Linux
-
-File System
-https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
 
 ## System Administrator
 
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/system_administrators_guide/ch-getting_started
 
-
 ## Linux
+
+https://www.cs.helsinki.fi/u/kutvonen/index_files/linus.pdf
 
 Important! A Heavily Commented Linux Kernel Source Code
 http://www.oldlinux.org/download/ECLK-5.0-WithCover.pdf | ECLK-5.0-WithCover.pdf
 
+The Linux Field Guide
+https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
+
+How Linux Works
+https://x.com/SecurityTrybe/status/1811899623230894243 | Security Trybe on X: "https://t.co/HcwzwJvL78" / X
+https://www.codecademy.com/resources/blog/grub-linux
+https://www.codecademy.com/learn/fundamentals-of-operating-systems
+
+Filesystem Hierarchy Standard
+https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
+
+File System
+https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-filesystem
+
+Resources
 https://twitter.com/Alra3ees/status/1181028153944358913 | Emad Shanab on Twitter: "Linux directories cheat sheet. https://t.co/qClnTgfioI" / Twitter
+https://makelinux.github.io/kernel/map/ | Interactive map of Linux kernel
+Linux networking tools
+https://twitter.com/b0rk/status/1204839971913379840
 https://twitter.com/brendangregg/status/1150796412931600384/photo/2
 https://twitter.com/brendangregg/status/1150796412931600384 | Brendan Gregg on Twitter: "Announcing my next book: BPF Performance Tools: Linux System and Application Observability, for which I developed over 100 new tools https://t.co/GiYiBPICo5… https://t.co/bhGDofUj7Z"
 http://www.brendangregg.com/blog/2019-07-15/bpf-performance-tools-book.html | BPF Performance Tools: Linux System and Application Observability (book)
 https://www.google.com/search?q=linux+performance+tools&source=lnms&tbm=isch&sa=X&ved=0ahUKEwj6xP6t27fjAhWEZs0KHQd_D0wQ_AUIECgB&biw=1365&bih=614#imgrc=ZXehEkMmqZ0v3M: | linux performance tools - Google Search
 
-Free Linux curriculum
-https://x.com/CyberRacheal/status/2050129061096165760
-
-Linux
-* [Linux GitHub](https://github.com/torvalds/linux)
-
-https://lfg.popovicu.com/series/the-c-layer/why-c-is-the-linux-userspace-interface/
+Book
 https://archive.org/details/DesignUNIXOperatingSystem
-
 https://www.amazon.com/UNIX-Linux-System-Administration-Handbook/dp/0134277554
 https://rlworkman.net/howtos/rute/
+
+Free Linux curriculum
+https://x.com/CyberRacheal/status/2050129061096165760
+https://linux-kernel-labs.github.io/refs/heads/master/index.html
+
 https://github.com/0xAX/linux-insides
 https://github.com/0xAX/linux-insides#requirements
 https://en.wikipedia.org/wiki/Assembly_language
 https://en.wikipedia.org/wiki/C_(programming_language)
 https://www.intel.com/content/www/us/en/developer/articles/technical/intel-sdm.html
+
+Commands
+http://man7.org/linux/man-pages/man2/ptrace.2.html | ptrace(2) - Linux manual page
+https://en.wikipedia.org/wiki/Ptrace | ptrace - Wikipedia
+http://man7.org/linux/man-pages/ | Linux man pages online
+https://www.tutorialspoint.com/unix/unix-manpage-help | Unix / Linux Shell Manpage Help
+https://man7.org/linux/man-pages/man3/puts.3.html | puts(3) - Linux manual page
 
 Kevin Wallace Training, CCNA (200-301) and CCNA (200-301) Complete Video Course course
 https://www.youtube.com/@kwallaceccie
