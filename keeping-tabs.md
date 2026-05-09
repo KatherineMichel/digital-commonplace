@@ -1219,12 +1219,18 @@ https://github.com/mgp/book-notes/blob/master/high-scalability-notes.markdown | 
 http://highscalability.com/blog/2015/3/9/the-architecture-of-algolias-distributed-search-network.html | The Architecture of Algolia’s Distributed Search Network - High Scalability -
 -->
 
+## High Performance Trends
 
-## Engineering Blogs
+List of Engineering Blogs
+* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
+* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
 
 * [John Crickett Engineering Blogs List](https://github.com/JohnCrickett/SystemDesign/tree/main/engineering-blogs)
 * [Zack Engineering Blogs List](https://x.com/wolfie_zack/status/1679744158313992192)
 * [Ryan L. Peterman Blog List](https://twitter.com/ryanlpeterman/status/1767634813295759523)
+
+Python Success Stories
+* [Python Success Stories](https://www.python.org/success-stories)
 
 <!--
 https://github.com/KatherineMichel/organizations
