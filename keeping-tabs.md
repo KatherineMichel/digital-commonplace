@@ -1659,6 +1659,10 @@ https://github.com/gvwilson/sdxpy | gvwilson/sdxpy: Software Design by Example: 
 
 
 Algorithms
+
+MIT Intro to Algos
+https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/ | Lecture Videos | Introduction to Algorithms | Electrical Engineering and Computer Science | MIT OpenCourseWare
+
 https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X
 
 https://www.amazon.com/Algorithm-Design-Manual-Computer-Science-ebook/dp/B08L5JZRHD
