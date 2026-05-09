@@ -397,14 +397,6 @@ https://github.com/alex/nyt-2020-election-scraper | alex/nyt-2020-election-scrap
 -->
 
 
-## High Performance Trends
-
-List of Engineering Blogs
-* [Awesome List of Engineering Blogs 1](https://github.com/kilimchoi/engineering-blogs)
-* [Awesome List of Engineering Blogs 2](https://github.com/sumodirjo/engineering-blogs)
-
-Python Success Stories
-* [Python Success Stories](https://www.python.org/success-stories)
 
 ## Stack
 
