@@ -36,6 +36,7 @@ RedHat and Ansible
 https://x.com/RedHat
 https://forum.ansible.com/t/the-bullhorn-225/45736
 
+
 ## Learning
 
 https://winners.webbyawards.com/winners
