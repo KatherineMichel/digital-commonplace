@@ -164,6 +164,107 @@ PyCascades
 https://www.youtube.com/c/PyCascades/playlists
 -->
 
+<!--
+## Conferences
+
+Dev conferences
+https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
+## Women
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
+-->
+
+<!--
+## Public Speaker
+
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
+https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
+https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
+https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
+-->
+
+<!--
+## IDE
+
+Intellij
+
+## Security
+
+Security
+https://github.com/drduh/macOS-Security-and-Privacy-Guide 
+
+https://twitter.com/0xAsm0d3us/status/1685311449210781696 | Devansh (⚡, 🥷) on Twitter: "This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand! https://t.co/6EEcdgFlTc https://t.co/gBK81Y9gVR" / X
+https://github.com/devanshbatham/Vulnerabilities-Unmasked | devanshbatham/Vulnerabilities-Unmasked: This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
+
+https://edu.chainguard.dev/chainguard/chainguard-images/images-compared/ | Comparison of Vulnerabilities in Container Images — Chainguard Academy
+-->
+
+<!--
+https://access.redhat.com/support/policy/updates/errata
+
+## JetBrains
+
+https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
+https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
+
+## Git
+
+https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
+
+https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
+
+https://git-scm.com/ | Git
+https://git-scm.com/docs | Git - Reference
+
+Bitbucket
+
+Git Book
+Boost your DX
+https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
+
+## Local Tools
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+https://www.gnu.org/software/bash/manual/bash.html
+-->
+
+## Command Line
+
+<!--
+## Bash versus Python
+
+https://opensource.com/article/19/4/bash-vs-python
+https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
+
+
+## Useful Local Dev Tools
+
+https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
+
+http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
+https://grymoire.com/Unix/Awk.html
+https://grymoire.com/Unix/Grep.html
+https://www.grymoire.com/Unix/Sed.html
+
+Bash docs
+
+Mac keyboard shortcuts
+https://support.apple.com/en-us/HT201236
+
+
+Aliases
+https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
+https://tldp.org/LDP/abs/html/aliases.html | Aliases
+-->
+
+
 ## News Sites
 
 * [Techmeme](https://www.techmeme.com)
@@ -3756,43 +3857,11 @@ https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 
 
 
-<!--
-https://access.redhat.com/support/policy/updates/errata
-
-
-## JetBrains
-
-https://www.linkedin.com/company/jetbrains/ | JetBrains: Overview | LinkedIn
-https://blog.jetbrains.com/idea/2020/03/profiling-tools-and-intellij-idea-ultimate/ | Profiling Tools and IntelliJ IDEA Ultimate | The IntelliJ IDEA Blog
-
-
-## Local Tools
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-https://www.gnu.org/software/bash/manual/bash.html
-
-
-## Regex
-
-https://regexcrossword.com/ | Regex Crossword
-
-## Git
-
-https://git-scm.com/doc | Git - Documentation
-
-https://github.blog/2023-11-20-highlights-from-git-2-43/ | Highlights from Git 2.43 - The GitHub Blog
--->
-
-
-
 ## Git
 
 * [GitHub](https://github.com/)
 
 <!--
-https://adamj.eu/tech/2022/03/25/how-to-squash-and-rebase-a-git-branch/ | How to Squash and Rebase a Git Branch - Adam Johnson
-
 https://git-scm.com/ | Git
 https://git-scm.com/docs | Git - Reference
 
@@ -3835,42 +3904,12 @@ https://ndpsoftware.com/git-cheatsheet.html#loc=index;
 https://git-scm.com/doc/ext
 -->
 
-
+<!--
 ## Command Line
 
-<!--
 https://en.wikipedia.org/wiki/Cron
--->
-
-<!--
-## Bash versus Python
-
-https://opensource.com/article/19/4/bash-vs-python
-https://stackoverflow.com/questions/6908143/should-i-put-shebang-in-python-scripts-and-what-form-should-it-take
-
-
-## Useful Local Dev Tools
-
-https://github.com/jlevy/the-art-of-command-line | jlevy/the-art-of-command-line: Master the command line, in one page
-
-http://www.awklang.org/ | awklang.org – Τhe site for things related to the awk language
-https://grymoire.com/Unix/Awk.html
-https://grymoire.com/Unix/Grep.html
-https://www.grymoire.com/Unix/Sed.html
-
-Bash docs
-
-Mac keyboard shortcuts
-https://support.apple.com/en-us/HT201236
-
 
 https://www.iterm2.com/
-
-
-Aliases
-https://opensource.com/article/20/1/bash-scripts-aliases | My favorite Bash hacks | Opensource.com
-https://tldp.org/LDP/abs/html/aliases.html | Aliases
-
 
 https://ohmyz.sh/ | Oh My Zsh - a delightful & open source framework for Zsh
 https://zsh.sourceforge.io/ | ZSH - THE Z SHELL
@@ -3879,6 +3918,10 @@ https://github.com/hmml/awesome-zsh
 http://zsh.sourceforge.net/Doc/Release/Shell-Builtin-Commands.html | zsh: 17 Shell Builtin Commands
 https://dev.to/glasnt/oh-my-glob-alias-expansion-in-zsh-243e
 https://opensource.com/article/20/1/bash-scripts-aliases
+
+## Regex
+
+https://regexcrossword.com/ | Regex Crossword
 -->
 
 ## IDE
@@ -3915,7 +3958,6 @@ https://blog.jetbrains.com/pycharm/
 Release
 https://twitter.com/alxknzv/status/1466116325168844829 | Alex Kniazev on Twitter: "The amount of cool new stuff in this release it truly mind-blowing. It was really fun working on @FastAPI support and Endpoints 🙂" / Twitter
 
-https://www.jetbrains.com/help/pycharm/
 
 https://web.stanford.edu/class/archive/cs/cs106ap/cs106ap.1196/coursehandouts/installingpycharm.html | Installing PyCharm
 
@@ -3993,31 +4035,6 @@ https://developer.chrome.com/docs/devtools/accessibility/focus/ | Track element 
 
 
 <!--
-https://github.com/DanielJSottile/programming-notes/blob/master/notes.md
-
-
-https://git-scm.com/ | Git
-https://git-scm.com/docs | Git - Reference
-
-Bitbucket
-
-Git Book
-Boost your DX
--->
-
-<!--
-## Security
-
-Security
-https://github.com/drduh/macOS-Security-and-Privacy-Guide 
-
-https://twitter.com/0xAsm0d3us/status/1685311449210781696 | Devansh (⚡, 🥷) on Twitter: "This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand! https://t.co/6EEcdgFlTc https://t.co/gBK81Y9gVR" / X
-https://github.com/devanshbatham/Vulnerabilities-Unmasked | devanshbatham/Vulnerabilities-Unmasked: This repo tries to explain complex security vulnerabilities in simple terms that even a five-year-old can understand!
-
-https://edu.chainguard.dev/chainguard/chainguard-images/images-compared/ | Comparison of Vulnerabilities in Container Images — Chainguard Academy
--->
-
-<!--
 ## Web Design/Dev
 
 https://bun.sh/
@@ -4086,19 +4103,13 @@ https://github.blog/2020-12-07-release-radar-dec-2020/ | Release Radar · Decemb
 -->
 
 
-
-
-
 <!--
-## Public Speaker
+## Management
 
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-1-an-introduction-771811787338 | The Ultimate Guide To Memorable Tech Talks — Part 1: An Introduction | by Nina Zakharenko | Medium
-https://nnja.medium.com/the-ultimate-guide-to-memorable-tech-talks-part-3-writing-a-conference-proposal-or-cfp-7481aba78aa5 | The Ultimate Guide To Memorable Tech Talks — Part 3: Writing a Conference Proposal (or CFP) | by Nina Zakharenko | Medium
-https://sumo.com/kickass-headline-generator/ | Kickass Headline Generator for Increasing Conversions
-https://sumo.com/stories/headline-formulas | 51 Headline Formulas To Skyrocket Conversions (And Where To Use Them)
--->
+https://hbr.org/2018/10/help-your-team-do-more-without-burning-out | Help Your Team Do More Without Burning Out
 
-<!--
+## Mental
+
 The Science of Well Being
 https://www.coursera.org/learn/the-science-of-well-being/home/week/1
 
@@ -4109,35 +4120,6 @@ Mental Models and Cognitive Biases
 * [List of Cognitive Biases Wikipedia](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 -->
   
-<!--
-## High Performance Orgs
-
-https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
-
-Excellence
-* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
-* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
-
-Performance Management
-* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
-* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
--->
-
-<!--
-## Management
-
-https://hbr.org/2018/10/help-your-team-do-more-without-burning-out | Help Your Team Do More Without Burning Out
-
-## Growth Metrics
-
-https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
-
-## Technical Leadership
-
-https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
-https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
--->
-
 <!--
 ## Makers
 
@@ -4171,35 +4153,28 @@ https://basecamp.com/shapeup/webbook
 https://basecamp.com/gettingreal
 
 https://www.rework.fm/build-half-a-product-not-a-half-assed-project/ | Build Half a Product, Not a Half-Assed Project | REWORK
+
+## Technical Leadership
+
+https://ruthmalan.com/Journal/2019/20190629SlideDocTechnicalLeadershipDecisions.pdf | Microsoft PowerPoint - 20221027SlidesDecisions
+https://ruthmalan.com/Leadership/20240220TechnicalDecisions.pdf | Microsoft PowerPoint - 20240214TechnicalLeadershipDecisions
 -->
 
 <!--
-## Leadership and Product
+## High Performance Orgs
 
-https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
-* Think big
-* Communicate
-* Simplify
-* Prioritize
-* Forecast and measure
-* Execute
-* Understand good design
-* Write effective copy
+https://github.com/pdfernhout/High-Performance-Organizations-Reading-List | pdfernhout/High-Performance-Organizations-Reading-List: Ideas for creating and sustaining high performance organizations
 
-## Product
+## Performance Management
 
-Mind the Product
-https://www.mindtheproduct.com/
-
-## John Cutler
-
-https://twitter.com/johncutlefish
-https://cutlefish.substack.com/
-https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
-https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
-https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
+* [John Doerr, Larry Page: "Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRs"](https://www.amazon.com/dp/B078FZ9SYB)
+* [Louis Gray: "Don't Confuse Effort with Results"](https://blog.louisgray.com/2013/02/dont-confuse-effort-with-results.html)
 
 ## Books
+
+Excellence
+* [Angela Duckworth: Grit](https://angeladuckworth.com/grit-book/)
+* [Bill Walsh: The Score Takes Care of Itself](https://www.amazon.com/dp/B002G54Y04)
 
 Hooked, Indistractible
 https://www.nirandfar.com
@@ -4230,6 +4205,7 @@ Sahil Bloom
 https://www.sahilbloom.com/
 https://taylorpearson.me/free/
 
+
 ## CEOs/Investors
 
 https://blog.samaltman.com/
@@ -4237,6 +4213,9 @@ https://blog.samaltman.com/what-i-wish-someone-had-told-me | What I Wish Someone
 https://twitter.com/BrianJJi/status/1737276638545474012 | Brian Ji on X: "Sam Altman on hard work. https://t.co/qdh7TmUjMh" / X
 
 https://twitter.com/natfriedman/
+
+
+## Paul Graham
 
 http://paulgraham.com/greatwork.html | How to Do Great Work
 https://paulgraham.com/best.html | The Best Essay
@@ -4252,11 +4231,22 @@ http://www.paulgraham.com/makersschedule.html | Maker's Schedule, Manager's Sche
 Part time creator manifesto
 https://twitter.com/jasonleowsg/status/1536836425026371585 | Jason Leow on Twitter: "@valhalla_dev @swyx https://t.co/ZKhij5Bof6" / Twitter
 
+
 ## Carlota Perez and Innovation
 
 https://avc.com/2015/02/the-carlota-perez-framework/ | The Carlota Perez Framework - AVC
 
 https://www.visualcapitalist.com/the-history-of-innovation-cycles/ | Long Waves: The History of Innovation Cycles - Visual Capitalist
+
+## Casey Newton
+
+https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
+https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
+
+
+## Growth Metrics
+
+https://a16z.com/2022/12/14/introducing-a16z-growths-guide-to-growth-metrics/ | Introducing a16z Growth's Guide to Growth Metrics | Andreessen Horowitz
 
 ## Marketing
 
@@ -4266,30 +4256,32 @@ https://www.saasemailmarketing.net/ | SaaS Email Marketing Handbook teaches you 
 
 https://alldjango.com/articles/developer-marketing
 
-## Casey Newton
+## Leadership and Product
 
-https://twitter.com/CaseyNewton | Casey Newton (@CaseyNewton) / Twitter
-https://podcasts.apple.com/us/podcast/hard-fork/id1528594034 | Hard Fork on Apple Podcasts
+https://www.quora.com/Product-Management/What-distinguishes-the-Top-1-of-product-managers-from-the-Top-10/answer/Ian-McAllister | Ian McAllister's answer to What distinguishes the Top 1% of product managers from the Top 10%? - Quora
+* Think big
+* Communicate
+* Simplify
+* Prioritize
+* Forecast and measure
+* Execute
+* Understand good design
+* Write effective copy
+
+## Product
+
+Mind the Product
+https://www.mindtheproduct.com/
+
+## John Cutler
+
+https://twitter.com/johncutlefish
+https://cutlefish.substack.com/
+https://cutlefish.substack.com/p/tbm-240-the-ultimate-guide-to-developer
+https://cutlefish.substack.com/p/tbm-245-the-magic-prioritization
+https://www.linkedin.com/in/johnpcutler/ | (2) John Cutler | LinkedIn
 -->
 
-
-
-
-<!--
-## Conferences
-
-Dev conferences
-https://leaddev.com/
-https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
-
-## Women
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
--->
 
 ## Project Management
 
