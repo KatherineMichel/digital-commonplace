@@ -2739,14 +2739,12 @@ https://www.python.org/psf/annual-report/2022/ | 2022 PSF Annual Report | Python
 https://mailchi.mp/python/psf-nov-15542733 | Python Software Foundation - December 2022 Newsletter
 -->
 
+
 ## Python
 
 Python
 * [Python](https://www.python.org/)
-
-<!--
-https://github.com/python/cpython
--->
+* [CPython GitHub]([https://www.python.org/](https://github.com/python/cpython))
 
 Python News
 * [Python Insider](https://pythoninsider.blogspot.com/)
@@ -2774,6 +2772,7 @@ https://sethmlarson.dev/
 
 https://discuss.python.org/t/announcing-the-python-language-summit-2022-blog-posts/15682 | Announcing the Python Language Summit 2022 blog posts - Core Development - Discussions on Python.org
 -->
+
 
 ## Python Releases
 
@@ -2844,10 +2843,7 @@ https://github.com/python/peps/pull/3786 | PEP 778: Add initial text and reserve
 
 Django
 * [Django](https://www.djangoproject.com/)
-
-<!--
-https://github.com/django/django
--->
+* [Django GitHub](https://github.com/django/django)
 
 Django Announcements
 * [Django Announcements](https://groups.google.com/forum/#!forum/django-announce)
@@ -2884,12 +2880,6 @@ https://docs.djangoproject.com/en/dev/internals/contributing/ | Contributing to 
 
 https://www.djangoproject.com/weblog/2024/mar/22/welcome-our-new-fellow-sarah-boyce/ | Welcome our new Fellow - Sarah Boyce | Weblog | Django
 
-## DEP
-
-https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
-https://github.com/django/deps/pull/86/files | Background workers by RealOrangeOne · Pull Request #86 · django/deps
-https://github.com/RealOrangeOne | RealOrangeOne (Jake Howard)
-https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Django News - DEP 14 (Background Workers) Approved! - kthrnmichel@gmail.com - Gmail
 -->
 
 ## Django Official Roadmap and Versions
@@ -2920,6 +2910,11 @@ https://github.com/django/deps/pulls?q=is%3Apr+is%3Aclosed | Pull requests · dj
 https://www.djangoproject.com/weblog/2024/may/29/django-enhancement-proposal-14-background-workers/ | Django Enhancement Proposal 14: Background Workers | Weblog | Django
 https://github.com/RealOrangeOne/django-tasks | RealOrangeOne/django-tasks: A reference implementation and backport of background workers and tasks in Django
 https://github.com/wagtail/rfcs/pull/72 | RFC 72: Background workers by RealOrangeOne · Pull Request #72 · wagtail/rfcs
+
+https://forum.djangoproject.com/t/steering-council-vote-on-background-tasks-dep-14/31131 | Steering Council vote on Background Tasks DEP 14 - Django Internals - Django Forum
+https://github.com/django/deps/pull/86/files | Background workers by RealOrangeOne · Pull Request #86 · django/deps
+https://github.com/RealOrangeOne | RealOrangeOne (Jake Howard)
+https://mail.google.com/mail/u/0/#inbox/FMfcgzQVwnZmjDbqkLBjVTXCTfjQdzdH | Django News - DEP 14 (Background Workers) Approved! - kthrnmichel@gmail.com - Gmail
 -->
 
 ## Django Feature Roundups
@@ -2967,6 +2962,7 @@ https://www.udemy.com/topic/python-network-programming/ | Learn Python Network P
 Django User Model
 https://fosstodon.org/@wsvincent/112779327176673546
 -->
+
 
 
 <!--
@@ -3581,6 +3577,8 @@ Settings
 Headers
 -->
 
+
+
 <!--
 # Data Science and Open Source
 
@@ -3672,6 +3670,7 @@ https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modern
 
 https://github.com/oliverandrich/django-tailwind-cli | oliverandrich/django-tailwind-cli: Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
 -->
+
 
 <!--
 ## Pallets
