@@ -2525,6 +2525,8 @@ https://daniel.feldroy.com/
 
 https://www.reddit.com/r/Python/comments/1c0jpyj/all_python_conference_talks_from_2023_ordered_by/
 https://docs.google.com/spreadsheets/d/14zNPyGNMDt7ejEHM6c8WpK4hfbmPJmbP1e4N3vM87A8/edit?gid=1618238783#gid=1618238783
+
+https://veldakiara.substack.com
 -->
 
 
@@ -2722,15 +2724,6 @@ https://twitter.com/_tomchristie/status/1256210735056785409
 # Learning Resources
 
 <!--
-## Person
-
-https://veldakiara.substack.com
-
-Django User Model
-https://fosstodon.org/@wsvincent/112779327176673546
-
-
-
 ## Python Learning
 
 https://drive.google.com/file/d/1UkY1Li2u3wUY9bhdaMNmx_f9dAHyNC_P/view | cpython-book-2020-07-27.pdf - Google Drive
@@ -2748,6 +2741,9 @@ https://www.mostlypython.com/django-from-first-principles-part-9/ | Django from 
 
 https://wsvincent.com/books/ | Books - Will Vincent
 https://www.udemy.com/topic/python-network-programming/ | Learn Python Network Programming | Python Network Programming Tutorials
+
+Django User Model
+https://fosstodon.org/@wsvincent/112779327176673546
 -->
 
 <!--
@@ -3025,6 +3021,7 @@ https://snarky.ca/classifying-python-virtual-environment-workflows/ | Classifyin
 https://snarky.ca/mvpy-minimum-viable-python/ | MVPy: Minimum Viable Python
 https://snarky.ca/tag/syntactic-sugar/ | syntactic sugar - Tall, Snarky Canadian
 -->
+
 
 ## Python Articles and Tutorials
 
@@ -3360,59 +3357,10 @@ https://fosstodon.org/@ambv@mastodon.social/112378027421942468 | Łukasz Langa: 
 https://twitter.com/tusharisanerd/status/1723767255974940819 | Tushar Sadhwani on X: "The https://t.co/o4GXUZ5FOv episode on PEP 703 was exactly what I needed to get a deeper understanding of the nogil project. Thanks a lot to @pyblogsal and @llanga for tackling it! I think the detail level of the podcast is just right (if not a bit less 😬) if your podcast..." / X
 
 https://twitter.com/pyblogsal/status/1731404846945706477 | Pablo Galindo Salgado on X: "Colors are coming to CPython exceptions.... 👀 ⚠️ Warning: not a final version - still under experimentation ⚠️ https://t.co/DRNKvPB4T1" / X
+-->
 
-## GIL
 
-https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
-
-## Sub-interpreters
-
-https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
-
-## JiT
-
-https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
-https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
-
-https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
-https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
-https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
-https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
-https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
-https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
-https://llvm.org/ | The LLVM Compiler Infrastructure Project
-
-## Anthony Shaw
-
-https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
-
-https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
-https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
-https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
-
-https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
-https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
-
-https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
-
-## Threads and Multi processing
-
-https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
-https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
-
-## Free-threaded example
-
-https://x.com/HenrySchreiner3/status/1796748354736505101 | Henry Schreiner III on X: "I released scikit-build-core 0.9.5, which supports free-threaded Python 3.13 on Windows now too! Added a free threaded example using cibuildwheel to the sample repo. https://t.co/NFsbzTMdnM" / X
-
-## Fix Python
-
-https://github.com/faster-cpython/ | faster-cpython
-
-https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
-
+<!--
 # Security
 
 ## Seth Michael Larson
@@ -3448,23 +3396,23 @@ https://training.linuxfoundation.org/express-learning/automating-supply-chain-se
 
 https://github.blog/changelog/2024-05-02-artifact-attestations-public-beta/ | Artifact Attestations public beta - The GitHub Blog
 https://www.ianlewis.org/en/understanding-github-artifact-attestations | Understanding GitHub Artifact Attestations | Ian Lewis
-
-
-## Python Packaging
-
-https://www.pyopensci.org/python-package-guide/ | pyOpenSci Python Package Guide — Python Packaging Guide
-https://github.com/pyOpenSci/python-package-guide
-https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 8,000 most-downloaded packages from PyPI
-
-Python Package Manager Shootout
-https://lincolnloop.github.io/python-package-manager-shootout/ | Python Package Manager Shootout
-
-Top 5
-https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
 -->
 
+
 <!--
-# Tools
+# Experimental Tools
+
+## ASGI
+
+https://fly.io/django-beats/asgi-deployment-options-for-django/ | ASGI deployment options for Django · Django Beats
+
+## Pydantic
+
+https://blog.pydantic.dev/blog
+https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
+https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
+https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
+https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
 
 ## Astral
 
@@ -3477,7 +3425,6 @@ https://www.youtube.com/watch?v=_FdjW47Au30 | (85) Is UV the FUTURE of Python PA
 https://www.youtube.com/watch?v=XzW4-KEB664 | (243) my thoughts on ruff - YouTube
 https://realpython.com/ruff-python/ | Ruff: A Modern Python Linter for Error-Free and Maintainable Code – Real Python
 
-
 ## Python and Rust
 
 https://www.rust-lang.org/ | Rust Programming Language
@@ -3488,23 +3435,14 @@ https://opensource.com/article/23/3/python-loves-rust | Why you should use Pytho
 https://timclicks.dev/ | timClicks — Learn the rust programming language creatively with Tim McNamara - timClicks (Tim McNamara)
 https://blog.yossarian.net/2020/08/02/Writing-and-publishing-a-python-module-in-rust | Writing and publishing a Python module in Rust
 
+## Py03
 
-## DjangoCon Europe Sphinx Talk
+https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
+https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
 
-https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
+## PyOxidizer
 
-## Pallets
-
-https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
-
-## Time
-
-https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
-https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
-https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
-
-
-# Experimental Tools
+https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
 
 ## Mojo
 
@@ -3519,33 +3457,136 @@ https://twitter.com/abhi9u/status/1684962764115308545 | Abhinav Upadhyay on Twit
 ## Wasmer
 
 https://wasmer.io/posts/py2wasm-a-python-to-wasm-compiler | Announcing py2wasm: A Python to Wasm compiler · Blog · Wasmer
+-->
 
-## ASGI
+## Python and Django Testing
 
-https://fly.io/django-beats/asgi-deployment-options-for-django/ | ASGI deployment options for Django · Django Beats
+Testing
+* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
+* [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
 
-## Py03
+<!--
+## pytest-django
 
-https://pyo3.rs/v0.22.0/ | Introduction - PyO3 user guide
-https://github.com/PyO3/pyo3 | PyO3/pyo3: Rust bindings for the Python interpreter
-
-## PyOxidizer
-
-https://github.com/indygreg/PyOxidizer | indygreg/PyOxidizer: A modern Python application packaging and distribution tool
-
-## Pydantic
-
-https://blog.pydantic.dev/blog
-https://docs.pydantic.dev/latest/changelog/#v240-2023-09-22 | Changelog - Pydantic
-https://docs.pydantic.dev/latest/ | Welcome to Pydantic - Pydantic
-https://pydantic.dev/about | Pydantic | Meet the creators of Pydantic and Logfire
-https://rive.app/ | Rive - Build interactive motion graphics that run anywhere
-
-## Towncrier
-
-https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+pytest-django (plugin)
+https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
+https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
+https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
 
 
+## Testing
+
+https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
+https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
+
+https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
+
+https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
+
+https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
+https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
+https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
+
+
+
+https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
+
+Speed Up Your Django Tests
+
+David Winterbottom on tests
+https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987
+
+https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | DjangoCon US
+
+https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
+https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
+
+https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
+
+https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
+-->
+
+## Performance
+
+<!--
+## Debugger
+
+https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
+
+## Profiling
+
+https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
+
+https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
+
+Cardinality
+https://en.wikipedia.org/wiki/Cardinality
+https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
+-->
+
+<!--
+## Python/Django Standards
+
+https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
+https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+
+https://hynek.me/articles/ditch-codecov-python/
+
+## Django Style Guides
+
+https://dev.to/hugovk/tech-style-guides-mg1 | Tech style guides - DEV Community
+
+https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
+
+https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
+
+https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
+
+## DjangoCon Europe Sphinx Talk
+
+https://twitter.com/KojoIdrissa/status/1400354425651306496 | twitter.com/KojoIdrissa/status/1400354425651306496
+
+## Docs
+
+Diátaxis
+https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework | What is Diátaxis and should you be using it with your documentation? | I'd Rather Be Writing Blog and API doc course
+-->
+
+## Python and Django Profiling
+
+Debugging and Profiling
+* [Django Shell Plus](https://django-extensions.readthedocs.io/en/latest/shell_plus.html)
+* [pdb](https://docs.python.org/3/library/pdb.html)
+* [ipdb GitHub](https://github.com/gotcha/ipdb)
+* [iPython](http://ipython.org/)
+
+<!--
+Django Shell Plus
+https://django-extensions.readthedocs.io/en/latest/list_model_info.html | list_model_info — django-extensions 3.1.2 documentation
+https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
+https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
+
+https://pypi.org/project/ipdb/ | ipdb · PyPI
+-->
+
+Django Debug Toolbar and Panel
+* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
+* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
+* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
+
+<!--
+https://django-debug-toolbar.readthedocs.io/en/latest/panels.html
+Request
+SQL
+Template
+
+History
+Settings
+Headers
+-->
+
+<!--
 # Data Science and Open Source
 
 ## Numpy Release
@@ -3569,6 +3610,7 @@ https://labs.quansight.org/blog/labs-annual-report-2023 | Quansight Labs Annual 
 
 https://www.allendowney.com/blog/2024/01/12/probably-overthinking-it-notebooks/ | Probably Overthinking It Notebooks – Probably Overthinking It
 -->
+
 
 <!--
 # Examples
@@ -3634,16 +3676,34 @@ https://github.com/rhettinger/modernpython/blob/master/pubsub/webapp.py | modern
 ## Django Tailwind ClI
 
 https://github.com/oliverandrich/django-tailwind-cli | oliverandrich/django-tailwind-cli: Django and Tailwind integration based on the prebuilt Tailwind CSS CLI.
+-->
 
-# Diversity
+<!--
+## Pallets
 
-## Djangonaut Space
+https://davidism.com/state-of-pallets-2024/ | State of Pallets 2024 | David Lord
 
-https://www.linkedin.com/company/djangonaut-space/about/ | Djangonaut Space: About | LinkedIn
-https://www.linkedin.com/company/djangonaut-space/posts/?feedView=all | Djangonaut Space: Posts | LinkedIn
-https://twitter.com/djangonautspace/
-https://github.com/djangonaut-space/program/blob/main/README.md | program/README.md at main · djangonaut-space/program
-https://www.youtube.com/@Djangonaut-Views | (66) Djangonaut Views - YouTube
+## Time
+
+https://pganssle-talks.github.io/pycon-us-2023-timezones/#/ | Working with Time Zones: Everything You Wish You Didn't Need to Know (zoneinfo edition)
+https://pganssle.github.io/pybay-2017-timezones-talk/#/ | timezone_troubles slides
+https://blog.ganssle.io/articles/2018/02/aware-datetime-arithmetic.html | Semantics of timezone-aware datetime arithmetic
+
+## Towncrier
+
+https://github.com/twisted/towncrier | twisted/towncrier: Manage the release notes for your project.
+
+## Python Packaging
+
+https://www.pyopensci.org/python-package-guide/ | pyOpenSci Python Package Guide — Python Packaging Guide
+https://github.com/pyOpenSci/python-package-guide
+https://hugovk.github.io/top-pypi-packages/ | Top PyPI Packages: A monthly dump of the 8,000 most-downloaded packages from PyPI
+
+Python Package Manager Shootout
+https://lincolnloop.github.io/python-package-manager-shootout/ | Python Package Manager Shootout
+
+Top 5
+https://forum.djangoproject.com/t/top-5-3rd-party-packages/391/2 | Top 5 3rd party packages - Show & Tell - Django Forum
 -->
 
 <!--
@@ -3683,6 +3743,16 @@ https://developer.gs.com/discover/open-source | Goldman Sachs Open Source - Gold
 -->
 
 <!--
+# Diversity
+
+## Djangonaut Space
+
+https://www.linkedin.com/company/djangonaut-space/about/ | Djangonaut Space: About | LinkedIn
+https://www.linkedin.com/company/djangonaut-space/posts/?feedView=all | Djangonaut Space: Posts | LinkedIn
+https://twitter.com/djangonautspace/
+https://github.com/djangonaut-space/program/blob/main/README.md | program/README.md at main · djangonaut-space/program
+https://www.youtube.com/@Djangonaut-Views | (66) Djangonaut Views - YouTube
+
 ## Django Accessibility
 
 https://www.djangoproject.com/weblog/2024/feb/10/django-accessibility-in-2023-and-beyond/ | Django accessibility in 2023 and beyond | Weblog | Django
@@ -3701,113 +3771,10 @@ https://docs.djangoproject.com/en/5.0/internals/contributing/localizing/#transla
 https://forum.djangoproject.com/t/request-to-join-swahili-team/25553/2 | Request To Join Swahili Team - Django Internals / Internationalization - Django Forum
 -->
 
-
-## Python and Django Testing
-
-Testing
-* [pytest](http://pytest.org) and [pytest Docs](https://docs.pytest.org/en/latest)
-* [pytest-django PyPI](https://pypi.python.org/pypi/pytest-django) and [pytest-django Read the Docs](http://pytest-django.readthedocs.org)
-
-<!--
-## pytest-django
-
-pytest-django (plugin)
-https://pytest-django.readthedocs.io/en/latest/database.html | Database creation/re-use — pytest-django documentation
-https://readthedocs.org/projects/pytest-django/downloads/pdf/latest/
-https://www.youtube.com/watch?v=L5jWFU2sVXQ | Writing your first Django test using pytest-django - YouTube
-
-
-## Testing
-
-https://testdriven.io/guides/complete-python/ | The Complete Python Development Guide | TestDriven.io
-https://twitter.com/testdrivenio | TestDriven.io (@testdrivenio) / Twitter
-
-https://testdriven.io/blog/modern-tdd/ | Modern Test-Driven Development in Python | TestDriven.io
-
-https://testdriven.io/blog/python-environments/ | Modern Python Environments - dependency and workspace management | TestDriven.io
-
-https://realpython.com/python-testing/ | Getting Started With Testing in Python – Real Python
-https://realpython.com/python-assert-statement/ | Python's assert: Debug and Test Your Code Like a Pro – Real Python
-https://realpython.com/pytest-python-testing/ | Effective Python Testing With Pytest – Real Python
-
-
-
-https://www.bitecode.dev/p/testing-with-python-part-7-until | Testing with Python (part 7): ...until you make it
-
-Speed Up Your Django Tests
-
-David Winterbottom on tests
-https://gist.github.com/codeinthehole/9193c53f16371ec38cebc97aa1abf987
-
-https://2017.djangocon.us/talks/keynote-2/ | Keynote - Testing in Django | DjangoCon US
-
-https://blog.thea.codes/my-python-testing-style-guide/ | My Python testing style guide - Stargirl (Thea) Flowers
-https://docs.python-guide.org/writing/tests/ | Testing Your Code — The Hitchhiker's Guide to Python
-
-https://twitter.com/mistwire/status/1687923466521948160 | Chris Williams on Twitter: "An amazing @vBrownBag this week with author @ehmatthes: "Sleep Better By Writing #Python Tests" Thanks for coming on Eric, @GiftedLane, @rogerkwhite1 , &amp; I had a blast! https://t.co/1EKQZW9sKG" / X
-
-https://adamj.eu/tech/2024/06/23/django-test-pending-migrations/ | Django: Test for pending migrations - Adam Johnson
--->
-
-
-## Performance
-
-<!--
-## Debugger
-
-https://www.nnja.io/post/2019/pycon-australia-2019-goodbye-print-hello-debugger/ | Goodbye Print Hello Debugger at Pycon Australia 2019 - Nina Zakharenko
-
-## Profiling
-
-https://realpython.com/python-profiling/ | Profiling in Python: How to Find Performance Bottlenecks – Real Python
-
-https://en.wikipedia.org/wiki/Cyclomatic_complexity | Cyclomatic complexity - Wikipedia
-
-Cardinality
-https://en.wikipedia.org/wiki/Cardinality
-https://twitter.com/simonw/status/1370541425465520130 | Simon Willison on Twitter: ""It is a LOT easier to scale code from a cardinality of 2 to 3 than it is to refactor from a cardinality of 1 to 2."" / Twitter
--->
-
-## Python and Django Profiling
-
-Debugging and Profiling
-* [Django Shell Plus](https://django-extensions.readthedocs.io/en/latest/shell_plus.html)
-* [pdb](https://docs.python.org/3/library/pdb.html)
-* [ipdb GitHub](https://github.com/gotcha/ipdb)
-* [iPython](http://ipython.org/)
-
-<!--
-Django Shell Plus
-https://django-extensions.readthedocs.io/en/latest/list_model_info.html | list_model_info — django-extensions 3.1.2 documentation
-https://django-extensions.readthedocs.io/en/latest/shell_plus.html | shell_plus — django-extensions 3.0.8 documentation
-https://github.com/django-extensions/django-extensions | django-extensions/django-extensions: This is a repository for collecting global custom management extensions for the Django Framework.
-
-https://pypi.org/project/ipdb/ | ipdb · PyPI
--->
-
-Django Debug Toolbar and Panel
-* [Django Debug Toolbar PyPi](https://pypi.python.org/pypi/django-debug-toolbar) 
-* [Django Debug Panel GitHub](https://github.com/recamshak/django-debug-panel) and [Django Debug Panel Chrome Web Store](https://chrome.google.com/webstore/detail/django-debug-panel/nbiajhhibgfgkjegbnflpdccejocmbbn)
-* [Django Debug Toolbar Read the Docs](http://django-debug-toolbar.readthedocs.org) and [Django Debug Toolbar GitHub](https://github.com/jazzband/django-debug-toolbar)
-
-<!--
-https://django-debug-toolbar.readthedocs.io/en/latest/panels.html
-Request
-SQL
-Template
-
-History
-Settings
-Headers
--->
-
 ## Quality Tools
 
 <!--
-## Python/Django Standards
-
-https://www.bitecode.dev/p/you-are-comfy-with-python-basics | Comfy with Python basic tooling, now what? - Bite code!
-https://www.bitecode.dev/p/intro-to-pdb-the-python-debugger?sd=pf | Intro to PDB, the Python Debugger
+## Tools and Tools Matrix
 
 https://406.ch/writing/how-ruff-changed-my-python-programming-habits/
 https://406.ch/writing/composition-over-inheritance-the-case-for-function-based-views/ | Composition over inheritance: The case for function-based views - Matthias Kestenholz
@@ -3816,30 +3783,12 @@ https://406.ch/writing/flake8-and-value-standards/ | flake8 and the value of sta
 https://pramodkumbhar.com/2019/05/summary-of-python-profiling-tools-part-i/ | Summary Of Python Profiling Tools – Part I - Performance Engineering
 https://pramodkumbhar.com/2017/04/summary-of-profiling-tools/ | More than 90 Profiling Tools for Desktop to Larget Supercomputers
 
-https://hynek.me/articles/ditch-codecov-python/
-
-## Django Style Guides
-
-https://dev.to/hugovk/tech-style-guides-mg1 | Tech style guides - DEV Community
-
-https://google.github.io/styleguide/pyguide.html | styleguide | Style guides for Google-originated open-source projects
-
-https://github.com/HackSoftware/Django-Styleguide | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-https://github.com/HackSoftware/Django-Styleguide#services | HackSoftware/Django-Styleguide: Django styleguide used in HackSoft projects
-
-https://github.com/wemake-services/wemake-python-styleguide | wemake-services/wemake-python-styleguide: The strictest and most opinionated python linter ever!
-
-## Docs
-
-Diátaxis
-https://idratherbewriting.com/blog/what-is-diataxis-documentation-framework | What is Diátaxis and should you be using it with your documentation? | I'd Rather Be Writing Blog and API doc course
-
-## Tools Matrix
 
 https://twitter.com/nletcher/status/1487782511543746565 | nedned on Twitter: "ok here's a revised version of the feature matrix of tools for #python project wrangling. thanks so much for all the feedback and suggestions. keep it coming if you have more! now I gotta write some words to go with it. https://t.co/iKRAHKvkWn" / X
 
 
 https://pre-commit.com/ | pre-commit
+
 
 ## Type Hinting
 
@@ -3855,6 +3804,59 @@ Python 3 supports an annotation syntax for function declarations.
 https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html#functions
 -->
 
+<!--
+## GIL
+
+https://realpython.com/python-gil/ | What Is the Python Global Interpreter Lock (GIL)? – Real Python
+
+## Sub-interpreters
+
+https://realpython.com/python312-subinterpreters/#changes-to-the-global-state-and-the-gil | Python 3.12 Preview: Subinterpreters – Real Python
+
+## JiT
+
+https://en.wikipedia.org/wiki/Just-in-time_compilation | Just-in-time compilation - Wikipedia
+https://github.com/brandtbucher/specialist | brandtbucher/specialist: Visualize CPython's specializing, adaptive interpreter. :fire:
+
+https://docs.python.org/3.13/whatsnew/3.13.html#whatsnew313-jit-compiler | What’s New In Python 3.13 — Python 3.13.0b3 documentation
+https://peps.python.org/pep-0744/ | PEP 744 – JIT Compilation | peps.python.org
+https://github.com/python/cpython/pull/113465 | GH-113464: A copy-and-patch JIT compiler by brandtbucher · Pull Request #113465 · python/cpython
+https://www.youtube.com/watch?v=shQtrn1v7sQ | Talks - Brandt Bucher: Inside CPython 3.11's new specializing, adaptive interpreter - YouTube
+https://www.youtube.com/watch?app=desktop&v=HxSHIpEQRjs | (231) Brandt Bucher – A JIT Compiler for CPython - YouTube
+https://sillycross.github.io/2023/05/12/2023-05-12/ | Building a baseline JIT for Lua automatically |
+https://llvm.org/ | The LLVM Compiler Infrastructure Project
+
+## Anthony Shaw
+
+https://fosstodon.org/@tonybaloney/111679563130961018 | Anthony Shaw :python:: "I'll be live in a minute explo…" - Fosstodon
+
+https://tonybaloney.github.io/posts/python-gets-a-jit.html | Python 3.13 gets a JIT
+https://twitter.com/anthonypjshaw/status/1742040883422429507 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "FWIW Pyjion would JIT compile the demo function in the video down to about 50 machine-code instructions compared with the ~1000 shown and unbox most of the stack into native integers (running much much faster). BUT this is a toy function and looks nothing like real code, so 💁‍♂️ https://t.co/eyxzEb9CGy" / X
+https://twitter.com/anthonypjshaw/status/1741742215310016529 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "Here's a quick dive into the code for this new CPython JIT and (kinda) how it works. I'm still trying to work out some of the bits but this is a quick intro https://t.co/xeeKqo9KXJ" / X
+
+https://gist.github.com/tonybaloney/24d545ed855a3c90f844209152835f07 | PyCon US 2024 Talk Notes
+https://tonybaloney.github.io/posts/sub-interpreter-web-workers.html | Running Python Parallel Applications with Sub Interpreters
+
+https://twitter.com/anthonypjshaw/status/1726753935556517971 | Anthony Shaw 🇦🇺🤝🇺🇦 on X: "I'm going to live stream some CPython 3.13 core stuff in an hour. If you're interested in no-GIL, sub interpreters then check in https://t.co/8U8WvFXUkG live Q&amp;A" / X
+
+## Threads and Multi processing
+
+https://docs.python.org/3/library/threading.html#semaphore-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#lock-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#barrier-objects | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/threading.html#module-threading | threading — Thread-based parallelism — Python 3.12.4 documentation
+https://docs.python.org/3/library/multiprocessing.html | multiprocessing — Process-based parallelism — Python 3.12.4 documentation
+
+## Free-threaded example
+
+https://x.com/HenrySchreiner3/status/1796748354736505101 | Henry Schreiner III on X: "I released scikit-build-core 0.9.5, which supports free-threaded Python 3.13 on Windows now too! Added a free threaded example using cibuildwheel to the sample repo. https://t.co/NFsbzTMdnM" / X
+
+## Fix Python
+
+https://github.com/faster-cpython/ | faster-cpython
+
+https://twitter.com/AlSweigart/status/1575935484672741376 | Al Sweigart on Twitter: "How to fix Python: 1. Strings should be mutable. 2. Use 1-based indexing instead of 0-based indexing. 3. Make the multiplication operator x instead of *. 4. F-strings are too complicated; just use concatenation with the + operator. What are some other ways we can fix Python?" / Twitter
+-->
 
 
 ## Git
