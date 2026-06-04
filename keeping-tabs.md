@@ -2749,8 +2749,12 @@ Python
 Python News
 * [Python Insider](https://pythoninsider.blogspot.com/)
 
+Python Security News
+* [PyPI Blog](https://blog.pypi.org/)
+* [Seth Larson](https://sethmlarson.dev/)
+
 <!--
-* [Pythonic News](https://news.python.sc/)
+https://web.archive.org/web/20210806030624/https://news.python.sc/?p=0
 -->
 
 <!--
@@ -2765,8 +2769,12 @@ https://discuss.python.org/c/core-dev/23 | Latest Core Development topics - Disc
 ## Python Core
 
 Python Language Summit and Python Core Dev Sprint
+
 PEPs/DEPs
-https://sethmlarson.dev/
+https://peps.python.org/
+https://peps.python.org/#open-peps-under-consideration
+https://peps.python.org/#accepted-peps-accepted-may-not-be-implemented-yet
+https://peps.python.org/#finished-peps-done-with-a-stable-interface
 
 ## Language Summit
 
