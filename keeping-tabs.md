@@ -1,6 +1,21 @@
 # Keeping Tabs
 
 <!--
+https://www.meetup.com/find/
+https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
+https://www.meetup.com/find/?location=us--tx--Plano&source=EVENTS
+https://www.meetup.com/find/?location=us--tx--Frisco&source=EVENTS
+https://www.meetup.com/find/?location=us--ks--Kansas+City&source=EVENTS
+
+https://www.eventbrite.com/d/ks--lawrence/all-events/
+https://www.eventbrite.com/d/tx--plano/all-events/
+https://www.eventbrite.com/d/tx--frisco/all-events/
+https://www.eventbrite.com/d/ks--kansas-city/all-events/
+
+https://www.python.org/events/
+https://github.com/python-organizers/conferences/blob/main/2026.csv
+https://www.meetup.com/pro/python-software-foundation-meetups/
+
 https://github.com/KatherineMichel/digital-commonplace
 https://github.com/KatherineMichel/links
 
