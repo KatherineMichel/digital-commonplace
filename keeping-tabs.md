@@ -1,6 +1,9 @@
 # Keeping Tabs
 
 <!--
+Distributed System Articles
+https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
+
 https://www.meetup.com/find/
 https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
 https://www.meetup.com/find/?location=us--tx--Plano&source=EVENTS
