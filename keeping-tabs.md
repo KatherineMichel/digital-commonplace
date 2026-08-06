@@ -75,6 +75,8 @@ PyCon US 2026
 https://www.youtube.com/@pyconus
 https://www.youtube.com/watch?v=LIEsWtEUxrQ&list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
 https://us.pycon.org/2026/schedule/
+https://bernat.tech/posts/pycon-us-2026-packaging-summit-recap/
+https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/
 
 PyCon Italia 2026
 https://www.youtube.com/@PythonItalia/videos
@@ -91,6 +93,7 @@ https://pycon.sg/schedule.html
 EuroPython 2026
 https://www.youtube.com/EuroPythonConference
 https://ep2026.europython.eu/schedule/#day-2026-07-13
+https://ep2026.europython.eu/language-summit/
 
 SciPy 2026
 https://www.youtube.com/@SciPy-Conf/videos
