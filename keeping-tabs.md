@@ -1,8 +1,14 @@
 # Keeping Tabs
 
 <!--
+https://lawrence.bibliocommons.com/v2/events
+https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
+
 Distributed System Articles
 https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
+
+https://www.pytexas.org/2026/schedule/#sunday
+https://ep2026.europython.eu/schedule/#day-2026-07-13
 
 https://www.meetup.com/find/
 https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
@@ -18,6 +24,63 @@ https://www.eventbrite.com/d/ks--kansas-city/all-events/
 https://www.python.org/events/
 https://github.com/python-organizers/conferences/blob/main/2026.csv
 https://www.meetup.com/pro/python-software-foundation-meetups/
+
+
+PyConf Hyderabad 2026
+
+PyCascades 2026
+https://www.youtube.com/@PyCascades
+https://www.youtube.com/watch?v=-G38kpcbkR4&list=PLcNrB7gPa-NeyTIFSdtjnREcW6X9uxwsN
+
+PythonAsia 2026
+https://www.youtube.com/@PythonPH
+https://www.youtube.com/playlist?list=PLCBCxsuKTqkCJyfFur_0pN4s-Pz49yNTr
+
+PyCon Lithuania 2026
+https://www.youtube.com/@pyconlithuania1337
+https://www.youtube.com/watch?v=6zQTQ4iVaKg&list=PL5gYhWvxDgAE7IzsOWJIcFXoglbhvcg0l
+
+PyCon DE & PyData 2026
+https://www.youtube.com/pyconde
+https://www.youtube.com/watch?v=t0ZWNh-UXDs&list=PLefagiT9A8tA
+
+PyTexas 2026
+https://www.youtube.com/pytexas
+
+Warsaw Python Pizza 2026
+https://www.youtube.com/@PythonPizza
+
+PyCon US 2026
+https://www.youtube.com/@pyconus
+https://www.youtube.com/watch?v=LIEsWtEUxrQ&list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
+
+PyCon Italia 2026
+https://www.youtube.com/@PythonItalia/videos
+
+GeoPython 2026
+https://www.youtube.com/c/GeoPythonConference
+
+PyCon Singapore 2026
+https://www.youtube.com/playlist?list=PLWJHJuy2_bRLoK2LdD4k8r-P1r2OCWHvc
+
+EuroPython 2026
+https://www.youtube.com/EuroPythonConference
+
+SciPy 2026
+https://www.youtube.com/@SciPy-Conf/videos
+
+EuroSciPy 2026
+https://www.youtube.com/@EuroSciPy
+
+Black Python Devs Leadership Summit 2026
+https://www.youtube.com/@blackpythondevs
+
+PyCon Colombia 2026
+https://www.youtube.com/pyconcolombia
+
+PyOhio 2026
+https://www.youtube.com/c/PyOhio
+
 
 https://github.com/KatherineMichel/digital-commonplace
 https://github.com/KatherineMichel/links
