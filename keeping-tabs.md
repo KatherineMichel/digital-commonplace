@@ -3,18 +3,34 @@
 <!--
 https://lawrence.bibliocommons.com/v2/events
 https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
+https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
+https://www.eventbrite.com/d/ks--lawrence/all-events/
+
+
+Big Book of Computing Pedagody 
+https://x.com/sheena_oconnell/status/2084942620175093836
+https://guildofeducators.org/join_us
+https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
+
+
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.16/whatsnew/3.16.html
+
+
+https://realpython.com/
+https://www.youtube.com/@realpython
+https://www.youtube.com/@PythonMorsels/videos
+
 
 Distributed System Articles
 https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
 
 
 https://www.meetup.com/find/
-https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
 https://www.meetup.com/find/?location=us--tx--Plano&source=EVENTS
 https://www.meetup.com/find/?location=us--tx--Frisco&source=EVENTS
 https://www.meetup.com/find/?location=us--ks--Kansas+City&source=EVENTS
 
-https://www.eventbrite.com/d/ks--lawrence/all-events/
 https://www.eventbrite.com/d/tx--plano/all-events/
 https://www.eventbrite.com/d/tx--frisco/all-events/
 https://www.eventbrite.com/d/ks--kansas-city/all-events/
