@@ -1,6 +1,29 @@
 # Keeping Tabs
 
 <!--
+https://github.com/KatherineMichel/digital-commonplace
+https://github.com/KatherineMichel/links
+
+https://github.com/KatherineMichel/organizations
+
+https://github.com/KatherineMichel/pythonic-code
+
+https://github.com/KatherineMichel/caching-learning-notes
+https://github.com/KatherineMichel/ai-learning-notes
+
+https://github.com/KatherineMichel/high-scalability
+https://github.com/KatherineMichel/software-architecture-and-design-patterns
+
+https://github.com/KatherineMichel/contacts
+https://github.com/KatherineMichel/event-resources
+
+https://github.com/KatherineMichel/travel
+
+https://github.com/KatherineMichel/portfolio
+https://github.com/KatherineMichel/KatherineMichel
+https://github.com/KatherineMichel/personal-organization
+
+
 ## Priority Learning
 
 https://valkey.io/
