@@ -7,8 +7,6 @@ https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubActi
 Distributed System Articles
 https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
 
-https://www.pytexas.org/2026/schedule/#sunday
-https://ep2026.europython.eu/schedule/#day-2026-07-13
 
 https://www.meetup.com/find/
 https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
@@ -27,59 +25,76 @@ https://www.meetup.com/pro/python-software-foundation-meetups/
 
 
 PyConf Hyderabad 2026
+https://2026.pyconfhyd.org/schedule
 
 PyCascades 2026
 https://www.youtube.com/@PyCascades
 https://www.youtube.com/watch?v=-G38kpcbkR4&list=PLcNrB7gPa-NeyTIFSdtjnREcW6X9uxwsN
+https://2026.pycascades.com/program/schedule/
 
 PythonAsia 2026
 https://www.youtube.com/@PythonPH
 https://www.youtube.com/playlist?list=PLCBCxsuKTqkCJyfFur_0pN4s-Pz49yNTr
+https://pretalx.com/python-asia-2026/schedule/
 
 PyCon Lithuania 2026
 https://www.youtube.com/@pyconlithuania1337
 https://www.youtube.com/watch?v=6zQTQ4iVaKg&list=PL5gYhWvxDgAE7IzsOWJIcFXoglbhvcg0l
+https://pycon.lt/2026/schedule
 
 PyCon DE & PyData 2026
 https://www.youtube.com/pyconde
 https://www.youtube.com/watch?v=t0ZWNh-UXDs&list=PLefagiT9A8tA
+https://pretalx.com/pyconde-pydata-2026/schedule/
 
 PyTexas 2026
 https://www.youtube.com/pytexas
+https://www.pytexas.org/2026/schedule/#sunday
 
 Warsaw Python Pizza 2026
 https://www.youtube.com/@PythonPizza
+https://warsaw.python.pizza/compact-agenda/
 
 PyCon US 2026
 https://www.youtube.com/@pyconus
 https://www.youtube.com/watch?v=LIEsWtEUxrQ&list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
+https://us.pycon.org/2026/schedule/
 
 PyCon Italia 2026
 https://www.youtube.com/@PythonItalia/videos
+https://2026.pycon.it/en/schedule/2026-05-27?view=grid
 
 GeoPython 2026
 https://www.youtube.com/c/GeoPythonConference
+https://2026.geopython.net/
 
 PyCon Singapore 2026
 https://www.youtube.com/playlist?list=PLWJHJuy2_bRLoK2LdD4k8r-P1r2OCWHvc
+https://pycon.sg/schedule.html
 
 EuroPython 2026
 https://www.youtube.com/EuroPythonConference
+https://ep2026.europython.eu/schedule/#day-2026-07-13
 
 SciPy 2026
 https://www.youtube.com/@SciPy-Conf/videos
+https://www.scipy2026.scipy.org/schedule
 
 EuroSciPy 2026
 https://www.youtube.com/@EuroSciPy
+https://euroscipy.org/schedule/
 
 Black Python Devs Leadership Summit 2026
 https://www.youtube.com/@blackpythondevs
+https://blackpythondevs.com/bpd-events/black-python-devs-leadership-summit-2026-ohio.html
 
 PyCon Colombia 2026
 https://www.youtube.com/pyconcolombia
+https://2026.pycon.co/schedule/
 
 PyOhio 2026
 https://www.youtube.com/c/PyOhio
+https://www.pyohio.org/2026/program/schedule/
 
 
 https://github.com/KatherineMichel/digital-commonplace
