@@ -1,6 +1,100 @@
 # Keeping Tabs
 
 <!--
+Big Book of Computing Pedagody 
+https://x.com/sheena_oconnell/status/2084942620175093836
+https://guildofeducators.org/join_us
+https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
+
+
+https://discord.com/invite/python/login
+https://discord.com/channels/1269651101628629063/1282666268947906653
+
+
+Events
+https://www.djangoproject.com/community/local/
+https://www.youtube.com/@BlackPythonDevs/videos
+
+https://x.com/PajosTM/status/2041961412050780639
+
+https://gvanrossum.github.io/interviews/index.html
+https://archive.computerhistory.org/resources/access/text/2018/07/102738761-05-01-acc.pdf
+https://www.computerhistory.org/collections/catalog/102738720/
+
+https://pyfound.blogspot.com/2026/05/strategic-planning-at-psf.html
+https://pyfound.blogspot.com/2025/10/connecting-the-dots.html
+https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/
+https://mikefisher.substack.com/p/you-cant-fake-belonging
+https://fosstodon.org/@frank@frankwiles.social/116621522089962788
+
+https://2i2c.org/blog/czi-retrospective/
+https://newsroom.arm.com/blog/how-the-python-software-foundation-future-proofed-its-infrastructure-with-arm
+https://www.djangoproject.com/weblog/2026/apr/16/new-technical-governance-request-for-community-fee/
+https://anweshadas.in/cra-stewarship-in-ansible-project/
+
+https://blog.python.org/2026/03/cpython-codebase-growth/
+https://gvanrossum.github.io/interviews/ThomasWouters.html
+https://gvanrossum.github.io/interviews/index.html
+
+https://hugovk.dev/blog/2026/faster-pillow
+
+https://veldakiara.com/
+https://prelude.tech/
+https://kjaymiller.com/blog/using-ai-to-consider-the-options.html
+
+https://osf.io/preprints/psyarxiv/xrm5w_v2
+
+https://jvns.ca/blog/2026/07/21/more-nice-django-things/
+https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/
+
+https://noumenal.es/posts/running-django-main/O2x/
+
+https://github.com/jefftriplett/django-startproject
+https://github.com/wsvincent/django-hello-world
+
+https://www.django-antipatterns.com/
+https://www.django-rapid-architecture.org/
+https://corgea.com/learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers
+https://wsvincent.com/deploying-web-apps-in-2026/
+
+https://www.youtube.com/watch?v=j0cLwyChYOQ
+https://www.youtube.com/watch?v=yyX0QoUzoE4
+
+https://x.com/djangoproject/status/1969360719000060143
+https://www.better-simple.com/django/2025/11/03/updated-debug-tutorial/
+
+https://www.better-simple.com/lunch-talks/2026/05/28/async-django/
+https://engineering.kraken.tech/news/2026/01/12/using-django-async.html
+
+https://x.com/djangoproject/status/1969360719000060143
+https://theorangeone.net/posts/django-dot-tasks-exists/
+https://www.better-simple.com/django/2026/05/06/using-django-tasks-in-production
+
+https://adamj.eu/tech/2026/01/29/django-profile-memray
+https://adamj.eu/tech/2026/07/22/introducing-django-crawl/
+
+https://wagtail.org/blog/the-1000-most-popular-django-packages/
+https://learndjango.com/tutorials/20-django-packages-i-use-every-project
+https://alldjango.com/articles/essential-django-packages
+https://medium.com/@marcnealer/10-libraries-for-django-projects-04d6ea4c0370
+
+https://django-ninja.dev/
+https://github.com/vitalik/django-ninja
+https://github.com/dj-bolt/django-bolt
+https://www.youtube.com/watch?v=Pukr-fT4MFY
+https://github.com/dj-bolt/django-bolt/discussions/197
+https://www.caktusgroup.com/blog/2026/04/27/django-bolt-easy-pydanticai-streaming
+https://www.youtube.com/watch?v=hp4V6dy5rLg&t=7s
+https://dzone.com/articles/fastapi-django-hybrid-stack
+https://www.david-dahan.com/blog/10-reasons-i-stick-to-django?utm_source=django-news-newsletter&utm_medium=email&utm_campaign=django-504-bugfix-release
+
+https://dev.to/mongodb/build-a-task-manager-with-django-mongodb-backend-5hd3
+
+https://testautomationu.applitools.com/
+https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html
+https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html
+
+
 DB-Engines Ranking
 https://db-engines.com/en/ranking
 
@@ -70,11 +164,6 @@ https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubActi
 https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
 https://www.eventbrite.com/d/ks--lawrence/all-events/
 
-
-Big Book of Computing Pedagody 
-https://x.com/sheena_oconnell/status/2084942620175093836
-https://guildofeducators.org/join_us
-https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
 
 
 https://docs.python.org/3/whatsnew/index.html
