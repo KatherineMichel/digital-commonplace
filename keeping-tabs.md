@@ -1,9 +1,42 @@
 # Keeping Tabs
 
 <!--
+https://lawrence.bibliocommons.com/v2/events
+https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
+https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
+https://www.eventbrite.com/d/ks--lawrence/all-events/
+
+
+https://github.com/KatherineMichel/digital-commonplace
+https://github.com/KatherineMichel/links
+
+https://github.com/KatherineMichel/organizations
+
+https://github.com/KatherineMichel/pythonic-code
+
+https://github.com/KatherineMichel/caching-learning-notes
+https://github.com/KatherineMichel/ai-learning-notes
+
+https://github.com/KatherineMichel/high-scalability
+https://github.com/KatherineMichel/software-architecture-and-design-patterns
+
+https://github.com/KatherineMichel/contacts
+https://github.com/KatherineMichel/event-resources
+
+https://github.com/KatherineMichel/travel
+
+https://github.com/KatherineMichel/portfolio
+https://github.com/KatherineMichel/KatherineMichel
+https://github.com/KatherineMichel/personal-organization
+
+
 https://www.oreilly.com/videos/clean-code-fundamentals/9780134661742/
 
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html
+
+Distributed System Articles
+https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
 
 
 Big Book of Computing Pedagody 
@@ -16,13 +49,31 @@ https://discord.com/invite/python/login
 https://discord.com/channels/1269651101628629063/1282666268947906653
 
 
-https://simonwillison.net/
-https://github.com/simonw?tab=repositories
-https://www.linkedin.com/in/moshezadka/
-
 Events
 https://www.djangoproject.com/community/local/
 https://www.youtube.com/@BlackPythonDevs/videos
+
+
+https://coredispatch.xyz/
+https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025/
+https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/
+
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.16/whatsnew/3.16.html
+
+https://savannah.dev/posts/the-coolest-feature-in-314/
+
+Django Fellow Reports
+https://forum.djangoproject.com/c/internals/5
+
+https://forum.djangoproject.com/
+https://www.djangoproject.com/weblog/2026/aug/05/django-61-released/
+https://www.djangoproject.com/weblog/2026/aug/04/security-releases/
+
+
+https://simonwillison.net/
+https://github.com/simonw?tab=repositories
+https://www.linkedin.com/in/moshezadka/
 
 https://x.com/PajosTM/status/2041961412050780639
 
@@ -47,6 +98,11 @@ https://gvanrossum.github.io/interviews/index.html
 
 https://hugovk.dev/blog/2026/faster-pillow
 
+https://realpython.com/
+https://www.youtube.com/@realpython
+https://www.youtube.com/@PythonMorsels/videos
+
+
 https://djangotv.com/
 https://www.djangoproject.com/foundation/teams/
 
@@ -65,6 +121,12 @@ https://lp.jetbrains.com/django-developer-survey-2025/
 https://www.reddit.com/r/django/comments/1ohlesf/the_state_of_django_2025_is_here_4600_developers/
 
 https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/
+https://www.djangoproject.com/weblog/2026/jun/25/how-the-django-software-foundation-became-a-cna/
+
+https://buttondown.com/django-on-the-med/archive/django-on-the-med-is-back/
+https://forum.djangoproject.com/t/informal-roadmap-retrospective-workshops-for-django/26835
+https://www.paulox.net/2024/01/19/my-django-roadmap-ideas/
+https://dev.to/adamghill/django-roadmap-2024-2ocn
 
 https://noumenal.es/posts/running-django-main/O2x/
 https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/
@@ -96,11 +158,14 @@ https://engineering.kraken.tech/news/2026/01/12/using-django-async.html
 https://x.com/djangoproject/status/1969360719000060143
 https://theorangeone.net/posts/django-dot-tasks-exists/
 https://www.better-simple.com/django/2026/05/06/using-django-tasks-in-production
+https://roam.be/notes/2025/a-first-look-at-djangos-new-background-tasks
 
 https://www.farhana.li/blog/my-gsoc25-journey-django
+https://forum.djangoproject.com/t/gsoc-2026-implementing-a-formal-experimental-api-framework-for-django-core/45158
 
 https://adamj.eu/tech/2026/01/29/django-profile-memray
 https://adamj.eu/tech/2026/07/22/introducing-django-crawl/
+https://adamj.eu/tech/2026/04/20/django-python-3.14-incremental-gc/
 
 https://www.djangoproject.com/weblog/2025/nov/02/five-ways-to-discover-django-packages/
 https://wagtail.org/blog/the-1000-most-popular-django-packages/
@@ -207,26 +272,6 @@ https://github.com/tigergraph
 
 
 
-https://lawrence.bibliocommons.com/v2/events
-https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
-https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
-https://www.eventbrite.com/d/ks--lawrence/all-events/
-
-
-
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.16/whatsnew/3.16.html
-
-
-https://realpython.com/
-https://www.youtube.com/@realpython
-https://www.youtube.com/@PythonMorsels/videos
-
-
-Distributed System Articles
-https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
-
-
 https://www.meetup.com/find/
 https://www.meetup.com/find/?location=us--tx--Plano&source=EVENTS
 https://www.meetup.com/find/?location=us--tx--Frisco&source=EVENTS
@@ -316,28 +361,6 @@ PyOhio 2026
 https://www.youtube.com/c/PyOhio
 https://www.pyohio.org/2026/program/schedule/
 
-
-https://github.com/KatherineMichel/digital-commonplace
-https://github.com/KatherineMichel/links
-
-https://github.com/KatherineMichel/organizations
-
-https://github.com/KatherineMichel/pythonic-code
-
-https://github.com/KatherineMichel/caching-learning-notes
-https://github.com/KatherineMichel/ai-learning-notes
-
-https://github.com/KatherineMichel/high-scalability
-https://github.com/KatherineMichel/software-architecture-and-design-patterns
-
-https://github.com/KatherineMichel/contacts
-https://github.com/KatherineMichel/event-resources
-
-https://github.com/KatherineMichel/travel
-
-https://github.com/KatherineMichel/portfolio
-https://github.com/KatherineMichel/KatherineMichel
-https://github.com/KatherineMichel/personal-organization
 
 
 ## Priority Learning
