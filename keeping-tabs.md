@@ -7,12 +7,8 @@ https://db-engines.com/en/ranking
 https://en.wikipedia.org/wiki/In-memory_database
 
 https://x.com/valkey_io
-https://github.com/valkey-io/valkey/tree/unstable/src
-https://valkey.io/topics/persistence/
-https://valkey.io/topics/protocol/
-https://valkey.io/commands/
-https://valkey.io/topics/benchmark/
-https://valkey.io/topics/lru-cache/
+https://valkey.io/events/
+https://www.youtube.com/@valkeyproject/videos
 
 ValkeyConf
 https://sessionize.com/valkeyconf-2026/
@@ -20,10 +16,28 @@ https://sessionize.com/valkeyconf-2026/
 Unlocked conference
 https://www.unlockedconf.io/
 https://www.unlockedconf.io/agenda
+https://www.unlockedconf.io/san-jose-replays
+https://www.youtube.com/watch?v=CxKIoUPJtyM
 Seattle, San Jose
 https://www.youtube.com/watch?v=4D0NVvWbv5Q&list=PLeRsXz8i6Cw-w4pJM5_7HRvjh17o7A9vD
 Unlocked podcast
 https://www.youtube.com/watch?v=5TShrApV4kU&list=PLeRsXz8i6Cw-gloqAjW42WfJR49BHHZZV
+
+Talks
+https://www.youtube.com/playlist?list=PLAV1X7hxH2HtZWc2YNQRMQe9FT9XTWemE
+https://valkey.io/events/keyspace-2025/#recorded-talks-video
+https://valkey.io/events/keyspace-2025/slides/keyspace-25-ldap-audit.pdf
+https://valkey.io/events/keyspace-beijing-2025/
+
+https://aws.amazon.com/events/reinvent/
+https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=%22Madelyn%20Olson%22
+https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=&search.topic=1752157283215007FLPp&trk=www.google.com
+BuildDevCon Virtual Summit: In-Memory Databases
+https://buildevcon.com/events/in-memory-databases
+https://www.linkedin.com/feed/update/urn:li:share:7435842908588576768/?originTrackingId=Fq3R8HSQKyaoVAKSvAZE4g%3D%3D
+https://events.linuxfoundation.org/keyspace/
+https://www.linkedin.com/posts/madelyn-olson-valkey_open-source-summit-europe-2024-sponsored-share-7240817321273913345-HnG9
+Databases
 
 Momento
 https://www.gomomento.com/blog/
@@ -288,28 +302,6 @@ Commit Your Code Replays
 https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW
 Aaron Francis Keynote
 https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW&index=115
-
-Talks
-https://www.youtube.com/@valkeyproject/videos
-https://www.youtube.com/@gomomento/videos
-https://www.unlockedconf.io/san-jose-replays
-https://www.youtube.com/watch?v=CxKIoUPJtyM
-https://www.youtube.com/playlist?list=PLAV1X7hxH2HtZWc2YNQRMQe9FT9XTWemE
-https://valkey.io/events/keyspace-2025/#recorded-talks-video
-https://valkey.io/events/keyspace-2025/slides/keyspace-25-ldap-audit.pdf
-
-https://valkey.io/events/
-https://www.unlockedconf.io/agenda
-https://aws.amazon.com/events/reinvent/
-https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=%22Madelyn%20Olson%22
-https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=&search.topic=1752157283215007FLPp&trk=www.google.com
-BuildDevCon Virtual Summit: In-Memory Databases
-https://buildevcon.com/events/in-memory-databases
-https://www.linkedin.com/feed/update/urn:li:share:7435842908588576768/?originTrackingId=Fq3R8HSQKyaoVAKSvAZE4g%3D%3D
-https://events.linuxfoundation.org/keyspace/
-https://valkey.io/events/keyspace-beijing-2025/
-https://www.linkedin.com/posts/madelyn-olson-valkey_open-source-summit-europe-2024-sponsored-share-7240817321273913345-HnG9
-Databases
 
 ## Event Videos
 
