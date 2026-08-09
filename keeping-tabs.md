@@ -1,6 +1,11 @@
 # Keeping Tabs
 
 <!--
+https://www.oreilly.com/videos/clean-code-fundamentals/9780134661742/
+
+https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html
+
+
 Big Book of Computing Pedagody 
 https://x.com/sheena_oconnell/status/2084942620175093836
 https://guildofeducators.org/join_us
@@ -10,6 +15,10 @@ https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f06608
 https://discord.com/invite/python/login
 https://discord.com/channels/1269651101628629063/1282666268947906653
 
+
+https://simonwillison.net/
+https://github.com/simonw?tab=repositories
+https://www.linkedin.com/in/moshezadka/
 
 Events
 https://www.djangoproject.com/community/local/
@@ -38,6 +47,9 @@ https://gvanrossum.github.io/interviews/index.html
 
 https://hugovk.dev/blog/2026/faster-pillow
 
+https://djangotv.com/
+https://www.djangoproject.com/foundation/teams/
+
 https://veldakiara.com/
 https://prelude.tech/
 https://kjaymiller.com/blog/using-ai-to-consider-the-options.html
@@ -47,21 +59,36 @@ https://osf.io/preprints/psyarxiv/xrm5w_v2
 https://jvns.ca/blog/2026/07/21/more-nice-django-things/
 https://jvns.ca/blog/2026/01/27/some-notes-on-starting-to-use-django/
 
+https://www.djangoproject.com/weblog/2025/nov/19/twenty-years-of-django-releases/
+https://blog.jetbrains.com/pycharm/2025/10/the-state-of-django-2025/
+https://lp.jetbrains.com/django-developer-survey-2025/
+https://www.reddit.com/r/django/comments/1ohlesf/the_state_of_django_2025_is_here_4600_developers/
+
+https://www.djangoproject.com/weblog/2026/feb/04/recent-trends-security-team/
+
 https://noumenal.es/posts/running-django-main/O2x/
+https://buttondown.com/carlton/archive/an-annual-release-cycle-for-django/
+https://forum.djangoproject.com/t/official-django-skills-for-llms/45563
+https://djangotv.com/videos/djangocon-europe/2025/djangocon-europe-2025-how-we-make-decisions-in-django/
+https://softwarecrafts.co.uk/100-words/day-297
 
-https://github.com/jefftriplett/django-startproject
-https://github.com/wsvincent/django-hello-world
+https://docs.djangoproject.com/en/dev/internals/contributing/
+https://www.djangoproject.com/weblog/2025/aug/09/django-accessibility-contributing-guide/
+https://x.com/djangoproject/status/1969360719000060143
+https://www.better-simple.com/django/2025/11/03/updated-debug-tutorial/
+https://lincolnloop.com/blog/how-a-single-test-revealed-a-bug-in-django-60/
 
+https://github.com/HackSoftware/Django-Styleguide
 https://www.django-antipatterns.com/
 https://www.django-rapid-architecture.org/
 https://corgea.com/learn/django-security-best-practices-a-comprehensive-guid-for-software-engineers
 https://wsvincent.com/deploying-web-apps-in-2026/
 
+https://github.com/jefftriplett/django-startproject
+https://github.com/wsvincent/django-hello-world
+
 https://www.youtube.com/watch?v=j0cLwyChYOQ
 https://www.youtube.com/watch?v=yyX0QoUzoE4
-
-https://x.com/djangoproject/status/1969360719000060143
-https://www.better-simple.com/django/2025/11/03/updated-debug-tutorial/
 
 https://www.better-simple.com/lunch-talks/2026/05/28/async-django/
 https://engineering.kraken.tech/news/2026/01/12/using-django-async.html
@@ -70,9 +97,12 @@ https://x.com/djangoproject/status/1969360719000060143
 https://theorangeone.net/posts/django-dot-tasks-exists/
 https://www.better-simple.com/django/2026/05/06/using-django-tasks-in-production
 
+https://www.farhana.li/blog/my-gsoc25-journey-django
+
 https://adamj.eu/tech/2026/01/29/django-profile-memray
 https://adamj.eu/tech/2026/07/22/introducing-django-crawl/
 
+https://www.djangoproject.com/weblog/2025/nov/02/five-ways-to-discover-django-packages/
 https://wagtail.org/blog/the-1000-most-popular-django-packages/
 https://learndjango.com/tutorials/20-django-packages-i-use-every-project
 https://alldjango.com/articles/essential-django-packages
@@ -87,6 +117,8 @@ https://www.caktusgroup.com/blog/2026/04/27/django-bolt-easy-pydanticai-streamin
 https://www.youtube.com/watch?v=hp4V6dy5rLg&t=7s
 https://dzone.com/articles/fastapi-django-hybrid-stack
 https://www.david-dahan.com/blog/10-reasons-i-stick-to-django?utm_source=django-news-newsletter&utm_medium=email&utm_campaign=django-504-bugfix-release
+https://django-q2.readthedocs.io/en/master/
+http://linkedin.com/posts/william-s-vincent_should-django-q2-to-be-added-to-django-core-ugcPost-7381570427892056064-Tn0U/
 
 https://dev.to/mongodb/build-a-task-manager-with-django-mongodb-backend-5hd3
 
@@ -113,6 +145,8 @@ DB-Engines Ranking
 https://db-engines.com/en/ranking
 
 https://en.wikipedia.org/wiki/In-memory_database
+
+https://antirez.com/news/168
 
 https://x.com/valkey_io
 https://valkey.io/events/
