@@ -90,6 +90,20 @@ https://www.david-dahan.com/blog/10-reasons-i-stick-to-django?utm_source=django-
 
 https://dev.to/mongodb/build-a-task-manager-with-django-mongodb-backend-5hd3
 
+Rust
+https://rustconf2026.sched.com/list/simple
+https://doc.rust-lang.org/book/
+https://doc.rust-lang.org/nomicon/intro.html
+https://blog.rust-lang.org/2025/11/17/launching-the-2025-state-of-rust-survey/
+https://github.com/yugr/rust-slides/
+https://thenewstack.io/rust-goes-mainstream-in-the-linux-kernel/
+https://lore.kernel.org/git/20250904-b4-pks-rust-breaking-change-v1-0-3af1d25e0be9@pks.im/
+Rust re-writes
+https://github.com/malisper/pgrust
+https://github.com/calfonso/rusternetes
+https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
+
+
 https://testautomationu.applitools.com/
 https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html
 https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html
