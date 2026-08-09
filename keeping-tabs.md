@@ -1,6 +1,56 @@
 # Keeping Tabs
 
 <!--
+DB-Engines Ranking
+https://db-engines.com/en/ranking
+
+https://en.wikipedia.org/wiki/In-memory_database
+
+https://x.com/valkey_io
+https://github.com/valkey-io/valkey/tree/unstable/src
+https://valkey.io/topics/persistence/
+https://valkey.io/topics/protocol/
+https://valkey.io/commands/
+https://valkey.io/topics/benchmark/
+https://valkey.io/topics/lru-cache/
+
+ValkeyConf
+https://sessionize.com/valkeyconf-2026/
+
+Unlocked conference
+https://www.unlockedconf.io/
+https://www.unlockedconf.io/agenda
+Seattle, San Jose
+https://www.youtube.com/watch?v=4D0NVvWbv5Q&list=PLeRsXz8i6Cw-w4pJM5_7HRvjh17o7A9vD
+Unlocked podcast
+https://www.youtube.com/watch?v=5TShrApV4kU&list=PLeRsXz8i6Cw-gloqAjW42WfJR49BHHZZV
+
+Momento
+https://www.gomomento.com/blog/
+https://www.youtube.com/@gomomento
+https://www.youtube.com/@gomomento/videos
+https://www.youtube.com/@gomomento/playlists
+
+Percona
+https://www.percona.com/blog/
+https://www.youtube.com/@percona/
+https://www.youtube.com/@percona/videos
+Percona Live
+https://perconalive.com/2026-usa/agenda/
+https://www.youtube.com/@percona/playlists
+The State of Open Source Database Ecosystem in 2026
+https://www.youtube.com/watch?v=bE3a660CiDY
+https://valkey.io/blog/percona-spotlight/
+
+https://www.reddit.com/r/Neo4j/
+https://www.youtube.com/@neo4j
+https://github.com/neo4j/neo4j
+https://www.reddit.com/r/tigergraph/
+https://www.youtube.com/@TigerGraph
+https://github.com/tigergraph
+
+
+
 https://lawrence.bibliocommons.com/v2/events
 https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
 https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
