@@ -206,6 +206,7 @@ https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html
 https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html
 
 
+
 DB-Engines Ranking
 https://db-engines.com/en/ranking
 
@@ -937,12 +938,17 @@ https://www.splunk.com/en_us/blog/learn/distributed-systems.html
 
 https://martinfowler.com/articles/patterns-of-distributed-systems/
 
+Learning notes as well
+https://ferd.ca/a-distributed-systems-reading-list.html
+https://ferd.ca/beating-the-cap-theorem-checklist.html
+
 Jepsen and Kyle Kingsbury
+An Introduction to Distributed Systems by Kyle Kingsbury
 https://github.com/aphyr/distsys-class
-https://antithesis.com/docs/resources/reliability_glossary/
-https://jepsen.io/blog/2025-10-20-distsys-glossary
 A workbench for writing toy implementations of distributed systems.
 https://github.com/jepsen-io/maelstrom/blob/main/doc/01-getting-ready/index.md
+https://antithesis.com/docs/resources/reliability_glossary/
+https://jepsen.io/blog/2025-10-20-distsys-glossary
 https://jepsen.io/talks
 https://jepsen.io/services/training
 https://www.linkedin.com/in/kyle-kingsbury/
@@ -955,6 +961,16 @@ https://jepsen.io/
 https://jepsen.io/analyses/ethics
 https://aphyr.com/tags/Jepsen
 
+https://sre.google/resources/
+
+https://www.youtube.com/watch?v=ohtqI3AHR0k
+https://sre.google/workbook/non-abstract-design/
+https://static.googleusercontent.com/media/sre.google/en//static/pdf/nalsd-workbook-a4.pdf
+https://static.googleusercontent.com/media/sre.google/en//static/pdf/rule-of-thumb-latency-numbers-letter.pdf
+
+O'Reilly Designing Distributed Systems
+https://info.microsoft.com/rs/157-GQE-382/images/EN-CNTNT-eBook-DesigningDistributedSystems.pdf
+
 Martin Kleppmann
 Distributed Systems lecture series
 https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
@@ -962,21 +978,34 @@ https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB
 MIT 6.824: Distributed Systems
 https://www.youtube.com/@6.824
 
-https://ferd.ca/a-distributed-systems-reading-list.html
-https://ferd.ca/beating-the-cap-theorem-checklist.html
-https://news.ycombinator.com/item?id=39303160
+https://antithesis.com/docs/resources/reliability_glossary/#further-reading
+https://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html
+https://tingsu.github.io/files/courses/pa2022.html
 https://dancres.github.io/Pages/ | Distributed Systems Reading List
+https://jqwik.net/property-based-testing.html
+https://github.com/ivanyu/awesome-deterministic-simulation-testing?tab=readme-ov-file
+https://news.ycombinator.com/item?id=39303160
 
 https://www.geeksforgeeks.org/types-of-distributed-system/
 https://asatarin.github.io/testing-distributed-systems/
 
 Lamport
-https://amturing.acm.org/p558-lamport.pdf
-https://x.com/TheOfficialACM/status/2020071323330883979
+https://dl.acm.org/doi/book/10.1145/3335772
+https://lamport.azurewebsites.net/pubs/pubs.html
+The Essential Leslie Lamport
 https://brooker.co.za/blog/2014/03/30/lamport-pub.html
+Leslie Lamport's Paxos Made Simple, made simple.
 https://x.com/DynamicWebPaige/status/1991729579099066492
+Paxos Made Simple
+https://lamport.azurewebsites.net/pubs/paxos-simple.pdf
+Time, Clocks, and the Ordering of Events in a Distributed System 
+https://amturing.acm.org/p558-lamport.pdf
+
 https://martinfowler.com/articles/patterns-of-distributed-systems/lamport-clock.html
+
+Turing Award Winner: Thinking Clearly, Paxos vs Raft, Working With Dijkstra | Leslie Lamport
 https://www.youtube.com/watch?v=U719vQz-WFs&t=1s
+https://x.com/TheOfficialACM/status/2020071323330883979
 
 List of Algorithms
 http://www.cs.yale.edu/homes/aspnes/classes/465/notes.pdf | Notes on Theory of Distributed Systems
@@ -1029,6 +1058,7 @@ https://dsf.berkeley.edu/papers/fntdb07-architecture.pdf
 https://www.compileralchemy.com/books/sqlite-internals/ | SQLite Internals: How The World's Most Used Database Works
 -->
 
+
 <!--
 9 Articles to learn so much about Databases
 https://www.linkedin.com/feed/update/urn:li:activity:7195641414867640320/ | Post | Feed | LinkedIn
@@ -1056,6 +1086,7 @@ DB Comparisons
 https://db-engines.com/en/systems
 https://db-engines.com/en/system/CockroachDB%3BGraphDB%3BNeo4j
 -->
+
 
 <!--
 ## Access
