@@ -30,7 +30,46 @@ https://github.com/KatherineMichel/KatherineMichel
 https://github.com/KatherineMichel/personal-organization
 
 
+https://realpython.com/
+
+https://realpython.com/python-news-june-2026/
+https://realpython.com/python-news-november-2025/
+
+https://learning.oreilly.com/library/view/dead-simple-python/9781098156671/c09.xhtml
+https://learning.oreilly.com/library/view/effective-python-125/9780138172398/
+https://learning.oreilly.com/library/view/python-distilled/9780134173399/
+https://learning.oreilly.com/library/view/fluent-python-2nd/9781492056348/
+https://learning.oreilly.com/library/view/high-performance-python/9781098165956/
+https://learning.oreilly.com/library/view/mastering-python/9781800207721/
+https://ehmatthes.github.io/pcc_3e/cheat_sheets/
+https://www.amazon.com/Clean-Architecture-Python-maintainable-architectural/dp/183664289X/
+https://www.amazon.com/Architecture-Patterns-Python-Domain-Driven-Microservices/dp/1492052205/
+
+Software Architectures
+See list at bottom
+https://en.wikipedia.org/wiki/Portland_Pattern_Repository
+https://web.archive.org/web/20090210131143/http://hillside.net/patterns/books/Details/070.htm
+https://en.wikipedia.org/wiki/List_of_software_architecture_styles_and_patterns
+https://c2.com/ppr/
+https://c2.com/ppr/titles.html
+https://wiki.c2.com/
+https://wiki.c2.com/?StartingPoints
+https://wiki.c2.com/?PatternIndex
+https://web.archive.org/web/20060711221010/https://alistair.cockburn.us/index.php/Hexagonal_architecture
+https://wiki.c2.com/?HexagonalArchitecture
+https://wiki.c2.com/?PortsAndAdaptersArchitecture
+
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/toc.html
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/Chapter1.html
+https://www.enterpriseintegrationpatterns.com/articles.html
+https://www.enterpriseintegrationpatterns.com/patterns/messaging/
+https://www.enterpriseintegrationpatterns.com/ramblings/eventdriven_coupling.html
+https://www.enterpriseintegrationpatterns.com/ramblings/72_eipvolumes.html
+https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
+
+
 https://www.oreilly.com/videos/clean-code-fundamentals/9780134661742/
+https://exelearning.org/wiki/OttingersNaming/
 
 https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
 https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html
