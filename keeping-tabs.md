@@ -1,12 +1,6 @@
 # Keeping Tabs
 
 <!--
-https://lawrence.bibliocommons.com/v2/events
-https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
-https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
-https://www.eventbrite.com/d/ks--lawrence/all-events/
-
-
 https://github.com/KatherineMichel/digital-commonplace
 https://github.com/KatherineMichel/links
 
@@ -14,14 +8,9 @@ https://github.com/KatherineMichel/organizations
 
 https://github.com/KatherineMichel/pythonic-code
 
-https://github.com/KatherineMichel/caching-learning-notes
-https://github.com/KatherineMichel/ai-learning-notes
-
 https://github.com/KatherineMichel/high-scalability
+https://github.com/KatherineMichel/ai-learning-notes
 https://github.com/KatherineMichel/software-architecture-and-design-patterns
-
-https://github.com/KatherineMichel/contacts
-https://github.com/KatherineMichel/event-resources
 
 https://github.com/KatherineMichel/travel
 
@@ -29,8 +18,311 @@ https://github.com/KatherineMichel/portfolio
 https://github.com/KatherineMichel/KatherineMichel
 https://github.com/KatherineMichel/personal-organization
 
+https://github.com/KatherineMichel/contacts
+https://github.com/KatherineMichel/event-resources
+https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
+https://github.com/KatherineMichel/event-resources/blob/master/events.md
+-->
 
+## Travel
+
+* [Wichita Community Foundation](https://twitter.com/WichitaCF)
+* [Wichita By E.B.](https://www.wichitabyeb.com/)
+* [One Delightful Life](https://onedelightfullife.com/)
+
+<!--
+https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
+
+https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
+
+https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
+-->
+
+## General Networking and Events
+
+<!--
+Guild of Educators
+https://discord.com/channels/1269651101628629063/1282666268947906653
+
+https://www.meetup.com/find/
+https://www.meetup.com/find/?location=us--tx--Plano&source=EVENTS
+https://www.meetup.com/find/?location=us--tx--Frisco&source=EVENTS
+
+https://www.eventbrite.com/d/tx--plano/all-events/
+https://www.eventbrite.com/d/tx--frisco/all-events/
+
+https://www.meetup.com/find/?location=us--ks--Kansas+City&source=EVENTS
+https://www.eventbrite.com/d/ks--kansas-city/all-events/
+-->
+
+### Lawrence
+
+<!--
+https://www.meetup.com/find/?location=us--ks--Lawrence&source=EVENTS
+https://www.eventbrite.com/d/ks--lawrence/all-events/
+
+https://lawrence.bibliocommons.com/v2/events
+https://kslawrenceweb.myvscloud.com/webtrac/web/search.html?Action=Start&SubAction=&type=TRIPS&arwebsearch_buttonsearch=yes
+-->
+
+### College
+
+Alumni
+* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
+* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
+
+### Dallas
+
+<!--
+https://www.dallaswe.org/
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+-->
+
+## Python and Django Networking and Events
+
+### Slack, Discord, Social Media
+
+PyLadies
+* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
+
+<!--
+https://discord.com/invite/python/login
+
+Events
+https://www.djangoproject.com/community/local/
+https://www.youtube.com/@BlackPythonDevs/videos
+
+DjangoCon US
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+
+https://www.djangoproject.com/foundation/teams/
+-->
+
+## Python Events and Videos
+
+https://www.python.org/events/
+https://www.python.org/events/python-events/ | Our Events | Python.org
+https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
+https://github.com/python-organizers/conferences/blob/main/2026.csv
+https://www.meetup.com/pro/python-software-foundation-meetups/
+
+https://pyvideo.org/ | PyVideo.org
+https://pyvideo.org/speakers.html | PyVideo.org · Speakers
+https://pyvideo.org/events.html | PyVideo.org · Events
+
+https://djangotv.com/
+
+https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+
+## Python and Django Events
+
+<!--
+PyConf Hyderabad 2026
+https://2026.pyconfhyd.org/schedule
+
+PyCascades 2026
+https://www.youtube.com/@PyCascades
+https://www.youtube.com/watch?v=-G38kpcbkR4&list=PLcNrB7gPa-NeyTIFSdtjnREcW6X9uxwsN
+https://2026.pycascades.com/program/schedule/
+
+PythonAsia 2026
+https://www.youtube.com/@PythonPH
+https://www.youtube.com/playlist?list=PLCBCxsuKTqkCJyfFur_0pN4s-Pz49yNTr
+https://pretalx.com/python-asia-2026/schedule/
+
+PyCon Lithuania 2026
+https://www.youtube.com/@pyconlithuania1337
+https://www.youtube.com/watch?v=6zQTQ4iVaKg&list=PL5gYhWvxDgAE7IzsOWJIcFXoglbhvcg0l
+https://pycon.lt/2026/schedule
+
+PyCon DE & PyData 2026
+https://www.youtube.com/pyconde
+https://www.youtube.com/watch?v=t0ZWNh-UXDs&list=PLefagiT9A8tA
+https://pretalx.com/pyconde-pydata-2026/schedule/
+
+PyTexas 2026
+https://www.youtube.com/pytexas
+https://www.pytexas.org/2026/schedule/#sunday
+
+Warsaw Python Pizza 2026
+https://www.youtube.com/@PythonPizza
+https://warsaw.python.pizza/compact-agenda/
+
+PyCon US 2026
+https://www.youtube.com/@pyconus
+https://www.youtube.com/watch?v=LIEsWtEUxrQ&list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
+https://us.pycon.org/2026/schedule/
+https://bernat.tech/posts/pycon-us-2026-packaging-summit-recap/
+https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/
+
+PyCon Italia 2026
+https://www.youtube.com/@PythonItalia/videos
+https://2026.pycon.it/en/schedule/2026-05-27?view=grid
+
+GeoPython 2026
+https://www.youtube.com/c/GeoPythonConference
+https://2026.geopython.net/
+
+PyCon Singapore 2026
+https://www.youtube.com/playlist?list=PLWJHJuy2_bRLoK2LdD4k8r-P1r2OCWHvc
+https://pycon.sg/schedule.html
+
+EuroPython 2026
+https://www.youtube.com/EuroPythonConference
+https://ep2026.europython.eu/schedule/#day-2026-07-13
+https://ep2026.europython.eu/language-summit/
+
+SciPy 2026
+https://www.youtube.com/@SciPy-Conf/videos
+https://www.scipy2026.scipy.org/schedule
+
+EuroSciPy 2026
+https://www.youtube.com/@EuroSciPy
+https://euroscipy.org/schedule/
+
+Black Python Devs Leadership Summit 2026
+https://www.youtube.com/@blackpythondevs
+https://blackpythondevs.com/bpd-events/black-python-devs-leadership-summit-2026-ohio.html
+
+PyCon Colombia 2026
+https://www.youtube.com/pyconcolombia
+https://2026.pycon.co/schedule/
+
+PyOhio 2026
+https://www.youtube.com/c/PyOhio
+https://www.pyohio.org/2026/program/schedule/
+-->
+
+
+<!--
+## Events
+
+https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
+https://us.pycon.org/2023/
+
+https://2023.djangocon.eu/
+
+https://djangocon.us/ | DjangoCon US | DjangoCon US description here
+https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
+
+DjangoCon US 2022
+https://2022.djangocon.us/schedule/
+
+DjangoCon US 2021
+https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
+
+PyCon US 2022
+https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
+PyCascades
+https://www.youtube.com/c/PyCascades/playlists
+-->
+
+<!--
+## Conferences
+
+Dev conferences
+https://leaddev.com/
+https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
+
+## Women
+
+https://thewomeninarchitecture.org/ | Women In Architecture
+
+https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
+
+https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
+-->
+
+## Commit Your Code
+
+<!--
+Commit Your Code Replays
+https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW
+Aaron Francis Keynote
+https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW&index=115
+-->
+
+## Linux and Red Hat
+<!--
+https://events.linuxfoundation.org/
+https://www.redhat.com/en/events
+-->
+
+## Distributed System and Database Events
+
+<!--
+https://x.com/valkey_io
+https://valkey.io/events/
+https://www.youtube.com/@valkeyproject/videos
+
+ValkeyConf
+https://sessionize.com/valkeyconf-2026/
+
+Unlocked conference
+https://www.unlockedconf.io/
+https://www.unlockedconf.io/agenda
+https://www.unlockedconf.io/san-jose-replays
+https://www.youtube.com/watch?v=CxKIoUPJtyM
+Seattle, San Jose
+https://www.youtube.com/watch?v=4D0NVvWbv5Q&list=PLeRsXz8i6Cw-w4pJM5_7HRvjh17o7A9vD
+Unlocked podcast
+https://www.youtube.com/watch?v=5TShrApV4kU&list=PLeRsXz8i6Cw-gloqAjW42WfJR49BHHZZV
+
+Talks
+https://www.youtube.com/playlist?list=PLAV1X7hxH2HtZWc2YNQRMQe9FT9XTWemE
+https://valkey.io/events/keyspace-2025/#recorded-talks-video
+https://valkey.io/events/keyspace-2025/slides/keyspace-25-ldap-audit.pdf
+https://valkey.io/events/keyspace-beijing-2025/
+
+https://aws.amazon.com/events/reinvent/
+https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=%22Madelyn%20Olson%22
+https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=&search.topic=1752157283215007FLPp&trk=www.google.com
+BuildDevCon Virtual Summit: In-Memory Databases
+https://buildevcon.com/events/in-memory-databases
+https://www.linkedin.com/feed/update/urn:li:share:7435842908588576768/?originTrackingId=Fq3R8HSQKyaoVAKSvAZE4g%3D%3D
+https://events.linuxfoundation.org/keyspace/
+https://www.linkedin.com/posts/madelyn-olson-valkey_open-source-summit-europe-2024-sponsored-share-7240817321273913345-HnG9
+Databases
+
+Momento
+https://www.gomomento.com/blog/
+https://www.youtube.com/@gomomento
+https://www.youtube.com/@gomomento/videos
+https://www.youtube.com/@gomomento/playlists
+
+Percona
+https://www.percona.com/blog/
+https://www.youtube.com/@percona/
+https://www.youtube.com/@percona/videos
+Percona Live
+https://perconalive.com/2026-usa/agenda/
+https://www.youtube.com/@percona/playlists
+The State of Open Source Database Ecosystem in 2026
+https://www.youtube.com/watch?v=bE3a660CiDY
+https://valkey.io/blog/percona-spotlight/
+
+https://www.reddit.com/r/Neo4j/
+https://www.youtube.com/@neo4j
+https://github.com/neo4j/neo4j
+https://www.reddit.com/r/tigergraph/
+https://www.youtube.com/@TigerGraph
+https://github.com/tigergraph
+-->
+
+
+
+
+
+
+
+
+
+
+<!--
 https://realpython.com/
+https://www.youtube.com/@realpython
+https://www.youtube.com/@PythonMorsels/videos
 
 https://realpython.com/python-news-june-2026/
 https://realpython.com/python-news-november-2025/
@@ -84,13 +376,6 @@ https://guildofeducators.org/join_us
 https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
 
 
-https://discord.com/invite/python/login
-https://discord.com/channels/1269651101628629063/1282666268947906653
-
-
-Events
-https://www.djangoproject.com/community/local/
-https://www.youtube.com/@BlackPythonDevs/videos
 
 
 https://coredispatch.xyz/
@@ -137,13 +422,8 @@ https://gvanrossum.github.io/interviews/index.html
 
 https://hugovk.dev/blog/2026/faster-pillow
 
-https://realpython.com/
-https://www.youtube.com/@realpython
-https://www.youtube.com/@PythonMorsels/videos
 
 
-https://djangotv.com/
-https://www.djangoproject.com/foundation/teams/
 
 https://veldakiara.com/
 https://prelude.tech/
@@ -245,6 +525,7 @@ https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html
 https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html
 
 
+## Databases and Caching
 
 DB-Engines Ranking
 https://db-engines.com/en/ranking
@@ -252,154 +533,6 @@ https://db-engines.com/en/ranking
 https://en.wikipedia.org/wiki/In-memory_database
 
 https://antirez.com/news/168
-
-https://x.com/valkey_io
-https://valkey.io/events/
-https://www.youtube.com/@valkeyproject/videos
-
-ValkeyConf
-https://sessionize.com/valkeyconf-2026/
-
-Unlocked conference
-https://www.unlockedconf.io/
-https://www.unlockedconf.io/agenda
-https://www.unlockedconf.io/san-jose-replays
-https://www.youtube.com/watch?v=CxKIoUPJtyM
-Seattle, San Jose
-https://www.youtube.com/watch?v=4D0NVvWbv5Q&list=PLeRsXz8i6Cw-w4pJM5_7HRvjh17o7A9vD
-Unlocked podcast
-https://www.youtube.com/watch?v=5TShrApV4kU&list=PLeRsXz8i6Cw-gloqAjW42WfJR49BHHZZV
-
-Talks
-https://www.youtube.com/playlist?list=PLAV1X7hxH2HtZWc2YNQRMQe9FT9XTWemE
-https://valkey.io/events/keyspace-2025/#recorded-talks-video
-https://valkey.io/events/keyspace-2025/slides/keyspace-25-ldap-audit.pdf
-https://valkey.io/events/keyspace-beijing-2025/
-
-https://aws.amazon.com/events/reinvent/
-https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=%22Madelyn%20Olson%22
-https://registration.awsevents.com/flow/awsevents/reinvent2025/eventcatalog/page/eventcatalog?search=&search.topic=1752157283215007FLPp&trk=www.google.com
-BuildDevCon Virtual Summit: In-Memory Databases
-https://buildevcon.com/events/in-memory-databases
-https://www.linkedin.com/feed/update/urn:li:share:7435842908588576768/?originTrackingId=Fq3R8HSQKyaoVAKSvAZE4g%3D%3D
-https://events.linuxfoundation.org/keyspace/
-https://www.linkedin.com/posts/madelyn-olson-valkey_open-source-summit-europe-2024-sponsored-share-7240817321273913345-HnG9
-Databases
-
-Momento
-https://www.gomomento.com/blog/
-https://www.youtube.com/@gomomento
-https://www.youtube.com/@gomomento/videos
-https://www.youtube.com/@gomomento/playlists
-
-Percona
-https://www.percona.com/blog/
-https://www.youtube.com/@percona/
-https://www.youtube.com/@percona/videos
-Percona Live
-https://perconalive.com/2026-usa/agenda/
-https://www.youtube.com/@percona/playlists
-The State of Open Source Database Ecosystem in 2026
-https://www.youtube.com/watch?v=bE3a660CiDY
-https://valkey.io/blog/percona-spotlight/
-
-https://www.reddit.com/r/Neo4j/
-https://www.youtube.com/@neo4j
-https://github.com/neo4j/neo4j
-https://www.reddit.com/r/tigergraph/
-https://www.youtube.com/@TigerGraph
-https://github.com/tigergraph
-
-
-
-https://www.meetup.com/find/
-https://www.meetup.com/find/?location=us--tx--Plano&source=EVENTS
-https://www.meetup.com/find/?location=us--tx--Frisco&source=EVENTS
-https://www.meetup.com/find/?location=us--ks--Kansas+City&source=EVENTS
-
-https://www.eventbrite.com/d/tx--plano/all-events/
-https://www.eventbrite.com/d/tx--frisco/all-events/
-https://www.eventbrite.com/d/ks--kansas-city/all-events/
-
-https://www.python.org/events/
-https://github.com/python-organizers/conferences/blob/main/2026.csv
-https://www.meetup.com/pro/python-software-foundation-meetups/
-
-
-PyConf Hyderabad 2026
-https://2026.pyconfhyd.org/schedule
-
-PyCascades 2026
-https://www.youtube.com/@PyCascades
-https://www.youtube.com/watch?v=-G38kpcbkR4&list=PLcNrB7gPa-NeyTIFSdtjnREcW6X9uxwsN
-https://2026.pycascades.com/program/schedule/
-
-PythonAsia 2026
-https://www.youtube.com/@PythonPH
-https://www.youtube.com/playlist?list=PLCBCxsuKTqkCJyfFur_0pN4s-Pz49yNTr
-https://pretalx.com/python-asia-2026/schedule/
-
-PyCon Lithuania 2026
-https://www.youtube.com/@pyconlithuania1337
-https://www.youtube.com/watch?v=6zQTQ4iVaKg&list=PL5gYhWvxDgAE7IzsOWJIcFXoglbhvcg0l
-https://pycon.lt/2026/schedule
-
-PyCon DE & PyData 2026
-https://www.youtube.com/pyconde
-https://www.youtube.com/watch?v=t0ZWNh-UXDs&list=PLefagiT9A8tA
-https://pretalx.com/pyconde-pydata-2026/schedule/
-
-PyTexas 2026
-https://www.youtube.com/pytexas
-https://www.pytexas.org/2026/schedule/#sunday
-
-Warsaw Python Pizza 2026
-https://www.youtube.com/@PythonPizza
-https://warsaw.python.pizza/compact-agenda/
-
-PyCon US 2026
-https://www.youtube.com/@pyconus
-https://www.youtube.com/watch?v=LIEsWtEUxrQ&list=PL2Uw4_HvXqvYg5fYUg9tzVrY3zCT7W7Y7
-https://us.pycon.org/2026/schedule/
-https://bernat.tech/posts/pycon-us-2026-packaging-summit-recap/
-https://bernat.tech/posts/pycon-us-2026-typing-summit-recap/
-
-PyCon Italia 2026
-https://www.youtube.com/@PythonItalia/videos
-https://2026.pycon.it/en/schedule/2026-05-27?view=grid
-
-GeoPython 2026
-https://www.youtube.com/c/GeoPythonConference
-https://2026.geopython.net/
-
-PyCon Singapore 2026
-https://www.youtube.com/playlist?list=PLWJHJuy2_bRLoK2LdD4k8r-P1r2OCWHvc
-https://pycon.sg/schedule.html
-
-EuroPython 2026
-https://www.youtube.com/EuroPythonConference
-https://ep2026.europython.eu/schedule/#day-2026-07-13
-https://ep2026.europython.eu/language-summit/
-
-SciPy 2026
-https://www.youtube.com/@SciPy-Conf/videos
-https://www.scipy2026.scipy.org/schedule
-
-EuroSciPy 2026
-https://www.youtube.com/@EuroSciPy
-https://euroscipy.org/schedule/
-
-Black Python Devs Leadership Summit 2026
-https://www.youtube.com/@blackpythondevs
-https://blackpythondevs.com/bpd-events/black-python-devs-leadership-summit-2026-ohio.html
-
-PyCon Colombia 2026
-https://www.youtube.com/pyconcolombia
-https://2026.pycon.co/schedule/
-
-PyOhio 2026
-https://www.youtube.com/c/PyOhio
-https://www.pyohio.org/2026/program/schedule/
 
 
 
@@ -488,77 +621,6 @@ https://www.gartner.com
 https://www.thoughtworks.com/en-us/radar
 -->
 
-<!--
-## DFW
-
-https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
-
-## Events
-
-https://events.linuxfoundation.org/
-https://www.redhat.com/en/events
-
-Commit Your Code Replays
-https://www.youtube.com/playlist?list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW
-Aaron Francis Keynote
-https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fFSkW&index=115
-
-## Event Videos
-
-https://pyvideo.org/ | PyVideo.org
-https://pyvideo.org/speakers.html | PyVideo.org · Speakers
-https://pyvideo.org/events.html | PyVideo.org · Events
-
-https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
-
-
-## Events
-
-https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.md
-https://github.com/KatherineMichel/event-resources/blob/master/events.md
-
-
-https://www.python.org/events/python-events/ | Our Events | Python.org
-https://www.python.org/events/
-https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
-
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-https://www.youtube.com/@PyConUS/videos | (183) PyCon US - YouTube
-https://us.pycon.org/2023/
-
-https://2023.djangocon.eu/
-
-https://djangocon.us/ | DjangoCon US | DjangoCon US description here
-https://2023.djangocon.us/speaking/ | Speaking at DjangoCon US | DjangoCon US
-
-DjangoCon US 2022
-https://2022.djangocon.us/schedule/
-
-DjangoCon US 2021
-https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-PyCon US 2022
-https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYeXy8ab7iRHjA-9HiYhRQl
-PyCascades
-https://www.youtube.com/c/PyCascades/playlists
--->
-
-<!--
-## Conferences
-
-Dev conferences
-https://leaddev.com/
-https://www.modernfrontends.live/ | Modern FrontEnds Live! (Modern Web | Web Apps | Apps)
-
-## Women
-
-https://thewomeninarchitecture.org/ | Women In Architecture
-
-https://womenpm.org/conference-scholarships/ | Conference Scholarships - Women In Product
-
-https://www.womenwhocode.com/opportunities/ | Opportunities - Women Who Code | Women Who Code
--->
 
 <!--
 ## Public Speaker
@@ -4829,30 +4891,15 @@ Spreading Our Tentacles, Taking a Django App Global
 https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking-a-django-app-global.html
 -->
 
-## Product Sites
 
-Interesting Links
-* [Indie Hackers](https://www.indiehackers.com)
 
-Products
-* [Product Hunt](https://www.producthunt.com)
-* [BetaList](https://betalist.com/)
 
-Product Hunt Product Leader Boards
-* [Top 5 Twitter](https://twitter.com/PHTop5)
-* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
-* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
-* [Top 500 Products](http://500products.com)
+## Wichita Area Networking and Events
 
-### Lawrence
-
-### Networking and Events
+### DevICT
 
 Society of Women Engineers Wichita Section
 * [Wichita Section](https://www.wichitaswe.org), [Wichita Section Facebook](https://www.facebook.com/wichitaswe/)
-
-PyLadies
-* [Slack](https://app.slack.com/client/T03HT05JZ/), [Twitter](https://twitter.com/pyladies)
 
 Tech Events
 * [DevICT Events](https://www.meetup.com/devict/events/)
@@ -4860,12 +4907,6 @@ Tech Events
 * [Startup Grind Wichita Events](https://www.startupgrind.com/wichita/)
 * [Startup Grind Events](https://www.startupgrind.com/events)
 * [Groover Labs Events](https://www.grooverlabs.org/events)
-
-Alumni
-* [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
-* [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
-
-### DevICT
 
 Coworking Spaces
 * [Groover Labs](https://www.grooverlabs.org/), [Groover Labs Twitter](https://twitter.com/Groover_Labs/)
@@ -4886,7 +4927,7 @@ Business Journal
 * [Wichita Business Journal](https://www.bizjournals.com/wichita/)
 * [Bryan Horwath Twitter](https://twitter.com/ICTBiz_BHorwath)
 
-## City of Wichita
+### City of Wichita
 
 City of Wichita
 * [City of Wichita YouTube](https://www.youtube.com/channel/UC8JR4_PrFIrxkTH6T9bn_CA)
@@ -4898,16 +4939,17 @@ The Chung Report
 
 * [Startup Hutch](https://www.startuphutch.com/)
 
-## Travel
+## Product Sites
 
-* [Wichita Community Foundation](https://twitter.com/WichitaCF)
-* [Wichita By E.B.](https://www.wichitabyeb.com/)
-* [One Delightful Life](https://onedelightfullife.com/)
+Interesting Links
+* [Indie Hackers](https://www.indiehackers.com)
 
-<!--
-https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
+Products
+* [Product Hunt](https://www.producthunt.com)
+* [BetaList](https://betalist.com/)
 
-https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
-
-https://www.facebook.com/KansasTravel/posts/4215208858502223 | Kansas Travel at KansasTravel.org - Posts | Facebook
--->
+Product Hunt Product Leader Boards
+* [Top 5 Twitter](https://twitter.com/PHTop5)
+* [The 1000 Club](https://www.producthunt.com/e/the-1000-club)
+* [The Almost 1000 Club](https://www.producthunt.com/e/the-almost-1000-club)
+* [Top 500 Products](http://500products.com)
