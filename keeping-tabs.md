@@ -31,6 +31,8 @@ https://github.com/KatherineMichel/event-resources/blob/master/events.md
 * [One Delightful Life](https://onedelightfullife.com/)
 
 <!--
+https://www.amazontours.com/na/onsite
+
 https://twitter.com/wichitalifeict/status/1465314972527996941 | https://twitter.com/wichitalifeict/status/1465314972527996941
 
 https://www.wichitabyeb.com/2021/12/100-best-things-wichita.html | The 100 Best Things to Do in Wichita | Wichita By E.B.
@@ -78,6 +80,29 @@ https://www.dallaswe.org/
 https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 -->
 
+## Priority News
+
+<!--
+https://coredispatch.xyz/
+https://coredispatch.xyz/editions/2
+
+https://django-news.com/
+
+Valkey News
+https://valkey-demo.oursqlcommunity.org/
+
+https://training.linuxfoundation.org/full-catalog/
+
+https://testdriven.io/blog/
+
+https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
+https://www.techtalksweekly.io/p/50-most-watched-software-engineering
+
+RedHat and Ansible
+https://x.com/RedHat
+https://forum.ansible.com/t/the-bullhorn-225/45736
+-->
+
 ## Python and Django Networking and Events
 
 ### Slack, Discord, Social Media
@@ -94,13 +119,11 @@ https://www.youtube.com/@BlackPythonDevs/videos
 
 DjangoCon US
 https://discord.com/login?redirect_to=%2Fchannels%2F885220467303133245%2F900113465820188672 | Discord
-
-
-https://www.djangoproject.com/foundation/teams/
 -->
 
 ## Python Events and Videos
 
+<!--
 https://www.python.org/events/
 https://www.python.org/events/python-events/ | Our Events | Python.org
 https://github.com/python-organizers/conferences | python-organizers/conferences: List of Python Conferences around the World
@@ -114,6 +137,7 @@ https://pyvideo.org/events.html | PyVideo.org · Events
 https://djangotv.com/
 
 https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Talks Ever, Ranked By Techyaks Score.
+-->
 
 ## Python and Django Events
 
@@ -193,7 +217,6 @@ PyOhio 2026
 https://www.youtube.com/c/PyOhio
 https://www.pyohio.org/2026/program/schedule/
 -->
-
 
 <!--
 ## Events
@@ -378,21 +401,24 @@ https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f06608
 
 
 
-https://coredispatch.xyz/
 https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025/
 https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/
 
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.16/whatsnew/3.16.html
-
 https://savannah.dev/posts/the-coolest-feature-in-314/
+
+
 
 Django Fellow Reports
 https://forum.djangoproject.com/c/internals/5
 
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.16/whatsnew/3.16.html
+
 https://forum.djangoproject.com/
 https://www.djangoproject.com/weblog/2026/aug/05/django-61-released/
 https://www.djangoproject.com/weblog/2026/aug/04/security-releases/
+
+https://www.djangoproject.com/foundation/teams/
 
 
 https://simonwillison.net/
@@ -550,26 +576,6 @@ https://learning.oreilly.com/course/red-hat-certified/9780138271657/
 
 https://learning.oreilly.com/videos/red-hat-certified/9780137931521/9780137931521-RHL9_02_05_01/
 
-## Priority News
-
-https://coredispatch.xyz/
-https://coredispatch.xyz/editions/2
-
-https://django-news.com/
-
-Valkey News
-https://valkey-demo.oursqlcommunity.org/
-
-https://training.linuxfoundation.org/full-catalog/
-
-https://testdriven.io/blog/
-
-https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
-https://www.techtalksweekly.io/p/50-most-watched-software-engineering
-
-RedHat and Ansible
-https://x.com/RedHat
-https://forum.ansible.com/t/the-bullhorn-225/45736
 
 
 ## Learning
