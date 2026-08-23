@@ -137,6 +137,8 @@ PyLadies
 
 <!--
 https://discord.com/invite/python/login
+Django
+https://discord.com/channels/1537172740446887946/1537172743341088780
 
 Events
 https://www.djangoproject.com/community/local/
