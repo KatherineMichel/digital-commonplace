@@ -86,6 +86,7 @@ https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
 
+
 https://django-news.com/
 
 Valkey News
@@ -93,14 +94,38 @@ https://valkey-demo.oursqlcommunity.org/
 
 https://training.linuxfoundation.org/full-catalog/
 
-https://testdriven.io/blog/
-
 https://www.techtalksweekly.io/p/100-most-watched-software-engineering-talks-of-2025
 https://www.techtalksweekly.io/p/50-most-watched-software-engineering
 
 RedHat and Ansible
 https://x.com/RedHat
 https://forum.ansible.com/t/the-bullhorn-225/45736
+
+
+https://testdriven.io/blog/
+
+https://realpython.com/
+https://www.youtube.com/@realpython
+https://www.youtube.com/@PythonMorsels/videos
+
+https://realpython.com/python-news-june-2026/
+https://realpython.com/python-news-november-2025/
+-->
+
+## Priority Learning
+
+<!--
+https://valkey.io/
+
+https://learning.oreilly.com/course/linux-fundamentals-2nd/9780137929313/
+
+Sander van Vugt
+Red Hat Certified System Administrator (RHCSA) RHEL 9
+https://learning.oreilly.com/course/red-hat-certified/9780137931521/
+Red Hat Certified Engineer (RHCE) EX294, 2nd Edition
+https://learning.oreilly.com/course/red-hat-certified/9780138271657/
+
+https://learning.oreilly.com/videos/red-hat-certified/9780137931521/9780137931521-RHL9_02_05_01/
 -->
 
 ## Python and Django Networking and Events
@@ -343,12 +368,8 @@ https://github.com/tigergraph
 
 
 <!--
-https://realpython.com/
-https://www.youtube.com/@realpython
-https://www.youtube.com/@PythonMorsels/videos
+https://cursor.com/blog/git-at-any-scale
 
-https://realpython.com/python-news-june-2026/
-https://realpython.com/python-news-november-2025/
 
 https://learning.oreilly.com/library/view/dead-simple-python/9781098156671/c09.xhtml
 https://learning.oreilly.com/library/view/effective-python-125/9780138172398/
@@ -560,21 +581,6 @@ https://en.wikipedia.org/wiki/In-memory_database
 
 https://antirez.com/news/168
 
-
-
-## Priority Learning
-
-https://valkey.io/
-
-https://learning.oreilly.com/course/linux-fundamentals-2nd/9780137929313/
-
-Sander van Vugt
-Red Hat Certified System Administrator (RHCSA) RHEL 9
-https://learning.oreilly.com/course/red-hat-certified/9780137931521/
-Red Hat Certified Engineer (RHCE) EX294, 2nd Edition
-https://learning.oreilly.com/course/red-hat-certified/9780138271657/
-
-https://learning.oreilly.com/videos/red-hat-certified/9780137931521/9780137931521-RHL9_02_05_01/
 
 
 
