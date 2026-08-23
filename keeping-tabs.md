@@ -24,6 +24,83 @@ https://github.com/KatherineMichel/digital-commonplace/blob/master/conferences.m
 https://github.com/KatherineMichel/event-resources/blob/master/events.md
 -->
 
+## News Sites
+
+* [Techmeme](https://www.techmeme.com)
+* [InfoQ](https://www.infoq.com/)
+* [The New Stack](https://thenewstack.io/)
+
+## Trending
+
+General
+* [YCombinator](https://news.ycombinator.com/)
+* [Lobsters](https://lobste.rs/)
+
+<!--
+https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
+
+In operation
+https://fosstodon.org/@HackerNewsBot@m.einverne.info
+-->
+
+<!--
+## Stats
+
+Hacker News Stats
+https://hackernews-insight.vercel.app/user-analysis | Evidence
+https://hackernews-insight.vercel.app/keyword-analysis | Evidence
+https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
+
+GitHub Star History Graph 
+https://twitter.com/newsycombinator/status/1530625174114078721
+-->
+
+## GitHub Trending
+
+GitHub Trending
+* [GitHub Trending](https://github.com/trending)
+* [GitHub Developers](https://github.com/trending/developers )
+
+## Trending and Top of All Time
+
+Hacker News
+* [Hacker News Current Best](https://news.ycombinator.com/best) 
+* [Hacker News News](https://news.ycombinator.com/news)
+* [Hacker News Trending](https://hntrending.com)
+
+Top Videos
+* [Reddit Top Videos](https://redditvids.com/)
+
+Top Links of All Times
+* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
+* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
+* [Hacker News Classics](http://jsomers.net/hn)
+* [Hacker News Search Engine](https://hndex.org/) 
+* [Hacker News ML Search Engine](https://hndex.ml/)
+* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
+
+## Articles
+
+The Practical Dev and Hackernoon
+* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
+* [Hacker Noon](https://hackernoon.com)
+* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
+
+<!--
+## Aggregators
+
+https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
+
+## Trends
+
+https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
+
+https://stackshare.io/
+https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
+
+https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
+-->
+
 ## Travel
 
 * [Wichita Community Foundation](https://twitter.com/WichitaCF)
@@ -53,6 +130,9 @@ https://www.meetup.com/find/?location=us--tx--Frisco&source=EVENTS
 https://www.eventbrite.com/d/tx--plano/all-events/
 https://www.eventbrite.com/d/tx--frisco/all-events/
 
+https://www.dallaswe.org/
+https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
+
 https://www.meetup.com/find/?location=us--ks--Kansas+City&source=EVENTS
 https://www.eventbrite.com/d/ks--kansas-city/all-events/
 -->
@@ -73,21 +153,40 @@ Alumni
 * [Pitt State Alumni](https://www.pittstate.edu/alumni/events/index.html)
 * [Lancaster University Alumni London](https://www.facebook.com/groups/LancasterUniversityAlumniLondon/)
 
-### Dallas
-
-<!--
-https://www.dallaswe.org/
-https://www.meetup.com/dfwpython/welcome/join/ | Group Join | Meetup
--->
-
 ## Priority News
 
 <!--
 https://coredispatch.xyz/
 https://coredispatch.xyz/editions/2
 
+https://docs.python.org/3/whatsnew/index.html
+https://docs.python.org/3.16/whatsnew/3.16.html
+
 
 https://django-news.com/
+
+Django Fellow Reports
+https://forum.djangoproject.com/c/internals/5
+
+https://forum.djangoproject.com/
+https://www.djangoproject.com/weblog/2026/aug/05/django-61-released/
+https://www.djangoproject.com/weblog/2026/aug/04/security-releases/
+
+
+https://www.youtube.com/@PythonMorsels/videos
+
+https://realpython.com/
+https://www.youtube.com/@realpython
+
+https://realpython.com/python-news-june-2026/
+https://realpython.com/python-news-november-2025/
+
+
+https://testdriven.io/blog/
+https://testautomationu.applitools.com/
+https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html
+https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html
+
 
 Valkey News
 https://valkey-demo.oursqlcommunity.org/
@@ -102,14 +201,20 @@ https://x.com/RedHat
 https://forum.ansible.com/t/the-bullhorn-225/45736
 
 
-https://testdriven.io/blog/
+Big Book of Computing Pedagody 
+https://x.com/sheena_oconnell/status/2084942620175093836
+https://guildofeducators.org/join_us
+https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
 
-https://realpython.com/
-https://www.youtube.com/@realpython
-https://www.youtube.com/@PythonMorsels/videos
 
-https://realpython.com/python-news-june-2026/
-https://realpython.com/python-news-november-2025/
+## Databases and Caching
+
+DB-Engines Ranking
+https://db-engines.com/en/ranking
+
+https://en.wikipedia.org/wiki/In-memory_database
+
+https://antirez.com/news/168
 -->
 
 ## Priority Learning
@@ -416,14 +521,6 @@ Distributed System Articles
 https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
 
 
-Big Book of Computing Pedagody 
-https://x.com/sheena_oconnell/status/2084942620175093836
-https://guildofeducators.org/join_us
-https://downloads.ctfassets.net/oshmmv7kdjgm/5I0kitx6JdV2mhA00baN5P/abf448f0660817021ffaaaa6ece509ae/Hello_World_The_Big_Book_of_Pedagogy.pdf
-
-
-
-
 https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025/
 https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/
 
@@ -431,15 +528,6 @@ https://savannah.dev/posts/the-coolest-feature-in-314/
 
 
 
-Django Fellow Reports
-https://forum.djangoproject.com/c/internals/5
-
-https://docs.python.org/3/whatsnew/index.html
-https://docs.python.org/3.16/whatsnew/3.16.html
-
-https://forum.djangoproject.com/
-https://www.djangoproject.com/weblog/2026/aug/05/django-61-released/
-https://www.djangoproject.com/weblog/2026/aug/04/security-releases/
 
 https://www.djangoproject.com/foundation/teams/
 
@@ -555,6 +643,7 @@ http://linkedin.com/posts/william-s-vincent_should-django-q2-to-be-added-to-djan
 
 https://dev.to/mongodb/build-a-task-manager-with-django-mongodb-backend-5hd3
 
+
 Rust
 https://rustconf2026.sched.com/list/simple
 https://doc.rust-lang.org/book/
@@ -567,22 +656,6 @@ Rust re-writes
 https://github.com/malisper/pgrust
 https://github.com/calfonso/rusternetes
 https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html
-
-
-https://testautomationu.applitools.com/
-https://testing.googleblog.com/2007/01/introducing-testing-on-toilet.html
-https://testing.googleblog.com/2014/07/testing-on-toilet-dont-put-logic-in.html
-
-
-## Databases and Caching
-
-DB-Engines Ranking
-https://db-engines.com/en/ranking
-
-https://en.wikipedia.org/wiki/In-memory_database
-
-https://antirez.com/news/168
-
 
 
 
@@ -721,84 +794,7 @@ https://tldp.org/LDP/abs/html/aliases.html | Aliases
 -->
 
 
-## News Sites
 
-* [Techmeme](https://www.techmeme.com)
-* [InfoQ](https://www.infoq.com/)
-* [The New Stack](https://thenewstack.io/)
-
-## Trending
-
-General
-* [YCombinator](https://news.ycombinator.com/)
-* [Lobsters](https://lobste.rs/)
-
-<!--
-https://fosstodon.org/@hn50@social.lansky.name | Hacker News 50 (@hn50@social.lansky.name) - Fosstodon
-
-In operation
-https://fosstodon.org/@HackerNewsBot@m.einverne.info
--->
-
-<!--
-## Stats
-
-Hacker News Stats
-https://hackernews-insight.vercel.app/user-analysis | Evidence
-https://hackernews-insight.vercel.app/keyword-analysis | Evidence
-https://hn.algolia.com/?dateRange=all&page=2&prefix=false&query=&sort=byPopularity&type=story | All | Search powered by Algolia
-
-GitHub Star History Graph 
-https://twitter.com/newsycombinator/status/1530625174114078721
--->
-
-## GitHub Trending
-
-GitHub Trending
-* [GitHub Trending](https://github.com/trending)
-* [GitHub Developers](https://github.com/trending/developers )
-
-## Trending and Top of All Time
-
-Hacker News
-* [Hacker News Current Best](https://news.ycombinator.com/best) 
-* [Hacker News News](https://news.ycombinator.com/news)
-* [Hacker News Trending](https://hntrending.com)
-
-Top Videos
-* [Reddit Top Videos](https://redditvids.com/)
-
-Top Links of All Times
-* [Reddit Top Scoring Links of All Time](https://www.reddit.com/r/all/top/?sort=top&t=all)
-* [Hacker News Top Scoring Links of All Time](http://www.hntoplinks.com/all)
-* [Hacker News Classics](http://jsomers.net/hn)
-* [Hacker News Search Engine](https://hndex.org/) 
-* [Hacker News ML Search Engine](https://hndex.ml/)
-* [Indie Hackers All Time Popular](https://www.indiehackers.com/top/all-time)
-
-## Articles
-
-The Practical Dev and Hackernoon
-* [The Practical Dev](https://dev.to), [The Practical Dev GitHub](https://github.com/thepracticaldev), and [The Practical Dev Twitter](https://twitter.com/ThePracticalDev)
-* [Hacker Noon](https://hackernoon.com)
-* [Hacker Noon Top Stories](https://hackernoon.com/tagged/hackernoon-top-story)
-
-
-
-<!--
-## Aggregators
-
-https://hn.algolia.com/?dateRange=all&page=0&prefix=false&query=python&sort=byPopularity&type=story | All | Search powered by Algolia
-
-## Trends
-
-https://detailed.com/50/ | The 50 Best Blogs in the World (2020) - Detailed.com
-
-https://stackshare.io/
-https://stackshare.io/posts/top-developer-tools-2020#new | 🏆 The Top 100 Developer Tools of 2020 | StackShare
-
-https://bloggingfordevs.com/trends/ | Today's Best Developer Blogs on Any Tech Stack
--->
 
 
 <!--
