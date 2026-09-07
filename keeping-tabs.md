@@ -200,6 +200,8 @@ RedHat and Ansible
 https://x.com/RedHat
 https://forum.ansible.com/t/the-bullhorn-225/45736
 
+https://reg.experiences.redhat.com/flow/redhat/4632402/rhexpressregistration/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTN0250000463866
+
 
 Big Book of Computing Pedagody 
 https://x.com/sheena_oconnell/status/2084942620175093836
