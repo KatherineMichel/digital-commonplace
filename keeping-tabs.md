@@ -200,8 +200,6 @@ RedHat and Ansible
 https://x.com/RedHat
 https://forum.ansible.com/t/the-bullhorn-225/45736
 
-https://reg.experiences.redhat.com/flow/redhat/4632402/rhexpressregistration/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTN0250000463866
-
 
 Big Book of Computing Pedagody 
 https://x.com/sheena_oconnell/status/2084942620175093836
@@ -404,6 +402,8 @@ https://www.youtube.com/watch?v=pLyWLx0LGPA&list=PL2IJSbMPQuiMYQi5gqOvbFwFiry2fF
 <!--
 https://events.linuxfoundation.org/
 https://www.redhat.com/en/events
+
+https://reg.experiences.redhat.com/flow/redhat/4632402/rhexpressregistration/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTN0250000463866
 -->
 
 ## Distributed System and Database Events
@@ -1035,6 +1035,10 @@ Distributed
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 
 <!--
+Werner Vogels
+https://www.allthingsdistributed.com/
+https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html
+
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
 
 https://en.wikipedia.org/wiki/Distributed_computing
@@ -1654,9 +1658,6 @@ https://www.developing.dev/p/why-most-engineers-arent-10x-engineers
 
 https://jacobian.org/posts/ | Posts - Jacob Kaplan-Moss
 
-Werner Vogels
-https://www.allthingsdistributed.com/
-https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html
 
 Cal Paterson
 https://calpaterson.com
@@ -2019,6 +2020,32 @@ Gene Kim, Jez Humble, Patrick Debois, John Willis, Nicole Forsgren
 <!--
 https://learning.oreilly.com/library/view/devops-for-dummies/9781119552222/
 -->
+
+<!--
+## Managing Projects
+
+The Definition of Priority Codes (P0, P1, P2, P3, P4)
+https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technical-victor-pudeyev/
+
+
+## DevOps, SRE, and Incidents
+
+https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
+
+https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
+https://browser.engineering/ | Web Browser Engineering
+
+Browser
+https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
+
+https://incident.io/guide/ | Incident Management Guide
+
+
+## Google
+
+https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
+-->
+
 
 ## Patterns Books
 
@@ -2419,216 +2446,6 @@ https://twitter.com/johncutlefish/status/1660309006479683584 | John Cutler on X:
 http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html | Release Early, Release Often
 -->
 
-
-<!--
-AWS Global Certification Community
-https://aws-certification.influitive.com/forum/
-
-### Art
-
-https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
-
-## Pinax
-
-https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
-
-https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
-
-
-GitHub Mobile
-https://github.com/mobile | GitHub Mobile
-
-
-## CockroachDB University
-
-https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
-
-
-https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
-https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
--->
-
-
-<!--
-## Formal Annual Review
-
-Check Notes
-https://www.annualreview.life/ | The Ultimate Annual Review
-
-2022 Personal Annual Report
-https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
-https://fs.blog/annual-review/ | My Annual Report Framework
-
-
-https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
-
-L-shaped
-https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
-
-
-
-Growth Mindset
-https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
-
-## Skills
-
-https://jacobian.org/2020/mar/13/layoffs-are-coming/
-https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
-
-https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
-https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
-
-## Great at Self-Promotion
-
-## Adrienne
-
-https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
-https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
-
-## Kathleen
-
-https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
-
-https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
-https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
-https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
-https://github.com/kvignos | kvignos (Kathleen Vignos)
-
-
-## Timeboxing and Habit Tracking
-
-https://www.nirandfar.com/timeboxing/
-https://www.nirandfar.com/habit-tracker/
-https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
-
-## Mastery! 
-
-Very Important!
-https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
-https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
-https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
-
-
-
-## Survey
-
-https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosystem in 2022 Infographic | JetBrains: Developer Tools for Professionals and Teams
-
-## Mobile
-
-https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
-
-
-https://www.viktor.ai/white-papers/how-to-build-successful-apps
-
-Strip Mall User Research
-https://twitter.com/realEstateTrent/status/1692527765604434153 | StripMallGuy on X: "I secretly go on vacations to random US suburbs, and there is nothing like it! Just got back from one, and fired up. Let me explain: When you go to a place like Rome or Barcelona, you want to see as much as you can, experience the area like a local, and hit all the top spots.…" / X
-
-https://docs.google.com/document/d/1dnjXoHpVL5YmZTqVEC9b9JOfu6EzQiizZAHVAeDoIlo/edit#heading=h.qc1u3okpsxa2 | Mobile Application Risk Scoring - Google Docs
-
-https://github.com/readme/guides/finish-your-projects | Finish your projects
--->
-
-
-<!--
-https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
-
-
-Mind Tools
-* [Mind Tools](https://www.mindtools.com)
-
-
-https://www.mindtools.com/pages/article/newHTE_91.htm
-https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
-
-12 Ways to Get Smarter
-https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
-
-Memory
-* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
-
-
-Productivity
-* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
-
-
-Prioritization
-* [Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm)
-* [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
-
-https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
-
-
-Checklist Manifesto
-
-https://en.wikipedia.org/wiki/Pomodoro_Technique
-
-https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
-https://www.nngroup.com/articles/prioritization-matrices/
-
-
-Knowledge base
-
-
-## Goals
-
-Fear setting
-
-Marshall Goldsmith
-Habit Engineering
-
-https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
-
-https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
-
-https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
-
-## Learning
-
-Learning Methods
-* [Dr. Barbara Oakley: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
-
-https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
-
-http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
-
-
-Shipping/Makers
-
-
-
-## Engineering Management
-
-Andy Grove's 100 point guide to being a better manager
-http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
-
-
-## Managing Projects
-
-The Definition of Priority Codes (P0, P1, P2, P3, P4)
-https://www.linkedin.com/pulse/definition-priority-codes-p0-p1-p2-p3-p4-technical-victor-pudeyev/
-
--->
-
-
-<!--
-## DevOps, SRE, and Incidents
-
-https://stackoverflow.blog/2023/05/03/dont-panic-a-playbook-for-managing-any-production-incident/ | Don’t panic! A playbook for managing any production incident - Stack Overflow Blog
-
-https://about.gitlab.com/developer-survey/ | GitLab 2023 Global DevSecOps Report Series | GitLab
-https://browser.engineering/ | Web Browser Engineering
-
-Browser
-https://contrachrome.com/comic/page02/ | https://contrachrome.com/comic/page02/
-
-https://incident.io/guide/ | Incident Management Guide
-
-
-## Google
-
-https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
--->
 
 
 <!--
@@ -4904,6 +4721,188 @@ https://pyvideo.org/djangocon-europe-2021/keynote-spreading-our-tentacles-taking
 -->
 
 
+<!--
+AWS Global Certification Community
+https://aws-certification.influitive.com/forum/
+
+### Art
+
+https://www.facebook.com/groups/1837425689806040/ | Kansas Art Club | Facebook
+
+## Pinax
+
+https://twitter.com/paltman/status/1463686890494824464 | Patrick Altman on Twitter: "While I was doing some @pinaxproject work today, I decided to build some composite @GitHub Actions and I love how short and concise it leaves the individual app repos which will help maintain uniformity across 60 repos (once we get to them all). https://t.co/05OoyAREw1" / Twitter
+
+https://github.com/pinax/pinax-stripe/discussions/645 | What's Next · Discussion #645 · pinax/pinax-stripe
+
+
+GitHub Mobile
+https://github.com/mobile | GitHub Mobile
+
+
+## CockroachDB University
+
+https://github.com/KatherineMichel/pythonic-code/blob/main/cockroach-university-notes.md | pythonic-code/cockroach-university-notes.md at main · KatherineMichel/pythonic-code · GitHub
+
+
+https://web.archive.org/web/20210305012156/http://rpgbx.com/intro-to-notes | Intro to Notes — rpgbx
+https://drive.google.com/drive/u/0/folders/17LXP_f2Q5X7eOzQ7QaK-2lCkNk6f6MMR | Regina Gerbeaux Notes - Google Drive
+-->
+
+
+<!--
+## Formal Annual Review
+
+Check Notes
+https://www.annualreview.life/ | The Ultimate Annual Review
+
+2022 Personal Annual Report
+https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf | https://fsmisc.s3.ca-central-1.amazonaws.com/2022+AR.pdf
+https://fs.blog/annual-review/ | My Annual Report Framework
+
+
+https://jvns.ca/blog/brag-documents/ | Get your work recognized: write a brag document
+
+L-shaped
+https://en.wikipedia.org/wiki/T-shaped_skills | T-shaped skills - Wikipedia
+
+
+
+Growth Mindset
+https://fs.blog/carol-dweck-mindset/ | Carol Dweck: A Summary of The Two Mindsets
+
+## Skills
+
+https://jacobian.org/2020/mar/13/layoffs-are-coming/
+https://twitter.com/andrewgodwin/status/1528830167598174208 | Andrew Godwin on Twitter: "I hope nobody needs this advice, but it's good nonetheless - a recession is likely coming, and layoffs soon after." / Twitter
+
+https://jacobian.org/2022/nov/9/transition-files/ | You should maintain a transition file - Jacob Kaplan-Moss
+https://jacobian.org/help/ | Ways I'm available to help - Jacob Kaplan-Moss
+
+## Great at Self-Promotion
+
+## Adrienne
+
+https://twitter.com/jacobian/status/1587647683875205120 | jacobian on Twitter: "Adrienne is an amazing engineering manager and an all around great person. She knows how to Get Shit Done, and is extremely good supporting and developing her people." / Twitter
+https://twitter.com/adriennefriend/status/1587511926271217672 | adriennefriend on Twitter: "Exciting news part 2: I’m also happy to share that I am kicking off the search for my next engineering leadership role! 🎉🎉🎉 Read more about me, what I'm looking for, and recent testimonials from my direct reports and colleagues here: https://t.co/AnJQgYGesR" / Twitter
+
+## Kathleen
+
+https://www.linkedin.com/in/kvignos/details/experience/ | (99+) Experience | Kathleen Vignos | LinkedIn
+
+https://twitter.com/kathleencodes/status/1575307921067544578 | Kathleen Vignos on Twitter: "Full Circle Moment – A Story about Being Laid Off https://t.co/ndEBj9x47z" / Twitter
+https://kathleencodes.com/2022/09/29/full-circle-moment-a-story-about-being-laid-off/ | Full Circle Moment – A Story about Being Laid Off – Kathleen Codes
+https://twitter.com/kathleencodes | Kathleen Vignos (@kathleencodes) / Twitter
+https://github.com/kvignos | kvignos (Kathleen Vignos)
+
+
+## Timeboxing and Habit Tracking
+
+https://www.nirandfar.com/timeboxing/
+https://www.nirandfar.com/habit-tracker/
+https://twitter.com/nireyal/status/1576195697531125768 | Nir Eyal on Twitter: "2/ By timeboxing—planning what you’re going to do and when you’re going to do it—you can schedule leisure time into your day and enjoy it guilt-free. This article shows you how to get started with timeboxing: https://t.co/PBjOrOWhd2" / Twitter
+
+## Mastery! 
+
+Very Important!
+https://twitter.com/michael_nielsen/status/1074150124169773056 | michael_nielsen on Twitter: "Since reading this 6 months ago, I've come to think it's half a dozen of the best paragraphs I've ever read on how to get much, much better at anything: (by @autotrnslucence )… https://t.co/pcHEPYFes9"
+https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/ | Becoming a magician – Autotranslucence
+https://twitter.com/IAmAdamRobinson/status/1084121328192434176 | Adam Robinson on Twitter: "LISTEN UP! The FORMULA to master ANYTHING (whether athletic, social, SELF-mastery skills) = (1) rehearsing (= mindful effort) + (2) CONTINUAL experimenting (= mindful ADJUSTING efforts). SO, MOST IMPORTANT SKILL of ALL? MINDFULNESS (= AWARENESS, esp. self-awareness)."
+
+
+
+## Survey
+
+https://www.jetbrains.com/lp/devecosystem-2022/ | The State of Developer Ecosystem in 2022 Infographic | JetBrains: Developer Tools for Professionals and Teams
+
+## Mobile
+
+https://www.ntia.gov/sites/default/files/publications/mobileappecosystemreport.pdf | mobileappecosystemreport.pdf
+
+
+https://www.viktor.ai/white-papers/how-to-build-successful-apps
+
+Strip Mall User Research
+https://twitter.com/realEstateTrent/status/1692527765604434153 | StripMallGuy on X: "I secretly go on vacations to random US suburbs, and there is nothing like it! Just got back from one, and fired up. Let me explain: When you go to a place like Rome or Barcelona, you want to see as much as you can, experience the area like a local, and hit all the top spots.…" / X
+
+https://docs.google.com/document/d/1dnjXoHpVL5YmZTqVEC9b9JOfu6EzQiizZAHVAeDoIlo/edit#heading=h.qc1u3okpsxa2 | Mobile Application Risk Scoring - Google Docs
+
+https://github.com/readme/guides/finish-your-projects | Finish your projects
+-->
+
+
+<!--
+https://twitter.com/ValaAfshar/status/973111886303649792 | Vala Afshar on Twitter: "17 equations that changed the world https://t.co/IU5PSj02PU" / Twitter
+
+
+Mind Tools
+* [Mind Tools](https://www.mindtools.com)
+
+
+https://www.mindtools.com/pages/article/newHTE_91.htm
+https://hbr.org/resources/images/article_assets/2017/09/W170907_ZAOSANDERS_MAKETHE.png
+
+12 Ways to Get Smarter
+https://assets.weforum.org/editor/large_EVSCepGUSjXE0GKe9joi6gwC_E4xKXLgKxdbuwj14rw.jpg
+
+Memory
+* [Method of Loci Wikipedia](https://en.wikipedia.org/wiki/Method_of_loci)
+
+
+Productivity
+* [Cal Newport: Deep Work: Rules for Focused Success in a Distracted World](https://www.amazon.com/dp/1455586692)
+
+
+Prioritization
+* [Eisenhower Matrix](https://www.mindtools.com/pages/article/newHTE_91.htm)
+* [Eisenhower Matrix Canvas](http://www.eisenhower.me/eisenhower-matrix-canvas)
+
+https://www.eisenhower.me/eisenhower-matrix/ | The Eisenhower Matrix: Introduction & 3-Minute Video Tutorial
+
+
+Checklist Manifesto
+
+https://en.wikipedia.org/wiki/Pomodoro_Technique
+
+https://www.nngroup.com/ | Nielsen Norman Group: UX Training, Consulting, & Research
+https://www.nngroup.com/articles/prioritization-matrices/
+
+
+Knowledge base
+
+
+## Goals
+
+Fear setting
+
+Marshall Goldsmith
+Habit Engineering
+
+https://twitter.com/aaronchall/status/948208189518024704 | Aaron Hall, Contrary 🐍 Professor 🇺🇸 on Twitter: "No big deal, but be ambitious for personal growth in 2018. Make a list of everything you want to accomplish this year. Write it down. Put de… https://t.co/xLt13uICUA"
+
+https://twitter.com/aaronchall/status/959136138387755008 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Dream it. Write it down. Break it down, step by step. Write down the steps. Start checking them off. You can do it. I know you can. I believe in you. Now do it!"
+
+https://twitter.com/Monaayy/status/1079354704138772481 | Monisola. on Twitter: "One practical thing I did for myself in writing down my 2019 goals was (a) creating a separate standalone goal for each month and (b) making them small, achievable targets that could be met fairly quickly so that throughout the year, I constantly feel like I’m growing & winning."
+
+## Learning
+
+Learning Methods
+* [Dr. Barbara Oakley: "Learning How to Learn: Powerful mental tools to help you master tough subjects"](https://www.coursera.org/learn/learning-how-to-learn)
+
+https://twitter.com/aaronchall/status/955242113754632192 | Aaron Hall, 🐍 Professor, NYC, 🇺🇸 on Twitter: "Here's the 40 top characteristics of 20 People who became experts without formal training (from a biographical study) (Gibbons et.al. 1980). #expertise #education #learning #autodidacts #python… https://t.co/nit1wAE50B"
+
+http://www.excaliburtsa.org.uk/wp-content/uploads/2017/11/Self-regulated-learning-Bjork.pdf
+
+
+Shipping/Makers
+
+
+
+## Engineering Management
+
+Andy Grove's 100 point guide to being a better manager
+http://denis.papathanasiou.org/archive/2014.05.27.post.pdf
+-->
 
 
 ## Wichita Area Networking and Events
