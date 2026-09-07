@@ -274,10 +274,20 @@ https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Tal
 ## Python and Django Events
 
 <!--
-Starting in March
+Python Devroom @ FOSDEM 2026
+https://video.fosdem.org/2026/
+https://fosdem.org/2026/schedule/track/python/
+
+PyCon Namibia 2026
+
+Python Unplugged on PyTV
+https://lp.jetbrains.com/python-unplugged/
+https://www.youtube.com/watch?v=qKkyBhXIJJU
+https://www.youtube.com/watch?v=DkN7P4Cmto8&list=PLCTHcU1KoD99wZ0UjDhMtxweI1JL82kcb
 
 PyConf Hyderabad 2026
 https://2026.pyconfhyd.org/schedule
+https://www.youtube.com/watch?v=RehYogPYQ1U
 
 PyCascades 2026
 https://www.youtube.com/@PyCascades
@@ -299,9 +309,21 @@ https://www.youtube.com/pyconde
 https://www.youtube.com/watch?v=t0ZWNh-UXDs&list=PLefagiT9A8tA
 https://pretalx.com/pyconde-pydata-2026/schedule/
 
+DjangoCon Europe 2026
+https://www.youtube.com/@DjangoConEurope
+https://djangotv.com/videos/djangocon-europe/2026/ 
+
 PyTexas 2026
 https://www.youtube.com/pytexas
 https://www.pytexas.org/2026/schedule/#sunday
+
+PyCon Austria 2026
+https://www.youtube.com/@PyConAustria
+https://2026.pycon.at/talks-and-workshops/ 
+
+North Bay Python 2026
+https://www.youtube.com/@NorthBayPython
+https://pyvideo.org/events/north-bay-python-2026.html 
 
 Warsaw Python Pizza 2026
 https://www.youtube.com/@PythonPizza
@@ -318,6 +340,8 @@ PyCon Italia 2026
 https://www.youtube.com/@PythonItalia/videos
 https://2026.pycon.it/en/schedule/2026-05-27?view=grid
 
+Python Leiden User Group
+
 GeoPython 2026
 https://www.youtube.com/c/GeoPythonConference
 https://2026.geopython.net/
@@ -325,6 +349,8 @@ https://2026.geopython.net/
 PyCon Singapore 2026
 https://www.youtube.com/playlist?list=PLWJHJuy2_bRLoK2LdD4k8r-P1r2OCWHvc
 https://pycon.sg/schedule.html
+
+Python Norte 2026
 
 EuroPython 2026
 https://www.youtube.com/EuroPythonConference
@@ -343,6 +369,8 @@ Black Python Devs Leadership Summit 2026
 https://www.youtube.com/@blackpythondevs
 https://blackpythondevs.com/bpd-events/black-python-devs-leadership-summit-2026-ohio.html
 
+PyData PyCon Armenia 2026
+
 PyCon Colombia 2026
 https://www.youtube.com/pyconcolombia
 https://2026.pycon.co/schedule/
@@ -351,52 +379,35 @@ PyOhio 2026
 https://www.youtube.com/c/PyOhio
 https://www.pyohio.org/2026/program/schedule/
 
+PyCon Indonesia 2026
+Python Nordeste 2026 (PyNE 2026)
+
 PyCon Korea 2026
+https://www.youtube.com/c/pyconkrtube
+
+PyCon Ghana 2026
+PyCon Latam 2026
+https://www.youtube.com/@pyconlatam3804
+
 PyCon JP
+https://www.youtube.com/user/PyConJP
+https://tv.pycon.jp/
 
 DjangoCon US
+https://www.youtube.com/@DjangoConUS
+https://djangotv.com/videos/djangocon-us/2026/
 
 PyCon AU
 https://2026.pycon.org.au/
 https://2026.pycon.org.au/schedule/
 https://2026.pycon.org.au/schedule/specialist-tracks/platform-engineering/
+https://www.youtube.com/@PyConAU
 
-
-Python Events Page
-Python Devroom @ FOSDEM 2026
-PyCon Namibia 2026
-Python Unplugged on PyTV
-PyConf Hyderabad 2026
-PythonAsia 2026
-PyCascades 2026
-PyCon Lithuania 2026
-PyCon DE & PyData 2026
-DjangoCon Europe 2026
-PyTexas 2026
-PyCon Austria 2026
-North Bay Python 2026
-PyCon US 2026
-PyCon Italia 2026
-Python Leiden User Group
-GeoPython 2026
-PyCon Singapore 2026
-Python Norte 2026
-SciPy 2026
-EuroPython 2026
-EuroSciPy 2026
-PyData PyCon Armenia 2026
-PyOhio 2026
-PyCon Indonesia 2026
-Python Nordeste 2026 (PyNE 2026)
-PyCon Korea 2026
-PyCon Latam 2026
-PyCon Ghana 2026
-PyCon JP 2026
-DjangoCon US 2026
-PyCon AU 2026
 PyCon PL 2026
 PyCon Kenya 2026
 PyCon Portugal
+
+
 PyCon Togo 2026
 PyDay Boyacá 2026
 PyCon Cameroon 2026
