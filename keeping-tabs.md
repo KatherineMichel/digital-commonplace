@@ -274,6 +274,8 @@ https://techyaks.com/python-all-tytop.html | TechYaks - The Best Python Tech Tal
 ## Python and Django Events
 
 <!--
+Starting in March
+
 PyConf Hyderabad 2026
 https://2026.pyconfhyd.org/schedule
 
@@ -348,6 +350,91 @@ https://2026.pycon.co/schedule/
 PyOhio 2026
 https://www.youtube.com/c/PyOhio
 https://www.pyohio.org/2026/program/schedule/
+
+PyCon Korea 2026
+PyCon JP
+
+DjangoCon US
+
+PyCon AU
+https://2026.pycon.org.au/
+https://2026.pycon.org.au/schedule/
+https://2026.pycon.org.au/schedule/specialist-tracks/platform-engineering/
+
+PyCon PL
+
+PyCon Portugal
+PyBay
+PyCon Africa
+PyCon Greece
+PyCon NL
+PyCon Ireland
+Swiss Python Summit
+FastAPI Conf
+PyConFR
+PyCon ES
+Python Pizza Istanbul
+PyCon Sweden 2026
+SciPy India
+
+Python Events Page
+Python Devroom @ FOSDEM 2026
+PyCon Namibia 2026
+Python Unplugged on PyTV
+PyConf Hyderabad 2026
+PythonAsia 2026
+PyCascades 2026
+PyCon Lithuania 2026
+PyCon DE & PyData 2026
+DjangoCon Europe 2026
+PyTexas 2026
+PyCon Austria 2026
+North Bay Python 2026
+PyCon US 2026
+PyCon Italia 2026
+Python Leiden User Group
+GeoPython 2026
+PyCon Singapore 2026
+Python Norte 2026
+SciPy 2026
+EuroPython 2026
+EuroSciPy 2026
+PyData PyCon Armenia 2026
+PyOhio 2026
+PyCon Indonesia 2026
+Python Nordeste 2026 (PyNE 2026)
+PyCon Korea 2026
+PyCon Latam 2026
+PyCon Ghana 2026
+PyCon JP 2026
+DjangoCon US 2026
+PyCon AU 2026
+PyCon PL 2026
+PyCon Kenya 2026
+PyCon Togo 2026
+PyDay Boyacá 2026
+PyCon Cameroon 2026
+PyBay 2026
+PyCon Africa 2026
+PyCon Estonia 2026
+PyCon Greece 2026
+PyCon NL 2026
+PyCon Taiwan
+PyCon Ireland 2026
+Swiss Python Summit 2026
+PyHo 2026
+PyBeach 2026
+FastAPI Conf 2026
+PyConFR 2026
+PyCon ES 2026
+Python Pizza Istanbul
+XtremePython 2026
+PyCon Wroclaw 2026
+Python E-Commerce Forum
+SciPy India 2026
+PyCon Namibia 2027
+PyCon DE 2027
+PyCon Austria 2027
 -->
 
 <!--
