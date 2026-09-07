@@ -406,6 +406,8 @@ https://www.redhat.com/en/events
 https://reg.experiences.redhat.com/flow/redhat/4632402/rhexpressregistration/page/expressregistration?extIdCarryOver=true&sc_cid=RHCTN0250000463866
 -->
 
+
+
 ## Distributed System and Database Events
 
 <!--
@@ -515,13 +517,6 @@ https://www.enterpriseintegrationpatterns.com/ramblings/18_starbucks.html
 
 https://www.oreilly.com/videos/clean-code-fundamentals/9780134661742/
 https://exelearning.org/wiki/OttingersNaming/
-
-https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
-https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html
-
-Distributed System Articles
-https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
-
 
 https://blog.jetbrains.com/pycharm/2025/08/the-state-of-python-2025/
 https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/
@@ -965,6 +960,7 @@ Harry Percival
 https://learning.oreilly.com/library/view/test-driven-development-with/9781098148706/
 -->
 
+
 ## Performance and Optimization
 
 <!--
@@ -1035,9 +1031,15 @@ Distributed
 * [Fallacies of Distributed Computing Wikipedia](http://en.wikipedia.org/wiki/Fallacies_of_Distributed_Computing)  
 
 <!--
+https://en.wikipedia.org/wiki/Fallacies_of_distributed_computing
+
+Distributed System Articles
+https://www.linkedin.com/posts/fernando-franco-4696708_distributed-systems-fail-in-ways-a-single-activity-7490765256252850176-VCFx/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAOxk18BcgN6WcUZfIqPuO1XxHylxwxaOJ4
+
 Werner Vogels
 https://www.allthingsdistributed.com/
 https://www.allthingsdistributed.com/2025/11/tech-predictions-for-2026-and-beyond.html
+https://www.allthingsdistributed.com/2026/08/on-building-scalable-control-planes.html
 
 https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/6/html/performance_tuning_guide/distributed-systems
 
@@ -1806,112 +1808,34 @@ https://github.com/papers-we-love/papers-we-love/
 -->
 
 
-## Classic Books
-
-John Ousterhout
-* [A Philosophy of Software Design, 2nd Edition](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/)
-
-The Gang of Four
-* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
-
-Eric Evans
-* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
-
-David Thomas and Andrew Hunt
-* [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
-
-Steve McConnell
-* [Code Complete](https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/)
-
-Frederick P. Brooks Jr. 
-* [Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
-
 <!--
-https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
-https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
-https://cleancoders.com/ | Clean Coders: Level up your code.
-https://cleancoders.com/library/all | Clean Coders: Level up your code.
-
-Kent Beck
-https://www.amazon.com/stores/author/B000APC0EY
-https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
-https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
-https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
-
-Robert C. Martin
-https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
-Clean
-https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
-https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
-https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
-https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
-https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
-https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
-https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
-
-https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
-
-Martin Fowler
-https://martinfowler.com/books/
-https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
-https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
-https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
-https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
-
-https://martinfowler.com/architecture/ | Software Architecture Guide
-
-  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
-
-https://refactoring.com/catalog/changeValueToReference.html
-
-
-## Martin Fowler
-
-https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
-
-https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
-https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
-https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
-https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
-https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
-https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
-https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
-https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
-
-https://martinfowler.com/articles/collection-pipeline/
-
-https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
-
-
-https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
-
-Hanson, Chris, Sussman, Gerald Jay
-https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
-Software Design for Flexibility
-https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
-
-See README for associated course
-https://github.com/jeffhhk/SoftwareDesignForFlexibility
-
-Thinking in Systems
-https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
-Donella H. Meadows, Diana Wright
-https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
-
-## Leverage Points
-
-https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
-https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
--->
-
-## AI Books
-
-Addy Osmani
-* [Web Performance Engineering in the Age of AI](https://learning.oreilly.com/library/view/web-performance-engineering/9798341660182/)
-* [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
-
-<!--
-https://www.oreilly.com/pub/au/5271
+Ecology Chris Corriere
+Sociotechnical Platform Engineering
+https://www.youtube.com/watch?v=e_1X0pNGBMw
+Dave Snowden Keynote at DevOps Days Atlanta
+DevOps Days Dallas
+Agency x Autonomy
+What is a Platform? Cloud providers do the same thing.
+Wardley Mapping
+https://en.wikipedia.org/wiki/Wardley_map
+The Dynamics of Social Practice book
+Cynefin by Dave Snowden
+A Wardley Map of a Technical Need
+Vanilla Compost- Base Wardley Map
+Greentest- Bootstrapping & Verifying a Linux Environment
+DevOps: ICE CALMS (reducing friction to production)
+SRE: production stability (SLA, SLO, SLI, error budget)
+Site Reliability Engineering book
+Aligning DevOps and SRE Practices Across Platform Value Streams
+https://minimumcd.org/
+https://dora.dev/
+https://sre.google/books/
+Cloud Platform: DevOps Practices Map
+Cloud Platform: Reliability Practices Map
+Blameless Post-incident Reviews
+Canary releases
+Circuit breaker pattern
+Cloud spending
 -->
 
 ## Infrastructure Books
@@ -2046,6 +1970,114 @@ https://incident.io/guide/ | Incident Management Guide
 https://www.coursera.org/professional-certificates/google-it-automation | Google IT Automation with Python Professional Certificate | Coursera
 -->
 
+
+## Classic Books
+
+John Ousterhout
+* [A Philosophy of Software Design, 2nd Edition](https://www.amazon.com/Philosophy-Software-Design-2nd/dp/173210221X/)
+
+The Gang of Four
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://learning.oreilly.com/library/view/design-patterns-elements/0201633612/)
+
+Eric Evans
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software-ebook/dp/B00794TAUG)
+
+David Thomas and Andrew Hunt
+* [The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/the-pragmatic-programmer/9780135956977/)
+
+Steve McConnell
+* [Code Complete](https://learning.oreilly.com/library/view/code-complete-2nd/0735619670/)
+
+Frederick P. Brooks Jr. 
+* [Mythical Man-Month, The: Essays on Software Engineering, Anniversary Edition, 2nd Edition](https://learning.oreilly.com/library/view/mythical-man-month-the/0201835959/)
+
+<!--
+https://tidyfirst.substack.com/p/humans-data | Humans >> Data - by Kent Beck
+https://en.wikipedia.org/wiki/Extreme_programming | Extreme programming - Wikipedia
+https://cleancoders.com/ | Clean Coders: Level up your code.
+https://cleancoders.com/library/all | Clean Coders: Level up your code.
+
+Kent Beck
+https://www.amazon.com/stores/author/B000APC0EY
+https://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530/ref=monarch_sidesheet_title
+https://www.amazon.com/Implementation-Patterns-Addison-Wesley-Signature-Beck-ebook/dp/B0CY52FJDB
+https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change-ebook/dp/B00N1ZN6C0
+
+Robert C. Martin
+https://www.amazon.com/stores/Robert-C.-Martin/author/B000APG87E
+Clean
+https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship-ebook/dp/B001GSTOAM
+https://www.amazon.com/Clean-Architecture-Craftsmans-Software-Structure-ebook/dp/B075LRM681
+https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers-ebook/dp/B0050JLC9Y
+https://www.amazon.com/Clean-Agile-Basics-Robert-Martin-ebook/dp/B07XTL99JQ
+https://www.amazon.com/Clean-Craftsmanship-Disciplines-Standards-Ethics-ebook/dp/B095C16LSW
+https://www.amazon.com/We-Programmers-Chronicle-Coders-Robert-ebook/dp/B0DPSV5Q94
+https://www.amazon.com/Functional-Design-Principles-Patterns-Practices-ebook/dp/B0CGHQKGYG
+
+https://github.com/ittus/Refactoring-summary-2nd-javascript | ittus/Refactoring-summary-2nd-javascript: Summary of "Refactoring: Improving the Design of Existing Code (2nd Edition)" by Martin Fowler
+
+Martin Fowler
+https://martinfowler.com/books/
+https://www.amazon.com/stores/Martin-Fowler/author/B000AQ6PGM
+https://www.amazon.com/Domain-Specific-Languages-Addison-Wesley-Signature-Fowler-ebook/dp/B003ZUYJ3G
+https://www.amazon.com/UML-Distilled-Standard-Modeling-Language-ebook/dp/B000OZ0N8A
+https://www.amazon.com/Analysis-Patterns-Reusable-Object-Models-ebook/dp/B0186FU89I
+
+https://martinfowler.com/architecture/ | Software Architecture Guide
+
+  * [Martin Fowler: Microservices Resource Guide](https://martinfowler.com/microservices)
+
+https://refactoring.com/catalog/changeValueToReference.html
+
+
+## Martin Fowler
+
+https://martinfowler.com/bliki/DomainDrivenDesign.html | DomainDrivenDesign
+
+https://martinfowler.com/articles/uncovering-mainframe-seams.html | Uncovering the Seams in Mainframes for Incremental Modernisation
+https://martinfowler.com/bliki/TwoPizzaTeam.html | Two Pizza Team
+https://martinfowler.com/bliki/OutcomeOriented.html | Outcome Oriented
+https://martinfowler.com/bliki/ActivityOriented.html | Activity Oriented
+https://martinfowler.com/bliki/BusinessCapabilityCentric.html | Business Capability Centric
+https://martinfowler.com/articles/products-over-projects.html | Products Over Projects
+https://martinfowler.com/bliki/TeamTopologies.html | Team Topologies
+https://martinfowler.com/bliki/ConwaysLaw.html | Conway's Law
+
+https://martinfowler.com/articles/collection-pipeline/
+
+https://martinfowler.com/bliki/BranchByAbstraction.html | BranchByAbstraction
+
+
+https://shop.elsevier.com/books/computer-architecture/hennessy/978-0-443-15406-5
+
+Hanson, Chris, Sussman, Gerald Jay
+https://archive.org/details/software-design-for-flexibility_how-to-avoid-programming-yourself-into-a-corner_hanson_sussman/mode/2up
+Software Design for Flexibility
+https://en.wikipedia.org/wiki/Software_Design_for_Flexibility | Software Design for Flexibility - Wikipedia
+
+See README for associated course
+https://github.com/jeffhhk/SoftwareDesignForFlexibility
+
+Thinking in Systems
+https://twitter.com/sarah_edo/status/1597598815959527425 | https://twitter.com/sarah_edo/status/1597598815959527425
+Donella H. Meadows, Diana Wright
+https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557
+
+## Leverage Points
+
+https://donellameadows.org/archives/leverage-points-places-to-intervene-in-a-system/ | Leverage Points: Places to Intervene in a System - The Donella Meadows Project
+https://twitter.com/michael_nielsen/status/1635019874958462976 | Michael Nielsen on Twitter: "Donella Meadows, "Leverage Points: Places to Intervene in a System": https://t.co/sBX9GBzag2 A famous, difficult article. It's difficult in part because it's easy to be distracted by the (many) errors, &amp; miss what is valuable. But very stimulating!" / Twitter
+-->
+
+## AI Books
+
+Addy Osmani
+* [Web Performance Engineering in the Age of AI](https://learning.oreilly.com/library/view/web-performance-engineering/9798341660182/)
+* [Beyond Vibe Coding](https://learning.oreilly.com/library/view/beyond-vibe-coding/9798341634749/)
+
+<!--
+https://www.oreilly.com/pub/au/5271
+-->
 
 ## Patterns Books
 
