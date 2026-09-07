@@ -362,22 +362,6 @@ https://2026.pycon.org.au/schedule/
 https://2026.pycon.org.au/schedule/specialist-tracks/platform-engineering/
 
 
-PyCon PL
-
-PyCon Portugal
-PyBay
-PyCon Africa
-PyCon Greece
-PyCon NL
-PyCon Ireland
-Swiss Python Summit
-FastAPI Conf
-PyConFR
-PyCon ES
-Python Pizza Istanbul
-PyCon Sweden 2026
-SciPy India
-
 Python Events Page
 Python Devroom @ FOSDEM 2026
 PyCon Namibia 2026
@@ -412,6 +396,7 @@ DjangoCon US 2026
 PyCon AU 2026
 PyCon PL 2026
 PyCon Kenya 2026
+PyCon Portugal
 PyCon Togo 2026
 PyDay Boyacá 2026
 PyCon Cameroon 2026
@@ -430,6 +415,7 @@ PyConFR 2026
 PyCon ES 2026
 Python Pizza Istanbul
 XtremePython 2026
+PyCon Sweden 2026
 PyCon Wroclaw 2026
 Python E-Commerce Forum
 SciPy India 2026
